@@ -13,8 +13,10 @@ For every work in the manifest:
 2. Structure. Every content block ends with a unique ^id of at most three
    parts; headings start at '#', never skip a level and carry ^…-0 ids;
    every transclusion points at an id that exists in its target file.
-3. Alignment accounting. Blocks with transclusions, and transclusions per
-   block, are counted so a reviewer sees coverage at a glance.
+3. Numbers = transclusions. In a commentary built from written alignment
+   numbers, every numbered block must transclude exactly the root ids its
+   number names (after any human-decided ref_corrections), and an
+   unnumbered block nothing. Counted as numbered / matching.
 
 Exit status 1 if any work has missing letters, broken structure or dangling
 transclusions.
@@ -31,7 +33,7 @@ import yaml
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import docx_model                    # noqa: E402
 import openpecha_model               # noqa: E402
-from common import letters_only      # noqa: E402
+from common import letters_only, parse_ref_prefix      # noqa: E402
 
 ID_RE = re.compile(r"\s\^([A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\s*$")
 TRANS_RE = re.compile(r"^!\[\[(.+?)#\^([A-Za-z0-9-]+)\]\]$")
@@ -135,7 +137,29 @@ def main():
         extra = sum((out_letters - src_letters).values())
         if missing:
             problems.append(f"{missing} source letters missing from output")
-        rows.append({"key": spec["key"], "blocks": len(blocks), "headings": len(heads),
+        # numbers written in front of segments == transclusions
+        numbered = matching = 0
+        if spec["adapter"] == "ref_commentary" and spec.get("refs", "align") == "align" and not spec.get("ref_map"):
+            style = spec.get("ref_style", "dotted")
+            for bid, b in side["blocks"].items():
+                src = b.get("source") or {}
+                nums = []
+                if src.get("ref_correction"):
+                    nums = [str(x) for x in src["ref_correction"]["read_as"]]
+                elif src.get("typed_prefix"):
+                    r, _, _ = parse_ref_prefix(src["typed_prefix"].strip() + " x", style)
+                    nums = [str(x) for x in r or []]
+                if src.get("auto_number"):
+                    nums = [str(src["auto_number"])] + [n for n in nums if n != str(src["auto_number"])]
+                carried = not nums and b.get("targets")
+                if not nums and not carried:
+                    continue
+                numbered += 1
+                if carried or sorted(nums, key=int) == sorted(b.get("targets") or [], key=int):
+                    matching += 1
+            if matching != numbered:
+                problems.append(f"{numbered - matching} numbered blocks whose transclusions differ from their numbers")
+        rows.append({"key": spec["key"], "numbered": numbered, "matching": matching, "blocks": len(blocks), "headings": len(heads),
                      "transclusions": len(trans), "letters": sum(src_letters.values()),
                      "missing": missing, "extra": extra, "problems": problems, "trans": trans,
                      "target": spec.get("target")})
@@ -152,6 +176,7 @@ def main():
         print(f"{ok} {r['key']:{w}s} blocks={r['blocks']:5d} headings={r['headings']:3d} "
               f"transclusions={r['transclusions']:5d} letters={r['letters']:7d} "
               f"missing={r['missing']} extra={r['extra']}"
+              + (f" numbers==transclusions {r['matching']}/{r['numbered']}" if r["numbered"] else "")
               + ("" if not r["problems"] else "  ← " + "; ".join(r["problems"])))
     sys.exit(1 if failed else 0)
 
