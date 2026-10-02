@@ -1,0 +1,59 @@
+{
+ "bdrc": "WA0RT3162",
+ "wiki": null,
+ "type": "none",
+ "contributions": [
+  {
+   "person_id": "Zw1rUpqBTlqeVRhRvuWnc",
+   "person_bdrc_id": "P7641",
+   "role": "author",
+   "person_name": {
+    "bo": "ཀ་མ་ལ་ཤཱི་ལ།",
+    "en": "kamalashila",
+    "sa": "Jayasena"
+   },
+   "alt_names": [
+    {
+     "en": "kamalashila"
+    },
+    {
+     "bo": "ཀ་མ་ལ་ཤཱི་ལ།"
+    }
+   ]
+  },
+  {
+   "person_id": "d3TrVXpf5dx18POIta3wY",
+   "person_bdrc_id": "P8205",
+   "role": "translator",
+   "person_name": {
+    "bo": "སྣ་ནམ་བཙུན་པ་ཡེ་ཤེས་སྡེ།"
+   },
+   "alt_names": [
+    {
+     "bo": "ཞང་སྣ་ནམ་ཡེ་ཤེས་སྡེ།"
+    },
+    {
+     "bo": "ཡེ་ཤེས་སྡེ།"
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "title": {
+  "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།"
+ },
+ "alt_titles": [
+  {
+   "bo": "ཤེར་ཕྱིན་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།"
+  },
+  {
+   "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།"
+  }
+ ],
+ "language": "bo",
+ "target": null,
+ "category_id": "D91TlgRqpZGCOfywaHRvV",
+ "copyright": "Public domain",
+ "license": "Public Domain Mark",
+ "id": "93udYd4MdkVJ1NK9gLNEi"
+}

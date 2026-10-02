@@ -1,0 +1,49 @@
+{
+ "note": "Indian commentaries on the root, copied from Nalanda-texts-rails on 2026-10-02. Not linked or aligned to the root upstream.",
+ "texts": [
+  {
+   "text_id": "SNN7rW1hmwTzroG8hxrjc",
+   "bdrc": "WA0RT3161",
+   "title": {
+    "bo": "འཕགས་པ་བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ།"
+   },
+   "work_en": "Extensive Commentary on the Seven Topics of the Vajracchedikā",
+   "work_skt": "Āryabhagavatīprajñāpāramitāvajracchedikāyāḥ Saptārthaṭīkā",
+   "author": "Vasubandhu",
+   "author_evidence": "metadata, colophon ^896",
+   "openpecha_api": "openpecha-api/texts/SNN7rW1hmwTzroG8hxrjc/",
+   "copied_from": "Nalanda-texts-rails/0-INBOX/raw-data/openpecha-api/texts/SNN7rW1hmwTzroG8hxrjc/",
+   "printed_file": "nalanda-printed/Va_3CE4.md",
+   "printed_copied_from": "Nalanda-texts-rails/1-SOURCES/Text/Va_3CE4.md",
+   "printed_source_docx": "Book No 65) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ག༽ .docx",
+   "printed_work_url": "https://wb.pub/3CE4",
+   "link_upstream": "none — standalone text (type 'none'); not aligned to the root",
+   "printed_pandita": "10-Vasubandhu"
+  },
+  {
+   "text_id": "93udYd4MdkVJ1NK9gLNEi",
+   "bdrc": "WA0RT3162",
+   "title": {
+    "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།"
+   },
+   "work_en": "Extensive Commentary on the Vajracchedikā in the Madhyamaka Manner",
+   "work_skt": "Āryaprajñāpāramitāvajracchedikāṭīkā",
+   "author": "Kamalaśīla",
+   "author_evidence": "metadata, colophon ^2088",
+   "openpecha_api": "openpecha-api/texts/93udYd4MdkVJ1NK9gLNEi/",
+   "copied_from": "Nalanda-texts-rails/0-INBOX/raw-data/openpecha-api/texts/93udYd4MdkVJ1NK9gLNEi/",
+   "printed_file": "nalanda-printed/Ka_3CDH.md",
+   "printed_copied_from": "Nalanda-texts-rails/1-SOURCES/Text/Ka_3CDH.md",
+   "printed_source_docx": "Book No 46) ཀ་མ་ལ་ཤཱི་ལའི་གསུང་འབུམ། ཀ༽ .docx",
+   "printed_work_url": "https://wb.pub/3CDH",
+   "link_upstream": "none — standalone text (type 'none'); not aligned to the root",
+   "printed_pandita": "08-Kamalashila",
+   "same_work_in_tree": {
+    "text_id": "dnFy5O0ji9QDgE1Wh1IR7",
+    "inventory_row": 8,
+    "shared_6gram_share": 0.997,
+    "note": "same work; the tree copy is linked to the root upstream"
+   }
+  }
+ ]
+}

@@ -26,8 +26,22 @@ source_description: "Index of the verbatim OpenPecha backend API v2 download in 
 | 5 | commentary of #1 | Literary Chinese | 金剛般若波羅蜜經論 | `gRRECLslNb5yg3Hg7lBpX` | unknown · unknown | 25,768 | 75 | ✓ 39 ↔ 39 |  |
 | 6 | translation | Modern Chinese | 《金剛般若波羅蜜經》白話 | `CudRcM2Y8ZUlGY55GP0cg` | unknown · unknown | 9,560 | 112 | — none upstream | **near-identical to #2 (2 chars differ)** |
 | 7 | commentary | Tibetan | འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། (Commentary) | `pR5GpBvpuXeqfkM0A7ay7` | bdrc.io · unknown | 97,568 | 300 | — none upstream | **same content as #9** |
-| 8 | commentary | Tibetan | འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ། | `dnFy5O0ji9QDgE1Wh1IR7` | bdrc.io · Public Domain Mark | 209,039 | 1915 | ✓ 228 ↔ 228 |  |
+| 8 | commentary | Tibetan | འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ། | `dnFy5O0ji9QDgE1Wh1IR7` | bdrc.io · Public Domain Mark | 209,039 | 1915 | ✓ 228 ↔ 228 | **same work as Kamalaśīla's Extensive Commentary on the Vajracchedikā in the Madhyamaka Manner (see Indian commentaries below)** |
 | 9 | commentary | Tibetan | རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ། | `eMxgLFLT1xz6OOgpsY1h7` | bdrc.io · Public Domain Mark | 97,568 | 300 | ✓ 198 ↔ 198 | **same content as #7** |
+
+## Indian commentaries (not linked upstream)
+
+These were copied from `Nalanda-texts-rails`. Upstream they are standalone texts, so they are **not aligned** to the root. Each comes in two versions:
+
+- the OpenPecha API JSON, in `raw-data/openpecha-api/texts/<text_id>/`;
+- the printed-book version, in `raw-data/nalanda-printed/` (the version Nalanda-texts-rails now keeps in `1-SOURCES/Text/`).
+
+The author attributions come from Nalanda-texts-rails' identification triage, which is not verified. Details are in `raw-data/openpecha-api/unlinked-commentaries.json`.
+
+| Work | Author | Tibetan title | API text | Printed version |
+|---|---|---|---|---|
+| Extensive Commentary on the Seven Topics of the Vajracchedikā | Vasubandhu | འཕགས་པ་བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ། | `SNN7rW1hmwTzroG8hxrjc` (BDRC `WA0RT3161`) · 81,520 chars | `raw-data/nalanda-printed/Va_3CE4.md` ([3CE4](https://wb.pub/3CE4)) |
+| Extensive Commentary on the Vajracchedikā in the Madhyamaka Manner — **same work as #8**, which is aligned | Kamalaśīla | འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ། | `93udYd4MdkVJ1NK9gLNEi` (BDRC `WA0RT3162`) · 207,131 chars | `raw-data/nalanda-printed/Ka_3CDH.md` ([3CDH](https://wb.pub/3CDH)) |
 
 ## Not downloaded
 
