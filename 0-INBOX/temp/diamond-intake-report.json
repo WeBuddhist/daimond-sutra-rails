@@ -1,0 +1,485 @@
+[
+ {
+  "key": "bo-root",
+  "path": "1-SOURCES/Text/bo-vajracchedika.md",
+  "adapter": "rows",
+  "blocks": 430,
+  "ids": "1..430",
+  "transclusions": 0
+ },
+ {
+  "key": "lzh-kumarajiva",
+  "path": "1-SOURCES/Translations/lzh-kumarajiva.md",
+  "adapter": "numbered",
+  "title_text": "金剛般若波羅蜜經",
+  "blocks": 127,
+  "aligned_rows": 368,
+  "unmapped_rows": [
+   {
+    "row": 1,
+    "text": "金剛般若波羅蜜經"
+   }
+  ],
+  "headings": 32,
+  "ids": "1..127",
+  "transclusions": 376
+ },
+ {
+  "key": "lzh-kumarajiva-bo",
+  "path": "1-SOURCES/Translations/lzh-kumarajiva-tibetan-order.md",
+  "adapter": "parallel",
+  "blocks": 369,
+  "rows": 431,
+  "identity_alignment": true,
+  "rows_without_counterpart": [
+   2,
+   3,
+   4,
+   10,
+   11,
+   12,
+   17,
+   27,
+   31,
+   34,
+   57,
+   65,
+   72,
+   86,
+   91,
+   93,
+   98,
+   101,
+   102,
+   108,
+   109,
+   127,
+   133,
+   138,
+   141,
+   146,
+   150,
+   151,
+   152,
+   163,
+   164,
+   170,
+   202,
+   204,
+   211,
+   212,
+   213,
+   232,
+   238,
+   241,
+   255,
+   275,
+   287,
+   319,
+   323,
+   324,
+   326,
+   341,
+   349,
+   350,
+   369,
+   375,
+   377,
+   378,
+   379,
+   384,
+   400,
+   423,
+   427,
+   429,
+   430
+  ],
+  "unmapped_rows": [],
+  "ids": "1..428",
+  "transclusions": 369
+ },
+ {
+  "key": "zh-baihua",
+  "path": "1-SOURCES/Translations/zh-baihua.md",
+  "adapter": "op_translation",
+  "title_segment": "《金剛般若波羅蜜經》",
+  "headings": 32,
+  "blocks": 76,
+  "openpecha_segments": 112,
+  "unmapped_segments": [],
+  "projection": {
+   "letters_a": 5430,
+   "letters_b": 5164,
+   "matched": 5164,
+   "skipped_a": 266,
+   "skipped_b": 0
+  },
+  "ids": "1..125",
+  "transclusions": 127
+ },
+ {
+  "key": "lzh-bodhiruci",
+  "path": "1-SOURCES/Translations/lzh-bodhiruci.md",
+  "adapter": "rows",
+  "blocks": 37,
+  "ids": "1..75",
+  "transclusions": 0
+ },
+ {
+  "key": "lzh-huineng",
+  "path": "1-SOURCES/Commentaries/lzh-huineng-jieyi.md",
+  "adapter": "ref_commentary",
+  "title_text": "金剛經解義",
+  "blocks": 256,
+  "headings": 32,
+  "blocks_with_refs": 126,
+  "auto_numbered_refs": 7,
+  "candidate_refs": 0,
+  "lemma_blocks": 129,
+  "tsadrel_rows_with_root": 129,
+  "tsadrel_agreement_with_typed_refs": "125/126",
+  "ids": "1-1..32-5",
+  "transclusions": 181
+ },
+ {
+  "key": "lzh-vasubandhu-lun",
+  "path": "1-SOURCES/Commentaries/lzh-vasubandhu-lun.md",
+  "adapter": "ref_commentary",
+  "title_text": "金剛般若波羅蜜經論",
+  "blocks": 448,
+  "headings": 0,
+  "blocks_with_refs": 143,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 45,
+  "tsadrel_rows_with_root": 37,
+  "tsadrel_agreement_with_typed_refs": "5/5",
+  "ids": "0-1..0-448",
+  "transclusions": 356
+ },
+ {
+  "key": "lzh-asanga-lun",
+  "path": "1-SOURCES/Commentaries/lzh-asanga-lun.md",
+  "adapter": "ref_commentary",
+  "title_text": "金剛般若波羅蜜經論",
+  "blocks": 298,
+  "headings": 0,
+  "blocks_with_refs": 113,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 95,
+  "ids": "0-1..0-298",
+  "transclusions": 256
+ },
+ {
+  "key": "lzh-zongle-zhujie",
+  "path": "1-SOURCES/Commentaries/lzh-zongle-zhujie.md",
+  "adapter": "ref_commentary",
+  "title_text": "金剛般若波羅蜜經註解",
+  "blocks": 237,
+  "headings": 27,
+  "blocks_with_refs": 143,
+  "auto_numbered_refs": 3,
+  "candidate_refs": 0,
+  "lemma_blocks": 85,
+  "tsadrel_rows_with_root": 83,
+  "tsadrel_agreement_with_typed_refs": "78/81",
+  "ids": "0-1..27-5",
+  "transclusions": 225
+ },
+ {
+  "key": "lzh-gunada-pojuzhe",
+  "path": "1-SOURCES/Commentaries/lzh-gunada-pojuzhe.md",
+  "adapter": "ref_commentary",
+  "title_text": "金剛般若波羅蜜經破取著不壞假名論",
+  "blocks": 146,
+  "headings": 0,
+  "blocks_with_refs": 123,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 0,
+  "tsadrel_rows_with_root": 57,
+  "tsadrel_agreement_with_typed_refs": "55/55",
+  "ids": "0-1..0-146",
+  "transclusions": 185
+ },
+ {
+  "key": "lzh-taixu-yimai",
+  "path": "1-SOURCES/Commentaries/lzh-taixu-yimai.md",
+  "adapter": "ref_commentary",
+  "title_text": "金剛般若波羅蜜經義脈",
+  "blocks": 43,
+  "headings": 21,
+  "blocks_with_refs": 20,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 0,
+  "tsadrel_rows_with_root": 17,
+  "tsadrel_agreement_with_typed_refs": "14/16",
+  "ids": "1-1..21-2",
+  "transclusions": 364
+ },
+ {
+  "key": "lzh-tanxu-jiangyi",
+  "path": "1-SOURCES/Commentaries/lzh-tanxu-jiangyi.md",
+  "adapter": "ref_commentary",
+  "title_text": "金剛般若波羅密經講義　",
+  "blocks": 210,
+  "headings": 1,
+  "blocks_with_refs": 129,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 71,
+  "tsadrel_rows_with_root": 71,
+  "tsadrel_agreement_with_typed_refs": "68/68",
+  "ids": "1-1..1-210",
+  "transclusions": 171
+ },
+ {
+  "key": "zh-hsingyun-jianghua",
+  "path": "1-SOURCES/Commentaries/zh-hsingyun-jianghua.md",
+  "adapter": "ref_commentary",
+  "title_text": "金剛經講話   ",
+  "blocks": 3182,
+  "headings": 96,
+  "blocks_with_refs": 459,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 178,
+  "ids": "0-1..96-64",
+  "transclusions": 741
+ },
+ {
+  "key": "zh-shengyen-jiangji",
+  "path": "1-SOURCES/Commentaries/zh-shengyen-jiangji.md",
+  "adapter": "ref_commentary",
+  "title_text": "《金剛經》講記",
+  "blocks": 275,
+  "headings": 27,
+  "blocks_with_refs": 0,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 114,
+  "lemma_blocks": 0,
+  "ids": "1-1..4-8",
+  "transclusions": 0
+ },
+ {
+  "key": "lzh-jizang-shu",
+  "path": "1-SOURCES/Commentaries/lzh-jizang-shu.md",
+  "adapter": "ref_commentary",
+  "title_text": "金剛般若疏",
+  "blocks": 88,
+  "headings": 1,
+  "blocks_with_refs": 0,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 0,
+  "excluded_paragraphs": 21,
+  "ids": "1-1..1-88",
+  "transclusions": 0
+ },
+ {
+  "key": "sa-vajracchedika",
+  "path": "1-SOURCES/Translations/sa-vajracchedika.md",
+  "adapter": "parallel",
+  "blocks": 423,
+  "rows": 435,
+  "identity_alignment": false,
+  "rows_without_counterpart": [
+   2,
+   3,
+   108,
+   109,
+   276
+  ],
+  "unmapped_rows": [
+   {
+    "row": 216,
+    "text": "न रूपशब्दगन्धरसस्पर्शधर्मप्रतिष्ठितेन दानं दातव्यम्॥",
+    "kept_in_block": "215"
+   },
+   {
+    "row": 311,
+    "text": "भगवानाह-तत्किं मन्यसे सुभूते यावन्त्यो गङ्गायां महानद्यां वालुकाः, अपि नु ता वालुकास्तथागतेन भाषिताः ? सुभूतिराह-एवमेतद्भगवन्, एवमेतत् सुगत। भाषितास्तथागतेन वालुकाः। ",
+    "kept_in_block": "309"
+   },
+   {
+    "row": 376,
+    "text": "यथाहं भगवतो भाषितस्यार्थमाजानामि, ",
+    "kept_in_block": "373"
+   },
+   {
+    "row": 379,
+    "text": "एवमेतद्यथा वदसि। ",
+    "kept_in_block": "375"
+   },
+   {
+    "row": 420,
+    "text": "न सम्यग्वदमानो वदेत्। ",
+    "kept_in_block": "415"
+   },
+   {
+    "row": 431,
+    "text": "तथा प्रकाशयेत्, तेनोच्यते संप्रकाशयेदिति॥",
+    "kept_in_block": "425"
+   }
+  ],
+  "ids": "1..428",
+  "transclusions": 425
+ },
+ {
+  "key": "bo-vasubandhu",
+  "path": "1-SOURCES/Commentaries/bo-vasubandhu-saptartha-tika.md",
+  "adapter": "ref_commentary",
+  "ref_map:རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text.docx": {
+   "numbers": 431,
+   "unlocated": [],
+   "inferred_by_position": {
+    "146": [
+     "146"
+    ]
+   }
+  },
+  "title_text": "༄༅། །འཕགས་པ་བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ། ",
+  "blocks": 423,
+  "headings": 38,
+  "blocks_with_refs": 366,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 43,
+  "overlay:openpecha_notes:SNN7rW1hmwTzroG8hxrjc": {
+   "placed": 16,
+   "unplaced": 1,
+   "projection": {
+    "letters_a": 58069,
+    "letters_b": 58000,
+    "matched": 57933,
+    "skipped_a": 136,
+    "skipped_b": 67
+   }
+  },
+  "ids": "1-1..2-311",
+  "transclusions": 392
+ },
+ {
+  "key": "bo-chone",
+  "path": "1-SOURCES/Commentaries/bo-chone-drakpa-shedrub.md",
+  "adapter": "ref_commentary",
+  "ref_map:རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text.docx": {
+   "numbers": 431,
+   "unlocated": [],
+   "inferred_by_position": {
+    "146": [
+     "146"
+    ]
+   }
+  },
+  "title_text": "རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།། ",
+  "unresolved_refs": [
+   189190,
+   189190,
+   189190
+  ],
+  "blocks": 366,
+  "headings": 8,
+  "blocks_with_refs": 349,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 0,
+  "overlay:openpecha_alignment:eMxgLFLT1xz6OOgpsY1h7": {
+   "placed": 183,
+   "unplaced": 15,
+   "projection": {
+    "letters_a": 69810,
+    "letters_b": 69746,
+    "matched": 69636,
+    "skipped_a": 174,
+    "skipped_b": 110
+   }
+  },
+  "ref_map:རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text - original.docx": {
+   "numbers": 489,
+   "unlocated": [],
+   "inferred_by_position": {
+    "174": [
+     "146"
+    ]
+   }
+  },
+  "overlay:refs_doc:older alignment (D2, 489-row numbering)": {
+   "placed": 342,
+   "unplaced": 12
+  },
+  "ids": "0-1..3-11",
+  "transclusions": 1026
+ },
+ {
+  "key": "bo-kamalasila",
+  "path": "1-SOURCES/Commentaries/bo-kamalasila-tika.md",
+  "adapter": "ref_commentary",
+  "ref_map:རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text.docx": {
+   "numbers": 431,
+   "unlocated": [],
+   "inferred_by_position": {
+    "146": [
+     "146"
+    ]
+   }
+  },
+  "title_text": "༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།",
+  "blocks": 287,
+  "headings": 43,
+  "blocks_with_refs": 268,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 0,
+  "lemma_blocks": 0,
+  "overlay:openpecha_alignment:dnFy5O0ji9QDgE1Wh1IR7": {
+   "placed": 226,
+   "unplaced": 2,
+   "projection": {
+    "letters_a": 147794,
+    "letters_b": 146667,
+    "matched": 146534,
+    "skipped_a": 1260,
+    "skipped_b": 133
+   }
+  },
+  "overlay:openpecha_notes:93udYd4MdkVJ1NK9gLNEi": {
+   "placed": 997,
+   "unplaced": 18,
+   "projection": {
+    "letters_a": 146775,
+    "letters_b": 146667,
+    "matched": 146615,
+    "skipped_a": 160,
+    "skipped_b": 52
+   }
+  },
+  "overlay:formatting:A5__RF161D626 རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ། - Sentence-Segm.docx": {
+   "placed": 2,
+   "unplaced": 0,
+   "projection": {
+    "letters_a": 147726,
+    "letters_b": 146667,
+    "matched": 146534,
+    "skipped_a": 1192,
+    "skipped_b": 133
+   }
+  },
+  "ids": "1-1..3-283",
+  "transclusions": 290
+ },
+ {
+  "key": "bo-asanga-karika",
+  "path": "1-SOURCES/Commentaries/bo-asanga-rtsa-grel.md",
+  "adapter": "ref_commentary",
+  "blocks": 79,
+  "headings": 0,
+  "blocks_with_refs": 0,
+  "auto_numbered_refs": 0,
+  "candidate_refs": 6,
+  "lemma_blocks": 0,
+  "ids": "0-1..0-79",
+  "transclusions": 0
+ }
+]

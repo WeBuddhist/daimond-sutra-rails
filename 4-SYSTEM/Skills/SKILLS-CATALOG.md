@@ -42,6 +42,12 @@ The same for commentary exports, handling the heading and verse-key structure co
 Brings one raw OCR or segmentation file into `1-SOURCES/` as a cleaned, frontmattered root text or commentary — the first step of the ingest chain.
 → [`raw-to-sources/SKILL.md`](raw-to-sources/SKILL.md)
 
+### `aligned-corpus-intake` **[exists]**
+Converts a human-segmented, human-aligned corpus — OpenPecha API downloads and Dzongsar-style Google-Docs exports (Tsadel/Tsadrel line-parallel alignments, sentence segmentations, citation and *sa bcad* TOC docs, numbered alignment references, metadata sheets) — into publishable `1-SOURCES/` root texts, translations and commentaries with headings, block ids and transclusions, plus a lossless annotation sidecar per file. Manifest-driven; a verifier proves no source letter was lost.
+**Inputs:** raw data in `0-INBOX/raw-data/` and an intake manifest listing each work and its raw files.
+**Outputs:** `1-SOURCES/{Text,Translations,Commentaries}/*.md`, `1-SOURCES/Annotations/*.annotations.json`, an intake report in `0-INBOX/`.
+→ [`aligned-corpus-intake/SKILL.md`](aligned-corpus-intake/SKILL.md)
+
 ### `clean-raw-text`
 Inspects a raw text for **mechanical** damage — page markers, running headers, OCR index numbers, stray spacing, encoding artefacts — profiles what it finds, and applies a reviewed cleanup. Never touches wording.
 → [`clean-raw-text/SKILL.md`](clean-raw-text/SKILL.md)

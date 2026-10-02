@@ -1,159 +1,108 @@
-# Vault Annex — [text-slug] conventions
+# Vault Annex — diamond-sutra conventions
 
-The methodology guidelines (`0-VAULT-Structure.md`, `../../1-SOURCES/About Sources.md`, `../../2-RAILS/About Rails.md`, `../../3-TRANSFORMATIONS/About Transformations.md`) are **text-agnostic** — they apply to any Railroads vault built on any classical text. This annex records the conventions that are specific to *this* vault: **[name of text]**.
+The methodology guidelines (`0-VAULT-Structure.md`, `../../1-SOURCES/About Sources.md`, `../../2-RAILS/About Rails.md`, `../../3-TRANSFORMATIONS/About Transformations.md`) are **text-agnostic** — they apply to any Railroads vault built on any classical text. This annex records the conventions that are specific to *this* vault: **the Diamond Sūtra (Vajracchedikā Prajñāpāramitā Sūtra)**.
 
 When the Guidelines and this annex disagree on a vault-specific detail, this annex wins — **for the points it actually states**. Everything it does not state follows the defaults unchanged.
 
-This file may be renamed for its text (`<text-slug>-annex.md`) as long as `README.md` and `4-SYSTEM/CLAUDE.md` link to it.
-
-> **Template instructions:** Fill in each section below, replacing all `[placeholder]` text. Delete this instruction block when done.
+> **Status (2026-10-02):** sections 1, 2, 3, 3a and 7 were filled by the `aligned-corpus-intake` skill from the raw data's own metadata when the corpus was first ingested. They state facts of the ingest, not editorial choices — but a human contributor should review them. Sections 4–6 have nothing to record yet.
 
 ---
 
 ## 1. The text
 
-This vault serves **[name of text]** — [one-sentence description of the text and its tradition].
+This vault serves **the Diamond Sūtra** — *Vajracchedikā Prajñāpāramitā Sūtra* (Tib. *'phags pa shes rab kyi pha rol tu phyin pa rdo rje gcod pa*, Chin. 金剛般若波羅蜜經), a Mahāyāna Perfection of Wisdom sūtra, read here through its Tibetan Kangyur translation with its Indian, Tibetan and Chinese commentaries.
 
-Source-text files in `1-SOURCES/Text/` correspond to the following books / volumes:
+The root is the Tibetan text. The Chinese commentaries comment on Kumārajīva's Chinese translation (and one on Bodhiruci's), so the Chinese translation is in turn the root of those commentaries.
 
-| Order | Book / Volume | Filename |
-| ----- | ------------- | -------- |
-| 1 | [Title] | `[lang]-[slug].md` |
-| 2 | [Title] | `[lang]-[slug].md` |
+| Order | Work | Filename |
+| ----- | ---- | -------- |
+| 1 | འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། (Tibetan root) | `1-SOURCES/Text/bo-vajracchedika.md` |
+| 2 | 金剛般若波羅蜜經, Kumārajīva (Chinese root of the Chinese commentaries) | `1-SOURCES/Translations/lzh-kumarajiva.md` |
 
-Only books that have been ingested are present in the folder. The primary text currently being railed out is **[book / chapter]**.
+Provenance of every file: its `raw_sources:` frontmatter and `0-INBOX/diamond-sutra-intake-report.md`.
 
 ---
 
 ## 2. Addressing scheme
 
-[Describe how block IDs are structured for this text. Use one of the standard schemes from `1-SOURCES/About Sources.md` §5, or document a custom scheme here if the text's structure requires it.]
+### Root text and its row-aligned translations — flat `^N`
 
-**`verse_id_format`:** `[chapter-verse | verse | book-chapter-verse | book-verse | custom]`
+**`verse_id_format`:** `verse` · **Format example:** `^183`
 
-**Format example:** `^[example]`
+The Tibetan root has no chapter structure of its own in the source. Its block `^N` is **row N of the Dzongsar Tsadel segmentation** (430 human-segmented rows), so a block id is the human reference. Translations aligned row-for-row to it keep the same ids (`lzh-kumarajiva-tibetan-order.md`, `sa-vajracchedika.md`).
 
-### Heading hierarchy
+`lzh-kumarajiva.md` uses the same flat form for its own numbering: block `^N` is **segment N of the 127 numbered segments** of the Dzongsar Chinese text (MFF4994FD) — the numbers every Chinese commentary refers to. `zh-baihua.md` takes the id of the first Kumārajīva segment it renders. `lzh-bodhiruci.md` keeps the row numbers of its source doc (with gaps).
+
+### Commentaries — headings by outline path, body by top-level section
 
 | Markdown | Role | Anchor |
 | -------- | ---- | ------ |
-| `#` | [e.g. Piṭaka / collection] | `^[slug]-0` |
-| `##` | [e.g. Book / volume] | `^[book]-0` |
-| `###` | [e.g. Chapter / major section] | `^[book]-[ch]-0` |
-| `####` | [Sub-section] | `^[book]-[ch]-[s]-0` |
+| `#` | Title of the work | `^0` |
+| `##` | Top-level division (*sa bcad* 1, 2, 3 … / 分 / 卷 / heading) | `^N-0` |
+| `###` … `######` | Deeper *sa bcad* levels | full path + `-0`, e.g. `^3-4-2-6-7-7-0` |
 
-### Verse numbering rule
-
-[Describe whether verse numbers restart at each chapter boundary, or run continuously through a book, and any exceptions. State the rule even when it is the default — a reader should not have to infer it.]
+Body blocks are `^<top-level>-<n>`, counted through deeper headings (`verse_id_format: section-paragraph`); blocks before the first heading are section `0`. In the Tibetan commentaries the outline numbers are the human TOC numbers in the source docs; in the Chinese commentaries, headings are numbered in order of appearance.
 
 ### ⚑ Registered deviations — overrides of the default conventions
 
-[List every point where this vault departs from [`annotation-conventions.md`](annotation-conventions.md), one subsection each, with a date. A deviation that is not recorded here is a defect, not a convention. Delete this section if there are none.
+### ⚑ Flat `^N` for the root text and its row-aligned translations — overrides `annotation-conventions.md` §1a (registered 2026-10-02)
 
-Format each one as: what the default says, what this vault does instead, and **why** — the reason is what stops a later contributor "fixing" it back. For example:
-
-### ⚑ [Deviation name] — overrides `annotation-conventions.md` §[n] (registered [YYYY-MM-DD])
-
-[What the default rule is. What this vault does instead. Which files it applies to. Why the text's own structure requires it.]
-
-The recognised deviation types are listed in `annotation-conventions.md` §7: intro / back-matter zones, Bible-style `book-verse`, letter sub-namespaces, and flat `^N` for collections.]
+The default is `^chapter-verse` with a chapter 0. The Tibetan source carries no chapters, and its human segmentation is a flat sequence of 430 numbered rows that every alignment in the corpus refers to. Inventing chapters would detach the ids from the human numbering. Applies to `1-SOURCES/Text/bo-vajracchedika.md` and every file in `1-SOURCES/Translations/`.
 
 ### Re-segmentation and ID-migration log
 
-[Every change to an addressing scheme after rails already cited it. One dated entry each: what changed, where the pre-change file is kept, and what has to be re-checked.
-
-This section exists because a block ID is a citation. Re-segmenting a file silently invalidates every rail that cited it, and the only defence is a written record. Delete this section while the vault is new and nothing has been re-segmented.
-
-**[YYYY-MM-DD] [What changed].** [Which files. Where the backup lives, e.g. `0-INBOX/migration-backups/<date>/`. The consequence: "any rail written before this date that cites a block ID in these files is citing the old scheme and must be re-checked."]]
-
----
-
-## 2a. Canonical spine slots — *optional, only if this vault runs the claims pipeline*
-
-[The **spine** is the root text's own structure expressed as a list of stable slot IDs. It is the shared coordinate system every commentary is mapped onto, and the unit that claims consolidation works in: one topic page per slot.
-
-**This registry is the only source of slot IDs.** A skill may not coin a slot locally; if a commentary needs one that is not listed here, a human contributor registers it here first. Slot IDs are stable forever — a topic page's filename comes from its slot, so renaming one orphans its page.
-
-### Spine-proper slots — derived from the root text's own structure
-
-| Slot | Root anchor | Content |
-| ---- | ----------- | ------- |
-| `[slot-id]` | `^[block-id]` | [what this slot holds] |
-
-### Global slots — recurring material outside the root's sequence
-
-[Bodies of commentarial material that are not root-text blocks: a commentary's own account of the text's structure, an origin narrative given as its own section, and so on. Added as the corpus is mapped, never invented per commentary.]
-
-| Slot | Content | First observed |
-| ---- | ------- | -------------- |
-| `[slot-id]` | [what it holds] | [where] |
-
-**Not every body of material belongs to a slot.** A commentary's front matter, colophon, ritual appendices and story collections are dispositioned as *unmapped nodes*. That is a legitimate outcome: the claims are preserved, they simply feed no topic page.
-
-**Granularity.** One slot per unit of the root's own structure, at whatever level keeps a topic page under roughly 40–50 claims. For a long treatise that is a chapter or a verse group; for a short praise it may be a single stanza.]
+*None yet.* The files above were generated by `aligned-corpus-intake` from `0-INBOX/raw-data/intake-manifest.yaml`. Re-running that build regenerates them; once a rail cites them, any change to the segmentation must be logged here.
 
 ---
 
 ## 3. Registered commentary IDs
 
-Every commentary file in `1-SOURCES/Commentaries/` declares a `registered_id` in its frontmatter. That short ID is the only string used to attribute claims to the commentary throughout `2-RAILS/`.
+| `registered_id` | Author / Title | Tier | Tradition | Language | Aligned to | File |
+| --------------- | -------------- | ---- | --------- | -------- | ---------- | ---- |
+| `vasubandhu-saptartha` | Vasubandhu, *Extensive Commentary on the Seven Points* (དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ།) | commentary | Indian | Tibetan | Tibetan root | `1-SOURCES/Commentaries/bo-vasubandhu-saptartha-tika.md` |
+| `kamalasila-tika` | Kamalaśīla, *Extensive Commentary* (རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།) | commentary | Indian | Tibetan | Tibetan root | `1-SOURCES/Commentaries/bo-kamalasila-tika.md` |
+| `asanga-rtsa-grel` | Asaṅga (catalogue attribution), རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། | commentary (verse) | Indian | Tibetan | — (candidate refs only) | `1-SOURCES/Commentaries/bo-asanga-rtsa-grel.md` |
+| `chone-drakpa-shedrub` | Chone Drakpa Shedrub, ཟབ་དོན་གསལ་བའི་ཉི་མ། | commentary | Tibetan | Tibetan | Tibetan root | `1-SOURCES/Commentaries/bo-chone-drakpa-shedrub.md` |
+| `vasubandhu-lun` | 天親 (Vasubandhu), 金剛般若波羅蜜經論, tr. 菩提流支 (T1511) | commentary | Indian | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-vasubandhu-lun.md` |
+| `asanga-lun` | 無著 (Asaṅga), 金剛般若波羅蜜經論 (T1510b) | commentary | Indian | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-asanga-lun.md` |
+| `gunada-pojuzhe` | 功德施, 金剛般若波羅蜜經破取著不壞假名論, tr. 地婆訶羅 (T1515) | commentary | Indian | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-gunada-pojuzhe.md` |
+| `jizang-shu` | 吉藏, 金剛般若疏 (T1699) | commentary | Sanlun | Classical Chinese | — (no human alignment) | `1-SOURCES/Commentaries/lzh-jizang-shu.md` |
+| `huineng-jieyi` | 慧能, 金剛經解義 (X0459) | commentary | Chan | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-huineng-jieyi.md` |
+| `zongle-zhujie` | 宗泐、如玘, 金剛般若波羅蜜經註解 (T1703) | commentary | Ming | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-zongle-zhujie.md` |
+| `taixu-yimai` | 太虛, 金剛般若波羅蜜經義脈 | commentary | modern | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-taixu-yimai.md` |
+| `tanxu-jiangyi` | 倓虛, 金剛般若波羅密經講義 (1945) | commentary | modern | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-tanxu-jiangyi.md` |
+| `hsingyun-jianghua` | 星雲, 金剛經講話 | commentary | modern | Chinese | Kumārajīva | `1-SOURCES/Commentaries/zh-hsingyun-jianghua.md` |
+| `shengyen-jiangji` | 聖嚴, 《金剛經》講記 | commentary | modern | Chinese | — (candidate refs only) | `1-SOURCES/Commentaries/zh-shengyen-jiangji.md` |
 
-Once assigned, a `registered_id` never changes. New commentaries must be added to the roster below before their `registered_id` is used in any rail.
+**No hierarchical commentary tradition.** These are independent works from several traditions. Grouping rule for verse packages: by language of the commentary (Tibetan, then Chinese), and within a language in the order of this table.
 
-| `registered_id` | Author / Title | Tier | School or tradition | `book_id` | Language | File |
-| --------------- | -------------- | ---- | ------------------- | --------- | -------- | ---- |
-| `[short-id]` | [Author, or the commentary's title] | [commentary \| sub-commentary \| …] | [School, or "unaffiliated"] | `[CODE]` | [Language] | `1-SOURCES/Commentaries/[lang]-[slug].md` |
+---
 
-Add a `Role` column where the commentaries do different jobs — annotation, story, scholarly exposition, word-commentary — because the verse-package skills need to know which commentary supplies which layer.
+## 3a. Typed folder — `1-SOURCES/Annotations/`
 
-**Tier ordering** within a verse package's Traditional Interpretation section: [describe the order commentaries are presented in].
-
-Where the text has **no hierarchical commentary tradition** — a set of independent works from several schools, rather than one root commentary with sub-commentaries — say so and give a grouping rule instead (for example, by school in the order this roster lists them, and within a school by the roster's own order). Do not invent a "the real commentary is X" hierarchy that the tradition does not have.
-
-**ID migrations.** A `registered_id` never changes. If a human contributor directs one to change anyway — an author is identified, a placeholder is retired — record the migration here with its date, the old and new IDs, and confirmation that every live file and filename was migrated in one pass. The never-changes rule otherwise stands.
+Declared here as the one additional typed folder under `1-SOURCES/` (`About Sources.md` §2). It holds one `<stem>.annotations.json` per source file, written by `aligned-corpus-intake`. It is the lossless record of the human annotation that markdown cannot carry: per-block provenance (raw doc, paragraph, row), typed alignment prefixes, colour/bold/italic layers with their meaning, Word reviewer comments, variant readings, secondary alignments, and the reference-numbering concordances. It is part of the ground truth, regenerated only with its source file.
 
 ---
 
 ## 4. Language tracks
 
-| Tag | Language | Translation track | Plan stream |
-| --- | -------- | ----------------- | ----------- |
-| `[src-tag]` | [Source language] | — (source) | `days/[tag]/` (if applicable) |
-| `[tgt-tag]` | [Target language 1] | `[lang]-[descriptor]/` | — |
-| `[tgt-tag]` | [Target language 2] | `[lang]-[descriptor]/` | — |
+*None yet.* Source-side languages: `bo` (root), `lzh` and `zh` (translations and commentaries), `sa` (parallel).
 
 ### Analysis language per rail section
 
-[State which language each part of `2-RAILS/` is written in. The default is: Traditional Interpretation paraphrases and Translation Notes in English, everything else — AI Overview, Disambiguated Restatement, Local-Wiki articles, Key Concepts — in the original language. Record here if this vault differs, and for which sections.]
-
-Each translation track's `requirements.md` is written in its own target language. New tracks are added by creating `Translations/[lang]-[descriptor]/` and running the `glossary-select` skill from the consolidated `2-RAILS/Bilingual-Glossaries/[src]-[tgt].md`.
+Default (English paraphrases and translation notes; everything else in the original language).
 
 ---
 
 ## 5. Bilingual glossary pairs
 
-The consolidated bilingual glossaries in `2-RAILS/Bilingual-Glossaries/` cover the following source→target combinations:
-
-| File | Source language | Target language | Status |
-| ---- | --------------- | --------------- | ------ |
-| `[src]-[tgt].md` | [Source] | [Target] | `draft` |
+*None yet.*
 
 ---
 
 ## 6. Active transformation tracks
 
-| Track | Category | Status |
-| ----- | -------- | ------ |
-| `[lang]-[descriptor]` | Translation | `draft` |
-| `[plan-id]` | Plan | `draft` |
-
----
-
-## 6a. Sanctioned exceptions to the citation chain — *optional*
-
-[The citation chain (`1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/`) has no general exceptions. A specific, bounded one may be granted to a pipeline that carries an equivalent guarantee of its own — for example, a generator that reaches directly into `1-SOURCES/` but verifies every quotation character-for-character against its cited source before its output can pass.
-
-Record each one here: what reaches past the rails, what the substitute guarantee is, and which document governs that output instead of `About Transformations.md`. An exception that is not recorded here is a violation. Delete this section if there are none.]
+*None yet.*
 
 ---
 
@@ -161,9 +110,12 @@ Record each one here: what reaches past the rails, what the substitute guarantee
 
 | Tag | Script / System | Use in this vault |
 | --- | --------------- | ----------------- |
-| `-[tag]` | [Script] | [When used] |
+| `bo` | Unicode Tibetan | Root text, Tibetan commentaries |
+| `lzh` | Traditional Chinese, Classical | Kumārajīva and Bodhiruci translations; pre-modern and literary commentaries |
+| `zh` | Traditional Chinese, modern vernacular | 白話 rendering; modern lecture commentaries |
+| `sa` | Devanāgarī | Sanskrit parallel |
 
-The default for every [language] source is `-[default-tag]`.
+The default for every Tibetan source is `bo`. Filenames carry the tag as a prefix (`bo-…`, `lzh-…`), following `About Sources.md` §2.
 
 ---
 

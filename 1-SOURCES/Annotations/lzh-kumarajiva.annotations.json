@@ -1,0 +1,5643 @@
+{
+ "file": "1-SOURCES/Translations/lzh-kumarajiva.md",
+ "id_scheme": "flat",
+ "target_file": "1-SOURCES/Text/bo-vajracchedika.md",
+ "headings": [
+  {
+   "line": "## 〔法會因由分第一〕 ^1-0",
+   "path": "1",
+   "title": "〔法會因由分第一〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "GEExsJaObHomlyVljz8AK"
+   }
+  },
+  {
+   "line": "## 〔善現啟請分第二〕 ^2-0",
+   "path": "2",
+   "title": "〔善現啟請分第二〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "VWOOSYzcpK2MJwftZ6VjX"
+   }
+  },
+  {
+   "line": "## 〔大乘正宗分第三〕 ^3-0",
+   "path": "3",
+   "title": "〔大乘正宗分第三〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "7YIZVYdKuYuAlggBwoLFD"
+   }
+  },
+  {
+   "line": "## 〔妙行無住分第四〕 ^4-0",
+   "path": "4",
+   "title": "〔妙行無住分第四〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "khj67GQz0yLalCkcUHMjb"
+   }
+  },
+  {
+   "line": "## 〔如理實見分第五〕 ^5-0",
+   "path": "5",
+   "title": "〔如理實見分第五〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "zrl9OEnvQ09ZFUCumXk2w"
+   }
+  },
+  {
+   "line": "## 〔正信希有分第六〕 ^6-0",
+   "path": "6",
+   "title": "〔正信希有分第六〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "HLtEt16Csl6jdwaNDD8EV"
+   }
+  },
+  {
+   "line": "## 〔無得無說分第七〕 ^7-0",
+   "path": "7",
+   "title": "〔無得無說分第七〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "Bj195xVz5GMB4geTuGxKp"
+   }
+  },
+  {
+   "line": "## 〔依法出生分第八〕 ^8-0",
+   "path": "8",
+   "title": "〔依法出生分第八〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "aKQa5YdW5SQ3yp5Q64rYf"
+   }
+  },
+  {
+   "line": "## 〔一相無相分第九〕 ^9-0",
+   "path": "9",
+   "title": "〔一相無相分第九〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "LP0P9eBzexYHXLxZLc0Cw"
+   }
+  },
+  {
+   "line": "## 〔莊嚴淨土分第十〕 ^10-0",
+   "path": "10",
+   "title": "〔莊嚴淨土分第十〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "oOhnPMLnNNL8mkX8PJOMm"
+   }
+  },
+  {
+   "line": "## 〔無為福勝分第十一〕 ^11-0",
+   "path": "11",
+   "title": "〔無為福勝分第十一〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "tZUNpk3aMgENy7x6BoXHW"
+   }
+  },
+  {
+   "line": "## 〔尊重正教分第十二〕 ^12-0",
+   "path": "12",
+   "title": "〔尊重正教分第十二〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "TjosXPUr5eLzCCD9RUZbI"
+   }
+  },
+  {
+   "line": "## 〔如法受持分第十三〕 ^13-0",
+   "path": "13",
+   "title": "〔如法受持分第十三〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "vAHgVRGzaOxoXa74ZD8cO"
+   }
+  },
+  {
+   "line": "## 〔離相寂滅分第十四〕 ^14-0",
+   "path": "14",
+   "title": "〔離相寂滅分第十四〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "KEoygi0w7ZfXZnCbvSJGf"
+   }
+  },
+  {
+   "line": "## 〔持經功德分第十五〕 ^15-0",
+   "path": "15",
+   "title": "〔持經功德分第十五〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "LWbAbcCXmBKyYOKZSuAhF"
+   }
+  },
+  {
+   "line": "## 〔能淨業障分第十六〕 ^16-0",
+   "path": "16",
+   "title": "〔能淨業障分第十六〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "lqAekrFSKDbhlLhrDyYBb"
+   }
+  },
+  {
+   "line": "## 〔究竟無我分第十七〕 ^17-0",
+   "path": "17",
+   "title": "〔究竟無我分第十七〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "A6n1RL7yLCHq5EwCNhYyK"
+   }
+  },
+  {
+   "line": "## 〔一體同觀分第十八〕 ^18-0",
+   "path": "18",
+   "title": "〔一體同觀分第十八〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "0LsaomeWV3ycyjJwl4SbA"
+   }
+  },
+  {
+   "line": "## 〔法界通化分第十九〕 ^19-0",
+   "path": "19",
+   "title": "〔法界通化分第十九〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "sgpjYLkjIXOrvqin339cz"
+   }
+  },
+  {
+   "line": "## 〔離色離相分第二十〕 ^20-0",
+   "path": "20",
+   "title": "〔離色離相分第二十〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "5TPJKrrZDqb62QDLyQzXu"
+   }
+  },
+  {
+   "line": "## 〔非說所說分第二十一〕 ^21-0",
+   "path": "21",
+   "title": "〔非說所說分第二十一〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "9i4c6tlGIIbCxlfHVF9t8"
+   }
+  },
+  {
+   "line": "## 〔無法可得分第二十二〕 ^22-0",
+   "path": "22",
+   "title": "〔無法可得分第二十二〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "3KWKXJe7sT73tD8UwY80M"
+   }
+  },
+  {
+   "line": "## 〔淨心行善分第二十三〕 ^23-0",
+   "path": "23",
+   "title": "〔淨心行善分第二十三〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "VGcv4fr1WFGj2nOOIFj5m"
+   }
+  },
+  {
+   "line": "## 〔福智無比分第二十四〕 ^24-0",
+   "path": "24",
+   "title": "〔福智無比分第二十四〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "GcuIjpZ5WJ7UhUuTxVL1x"
+   }
+  },
+  {
+   "line": "## 〔化無所化分第二十五〕 ^25-0",
+   "path": "25",
+   "title": "〔化無所化分第二十五〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "z9AL6SmOgQLlpSXRKGdcg"
+   }
+  },
+  {
+   "line": "## 〔法身非相分第二十六〕 ^26-0",
+   "path": "26",
+   "title": "〔法身非相分第二十六〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "ml5IWxme6PzaMl0V5FZdv"
+   }
+  },
+  {
+   "line": "## 〔無斷無滅分第二十七〕 ^27-0",
+   "path": "27",
+   "title": "〔無斷無滅分第二十七〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "uNQraIIyFzQWWxHFMdUU9"
+   }
+  },
+  {
+   "line": "## 〔不受不貪分第二十八〕 ^28-0",
+   "path": "28",
+   "title": "〔不受不貪分第二十八〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "XpG8tklgtMvNGO7OSx7BA"
+   }
+  },
+  {
+   "line": "## 〔威儀寂淨分第二十九〕 ^29-0",
+   "path": "29",
+   "title": "〔威儀寂淨分第二十九〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "BfzYh3Te8JDNflC4xTywH"
+   }
+  },
+  {
+   "line": "## 〔一合理相分第三十〕 ^30-0",
+   "path": "30",
+   "title": "〔一合理相分第三十〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "yAu8SEOxnpPiQbhYCfILM"
+   }
+  },
+  {
+   "line": "## 〔知見不生分第三十一〕 ^31-0",
+   "path": "31",
+   "title": "〔知見不生分第三十一〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "TPMtxJkuoN7fpOuYSW5Ja"
+   }
+  },
+  {
+   "line": "## 〔應化非真分第三十二〕 ^32-0",
+   "path": "32",
+   "title": "〔應化非真分第三十二〕",
+   "source": {
+    "openpecha_text": "i5gV2cTZzE5NEl4DObMKu",
+    "openpecha_segment": "90em4bImz60b6sgrAGm3D"
+   }
+  }
+ ],
+ "blocks": {
+  "1": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 2,
+    "rendered": "1."
+   },
+   "targets": [
+    "5"
+   ],
+   "text": "如是我聞："
+  },
+  "2": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 4,
+    "rendered": "2."
+   },
+   "targets": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "text": "一時，佛在舍衛國祇樹給孤獨園，與大比丘眾千二百五十人俱。爾時，世尊食時，著衣持鉢，入舍衛大城乞食。於其城中，次第乞已，還至本處。飯食訖，收衣鉢，洗足已，敷座而坐。"
+  },
+  "3": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 6,
+    "rendered": "3."
+   },
+   "targets": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "18"
+   ],
+   "text": "時，長老須菩提在大眾中即從座起，偏袒右肩，右膝著地，合掌恭敬而白佛言：「希有世尊！如來善護念諸菩薩，善付囑諸菩薩。世尊！善男子、善女人，發阿耨多羅三藐三菩提心，應云何住？云何降伏其心？」"
+  },
+  "4": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 8,
+    "rendered": "4."
+   },
+   "targets": [
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26"
+   ],
+   "text": "佛言：「善哉，善哉！須菩提！如汝所說：『如來善護念諸菩薩，善付囑諸菩薩。』汝今諦聽，當為汝說。善男子、善女人，發阿耨多羅三藐三菩提心，應如是住，如是降伏其心。」"
+  },
+  "5": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 10,
+    "rendered": "5."
+   },
+   "targets": [
+    "19"
+   ],
+   "text": "「唯然。世尊！願樂欲聞。」"
+  },
+  "6": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 12,
+    "rendered": "6."
+   },
+   "targets": [
+    "28",
+    "29",
+    "30",
+    "32"
+   ],
+   "text": "佛告須菩提：「諸菩薩摩訶薩應如是降伏其心：『所有一切眾生之類，若卵生、若胎生、若濕生、若化生，若有色、若無色，若有想、若無想、若非有想非無想，我皆令入無餘涅槃而滅度之。』如是滅度無量、無數、無邊眾生，實無眾生得滅度者。何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，即非菩薩。"
+  },
+  "7": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 14,
+    "rendered": "7."
+   },
+   "targets": [
+    "33",
+    "35",
+    "36",
+    "37",
+    "38"
+   ],
+   "text": "「復次，須菩提！菩薩於法應無所住行於布施，所謂不住色布施，不住聲、香、味、觸、法布施。須菩提！菩薩應如是布施，不住於相。何以故？若菩薩不住相布施，其福德不可思量。"
+  },
+  "8": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 16,
+    "rendered": "8."
+   },
+   "targets": [
+    "39"
+   ],
+   "text": "「須菩提！於意云何？東方虛空可思量不？」"
+  },
+  "9": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 18,
+    "rendered": "9."
+   },
+   "targets": [
+    "40"
+   ],
+   "text": "「不也，世尊！」"
+  },
+  "10": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 20,
+    "rendered": "10."
+   },
+   "targets": [
+    "41"
+   ],
+   "text": "「須菩提！南、西、北方，四維、上、下虛空可思量不？」"
+  },
+  "11": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 22,
+    "rendered": "11."
+   },
+   "targets": [
+    "42"
+   ],
+   "text": "「不也，世尊！」"
+  },
+  "12": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 24,
+    "rendered": "12."
+   },
+   "targets": [
+    "43"
+   ],
+   "text": "「須菩提！菩薩無住相布施，福德亦復如是不可思量。須菩提！菩薩但應如所教住。」"
+  },
+  "13": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 26,
+    "rendered": "13."
+   },
+   "targets": [
+    "44"
+   ],
+   "text": "「須菩提！於意云何？可以身相見如來不？」"
+  },
+  "14": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 28,
+    "rendered": "14."
+   },
+   "targets": [
+    "45",
+    "46",
+    "47"
+   ],
+   "text": "「不也，世尊！不可以身相得見如來。何以故？如來所說身相，即非身相。」"
+  },
+  "15": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 30,
+    "rendered": "15."
+   },
+   "targets": [
+    "48",
+    "49",
+    "50",
+    "51"
+   ],
+   "text": "佛告須菩提：「凡所有相，皆是虛妄；若見諸相非相，則見如來。」"
+  },
+  "16": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 32,
+    "rendered": "16."
+   },
+   "targets": [
+    "20",
+    "52",
+    "53"
+   ],
+   "text": "須菩提白佛言：「世尊！頗有眾生，得聞如是言說章句，生實信不？」"
+  },
+  "17": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 34,
+    "rendered": "17."
+   },
+   "targets": [
+    "54",
+    "55",
+    "56",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63"
+   ],
+   "text": "佛告須菩提：「莫作是說。如來滅後後五百歲，有持戒修福者，於此章句能生信心，以此為實，當知是人不於一佛二佛、三、四、五佛而種善根，已於無量千萬佛所種諸善根。聞是章句，乃至一念生淨信者，須菩提！如來悉知悉見是諸眾生得如是無量福德。何以故？是諸眾生無復我相、人相、眾生相、壽者相。」"
+  },
+  "18": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 36,
+    "rendered": "18."
+   },
+   "targets": [
+    "64",
+    "66",
+    "67"
+   ],
+   "text": "「無法相，亦無非法相。何以故？是諸眾生若心取相，則為著我、人、眾生、壽者。」"
+  },
+  "19": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 38,
+    "rendered": "19."
+   },
+   "targets": [
+    "68",
+    "69",
+    "70",
+    "71"
+   ],
+   "text": "「若取法相，即著我、人、眾生、壽者。何以故？若取非法相，即著我、人、眾生、壽者。是故不應取法，不應取非法。以是義故，如來常說：『汝等比丘，知我說法，如筏喻者，法尚應捨，何況非法。」"
+  },
+  "20": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 40,
+    "rendered": "20."
+   },
+   "targets": [
+    "73",
+    "74",
+    "75"
+   ],
+   "text": "「須菩提！於意云何？如來得阿耨多羅三藐三菩提耶？如來有所說法耶？」"
+  },
+  "21": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 42,
+    "rendered": "21."
+   },
+   "targets": [
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81"
+   ],
+   "text": "須菩提言：「如我解佛所說義，無有定法名阿耨多羅三藐三菩提，亦無有定法如來可說。何以故？如來所說法，皆不可取、不可說、非法、非非法。所以者何？一切賢聖皆以無為法而有差別。」"
+  },
+  "22": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 44,
+    "rendered": "22."
+   },
+   "targets": [
+    "82",
+    "83"
+   ],
+   "text": "「須菩提！於意云何？若人滿三千大千世界七寶以用布施，是人所得福德，寧為多不？」"
+  },
+  "23": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 46,
+    "rendered": "23."
+   },
+   "targets": [
+    "84",
+    "85",
+    "87",
+    "88"
+   ],
+   "text": "須菩提言：「甚多，世尊！何以故？是福德即非福德性，是故如來說福德多。」"
+  },
+  "24": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 48,
+    "rendered": "24."
+   },
+   "targets": [
+    "89",
+    "90",
+    "92"
+   ],
+   "text": "「若復有人，於此經中受持乃至四句偈等，為他人說，其福勝彼。何以故？須菩提！一切諸佛及諸佛阿耨多羅三藐三菩提法，皆從此經出。須菩提！所謂佛法者，即非佛法。」"
+  },
+  "25": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 50,
+    "rendered": "25."
+   },
+   "targets": [
+    "94",
+    "95"
+   ],
+   "text": "「須菩提！於意云何？須陀洹能作是念，『我得須陀洹果』不？」"
+  },
+  "26": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 52,
+    "rendered": "26."
+   },
+   "targets": [
+    "96",
+    "97",
+    "99",
+    "100"
+   ],
+   "text": "須菩提言：「不也，世尊！何以故？須陀洹名為入流，而無所入，不入色、聲、香、味、觸、法，是名須陀洹。」"
+  },
+  "27": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 54,
+    "rendered": "27."
+   },
+   "targets": [
+    "103",
+    "104"
+   ],
+   "text": "「須菩提！於意云何？斯陀含能作是念，『我得斯陀含果』不？」"
+  },
+  "28": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 56,
+    "rendered": "28."
+   },
+   "targets": [
+    "105",
+    "106",
+    "107"
+   ],
+   "text": "須菩提言：「不也，世尊！何以故？斯陀含名一往來，而實無往來，是名斯陀含。」"
+  },
+  "29": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 58,
+    "rendered": "29."
+   },
+   "targets": [
+    "110",
+    "111"
+   ],
+   "text": "「須菩提！於意云何？阿那含能作是念，『我得阿那含果』不？」"
+  },
+  "30": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 60,
+    "rendered": "30."
+   },
+   "targets": [
+    "112",
+    "113",
+    "114"
+   ],
+   "text": "須菩提言：「不也，世尊！何以故？阿那含名為不來，而實無來，是故名阿那含。」"
+  },
+  "31": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 62,
+    "rendered": "31."
+   },
+   "targets": [
+    "115",
+    "116"
+   ],
+   "text": "「須菩提！於意云何？阿羅漢能作是念，『我得阿羅漢道』不？」"
+  },
+  "32": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 64,
+    "rendered": "32."
+   },
+   "targets": [
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124"
+   ],
+   "text": "須菩提言：「不也，世尊！何以故？實無有法名阿羅漢。世尊！若阿羅漢作是念『我得阿羅漢道』，即為著我、人、眾生、壽者。世尊！佛說我得無諍三昧人中最為第一，是第一離欲阿羅漢。我不作是念：『我是離欲阿羅漢。』世尊！我若作是念『我得阿羅漢道』，世尊則不說須菩提是樂阿蘭那行者。以須菩提實無所行，而名須菩提是樂阿蘭那行。」"
+  },
+  "33": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 66,
+    "rendered": "33."
+   },
+   "targets": [
+    "125",
+    "126"
+   ],
+   "text": "佛告須菩提：「於意云何？如來昔在然燈佛所，於法有所得不？」"
+  },
+  "34": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 68,
+    "rendered": "34."
+   },
+   "targets": [
+    "128"
+   ],
+   "text": "「世尊！如來在然燈佛所，於法實無所得。」"
+  },
+  "35": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 70,
+    "rendered": "35."
+   },
+   "targets": [
+    "129"
+   ],
+   "text": "「須菩提！於意云何？菩薩莊嚴佛土不？」"
+  },
+  "36": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 72,
+    "rendered": "36."
+   },
+   "targets": [
+    "129",
+    "130",
+    "131"
+   ],
+   "text": "「不也，世尊！何以故？莊嚴佛土者，則非莊嚴，是名莊嚴。」"
+  },
+  "37": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 74,
+    "rendered": "37."
+   },
+   "targets": [
+    "132"
+   ],
+   "text": "「是故須菩提，諸菩薩摩訶薩應如是生清淨心，不應住色生心，不應住聲、香、味、觸、法生心，應無所住而生其心。」"
+  },
+  "38": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 76,
+    "rendered": "38."
+   },
+   "targets": [
+    "136"
+   ],
+   "text": "「須菩提！譬如有人，身如須彌山王，於意云何？是身為大不？」"
+  },
+  "39": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 78,
+    "rendered": "39."
+   },
+   "targets": [
+    "137",
+    "139",
+    "140"
+   ],
+   "text": "「須菩提言：「甚大，世尊！何以故？佛說非身，是名大身。」"
+  },
+  "40": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 80,
+    "rendered": "40."
+   },
+   "targets": [
+    "142",
+    "143"
+   ],
+   "text": "「須菩提！如恒河中所有沙數，如是沙等恒河，於意云何？是諸恒河沙寧為多不？」"
+  },
+  "41": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 82,
+    "rendered": "41."
+   },
+   "targets": [
+    "144"
+   ],
+   "text": "須菩提言：「甚多，世尊！但諸恒河尚多無數，何況其沙。」"
+  },
+  "42": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 84,
+    "rendered": "42."
+   },
+   "targets": [
+    "145",
+    "147",
+    "148"
+   ],
+   "text": "「須菩提！我今實言告汝，若有善男子、善女人，以七寶滿爾所恒河沙數三千大千世界以用布施，得福多不？」"
+  },
+  "43": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 86,
+    "rendered": "43."
+   },
+   "targets": [
+    "149"
+   ],
+   "text": "須菩提言：「甚多，世尊！」"
+  },
+  "44": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 88,
+    "rendered": "44."
+   },
+   "targets": [
+    "153"
+   ],
+   "text": "佛告須菩提：「若善男子、善女人於此經中，乃至受持四句偈等，為他人說，而此福德勝前福德。」"
+  },
+  "45": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 90,
+    "rendered": "45."
+   },
+   "targets": [
+    "154",
+    "155"
+   ],
+   "text": "「復次，須菩提！隨說是經，乃至四句偈等，當知此處，一切世間天、人、阿修羅皆應供養，如佛塔廟，何況有人盡能受持讀誦？須菩提！當知是人成就最上、第一、希有之法，若是經典所在之處，則為有佛，若尊重弟子。」"
+  },
+  "46": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 92,
+    "rendered": "46."
+   },
+   "targets": [
+    "156",
+    "157",
+    "158"
+   ],
+   "text": "爾時，須菩提白佛言：「世尊！當何名此經？我等云何奉持？」"
+  },
+  "47": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 94,
+    "rendered": "47."
+   },
+   "targets": [
+    "159",
+    "160",
+    "161",
+    "162",
+    "165"
+   ],
+   "text": "佛告須菩提：「是經名為『金剛般若波羅蜜』。以是名字，汝當奉持。所以者何？須菩提！佛說般若波羅蜜，則非般若波羅蜜。須菩提！於意云何？如來有所說法不？」"
+  },
+  "48": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 96,
+    "rendered": "48."
+   },
+   "targets": [
+    "166"
+   ],
+   "text": "須菩提白佛言：「世尊！如來無所說。」"
+  },
+  "49": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 98,
+    "rendered": "49."
+   },
+   "targets": [
+    "167",
+    "168"
+   ],
+   "text": "「須菩提！於意云何？三千大千世界所有微塵是為多不？」"
+  },
+  "50": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 100,
+    "rendered": "50."
+   },
+   "targets": [
+    "169"
+   ],
+   "text": "須菩提言：「甚多，世尊！」"
+  },
+  "51": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 102,
+    "rendered": "51."
+   },
+   "targets": [
+    "171",
+    "172",
+    "173",
+    "174"
+   ],
+   "text": "「須菩提！諸微塵，如來說非微塵，是名微塵。如來說世界，非世界，是名世界。」"
+  },
+  "52": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 104,
+    "rendered": "52."
+   },
+   "targets": [
+    "175",
+    "176"
+   ],
+   "text": "「須菩提！於意云何？可以三十二相見如來不？」"
+  },
+  "53": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 106,
+    "rendered": "53."
+   },
+   "targets": [
+    "177",
+    "178",
+    "179"
+   ],
+   "text": "「不也，世尊！不可以三十二相得見如來。何以故？如來說三十二相，即是非相，是名三十二相。」"
+  },
+  "54": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 108,
+    "rendered": "54."
+   },
+   "targets": [
+    "180"
+   ],
+   "text": "「須菩提！若有善男子、善女人，以恒河沙等身命布施；若復有人，於此經中，乃至受持四句偈等，為他人說，其福甚多。」"
+  },
+  "55": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 110,
+    "rendered": "55."
+   },
+   "targets": [
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193"
+   ],
+   "text": "爾時，須菩提聞說是經，深解義趣，涕淚悲泣，而白佛言：「希有世尊！佛說如是甚深經典，我從昔來所得慧眼，未曾得聞如是之經。世尊！若復有人得聞是經，信心清淨，則生實相，當知是人，成就第一希有功德。世尊！是實相者，則是非相，是故如來說名實相。世尊！我今得聞如是經典，信解、受持不足為難，若當來世後五百歲，其有眾生得聞是經，信解、受持，是人則為第一希有。何以故？此人無我相、人相、眾生相、壽者相。所以者何？我相即是非相，人相、眾生相、壽者相即是非相。何以故？離一切諸相，則名諸佛。」"
+  },
+  "56": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 112,
+    "rendered": "56."
+   },
+   "targets": [
+    "134",
+    "135",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "203",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "214",
+    "215"
+   ],
+   "text": "佛告須菩提：「如是，如是！若復有人得聞是經，不驚、不怖、不畏，當知是人甚為希有。何以故？須菩提！如來說第一波羅蜜，非第一波羅蜜，是名第一波羅蜜。須菩提！忍辱波羅蜜，如來說非忍辱波羅蜜。何以故？須菩提！如我昔為歌利王割截身體，我於爾時，無我相、無人相、無眾生相、無壽者相。何以故？我於往昔節節支解時，若有我相、人相、眾生相、壽者相，應生瞋恨。須菩提！又念過去於五百世作忍辱仙人，於爾所世，無我相、無人相、無眾生相、無壽者相。是故，須菩提！菩薩應離一切相，發阿耨多羅三藐三菩提心，不應住色生心，不應住聲、香、味、觸、法生心，應生無所住心。若心有住，則為非住。是故，佛說菩薩心不應住色布施。」"
+  },
+  "57": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 114,
+    "rendered": "57."
+   },
+   "targets": [
+    "216",
+    "217",
+    "218"
+   ],
+   "text": "「須菩提！菩薩為利益一切眾生，應如是布施。如來說：『一切諸相，即是非相。』又說：『一切眾生，則非眾生。』"
+  },
+  "58": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 116,
+    "rendered": "58."
+   },
+   "targets": [
+    "219",
+    "220"
+   ],
+   "text": "「須菩提！如來是真語者、實語者、如語者、不誑語者、不異語者。」"
+  },
+  "59": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 118,
+    "rendered": "59."
+   },
+   "targets": [
+    "221",
+    "222",
+    "223"
+   ],
+   "text": "「須菩提！如來所得法，此法無實無虛。須菩提！若菩薩心住於法而行布施，如人入闇，則無所見；若菩薩心不住法而行布施，如人有目，日光明照，見種種色。」"
+  },
+  "60": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 120,
+    "rendered": "60."
+   },
+   "targets": [
+    "224",
+    "225"
+   ],
+   "text": "「須菩提！當來之世，若有善男子、善女人，能於此經受持、讀誦，則為如來以佛智慧悉知是人，悉見是人，皆得成就無量無邊功德。」"
+  },
+  "61": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 122,
+    "rendered": "61."
+   },
+   "targets": [
+    "226",
+    "227"
+   ],
+   "text": "「須菩提！若有善男子、善女人，初日分以恒河沙等身布施，中日分復以恒河沙等身布施，後日分亦以恒河沙等身布施，如是無量百千萬億劫以身布施；若復有人，聞此經典，信心不逆，其福勝彼，何況書寫、受持、讀誦、為人解說。」"
+  },
+  "62": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 124,
+    "rendered": "62."
+   },
+   "targets": [
+    "228",
+    "229",
+    "230",
+    "231",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237"
+   ],
+   "text": "「須菩提！以要言之，是經有不可思議、不可稱量、無邊功德。如來為發大乘者說，為發最上乘者說。若有人能受持、讀誦、廣為人說，如來悉知是人，悉見是人，皆得成就不可量、不可稱、無有邊、不可思議功德，如是人等，則為荷擔如來阿耨多羅三藐三菩提。何以故？須菩提！若樂小法者，著我見、人見、眾生見、壽者見，則於此經，不能聽受、讀誦、為人解說。」"
+  },
+  "63": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 126,
+    "rendered": "63."
+   },
+   "targets": [
+    "239",
+    "240"
+   ],
+   "text": "「須菩提！在在處處若有此經，一切世間天、人、阿修羅所應供養；當知此處則為是塔，皆應恭敬、作禮、圍繞，以諸華香而散其處。」"
+  },
+  "64": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 128,
+    "rendered": "64."
+   },
+   "targets": [
+    "242",
+    "243",
+    "244",
+    "245"
+   ],
+   "text": "「復次，須菩提！善男子、善女人受持、讀誦此經，若為人輕賤，是人先世罪業應墮惡道，以今世人輕賤故，先世罪業則為消滅，當得阿耨多羅三藐三菩提。」"
+  },
+  "65": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 130,
+    "rendered": "65."
+   },
+   "targets": [
+    "246",
+    "247",
+    "248",
+    "249"
+   ],
+   "text": "「須菩提！我念過去無量阿僧祇劫，於然燈佛前，得值八百四千萬億那由他諸佛，悉皆供養承事，無空過者；若復有人，於後末世，能受持、讀誦此經，所得功德，於我所供養諸佛功德，百分不及一，千萬億分乃至算數、譬喻所不能及。」"
+  },
+  "66": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 132,
+    "rendered": "66."
+   },
+   "targets": [
+    "250",
+    "251",
+    "252"
+   ],
+   "text": "「須菩提！若善男子、善女人於後末世，有受持、讀誦此經所得功德，我若具說者，或有人聞，心則狂亂，狐疑不信。須菩提！當知是經義不可思議，果報亦不可思議。」"
+  },
+  "67": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 134,
+    "rendered": "67."
+   },
+   "targets": [
+    "253",
+    "254",
+    "256"
+   ],
+   "text": "「爾時，須菩提白佛言：「世尊！善男子、善女人發阿耨多羅三藐三菩提心，云何應住？云何降伏其心？」"
+  },
+  "68": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 136,
+    "rendered": "68."
+   },
+   "targets": [
+    "257",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262"
+   ],
+   "text": "佛告須菩提：「善男子、善女人發阿耨多羅三藐三菩提者，當生如是心：『我應滅度一切眾生。滅度一切眾生已，而無有一眾生實滅度者。』何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，則非菩薩。所以者何？須菩提！實無有法發阿耨多羅三藐三菩提者。」"
+  },
+  "69": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 138,
+    "rendered": "69."
+   },
+   "targets": [
+    "263",
+    "264"
+   ],
+   "text": "「須菩提！於意云何？如來於然燈佛所，有法得阿耨多羅三藐三菩提不？」"
+  },
+  "70": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 140,
+    "rendered": "70."
+   },
+   "targets": [
+    "265",
+    "266"
+   ],
+   "text": "「不也，世尊！如我解佛所說義，佛於然燈佛所，無有法得阿耨多羅三藐三菩提。」"
+  },
+  "71": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 142,
+    "rendered": "71."
+   },
+   "targets": [
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273"
+   ],
+   "text": "佛言：「如是，如是！須菩提！實無有法，如來得阿耨多羅三藐三菩提。須菩提！若有法，如來得阿耨多羅三藐三菩提者，然燈佛則不與我受記：『汝於來世當得作佛，號釋迦牟尼。』以實無有法得阿耨多羅三藐三菩提，是故然燈佛與我受記，作是言：『汝於來世當得作佛，號釋迦牟尼。』何以故？如來者，即諸法如義。」"
+  },
+  "72": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 144,
+    "rendered": "72."
+   },
+   "targets": [
+    "274",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280"
+   ],
+   "text": "「若有人言『如來得阿耨多羅三藐三菩提』，須菩提！實無有法，佛得阿耨多羅三藐三菩提。須菩提！如來所得阿耨多羅三藐三菩提，於是中無實無虛，是故如來說：『一切法皆是佛法。』須菩提！所言一切法者，即非一切法，是故名一切法。」"
+  },
+  "73": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 146,
+    "rendered": "73."
+   },
+   "targets": [
+    "281"
+   ],
+   "text": "「須菩提！譬如人身長、大。」"
+  },
+  "74": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 148,
+    "rendered": "74."
+   },
+   "targets": [
+    "282",
+    "283"
+   ],
+   "text": "須菩提言：「世尊！如來說人身長、大，則為非大身，是名大身。」"
+  },
+  "75": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 150,
+    "rendered": "75."
+   },
+   "targets": [
+    "284",
+    "285",
+    "286",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292"
+   ],
+   "text": "「須菩提！菩薩亦如是，若作是言『我當滅度無量眾生』，則不名菩薩。何以故？須菩提！實無有法名為菩薩。是故，佛說：『一切法無我、無人、無眾生、無壽者。』須菩提！若菩薩作是言『我當莊嚴佛土』，是不名菩薩。何以故？如來說莊嚴佛土者，即非莊嚴，是名莊嚴。須菩提！若菩薩通達無我、法者，如來說名真是菩薩。」"
+  },
+  "76": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 152,
+    "rendered": "76."
+   },
+   "targets": [
+    "293"
+   ],
+   "text": "「須菩提！於意云何？如來有肉眼不？」"
+  },
+  "77": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 154,
+    "rendered": "77."
+   },
+   "targets": [
+    "294"
+   ],
+   "text": "「如是，世尊！如來有肉眼。」"
+  },
+  "78": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 156,
+    "rendered": "78."
+   },
+   "targets": [
+    "295",
+    "296"
+   ],
+   "text": "「須菩提！於意云何？如來有天眼不？」"
+  },
+  "79": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 158,
+    "rendered": "79."
+   },
+   "targets": [
+    "297",
+    "298"
+   ],
+   "text": "「如是，世尊！如來有天眼。」"
+  },
+  "80": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 160,
+    "rendered": "80."
+   },
+   "targets": [
+    "299",
+    "300"
+   ],
+   "text": "「須菩提！於意云何？如來有慧眼不？」"
+  },
+  "81": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 162,
+    "rendered": "81."
+   },
+   "targets": [
+    "301"
+   ],
+   "text": "「如是，世尊！如來有慧眼。」"
+  },
+  "82": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 164,
+    "rendered": "82."
+   },
+   "targets": [
+    "302",
+    "303"
+   ],
+   "text": "「須菩提！於意云何？如來有法眼不？」"
+  },
+  "83": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 166,
+    "rendered": "83."
+   },
+   "targets": [
+    "304",
+    "305"
+   ],
+   "text": "「如是，世尊！如來有法眼。」"
+  },
+  "84": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 168,
+    "rendered": "84."
+   },
+   "targets": [
+    "306",
+    "307"
+   ],
+   "text": "「須菩提！於意云何？如來有佛眼不？」"
+  },
+  "85": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 170,
+    "rendered": "85."
+   },
+   "targets": [
+    "308",
+    "309"
+   ],
+   "text": "「如是，世尊！如來有佛眼。」"
+  },
+  "86": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 172,
+    "rendered": "86."
+   },
+   "targets": [
+    "310",
+    "311"
+   ],
+   "text": "「須菩提！於意云何？恒河中所有沙，佛說是沙不？」"
+  },
+  "87": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 174,
+    "rendered": "87."
+   },
+   "targets": [
+    "311",
+    "313"
+   ],
+   "text": "「如是，世尊！如來說是沙。」"
+  },
+  "88": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 176,
+    "rendered": "88."
+   },
+   "targets": [
+    "311",
+    "313"
+   ],
+   "text": "「須菩提！於意云何？如一恒河中所有沙，有如是等恒河，是諸恒河所有沙數佛世界，如是寧為多不？」"
+  },
+  "89": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 178,
+    "rendered": "89."
+   },
+   "targets": [
+    "313"
+   ],
+   "text": "「甚多，世尊！」"
+  },
+  "90": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 180,
+    "rendered": "90."
+   },
+   "targets": [
+    "314",
+    "315",
+    "316",
+    "317",
+    "318"
+   ],
+   "text": "佛告須菩提：「爾所國土中，所有眾生若干種心，如來悉知。何以故？如來說諸心，皆為非心，是名為心。所以者何？須菩提！過去心不可得，現在心不可得，未來心不可得。」"
+  },
+  "91": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 182,
+    "rendered": "91."
+   },
+   "targets": [
+    "320",
+    "321"
+   ],
+   "text": "「須菩提！於意云何？若有人滿三千大千世界七寶以用布施，是人以是因緣得福多不？」"
+  },
+  "92": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 184,
+    "rendered": "92."
+   },
+   "targets": [
+    "312",
+    "322"
+   ],
+   "text": "「如是，世尊！此人以是因緣得福甚多。」"
+  },
+  "93": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 186,
+    "rendered": "93."
+   },
+   "targets": [
+    "325",
+    "327"
+   ],
+   "text": "「須菩提！若福德有實，如來不說得福德多；以福德無故，如來說得福德多。」"
+  },
+  "94": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 188,
+    "rendered": "94."
+   },
+   "targets": [
+    "328",
+    "329"
+   ],
+   "text": "「須菩提！於意云何？佛可以具足色身見不？」"
+  },
+  "95": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 190,
+    "rendered": "95."
+   },
+   "targets": [
+    "330",
+    "331",
+    "332",
+    "333"
+   ],
+   "text": "「不也，世尊！如來不應以具足色身見。何以故？如來說具足色身，即非具足色身，是名具足色身。」"
+  },
+  "96": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 192,
+    "rendered": "96."
+   },
+   "targets": [
+    "334",
+    "335"
+   ],
+   "text": "「須菩提！於意云何？如來可以具足諸相見不？」"
+  },
+  "97": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 194,
+    "rendered": "97."
+   },
+   "targets": [
+    "336",
+    "337",
+    "338"
+   ],
+   "text": "「不也，世尊！如來不應以具足諸相見。何以故？如來說諸相具足，即非具足，是名諸相具足。」"
+  },
+  "98": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 196,
+    "rendered": "98."
+   },
+   "targets": [
+    "339",
+    "340",
+    "342",
+    "343"
+   ],
+   "text": "「須菩提！汝勿謂如來作是念，『我當有所說法』。莫作是念，何以故？若人言『如來有所說法』，即為謗佛，不能解我所說故。須菩提！說法者，無法可說，是名說法。」"
+  },
+  "99": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 198,
+    "rendered": "99."
+   },
+   "targets": [
+    "344",
+    "345"
+   ],
+   "text": "爾時，慧命須菩提白佛言：「世尊！頗有眾生於未來世，聞說是法生信心不？」"
+  },
+  "100": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 200,
+    "rendered": "100."
+   },
+   "targets": [
+    "346",
+    "347",
+    "348",
+    "374"
+   ],
+   "text": "佛言：「須菩提！彼非眾生，非不眾生。何以故？須菩提！眾生、眾生者，如來說非眾生，是名眾生。」"
+  },
+  "101": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 202,
+    "rendered": "101."
+   },
+   "targets": [
+    "351"
+   ],
+   "text": "須菩提白佛言：「世尊！佛得阿耨多羅三藐三菩提，為無所得耶？」"
+  },
+  "102": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 204,
+    "rendered": "102."
+   },
+   "targets": [
+    "352",
+    "353",
+    "354"
+   ],
+   "text": "「如是，如是！須菩提！我於阿耨多羅三藐三菩提乃至無有少法可得，是名阿耨多羅三藐三菩提。」"
+  },
+  "103": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 206,
+    "rendered": "103."
+   },
+   "targets": [
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360"
+   ],
+   "text": "「復次，須菩提！是法平等，無有高下，是名阿耨多羅三藐三菩提；以無我、無人、無眾生、無壽者，修一切善法，則得阿耨多羅三藐三菩提。須菩提！所言善法者，如來說非善法，是名善法。」"
+  },
+  "104": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 208,
+    "rendered": "104."
+   },
+   "targets": [
+    "361"
+   ],
+   "text": "「須菩提！若三千大千世界中所有諸須彌山王，如是等七寶聚，有人持用布施；若人以此《般若波羅蜜經》，乃至四句偈等，受持、讀誦、為他人說，於前福德百分不及一，百千萬億分，乃至算數、譬喻所不能及。」"
+  },
+  "105": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 210,
+    "rendered": "105."
+   },
+   "targets": [
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368"
+   ],
+   "text": "「須菩提！於意云何？汝等勿謂如來作是念：『我當度眾生。』須菩提！莫作是念。何以故？實無有眾生如來度者，若有眾生如來度者，如來則有我、人、眾生、壽者。須菩提！如來說有我者，則非有我，而凡夫之人以為有我。須菩提！凡夫者，如來說則非凡夫。」"
+  },
+  "106": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 212,
+    "rendered": "106."
+   },
+   "targets": [
+    "370",
+    "371"
+   ],
+   "text": "「須菩提！於意云何？可以三十二相觀如來不？」"
+  },
+  "107": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 214,
+    "rendered": "107."
+   },
+   "targets": [
+    "371"
+   ],
+   "text": "須菩提言：「如是，如是！以三十二相觀如來。」"
+  },
+  "108": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 216,
+    "rendered": "108."
+   },
+   "targets": [
+    "376"
+   ],
+   "text": "佛言：「須菩提！若以三十二相觀如來者，轉輪聖王則是如來。」"
+  },
+  "109": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 218,
+    "rendered": "109."
+   },
+   "targets": [
+    "372",
+    "373"
+   ],
+   "text": "須菩提白佛言：「世尊！如我解佛所說義，不應以三十二相觀如來。」"
+  },
+  "110": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 220,
+    "rendered": "110."
+   },
+   "targets": [
+    "380",
+    "381",
+    "382",
+    "383"
+   ],
+   "text": "爾時，世尊而說偈言：「若以色見我，  以音聲求我，是人行邪道，  不能見如來。」"
+  },
+  "111": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 222,
+    "rendered": "111."
+   },
+   "targets": [
+    "385",
+    "386",
+    "387"
+   ],
+   "text": "「須菩提！汝若作是念：『如來不以具足相故，得阿耨多羅三藐三菩提。』須菩提！莫作是念：『如來不以具足相故，得阿耨多羅三藐三菩提。』」"
+  },
+  "112": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 224,
+    "rendered": "112."
+   },
+   "targets": [
+    "388",
+    "389"
+   ],
+   "text": "「須菩提！汝若作是念：『發阿耨多羅三藐三菩提者，說諸法斷滅相。』莫作是念。何以故？發阿耨多羅三藐三菩提心者，於法不說斷滅相。」"
+  },
+  "113": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 226,
+    "rendered": "113."
+   },
+   "targets": [
+    "390",
+    "391"
+   ],
+   "text": "「須菩提！若菩薩以滿恒河沙等世界七寶布施；若復有人知一切法無我，得成於忍，此菩薩勝前菩薩所得功德。須菩提！以諸菩薩不受福德故。」"
+  },
+  "114": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 228,
+    "rendered": "114."
+   },
+   "targets": [
+    "392"
+   ],
+   "text": "須菩提白佛言：「世尊！云何菩薩不受福德？」"
+  },
+  "115": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 230,
+    "rendered": "115."
+   },
+   "targets": [
+    "393",
+    "394"
+   ],
+   "text": "「須菩提！菩薩所作福德，不應貪著，是故說不受福德。」"
+  },
+  "116": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 232,
+    "rendered": "116."
+   },
+   "targets": [
+    "395",
+    "396",
+    "397"
+   ],
+   "text": "「須菩提！若有人言『如來若來若去、若坐若臥』，是人不解我所說義。何以故？如來者，無所從來，亦無所去，故名如來。」"
+  },
+  "117": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 234,
+    "rendered": "117."
+   },
+   "targets": [
+    "398"
+   ],
+   "text": "「須菩提！若善男子、善女人以三千大千世界碎為微塵，於意云何？是微塵眾寧為多不？」"
+  },
+  "118": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 236,
+    "rendered": "118."
+   },
+   "targets": [
+    "399",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408"
+   ],
+   "text": "「甚多，世尊！何以故？若是微塵眾實有者，佛則不說是微塵眾。所以者何？佛說微塵眾，則非微塵眾，是名微塵眾。世尊！如來所說三千大千世界，則非世界，是名世界。何以故？若世界實有者，則是一合相。如來說一合相，則非一合相，是名一合相。」"
+  },
+  "119": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 238,
+    "rendered": "119."
+   },
+   "targets": [
+    "409",
+    "410"
+   ],
+   "text": "「須菩提！一合相者，則是不可說，但凡夫之人貪著其事。」"
+  },
+  "120": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 240,
+    "rendered": "120."
+   },
+   "targets": [
+    "411",
+    "412"
+   ],
+   "text": "「須菩提！若人言『佛說我見、人見、眾生見、壽者見』，須菩提！於意云何？是人解我所說義不？」"
+  },
+  "121": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 242,
+    "rendered": "121."
+   },
+   "targets": [
+    "413",
+    "414",
+    "415",
+    "416"
+   ],
+   "text": "「世尊！是人不解如來所說義。何以故？世尊說我見、人見、眾生見、壽者見，即非我見、人見、眾生見、壽者見，是名我見、人見、眾生見、壽者見。」"
+  },
+  "122": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 244,
+    "rendered": "122."
+   },
+   "targets": [
+    "417",
+    "418",
+    "419",
+    "420"
+   ],
+   "text": "「須菩提！發阿耨多羅三藐三菩提心者，於一切法，應如是知，如是見，如是信解，不生法相。須菩提！所言法相者，如來說即非法相，是名法相。」"
+  },
+  "123": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 246,
+    "rendered": "123."
+   },
+   "targets": [
+    "421",
+    "422"
+   ],
+   "text": "「須菩提！若有人以滿無量阿僧祇世界七寶持用布施，若有善男子、善女人發菩薩心者，持於此經乃至四句偈等，受持、讀誦、為人演說，其福勝彼。云何為人演說？不取於相，如如不動。何以故？」"
+  },
+  "124": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 248,
+    "rendered": "124."
+   },
+   "targets": [
+    "424"
+   ],
+   "text": "「一切有為法， 如夢、幻、泡、影，如露亦如電，  應作如是觀。」"
+  },
+  "125": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 250,
+    "rendered": "125."
+   },
+   "targets": [
+    "425",
+    "426"
+   ],
+   "text": "佛說是經已，長老須菩提及諸比丘、比丘尼、優婆塞、優婆夷，一切世間天、人、阿修羅，聞佛所說，皆大歡喜，信受奉行。"
+  },
+  "126": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 252,
+    "rendered": "126."
+   },
+   "targets": [
+    "428"
+   ],
+   "text": "真言"
+  },
+  "127": {
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx",
+    "paragraph": 254,
+    "rendered": "127."
+   },
+   "targets": [
+    "428"
+   ],
+   "text": "那謨婆伽跋帝　鉢喇壤　波羅弭多曳　唵伊利底　伊室利　輸盧馱　毘舍耶　毘舍耶　莎婆訶"
+  }
+ },
+ "legend": null,
+ "notes": "The 32 〔…分第N〕 chapter headings are not in MFF4994FD; they come from the OpenPecha version of the same translation (i5gV2cTZzE5NEl4DObMKu), placed before the block where that version's next segment begins. The 127 auto-numbered paragraphs of MFF4994FD are the human segment numbers every Chinese commentary in this corpus refers to with typed prefixes (\"12.\", \"4-12.\"). Block ^N is segment N. Transclusions to the Tibetan root come from the Chinese-Tibetan Tsawa doc, which re-splits this same text into Tibetan sentence rows (10 passages reordered to Tibetan order).",
+ "raw_alignment": [
+  {
+   "row": 1,
+   "target_ids": [
+    "1"
+   ],
+   "own_ids": [],
+   "text": "金剛般若波羅蜜經"
+  },
+  {
+   "row": 5,
+   "target_ids": [
+    "5"
+   ],
+   "own_ids": [
+    "1",
+    "2"
+   ],
+   "text": "如是我聞：一時，"
+  },
+  {
+   "row": 6,
+   "target_ids": [
+    "6"
+   ],
+   "own_ids": [
+    "2"
+   ],
+   "text": "佛在舍衛國祇樹給孤獨園， 與大比丘眾千二百五十人俱。"
+  },
+  {
+   "row": 7,
+   "target_ids": [
+    "7"
+   ],
+   "own_ids": [
+    "2"
+   ],
+   "text": "爾時，世尊食時，著衣持鉢，入舍衛大城乞食。"
+  },
+  {
+   "row": 8,
+   "target_ids": [
+    "8"
+   ],
+   "own_ids": [
+    "2"
+   ],
+   "text": "於其城中，次第乞已，"
+  },
+  {
+   "row": 9,
+   "target_ids": [
+    "9"
+   ],
+   "own_ids": [
+    "2"
+   ],
+   "text": "還至本處。飯食訖，收衣鉢，洗足已，敷座而坐。"
+  },
+  {
+   "row": 13,
+   "target_ids": [
+    "13"
+   ],
+   "own_ids": [
+    "3"
+   ],
+   "text": "時，長老須菩提在大眾中即從座起，偏袒右肩，右膝著地，合掌恭敬"
+  },
+  {
+   "row": 14,
+   "target_ids": [
+    "14"
+   ],
+   "own_ids": [
+    "3"
+   ],
+   "text": "而白佛言："
+  },
+  {
+   "row": 15,
+   "target_ids": [
+    "15"
+   ],
+   "own_ids": [
+    "3"
+   ],
+   "text": "如來善護念諸菩薩，善付囑諸菩薩。「希有世尊！"
+  },
+  {
+   "row": 16,
+   "target_ids": [
+    "16"
+   ],
+   "own_ids": [
+    "3"
+   ],
+   "text": "世尊！善男子、善女人，發阿耨多羅三藐三菩提心，應云何住？"
+  },
+  {
+   "row": 18,
+   "target_ids": [
+    "18"
+   ],
+   "own_ids": [
+    "3"
+   ],
+   "text": "云何降伏其心？」"
+  },
+  {
+   "row": 19,
+   "target_ids": [
+    "19"
+   ],
+   "own_ids": [
+    "5"
+   ],
+   "text": "「唯然。世尊！願樂欲聞。」"
+  },
+  {
+   "row": 20,
+   "target_ids": [
+    "20"
+   ],
+   "own_ids": [
+    "16"
+   ],
+   "text": "佛言："
+  },
+  {
+   "row": 21,
+   "target_ids": [
+    "21"
+   ],
+   "own_ids": [
+    "4"
+   ],
+   "text": "「善哉，善哉！須菩提！"
+  },
+  {
+   "row": 22,
+   "target_ids": [
+    "22"
+   ],
+   "own_ids": [
+    "4"
+   ],
+   "text": "如汝所說："
+  },
+  {
+   "row": 23,
+   "target_ids": [
+    "23"
+   ],
+   "own_ids": [
+    "4"
+   ],
+   "text": "『如來善護念諸菩薩，"
+  },
+  {
+   "row": 24,
+   "target_ids": [
+    "24"
+   ],
+   "own_ids": [
+    "4"
+   ],
+   "text": "善付囑諸菩薩。』"
+  },
+  {
+   "row": 25,
+   "target_ids": [
+    "25"
+   ],
+   "own_ids": [
+    "4"
+   ],
+   "text": "汝今諦聽，當為汝說。"
+  },
+  {
+   "row": 26,
+   "target_ids": [
+    "26"
+   ],
+   "own_ids": [
+    "4"
+   ],
+   "text": "善男子、善女人，發阿耨多羅三藐三菩提心，應如是住，如是降伏其心。」"
+  },
+  {
+   "row": 28,
+   "target_ids": [
+    "28"
+   ],
+   "own_ids": [
+    "6"
+   ],
+   "text": "佛告須菩提："
+  },
+  {
+   "row": 29,
+   "target_ids": [
+    "29"
+   ],
+   "own_ids": [
+    "6"
+   ],
+   "text": "「諸菩薩摩訶薩應如是降伏其心：『所有一切眾生之類，若卵生、若胎生、若濕生、若化生，若有色、若無色，若有想、若無想、若非有想非無想，我皆令入無餘涅槃而滅度之。』"
+  },
+  {
+   "row": 30,
+   "target_ids": [
+    "30"
+   ],
+   "own_ids": [
+    "6"
+   ],
+   "text": "如是滅度無量、無數、無邊眾生，實無眾生得滅度者。"
+  },
+  {
+   "row": 32,
+   "target_ids": [
+    "32"
+   ],
+   "own_ids": [
+    "6"
+   ],
+   "text": "何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，即非菩薩。"
+  },
+  {
+   "row": 33,
+   "target_ids": [
+    "33"
+   ],
+   "own_ids": [
+    "7"
+   ],
+   "text": "「復次，須菩提！菩薩於法應無所住行於布施，"
+  },
+  {
+   "row": 35,
+   "target_ids": [
+    "35"
+   ],
+   "own_ids": [
+    "7"
+   ],
+   "text": "所謂不住色布施，"
+  },
+  {
+   "row": 36,
+   "target_ids": [
+    "36"
+   ],
+   "own_ids": [
+    "7"
+   ],
+   "text": "不住聲、香、味、觸、法布施。"
+  },
+  {
+   "row": 37,
+   "target_ids": [
+    "37"
+   ],
+   "own_ids": [
+    "7"
+   ],
+   "text": "須菩提！菩薩應如是布施，不住於相。"
+  },
+  {
+   "row": 38,
+   "target_ids": [
+    "38"
+   ],
+   "own_ids": [
+    "7"
+   ],
+   "text": "何以故？若菩薩不住相布施，其福德不可思量。"
+  },
+  {
+   "row": 39,
+   "target_ids": [
+    "39"
+   ],
+   "own_ids": [
+    "8"
+   ],
+   "text": "「須菩提！於意云何？東方虛空可思量不？」"
+  },
+  {
+   "row": 40,
+   "target_ids": [
+    "40"
+   ],
+   "own_ids": [
+    "9"
+   ],
+   "text": "「不也，世尊！」"
+  },
+  {
+   "row": 41,
+   "target_ids": [
+    "41"
+   ],
+   "own_ids": [
+    "10"
+   ],
+   "text": "「須菩提！南、西、北方，四維、上、下虛空可思量不？」"
+  },
+  {
+   "row": 42,
+   "target_ids": [
+    "42"
+   ],
+   "own_ids": [
+    "11"
+   ],
+   "text": "「不也，世尊！」"
+  },
+  {
+   "row": 43,
+   "target_ids": [
+    "43"
+   ],
+   "own_ids": [
+    "12"
+   ],
+   "text": "「須菩提！菩薩無住相布施，福德亦復如是不可思量。須菩提！菩薩但應如所教住。」"
+  },
+  {
+   "row": 44,
+   "target_ids": [
+    "44"
+   ],
+   "own_ids": [
+    "13"
+   ],
+   "text": "「須菩提！於意云何？可以身相見如來不？」"
+  },
+  {
+   "row": 45,
+   "target_ids": [
+    "45"
+   ],
+   "own_ids": [
+    "14"
+   ],
+   "text": "「不也，世尊！"
+  },
+  {
+   "row": 46,
+   "target_ids": [
+    "46"
+   ],
+   "own_ids": [
+    "14"
+   ],
+   "text": "不可以身相得見如來。"
+  },
+  {
+   "row": 47,
+   "target_ids": [
+    "47"
+   ],
+   "own_ids": [
+    "14"
+   ],
+   "text": "何以故？如來所說身相，即非身相。」"
+  },
+  {
+   "row": 48,
+   "target_ids": [
+    "48"
+   ],
+   "own_ids": [
+    "15"
+   ],
+   "text": "佛告須菩提："
+  },
+  {
+   "row": 49,
+   "target_ids": [
+    "49"
+   ],
+   "own_ids": [
+    "15"
+   ],
+   "text": "「凡所有相，皆是虛妄；"
+  },
+  {
+   "row": 50,
+   "target_ids": [
+    "50"
+   ],
+   "own_ids": [
+    "15"
+   ],
+   "text": "若見諸相非相，"
+  },
+  {
+   "row": 51,
+   "target_ids": [
+    "51"
+   ],
+   "own_ids": [
+    "15"
+   ],
+   "text": "則見如來。」"
+  },
+  {
+   "row": 52,
+   "target_ids": [
+    "52"
+   ],
+   "own_ids": [
+    "16"
+   ],
+   "text": "須菩提白佛言："
+  },
+  {
+   "row": 53,
+   "target_ids": [
+    "53"
+   ],
+   "own_ids": [
+    "16"
+   ],
+   "text": "「世尊！頗有眾生，得聞如是言說章句，生實信不？」"
+  },
+  {
+   "row": 54,
+   "target_ids": [
+    "54"
+   ],
+   "own_ids": [
+    "17"
+   ],
+   "text": "佛告須菩提：「莫作是說。"
+  },
+  {
+   "row": 55,
+   "target_ids": [
+    "55"
+   ],
+   "own_ids": [
+    "17"
+   ],
+   "text": "如來滅後後五百歲，有持戒修福者， 於此章句能生信心，以此為實，"
+  },
+  {
+   "row": 56,
+   "target_ids": [
+    "56"
+   ],
+   "own_ids": [
+    "17"
+   ],
+   "text": "當知是人不於一佛二佛、三、四、五佛而種善根，"
+  },
+  {
+   "row": 58,
+   "target_ids": [
+    "58"
+   ],
+   "own_ids": [
+    "17"
+   ],
+   "text": "已於無量千萬佛所種諸善根。"
+  },
+  {
+   "row": 59,
+   "target_ids": [
+    "59"
+   ],
+   "own_ids": [
+    "17"
+   ],
+   "text": "聞是章句，乃至一念生淨信者，須菩提！如來悉知"
+  },
+  {
+   "row": 60,
+   "target_ids": [
+    "60"
+   ],
+   "own_ids": [
+    "17"
+   ],
+   "text": "悉見"
+  },
+  {
+   "row": 61,
+   "target_ids": [
+    "61"
+   ],
+   "own_ids": [
+    "17"
+   ],
+   "text": "是諸眾生得如是無量福德。"
+  },
+  {
+   "row": 62,
+   "target_ids": [
+    "62"
+   ],
+   "own_ids": [
+    "17"
+   ],
+   "text": "何以故？是諸眾生無復我相、"
+  },
+  {
+   "row": 63,
+   "target_ids": [
+    "63"
+   ],
+   "own_ids": [
+    "17"
+   ],
+   "text": "人相、眾生相、壽者相。"
+  },
+  {
+   "row": 64,
+   "target_ids": [
+    "64"
+   ],
+   "own_ids": [
+    "18"
+   ],
+   "text": "「無法相，亦無非法相。"
+  },
+  {
+   "row": 66,
+   "target_ids": [
+    "66"
+   ],
+   "own_ids": [
+    "18"
+   ],
+   "text": "何以故？是諸眾生若心取相，則為著我、"
+  },
+  {
+   "row": 67,
+   "target_ids": [
+    "67"
+   ],
+   "own_ids": [
+    "18"
+   ],
+   "text": "人、眾生、壽者。」"
+  },
+  {
+   "row": 68,
+   "target_ids": [
+    "68"
+   ],
+   "own_ids": [
+    "19"
+   ],
+   "text": "「若取法相，即著我、人、眾生、壽者。何以故？若取非法相，即著我、"
+  },
+  {
+   "row": 69,
+   "target_ids": [
+    "69"
+   ],
+   "own_ids": [
+    "19"
+   ],
+   "text": "人、眾生、壽者。"
+  },
+  {
+   "row": 70,
+   "target_ids": [
+    "70"
+   ],
+   "own_ids": [
+    "19"
+   ],
+   "text": "是故不應取法，不應取非法。"
+  },
+  {
+   "row": 71,
+   "target_ids": [
+    "71"
+   ],
+   "own_ids": [
+    "19"
+   ],
+   "text": "以是義故，如來常說：『汝等比丘，知我說法，如筏喻者，法尚應捨，何況非法。」"
+  },
+  {
+   "row": 73,
+   "target_ids": [
+    "73"
+   ],
+   "own_ids": [
+    "20"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 74,
+   "target_ids": [
+    "74"
+   ],
+   "own_ids": [
+    "20"
+   ],
+   "text": "如來得阿耨多羅三藐三菩提耶？"
+  },
+  {
+   "row": 75,
+   "target_ids": [
+    "75"
+   ],
+   "own_ids": [
+    "20"
+   ],
+   "text": "如來有所說法耶？」"
+  },
+  {
+   "row": 76,
+   "target_ids": [
+    "76"
+   ],
+   "own_ids": [
+    "21"
+   ],
+   "text": "  須菩提言："
+  },
+  {
+   "row": 77,
+   "target_ids": [
+    "77"
+   ],
+   "own_ids": [
+    "21"
+   ],
+   "text": "「如我解佛所說義，無有定法名阿耨多羅三藐三菩提，"
+  },
+  {
+   "row": 78,
+   "target_ids": [
+    "78"
+   ],
+   "own_ids": [
+    "21"
+   ],
+   "text": "亦無有定法如來可說。"
+  },
+  {
+   "row": 79,
+   "target_ids": [
+    "79"
+   ],
+   "own_ids": [
+    "21"
+   ],
+   "text": "何以故？如來所說法，皆不可取、不可說、"
+  },
+  {
+   "row": 80,
+   "target_ids": [
+    "80"
+   ],
+   "own_ids": [
+    "21"
+   ],
+   "text": "非法、非非法。"
+  },
+  {
+   "row": 81,
+   "target_ids": [
+    "81"
+   ],
+   "own_ids": [
+    "21"
+   ],
+   "text": "所以者何？一切賢聖皆以無為法而有差別。」"
+  },
+  {
+   "row": 82,
+   "target_ids": [
+    "82"
+   ],
+   "own_ids": [
+    "22"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 83,
+   "target_ids": [
+    "83"
+   ],
+   "own_ids": [
+    "22"
+   ],
+   "text": "若人滿三千大千世界七寶以用布施，是人所得福德，寧為多不？」"
+  },
+  {
+   "row": 84,
+   "target_ids": [
+    "84"
+   ],
+   "own_ids": [
+    "23"
+   ],
+   "text": "須菩提言："
+  },
+  {
+   "row": 85,
+   "target_ids": [
+    "85"
+   ],
+   "own_ids": [
+    "23"
+   ],
+   "text": "「甚多，世尊！"
+  },
+  {
+   "row": 87,
+   "target_ids": [
+    "87"
+   ],
+   "own_ids": [
+    "23"
+   ],
+   "text": "何以故？是福德即非福德性，"
+  },
+  {
+   "row": 88,
+   "target_ids": [
+    "88"
+   ],
+   "own_ids": [
+    "23"
+   ],
+   "text": "是故如來說福德多。」"
+  },
+  {
+   "row": 89,
+   "target_ids": [
+    "89"
+   ],
+   "own_ids": [
+    "24"
+   ],
+   "text": "「若復有人，於此經中受持乃至四句偈等，為他人說，其福勝彼。"
+  },
+  {
+   "row": 90,
+   "target_ids": [
+    "90"
+   ],
+   "own_ids": [
+    "24"
+   ],
+   "text": "何以故？須菩提！一切諸佛及諸佛阿耨多羅三藐三菩提法，皆從此經出。"
+  },
+  {
+   "row": 92,
+   "target_ids": [
+    "92"
+   ],
+   "own_ids": [
+    "24"
+   ],
+   "text": "須菩提！所謂佛法者，即非佛法。」"
+  },
+  {
+   "row": 94,
+   "target_ids": [
+    "94"
+   ],
+   "own_ids": [
+    "25"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 95,
+   "target_ids": [
+    "95"
+   ],
+   "own_ids": [
+    "25"
+   ],
+   "text": "須陀洹能作是念，『我得須陀洹果』不？」"
+  },
+  {
+   "row": 96,
+   "target_ids": [
+    "96"
+   ],
+   "own_ids": [
+    "26"
+   ],
+   "text": "須菩提言：「不也，世尊！"
+  },
+  {
+   "row": 97,
+   "target_ids": [
+    "97"
+   ],
+   "own_ids": [
+    "26"
+   ],
+   "text": "何以故？須陀洹名為入流，而無所入，"
+  },
+  {
+   "row": 99,
+   "target_ids": [
+    "99"
+   ],
+   "own_ids": [
+    "26"
+   ],
+   "text": "不入色、聲、香、味、觸、法，"
+  },
+  {
+   "row": 100,
+   "target_ids": [
+    "100"
+   ],
+   "own_ids": [
+    "26"
+   ],
+   "text": "是名須陀洹。」"
+  },
+  {
+   "row": 103,
+   "target_ids": [
+    "103"
+   ],
+   "own_ids": [
+    "27"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 104,
+   "target_ids": [
+    "104"
+   ],
+   "own_ids": [
+    "27"
+   ],
+   "text": "斯陀含能作是念，『我得斯陀含果』不？」"
+  },
+  {
+   "row": 105,
+   "target_ids": [
+    "105"
+   ],
+   "own_ids": [
+    "28"
+   ],
+   "text": "須菩提言：「不也，世尊！"
+  },
+  {
+   "row": 106,
+   "target_ids": [
+    "106"
+   ],
+   "own_ids": [
+    "28"
+   ],
+   "text": "何以故？斯陀含名一往來，而實無往來，"
+  },
+  {
+   "row": 107,
+   "target_ids": [
+    "107"
+   ],
+   "own_ids": [
+    "28"
+   ],
+   "text": "是名斯陀含。」"
+  },
+  {
+   "row": 110,
+   "target_ids": [
+    "110"
+   ],
+   "own_ids": [
+    "29"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 111,
+   "target_ids": [
+    "111"
+   ],
+   "own_ids": [
+    "29"
+   ],
+   "text": "阿那含能作是念，『我得阿那含果』不？」"
+  },
+  {
+   "row": 112,
+   "target_ids": [
+    "112"
+   ],
+   "own_ids": [
+    "30"
+   ],
+   "text": "須菩提言：「不也，世尊！"
+  },
+  {
+   "row": 113,
+   "target_ids": [
+    "113"
+   ],
+   "own_ids": [
+    "30"
+   ],
+   "text": "何以故？阿那含名為不來，而實無來，"
+  },
+  {
+   "row": 114,
+   "target_ids": [
+    "114"
+   ],
+   "own_ids": [
+    "30"
+   ],
+   "text": "是故名阿那含。」"
+  },
+  {
+   "row": 115,
+   "target_ids": [
+    "115"
+   ],
+   "own_ids": [
+    "31"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 116,
+   "target_ids": [
+    "116"
+   ],
+   "own_ids": [
+    "31"
+   ],
+   "text": "阿羅漢能作是念，『我得阿羅漢道』不？」"
+  },
+  {
+   "row": 117,
+   "target_ids": [
+    "117"
+   ],
+   "own_ids": [
+    "32"
+   ],
+   "text": "須菩提言：「不也，世尊！"
+  },
+  {
+   "row": 118,
+   "target_ids": [
+    "118"
+   ],
+   "own_ids": [
+    "32"
+   ],
+   "text": "何以故？實無有法名阿羅漢。"
+  },
+  {
+   "row": 119,
+   "target_ids": [
+    "119"
+   ],
+   "own_ids": [
+    "32"
+   ],
+   "text": "世尊！若阿羅漢作是念『我得阿羅漢道』，即為著我、"
+  },
+  {
+   "row": 120,
+   "target_ids": [
+    "120"
+   ],
+   "own_ids": [
+    "32"
+   ],
+   "text": "人、眾生、壽者。"
+  },
+  {
+   "row": 121,
+   "target_ids": [
+    "121"
+   ],
+   "own_ids": [
+    "32"
+   ],
+   "text": "世尊！佛說我得無諍三昧人中最為第一，"
+  },
+  {
+   "row": 122,
+   "target_ids": [
+    "122"
+   ],
+   "own_ids": [
+    "32"
+   ],
+   "text": "是第一離欲阿羅漢。我不作是念：『我是離欲阿羅漢。』"
+  },
+  {
+   "row": 123,
+   "target_ids": [
+    "123"
+   ],
+   "own_ids": [
+    "32"
+   ],
+   "text": "世尊！我若作是念『我得阿羅漢道』，"
+  },
+  {
+   "row": 124,
+   "target_ids": [
+    "124"
+   ],
+   "own_ids": [
+    "32"
+   ],
+   "text": "世尊則不說須菩提是樂阿蘭那行者。以須菩提實無所行，而名須菩提是樂阿蘭那行。」"
+  },
+  {
+   "row": 125,
+   "target_ids": [
+    "125"
+   ],
+   "own_ids": [
+    "33"
+   ],
+   "text": "佛告須菩提：「於意云何？"
+  },
+  {
+   "row": 126,
+   "target_ids": [
+    "126"
+   ],
+   "own_ids": [
+    "33"
+   ],
+   "text": "如來昔在然燈佛所，於法有所得不？」"
+  },
+  {
+   "row": 128,
+   "target_ids": [
+    "128"
+   ],
+   "own_ids": [
+    "34"
+   ],
+   "text": "「世尊！如來在然燈佛所，於法實無所得。」"
+  },
+  {
+   "row": 129,
+   "target_ids": [
+    "129"
+   ],
+   "own_ids": [
+    "35",
+    "36"
+   ],
+   "text": "「須菩提！於意云何？菩薩莊嚴佛土不？」「不也，世尊！"
+  },
+  {
+   "row": 130,
+   "target_ids": [
+    "130"
+   ],
+   "own_ids": [
+    "36"
+   ],
+   "text": "何以故？莊嚴佛土者，則非莊嚴，"
+  },
+  {
+   "row": 131,
+   "target_ids": [
+    "131"
+   ],
+   "own_ids": [
+    "36"
+   ],
+   "text": "是名莊嚴。」"
+  },
+  {
+   "row": 132,
+   "target_ids": [
+    "132"
+   ],
+   "own_ids": [
+    "37"
+   ],
+   "text": "「是故須菩提，諸菩薩摩訶薩應如是生清淨心，應無所住而生其心。」"
+  },
+  {
+   "row": 134,
+   "target_ids": [
+    "134"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "不應住色生心，"
+  },
+  {
+   "row": 135,
+   "target_ids": [
+    "135"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "不應住聲、香、味、觸、法生心，"
+  },
+  {
+   "row": 136,
+   "target_ids": [
+    "136"
+   ],
+   "own_ids": [
+    "38"
+   ],
+   "text": "「須菩提！譬如有人，身如須彌山王，於意云何？是身為大不？」"
+  },
+  {
+   "row": 137,
+   "target_ids": [
+    "137"
+   ],
+   "own_ids": [
+    "39"
+   ],
+   "text": "須菩提言：「甚大，世尊！"
+  },
+  {
+   "row": 139,
+   "target_ids": [
+    "139"
+   ],
+   "own_ids": [
+    "39"
+   ],
+   "text": "何以故？佛說非身，"
+  },
+  {
+   "row": 140,
+   "target_ids": [
+    "140"
+   ],
+   "own_ids": [
+    "39"
+   ],
+   "text": "是名大身。」"
+  },
+  {
+   "row": 142,
+   "target_ids": [
+    "142"
+   ],
+   "own_ids": [
+    "40"
+   ],
+   "text": "「須菩提！"
+  },
+  {
+   "row": 143,
+   "target_ids": [
+    "143"
+   ],
+   "own_ids": [
+    "40"
+   ],
+   "text": "如恒河中所有沙數，如是沙等恒河，於意云何？是諸恒河沙寧為多不？」"
+  },
+  {
+   "row": 144,
+   "target_ids": [
+    "144"
+   ],
+   "own_ids": [
+    "41"
+   ],
+   "text": "須菩提言：「甚多，世尊！但諸恒河尚多無數，何況其沙。」"
+  },
+  {
+   "row": 145,
+   "target_ids": [
+    "145"
+   ],
+   "own_ids": [
+    "42"
+   ],
+   "text": "「須菩提！我今實言告汝，"
+  },
+  {
+   "row": 147,
+   "target_ids": [
+    "147"
+   ],
+   "own_ids": [
+    "42"
+   ],
+   "text": "若有善男子、善女人，以七寶滿爾所恒河沙數三千大千世界"
+  },
+  {
+   "row": 148,
+   "target_ids": [
+    "148"
+   ],
+   "own_ids": [
+    "42"
+   ],
+   "text": "以用布施，得福多不？」"
+  },
+  {
+   "row": 149,
+   "target_ids": [
+    "149"
+   ],
+   "own_ids": [
+    "43"
+   ],
+   "text": "須菩提言：「甚多，世尊！」"
+  },
+  {
+   "row": 153,
+   "target_ids": [
+    "153"
+   ],
+   "own_ids": [
+    "44"
+   ],
+   "text": "佛告須菩提：「若善男子、善女人於此經中，乃至受持四句偈等，為他人說，而此福德勝前福德。」"
+  },
+  {
+   "row": 154,
+   "target_ids": [
+    "154"
+   ],
+   "own_ids": [
+    "45"
+   ],
+   "text": "「復次，須菩提！隨說是經，乃至四句偈等，當知此處，一切世間天、人、阿修羅皆應供養，如佛塔廟，何況有人盡能受持讀誦？ 須菩提！當知是人成就最上、第一、希有之法，"
+  },
+  {
+   "row": 155,
+   "target_ids": [
+    "155"
+   ],
+   "own_ids": [
+    "45"
+   ],
+   "text": "若是經典所在之處，則為有佛，若尊重弟子。」"
+  },
+  {
+   "row": 156,
+   "target_ids": [
+    "156"
+   ],
+   "own_ids": [
+    "46"
+   ],
+   "text": "爾時，須菩提白佛言："
+  },
+  {
+   "row": 157,
+   "target_ids": [
+    "157"
+   ],
+   "own_ids": [
+    "46"
+   ],
+   "text": "「世尊！當何名此經？"
+  },
+  {
+   "row": 158,
+   "target_ids": [
+    "158"
+   ],
+   "own_ids": [
+    "46"
+   ],
+   "text": "我等云何奉持？」"
+  },
+  {
+   "row": 159,
+   "target_ids": [
+    "159"
+   ],
+   "own_ids": [
+    "47"
+   ],
+   "text": "佛告須菩提："
+  },
+  {
+   "row": 160,
+   "target_ids": [
+    "160"
+   ],
+   "own_ids": [
+    "47"
+   ],
+   "text": "「是經名為『金剛般若波羅蜜』。"
+  },
+  {
+   "row": 161,
+   "target_ids": [
+    "161"
+   ],
+   "own_ids": [
+    "47"
+   ],
+   "text": "以是名字，汝當奉持。 "
+  },
+  {
+   "row": 162,
+   "target_ids": [
+    "162"
+   ],
+   "own_ids": [
+    "47"
+   ],
+   "text": "所以者何？須菩提！佛說般若波羅蜜，則非般若波羅蜜。"
+  },
+  {
+   "row": 165,
+   "target_ids": [
+    "165"
+   ],
+   "own_ids": [
+    "47"
+   ],
+   "text": "須菩提！於意云何？如來有所說法不？」"
+  },
+  {
+   "row": 166,
+   "target_ids": [
+    "166"
+   ],
+   "own_ids": [
+    "48"
+   ],
+   "text": "須菩提白佛言：「世尊！如來無所說。」"
+  },
+  {
+   "row": 167,
+   "target_ids": [
+    "167"
+   ],
+   "own_ids": [
+    "49"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 168,
+   "target_ids": [
+    "168"
+   ],
+   "own_ids": [
+    "49"
+   ],
+   "text": "三千大千世界所有微塵是為多不？」"
+  },
+  {
+   "row": 169,
+   "target_ids": [
+    "169"
+   ],
+   "own_ids": [
+    "50"
+   ],
+   "text": "須菩提言：「甚多，世尊！」"
+  },
+  {
+   "row": 171,
+   "target_ids": [
+    "171"
+   ],
+   "own_ids": [
+    "51"
+   ],
+   "text": "「須菩提！諸微塵，如來說非微塵，"
+  },
+  {
+   "row": 172,
+   "target_ids": [
+    "172"
+   ],
+   "own_ids": [
+    "51"
+   ],
+   "text": "是名微塵。"
+  },
+  {
+   "row": 173,
+   "target_ids": [
+    "173"
+   ],
+   "own_ids": [
+    "51"
+   ],
+   "text": "如來說世界，非世界，"
+  },
+  {
+   "row": 174,
+   "target_ids": [
+    "174"
+   ],
+   "own_ids": [
+    "51"
+   ],
+   "text": "是名世界。」"
+  },
+  {
+   "row": 175,
+   "target_ids": [
+    "175"
+   ],
+   "own_ids": [
+    "52"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 176,
+   "target_ids": [
+    "176"
+   ],
+   "own_ids": [
+    "52"
+   ],
+   "text": "可以三十二相見如來不？」"
+  },
+  {
+   "row": 177,
+   "target_ids": [
+    "177"
+   ],
+   "own_ids": [
+    "53"
+   ],
+   "text": "「不也，世尊！不可以三十二相得見如來。"
+  },
+  {
+   "row": 178,
+   "target_ids": [
+    "178"
+   ],
+   "own_ids": [
+    "53"
+   ],
+   "text": "何以故？如來說三十二相，即是非相，"
+  },
+  {
+   "row": 179,
+   "target_ids": [
+    "179"
+   ],
+   "own_ids": [
+    "53"
+   ],
+   "text": "是名三十二相。」"
+  },
+  {
+   "row": 180,
+   "target_ids": [
+    "180"
+   ],
+   "own_ids": [
+    "54"
+   ],
+   "text": "「須菩提！若有善男子、善女人，以恒河沙等身命布施；若復有人，於此經中，乃至受持四句偈等，為他人說，其福甚多。」"
+  },
+  {
+   "row": 181,
+   "target_ids": [
+    "181"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "爾時，須菩提聞說是經，深解義趣，涕淚悲泣，"
+  },
+  {
+   "row": 182,
+   "target_ids": [
+    "182"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "而白佛言："
+  },
+  {
+   "row": 183,
+   "target_ids": [
+    "183"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "「希有世尊！佛說如是甚深經典，"
+  },
+  {
+   "row": 184,
+   "target_ids": [
+    "184"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "我從昔來所得慧眼，未曾得聞如是之經。"
+  },
+  {
+   "row": 185,
+   "target_ids": [
+    "185"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "世尊！若復有人得聞是經，信心清淨，則生實相，當知是人，成就第一希有功德。"
+  },
+  {
+   "row": 186,
+   "target_ids": [
+    "186"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "世尊！是實相者，則是非相，"
+  },
+  {
+   "row": 187,
+   "target_ids": [
+    "187"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "是故如來說名實相。"
+  },
+  {
+   "row": 188,
+   "target_ids": [
+    "188"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "世尊！我今得聞如是經典，信解、受持不足為難，"
+  },
+  {
+   "row": 189,
+   "target_ids": [
+    "189"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "若當來世後五百歲，其有眾生得聞是經，信解、受持，是人則為第一希有。"
+  },
+  {
+   "row": 190,
+   "target_ids": [
+    "190"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "何以故？此人無我相、"
+  },
+  {
+   "row": 191,
+   "target_ids": [
+    "191"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "人相、眾生相、壽者相。"
+  },
+  {
+   "row": 192,
+   "target_ids": [
+    "192"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "所以者何？我相即是非相，人相、眾生相、壽者相即是非相。 "
+  },
+  {
+   "row": 193,
+   "target_ids": [
+    "193"
+   ],
+   "own_ids": [
+    "55"
+   ],
+   "text": "何以故？離一切諸相，則名諸佛。」"
+  },
+  {
+   "row": 194,
+   "target_ids": [
+    "194"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "佛告須菩提："
+  },
+  {
+   "row": 195,
+   "target_ids": [
+    "195"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "「如是，如是！"
+  },
+  {
+   "row": 196,
+   "target_ids": [
+    "196"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "若復有人得聞是經，不驚、不怖、不畏，當知是人甚為希有。"
+  },
+  {
+   "row": 197,
+   "target_ids": [
+    "197"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "何以故？須菩提！如來說第一波羅蜜，"
+  },
+  {
+   "row": 198,
+   "target_ids": [
+    "198"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "非第一波羅蜜，"
+  },
+  {
+   "row": 199,
+   "target_ids": [
+    "199"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "是名第一波羅蜜。"
+  },
+  {
+   "row": 200,
+   "target_ids": [
+    "200"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "須菩提！忍辱波羅蜜，如來說非忍辱波羅蜜。"
+  },
+  {
+   "row": 201,
+   "target_ids": [
+    "201"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "何以故？須菩提！如我昔為歌利王割截身體，我於爾時，無我相、無人相、無眾生相、無壽者相。"
+  },
+  {
+   "row": 203,
+   "target_ids": [
+    "203"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "何以故？我於往昔節節支解時，若有我相、人相、眾生相、壽者相，應生瞋恨。"
+  },
+  {
+   "row": 205,
+   "target_ids": [
+    "205"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "須菩提！又念過去於五百世作忍辱仙人，於爾所世，無我相、"
+  },
+  {
+   "row": 206,
+   "target_ids": [
+    "206"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "無人相、無眾生相、無壽者相。"
+  },
+  {
+   "row": 207,
+   "target_ids": [
+    "207"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "是故，須菩提！菩薩應離一切相，"
+  },
+  {
+   "row": 208,
+   "target_ids": [
+    "208"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "發阿耨多羅三藐三菩提心，"
+  },
+  {
+   "row": 209,
+   "target_ids": [
+    "209"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "不應住色生心，"
+  },
+  {
+   "row": 210,
+   "target_ids": [
+    "210"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "不應住聲、香、味、觸、法生心，應生無所住心。"
+  },
+  {
+   "row": 214,
+   "target_ids": [
+    "214"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "若心有住，則為非住。"
+  },
+  {
+   "row": 215,
+   "target_ids": [
+    "215"
+   ],
+   "own_ids": [
+    "56"
+   ],
+   "text": "是故，佛說菩薩心不應住色布施。」"
+  },
+  {
+   "row": 216,
+   "target_ids": [
+    "216"
+   ],
+   "own_ids": [
+    "57"
+   ],
+   "text": "「須菩提！菩薩為利益一切眾生，應如是布施。"
+  },
+  {
+   "row": 217,
+   "target_ids": [
+    "217"
+   ],
+   "own_ids": [
+    "57"
+   ],
+   "text": "如來說：『一切諸相，即是非相。』"
+  },
+  {
+   "row": 218,
+   "target_ids": [
+    "218"
+   ],
+   "own_ids": [
+    "57"
+   ],
+   "text": "又說：『一切眾生，則非眾生。』"
+  },
+  {
+   "row": 219,
+   "target_ids": [
+    "219"
+   ],
+   "own_ids": [
+    "58"
+   ],
+   "text": "「須菩提！如來是真語者、實語者、如語者、"
+  },
+  {
+   "row": 220,
+   "target_ids": [
+    "220"
+   ],
+   "own_ids": [
+    "58"
+   ],
+   "text": "不誑語者、不異語者。」"
+  },
+  {
+   "row": 221,
+   "target_ids": [
+    "221"
+   ],
+   "own_ids": [
+    "59"
+   ],
+   "text": "「須菩提！如來所得法，此法無實無虛。"
+  },
+  {
+   "row": 222,
+   "target_ids": [
+    "222"
+   ],
+   "own_ids": [
+    "59"
+   ],
+   "text": "須菩提！若菩薩心住於法而行布施，如人入闇，則無所見；"
+  },
+  {
+   "row": 223,
+   "target_ids": [
+    "223"
+   ],
+   "own_ids": [
+    "59"
+   ],
+   "text": "若菩薩心不住法而行布施，如人有目，日光明照，見種種色。」"
+  },
+  {
+   "row": 224,
+   "target_ids": [
+    "224"
+   ],
+   "own_ids": [
+    "60"
+   ],
+   "text": "「須菩提！當來之世，若有善男子、善女人，能於此經受持、讀誦，則為如來以佛智慧悉知是人，悉見是人，"
+  },
+  {
+   "row": 225,
+   "target_ids": [
+    "225"
+   ],
+   "own_ids": [
+    "60"
+   ],
+   "text": "皆得成就無量無邊功德。」"
+  },
+  {
+   "row": 226,
+   "target_ids": [
+    "226"
+   ],
+   "own_ids": [
+    "61"
+   ],
+   "text": "「須菩提！若有善男子、善女人，初日分以恒河沙等身布施，中日分復以恒河沙等身布施，後日分亦以恒河沙等身布施，如是無量百千萬億劫以身布施；"
+  },
+  {
+   "row": 227,
+   "target_ids": [
+    "227"
+   ],
+   "own_ids": [
+    "61"
+   ],
+   "text": "若復有人，聞此經典，信心不逆，其福勝彼，何況書寫、受持、讀誦、為人解說。」"
+  },
+  {
+   "row": 228,
+   "target_ids": [
+    "228"
+   ],
+   "own_ids": [
+    "62"
+   ],
+   "text": "「須菩提！以要言之，是經有不可思議、不可稱量、"
+  },
+  {
+   "row": 229,
+   "target_ids": [
+    "229"
+   ],
+   "own_ids": [
+    "62"
+   ],
+   "text": "無邊功德。"
+  },
+  {
+   "row": 230,
+   "target_ids": [
+    "230"
+   ],
+   "own_ids": [
+    "62"
+   ],
+   "text": "如來為發大乘者說，為發最上乘者說。"
+  },
+  {
+   "row": 231,
+   "target_ids": [
+    "231"
+   ],
+   "own_ids": [
+    "62"
+   ],
+   "text": "若有人能受持、讀誦、廣為人說，如來悉知是人，悉見是人，"
+  },
+  {
+   "row": 233,
+   "target_ids": [
+    "233"
+   ],
+   "own_ids": [
+    "62"
+   ],
+   "text": "皆得成就不可量、不可稱、無有邊、不可思議功德，"
+  },
+  {
+   "row": 234,
+   "target_ids": [
+    "234"
+   ],
+   "own_ids": [
+    "62"
+   ],
+   "text": "如是人等，則為荷擔如來阿耨多羅三藐三菩提。"
+  },
+  {
+   "row": 235,
+   "target_ids": [
+    "235"
+   ],
+   "own_ids": [
+    "62"
+   ],
+   "text": "何以故？須菩提！若樂小法者，"
+  },
+  {
+   "row": 236,
+   "target_ids": [
+    "236"
+   ],
+   "own_ids": [
+    "62"
+   ],
+   "text": "著我見、人見、眾生見、壽者見，"
+  },
+  {
+   "row": 237,
+   "target_ids": [
+    "237"
+   ],
+   "own_ids": [
+    "62"
+   ],
+   "text": "則於此經，不能聽受、讀誦、為人解說。」"
+  },
+  {
+   "row": 239,
+   "target_ids": [
+    "239"
+   ],
+   "own_ids": [
+    "63"
+   ],
+   "text": "「須菩提！在在處處若有此經，一切世間天、人、阿修羅所應供養；"
+  },
+  {
+   "row": 240,
+   "target_ids": [
+    "240"
+   ],
+   "own_ids": [
+    "63"
+   ],
+   "text": "當知此處則為是塔，皆應恭敬、作禮、圍繞，以諸華香而散其處。」"
+  },
+  {
+   "row": 242,
+   "target_ids": [
+    "242"
+   ],
+   "own_ids": [
+    "64"
+   ],
+   "text": "「復次，須菩提！善男子、善女人受持、讀誦此經，若為人輕賤，"
+  },
+  {
+   "row": 243,
+   "target_ids": [
+    "243"
+   ],
+   "own_ids": [
+    "64"
+   ],
+   "text": "是人先世罪業應墮惡道，以今世人輕賤故，"
+  },
+  {
+   "row": 244,
+   "target_ids": [
+    "244"
+   ],
+   "own_ids": [
+    "64"
+   ],
+   "text": "先世罪業則為消滅，"
+  },
+  {
+   "row": 245,
+   "target_ids": [
+    "245"
+   ],
+   "own_ids": [
+    "64"
+   ],
+   "text": "當得阿耨多羅三藐三菩提。」"
+  },
+  {
+   "row": 246,
+   "target_ids": [
+    "246"
+   ],
+   "own_ids": [
+    "65"
+   ],
+   "text": "「須菩提！我念過去無量阿僧祇劫，於然燈佛前，得值八百四千萬億那由他諸佛，悉皆供養承事，"
+  },
+  {
+   "row": 247,
+   "target_ids": [
+    "247"
+   ],
+   "own_ids": [
+    "65"
+   ],
+   "text": "無空過者；"
+  },
+  {
+   "row": 248,
+   "target_ids": [
+    "248"
+   ],
+   "own_ids": [
+    "65"
+   ],
+   "text": "若復有人，於後末世，能受持、讀誦此經，所得功德，於我所供養諸佛功德，百分不及一，"
+  },
+  {
+   "row": 249,
+   "target_ids": [
+    "249"
+   ],
+   "own_ids": [
+    "65"
+   ],
+   "text": "千萬億分乃至算數、譬喻所不能及。」"
+  },
+  {
+   "row": 250,
+   "target_ids": [
+    "250"
+   ],
+   "own_ids": [
+    "66"
+   ],
+   "text": "「須菩提！若善男子、善女人於後末世，有受持、讀誦此經所得功德，我若具說者，或有人聞，心則狂亂，狐疑不信。"
+  },
+  {
+   "row": 251,
+   "target_ids": [
+    "251"
+   ],
+   "own_ids": [
+    "66"
+   ],
+   "text": "須菩提！當知是經義不可思議，"
+  },
+  {
+   "row": 252,
+   "target_ids": [
+    "252"
+   ],
+   "own_ids": [
+    "66"
+   ],
+   "text": "果報亦不可思議。」"
+  },
+  {
+   "row": 253,
+   "target_ids": [
+    "253"
+   ],
+   "own_ids": [
+    "67"
+   ],
+   "text": "爾時，須菩提白佛言："
+  },
+  {
+   "row": 254,
+   "target_ids": [
+    "254"
+   ],
+   "own_ids": [
+    "67"
+   ],
+   "text": "「世尊！善男子、善女人發阿耨多羅三藐三菩提心，云何應住？"
+  },
+  {
+   "row": 256,
+   "target_ids": [
+    "256"
+   ],
+   "own_ids": [
+    "67"
+   ],
+   "text": "云何降伏其心？」"
+  },
+  {
+   "row": 257,
+   "target_ids": [
+    "257"
+   ],
+   "own_ids": [
+    "68"
+   ],
+   "text": "佛告須菩提："
+  },
+  {
+   "row": 258,
+   "target_ids": [
+    "258"
+   ],
+   "own_ids": [
+    "68"
+   ],
+   "text": "「善男子、善女人發阿耨多羅三藐三菩提者，"
+  },
+  {
+   "row": 259,
+   "target_ids": [
+    "259"
+   ],
+   "own_ids": [
+    "68"
+   ],
+   "text": "當生如是心：『我應滅度一切眾生。滅度一切眾生已，而無有一眾生實滅度者。』"
+  },
+  {
+   "row": 260,
+   "target_ids": [
+    "260"
+   ],
+   "own_ids": [
+    "68"
+   ],
+   "text": "何以故？須菩提！若菩薩有我相、"
+  },
+  {
+   "row": 261,
+   "target_ids": [
+    "261"
+   ],
+   "own_ids": [
+    "68"
+   ],
+   "text": "人相、眾生相、壽者相，則非菩薩。"
+  },
+  {
+   "row": 262,
+   "target_ids": [
+    "262"
+   ],
+   "own_ids": [
+    "68"
+   ],
+   "text": "所以者何？須菩提！實無有法發阿耨多羅三藐三菩提者。」"
+  },
+  {
+   "row": 263,
+   "target_ids": [
+    "263"
+   ],
+   "own_ids": [
+    "69"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 264,
+   "target_ids": [
+    "264"
+   ],
+   "own_ids": [
+    "69"
+   ],
+   "text": "如來於然燈佛所，有法得阿耨多羅三藐三菩提不？」"
+  },
+  {
+   "row": 265,
+   "target_ids": [
+    "265"
+   ],
+   "own_ids": [
+    "70"
+   ],
+   "text": "「不也，世尊！"
+  },
+  {
+   "row": 266,
+   "target_ids": [
+    "266"
+   ],
+   "own_ids": [
+    "70"
+   ],
+   "text": "如我解佛所說義，佛於然燈佛所，無有法得阿耨多羅三藐三菩提。」"
+  },
+  {
+   "row": 267,
+   "target_ids": [
+    "267"
+   ],
+   "own_ids": [
+    "71"
+   ],
+   "text": "佛言："
+  },
+  {
+   "row": 268,
+   "target_ids": [
+    "268"
+   ],
+   "own_ids": [
+    "71"
+   ],
+   "text": "「如是，如是！"
+  },
+  {
+   "row": 269,
+   "target_ids": [
+    "269"
+   ],
+   "own_ids": [
+    "71"
+   ],
+   "text": "須菩提！實無有法，如來得阿耨多羅三藐三菩提。"
+  },
+  {
+   "row": 270,
+   "target_ids": [
+    "270"
+   ],
+   "own_ids": [
+    "71"
+   ],
+   "text": "須菩提！若有法，如來得阿耨多羅三藐三菩提者，然燈佛則不與我受記：『汝於來世當得作佛，號釋迦牟尼。』"
+  },
+  {
+   "row": 271,
+   "target_ids": [
+    "271"
+   ],
+   "own_ids": [
+    "71"
+   ],
+   "text": "以實無有法得阿耨多羅三藐三菩提，"
+  },
+  {
+   "row": 272,
+   "target_ids": [
+    "272"
+   ],
+   "own_ids": [
+    "71"
+   ],
+   "text": "是故然燈佛與我受記，作是言：『汝於來世當得作佛，號釋迦牟尼。』"
+  },
+  {
+   "row": 273,
+   "target_ids": [
+    "273"
+   ],
+   "own_ids": [
+    "71"
+   ],
+   "text": "何以故？如來者，即諸法如義。」"
+  },
+  {
+   "row": 274,
+   "target_ids": [
+    "274"
+   ],
+   "own_ids": [
+    "72"
+   ],
+   "text": "「若有人言『如來得阿耨多羅三藐三菩提』，"
+  },
+  {
+   "row": 276,
+   "target_ids": [
+    "276"
+   ],
+   "own_ids": [
+    "72"
+   ],
+   "text": "須菩提！實無有法，佛得阿耨多羅三藐三菩提。"
+  },
+  {
+   "row": 277,
+   "target_ids": [
+    "277"
+   ],
+   "own_ids": [
+    "72"
+   ],
+   "text": "須菩提！如來所得阿耨多羅三藐三菩提，於是中無實無虛，"
+  },
+  {
+   "row": 278,
+   "target_ids": [
+    "278"
+   ],
+   "own_ids": [
+    "72"
+   ],
+   "text": "是故如來說：『一切法皆是佛法。』"
+  },
+  {
+   "row": 279,
+   "target_ids": [
+    "279"
+   ],
+   "own_ids": [
+    "72"
+   ],
+   "text": "須菩提！所言一切法者，即非一切法，"
+  },
+  {
+   "row": 280,
+   "target_ids": [
+    "280"
+   ],
+   "own_ids": [
+    "72"
+   ],
+   "text": "是故名一切法。」"
+  },
+  {
+   "row": 281,
+   "target_ids": [
+    "281"
+   ],
+   "own_ids": [
+    "73"
+   ],
+   "text": "「須菩提！譬如人身長、大。」"
+  },
+  {
+   "row": 282,
+   "target_ids": [
+    "282"
+   ],
+   "own_ids": [
+    "74"
+   ],
+   "text": "須菩提言：「世尊！如來說人身長、大，則為非大身，"
+  },
+  {
+   "row": 283,
+   "target_ids": [
+    "283"
+   ],
+   "own_ids": [
+    "74"
+   ],
+   "text": "是名大身。」"
+  },
+  {
+   "row": 284,
+   "target_ids": [
+    "284"
+   ],
+   "own_ids": [
+    "75"
+   ],
+   "text": "「須菩提！"
+  },
+  {
+   "row": 285,
+   "target_ids": [
+    "285"
+   ],
+   "own_ids": [
+    "75"
+   ],
+   "text": "菩薩亦如是，若作是言『我當滅度無量眾生』，則不名菩薩。"
+  },
+  {
+   "row": 286,
+   "target_ids": [
+    "286"
+   ],
+   "own_ids": [
+    "75"
+   ],
+   "text": "何以故？須菩提！實無有法名為菩薩。"
+  },
+  {
+   "row": 288,
+   "target_ids": [
+    "288"
+   ],
+   "own_ids": [
+    "75"
+   ],
+   "text": "是故，佛說：『一切法無我、無人、無眾生、無壽者。』"
+  },
+  {
+   "row": 289,
+   "target_ids": [
+    "289"
+   ],
+   "own_ids": [
+    "75"
+   ],
+   "text": "須菩提！若菩薩作是言『我當莊嚴佛土』，是不名菩薩。"
+  },
+  {
+   "row": 290,
+   "target_ids": [
+    "290"
+   ],
+   "own_ids": [
+    "75"
+   ],
+   "text": "何以故？如來說莊嚴佛土者，即非莊嚴，"
+  },
+  {
+   "row": 291,
+   "target_ids": [
+    "291"
+   ],
+   "own_ids": [
+    "75"
+   ],
+   "text": "是名莊嚴。"
+  },
+  {
+   "row": 292,
+   "target_ids": [
+    "292"
+   ],
+   "own_ids": [
+    "75"
+   ],
+   "text": "須菩提！若菩薩通達無我、法者，如來說名真是菩薩。」"
+  },
+  {
+   "row": 293,
+   "target_ids": [
+    "293"
+   ],
+   "own_ids": [
+    "76"
+   ],
+   "text": "「須菩提！於意云何？如來有肉眼不？」"
+  },
+  {
+   "row": 294,
+   "target_ids": [
+    "294"
+   ],
+   "own_ids": [
+    "77"
+   ],
+   "text": "「如是，世尊！如來有肉眼。」"
+  },
+  {
+   "row": 295,
+   "target_ids": [
+    "295"
+   ],
+   "own_ids": [
+    "78"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 296,
+   "target_ids": [
+    "296"
+   ],
+   "own_ids": [
+    "78"
+   ],
+   "text": "如來有天眼不？」"
+  },
+  {
+   "row": 297,
+   "target_ids": [
+    "297"
+   ],
+   "own_ids": [
+    "79"
+   ],
+   "text": "「如是，世尊！"
+  },
+  {
+   "row": 298,
+   "target_ids": [
+    "298"
+   ],
+   "own_ids": [
+    "79"
+   ],
+   "text": "如來有天眼。」"
+  },
+  {
+   "row": 299,
+   "target_ids": [
+    "299"
+   ],
+   "own_ids": [
+    "80"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 300,
+   "target_ids": [
+    "300"
+   ],
+   "own_ids": [
+    "80"
+   ],
+   "text": "如來有慧眼不？」"
+  },
+  {
+   "row": 301,
+   "target_ids": [
+    "301"
+   ],
+   "own_ids": [
+    "81"
+   ],
+   "text": "「如是，世尊！如來有慧眼。」"
+  },
+  {
+   "row": 302,
+   "target_ids": [
+    "302"
+   ],
+   "own_ids": [
+    "82"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 303,
+   "target_ids": [
+    "303"
+   ],
+   "own_ids": [
+    "82"
+   ],
+   "text": "如來有法眼不？」"
+  },
+  {
+   "row": 304,
+   "target_ids": [
+    "304"
+   ],
+   "own_ids": [
+    "83"
+   ],
+   "text": "「如是，世尊！"
+  },
+  {
+   "row": 305,
+   "target_ids": [
+    "305"
+   ],
+   "own_ids": [
+    "83"
+   ],
+   "text": "如來有法眼。」"
+  },
+  {
+   "row": 306,
+   "target_ids": [
+    "306"
+   ],
+   "own_ids": [
+    "84"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 307,
+   "target_ids": [
+    "307"
+   ],
+   "own_ids": [
+    "84"
+   ],
+   "text": "如來有佛眼不？」"
+  },
+  {
+   "row": 308,
+   "target_ids": [
+    "308"
+   ],
+   "own_ids": [
+    "85"
+   ],
+   "text": "「如是，世尊！"
+  },
+  {
+   "row": 309,
+   "target_ids": [
+    "309"
+   ],
+   "own_ids": [
+    "85"
+   ],
+   "text": "如來有佛眼。」"
+  },
+  {
+   "row": 310,
+   "target_ids": [
+    "310"
+   ],
+   "own_ids": [
+    "86"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 311,
+   "target_ids": [
+    "311"
+   ],
+   "own_ids": [
+    "86",
+    "87",
+    "88"
+   ],
+   "text": "恒河中所有沙，佛說是沙不？」「須菩提！於意云何？如一恒河中所有沙，有如是等恒河，是諸恒河所有沙數佛世界，如是寧為多不？」"
+  },
+  {
+   "row": 312,
+   "target_ids": [
+    "312"
+   ],
+   "own_ids": [
+    "92"
+   ],
+   "text": "「如是，世尊！"
+  },
+  {
+   "row": 313,
+   "target_ids": [
+    "313"
+   ],
+   "own_ids": [
+    "87",
+    "88",
+    "89"
+   ],
+   "text": "如來說是沙。」「甚多，世尊！」"
+  },
+  {
+   "row": 314,
+   "target_ids": [
+    "314"
+   ],
+   "own_ids": [
+    "90"
+   ],
+   "text": "佛告須菩提：「爾所國土中，所有眾生若干種心，如來悉知。"
+  },
+  {
+   "row": 315,
+   "target_ids": [
+    "315"
+   ],
+   "own_ids": [
+    "90"
+   ],
+   "text": "何以故？如來說諸心，皆為非心，"
+  },
+  {
+   "row": 316,
+   "target_ids": [
+    "316"
+   ],
+   "own_ids": [
+    "90"
+   ],
+   "text": "是名為心。"
+  },
+  {
+   "row": 317,
+   "target_ids": [
+    "317"
+   ],
+   "own_ids": [
+    "90"
+   ],
+   "text": "所以者何？須菩提！過去心不可得，現在心不可得，"
+  },
+  {
+   "row": 318,
+   "target_ids": [
+    "318"
+   ],
+   "own_ids": [
+    "90"
+   ],
+   "text": "未來心不可得。」"
+  },
+  {
+   "row": 320,
+   "target_ids": [
+    "320"
+   ],
+   "own_ids": [
+    "91"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 321,
+   "target_ids": [
+    "321"
+   ],
+   "own_ids": [
+    "91"
+   ],
+   "text": "若有人滿三千大千世界七寶以用布施，是人以是因緣得福多不？」"
+  },
+  {
+   "row": 322,
+   "target_ids": [
+    "322"
+   ],
+   "own_ids": [
+    "92"
+   ],
+   "text": "「如是，世尊！此人以是因緣得福甚多。」"
+  },
+  {
+   "row": 325,
+   "target_ids": [
+    "325"
+   ],
+   "own_ids": [
+    "93"
+   ],
+   "text": "「須菩提！"
+  },
+  {
+   "row": 327,
+   "target_ids": [
+    "327"
+   ],
+   "own_ids": [
+    "93"
+   ],
+   "text": "若福德有實，如來不說得福德多；以福德無故，如來說得福德多。」"
+  },
+  {
+   "row": 328,
+   "target_ids": [
+    "328"
+   ],
+   "own_ids": [
+    "94"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 329,
+   "target_ids": [
+    "329"
+   ],
+   "own_ids": [
+    "94"
+   ],
+   "text": "佛可以具足色身見不？」"
+  },
+  {
+   "row": 330,
+   "target_ids": [
+    "330"
+   ],
+   "own_ids": [
+    "95"
+   ],
+   "text": "「不也，世尊！"
+  },
+  {
+   "row": 331,
+   "target_ids": [
+    "331"
+   ],
+   "own_ids": [
+    "95"
+   ],
+   "text": "如來不應以具足色身見。"
+  },
+  {
+   "row": 332,
+   "target_ids": [
+    "332"
+   ],
+   "own_ids": [
+    "95"
+   ],
+   "text": "何以故？如來說具足色身，即非具足色身，"
+  },
+  {
+   "row": 333,
+   "target_ids": [
+    "333"
+   ],
+   "own_ids": [
+    "95"
+   ],
+   "text": "是名具足色身。」"
+  },
+  {
+   "row": 334,
+   "target_ids": [
+    "334"
+   ],
+   "own_ids": [
+    "96"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 335,
+   "target_ids": [
+    "335"
+   ],
+   "own_ids": [
+    "96"
+   ],
+   "text": "如來可以具足諸相見不？」"
+  },
+  {
+   "row": 336,
+   "target_ids": [
+    "336"
+   ],
+   "own_ids": [
+    "97"
+   ],
+   "text": "「不也，世尊！如來不應以具足諸相見。"
+  },
+  {
+   "row": 337,
+   "target_ids": [
+    "337"
+   ],
+   "own_ids": [
+    "97"
+   ],
+   "text": "何以故？如來說諸相具足，即非具足，"
+  },
+  {
+   "row": 338,
+   "target_ids": [
+    "338"
+   ],
+   "own_ids": [
+    "97"
+   ],
+   "text": "是名諸相具足。」"
+  },
+  {
+   "row": 339,
+   "target_ids": [
+    "339"
+   ],
+   "own_ids": [
+    "98"
+   ],
+   "text": "「須菩提！"
+  },
+  {
+   "row": 340,
+   "target_ids": [
+    "340"
+   ],
+   "own_ids": [
+    "98"
+   ],
+   "text": "汝勿謂如來作是念，『我當有所說法』。莫作是念，何以故？"
+  },
+  {
+   "row": 342,
+   "target_ids": [
+    "342"
+   ],
+   "own_ids": [
+    "98"
+   ],
+   "text": "若人言『如來有所說法』，即為謗佛，不能解我所說故。"
+  },
+  {
+   "row": 343,
+   "target_ids": [
+    "343"
+   ],
+   "own_ids": [
+    "98"
+   ],
+   "text": "須菩提！說法者，無法可說，是名說法。」"
+  },
+  {
+   "row": 344,
+   "target_ids": [
+    "344"
+   ],
+   "own_ids": [
+    "99"
+   ],
+   "text": "爾時，慧命須菩提白佛言："
+  },
+  {
+   "row": 345,
+   "target_ids": [
+    "345"
+   ],
+   "own_ids": [
+    "99"
+   ],
+   "text": "「世尊！頗有眾生於未來世，聞說是法生信心不？」"
+  },
+  {
+   "row": 346,
+   "target_ids": [
+    "346"
+   ],
+   "own_ids": [
+    "100"
+   ],
+   "text": "佛言：「須菩提！彼非眾生，非不眾生。"
+  },
+  {
+   "row": 347,
+   "target_ids": [
+    "347"
+   ],
+   "own_ids": [
+    "100"
+   ],
+   "text": "何以故？須菩提！眾生、眾生者，如來說非眾生，"
+  },
+  {
+   "row": 348,
+   "target_ids": [
+    "348"
+   ],
+   "own_ids": [
+    "100"
+   ],
+   "text": "是名眾生。」"
+  },
+  {
+   "row": 351,
+   "target_ids": [
+    "351"
+   ],
+   "own_ids": [
+    "101"
+   ],
+   "text": "須菩提白佛言：「世尊！佛得阿耨多羅三藐三菩提，為無所得耶？」"
+  },
+  {
+   "row": 352,
+   "target_ids": [
+    "352"
+   ],
+   "own_ids": [
+    "102"
+   ],
+   "text": "「如是，如是！須菩提！"
+  },
+  {
+   "row": 353,
+   "target_ids": [
+    "353"
+   ],
+   "own_ids": [
+    "102"
+   ],
+   "text": "我於阿耨多羅三藐三菩提乃至無有少法可得，"
+  },
+  {
+   "row": 354,
+   "target_ids": [
+    "354"
+   ],
+   "own_ids": [
+    "102"
+   ],
+   "text": "是名阿耨多羅三藐三菩提。」"
+  },
+  {
+   "row": 355,
+   "target_ids": [
+    "355"
+   ],
+   "own_ids": [
+    "103"
+   ],
+   "text": "「復次，須菩提！是法平等，"
+  },
+  {
+   "row": 356,
+   "target_ids": [
+    "356"
+   ],
+   "own_ids": [
+    "103"
+   ],
+   "text": "無有高下，是名阿耨多羅三藐三菩提；"
+  },
+  {
+   "row": 357,
+   "target_ids": [
+    "357"
+   ],
+   "own_ids": [
+    "103"
+   ],
+   "text": "以無我、無人、無眾生、無壽者，"
+  },
+  {
+   "row": 358,
+   "target_ids": [
+    "358"
+   ],
+   "own_ids": [
+    "103"
+   ],
+   "text": "修一切善法，則得阿耨多羅三藐三菩提。"
+  },
+  {
+   "row": 359,
+   "target_ids": [
+    "359"
+   ],
+   "own_ids": [
+    "103"
+   ],
+   "text": "須菩提！所言善法者，如來說非善法，"
+  },
+  {
+   "row": 360,
+   "target_ids": [
+    "360"
+   ],
+   "own_ids": [
+    "103"
+   ],
+   "text": "是名善法。」"
+  },
+  {
+   "row": 361,
+   "target_ids": [
+    "361"
+   ],
+   "own_ids": [
+    "104"
+   ],
+   "text": "「須菩提！若三千大千世界中所有諸須彌山王，如是等七寶聚，有人持用布施；若人以此《般若波羅蜜經》，乃至四句偈等，受持、讀誦、為他人說，於前福德百分不及一，百千萬億分，乃至算數、譬喻所不能及。」"
+  },
+  {
+   "row": 362,
+   "target_ids": [
+    "362"
+   ],
+   "own_ids": [
+    "105"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 363,
+   "target_ids": [
+    "363"
+   ],
+   "own_ids": [
+    "105"
+   ],
+   "text": "汝等勿謂如來作是念：『我當度眾生。』須菩提！莫作是念。"
+  },
+  {
+   "row": 364,
+   "target_ids": [
+    "364"
+   ],
+   "own_ids": [
+    "105"
+   ],
+   "text": "何以故？實無有眾生如來度者，"
+  },
+  {
+   "row": 365,
+   "target_ids": [
+    "365"
+   ],
+   "own_ids": [
+    "105"
+   ],
+   "text": "若有眾生如來度者，如來則有我、"
+  },
+  {
+   "row": 366,
+   "target_ids": [
+    "366"
+   ],
+   "own_ids": [
+    "105"
+   ],
+   "text": "人、眾生、壽者。"
+  },
+  {
+   "row": 367,
+   "target_ids": [
+    "367"
+   ],
+   "own_ids": [
+    "105"
+   ],
+   "text": "須菩提！如來說有我者，則非有我，而凡夫之人以為有我。"
+  },
+  {
+   "row": 368,
+   "target_ids": [
+    "368"
+   ],
+   "own_ids": [
+    "105"
+   ],
+   "text": "須菩提！凡夫者，如來說則非凡夫。」"
+  },
+  {
+   "row": 370,
+   "target_ids": [
+    "370"
+   ],
+   "own_ids": [
+    "106"
+   ],
+   "text": "「須菩提！於意云何？"
+  },
+  {
+   "row": 371,
+   "target_ids": [
+    "371"
+   ],
+   "own_ids": [
+    "106",
+    "107"
+   ],
+   "text": "可以三十二相觀如來不？」須菩提言：「如是，如是！以三十二相觀如來。」"
+  },
+  {
+   "row": 372,
+   "target_ids": [
+    "372"
+   ],
+   "own_ids": [
+    "109"
+   ],
+   "text": "須菩提白佛言：「世尊！如我解佛所說義，"
+  },
+  {
+   "row": 373,
+   "target_ids": [
+    "373"
+   ],
+   "own_ids": [
+    "109"
+   ],
+   "text": "不應以三十二相觀如來。」"
+  },
+  {
+   "row": 374,
+   "target_ids": [
+    "374"
+   ],
+   "own_ids": [
+    "100"
+   ],
+   "text": "佛言：「須菩提！"
+  },
+  {
+   "row": 376,
+   "target_ids": [
+    "376"
+   ],
+   "own_ids": [
+    "108"
+   ],
+   "text": "若以三十二相觀如來者，轉輪聖王則是如來。」"
+  },
+  {
+   "row": 380,
+   "target_ids": [
+    "380"
+   ],
+   "own_ids": [
+    "110"
+   ],
+   "text": "爾時，世尊而說偈言："
+  },
+  {
+   "row": 381,
+   "target_ids": [
+    "381"
+   ],
+   "own_ids": [
+    "110"
+   ],
+   "text": "「若以色見我，  以音聲求我，"
+  },
+  {
+   "row": 382,
+   "target_ids": [
+    "382"
+   ],
+   "own_ids": [
+    "110"
+   ],
+   "text": "是人行邪道，  "
+  },
+  {
+   "row": 383,
+   "target_ids": [
+    "383"
+   ],
+   "own_ids": [
+    "110"
+   ],
+   "text": "不能見如來。」"
+  },
+  {
+   "row": 385,
+   "target_ids": [
+    "385"
+   ],
+   "own_ids": [
+    "111"
+   ],
+   "text": "「須菩提！汝若作是念："
+  },
+  {
+   "row": 386,
+   "target_ids": [
+    "386"
+   ],
+   "own_ids": [
+    "111"
+   ],
+   "text": "『如來不以具足相故，得阿耨多羅三藐三菩提。』須菩提！莫作是念："
+  },
+  {
+   "row": 387,
+   "target_ids": [
+    "387"
+   ],
+   "own_ids": [
+    "111"
+   ],
+   "text": "『如來不以具足相故，得阿耨多羅三藐三菩提。』」"
+  },
+  {
+   "row": 388,
+   "target_ids": [
+    "388"
+   ],
+   "own_ids": [
+    "112"
+   ],
+   "text": "「須菩提！汝若作是念：『發阿耨多羅三藐三菩提者，說諸法斷滅相。』莫作是念。何以故？"
+  },
+  {
+   "row": 389,
+   "target_ids": [
+    "389"
+   ],
+   "own_ids": [
+    "112"
+   ],
+   "text": "發阿耨多羅三藐三菩提心者，於法不說斷滅相。」"
+  },
+  {
+   "row": 390,
+   "target_ids": [
+    "390"
+   ],
+   "own_ids": [
+    "113"
+   ],
+   "text": "「須菩提！若菩薩以滿恒河沙等世界七寶布施；若復有人知一切法無我，得成於忍，此菩薩勝前菩薩所得功德。"
+  },
+  {
+   "row": 391,
+   "target_ids": [
+    "391"
+   ],
+   "own_ids": [
+    "113"
+   ],
+   "text": "須菩提！以諸菩薩不受福德故。」"
+  },
+  {
+   "row": 392,
+   "target_ids": [
+    "392"
+   ],
+   "own_ids": [
+    "114"
+   ],
+   "text": "須菩提白佛言：「世尊！云何菩薩不受福德？」"
+  },
+  {
+   "row": 393,
+   "target_ids": [
+    "393"
+   ],
+   "own_ids": [
+    "115"
+   ],
+   "text": "「須菩提！菩薩所作福德，不應貪著，"
+  },
+  {
+   "row": 394,
+   "target_ids": [
+    "394"
+   ],
+   "own_ids": [
+    "115"
+   ],
+   "text": "是故說不受福德。」"
+  },
+  {
+   "row": 395,
+   "target_ids": [
+    "395"
+   ],
+   "own_ids": [
+    "116"
+   ],
+   "text": "「須菩提！若有人言『如來若來若去、若坐若臥』，是人不解我所說義。"
+  },
+  {
+   "row": 396,
+   "target_ids": [
+    "396"
+   ],
+   "own_ids": [
+    "116"
+   ],
+   "text": "何以故？如來者，無所從來，亦無所去，"
+  },
+  {
+   "row": 397,
+   "target_ids": [
+    "397"
+   ],
+   "own_ids": [
+    "116"
+   ],
+   "text": "故名如來。」"
+  },
+  {
+   "row": 398,
+   "target_ids": [
+    "398"
+   ],
+   "own_ids": [
+    "117"
+   ],
+   "text": "「須菩提！若善男子、善女人以三千大千世界碎為微塵，於意云何？是微塵眾寧為多不？」"
+  },
+  {
+   "row": 399,
+   "target_ids": [
+    "399"
+   ],
+   "own_ids": [
+    "118"
+   ],
+   "text": "「甚多，世尊！"
+  },
+  {
+   "row": 401,
+   "target_ids": [
+    "401"
+   ],
+   "own_ids": [
+    "118"
+   ],
+   "text": "何以故？若是微塵眾實有者，佛則不說是微塵眾。"
+  },
+  {
+   "row": 402,
+   "target_ids": [
+    "402"
+   ],
+   "own_ids": [
+    "118"
+   ],
+   "text": "所以者何？佛說微塵眾，則非微塵眾，"
+  },
+  {
+   "row": 403,
+   "target_ids": [
+    "403"
+   ],
+   "own_ids": [
+    "118"
+   ],
+   "text": "是名微塵眾。"
+  },
+  {
+   "row": 404,
+   "target_ids": [
+    "404"
+   ],
+   "own_ids": [
+    "118"
+   ],
+   "text": "世尊！如來所說三千大千世界，則非世界，"
+  },
+  {
+   "row": 405,
+   "target_ids": [
+    "405"
+   ],
+   "own_ids": [
+    "118"
+   ],
+   "text": "是名世界。"
+  },
+  {
+   "row": 406,
+   "target_ids": [
+    "406"
+   ],
+   "own_ids": [
+    "118"
+   ],
+   "text": "何以故？若世界實有者，則是一合相。"
+  },
+  {
+   "row": 407,
+   "target_ids": [
+    "407"
+   ],
+   "own_ids": [
+    "118"
+   ],
+   "text": "如來說一合相，則非一合相，"
+  },
+  {
+   "row": 408,
+   "target_ids": [
+    "408"
+   ],
+   "own_ids": [
+    "118"
+   ],
+   "text": "是名一合相。」"
+  },
+  {
+   "row": 409,
+   "target_ids": [
+    "409"
+   ],
+   "own_ids": [
+    "119"
+   ],
+   "text": "「須菩提！一合相者，"
+  },
+  {
+   "row": 410,
+   "target_ids": [
+    "410"
+   ],
+   "own_ids": [
+    "119"
+   ],
+   "text": "則是不可說，但凡夫之人貪著其事。」"
+  },
+  {
+   "row": 411,
+   "target_ids": [
+    "411"
+   ],
+   "own_ids": [
+    "120"
+   ],
+   "text": "「須菩提！若人言『佛說我見、"
+  },
+  {
+   "row": 412,
+   "target_ids": [
+    "412"
+   ],
+   "own_ids": [
+    "120"
+   ],
+   "text": "人見、眾生見、壽者見』，須菩提！於意云何？是人解我所說義不？」"
+  },
+  {
+   "row": 413,
+   "target_ids": [
+    "413"
+   ],
+   "own_ids": [
+    "121"
+   ],
+   "text": "「世尊！"
+  },
+  {
+   "row": 414,
+   "target_ids": [
+    "414"
+   ],
+   "own_ids": [
+    "121"
+   ],
+   "text": "是人不解如來所說義。"
+  },
+  {
+   "row": 415,
+   "target_ids": [
+    "415"
+   ],
+   "own_ids": [
+    "121"
+   ],
+   "text": "何以故？世尊說我見、人見、眾生見、壽者見，即非我見、人見、眾生見、壽者見，"
+  },
+  {
+   "row": 416,
+   "target_ids": [
+    "416"
+   ],
+   "own_ids": [
+    "121"
+   ],
+   "text": "是名我見、人見、眾生見、壽者見。」"
+  },
+  {
+   "row": 417,
+   "target_ids": [
+    "417"
+   ],
+   "own_ids": [
+    "122"
+   ],
+   "text": "「須菩提！發阿耨多羅三藐三菩提心者，於一切法，應如是知，如是見，如是信解，"
+  },
+  {
+   "row": 418,
+   "target_ids": [
+    "418"
+   ],
+   "own_ids": [
+    "122"
+   ],
+   "text": "不生法相。"
+  },
+  {
+   "row": 419,
+   "target_ids": [
+    "419"
+   ],
+   "own_ids": [
+    "122"
+   ],
+   "text": "須菩提！所言法相者，如來說即非法相，"
+  },
+  {
+   "row": 420,
+   "target_ids": [
+    "420"
+   ],
+   "own_ids": [
+    "122"
+   ],
+   "text": "是名法相。」"
+  },
+  {
+   "row": 421,
+   "target_ids": [
+    "421"
+   ],
+   "own_ids": [
+    "123"
+   ],
+   "text": "「須菩提！若有人以滿無量阿僧祇世界七寶持用布施，若有善男子、善女人發菩薩心者，持於此經乃至四句偈等，受持、讀誦、為人演說，其福勝彼。"
+  },
+  {
+   "row": 422,
+   "target_ids": [
+    "422"
+   ],
+   "own_ids": [
+    "123"
+   ],
+   "text": "云何為人演說？不取於相，如如不動。何以故？」"
+  },
+  {
+   "row": 424,
+   "target_ids": [
+    "424"
+   ],
+   "own_ids": [
+    "124"
+   ],
+   "text": "「一切有為法，如夢、幻、泡、影，如露亦如電，應作如是觀。」"
+  },
+  {
+   "row": 425,
+   "target_ids": [
+    "425"
+   ],
+   "own_ids": [
+    "125"
+   ],
+   "text": "佛說是經已，長老須菩提及諸比丘、比丘尼、優婆塞、優婆夷，一切世間天、人、阿修羅，"
+  },
+  {
+   "row": 426,
+   "target_ids": [
+    "426"
+   ],
+   "own_ids": [
+    "125"
+   ],
+   "text": "聞佛所說，皆大歡喜，信受奉行。"
+  },
+  {
+   "row": 428,
+   "target_ids": [
+    "428"
+   ],
+   "own_ids": [
+    "126",
+    "127"
+   ],
+   "text": "真言 那謨婆伽跋帝　鉢喇壤　波羅弭多曳　唵伊利底　伊室利　輸盧馱　毘舍耶　毘舍耶　莎婆訶"
+  }
+ ]
+}

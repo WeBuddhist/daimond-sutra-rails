@@ -1,0 +1,7023 @@
+{
+ "file": "1-SOURCES/Translations/lzh-kumarajiva-tibetan-order.md",
+ "id_scheme": "flat",
+ "target_file": "1-SOURCES/Text/bo-vajracchedika.md",
+ "headings": [],
+ "blocks": {
+  "1": {
+   "targets": [
+    "1"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     1
+    ]
+   },
+   "text": "金剛般若波羅蜜經"
+  },
+  "5": {
+   "targets": [
+    "5"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     5
+    ]
+   },
+   "text": "如是我聞：一時，"
+  },
+  "6": {
+   "targets": [
+    "6"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     6
+    ]
+   },
+   "text": "佛在舍衛國祇樹給孤獨園， 與大比丘眾千二百五十人俱。"
+  },
+  "7": {
+   "targets": [
+    "7"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     7
+    ]
+   },
+   "text": "爾時，世尊食時，著衣持鉢，入舍衛大城乞食。"
+  },
+  "8": {
+   "targets": [
+    "8"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     8
+    ]
+   },
+   "text": "於其城中，次第乞已，"
+  },
+  "9": {
+   "targets": [
+    "9"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     9
+    ]
+   },
+   "text": "還至本處。飯食訖，收衣鉢，洗足已，敷座而坐。"
+  },
+  "13": {
+   "targets": [
+    "13"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     13
+    ]
+   },
+   "text": "時，長老須菩提在大眾中即從座起，偏袒右肩，右膝著地，合掌恭敬"
+  },
+  "14": {
+   "targets": [
+    "14"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     14
+    ]
+   },
+   "text": "而白佛言："
+  },
+  "15": {
+   "targets": [
+    "15"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     15
+    ]
+   },
+   "text": "如來善護念諸菩薩，善付囑諸菩薩。「希有世尊！"
+  },
+  "16": {
+   "targets": [
+    "16"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     16
+    ]
+   },
+   "text": "世尊！善男子、善女人，發阿耨多羅三藐三菩提心，應云何住？"
+  },
+  "18": {
+   "targets": [
+    "18"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     18
+    ]
+   },
+   "text": "云何降伏其心？」"
+  },
+  "19": {
+   "targets": [
+    "19"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     19
+    ]
+   },
+   "text": "「唯然。世尊！願樂欲聞。」"
+  },
+  "20": {
+   "targets": [
+    "20"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     20
+    ]
+   },
+   "text": "佛言："
+  },
+  "21": {
+   "targets": [
+    "21"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     21
+    ]
+   },
+   "text": "「善哉，善哉！須菩提！"
+  },
+  "22": {
+   "targets": [
+    "22"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     22
+    ]
+   },
+   "text": "如汝所說："
+  },
+  "23": {
+   "targets": [
+    "23"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     23
+    ]
+   },
+   "text": "『如來善護念諸菩薩，"
+  },
+  "24": {
+   "targets": [
+    "24"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     24
+    ]
+   },
+   "text": "善付囑諸菩薩。』"
+  },
+  "25": {
+   "targets": [
+    "25"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     25
+    ]
+   },
+   "text": "汝今諦聽，當為汝說。"
+  },
+  "26": {
+   "targets": [
+    "26"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     26
+    ]
+   },
+   "text": "善男子、善女人，發阿耨多羅三藐三菩提心，應如是住，如是降伏其心。」"
+  },
+  "28": {
+   "targets": [
+    "28"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     28
+    ]
+   },
+   "text": "佛告須菩提："
+  },
+  "29": {
+   "targets": [
+    "29"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     29
+    ]
+   },
+   "text": "「諸菩薩摩訶薩應如是降伏其心：『所有一切眾生之類，若卵生、若胎生、若濕生、若化生，若有色、若無色，若有想、若無想、若非有想非無想，我皆令入無餘涅槃而滅度之。』"
+  },
+  "30": {
+   "targets": [
+    "30"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     30
+    ]
+   },
+   "text": "如是滅度無量、無數、無邊眾生，實無眾生得滅度者。"
+  },
+  "32": {
+   "targets": [
+    "32"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     32
+    ]
+   },
+   "text": "何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，即非菩薩。"
+  },
+  "33": {
+   "targets": [
+    "33"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     33
+    ]
+   },
+   "text": "「復次，須菩提！菩薩於法應無所住行於布施，"
+  },
+  "35": {
+   "targets": [
+    "35"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     35
+    ]
+   },
+   "text": "所謂不住色布施，"
+  },
+  "36": {
+   "targets": [
+    "36"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     36
+    ]
+   },
+   "text": "不住聲、香、味、觸、法布施。"
+  },
+  "37": {
+   "targets": [
+    "37"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     37
+    ]
+   },
+   "text": "須菩提！菩薩應如是布施，不住於相。"
+  },
+  "38": {
+   "targets": [
+    "38"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     38
+    ]
+   },
+   "text": "何以故？若菩薩不住相布施，其福德不可思量。"
+  },
+  "39": {
+   "targets": [
+    "39"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     39
+    ]
+   },
+   "text": "「須菩提！於意云何？東方虛空可思量不？」"
+  },
+  "40": {
+   "targets": [
+    "40"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     40
+    ]
+   },
+   "text": "「不也，世尊！」"
+  },
+  "41": {
+   "targets": [
+    "41"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     41
+    ]
+   },
+   "text": "「須菩提！南、西、北方，四維、上、下虛空可思量不？」"
+  },
+  "42": {
+   "targets": [
+    "42"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     42
+    ]
+   },
+   "text": "「不也，世尊！」"
+  },
+  "43": {
+   "targets": [
+    "43"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     43
+    ]
+   },
+   "text": "「須菩提！菩薩無住相布施，福德亦復如是不可思量。須菩提！菩薩但應如所教住。」"
+  },
+  "44": {
+   "targets": [
+    "44"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     44
+    ]
+   },
+   "text": "「須菩提！於意云何？可以身相見如來不？」"
+  },
+  "45": {
+   "targets": [
+    "45"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     45
+    ]
+   },
+   "text": "「不也，世尊！"
+  },
+  "46": {
+   "targets": [
+    "46"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     46
+    ]
+   },
+   "text": "不可以身相得見如來。"
+  },
+  "47": {
+   "targets": [
+    "47"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     47
+    ]
+   },
+   "text": "何以故？如來所說身相，即非身相。」"
+  },
+  "48": {
+   "targets": [
+    "48"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     48
+    ]
+   },
+   "text": "佛告須菩提："
+  },
+  "49": {
+   "targets": [
+    "49"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     49
+    ]
+   },
+   "text": "「凡所有相，皆是虛妄；"
+  },
+  "50": {
+   "targets": [
+    "50"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     50
+    ]
+   },
+   "text": "若見諸相非相，"
+  },
+  "51": {
+   "targets": [
+    "51"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     51
+    ]
+   },
+   "text": "則見如來。」"
+  },
+  "52": {
+   "targets": [
+    "52"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     52
+    ]
+   },
+   "text": "須菩提白佛言："
+  },
+  "53": {
+   "targets": [
+    "53"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     53
+    ]
+   },
+   "text": "「世尊！頗有眾生，得聞如是言說章句，生實信不？」"
+  },
+  "54": {
+   "targets": [
+    "54"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     54
+    ]
+   },
+   "text": "佛告須菩提：「莫作是說。"
+  },
+  "55": {
+   "targets": [
+    "55"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     55
+    ]
+   },
+   "text": "如來滅後後五百歲，有持戒修福者， 於此章句能生信心，以此為實，"
+  },
+  "56": {
+   "targets": [
+    "56"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     56
+    ]
+   },
+   "text": "當知是人不於一佛二佛、三、四、五佛而種善根，"
+  },
+  "58": {
+   "targets": [
+    "58"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     58
+    ]
+   },
+   "text": "已於無量千萬佛所種諸善根。"
+  },
+  "59": {
+   "targets": [
+    "59"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     59
+    ]
+   },
+   "text": "聞是章句，乃至一念生淨信者，須菩提！如來悉知"
+  },
+  "60": {
+   "targets": [
+    "60"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     60
+    ]
+   },
+   "text": "悉見"
+  },
+  "61": {
+   "targets": [
+    "61"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     61
+    ]
+   },
+   "text": "是諸眾生得如是無量福德。"
+  },
+  "62": {
+   "targets": [
+    "62"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     62
+    ]
+   },
+   "text": "何以故？是諸眾生無復我相、"
+  },
+  "63": {
+   "targets": [
+    "63"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     63
+    ]
+   },
+   "text": "人相、眾生相、壽者相。"
+  },
+  "64": {
+   "targets": [
+    "64"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     64
+    ]
+   },
+   "text": "「無法相，亦無非法相。"
+  },
+  "66": {
+   "targets": [
+    "66"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     66
+    ]
+   },
+   "text": "何以故？是諸眾生若心取相，則為著我、"
+  },
+  "67": {
+   "targets": [
+    "67"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     67
+    ]
+   },
+   "text": "人、眾生、壽者。」"
+  },
+  "68": {
+   "targets": [
+    "68"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     68
+    ]
+   },
+   "text": "「若取法相，即著我、人、眾生、壽者。何以故？若取非法相，即著我、"
+  },
+  "69": {
+   "targets": [
+    "69"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     69
+    ]
+   },
+   "text": "人、眾生、壽者。"
+  },
+  "70": {
+   "targets": [
+    "70"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     70
+    ]
+   },
+   "text": "是故不應取法，不應取非法。"
+  },
+  "71": {
+   "targets": [
+    "71"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     71
+    ]
+   },
+   "text": "以是義故，如來常說：『汝等比丘，知我說法，如筏喻者，法尚應捨，何況非法。」"
+  },
+  "73": {
+   "targets": [
+    "73"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     73
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "74": {
+   "targets": [
+    "74"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     74
+    ]
+   },
+   "text": "如來得阿耨多羅三藐三菩提耶？"
+  },
+  "75": {
+   "targets": [
+    "75"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     75
+    ]
+   },
+   "text": "如來有所說法耶？」"
+  },
+  "76": {
+   "targets": [
+    "76"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     76
+    ]
+   },
+   "text": "須菩提言："
+  },
+  "77": {
+   "targets": [
+    "77"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     77
+    ]
+   },
+   "text": "「如我解佛所說義，無有定法名阿耨多羅三藐三菩提，"
+  },
+  "78": {
+   "targets": [
+    "78"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     78
+    ]
+   },
+   "text": "亦無有定法如來可說。"
+  },
+  "79": {
+   "targets": [
+    "79"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     79
+    ]
+   },
+   "text": "何以故？如來所說法，皆不可取、不可說、"
+  },
+  "80": {
+   "targets": [
+    "80"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     80
+    ]
+   },
+   "text": "非法、非非法。"
+  },
+  "81": {
+   "targets": [
+    "81"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     81
+    ]
+   },
+   "text": "所以者何？一切賢聖皆以無為法而有差別。」"
+  },
+  "82": {
+   "targets": [
+    "82"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     82
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "83": {
+   "targets": [
+    "83"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     83
+    ]
+   },
+   "text": "若人滿三千大千世界七寶以用布施，是人所得福德，寧為多不？」"
+  },
+  "84": {
+   "targets": [
+    "84"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     84
+    ]
+   },
+   "text": "須菩提言："
+  },
+  "85": {
+   "targets": [
+    "85"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     85
+    ]
+   },
+   "text": "「甚多，世尊！"
+  },
+  "87": {
+   "targets": [
+    "87"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     87
+    ]
+   },
+   "text": "何以故？是福德即非福德性，"
+  },
+  "88": {
+   "targets": [
+    "88"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     88
+    ]
+   },
+   "text": "是故如來說福德多。」"
+  },
+  "89": {
+   "targets": [
+    "89"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     89
+    ]
+   },
+   "text": "「若復有人，於此經中受持乃至四句偈等，為他人說，其福勝彼。"
+  },
+  "90": {
+   "targets": [
+    "90"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     90
+    ]
+   },
+   "text": "何以故？須菩提！一切諸佛及諸佛阿耨多羅三藐三菩提法，皆從此經出。"
+  },
+  "92": {
+   "targets": [
+    "92"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     92
+    ]
+   },
+   "text": "須菩提！所謂佛法者，即非佛法。」"
+  },
+  "94": {
+   "targets": [
+    "94"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     94
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "95": {
+   "targets": [
+    "95"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     95
+    ]
+   },
+   "text": "須陀洹能作是念，『我得須陀洹果』不？」"
+  },
+  "96": {
+   "targets": [
+    "96"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     96
+    ]
+   },
+   "text": "須菩提言：「不也，世尊！"
+  },
+  "97": {
+   "targets": [
+    "97"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     97
+    ]
+   },
+   "text": "何以故？須陀洹名為入流，而無所入，"
+  },
+  "99": {
+   "targets": [
+    "99"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     99
+    ]
+   },
+   "text": "不入色、聲、香、味、觸、法，"
+  },
+  "100": {
+   "targets": [
+    "100"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     100
+    ]
+   },
+   "text": "是名須陀洹。」"
+  },
+  "103": {
+   "targets": [
+    "103"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     103
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "104": {
+   "targets": [
+    "104"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     104
+    ]
+   },
+   "text": "斯陀含能作是念，『我得斯陀含果』不？」"
+  },
+  "105": {
+   "targets": [
+    "105"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     105
+    ]
+   },
+   "text": "須菩提言：「不也，世尊！"
+  },
+  "106": {
+   "targets": [
+    "106"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     106
+    ]
+   },
+   "text": "何以故？斯陀含名一往來，而實無往來，"
+  },
+  "107": {
+   "targets": [
+    "107"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     107
+    ]
+   },
+   "text": "是名斯陀含。」"
+  },
+  "110": {
+   "targets": [
+    "110"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     110
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "111": {
+   "targets": [
+    "111"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     111
+    ]
+   },
+   "text": "阿那含能作是念，『我得阿那含果』不？」"
+  },
+  "112": {
+   "targets": [
+    "112"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     112
+    ]
+   },
+   "text": "須菩提言：「不也，世尊！"
+  },
+  "113": {
+   "targets": [
+    "113"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     113
+    ]
+   },
+   "text": "何以故？阿那含名為不來，而實無來，"
+  },
+  "114": {
+   "targets": [
+    "114"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     114
+    ]
+   },
+   "text": "是故名阿那含。」"
+  },
+  "115": {
+   "targets": [
+    "115"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     115
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "116": {
+   "targets": [
+    "116"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     116
+    ]
+   },
+   "text": "阿羅漢能作是念，『我得阿羅漢道』不？」"
+  },
+  "117": {
+   "targets": [
+    "117"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     117
+    ]
+   },
+   "text": "須菩提言：「不也，世尊！"
+  },
+  "118": {
+   "targets": [
+    "118"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     118
+    ]
+   },
+   "text": "何以故？實無有法名阿羅漢。"
+  },
+  "119": {
+   "targets": [
+    "119"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     119
+    ]
+   },
+   "text": "世尊！若阿羅漢作是念『我得阿羅漢道』，即為著我、"
+  },
+  "120": {
+   "targets": [
+    "120"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     120
+    ]
+   },
+   "text": "人、眾生、壽者。"
+  },
+  "121": {
+   "targets": [
+    "121"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     121
+    ]
+   },
+   "text": "世尊！佛說我得無諍三昧人中最為第一，"
+  },
+  "122": {
+   "targets": [
+    "122"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     122
+    ]
+   },
+   "text": "是第一離欲阿羅漢。我不作是念：『我是離欲阿羅漢。』"
+  },
+  "123": {
+   "targets": [
+    "123"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     123
+    ]
+   },
+   "text": "世尊！我若作是念『我得阿羅漢道』，"
+  },
+  "124": {
+   "targets": [
+    "124"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     124
+    ]
+   },
+   "text": "世尊則不說須菩提是樂阿蘭那行者。以須菩提實無所行，而名須菩提是樂阿蘭那行。」"
+  },
+  "125": {
+   "targets": [
+    "125"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     125
+    ]
+   },
+   "text": "佛告須菩提：「於意云何？"
+  },
+  "126": {
+   "targets": [
+    "126"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     126
+    ]
+   },
+   "text": "如來昔在然燈佛所，於法有所得不？」"
+  },
+  "128": {
+   "targets": [
+    "128"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     128
+    ]
+   },
+   "text": "「世尊！如來在然燈佛所，於法實無所得。」"
+  },
+  "129": {
+   "targets": [
+    "129"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     129
+    ]
+   },
+   "text": "「須菩提！於意云何？菩薩莊嚴佛土不？」「不也，世尊！"
+  },
+  "130": {
+   "targets": [
+    "130"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     130
+    ]
+   },
+   "text": "何以故？莊嚴佛土者，則非莊嚴，"
+  },
+  "131": {
+   "targets": [
+    "131"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     131
+    ]
+   },
+   "text": "是名莊嚴。」"
+  },
+  "132": {
+   "targets": [
+    "132"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     132
+    ]
+   },
+   "text": "「是故須菩提，諸菩薩摩訶薩應如是生清淨心，應無所住而生其心。」"
+  },
+  "134": {
+   "targets": [
+    "134"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     134
+    ]
+   },
+   "text": "不應住色生心，"
+  },
+  "135": {
+   "targets": [
+    "135"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     135
+    ]
+   },
+   "text": "不應住聲、香、味、觸、法生心，"
+  },
+  "136": {
+   "targets": [
+    "136"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     136
+    ]
+   },
+   "text": "「須菩提！譬如有人，身如須彌山王，於意云何？是身為大不？」"
+  },
+  "137": {
+   "targets": [
+    "137"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     137
+    ]
+   },
+   "text": "須菩提言：「甚大，世尊！"
+  },
+  "139": {
+   "targets": [
+    "139"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     139
+    ]
+   },
+   "text": "何以故？佛說非身，"
+  },
+  "140": {
+   "targets": [
+    "140"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     140
+    ]
+   },
+   "text": "是名大身。」"
+  },
+  "142": {
+   "targets": [
+    "142"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     142
+    ]
+   },
+   "text": "「須菩提！"
+  },
+  "143": {
+   "targets": [
+    "143"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     143
+    ]
+   },
+   "text": "如恒河中所有沙數，如是沙等恒河，於意云何？是諸恒河沙寧為多不？」"
+  },
+  "144": {
+   "targets": [
+    "144"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     144
+    ]
+   },
+   "text": "須菩提言：「甚多，世尊！但諸恒河尚多無數，何況其沙。」"
+  },
+  "145": {
+   "targets": [
+    "145"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     145
+    ]
+   },
+   "text": "「須菩提！我今實言告汝，"
+  },
+  "147": {
+   "targets": [
+    "147"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     147
+    ]
+   },
+   "text": "若有善男子、善女人，以七寶滿爾所恒河沙數三千大千世界"
+  },
+  "148": {
+   "targets": [
+    "148"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     148
+    ]
+   },
+   "text": "以用布施，得福多不？」"
+  },
+  "149": {
+   "targets": [
+    "149"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     149
+    ]
+   },
+   "text": "須菩提言：「甚多，世尊！」"
+  },
+  "153": {
+   "targets": [
+    "153"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     153
+    ]
+   },
+   "text": "佛告須菩提：「若善男子、善女人於此經中，乃至受持四句偈等，為他人說，而此福德勝前福德。」"
+  },
+  "154": {
+   "targets": [
+    "154"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     154
+    ]
+   },
+   "text": "「復次，須菩提！隨說是經，乃至四句偈等，當知此處，一切世間天、人、阿修羅皆應供養，如佛塔廟，何況有人盡能受持讀誦？ 須菩提！當知是人成就最上、第一、希有之法，"
+  },
+  "155": {
+   "targets": [
+    "155"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     155
+    ]
+   },
+   "text": "若是經典所在之處，則為有佛，若尊重弟子。」"
+  },
+  "156": {
+   "targets": [
+    "156"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     156
+    ]
+   },
+   "text": "爾時，須菩提白佛言："
+  },
+  "157": {
+   "targets": [
+    "157"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     157
+    ]
+   },
+   "text": "「世尊！當何名此經？"
+  },
+  "158": {
+   "targets": [
+    "158"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     158
+    ]
+   },
+   "text": "我等云何奉持？」"
+  },
+  "159": {
+   "targets": [
+    "159"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     159
+    ]
+   },
+   "text": "佛告須菩提："
+  },
+  "160": {
+   "targets": [
+    "160"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     160
+    ]
+   },
+   "text": "「是經名為『金剛般若波羅蜜』。"
+  },
+  "161": {
+   "targets": [
+    "161"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     161
+    ]
+   },
+   "text": "以是名字，汝當奉持。"
+  },
+  "162": {
+   "targets": [
+    "162"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     162
+    ]
+   },
+   "text": "所以者何？須菩提！佛說般若波羅蜜，則非般若波羅蜜。"
+  },
+  "165": {
+   "targets": [
+    "165"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     165
+    ]
+   },
+   "text": "須菩提！於意云何？如來有所說法不？」"
+  },
+  "166": {
+   "targets": [
+    "166"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     166
+    ]
+   },
+   "text": "須菩提白佛言：「世尊！如來無所說。」"
+  },
+  "167": {
+   "targets": [
+    "167"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     167
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "168": {
+   "targets": [
+    "168"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     168
+    ]
+   },
+   "text": "三千大千世界所有微塵是為多不？」"
+  },
+  "169": {
+   "targets": [
+    "169"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     169
+    ]
+   },
+   "text": "須菩提言：「甚多，世尊！」"
+  },
+  "171": {
+   "targets": [
+    "171"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     171
+    ]
+   },
+   "text": "「須菩提！諸微塵，如來說非微塵，"
+  },
+  "172": {
+   "targets": [
+    "172"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     172
+    ]
+   },
+   "text": "是名微塵。"
+  },
+  "173": {
+   "targets": [
+    "173"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     173
+    ]
+   },
+   "text": "如來說世界，非世界，"
+  },
+  "174": {
+   "targets": [
+    "174"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     174
+    ]
+   },
+   "text": "是名世界。」"
+  },
+  "175": {
+   "targets": [
+    "175"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     175
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "176": {
+   "targets": [
+    "176"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     176
+    ]
+   },
+   "text": "可以三十二相見如來不？」"
+  },
+  "177": {
+   "targets": [
+    "177"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     177
+    ]
+   },
+   "text": "「不也，世尊！不可以三十二相得見如來。"
+  },
+  "178": {
+   "targets": [
+    "178"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     178
+    ]
+   },
+   "text": "何以故？如來說三十二相，即是非相，"
+  },
+  "179": {
+   "targets": [
+    "179"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     179
+    ]
+   },
+   "text": "是名三十二相。」"
+  },
+  "180": {
+   "targets": [
+    "180"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     180
+    ]
+   },
+   "text": "「須菩提！若有善男子、善女人，以恒河沙等身命布施；若復有人，於此經中，乃至受持四句偈等，為他人說，其福甚多。」"
+  },
+  "181": {
+   "targets": [
+    "181"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     181
+    ]
+   },
+   "text": "爾時，須菩提聞說是經，深解義趣，涕淚悲泣，"
+  },
+  "182": {
+   "targets": [
+    "182"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     182
+    ]
+   },
+   "text": "而白佛言："
+  },
+  "183": {
+   "targets": [
+    "183"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     183
+    ]
+   },
+   "text": "「希有世尊！佛說如是甚深經典，"
+  },
+  "184": {
+   "targets": [
+    "184"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     184
+    ]
+   },
+   "text": "我從昔來所得慧眼，未曾得聞如是之經。"
+  },
+  "185": {
+   "targets": [
+    "185"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     185
+    ]
+   },
+   "text": "世尊！若復有人得聞是經，信心清淨，則生實相，當知是人，成就第一希有功德。"
+  },
+  "186": {
+   "targets": [
+    "186"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     186
+    ]
+   },
+   "text": "世尊！是實相者，則是非相，"
+  },
+  "187": {
+   "targets": [
+    "187"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     187
+    ]
+   },
+   "text": "是故如來說名實相。"
+  },
+  "188": {
+   "targets": [
+    "188"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     188
+    ]
+   },
+   "text": "世尊！我今得聞如是經典，信解、受持不足為難，"
+  },
+  "189": {
+   "targets": [
+    "189"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     189
+    ]
+   },
+   "text": "若當來世後五百歲，其有眾生得聞是經，信解、受持，是人則為第一希有。"
+  },
+  "190": {
+   "targets": [
+    "190"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     190
+    ]
+   },
+   "text": "何以故？此人無我相、"
+  },
+  "191": {
+   "targets": [
+    "191"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     191
+    ]
+   },
+   "text": "人相、眾生相、壽者相。"
+  },
+  "192": {
+   "targets": [
+    "192"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     192
+    ]
+   },
+   "text": "所以者何？我相即是非相，人相、眾生相、壽者相即是非相。"
+  },
+  "193": {
+   "targets": [
+    "193"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     193
+    ]
+   },
+   "text": "何以故？離一切諸相，則名諸佛。」"
+  },
+  "194": {
+   "targets": [
+    "194"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     194
+    ]
+   },
+   "text": "佛告須菩提："
+  },
+  "195": {
+   "targets": [
+    "195"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     195
+    ]
+   },
+   "text": "「如是，如是！"
+  },
+  "196": {
+   "targets": [
+    "196"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     196
+    ]
+   },
+   "text": "若復有人得聞是經，不驚、不怖、不畏，當知是人甚為希有。"
+  },
+  "197": {
+   "targets": [
+    "197"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     197
+    ]
+   },
+   "text": "何以故？須菩提！如來說第一波羅蜜，"
+  },
+  "198": {
+   "targets": [
+    "198"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     198
+    ]
+   },
+   "text": "非第一波羅蜜，"
+  },
+  "199": {
+   "targets": [
+    "199"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     199
+    ]
+   },
+   "text": "是名第一波羅蜜。"
+  },
+  "200": {
+   "targets": [
+    "200"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     200
+    ]
+   },
+   "text": "須菩提！忍辱波羅蜜，如來說非忍辱波羅蜜。"
+  },
+  "201": {
+   "targets": [
+    "201"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     201
+    ]
+   },
+   "text": "何以故？須菩提！如我昔為歌利王割截身體，我於爾時，無我相、無人相、無眾生相、無壽者相。"
+  },
+  "203": {
+   "targets": [
+    "203"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     203
+    ]
+   },
+   "text": "何以故？我於往昔節節支解時，若有我相、人相、眾生相、壽者相，應生瞋恨。"
+  },
+  "205": {
+   "targets": [
+    "205"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     205
+    ]
+   },
+   "text": "須菩提！又念過去於五百世作忍辱仙人，於爾所世，無我相、"
+  },
+  "206": {
+   "targets": [
+    "206"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     206
+    ]
+   },
+   "text": "無人相、無眾生相、無壽者相。"
+  },
+  "207": {
+   "targets": [
+    "207"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     207
+    ]
+   },
+   "text": "是故，須菩提！菩薩應離一切相，"
+  },
+  "208": {
+   "targets": [
+    "208"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     208
+    ]
+   },
+   "text": "發阿耨多羅三藐三菩提心，"
+  },
+  "209": {
+   "targets": [
+    "209"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     209
+    ]
+   },
+   "text": "不應住色生心，"
+  },
+  "210": {
+   "targets": [
+    "210"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     210
+    ]
+   },
+   "text": "不應住聲、香、味、觸、法生心，應生無所住心。"
+  },
+  "214": {
+   "targets": [
+    "214"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     214
+    ]
+   },
+   "text": "若心有住，則為非住。"
+  },
+  "215": {
+   "targets": [
+    "215"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     215
+    ]
+   },
+   "text": "是故，佛說菩薩心不應住色布施。」"
+  },
+  "216": {
+   "targets": [
+    "216"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     216
+    ]
+   },
+   "text": "「須菩提！菩薩為利益一切眾生，應如是布施。"
+  },
+  "217": {
+   "targets": [
+    "217"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     217
+    ]
+   },
+   "text": "如來說：『一切諸相，即是非相。』"
+  },
+  "218": {
+   "targets": [
+    "218"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     218
+    ]
+   },
+   "text": "又說：『一切眾生，則非眾生。』"
+  },
+  "219": {
+   "targets": [
+    "219"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     219
+    ]
+   },
+   "text": "「須菩提！如來是真語者、實語者、如語者、"
+  },
+  "220": {
+   "targets": [
+    "220"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     220
+    ]
+   },
+   "text": "不誑語者、不異語者。」"
+  },
+  "221": {
+   "targets": [
+    "221"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     221
+    ]
+   },
+   "text": "「須菩提！如來所得法，此法無實無虛。"
+  },
+  "222": {
+   "targets": [
+    "222"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     222
+    ]
+   },
+   "text": "須菩提！若菩薩心住於法而行布施，如人入闇，則無所見；"
+  },
+  "223": {
+   "targets": [
+    "223"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     223
+    ]
+   },
+   "text": "若菩薩心不住法而行布施，如人有目，日光明照，見種種色。」"
+  },
+  "224": {
+   "targets": [
+    "224"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     224
+    ]
+   },
+   "text": "「須菩提！當來之世，若有善男子、善女人，能於此經受持、讀誦，則為如來以佛智慧悉知是人，悉見是人，"
+  },
+  "225": {
+   "targets": [
+    "225"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     225
+    ]
+   },
+   "text": "皆得成就無量無邊功德。」"
+  },
+  "226": {
+   "targets": [
+    "226"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     226
+    ]
+   },
+   "text": "「須菩提！若有善男子、善女人，初日分以恒河沙等身布施，中日分復以恒河沙等身布施，後日分亦以恒河沙等身布施，如是無量百千萬億劫以身布施；"
+  },
+  "227": {
+   "targets": [
+    "227"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     227
+    ]
+   },
+   "text": "若復有人，聞此經典，信心不逆，其福勝彼，何況書寫、受持、讀誦、為人解說。」"
+  },
+  "228": {
+   "targets": [
+    "228"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     228
+    ]
+   },
+   "text": "「須菩提！以要言之，是經有不可思議、不可稱量、"
+  },
+  "229": {
+   "targets": [
+    "229"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     229
+    ]
+   },
+   "text": "無邊功德。"
+  },
+  "230": {
+   "targets": [
+    "230"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     230
+    ]
+   },
+   "text": "如來為發大乘者說，為發最上乘者說。"
+  },
+  "231": {
+   "targets": [
+    "231"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     231
+    ]
+   },
+   "text": "若有人能受持、讀誦、廣為人說，如來悉知是人，悉見是人，"
+  },
+  "233": {
+   "targets": [
+    "233"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     233
+    ]
+   },
+   "text": "皆得成就不可量、不可稱、無有邊、不可思議功德，"
+  },
+  "234": {
+   "targets": [
+    "234"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     234
+    ]
+   },
+   "text": "如是人等，則為荷擔如來阿耨多羅三藐三菩提。"
+  },
+  "235": {
+   "targets": [
+    "235"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     235
+    ]
+   },
+   "text": "何以故？須菩提！若樂小法者，"
+  },
+  "236": {
+   "targets": [
+    "236"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     236
+    ]
+   },
+   "text": "著我見、人見、眾生見、壽者見，"
+  },
+  "237": {
+   "targets": [
+    "237"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     237
+    ]
+   },
+   "text": "則於此經，不能聽受、讀誦、為人解說。」"
+  },
+  "239": {
+   "targets": [
+    "239"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     239
+    ]
+   },
+   "text": "「須菩提！在在處處若有此經，一切世間天、人、阿修羅所應供養；"
+  },
+  "240": {
+   "targets": [
+    "240"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     240
+    ]
+   },
+   "text": "當知此處則為是塔，皆應恭敬、作禮、圍繞，以諸華香而散其處。」"
+  },
+  "242": {
+   "targets": [
+    "242"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     242
+    ]
+   },
+   "text": "「復次，須菩提！善男子、善女人受持、讀誦此經，若為人輕賤，"
+  },
+  "243": {
+   "targets": [
+    "243"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     243
+    ]
+   },
+   "text": "是人先世罪業應墮惡道，以今世人輕賤故，"
+  },
+  "244": {
+   "targets": [
+    "244"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     244
+    ]
+   },
+   "text": "先世罪業則為消滅，"
+  },
+  "245": {
+   "targets": [
+    "245"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     245
+    ]
+   },
+   "text": "當得阿耨多羅三藐三菩提。」"
+  },
+  "246": {
+   "targets": [
+    "246"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     246
+    ]
+   },
+   "text": "「須菩提！我念過去無量阿僧祇劫，於然燈佛前，得值八百四千萬億那由他諸佛，悉皆供養承事，"
+  },
+  "247": {
+   "targets": [
+    "247"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     247
+    ]
+   },
+   "text": "無空過者；"
+  },
+  "248": {
+   "targets": [
+    "248"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     248
+    ]
+   },
+   "text": "若復有人，於後末世，能受持、讀誦此經，所得功德，於我所供養諸佛功德，百分不及一，"
+  },
+  "249": {
+   "targets": [
+    "249"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     249
+    ]
+   },
+   "text": "千萬億分乃至算數、譬喻所不能及。」"
+  },
+  "250": {
+   "targets": [
+    "250"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     250
+    ]
+   },
+   "text": "「須菩提！若善男子、善女人於後末世，有受持、讀誦此經所得功德，我若具說者，或有人聞，心則狂亂，狐疑不信。"
+  },
+  "251": {
+   "targets": [
+    "251"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     251
+    ]
+   },
+   "text": "須菩提！當知是經義不可思議，"
+  },
+  "252": {
+   "targets": [
+    "252"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     252
+    ]
+   },
+   "text": "果報亦不可思議。」"
+  },
+  "253": {
+   "targets": [
+    "253"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     253
+    ]
+   },
+   "text": "爾時，須菩提白佛言："
+  },
+  "254": {
+   "targets": [
+    "254"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     254
+    ]
+   },
+   "text": "「世尊！善男子、善女人發阿耨多羅三藐三菩提心，云何應住？"
+  },
+  "256": {
+   "targets": [
+    "256"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     256
+    ]
+   },
+   "text": "云何降伏其心？」"
+  },
+  "257": {
+   "targets": [
+    "257"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     257
+    ]
+   },
+   "text": "佛告須菩提："
+  },
+  "258": {
+   "targets": [
+    "258"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     258
+    ]
+   },
+   "text": "「善男子、善女人發阿耨多羅三藐三菩提者，"
+  },
+  "259": {
+   "targets": [
+    "259"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     259
+    ]
+   },
+   "text": "當生如是心：『我應滅度一切眾生。滅度一切眾生已，而無有一眾生實滅度者。』"
+  },
+  "260": {
+   "targets": [
+    "260"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     260
+    ]
+   },
+   "text": "何以故？須菩提！若菩薩有我相、"
+  },
+  "261": {
+   "targets": [
+    "261"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     261
+    ]
+   },
+   "text": "人相、眾生相、壽者相，則非菩薩。"
+  },
+  "262": {
+   "targets": [
+    "262"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     262
+    ]
+   },
+   "text": "所以者何？須菩提！實無有法發阿耨多羅三藐三菩提者。」"
+  },
+  "263": {
+   "targets": [
+    "263"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     263
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "264": {
+   "targets": [
+    "264"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     264
+    ]
+   },
+   "text": "如來於然燈佛所，有法得阿耨多羅三藐三菩提不？」"
+  },
+  "265": {
+   "targets": [
+    "265"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     265
+    ]
+   },
+   "text": "「不也，世尊！"
+  },
+  "266": {
+   "targets": [
+    "266"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     266
+    ]
+   },
+   "text": "如我解佛所說義，佛於然燈佛所，無有法得阿耨多羅三藐三菩提。」"
+  },
+  "267": {
+   "targets": [
+    "267"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     267
+    ]
+   },
+   "text": "佛言："
+  },
+  "268": {
+   "targets": [
+    "268"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     268
+    ]
+   },
+   "text": "「如是，如是！"
+  },
+  "269": {
+   "targets": [
+    "269"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     269
+    ]
+   },
+   "text": "須菩提！實無有法，如來得阿耨多羅三藐三菩提。"
+  },
+  "270": {
+   "targets": [
+    "270"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     270
+    ]
+   },
+   "text": "須菩提！若有法，如來得阿耨多羅三藐三菩提者，然燈佛則不與我受記：『汝於來世當得作佛，號釋迦牟尼。』"
+  },
+  "271": {
+   "targets": [
+    "271"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     271
+    ]
+   },
+   "text": "以實無有法得阿耨多羅三藐三菩提，"
+  },
+  "272": {
+   "targets": [
+    "272"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     272
+    ]
+   },
+   "text": "是故然燈佛與我受記，作是言：『汝於來世當得作佛，號釋迦牟尼。』"
+  },
+  "273": {
+   "targets": [
+    "273"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     273
+    ]
+   },
+   "text": "何以故？如來者，即諸法如義。」"
+  },
+  "274": {
+   "targets": [
+    "274"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     274
+    ]
+   },
+   "text": "「若有人言『如來得阿耨多羅三藐三菩提』，"
+  },
+  "276": {
+   "targets": [
+    "276"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     276
+    ]
+   },
+   "text": "須菩提！實無有法，佛得阿耨多羅三藐三菩提。"
+  },
+  "277": {
+   "targets": [
+    "277"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     277
+    ]
+   },
+   "text": "須菩提！如來所得阿耨多羅三藐三菩提，於是中無實無虛，"
+  },
+  "278": {
+   "targets": [
+    "278"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     278
+    ]
+   },
+   "text": "是故如來說：『一切法皆是佛法。』"
+  },
+  "279": {
+   "targets": [
+    "279"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     279
+    ]
+   },
+   "text": "須菩提！所言一切法者，即非一切法，"
+  },
+  "280": {
+   "targets": [
+    "280"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     280
+    ]
+   },
+   "text": "是故名一切法。」"
+  },
+  "281": {
+   "targets": [
+    "281"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     281
+    ]
+   },
+   "text": "「須菩提！譬如人身長、大。」"
+  },
+  "282": {
+   "targets": [
+    "282"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     282
+    ]
+   },
+   "text": "須菩提言：「世尊！如來說人身長、大，則為非大身，"
+  },
+  "283": {
+   "targets": [
+    "283"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     283
+    ]
+   },
+   "text": "是名大身。」"
+  },
+  "284": {
+   "targets": [
+    "284"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     284
+    ]
+   },
+   "text": "「須菩提！"
+  },
+  "285": {
+   "targets": [
+    "285"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     285
+    ]
+   },
+   "text": "菩薩亦如是，若作是言『我當滅度無量眾生』，則不名菩薩。"
+  },
+  "286": {
+   "targets": [
+    "286"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     286
+    ]
+   },
+   "text": "何以故？須菩提！實無有法名為菩薩。"
+  },
+  "288": {
+   "targets": [
+    "288"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     288
+    ]
+   },
+   "text": "是故，佛說：『一切法無我、無人、無眾生、無壽者。』"
+  },
+  "289": {
+   "targets": [
+    "289"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     289
+    ]
+   },
+   "text": "須菩提！若菩薩作是言『我當莊嚴佛土』，是不名菩薩。"
+  },
+  "290": {
+   "targets": [
+    "290"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     290
+    ]
+   },
+   "text": "何以故？如來說莊嚴佛土者，即非莊嚴，"
+  },
+  "291": {
+   "targets": [
+    "291"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     291
+    ]
+   },
+   "text": "是名莊嚴。"
+  },
+  "292": {
+   "targets": [
+    "292"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     292
+    ]
+   },
+   "text": "須菩提！若菩薩通達無我、法者，如來說名真是菩薩。」"
+  },
+  "293": {
+   "targets": [
+    "293"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     293
+    ]
+   },
+   "text": "「須菩提！於意云何？如來有肉眼不？」"
+  },
+  "294": {
+   "targets": [
+    "294"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     294
+    ]
+   },
+   "text": "「如是，世尊！如來有肉眼。」"
+  },
+  "295": {
+   "targets": [
+    "295"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     295
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "296": {
+   "targets": [
+    "296"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     296
+    ]
+   },
+   "text": "如來有天眼不？」"
+  },
+  "297": {
+   "targets": [
+    "297"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     297
+    ]
+   },
+   "text": "「如是，世尊！"
+  },
+  "298": {
+   "targets": [
+    "298"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     298
+    ]
+   },
+   "text": "如來有天眼。」"
+  },
+  "299": {
+   "targets": [
+    "299"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     299
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "300": {
+   "targets": [
+    "300"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     300
+    ]
+   },
+   "text": "如來有慧眼不？」"
+  },
+  "301": {
+   "targets": [
+    "301"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     301
+    ]
+   },
+   "text": "「如是，世尊！如來有慧眼。」"
+  },
+  "302": {
+   "targets": [
+    "302"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     302
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "303": {
+   "targets": [
+    "303"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     303
+    ]
+   },
+   "text": "如來有法眼不？」"
+  },
+  "304": {
+   "targets": [
+    "304"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     304
+    ]
+   },
+   "text": "「如是，世尊！"
+  },
+  "305": {
+   "targets": [
+    "305"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     305
+    ]
+   },
+   "text": "如來有法眼。」"
+  },
+  "306": {
+   "targets": [
+    "306"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     306
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "307": {
+   "targets": [
+    "307"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     307
+    ]
+   },
+   "text": "如來有佛眼不？」"
+  },
+  "308": {
+   "targets": [
+    "308"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     308
+    ]
+   },
+   "text": "「如是，世尊！"
+  },
+  "309": {
+   "targets": [
+    "309"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     309
+    ]
+   },
+   "text": "如來有佛眼。」"
+  },
+  "310": {
+   "targets": [
+    "310"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     310
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "311": {
+   "targets": [
+    "311"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     311
+    ]
+   },
+   "text": "恒河中所有沙，佛說是沙不？」「須菩提！於意云何？如一恒河中所有沙，有如是等恒河，是諸恒河所有沙數佛世界，如是寧為多不？」"
+  },
+  "312": {
+   "targets": [
+    "312"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     312
+    ]
+   },
+   "text": "「如是，世尊！"
+  },
+  "313": {
+   "targets": [
+    "313"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     313
+    ]
+   },
+   "text": "如來說是沙。」「甚多，世尊！」"
+  },
+  "314": {
+   "targets": [
+    "314"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     314
+    ]
+   },
+   "text": "佛告須菩提：「爾所國土中，所有眾生若干種心，如來悉知。"
+  },
+  "315": {
+   "targets": [
+    "315"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     315
+    ]
+   },
+   "text": "何以故？如來說諸心，皆為非心，"
+  },
+  "316": {
+   "targets": [
+    "316"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     316
+    ]
+   },
+   "text": "是名為心。"
+  },
+  "317": {
+   "targets": [
+    "317"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     317
+    ]
+   },
+   "text": "所以者何？須菩提！過去心不可得，現在心不可得，"
+  },
+  "318": {
+   "targets": [
+    "318"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     318
+    ]
+   },
+   "text": "未來心不可得。」"
+  },
+  "320": {
+   "targets": [
+    "320"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     320
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "321": {
+   "targets": [
+    "321"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     321
+    ]
+   },
+   "text": "若有人滿三千大千世界七寶以用布施，是人以是因緣得福多不？」"
+  },
+  "322": {
+   "targets": [
+    "322"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     322
+    ]
+   },
+   "text": "「如是，世尊！此人以是因緣得福甚多。」"
+  },
+  "325": {
+   "targets": [
+    "325"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     325
+    ]
+   },
+   "text": "「須菩提！"
+  },
+  "327": {
+   "targets": [
+    "327"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     327
+    ]
+   },
+   "text": "若福德有實，如來不說得福德多；以福德無故，如來說得福德多。」"
+  },
+  "328": {
+   "targets": [
+    "328"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     328
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "329": {
+   "targets": [
+    "329"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     329
+    ]
+   },
+   "text": "佛可以具足色身見不？」"
+  },
+  "330": {
+   "targets": [
+    "330"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     330
+    ]
+   },
+   "text": "「不也，世尊！"
+  },
+  "331": {
+   "targets": [
+    "331"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     331
+    ]
+   },
+   "text": "如來不應以具足色身見。"
+  },
+  "332": {
+   "targets": [
+    "332"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     332
+    ]
+   },
+   "text": "何以故？如來說具足色身，即非具足色身，"
+  },
+  "333": {
+   "targets": [
+    "333"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     333
+    ]
+   },
+   "text": "是名具足色身。」"
+  },
+  "334": {
+   "targets": [
+    "334"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     334
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "335": {
+   "targets": [
+    "335"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     335
+    ]
+   },
+   "text": "如來可以具足諸相見不？」"
+  },
+  "336": {
+   "targets": [
+    "336"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     336
+    ]
+   },
+   "text": "「不也，世尊！如來不應以具足諸相見。"
+  },
+  "337": {
+   "targets": [
+    "337"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     337
+    ]
+   },
+   "text": "何以故？如來說諸相具足，即非具足，"
+  },
+  "338": {
+   "targets": [
+    "338"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     338
+    ]
+   },
+   "text": "是名諸相具足。」"
+  },
+  "339": {
+   "targets": [
+    "339"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     339
+    ]
+   },
+   "text": "「須菩提！"
+  },
+  "340": {
+   "targets": [
+    "340"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     340
+    ]
+   },
+   "text": "汝勿謂如來作是念，『我當有所說法』。莫作是念，何以故？"
+  },
+  "342": {
+   "targets": [
+    "342"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     342
+    ]
+   },
+   "text": "若人言『如來有所說法』，即為謗佛，不能解我所說故。"
+  },
+  "343": {
+   "targets": [
+    "343"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     343
+    ]
+   },
+   "text": "須菩提！說法者，無法可說，是名說法。」"
+  },
+  "344": {
+   "targets": [
+    "344"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     344
+    ]
+   },
+   "text": "爾時，慧命須菩提白佛言："
+  },
+  "345": {
+   "targets": [
+    "345"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     345
+    ]
+   },
+   "text": "「世尊！頗有眾生於未來世，聞說是法生信心不？」"
+  },
+  "346": {
+   "targets": [
+    "346"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     346
+    ]
+   },
+   "text": "佛言：「須菩提！彼非眾生，非不眾生。"
+  },
+  "347": {
+   "targets": [
+    "347"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     347
+    ]
+   },
+   "text": "何以故？須菩提！眾生、眾生者，如來說非眾生，"
+  },
+  "348": {
+   "targets": [
+    "348"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     348
+    ]
+   },
+   "text": "是名眾生。」"
+  },
+  "351": {
+   "targets": [
+    "351"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     351
+    ]
+   },
+   "text": "須菩提白佛言：「世尊！佛得阿耨多羅三藐三菩提，為無所得耶？」"
+  },
+  "352": {
+   "targets": [
+    "352"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     352
+    ]
+   },
+   "text": "「如是，如是！須菩提！"
+  },
+  "353": {
+   "targets": [
+    "353"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     353
+    ]
+   },
+   "text": "我於阿耨多羅三藐三菩提乃至無有少法可得，"
+  },
+  "354": {
+   "targets": [
+    "354"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     354
+    ]
+   },
+   "text": "是名阿耨多羅三藐三菩提。」"
+  },
+  "355": {
+   "targets": [
+    "355"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     355
+    ]
+   },
+   "text": "「復次，須菩提！是法平等，"
+  },
+  "356": {
+   "targets": [
+    "356"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     356
+    ]
+   },
+   "text": "無有高下，是名阿耨多羅三藐三菩提；"
+  },
+  "357": {
+   "targets": [
+    "357"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     357
+    ]
+   },
+   "text": "以無我、無人、無眾生、無壽者，"
+  },
+  "358": {
+   "targets": [
+    "358"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     358
+    ]
+   },
+   "text": "修一切善法，則得阿耨多羅三藐三菩提。"
+  },
+  "359": {
+   "targets": [
+    "359"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     359
+    ]
+   },
+   "text": "須菩提！所言善法者，如來說非善法，"
+  },
+  "360": {
+   "targets": [
+    "360"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     360
+    ]
+   },
+   "text": "是名善法。」"
+  },
+  "361": {
+   "targets": [
+    "361"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     361
+    ]
+   },
+   "text": "「須菩提！若三千大千世界中所有諸須彌山王，如是等七寶聚，有人持用布施；若人以此《般若波羅蜜經》，乃至四句偈等，受持、讀誦、為他人說，於前福德百分不及一，百千萬億分，乃至算數、譬喻所不能及。」"
+  },
+  "362": {
+   "targets": [
+    "362"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     362
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "363": {
+   "targets": [
+    "363"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     363
+    ]
+   },
+   "text": "汝等勿謂如來作是念：『我當度眾生。』須菩提！莫作是念。"
+  },
+  "364": {
+   "targets": [
+    "364"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     364
+    ]
+   },
+   "text": "何以故？實無有眾生如來度者，"
+  },
+  "365": {
+   "targets": [
+    "365"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     365
+    ]
+   },
+   "text": "若有眾生如來度者，如來則有我、"
+  },
+  "366": {
+   "targets": [
+    "366"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     366
+    ]
+   },
+   "text": "人、眾生、壽者。"
+  },
+  "367": {
+   "targets": [
+    "367"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     367
+    ]
+   },
+   "text": "須菩提！如來說有我者，則非有我，而凡夫之人以為有我。"
+  },
+  "368": {
+   "targets": [
+    "368"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     368
+    ]
+   },
+   "text": "須菩提！凡夫者，如來說則非凡夫。」"
+  },
+  "370": {
+   "targets": [
+    "370"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     370
+    ]
+   },
+   "text": "「須菩提！於意云何？"
+  },
+  "371": {
+   "targets": [
+    "371"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     371
+    ]
+   },
+   "text": "可以三十二相觀如來不？」須菩提言：「如是，如是！以三十二相觀如來。」"
+  },
+  "372": {
+   "targets": [
+    "372"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     372
+    ]
+   },
+   "text": "須菩提白佛言：「世尊！如我解佛所說義，"
+  },
+  "373": {
+   "targets": [
+    "373"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     373
+    ]
+   },
+   "text": "不應以三十二相觀如來。」"
+  },
+  "374": {
+   "targets": [
+    "374"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     374
+    ]
+   },
+   "text": "佛言：「須菩提！"
+  },
+  "376": {
+   "targets": [
+    "376"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     376
+    ]
+   },
+   "text": "若以三十二相觀如來者，轉輪聖王則是如來。」"
+  },
+  "380": {
+   "targets": [
+    "380"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     380
+    ]
+   },
+   "text": "爾時，世尊而說偈言："
+  },
+  "381": {
+   "targets": [
+    "381"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     381
+    ]
+   },
+   "text": "「若以色見我，  以音聲求我，"
+  },
+  "382": {
+   "targets": [
+    "382"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     382
+    ]
+   },
+   "text": "是人行邪道，"
+  },
+  "383": {
+   "targets": [
+    "383"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     383
+    ]
+   },
+   "text": "不能見如來。」"
+  },
+  "385": {
+   "targets": [
+    "385"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     385
+    ]
+   },
+   "text": "「須菩提！汝若作是念："
+  },
+  "386": {
+   "targets": [
+    "386"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     386
+    ]
+   },
+   "text": "『如來不以具足相故，得阿耨多羅三藐三菩提。』須菩提！莫作是念："
+  },
+  "387": {
+   "targets": [
+    "387"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     387
+    ]
+   },
+   "text": "『如來不以具足相故，得阿耨多羅三藐三菩提。』」"
+  },
+  "388": {
+   "targets": [
+    "388"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     388
+    ]
+   },
+   "text": "「須菩提！汝若作是念：『發阿耨多羅三藐三菩提者，說諸法斷滅相。』莫作是念。何以故？"
+  },
+  "389": {
+   "targets": [
+    "389"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     389
+    ]
+   },
+   "text": "發阿耨多羅三藐三菩提心者，於法不說斷滅相。」"
+  },
+  "390": {
+   "targets": [
+    "390"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     390
+    ]
+   },
+   "text": "「須菩提！若菩薩以滿恒河沙等世界七寶布施；若復有人知一切法無我，得成於忍，此菩薩勝前菩薩所得功德。"
+  },
+  "391": {
+   "targets": [
+    "391"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     391
+    ]
+   },
+   "text": "須菩提！以諸菩薩不受福德故。」"
+  },
+  "392": {
+   "targets": [
+    "392"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     392
+    ]
+   },
+   "text": "須菩提白佛言：「世尊！云何菩薩不受福德？」"
+  },
+  "393": {
+   "targets": [
+    "393"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     393
+    ]
+   },
+   "text": "「須菩提！菩薩所作福德，不應貪著，"
+  },
+  "394": {
+   "targets": [
+    "394"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     394
+    ]
+   },
+   "text": "是故說不受福德。」"
+  },
+  "395": {
+   "targets": [
+    "395"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     395
+    ]
+   },
+   "text": "「須菩提！若有人言『如來若來若去、若坐若臥』，是人不解我所說義。"
+  },
+  "396": {
+   "targets": [
+    "396"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     396
+    ]
+   },
+   "text": "何以故？如來者，無所從來，亦無所去，"
+  },
+  "397": {
+   "targets": [
+    "397"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     397
+    ]
+   },
+   "text": "故名如來。」"
+  },
+  "398": {
+   "targets": [
+    "398"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     398
+    ]
+   },
+   "text": "「須菩提！若善男子、善女人以三千大千世界碎為微塵，於意云何？是微塵眾寧為多不？」"
+  },
+  "399": {
+   "targets": [
+    "399"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     399
+    ]
+   },
+   "text": "「甚多，世尊！"
+  },
+  "401": {
+   "targets": [
+    "401"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     401
+    ]
+   },
+   "text": "何以故？若是微塵眾實有者，佛則不說是微塵眾。"
+  },
+  "402": {
+   "targets": [
+    "402"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     402
+    ]
+   },
+   "text": "所以者何？佛說微塵眾，則非微塵眾，"
+  },
+  "403": {
+   "targets": [
+    "403"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     403
+    ]
+   },
+   "text": "是名微塵眾。"
+  },
+  "404": {
+   "targets": [
+    "404"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     404
+    ]
+   },
+   "text": "世尊！如來所說三千大千世界，則非世界，"
+  },
+  "405": {
+   "targets": [
+    "405"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     405
+    ]
+   },
+   "text": "是名世界。"
+  },
+  "406": {
+   "targets": [
+    "406"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     406
+    ]
+   },
+   "text": "何以故？若世界實有者，則是一合相。"
+  },
+  "407": {
+   "targets": [
+    "407"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     407
+    ]
+   },
+   "text": "如來說一合相，則非一合相，"
+  },
+  "408": {
+   "targets": [
+    "408"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     408
+    ]
+   },
+   "text": "是名一合相。」"
+  },
+  "409": {
+   "targets": [
+    "409"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     409
+    ]
+   },
+   "text": "「須菩提！一合相者，"
+  },
+  "410": {
+   "targets": [
+    "410"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     410
+    ]
+   },
+   "text": "則是不可說，但凡夫之人貪著其事。」"
+  },
+  "411": {
+   "targets": [
+    "411"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     411
+    ]
+   },
+   "text": "「須菩提！若人言『佛說我見、"
+  },
+  "412": {
+   "targets": [
+    "412"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     412
+    ]
+   },
+   "text": "人見、眾生見、壽者見』，須菩提！於意云何？是人解我所說義不？」"
+  },
+  "413": {
+   "targets": [
+    "413"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     413
+    ]
+   },
+   "text": "「世尊！"
+  },
+  "414": {
+   "targets": [
+    "414"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     414
+    ]
+   },
+   "text": "是人不解如來所說義。"
+  },
+  "415": {
+   "targets": [
+    "415"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     415
+    ]
+   },
+   "text": "何以故？世尊說我見、人見、眾生見、壽者見，即非我見、人見、眾生見、壽者見，"
+  },
+  "416": {
+   "targets": [
+    "416"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     416
+    ]
+   },
+   "text": "是名我見、人見、眾生見、壽者見。」"
+  },
+  "417": {
+   "targets": [
+    "417"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     417
+    ]
+   },
+   "text": "「須菩提！發阿耨多羅三藐三菩提心者，於一切法，應如是知，如是見，如是信解，"
+  },
+  "418": {
+   "targets": [
+    "418"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     418
+    ]
+   },
+   "text": "不生法相。"
+  },
+  "419": {
+   "targets": [
+    "419"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     419
+    ]
+   },
+   "text": "須菩提！所言法相者，如來說即非法相，"
+  },
+  "420": {
+   "targets": [
+    "420"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     420
+    ]
+   },
+   "text": "是名法相。」"
+  },
+  "421": {
+   "targets": [
+    "421"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     421
+    ]
+   },
+   "text": "「須菩提！若有人以滿無量阿僧祇世界七寶持用布施，若有善男子、善女人發菩薩心者，持於此經乃至四句偈等，受持、讀誦、為人演說，其福勝彼。"
+  },
+  "422": {
+   "targets": [
+    "422"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     422
+    ]
+   },
+   "text": "云何為人演說？不取於相，如如不動。何以故？」"
+  },
+  "424": {
+   "targets": [
+    "424"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     424
+    ]
+   },
+   "text": "「一切有為法，如夢、幻、泡、影，如露亦如電，應作如是觀。」"
+  },
+  "425": {
+   "targets": [
+    "425"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     425
+    ]
+   },
+   "text": "佛說是經已，長老須菩提及諸比丘、比丘尼、優婆塞、優婆夷，一切世間天、人、阿修羅，"
+  },
+  "426": {
+   "targets": [
+    "426"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     426
+    ]
+   },
+   "text": "聞佛所說，皆大歡喜，信受奉行。"
+  },
+  "428": {
+   "targets": [
+    "428"
+   ],
+   "source": {
+    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx",
+    "rows": [
+     428
+    ]
+   },
+   "text": "真言 那謨婆伽跋帝　鉢喇壤　波羅弭多曳　唵伊利底　伊室利　輸盧馱　毘舍耶　毘舍耶　莎婆訶"
+  }
+ },
+ "legend": null,
+ "notes": "The human Chinese–Tibetan alignment exactly as made: Kumārajīva's text re-split into the Tibetan sentence rows, with 10 passages moved into Tibetan order. Block ^N renders Tibetan row ^N (identity alignment). The same text in Chinese order with its own numbering is lzh-kumarajiva.md.",
+ "raw_alignment": [
+  {
+   "row": 1,
+   "root_row_text": "༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+   "targets": [
+    "1"
+   ]
+  },
+  {
+   "row": 5,
+   "root_row_text": "འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། ",
+   "targets": [
+    "5"
+   ]
+  },
+  {
+   "row": 6,
+   "root_row_text": "བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང༌། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དག་དང་ཐབས་གཅིག་ཏུ་བཞུགས་སོ། །",
+   "targets": [
+    "6"
+   ]
+  },
+  {
+   "row": 7,
+   "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ། ཤམ་ཐབས་དང་ཆོས་གོས་སྐུ་ལ་གསོལ་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་སོ། །",
+   "targets": [
+    "7"
+   ]
+  },
+  {
+   "row": 8,
+   "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་ནས་ཞལ་ཟས་གསོལ་ཏེ་ཟས་ཀྱི་བྱ་བ་མཛད་དེ། ",
+   "targets": [
+    "8"
+   ]
+  },
+  {
+   "row": 9,
+   "root_row_text": "ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས་ལྷུང་བཟེད་དང་ཆོས་གོས་བཞག་ནས། ཞབས་བསིལ་ཏེ་གདན་བཤམས་པ་ལ་སྐྱིལ་མོ་ཀྲུང་བཅས་ནས་སྐུ་དྲང་པོར་བསྲང་སྟེ། དྲན་པ་མངོན་དུ་བཞག་ནས་བཞུགས་སོ། །",
+   "targets": [
+    "9"
+   ]
+  },
+  {
+   "row": 13,
+   "root_row_text": "དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། ",
+   "targets": [
+    "13"
+   ]
+  },
+  {
+   "row": 14,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+   "targets": [
+    "14"
+   ]
+  },
+  {
+   "row": 15,
+   "root_row_text": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཕན་གདགས་པའི་དམ་པ་ཇི་སྙེད་པས་ཕན་གདགས་པ་དང༌། དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཡོངས་སུ་གཏད་པའི་དམ་པ་ཇི་སྙེད་པས་ཡོངས་སུ་གཏད་པ་ནི། བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ། ། བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །",
+   "targets": [
+    "15"
+   ]
+  },
+  {
+   "row": 16,
+   "root_row_text": "བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་ཇི་ལྟར་གནས་པར་བགྱི། ",
+   "targets": [
+    "16"
+   ]
+  },
+  {
+   "row": 18,
+   "root_row_text": "ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བགྱི། ",
+   "targets": [
+    "18"
+   ]
+  },
+  {
+   "row": 19,
+   "root_row_text": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། ",
+   "targets": [
+    "19"
+   ]
+  },
+  {
+   "row": 20,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+   "targets": [
+    "20"
+   ]
+  },
+  {
+   "row": 21,
+   "root_row_text": "རབ་འབྱོར་ལེགས་སོ་ལེགས་སོ། །",
+   "targets": [
+    "21"
+   ]
+  },
+  {
+   "row": 22,
+   "root_row_text": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+   "targets": [
+    "22"
+   ]
+  },
+  {
+   "row": 23,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཕན་གདགས་པའི་དམ་པས་ཕན་གདགས་སོ། །",
+   "targets": [
+    "23"
+   ]
+  },
+  {
+   "row": 24,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཡོངས་སུ་གཏད་པའི་དམ་པས་ཡོངས་སུ་གཏད་དོ། །",
+   "targets": [
+    "24"
+   ]
+  },
+  {
+   "row": 25,
+   "root_row_text": "རབ་འབྱོར་དེའི་ཕྱིར་ཉོན་ལ་ལེགས་པར་རབ་ཏུ་ཡིད་ལ་ཟུངས་ཤིག་དང༌།",
+   "targets": [
+    "25"
+   ]
+  },
+  {
+   "row": 26,
+   "root_row_text": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་བཞུགས་པས་ཇི་ལྟར་གནས་པར་བྱ་བ་དང༌། ཇི་ལྟར་བསྒྲུབ་པར་བྱ་བ་དང༌།  ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ་ངས་ཁྱོད་ལ་བཤད་དོ། །",
+   "targets": [
+    "26"
+   ]
+  },
+  {
+   "row": 28,
+   "root_row_text": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་མཉན་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+   "targets": [
+    "28"
+   ]
+  },
+  {
+   "row": 29,
+   "root_row_text": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཇི་ཙམ་སེམས་ཅན་དུ་བསྡུ་བས་བསྡུས་པ། སྒོ་ང་ལས་སྐྱེས་པའམ། མངལ་ལས་སྐྱེས་པའམ། དྲོད་གཤེར་ལས་སྐྱེས་པའམ། རྫུས་ཏེ་སྐྱེས་པའམ། གཟུགས་ཅན་ནམ། གཟུགས་ཅན་མ་ཡིན་པའམ། འདུ་ཤེས་ཅན་ནམ། འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་ནམ། སེམས་ཅན་གྱི་ཁམས་ཇི་ཙམ་སེམས་ཅན་དུ་གདགས་པའི་བརྟགས་པ་དེ་དག་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+   "targets": [
+    "29"
+   ]
+  },
+  {
+   "row": 30,
+   "root_row_text": "དེ་ལྟར་སེམས་ཅན་ཚད་མེད་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ཀྱང༌། སེམས་ཅན་གང་ཡང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་འགྱུར་བ་མེད་དོ་སྙམ་དུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+   "targets": [
+    "30"
+   ]
+  },
+  {
+   "row": 32,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་གམ། སྲོག་ཏུ་འདུ་ཤེས་འཇུག་གམ། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+   "targets": [
+    "32"
+   ]
+  },
+  {
+   "row": 33,
+   "root_row_text": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་དངོས་པོ་ལ་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+   "targets": [
+    "33"
+   ]
+  },
+  {
+   "row": 35,
+   "root_row_text": "གཟུགས་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+   "targets": [
+    "35"
+   ]
+  },
+  {
+   "row": 36,
+   "root_row_text": "དེ་བཞིན་དུ་སྒྲ་དང༌། དྲི་དང་། རོ་དང༌། རེག་བྱ་དང༌། ཆོས་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+   "targets": [
+    "36"
+   ]
+  },
+  {
+   "row": 37,
+   "root_row_text": "རབ་འབྱོར་ཅི་ནས་ཀྱང་མཚན་མར་འདུ་ཤེས་པ་ལ་ཡང་མི་གནས་པར་དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔས་སྦྱིན་པ་སྦྱིན་ནོ། །",
+   "targets": [
+    "37"
+   ]
+  },
+  {
+   "row": 38,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པ་དེའི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+   "targets": [
+    "38"
+   ]
+  },
+  {
+   "row": 39,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ཤར་ཕྱོགས་ཀྱི་ནམ་མཁའི་ཚད་གཟུང་བར་སླ་སྙམ་མམ། ",
+   "targets": [
+    "39"
+   ]
+  },
+  {
+   "row": 40,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "40"
+   ]
+  },
+  {
+   "row": 41,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་བཞིན་དུ་ལྷོ་དང༌། ནུབ་དང༌། བྱང་དང༌། སྟེང་དང༌། འོག་གི་ཕྱོགས་དང༌། ཕྱོགས་མཚམས་དང༌། ཕྱོགས་བཅུའི་ནམ་མཁའི་ཚད་གཟུང་བར་སླའམ། ",
+   "targets": [
+    "41"
+   ]
+  },
+  {
+   "row": 42,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "42"
+   ]
+  },
+  {
+   "row": 43,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་བཞིན་དུ་བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པ་དེའི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+   "targets": [
+    "43"
+   ]
+  },
+  {
+   "row": 44,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ། ",
+   "targets": [
+    "44"
+   ]
+  },
+  {
+   "row": 45,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "45"
+   ]
+  },
+  {
+   "row": 46,
+   "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+   "targets": [
+    "46"
+   ]
+  },
+  {
+   "row": 47,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། དེ་བཞིན་གཤེགས་པས་མཚན་ཕུན་སུམ་ཚོགས་པ་ཞེས་གང་གསུངས་པ་དེ་ཉིད། མཚན་ཕུན་སུམ་ཚོགས་པ་མ་མཆིས་པའི་སླད་དུའོ། ། ",
+   "targets": [
+    "47"
+   ]
+  },
+  {
+   "row": 48,
+   "root_row_text": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། ། ",
+   "targets": [
+    "48"
+   ]
+  },
+  {
+   "row": 49,
+   "root_row_text": "རབ་འབྱོར་ཇི་ཙམ་དུ་མཚན་ཕུན་སུམ་ཚོགས་པ་དེ་ཙམ་དུ་བརྫུན་ནོ། །",
+   "targets": [
+    "49"
+   ]
+  },
+  {
+   "row": 50,
+   "root_row_text": "ཇི་ཙམ་དུ་མཚན་ཕུན་སུམ་ཚོགས་པ་མེད་པ་དེ་ཙམ་དུ་མི་བརྫུན་ཏེ། ",
+   "targets": [
+    "50"
+   ]
+  },
+  {
+   "row": 51,
+   "root_row_text": "དེ་ལྟར་ན་དེ་བཞིན་གཤེགས་པ་ལ་མཚན་དང་མཚན་མ་མེད་པར་བལྟའོ། །",
+   "targets": [
+    "51"
+   ]
+  },
+  {
+   "row": 52,
+   "root_row_text": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌། བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+   "targets": [
+    "52"
+   ]
+  },
+  {
+   "row": 53,
+   "root_row_text": "བཅོམ་ལྡན་འདས་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ། དམ་པའི་ཆོས་རབ་ཏུ་རྣམ་པར་འཇིག་པར་འགྱུར་བ་ན་སེམས་ཅན་གང་ལ་ལ་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་བཤད་པ་དག་ལ་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ།",
+   "targets": [
+    "53"
+   ]
+  },
+  {
+   "row": 54,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་གང་ཁྱོད་འདི་སྐད་དུ་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ། དམ་པའི་ཆོས་རབ་ཏུ་རྣམ་པར་འཇིག་པར་འགྱུར་བ་ན། སེམས་ཅན་གང་ལ་ལ་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་བཤད་པ་དག་ལ་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ་ཞེས་ཁྱོད་དེ་སྐད་མ་ཟེར་ཅིག །",
+   "targets": [
+    "54"
+   ]
+  },
+  {
+   "row": 55,
+   "root_row_text": "རབ་འབྱོར་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ་དམ་པའི་ཆོས་རབ་ཏུ་རྣམ་པར་འཇིག་པར་འགྱུར་བ་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཚུལ་ཁྲིམས་དང་ལྡན་པ། ཡོན་ཏན་དང་ལྡན་པ། ཤེས་རབ་དང་ལྡན་པ་དག་འབྱུང་སྟེ།",
+   "targets": [
+    "55"
+   ]
+  },
+  {
+   "row": 56,
+   "root_row_text": "རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ཀྱང་སངས་རྒྱས་གཅིག་ལ་བསྙེན་བཀུར་བྱས་པ་མ་ཡིན། ",
+   "targets": [
+    "56"
+   ]
+  },
+  {
+   "row": 58,
+   "root_row_text": "རབ་འབྱོར་སངས་རྒྱས་འབུམ་ཕྲག་དུ་མ་ལ་བསྙེན་བཀུར་བྱས་ཤིང་སངས་རྒྱས་འབུམ་ཕྲག་དུ་མ་ལ་དགེ་བའི་རྩ་བ་དག་བསྐྱེད་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་འབྱུང་ངོ་། །",
+   "targets": [
+    "58"
+   ]
+  },
+  {
+   "row": 59,
+   "root_row_text": "རབ་འབྱོར་གང་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་བཤད་པ་དག་ལ་སེམས་དད་པ་གཅིག་ཙམ་རྙེད་པར་འགྱུར་བ་དེ་དག་ནི། དེ་བཞིན་གཤེགས་པས་མཁྱེན་ཏོ། །",
+   "targets": [
+    "59"
+   ]
+  },
+  {
+   "row": 60,
+   "root_row_text": "རབ་འབྱོར་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ། ",
+   "targets": [
+    "60"
+   ]
+  },
+  {
+   "row": 61,
+   "root_row_text": "རབ་འབྱོར་སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་བསྐྱེད་ཅིང་ཡོངས་སུ་སྡུད་པར་འགྱུར་རོ། །",
+   "targets": [
+    "61"
+   ]
+  },
+  {
+   "row": 62,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ནི། བདག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ཞིང༌། ",
+   "targets": [
+    "62"
+   ]
+  },
+  {
+   "row": 63,
+   "root_row_text": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་མ་ཡིན། སྲོག་ཏུ་འདུ་ཤེས་པ་མ་ཡིན། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་བའི་ཕྱིར་རོ། །",
+   "targets": [
+    "63"
+   ]
+  },
+  {
+   "row": 64,
+   "root_row_text": "རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ཀྱང་ཆོས་སུ་འདུ་ཤེས་པ་དང༌། ཆོས་མེད་པར་ཡང་འདུ་ཤེས་མི་འཇུག་སྟེ། ",
+   "targets": [
+    "64"
+   ]
+  },
+  {
+   "row": 66,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ནི། ཆོས་སུ་འདུ་ཤེས་འཇུག་ན་ཡང་དེ་ཉིད་དེ་དག་གིས་བདག་ཏུ་འཛིན་པར་འགྱུར་ཞིང༌།",
+   "targets": [
+    "66"
+   ]
+  },
+  {
+   "row": 67,
+   "root_row_text": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་བའི་ཕྱིར་རོ། །",
+   "targets": [
+    "67"
+   ]
+  },
+  {
+   "row": 68,
+   "root_row_text": "གལ་ཏེ་ཆོས་བདག་མེད་པར་འདུ་ཤེས་འཇུག་ན་ཡང་དེ་ཉིད་དེ་དག་གིས་བདག་ཏུ་འཛིན་པར་འགྱུར་ཞིང༌།",
+   "targets": [
+    "68"
+   ]
+  },
+  {
+   "row": 69,
+   "root_row_text": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་བའི་ཕྱིར་རོ། །",
+   "targets": [
+    "69"
+   ]
+  },
+  {
+   "row": 70,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔས་ཆོས་ཀྱང་ལོག་པར་གཟུང་བར་མི་བྱ་སྟེ། ཆོས་མ་ཡིན་པ་ཡང་མི་གཟུང་བའི་ཕྱིར་རོ། །",
+   "targets": [
+    "70"
+   ]
+  },
+  {
+   "row": 71,
+   "root_row_text": "དེ་བས་ན་དེ་ལས་དགོངས་ཏེ་དེ་བཞིན་གཤེགས་པས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གཟིངས་ལྟ་བུར་ཤེས་པ་རྣམས་ཀྱིས་ཆོས་རྣམས་ཀྱང་སྤང་བར་བྱ་ན། ཆོས་མ་ཡིན་པ་རྣམས་ལྟ་ཅི་སྨོས། ཞེས་གསུངས་སོ། །",
+   "targets": [
+    "71"
+   ]
+  },
+  {
+   "row": 73,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "73"
+   ]
+  },
+  {
+   "row": 74,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པའི་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ། ",
+   "targets": [
+    "74"
+   ]
+  },
+  {
+   "row": 75,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་ཆོས་དེ་གང་ཡང་བསྟན་སྙམ་མམ། ",
+   "targets": [
+    "75"
+   ]
+  },
+  {
+   "row": 76,
+   "root_row_text": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌། བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+   "targets": [
+    "76"
+   ]
+  },
+  {
+   "row": 77,
+   "root_row_text": "བཅོམ་ལྡན་འདས་བདག་གིས་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པའི་དོན་འཚལ་བ་ལྟར་ན། དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
+   "targets": [
+    "77"
+   ]
+  },
+  {
+   "row": 78,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་བསྟན་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
+   "targets": [
+    "78"
+   ]
+  },
+  {
+   "row": 79,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། དེ་བཞིན་གཤེགས་པས་ཆོས་དེ་གང་ཡང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ནི་གཟུང་དུ་མ་མཆིས་བརྗོད་དུ་མ་མཆིས་ཏེ། ",
+   "targets": [
+    "79"
+   ]
+  },
+  {
+   "row": 80,
+   "root_row_text": "དེ་ནི་ཆོས་ཀྱང་མ་ལགས་ཆོས་མ་མཆིས་པ་ཡང་མ་ལགས་པའི་སླད་དུའོ། །",
+   "targets": [
+    "80"
+   ]
+  },
+  {
+   "row": 81,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། འཕགས་པའི་གང་ཟག་རྣམས་ནི་འདུས་མ་བྱས་ཀྱིས་རབ་ཏུ་བྱེ་བའི་སླད་དུའོ། །",
+   "targets": [
+    "81"
+   ]
+  },
+  {
+   "row": 82,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "82"
+   ]
+  },
+  {
+   "row": 83,
+   "root_row_text": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་ན། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་མང་དུ་བསྐྱེད་སྙམ་མམ།",
+   "targets": [
+    "83"
+   ]
+  },
+  {
+   "row": 84,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མང་ལགས་སོ། །",
+   "targets": [
+    "84"
+   ]
+  },
+  {
+   "row": 85,
+   "root_row_text": "བདེ་བར་གཤེགས་པ་མང་ལགས་སོ། །",
+   "targets": [
+    "85"
+   ]
+  },
+  {
+   "row": 87,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བསོད་ནམས་ཀྱི་ཕུང་པོ་དེ་ཉིད་ཕུང་པོ་མ་མཆིས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "87"
+   ]
+  },
+  {
+   "row": 88,
+   "root_row_text": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་བསོད་ནམས་ཀྱི་ཕུང་པོ་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཞེས་གསུངས་སོ། །",
+   "targets": [
+    "88"
+   ]
+  },
+  {
+   "row": 89,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་ནས་གཞན་དག་ལ་འཆད་ཅིང་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན། གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+   "targets": [
+    "89"
+   ]
+  },
+  {
+   "row": 90,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱི་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ནི་འདི་ལས་བྱུང་སྟེ། ",
+   "targets": [
+    "90"
+   ]
+  },
+  {
+   "row": 92,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་ཞེས་བྱ་བ་ནི། སངས་རྒྱས་ཀྱི་ཆོས་དེ་དག་མེད་པར་དེ་བཞིན་གཤེགས་པའི་གསུངས་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "92"
+   ]
+  },
+  {
+   "row": 94,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "94"
+   ]
+  },
+  {
+   "row": 95,
+   "root_row_text": "རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ། ",
+   "targets": [
+    "95"
+   ]
+  },
+  {
+   "row": 96,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "96"
+   ]
+  },
+  {
+   "row": 97,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་ནི་ཅི་ལ་ཡང་ཞུགས་པ་མ་མཆིས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "97"
+   ]
+  },
+  {
+   "row": 99,
+   "root_row_text": "གཟུགས་ལ་ཡང་མ་ཞུགས། སྒྲ་ལ་ཡང་མ་ལགས། དྲི་ལ་ཡང་མ་ལགས། རོ་ལ་ཡང་མ་ལགས། རེག་བྱ་ལ་ཡང་མ་ལགས། ཆོས་རྣམས་ལ་ཡང་མ་ཞུགས་ཏེ།",
+   "targets": [
+    "99"
+   ]
+  },
+  {
+   "row": 100,
+   "root_row_text": "དེས་ན་རྒྱུན་དུ་ཞུགས་པ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "100"
+   ]
+  },
+  {
+   "row": 103,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "103"
+   ]
+  },
+  {
+   "row": 104,
+   "root_row_text": "ལན་ཅིག་ཕྱིར་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ།",
+   "targets": [
+    "104"
+   ]
+  },
+  {
+   "row": 105,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "105"
+   ]
+  },
+  {
+   "row": 106,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། གང་ལན་ཅིག་ཕྱིར་འོང་བ་ཉིད་དུ་ཞུགས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "106"
+   ]
+  },
+  {
+   "row": 107,
+   "root_row_text": "དེས་ན་ལན་ཅིག་ཕྱིར་འོང་བ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "107"
+   ]
+  },
+  {
+   "row": 110,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས་",
+   "targets": [
+    "110"
+   ]
+  },
+  {
+   "row": 111,
+   "root_row_text": "ཕྱིར་མི་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ། ",
+   "targets": [
+    "111"
+   ]
+  },
+  {
+   "row": 112,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "112"
+   ]
+  },
+  {
+   "row": 113,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། གང་ཕྱིར་མི་འོང་བ་ཉིད་དུ་ཞུགས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "113"
+   ]
+  },
+  {
+   "row": 114,
+   "root_row_text": "དེའི་ཕྱིར་ཕྱིར་མི་འོང་བ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "114"
+   ]
+  },
+  {
+   "row": 115,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "115"
+   ]
+  },
+  {
+   "row": 116,
+   "root_row_text": "དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ། ",
+   "targets": [
+    "116"
+   ]
+  },
+  {
+   "row": 117,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "117"
+   ]
+  },
+  {
+   "row": 118,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། གང་དག་དགྲ་བཅོམ་པ་ཞེས་བགྱི་བའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུའོ། །",
+   "targets": [
+    "118"
+   ]
+  },
+  {
+   "row": 119,
+   "root_row_text": "བཅོམ་ལྡན་འདས་གལ་ཏེ་དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+   "targets": [
+    "119"
+   ]
+  },
+  {
+   "row": 120,
+   "root_row_text": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+   "targets": [
+    "120"
+   ]
+  },
+  {
+   "row": 121,
+   "root_row_text": "བཅོམ་ལྡན་འདས་བདག་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་ཉོན་མོངས་པ་མེད་པར་གནས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་ཏེ།",
+   "targets": [
+    "121"
+   ]
+  },
+  {
+   "row": 122,
+   "root_row_text": "བཅོམ་ལྡན་འདས་བདག་འདོད་ཆགས་དང་བྲལ་བ་དགྲ་བཅོམ་པ་ལགས་ཀྱང༌། བཅོམ་ལྡན་འདས་བདག་འདི་སྙམ་དུ་བདག་ནི་དགྲ་བཅོམ་པའོ་སྙམ་དུ་མི་སེམས་ལགས་སོ། །",
+   "targets": [
+    "122"
+   ]
+  },
+  {
+   "row": 123,
+   "root_row_text": "བཅོམ་ལྡན་འདས་གལ་ཏེ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་བཞིན་གཤེགས་པས་བདག་ལ་རིགས་ཀྱི་བུ་རབ་འབྱོར་ནི་ཉོན་མོངས་པ་མེད་པར་གནས་པ་རྣམས་ཀྱི་མཆོག་ཡིན་ཏེ། ",
+   "targets": [
+    "123"
+   ]
+  },
+  {
+   "row": 124,
+   "root_row_text": "ཅི་ལ་ཡང་མི་གནས་པས་ན་ཉོན་མོངས་པ་མེད་པར་གནས་པ་ཞེས་ལུང་མི་སྟོན་ལགས་སོ། །",
+   "targets": [
+    "124"
+   ]
+  },
+  {
+   "row": 125,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "125"
+   ]
+  },
+  {
+   "row": 126,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ལས་གང་བླངས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+   "targets": [
+    "126"
+   ]
+  },
+  {
+   "row": 128,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ལས་གང་བླངས་པའི་ཆོས་དེ་གང་ཡང་ཡོང་ཡེ་མ་མཆིས་ལགས་སོ། །",
+   "targets": [
+    "128"
+   ]
+  },
+  {
+   "row": 129,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ་བདག་གིས་ཞིང་བཀོད་པ་རྣམས་སྒྲུབ་བོ་ཞེས་ཟེར་ན་དེ་ནི་མི་བདེན་པར་སྨྲའོ། །",
+   "targets": [
+    "129"
+   ]
+  },
+  {
+   "row": 130,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཞིང་བཀོད་པ་རྣམས་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱ་བ་ནི། བཀོད་པ་དེ་དག་མེད་པར་དེ་བཞིན་གཤེགས་པར་གསུངས་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "130"
+   ]
+  },
+  {
+   "row": 131,
+   "root_row_text": "དེས་ན་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱའོ། །",
+   "targets": [
+    "131"
+   ]
+  },
+  {
+   "row": 132,
+   "root_row_text": "རབ་འབྱོར་དེ་ལྟ་བས་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་འདི་ལྟར་མི་གནས་པར་སེམས་པ་བསྐྱེད་པར་བྱ་སྟེ། ",
+   "targets": [
+    "132"
+   ]
+  },
+  {
+   "row": 134,
+   "root_row_text": "གཟུགས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+   "targets": [
+    "134"
+   ]
+  },
+  {
+   "row": 135,
+   "root_row_text": "སྒྲ་དང་དྲི་དང་རོ་དང་རེག་བྱ་དང་ཆོས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+   "targets": [
+    "135"
+   ]
+  },
+  {
+   "row": 136,
+   "root_row_text": "རབ་འབྱོར་འདི་ལྟ་སྟེ་དཔེར་ན། སྐྱེས་བུ་ཞིག་ལུས་འདི་ལྟ་བུར་གྱུར་ཏེ། འདི་ལྟ་སྟེ་རིའི་རྒྱལ་པོ་རི་རབ་ཙམ་དུ་གྱུར་ན། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ལུས་དེ་ཆེ་བ་ཡིན་སྙམ་མམ། ",
+   "targets": [
+    "136"
+   ]
+  },
+  {
+   "row": 137,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་ལུས་དེ་ཆེ་བ་ལགས་སོ། །",
+   "targets": [
+    "137"
+   ]
+  },
+  {
+   "row": 139,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། དེ་བཞིན་གཤེགས་པས་དེ་དངོས་པོ་མ་མཆིས་པར་གསུངས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "139"
+   ]
+  },
+  {
+   "row": 140,
+   "root_row_text": "དེས་ན་ལུས་དེ་ཆེ་བ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "140"
+   ]
+  },
+  {
+   "row": 142,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "142"
+   ]
+  },
+  {
+   "row": 143,
+   "root_row_text": "གང་གཱའི་ཀླུང་གི་བྱེ་མ་ཇི་སྙེད་པ་གང་གཱའི་ཀླུང་ཡང་དེ་སྙེད་ཁོ་ནར་གྱུར་ན་དེ་དག་གི་བྱེ་མ་གང་ཡིན་པ་དེ་དག་མང་བ་ཡིན་སྙམ་མམ། ",
+   "targets": [
+    "143"
+   ]
+  },
+  {
+   "row": 144,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་དེ་དག་ཉིད་ཀྱང་མང་ལགས་ན། དེ་དག་གིས་བྱེ་མ་ལྟ་སྨོས་ཀྱང་ཅི་འཚལ། ",
+   "targets": [
+    "144"
+   ]
+  },
+  {
+   "row": 145,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་ཁྱོད་མོས་པར་བྱའོ། །",
+   "targets": [
+    "145"
+   ]
+  },
+  {
+   "row": 147,
+   "root_row_text": "གང་གཱའི་ཀླུང་དེ་དག་གི་བྱེ་མ་ཇི་སྙེད་པ་དེ་སྙེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་ན་སྐྱེས་པའམ། བུད་མེད་ལ་ལ་ཞིག་གིས་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ། ",
+   "targets": [
+    "147"
+   ]
+  },
+  {
+   "row": 148,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ལ་སྦྱིན་པ་བྱིན་ན། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། སྐྱེས་པའམ་བུད་མེད་དེ་གཞི་དེ་ལས་བསོད་ནམས་མང་དུ་བསྐྱེད་སྙམ་མམ། ",
+   "targets": [
+    "148"
+   ]
+  },
+  {
+   "row": 149,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མང་ལགས་སོ། །",
+   "targets": [
+    "149"
+   ]
+  },
+  {
+   "row": 153,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ལ་སྦྱིན་པ་བྱིན་པ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་ནས། གཞན་དག་ལ་ཡང་དག་པར་རབ་ཏུ་བཤད་དེ་ཡང་དག་པར་རབ་ཏུ་བསྟན་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+   "targets": [
+    "153"
+   ]
+  },
+  {
+   "row": 154,
+   "root_row_text": "ཡང་རབ་འབྱོར་ས་ཕྱོགས་གང་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་འདོན་ཏམ་སྟོན་པའི་ས་ཕྱོགས་དེ་ནི་ལྷ་དང་མི་དང་ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་གྱི་མཆོད་རྟེན་དུ་གྱུར་པ་ཡིན་ན་སུ་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འབྲི་བ་དང༌། འཛིན་པ་དང་། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། ཚུལ་བཞིན་དུ་ཡིད་ལ་བྱེད་པ་དེ་ངོ་མཚར་རབ་དང་ལྡན་པར་གྱུར་པ་ལྟ་ཅི་སྨོས་ཏེ་",
+   "targets": [
+    "154"
+   ]
+  },
+  {
+   "row": 155,
+   "root_row_text": "ས་ཕྱོགས་དེ་ན་སྟོན་པའམ། བླ་མ་ལྟ་བུ་གང་ཡང་རུང་བར་གནས་སོ། །",
+   "targets": [
+    "155"
+   ]
+  },
+  {
+   "row": 156,
+   "root_row_text": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌། བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+   "targets": [
+    "156"
+   ]
+  },
+  {
+   "row": 157,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཅི་ལགས། ",
+   "targets": [
+    "157"
+   ]
+  },
+  {
+   "row": 158,
+   "root_row_text": "འདི་ཇི་ལྟར་གཟུང་བར་བགྱི། ",
+   "targets": [
+    "158"
+   ]
+  },
+  {
+   "row": 159,
+   "root_row_text": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+   "targets": [
+    "159"
+   ]
+  },
+  {
+   "row": 160,
+   "root_row_text": "རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཞེས་བྱ་སྟེ་",
+   "targets": [
+    "160"
+   ]
+  },
+  {
+   "row": 161,
+   "root_row_text": "འདི་དེ་ལྟར་ཟུངས་ཤིག །",
+   "targets": [
+    "161"
+   ]
+  },
+  {
+   "row": 162,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་གང་གསུངས་པ་དེ་ཉིད་ཕ་རོལ་ཏུ་ཕྱིན་པ་མེད་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "162"
+   ]
+  },
+  {
+   "row": 165,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ། ",
+   "targets": [
+    "165"
+   ]
+  },
+  {
+   "row": 166,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་གང་གསུངས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
+   "targets": [
+    "166"
+   ]
+  },
+  {
+   "row": 167,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "167"
+   ]
+  },
+  {
+   "row": 168,
+   "root_row_text": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་དེ་མང་བ་ཡིན་སྙམ་མམ།",
+   "targets": [
+    "168"
+   ]
+  },
+  {
+   "row": 169,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་སའི་རྡུལ་དེ་མང་ལགས་སོ། །",
+   "targets": [
+    "169"
+   ]
+  },
+  {
+   "row": 171,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་སའི་རྡུལ་གང་ལགས་པ་དེ་རྡུལ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "171"
+   ]
+  },
+  {
+   "row": 172,
+   "root_row_text": "དེས་ན་སའི་རྡུལ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "172"
+   ]
+  },
+  {
+   "row": 173,
+   "root_row_text": "འཇིག་རྟེན་གྱི་ཁམས་གང་ལགས་པ་དེ་དག་ཁམས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "173"
+   ]
+  },
+  {
+   "row": 174,
+   "root_row_text": "དེས་ན་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "174"
+   ]
+  },
+  {
+   "row": 175,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+   "targets": [
+    "175"
+   ]
+  },
+  {
+   "row": 176,
+   "root_row_text": "སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་པོ་དེ་དག་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སུ་བལྟ་བར་བྱ་སྙམ་མམ།",
+   "targets": [
+    "176"
+   ]
+  },
+  {
+   "row": 177,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "177"
+   ]
+  },
+  {
+   "row": 178,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་གང་དག་དེ་བཞིན་གཤེགས་པས་གསུངས་པ་དེ་དག་མཚན་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+   "targets": [
+    "178"
+   ]
+  },
+  {
+   "row": 179,
+   "root_row_text": "དེས་ན་སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་རྣམས་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "179"
+   ]
+  },
+  {
+   "row": 180,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་སྐྱེས་པའམ། བུད་མེད་གང་ལ་ལ་ཞིག་གིས་ལུས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་བ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་སྟེ་གཞན་དག་ལ་ཡང་དག་པར་བསྟན་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+   "targets": [
+    "180"
+   ]
+  },
+  {
+   "row": 181,
+   "root_row_text": "དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ཆོས་ཀྱི་ཤུགས་ཀྱིས་མཆི་མ་ཕྱུང་སྟེ། ",
+   "targets": [
+    "181"
+   ]
+  },
+  {
+   "row": 182,
+   "root_row_text": "དེས་མཆི་མ་ཕྱིས་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+   "targets": [
+    "182"
+   ]
+  },
+  {
+   "row": 183,
+   "root_row_text": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་དེ་བཞིན་གཤེགས་པ་ཇི་སྙེད་པས་གསུངས་པ་ནི། བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ། །བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །",
+   "targets": [
+    "183"
+   ]
+  },
+  {
+   "row": 184,
+   "root_row_text": "བཅོམ་ལྡན་འདས་བདག་གིས་ཡེ་ཤེས་སྐྱེས་ཚུན་ཆད་བདག་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སྔོན་ནམ་ཡང་མ་ཐོས་ལགས་སོ། །",
+   "targets": [
+    "184"
+   ]
+  },
+  {
+   "row": 185,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་མདོ་སྡེ་བཤད་པ་འདི་ལ་གང་དག་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བའི་སེམས་ཅན་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་ལགས་སོ། །",
+   "targets": [
+    "185"
+   ]
+  },
+  {
+   "row": 186,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་ཡང་དག་པར་འདུ་ཤེས་པ་གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་མ་མཆིས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "186"
+   ]
+  },
+  {
+   "row": 187,
+   "root_row_text": "དེས་ན་ཡང་དག་པར་འདུ་ཤེས་ཞེས་དེ་བཞིན་གཤེགས་པས་གསུངས་སོ། །",
+   "targets": [
+    "187"
+   ]
+  },
+  {
+   "row": 188,
+   "root_row_text": "བཅོམ་ལྡན་འདས་བདག་ནི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པ་ལ་རྟོག་ཅིང་མོས་པ་ནི། བདག་ལ་ངོ་མཚར་མ་ལགས་ཀྱི།",
+   "targets": [
+    "188"
+   ]
+  },
+  {
+   "row": 189,
+   "root_row_text": "བཅོམ་ལྡན་འདས་སླད་མའི་ཚེ་སླད་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ་སེམས་ཅན་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འབྲི་བ་དང་། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་ལགས་སོ། །",
+   "targets": [
+    "189"
+   ]
+  },
+  {
+   "row": 190,
+   "root_row_text": "ཡང་བཅོམ་ལྡན་འདས་དེ་དག་ནི་བདག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ཞིང༌།",
+   "targets": [
+    "190"
+   ]
+  },
+  {
+   "row": 191,
+   "root_row_text": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ལགས་སོ། །",
+   "targets": [
+    "191"
+   ]
+  },
+  {
+   "row": 192,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་བདག་ཏུ་འདུ་ཤེས་པ་དང༌། སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་པ་གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ།།",
+   "targets": [
+    "192"
+   ]
+  },
+  {
+   "row": 193,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ།།",
+   "targets": [
+    "193"
+   ]
+  },
+  {
+   "row": 194,
+   "root_row_text": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+   "targets": [
+    "194"
+   ]
+  },
+  {
+   "row": 195,
+   "root_row_text": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ། ",
+   "targets": [
+    "195"
+   ]
+  },
+  {
+   "row": 196,
+   "root_row_text": "སེམས་ཅན་གང་དག་མདོ་སྡེ་འདི་བཤད་པ་ལ་མི་སྐྲག་ཅིང་མི་དངངས་ལ་ཀུན་ཏུ་དངངས་པར་མི་འགྱུར་བ་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་རོ། །",
+   "targets": [
+    "196"
+   ]
+  },
+  {
+   "row": 197,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་འདི་ནི་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
+   "targets": [
+    "197"
+   ]
+  },
+  {
+   "row": 198,
+   "root_row_text": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་གང་དག་དེ་བཞིན་གཤེགས་པས་གསུངས་པ་དེ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དཔག་ཏུ་མེད་པ་ཚད་མེད་པ་རྣམས་ཀྱིས་ཀྱང་གསུངས་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "198"
+   ]
+  },
+  {
+   "row": 199,
+   "root_row_text": "དེས་ན་ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་ཞེས་བྱའོ། །",
+   "targets": [
+    "199"
+   ]
+  },
+  {
+   "row": 200,
+   "root_row_text": "ཡང་རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་གང་ཡིན་པ་དེ་ཉིད་ཕ་རོལ་ཏུ་ཕྱིན་པ་མེད་དོ། །",
+   "targets": [
+    "200"
+   ]
+  },
+  {
+   "row": 201,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་གི་ཚེ་ཀ་ལིང་ཀའི་རྒྱལ་པོས། ངའི་ཡན་ལག་དང་ཉིང་ལག་རྣམས་བཅད་པར་གྱུར་པ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་སམ། སེམས་ཅན་དུ་འདུ་ཤེས་སམ། སྲོག་ཏུ་འདུ་ཤེས་སམ། གང་ཟག་ཏུ་འདུ་ཤེས་ཀྱང་མ་བྱུང་ཞིང༌།",
+   "targets": [
+    "201"
+   ]
+  },
+  {
+   "row": 203,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་བྱུང་ན། དེའི་ཚེ་གནོད་སེམས་ཀྱི་འདུ་ཤེས་ཀྱང་འབྱུང་ལ།",
+   "targets": [
+    "203"
+   ]
+  },
+  {
+   "row": 205,
+   "root_row_text": "རབ་འབྱོར་ངས་མངོན་པར་ཤེས་ཏེ། འདས་པའི་དུས་ན། ང་ཚེ་རབས་ལྔ་བརྒྱར་བཟོད་པ་སྨྲ་བ་ཞེས་བྱ་བའི་དྲང་སྲོང་དུ་གྱུར་པ་དེའི་ཚེ་ན་ཡང༌། ང་ལ་བདག་ཏུ་འདུ་ཤེས་མ་བྱུང༌།",
+   "targets": [
+    "205"
+   ]
+  },
+  {
+   "row": 206,
+   "root_row_text": "སེམས་ཅན་དུ་འདུ་ཤེས་དང༌། སྲོག་ཏུ་འདུ་ཤེས་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་མ་བྱུང་ངོ་། །",
+   "targets": [
+    "206"
+   ]
+  },
+  {
+   "row": 207,
+   "root_row_text": "རབ་འབྱོར་དེ་ལྟ་བས་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་འདུ་ཤེས་ཐམས་ཅད་རྣམ་པར་སྤངས་ཏེ། ",
+   "targets": [
+    "207"
+   ]
+  },
+  {
+   "row": 208,
+   "root_row_text": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+   "targets": [
+    "208"
+   ]
+  },
+  {
+   "row": 209,
+   "root_row_text": "གཟུགས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+   "targets": [
+    "209"
+   ]
+  },
+  {
+   "row": 210,
+   "root_row_text": "སྒྲ་དང་དྲི་དང་རོ་དང༌། རེག་བྱ་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+   "targets": [
+    "210"
+   ]
+  },
+  {
+   "row": 214,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། གནས་པ་གང་ཡིན་པ་དེ་ཉིད་མི་གནས་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "214"
+   ]
+  },
+  {
+   "row": 215,
+   "root_row_text": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་འདི་སྐད་དུ། བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། ། ཞེས་གསུངས་སོ། །",
+   "targets": [
+    "215"
+   ]
+  },
+  {
+   "row": 216,
+   "root_row_text": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་འདི་ལྟར་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་གྱི་ཕྱིར་སྦྱིན་པ་ཡོངས་སུ་གཏང་བར་བྱའོ། །",
+   "targets": [
+    "216"
+   ]
+  },
+  {
+   "row": 217,
+   "root_row_text": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་གང་ཡིན་པ་དེ་ཉིད་ཀྱང་འདུ་ཤེས་མེད་པ་སྟེ།",
+   "targets": [
+    "217"
+   ]
+  },
+  {
+   "row": 218,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་ཐམས་ཅད་ཅེས་གང་དག་གསུངས་པའི་སེམས་ཅན་དེ་དག་ཉིད་ཀྱང་མེད་པའོ། །",
+   "targets": [
+    "218"
+   ]
+  },
+  {
+   "row": 219,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ནི་ཡང་དག་པར་གསུང་བ། བདེན་པར་གསུང་བ། དེ་བཞིན་ཉིད་དུ་གསུང་བ་སྟེ། ",
+   "targets": [
+    "219"
+   ]
+  },
+  {
+   "row": 220,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་ནི་ལོག་པར་གསུང་བ་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+   "targets": [
+    "220"
+   ]
+  },
+  {
+   "row": 221,
+   "root_row_text": "ཡང་རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཆོས་གང་ཡང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ལ་བདེན་པ་ཡང་མེད། རྫུན་པ་ཡང་མེད་དོ། །",
+   "targets": [
+    "221"
+   ]
+  },
+  {
+   "row": 222,
+   "root_row_text": "རབ་འབྱོར་འདི་ལྟ་སྟེ། དཔེར་ན་མིག་དང་ལྡན་པའི་མི་ཞིག་མུན་པར་ཞུགས་ན་ཅི་ཡང་མི་མཐོང་བ་དེ་བཞིན་དུ་གང་དངོས་པོར་ལྷུང་བས་སྦྱིན་པ་ཡོངས་སུ་གཏོང་བའི་བྱང་ཆུབ་སེམས་དཔའ་བལྟ་བར་བྱའོ། །",
+   "targets": [
+    "222"
+   ]
+  },
+  {
+   "row": 223,
+   "root_row_text": "ཡང་རབ་འབྱོར་འདི་ལྟ་སྟེ། དཔེར་ན། ནམ་ལངས་ཏེ་ཉི་མ་ཤར་ནས་མིག་དང་ལྡན་པའི་མིས་གཟུགས་རྣམ་པ་སྣ་ཚོགས་དག་མཐོང་བ་དེ་བཞིན་དུ། གང་དངོས༌པོར་མ་ལྷུང་བས་སྦྱིན་པ་ཡོངས་སུ་གཏོང་བའི་བྱང་ཆུབ་སེམས་དཔའ་བལྟ་བར་བྱའོ། །",
+   "targets": [
+    "223"
+   ]
+  },
+  {
+   "row": 224,
+   "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་མཁྱེན། དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ་",
+   "targets": [
+    "224"
+   ]
+  },
+  {
+   "row": 225,
+   "root_row_text": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ། །",
+   "targets": [
+    "225"
+   ]
+  },
+  {
+   "row": 226,
+   "root_row_text": "ཡང་རབ་འབྱོར་སྐྱེས་པའམ། བུད་མེད་གང་ཞིག་སྔ་དྲོའི་དུས་ཀྱི་ཚེ་ལུས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་ལ། ཕྱེད་ཀྱི་དུས་དང༌། ཕྱི་དྲོའི་དུས་ཀྱི་ཚེ་ཡང་ལུས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་སྟེ། རྣམ་གྲངས་འདི་ལྟ་བུར་བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མར་ལུས་ཡོངས་སུ་གཏོང་བ་བས། ",
+   "targets": [
+    "226"
+   ]
+  },
+  {
+   "row": 227,
+   "root_row_text": "གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་མི་སྤོང་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་ན། གང་གིས་ཡི་གེར་བྲིས་ནས་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་ལྟ་ཅི་སྨོས།",
+   "targets": [
+    "227"
+   ]
+  },
+  {
+   "row": 228,
+   "root_row_text": "ཡང་རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་བསམ་གྱིས་མི་ཁྱབ་ཅིང༌། མཚུངས་པ་མེད་དེ།",
+   "targets": [
+    "228"
+   ]
+  },
+  {
+   "row": 229,
+   "root_row_text": "འདིའི་རྣམ་པར་སྨིན་པ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་དུ་རིག་པར་བྱའོ། །",
+   "targets": [
+    "229"
+   ]
+  },
+  {
+   "row": 230,
+   "root_row_text": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་ཐེག་པ་མཆོག་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་དང༌། ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་གྱི་ཕྱིར་དེ་བཞིན་གཤེགས་པས་གསུངས་སོ། །",
+   "targets": [
+    "230"
+   ]
+  },
+  {
+   "row": 231,
+   "root_row_text": "གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་མཁྱེན། དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ། ",
+   "targets": [
+    "231"
+   ]
+  },
+  {
+   "row": 233,
+   "root_row_text": "བསོད་ནམས་ཀྱི་ཕུང་པོ་བསམ་གྱིས་མི་ཁྱབ་པ་དང༌། མཚུངས་པ་མེད་པ་དང༌། གཞལ་དུ་མེད་པ་དང༌། ཚད་མེད་པ་དང་ལྡན་པར་འགྱུར་ཏེ།",
+   "targets": [
+    "233"
+   ]
+  },
+  {
+   "row": 234,
+   "root_row_text": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ངའི་བྱང་ཆུབ་ཕྲག་པ་ལ་ཐོགས་པར་འགྱུར་རོ། །",
+   "targets": [
+    "234"
+   ]
+  },
+  {
+   "row": 235,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དམན་པ་ལ་མོས་པ་རྣམས་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་མཉན་པར་མི་ནུས་ཏེ།",
+   "targets": [
+    "235"
+   ]
+  },
+  {
+   "row": 236,
+   "root_row_text": "བདག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སེམས་ཅན་དུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སྲོག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན་ཞིང༌།",
+   "targets": [
+    "236"
+   ]
+  },
+  {
+   "row": 237,
+   "root_row_text": "གང་ཟག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མཉན་པ་དང༌། བླང་བ་དང་། གཟུང་བ་དང༌། བཀླག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་མི་ནུས་ཏེ། ",
+   "targets": [
+    "237"
+   ]
+  },
+  {
+   "row": 239,
+   "root_row_text": "ཡང་རབ་འབྱོར་ས་ཕྱོགས་གང་ན་མདོ་སྡེ་འདི་སྟོན་པའི་ས་ཕྱོགས་དེ་ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་གྱིས་མཆོད་པ་བྱ་བར་འོས་པར་འགྱུར་རོ། །",
+   "targets": [
+    "239"
+   ]
+  },
+  {
+   "row": 240,
+   "root_row_text": "ས་ཕྱོགས་དེ་ཕྱག་བྱ་བར་འོས་པ་དང༌། བསྐོར་བ་བྱ་བར་འོས་པར་འགྱུར་ཏེ།",
+   "targets": [
+    "240"
+   ]
+  },
+  {
+   "row": 242,
+   "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་འདི་དག་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དེ་དག་ནི་མནར་བར་འགྱུར་",
+   "targets": [
+    "242"
+   ]
+  },
+  {
+   "row": 243,
+   "root_row_text": "ཤིན་ཏུ་མནར་བར་འགྱུར་རོ། །",
+   "targets": [
+    "243"
+   ]
+  },
+  {
+   "row": 244,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཅན་དེ་དག་ནི་ཚེ་རབས་སྔ་མའི་མི་དགེ་བའི་ལས་ངན་སོང་དུ་སྐྱེ་བར་འགྱུར་བ་གང་དག་བྱས་པ་དེ་དག་ཚེ་འདི་ཉིད་ལ་མནར་བས། ཚེ་རབས་སྔ་མའི་མི་དགེ་བའི་ལས་ངན་སོང་དུ་སྐྱེ་བར་འགྱུར་བ་གང་དག་བྱས་པ་དེ་དག་བྱང་བར་འགྱུར་ཏེ། ",
+   "targets": [
+    "244"
+   ]
+  },
+  {
+   "row": 245,
+   "root_row_text": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་ཀྱང་ཐོབ་པར་འགྱུར་རོ། །",
+   "targets": [
+    "245"
+   ]
+  },
+  {
+   "row": 246,
+   "root_row_text": "རབ་འབྱོར་ངས་མངོན་པར་ཤེས་ཏེ། འདས་པའི་དུས་བསྐལ་པ་གྲངས་མེད་པའི་ཡང་ཆེས་གྲངས་མེད་པ་ན། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ཀྱི་སྔ་རོལ་གྱི་ཡང་ཆེས་སྔ་རོལ་ན་སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི་དག་བྱུང་བ་ངས་མཉེས་པར་བྱས་ཏེ།",
+   "targets": [
+    "246"
+   ]
+  },
+  {
+   "row": 247,
+   "root_row_text": "མ་མཉེས་པར་མ་བྱས་ནས་ཐུགས་འབྱུང་བར་མ་བྱས་ཏེ།",
+   "targets": [
+    "247"
+   ]
+  },
+  {
+   "row": 248,
+   "root_row_text": "རབ་འབྱོར་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ངས་མཉེས་པར་བྱས་ནས་ཐུགས་འབྱུང་བར་མ་བྱས་པ་གང་ཡིན་པ་དང༌། ཕྱི་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མར་གྱུར་པ་ན། མདོ་སྡེ་འདི་ལེན་པ་དང༌། འདྲི་བ་དང༌། འཛིན་པ་དང་འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་གང་ཡིན་པ་ལས། རབ་འབྱོར་བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་ལ་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ།",
+   "targets": [
+    "248"
+   ]
+  },
+  {
+   "row": 249,
+   "root_row_text": "སྟོང་གི་ཆ་དང༌། འབུམ་གྱི་ཆ་དང༌། གྲངས་དང་ཚད་དང་བགྲང་བ་དང༌། དཔེ་དང་ཟླ་དང་རྒྱུར་ཡང་མི་བཟོད་དོ། །",
+   "targets": [
+    "249"
+   ]
+  },
+  {
+   "row": 250,
+   "root_row_text": "རབ་འབྱོར་གལ་ཏེ་དེའི་ཚེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཇི་སྙེད་རབ་ཏུ་འཛིན་པར་འགྱུར་བའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དག་གི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ངས་བརྗོད་ན། སེམས་ཅན་རྣམས་མྱོ་མྱོ་པོར་འགྱུར་ཞིང་སེམས་འཁྲུགས་པར་འགྱུར་རོ། །",
+   "targets": [
+    "250"
+   ]
+  },
+  {
+   "row": 251,
+   "root_row_text": "ཡང་རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བསམ་གྱིས་མི་ཁྱབ་སྟེ།",
+   "targets": [
+    "251"
+   ]
+  },
+  {
+   "row": 252,
+   "root_row_text": "འདིའི་རྣམ་པར་སྨིན་པ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་དུ་རིག་པར་བྱའོ། །",
+   "targets": [
+    "252"
+   ]
+  },
+  {
+   "row": 253,
+   "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+   "targets": [
+    "253"
+   ]
+  },
+  {
+   "row": 254,
+   "root_row_text": "བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས་ཇི་ལྟར་གནས་པར་བགྱི། ",
+   "targets": [
+    "254"
+   ]
+  },
+  {
+   "row": 256,
+   "root_row_text": "ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བགྱི།",
+   "targets": [
+    "256"
+   ]
+  },
+  {
+   "row": 257,
+   "root_row_text": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+   "targets": [
+    "257"
+   ]
+  },
+  {
+   "row": 258,
+   "root_row_text": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+   "targets": [
+    "258"
+   ]
+  },
+  {
+   "row": 259,
+   "root_row_text": "དེ་ལྟར་སེམས་ཅན་ཚད་མེད་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ཀྱང༌། སེམས་ཅན་གང་ཡང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་གྱུར་པ་མེད་དོ་སྙམ་དུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+   "targets": [
+    "259"
+   ]
+  },
+  {
+   "row": 260,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་ན་དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་ལ།",
+   "targets": [
+    "260"
+   ]
+  },
+  {
+   "row": 261,
+   "root_row_text": "གང་ཟག་གི་བར་དུ་འདུ་ཤེས་འཇུག་ན་ཡང༌། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+   "targets": [
+    "261"
+   ]
+  },
+  {
+   "row": 262,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་ཞེས་བྱ་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+   "targets": [
+    "262"
+   ]
+  },
+  {
+   "row": 263,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "263"
+   ]
+  },
+  {
+   "row": 264,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་གང་ཡང་ཡོད་སྙམ་མམ། ",
+   "targets": [
+    "264"
+   ]
+  },
+  {
+   "row": 265,
+   "root_row_text": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌།བཅོམ་ལྡན་འདས་ལ་ཚེ་དང༌ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+   "targets": [
+    "265"
+   ]
+  },
+  {
+   "row": 266,
+   "root_row_text": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་སོ། །",
+   "targets": [
+    "266"
+   ]
+  },
+  {
+   "row": 267,
+   "root_row_text": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+   "targets": [
+    "267"
+   ]
+  },
+  {
+   "row": 268,
+   "root_row_text": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ། ",
+   "targets": [
+    "268"
+   ]
+  },
+  {
+   "row": 269,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་དོ། །",
+   "targets": [
+    "269"
+   ]
+  },
+  {
+   "row": 270,
+   "root_row_text": "རབ་འབྱོར་གལ་ཏེ་དེ་བཞིན་གཤེགས་པས་གང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་འགའ་ཞིག་ཡོད་པར་གྱུར་ན། དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ཀྱིས་ང་ལ་བྲམ་ཟེའི་ཁྱེའུ་ཁྱོད་མ་འོངས་པའི་དུས་ན། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ཞེས་བྱ་བར་འགྱུར་རོ། ། ཞེས་ལུང་མི་སྟོན་པ་ཞིག་ན། ",
+   "targets": [
+    "270"
+   ]
+  },
+  {
+   "row": 271,
+   "root_row_text": "རབ་འབྱོར་འདི་ལྟར་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་པས་",
+   "targets": [
+    "271"
+   ]
+  },
+  {
+   "row": 272,
+   "root_row_text": "དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ཀྱིས་ང་ལ་བྲམ་ཟེའི་ཁྱེའུ་ཁྱོད་མ་འོངས་པའི་དུས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ཞེས་བྱ་བར་འགྱུར་རོ་ཞེས་ལུང་བསྟན་ཏོ། །",
+   "targets": [
+    "272"
+   ]
+  },
+  {
+   "row": 273,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ཞེས་པ་ནི། ཡང་དག་པའི་དེ་བཞིན་ཉིད་ཀྱི་ཚིག་བླ་དྭགས་ཡིན་པའི་ཕྱིར་རོ། །",
+   "targets": [
+    "273"
+   ]
+  },
+  {
+   "row": 274,
+   "root_row_text": "ཡང་རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་ཞེས་ཟེར་ན། དེ་ལོག་པར་སྨྲ་བ་ཡིན་ནོ། །",
+   "targets": [
+    "274"
+   ]
+  },
+  {
+   "row": 276,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+   "targets": [
+    "276"
+   ]
+  },
+  {
+   "row": 277,
+   "root_row_text": "རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཆོས་གང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ལ་བདེན་པའང་མེད། རྫུན་པ་ཡང་མེད་དོ། །",
+   "targets": [
+    "277"
+   ]
+  },
+  {
+   "row": 278,
+   "root_row_text": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་ཆོས་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་ཆོས་ཞེས་གསུངས་སོ། །",
+   "targets": [
+    "278"
+   ]
+  },
+  {
+   "row": 279,
+   "root_row_text": "རབ་འབྱོར་ཆོས་ཐམས་ཅད་ཅེས་བྱ་བ་ནི། དེ་དག་ཐམས་ཅད་ཆོས་མེད་པ་ཡིན་ཏེ། ",
+   "targets": [
+    "279"
+   ]
+  },
+  {
+   "row": 280,
+   "root_row_text": "དེས་ན་ཆོས་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་ཆོས་ཞེས་བྱའོ། །",
+   "targets": [
+    "280"
+   ]
+  },
+  {
+   "row": 281,
+   "root_row_text": "རབ་འབྱོར་འདི་ལྟ་སྟེ་དཔེར་ན། སྐྱེས་བུ་ཞིག་མིའི་ལུས་དང་ལྡན་ཞིང་ལུས་ཆེན་པོར་གྱུར་པ་བཞིན་ནོ། །",
+   "targets": [
+    "281"
+   ]
+  },
+  {
+   "row": 282,
+   "root_row_text": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་སྐྱེས་བུ་མིའི་ལུས་དང་ལྡན་ཞིང་ལུས་ཆེན་པོ་ཞེས་གང་གསུངས་པ་དེ། དེ་བཞིན་གཤེགས་པས་ལུས་མ་མཆིས་པར་གསུངས་ཏེ། ",
+   "targets": [
+    "282"
+   ]
+  },
+  {
+   "row": 283,
+   "root_row_text": "དེས་ན་ལུས་དང་ལྡན་ཞིང་ལུས་ཆེན་པོ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "283"
+   ]
+  },
+  {
+   "row": 284,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་བཞིན་ཏེ། ",
+   "targets": [
+    "284"
+   ]
+  },
+  {
+   "row": 285,
+   "root_row_text": "བྱང་ཆུབ་སེམས་དཔའ་གང་འདི་སྐད་དུ་བདག་གིས་སེམས་ཅན་རྣམས་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ་ཞེས་ཟེར་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱའོ། །",
+   "targets": [
+    "285"
+   ]
+  },
+  {
+   "row": 286,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་བའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+   "targets": [
+    "286"
+   ]
+  },
+  {
+   "row": 288,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་བས་ན། དེ་བཞིན་གཤེགས་པས་ཆོས་ཐམས་ཅད་ནི་སེམས་ཅན་མེད་པ། སྲོག་མེད་པ། གང་ཟག་མེད་པའོ། །ཞེས་གསུངས་སོ། །",
+   "targets": [
+    "288"
+   ]
+  },
+  {
+   "row": 289,
+   "root_row_text": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་འདི་སྐད་དུ། བདག་གིས་ཞིང་བཀོད་པ་རྣམས་བསྒྲུབ་བོ་ཞེས་ཟེར་ན། དེ་ཡང་དེ་བཞིན་དུ་བརྗོད་པར་བྱའོ། །",
+   "targets": [
+    "289"
+   ]
+  },
+  {
+   "row": 290,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཞིང་བཀོད་པ་རྣམས་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་བཀོད་པ་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "290"
+   ]
+  },
+  {
+   "row": 291,
+   "root_row_text": "དེས་ན་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱའོ། །",
+   "targets": [
+    "291"
+   ]
+  },
+  {
+   "row": 292,
+   "root_row_text": "རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་འདི་སྐད་དུ། ཆོས་རྣམས་ནི་བདག་མེད་པ་ཆོས་རྣམས་ནི་བདག་མེད་པའོ་ཞེས་མོས་པ་དེ་ནི། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཞེས་བརྗོད་དོ། །",
+   "targets": [
+    "292"
+   ]
+  },
+  {
+   "row": 293,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། དེ་བཞིན་གཤེགས་པ་ལ་ཤའི་སྤྱན་མངའ་སྙམ་མམ། ",
+   "targets": [
+    "293"
+   ]
+  },
+  {
+   "row": 294,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ཤའི་སྤྱན་མངའོ། །",
+   "targets": [
+    "294"
+   ]
+  },
+  {
+   "row": 295,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "295"
+   ]
+  },
+  {
+   "row": 296,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའ་སྙམ་མམ། ",
+   "targets": [
+    "296"
+   ]
+  },
+  {
+   "row": 297,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའོ། །",
+   "targets": [
+    "297"
+   ]
+  },
+  {
+   "row": 298,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "298"
+   ]
+  },
+  {
+   "row": 299,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ཤེས་རབ་ཀྱི་སྤྱན་མངའ་སྙམ་མམ། ",
+   "targets": [
+    "299"
+   ]
+  },
+  {
+   "row": 300,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
+   "targets": [
+    "300"
+   ]
+  },
+  {
+   "row": 301,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ཤེས་རབ་ཀྱི་སྤྱན་མངའོ། །",
+   "targets": [
+    "301"
+   ]
+  },
+  {
+   "row": 302,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "302"
+   ]
+  },
+  {
+   "row": 303,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཀྱི་སྤྱན་མངའ་སྙམ་མམ། ",
+   "targets": [
+    "303"
+   ]
+  },
+  {
+   "row": 304,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
+   "targets": [
+    "304"
+   ]
+  },
+  {
+   "row": 305,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཀྱི་སྤྱན་མངའོ། །",
+   "targets": [
+    "305"
+   ]
+  },
+  {
+   "row": 306,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "306"
+   ]
+  },
+  {
+   "row": 307,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་སངས་རྒྱས་ཀྱི་སྤྱན་མངའ་སྙམ་མམ། ",
+   "targets": [
+    "307"
+   ]
+  },
+  {
+   "row": 308,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
+   "targets": [
+    "308"
+   ]
+  },
+  {
+   "row": 309,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་སངས་རྒྱས་ཀྱི་སྤྱན་མངའོ། །",
+   "targets": [
+    "309"
+   ]
+  },
+  {
+   "row": 310,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱི་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "310"
+   ]
+  },
+  {
+   "row": 311,
+   "root_row_text": "གངྒཱའི་ཀླུང་གི་བྱེ་མ་ཇི་སྙེད་པ་གངྒཱའི་ཀླུང་ཡང་དེ་སྙེད་ཁོ་ནར་གྱུར་ལ། དེ་དག་གི་བྱེ་མ་དེ་སྙེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་གྱུར་ན། འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མང་བ་ཡིན་སྙམ་མམ། ",
+   "targets": [
+    "311"
+   ]
+  },
+  {
+   "row": 312,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
+   "targets": [
+    "312"
+   ]
+  },
+  {
+   "row": 313,
+   "root_row_text": "འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མང་ལགས་སོ། །",
+   "targets": [
+    "313"
+   ]
+  },
+  {
+   "row": 314,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་ན་སེམས་ཅན་ཇི་སྙེད་ཡོད་པ་དེ་དག་གི་བསམ་པ་ཐ་དད་པའི་སེམས་ཀྱི་རྒྱུན་ངས་རབ་ཏུ་ཤེས་སོ། །",
+   "targets": [
+    "314"
+   ]
+  },
+  {
+   "row": 315,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཀྱི་རྒྱུན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱ་བ་ནི། དེ་རྒྱུན་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "315"
+   ]
+  },
+  {
+   "row": 316,
+   "root_row_text": "དེས་ན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱའོ། །",
+   "targets": [
+    "316"
+   ]
+  },
+  {
+   "row": 317,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་འདས་པའི་སེམས་ཀྱང་དམིགས་སུ་མེད། ",
+   "targets": [
+    "317"
+   ]
+  },
+  {
+   "row": 318,
+   "root_row_text": "མ་འོངས་པའི་སེམས་ཀྱང་དམིགས་སུ་མེད། ",
+   "targets": [
+    "318"
+   ]
+  },
+  {
+   "row": 320,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "320"
+   ]
+  },
+  {
+   "row": 321,
+   "root_row_text": "གང་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་ན། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་མང་དུ་བསྐྱེད་དམ། ",
+   "targets": [
+    "321"
+   ]
+  },
+  {
+   "row": 322,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མང་ལགས་སོ། །",
+   "targets": [
+    "322"
+   ]
+  },
+  {
+   "row": 325,
+   "root_row_text": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་མང་དུ་བསྐྱེད་དོ། །",
+   "targets": [
+    "325"
+   ]
+  },
+  {
+   "row": 327,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "327"
+   ]
+  },
+  {
+   "row": 328,
+   "root_row_text": "གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ། ",
+   "targets": [
+    "328"
+   ]
+  },
+  {
+   "row": 329,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "329"
+   ]
+  },
+  {
+   "row": 330,
+   "root_row_text": "གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+   "targets": [
+    "330"
+   ]
+  },
+  {
+   "row": 331,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པ་ཞེས་བགྱི་བ་ནི། དེ་ཡོངས་སུ་གྲུབ་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "331"
+   ]
+  },
+  {
+   "row": 332,
+   "root_row_text": "དེས་ན་གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "332"
+   ]
+  },
+  {
+   "row": 333,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+   "targets": [
+    "333"
+   ]
+  },
+  {
+   "row": 334,
+   "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ། ",
+   "targets": [
+    "334"
+   ]
+  },
+  {
+   "row": 335,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "335"
+   ]
+  },
+  {
+   "row": 336,
+   "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+   "targets": [
+    "336"
+   ]
+  },
+  {
+   "row": 337,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། དེ་བཞིན་གཤེགས་པས་མཚན་ཕུན་སུམ་ཚོགས་པ་གང་གསུངས་པ་དེ། མཚན་ཕུན་སུམ་ཚོགས་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "337"
+   ]
+  },
+  {
+   "row": 338,
+   "root_row_text": "དེས་ན་མཚན་ཕུན་སུམ་ཚོགས་པ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "338"
+   ]
+  },
+  {
+   "row": 339,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "339"
+   ]
+  },
+  {
+   "row": 340,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་འདི་སྙམ་དུ་ངས་ཆོས་བསྟན་ཏོ་ཞེས་དགོངས་སོ་སྙམ་ན། རབ་འབྱོར་དེ་དེ་ལྟར་མི་ལྟ་སྟེ། ",
+   "targets": [
+    "340"
+   ]
+  },
+  {
+   "row": 342,
+   "root_row_text": "རབ་འབྱོར་སུ་ཞིག་འདི་སྐད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་བསྟན་ཏོ་ཞེས་ཟེར་ན། རབ་འབྱོར་དེ་ནི་མེད་པ་དང་ལོག་པར་ཟིན་པས་ང་ལ་སྐུར་བར་འགྱུར་རོ། །",
+   "targets": [
+    "342"
+   ]
+  },
+  {
+   "row": 343,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཆོས་བསྟན་པ་ཞེས་བྱ་བ་ནི་གང་ཆོས་བསྟན་པ་ཆོས་བསྟན་པ་ཞེས་བྱ་བར་དམིགས་པར་འགྱུར་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+   "targets": [
+    "343"
+   ]
+  },
+  {
+   "row": 344,
+   "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+   "targets": [
+    "344"
+   ]
+  },
+  {
+   "row": 345,
+   "root_row_text": "བཅོམ་ལྡན་འདས་མ་འོངས་པའི་དུས་ན། སེམས་ཅན་གང་དག་འདི་ལྟ་བུའི་ཆོས་བཤད་པ་འདི་ཐོས་ནས། མངོན་པར་ཡིད་ཆེས་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ། ",
+   "targets": [
+    "345"
+   ]
+  },
+  {
+   "row": 346,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དག་ནི་སེམས་ཅན་ཡང་མ་ཡིན། སེམས་ཅན་མེད་པ་ཡང་མ་ཡིན་ནོ། །",
+   "targets": [
+    "346"
+   ]
+  },
+  {
+   "row": 347,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཅན་རྣམས་ཞེས་བྱ་བ་ནི། དེ་བཞིན་གཤེགས་པས་དེ་དག་སེམས་ཅན་མེད་པར་གསུངས་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "347"
+   ]
+  },
+  {
+   "row": 348,
+   "root_row_text": "དེ་བས་ན་སེམས་ཅན་རྣམས་ཞེས་བྱའོ། །",
+   "targets": [
+    "348"
+   ]
+  },
+  {
+   "row": 351,
+   "root_row_text": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
+   "targets": [
+    "351"
+   ]
+  },
+  {
+   "row": 352,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ། ",
+   "targets": [
+    "352"
+   ]
+  },
+  {
+   "row": 353,
+   "root_row_text": "དེ་ལ་ཆོས་ཅུང་ཟད་ཀྱང་མི་དམིགས་ཤིང་མེད་དེ། ",
+   "targets": [
+    "353"
+   ]
+  },
+  {
+   "row": 354,
+   "root_row_text": "དེས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཅེས་བྱའོ། །",
+   "targets": [
+    "354"
+   ]
+  },
+  {
+   "row": 355,
+   "root_row_text": "ཡང་རབ་འབྱོར་ཆོས་དེ་ནི་མཉམ་པ་སྟེ། ",
+   "targets": [
+    "355"
+   ]
+  },
+  {
+   "row": 356,
+   "root_row_text": "དེ་ལ་མི་མཉམ་པ་དང་མཉམ་པ་གང་ཡང་མེད་པས། དེས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཅེས་བྱའོ། །",
+   "targets": [
+    "356"
+   ]
+  },
+  {
+   "row": 357,
+   "root_row_text": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དེ་ནི་བདག་མེད་པ་དང༌། སེམས་ཅན་མེད་པ་དང༌། སྲོག་མེད་པ་དང༌། གང་ཟག་མེད་པར་མཉམ་པ་སྟེ། ",
+   "targets": [
+    "357"
+   ]
+  },
+  {
+   "row": 358,
+   "root_row_text": "དགེ་བའི་ཆོས་ཐམས་ཅད་ཀྱིས་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ། །",
+   "targets": [
+    "358"
+   ]
+  },
+  {
+   "row": 359,
+   "root_row_text": "རབ་འབྱོར་དགེ་བའི་ཆོས་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་ཆོས་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ། ",
+   "targets": [
+    "359"
+   ]
+  },
+  {
+   "row": 360,
+   "root_row_text": "དེས་ན་དགེ་བའི་ཆོས་རྣམས་ཞེས་བྱའོ། །",
+   "targets": [
+    "360"
+   ]
+  },
+  {
+   "row": 361,
+   "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་རིའི་རྒྱལ་པོ་རི་རབ་དག་ཇི་སྙེད་ཡོད་པ་དེ་ཙམ་གྱི་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་ཕུང་པོ་མངོན་པར་བསྡུས་ཏེ། སྦྱིན་པ་བྱིན་པ་བས་གང་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་བཟུང་ནས་གཞན་དག་ལ་ཡང་བསྟན་ན། རབ་འབྱོར་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ་དེས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ་བ་ནས་རྒྱུའི་བར་དུ་ཡང་མི་བཟོད་དོ། །",
+   "targets": [
+    "361"
+   ]
+  },
+  {
+   "row": 362,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "362"
+   ]
+  },
+  {
+   "row": 363,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་འདི་སྙམ་དུ་ངས་སེམས་ཅན་རྣམས་བཀྲོལ་ལོ་ཞེས་དགོངས་སོ་སྙམ་ན། རབ་འབྱོར་དེ་ལྟར་མི་བལྟའོ། །",
+   "targets": [
+    "363"
+   ]
+  },
+  {
+   "row": 364,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་གང་བཀྲོལ་བའི་སེམས་ཅན་དེ་དག་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+   "targets": [
+    "364"
+   ]
+  },
+  {
+   "row": 365,
+   "root_row_text": "རབ་འབྱོར་གལ་ཏེ་དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་གང་ལ་ལ་ཞིག་བཀྲོལ་བར་གྱུར་ན། དེ་ཉིད་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་འཛིན་པར་འགྱུར།",
+   "targets": [
+    "365"
+   ]
+  },
+  {
+   "row": 366,
+   "root_row_text": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་རོ། །",
+   "targets": [
+    "366"
+   ]
+  },
+  {
+   "row": 367,
+   "root_row_text": "རབ་འབྱོར་བདག་ཏུ་འཛིན་ཅེས་བྱ་བ་ནི། འཛིན་པ་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ན། དེ་ཡང་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཀྱི་བཟུང་ངོ་། །",
+   "targets": [
+    "367"
+   ]
+  },
+  {
+   "row": 368,
+   "root_row_text": "རབ་འབྱོར་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་སྐྱེ་བོ་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ། ",
+   "targets": [
+    "368"
+   ]
+  },
+  {
+   "row": 370,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "370"
+   ]
+  },
+  {
+   "row": 371,
+   "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ། ",
+   "targets": [
+    "371"
+   ]
+  },
+  {
+   "row": 372,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "372"
+   ]
+  },
+  {
+   "row": 373,
+   "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+   "targets": [
+    "373"
+   ]
+  },
+  {
+   "row": 374,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ། ",
+   "targets": [
+    "374"
+   ]
+  },
+  {
+   "row": 376,
+   "root_row_text": "རབ་འབྱོར་གལ་ཏེ་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་འགྱུར་ན། འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་ཡང་དེ་བཞིན་གཤེགས་པར་འགྱུར་ཏེ།",
+   "targets": [
+    "376"
+   ]
+  },
+  {
+   "row": 380,
+   "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །",
+   "targets": [
+    "380"
+   ]
+  },
+  {
+   "row": 381,
+   "root_row_text": "གང་དག་ང་ལ་གཟུགས་སུ་མཐོང༌། །གང་དག་ང་ལ་སྒྲར་ཤེས་པ། །ལོག་པའི་ལམ་དུ་ཞུགས་པ་སྟེ། །",
+   "targets": [
+    "381"
+   ]
+  },
+  {
+   "row": 382,
+   "root_row_text": "སྐྱེ་བོ་དེ་དག་ང་མི་མཐོང༌། །",
+   "targets": [
+    "382"
+   ]
+  },
+  {
+   "row": 383,
+   "root_row_text": "སངས་རྒྱས་རྣམས་ནི་ཆོས་ཉིད་ལྟ། །",
+   "targets": [
+    "383"
+   ]
+  },
+  {
+   "row": 385,
+   "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
+   "targets": [
+    "385"
+   ]
+  },
+  {
+   "row": 386,
+   "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་ཁྱོད་ཀྱིས་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ། ",
+   "targets": [
+    "386"
+   ]
+  },
+  {
+   "row": 387,
+   "root_row_text": "རབ་འབྱོར་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་མེད་དོ། །",
+   "targets": [
+    "387"
+   ]
+  },
+  {
+   "row": 388,
+   "root_row_text": "རབ་འབྱོར་ཁྱོད་འདི་སྙམ་དུ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ལ་ལ་ཞིག་རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པའོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་དེ་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ། ",
+   "targets": [
+    "388"
+   ]
+  },
+  {
+   "row": 389,
+   "root_row_text": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ། །",
+   "targets": [
+    "389"
+   ]
+  },
+  {
+   "row": 390,
+   "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། བྱང་ཆུབ་སེམས་དཔའ་གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བདག་མེད་ཅིང་སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆོས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+   "targets": [
+    "390"
+   ]
+  },
+  {
+   "row": 391,
+   "root_row_text": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བྱའོ། །",
+   "targets": [
+    "391"
+   ]
+  },
+  {
+   "row": 392,
+   "root_row_text": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བགྱི་ལགས་སམ། ",
+   "targets": [
+    "392"
+   ]
+  },
+  {
+   "row": 393,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་ཡོངས་སུ་གཟུང་མོད་ཀྱིས། ལོག་པར་མི་བཟུང་སྟེ་",
+   "targets": [
+    "393"
+   ]
+  },
+  {
+   "row": 394,
+   "root_row_text": "དེས་ན་ཡོངས་སུ་གཟུང་བ་ཞེས་བྱའོ། །",
+   "targets": [
+    "394"
+   ]
+  },
+  {
+   "row": 395,
+   "root_row_text": "ཡང་རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པ་བཞུད་དམ་བྱོན་ཏམ། བཞེངས་སམ། བཞུགས་སམ། མནལ་བར་མཛད་དོ་ཞེས་ཟེར་ན། དེས་ངས་བཤད་པའི་དོན་མི་ཤེས་སོ། །",
+   "targets": [
+    "395"
+   ]
+  },
+  {
+   "row": 396,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་ནི། གར་ཡང་མ་བཞུད། གང་ནས་ཀྱང་མ་བྱོན་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "396"
+   ]
+  },
+  {
+   "row": 397,
+   "root_row_text": "དེས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཞེས་བྱའོ། །",
+   "targets": [
+    "397"
+   ]
+  },
+  {
+   "row": 398,
+   "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས། སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་དེ་དག །འདི་ལྟ་སྟེ་དཔེར་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་བཞིན་དུ་ཕྱེ་མར་བྱས་ན། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་དེ་མང་བ་ཡིན་སྙམ་མམ། ",
+   "targets": [
+    "398"
+   ]
+  },
+  {
+   "row": 399,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
+   "targets": [
+    "399"
+   ]
+  },
+  {
+   "row": 401,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཤིག་མཆིས་པར་གྱུར་ན། བཅོམ་ལྡན་འདས་ཀྱིས་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་བཀའ་མི་སྩོལ་བའི་སླད་དུའོ། །",
+   "targets": [
+    "401"
+   ]
+  },
+  {
+   "row": 402,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་གང་གསུངས་པ་དེ་ཚོགས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པའི་གསུངས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "402"
+   ]
+  },
+  {
+   "row": 403,
+   "root_row_text": "དེས་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "403"
+   ]
+  },
+  {
+   "row": 404,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་གང་གསུངས་པ་དེ་ཁམས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ། ",
+   "targets": [
+    "404"
+   ]
+  },
+  {
+   "row": 405,
+   "root_row_text": "དེས་ན་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "405"
+   ]
+  },
+  {
+   "row": 406,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་འཇིག་རྟེན་གྱི་ཁམས་ཤིག་མཆིས་པར་གྱུར་ན། དེ་ཉིད་རིལ་པོར་འཛིན་པར་འགྱུར་བའི་སླད་དུའོ། །",
+   "targets": [
+    "406"
+   ]
+  },
+  {
+   "row": 407,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་རིལ་པོར་འཛིན་པར་གསུངས་པ་དེ་འཛིན་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "407"
+   ]
+  },
+  {
+   "row": 408,
+   "root_row_text": "དེས་ན་རིལ་པོར་འཛིན་པ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "408"
+   ]
+  },
+  {
+   "row": 409,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་རིལ་པོར་འཛིན་པ་ཉིད་ནི་ཐ་སྙད་དེ། ",
+   "targets": [
+    "409"
+   ]
+  },
+  {
+   "row": 410,
+   "root_row_text": "ཆོས་དེ་ནི་བརྗོད་དུ་མེད་པ་ཡིན་ན། དེ་ཡང་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཀྱིས་གཟུང་ངོ་། །",
+   "targets": [
+    "410"
+   ]
+  },
+  {
+   "row": 411,
+   "root_row_text": "རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གསུངས། ",
+   "targets": [
+    "411"
+   ]
+  },
+  {
+   "row": 412,
+   "root_row_text": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་དུ་ལྟ་བ་དང༌། སྲོག་ཏུ་ལྟ་བ་དང༌། གང་ཟག་ཏུ་ལྟ་བར་གསུངས་སོ། །ཞེས་ཟེར་ན་དེ་ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ཡིན་ནམ། ",
+   "targets": [
+    "412"
+   ]
+  },
+  {
+   "row": 413,
+   "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "413"
+   ]
+  },
+  {
+   "row": 414,
+   "root_row_text": "བདེ་བར་གཤེགས་པ་དེ་ནི་མ་ལགས་སོ། །",
+   "targets": [
+    "414"
+   ]
+  },
+  {
+   "row": 415,
+   "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གང་གསུངས་པ་དེ་ནི་ལྟ་བ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
+   "targets": [
+    "415"
+   ]
+  },
+  {
+   "row": 416,
+   "root_row_text": "དེས་ན་བདག་ཏུ་ལྟ་བ་ཞེས་བགྱིའོ། །",
+   "targets": [
+    "416"
+   ]
+  },
+  {
+   "row": 417,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་ལྟར་ཆོས་ཐམས་ཅད་ཤེས་པར་བྱ། བལྟ་བར་བྱ། མོས་པར་བྱ་སྟེ།",
+   "targets": [
+    "417"
+   ]
+  },
+  {
+   "row": 418,
+   "root_row_text": "ཅི་ནས་ཆོས་སུ་འདུ་ཤེས་པ་ལ་མི་གནས་པར་ཤེས་པར་བྱའོ། །",
+   "targets": [
+    "418"
+   ]
+  },
+  {
+   "row": 419,
+   "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཆོས་སུ་འདུ་ཤེས་ཆོས་སུ་འདུ་ཤེས་ཞེས་བྱ་བ་ནི། དེ་འདུ་ཤེས་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ། ",
+   "targets": [
+    "419"
+   ]
+  },
+  {
+   "row": 420,
+   "root_row_text": "དེས་ན་ཆོས་སུ་འདུ་ཤེས་ཆོས་སུ་འདུ་ཤེས་ཞེས་བྱའོ། །",
+   "targets": [
+    "420"
+   ]
+  },
+  {
+   "row": 421,
+   "root_row_text": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་དཔག་ཏུ་མེད་ཅིང་གྲངས་མེད་པ་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བྲིས་ནས་འཛིན་ཏམ། འཆང་ངམ། ཀློག་གམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན་དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+   "targets": [
+    "421"
+   ]
+  },
+  {
+   "row": 422,
+   "root_row_text": "ཇི་ལྟར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཅེ་ན། ཇི་ལྟར་ཡང་དག་པར་རབ་ཏུ་མི་སྟོན་པ་དེ་བཞིན་དུ་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་སྟེ། ",
+   "targets": [
+    "422"
+   ]
+  },
+  {
+   "row": 424,
+   "root_row_text": "སྐར་མ་རབ་རིབ་མར་མེ་དང༌། །སྒྱུ་མ་ཟིལ་བ་ཆུ་བུར་དང༌། །རྨི་ལམ་གློག་དང་སྤྲིན་ལྟ་བུ། །འདུས་བྱས་ཐམས་ཅད་དེ་ལྟར་ལྟ། །",
+   "targets": [
+    "424"
+   ]
+  },
+  {
+   "row": 425,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། གནས་བརྟན་རབ་འབྱོར་དང༌། དགེ་སློང་དེ་དག་དང༌། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང༌། འཁོར་བཞི་པོ་དགེ་སློང་དང༌། དགེ་སློང་མ་དང༌། དགེ་བསྙེན་དང༌། དགེ་བསྙེན་མ་དང༌། ལྷ་དང༌། མི་དང་ལྷ་མ་ཡིན་དང༌། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། ",
+   "targets": [
+    "425"
+   ]
+  },
+  {
+   "row": 426,
+   "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།",
+   "targets": [
+    "426"
+   ]
+  },
+  {
+   "row": 428,
+   "root_row_text": "ན་མོ་བྷ་ག་ཝ་ཏེ། པྲཛྙཱ་པ་ར་མི་ཏ་ཡེ། ཨོཾ་ན་ཏ་ད་ཏི་ཏ། ཨི་ལི་ཤི །ཨི་ལི་ཤི །མི་ལི་ཤི །མི་ལི་ཤི །བྷི་ན་ཡན་བྷི་ན་ཡན། ན་མོ་བྷ་ག་ཝ་ཏེ། པྲད་ཏྱཾ་པྲ་ཏེ། ཨི་རི་ཏི། ཨི་རི་ཏི། མི་ར་ཏི། མི་རི་ཏི། ཤུ་རི་ཏི། ཤུ་རི་ཏི། ཨུ་ཤུ་རི་ཨུ་ཤུ་རི། བྷུ་ཡུ་ཡེ་བྷུ་ཡུ་ཡེ་སྭཱཧཱ།",
+   "targets": [
+    "428"
+   ]
+  }
+ ]
+}

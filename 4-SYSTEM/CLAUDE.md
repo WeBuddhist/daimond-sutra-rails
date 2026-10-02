@@ -431,6 +431,7 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | Ingest EPUB as markdown | `epub-to-markdown` |
 | Ingest JSON (root text / commentary) | `json-to-source-text` · `json-to-commentary` |
 | Bring one raw file into `1-SOURCES/` | `raw-to-sources` |
+| Ingest a human-aligned corpus (OpenPecha API, Dzongsar docx alignments) | `aligned-corpus-intake` |
 | Repair mechanical OCR / page damage | `clean-raw-text` |
 | Score OCR quality before trusting a file | `tibetan-ocr-quality` |
 | **Formatting and structure** | |

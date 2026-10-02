@@ -913,7 +913,6 @@ def main():
     ap.add_argument("--out", help="write outputs under this root instead of the vault (for a test build)")
     ap.add_argument("--report", help="write the JSON intake report here")
     a = ap.parse_args()
-    import adapters_tibetan                      # noqa: F401  (registers Tibetan adapters)
     ctx = build(a.manifest, a.vault, dry=a.dry_run, out=a.out)
     if a.report:
         pathlib.Path(a.report).write_text(json.dumps(ctx.report, ensure_ascii=False, indent=1), encoding="utf-8")
