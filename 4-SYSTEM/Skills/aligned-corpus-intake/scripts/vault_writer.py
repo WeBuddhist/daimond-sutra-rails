@@ -126,7 +126,7 @@ def render(work, vault_root):
         for note in item.get("notes") or []:
             lines += [note, ""]
         sidecar_blocks[bid] = {k: v for k, v in item.items()
-                               if k in ("source", "annotations", "targets", "alignment", "role", "comments") and v}
+                               if k in ("source", "annotations", "targets", "alignment", "role", "comments", "overlays") and v}
         sidecar_blocks[bid]["text"] = "".join(text_lines[:-1] + [text_lines[-1][: -len(bid) - 2]])
     md = "\n".join(lines).rstrip() + "\n"
     out = vault_root / work["path"]

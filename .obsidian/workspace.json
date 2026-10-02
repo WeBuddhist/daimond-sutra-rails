@@ -199,6 +199,8 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/aligned-corpus-intake/scripts/verify.py",
+    "0-INBOX/raw-data/intake-manifest.yaml",
     "4-SYSTEM/Skills/aligned-corpus-intake/scripts/adapters_tibetan.py",
     "4-SYSTEM/Skills/aligned-corpus-intake/scripts/build_sources.py",
     "4-SYSTEM/Skills/aligned-corpus-intake/scripts/common.py",
@@ -208,8 +210,6 @@
     "4-SYSTEM/Skills/aligned-corpus-intake/scripts/docx_model.py",
     "4-SYSTEM/Skills/aligned-corpus-intake/scripts",
     "4-SYSTEM/Skills/aligned-corpus-intake",
-    "0-INBOX/raw-data/dzongsar-drive/Dzongsar_missing_diamond/Diamond/D5__MFF4994FD The Diamond Sūtra in Chinese 金剛經/Resources/RFDBD7387/RFDBD7387.xlsx",
-    "0-INBOX/raw-data/dzongsar-drive/Dzongsar_missing_diamond/Diamond/D5__MFF4994FD The Diamond Sūtra in Chinese 金剛經/Resources/RFF4994FD/RFF4994FD.xlsx",
     "0-INBOX/dzongsar-drive-inventory.md",
     "0-INBOX/raw-data/nalanda-printed/Va_3CE4.md",
     "0-INBOX/raw-data/nalanda-printed/Ka_3CDH.md",

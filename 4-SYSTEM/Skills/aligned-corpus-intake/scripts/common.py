@@ -14,15 +14,21 @@ REF_PREFIX = re.compile(
     r"(?P<dot>\s*[\.．])?་?\s*)")
 
 
-def parse_ref_prefix(line):
+# Bare style (Tibetan commentaries): "14 ", "1-3 ", "198,199,201 " — never
+# followed by a dot (a dotted number there is a heading's outline number).
+REF_PREFIX_BARE = re.compile(
+    r"^(?P<all>\s*(?P<refs>\d+(?:\s*[-–~]\s*\d+)?(?:\s*[,，、]\s*\d+(?:\s*[-–~]\s*\d+)?)*)(?![\d.．])\s*)")
+
+
+def parse_ref_prefix(line, style="dotted"):
     """Return (refs, prefix, rest) or (None, "", line).
     refs is the expanded, ordered list of ints."""
-    m = REF_PREFIX.match(line)
+    m = (REF_PREFIX_BARE if style == "bare" else REF_PREFIX).match(line)
     if not m:
         return None, "", line
     refs_s = m.group("refs")
     is_range = bool(re.search(r"[-–~,，、]", refs_s))
-    if not m.group("dot") and not is_range:
+    if style != "bare" and not m.group("dot") and not is_range:
         return None, "", line
     rest = line[m.end():]
     if not rest.strip():
@@ -100,6 +106,18 @@ class LetterIndex:
 
     def find(self, piece, hint=0):
         loc = self.locate(piece, hint)
-        if loc is None:
+        if loc is not None:
+            return self.ids_for(*loc), loc[1]
+        # Last resort for a row whose clauses were reordered by the aligner:
+        # locate each punctuation-delimited clause on its own.
+        clauses = [c for c in re.split(r"[。！？；：，、「」『』\u0f0d\u0f0e]+", piece) if len(letters_only(c)) >= 4]
+        if len(clauses) < 2:
             return None, hint
-        return self.ids_for(*loc), loc[1]
+        ids, end = [], hint
+        for c in clauses:
+            l = self.locate(c, hint)
+            if l is None:
+                return None, hint
+            ids += [i for i in self.ids_for(*l) if i not in ids]
+            end = max(end, l[1])
+        return ids, end

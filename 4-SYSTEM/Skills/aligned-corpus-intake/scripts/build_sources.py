@@ -151,6 +151,8 @@ def adapt_numbered(ctx, spec, rep):
             items.append({"kind": "block", "text": p["text"], "id": str(n["value"]),
                           "source": {"doc": spec["text"], "paragraph": p["index"], "rendered": n.get("rendered")},
                           "annotations": formatted_runs(p, spec.get("legend"))})
+        elif not items and "title_text" not in rep:
+            rep["title_text"] = p["text"]          # unnumbered opening line = the title
         else:
             unnumbered.append({"paragraph": p["index"], "text": p["text"]})
     rep["blocks"] = len(items)
@@ -159,7 +161,45 @@ def adapt_numbered(ctx, spec, rep):
     extra = {}
     if spec.get("align_via"):
         extra["raw_alignment"] = _align_via(ctx, spec, items, rep)
+    if spec.get("headings_from_openpecha"):
+        items = _headings_from_openpecha(ctx, spec["headings_from_openpecha"], items, rep)
     return items, extra
+
+
+def _headings_from_openpecha(ctx, hs, items, rep):
+    """Insert the chapter headings an OpenPecha version of the same text
+    carries as their own segments: each goes before the block where the
+    next non-heading segment begins (located by letter projection)."""
+    m = ctx.op(hs["text_id"])
+    text = "\n".join(it["text"] for it in items)
+    offs, pos = [], 0
+    for i, it in enumerate(items):
+        offs.append((i, pos, pos + len(it["text"])))
+        pos += len(it["text"]) + 1
+    proj = Projector(m["content"], text)
+    segs = m["segments"]
+    insert, n = {}, 0
+    for k, sgm in enumerate(segs):
+        clean = m["content"][sgm["start"]:sgm["end"]].strip().strip("\u200e")
+        if not re.fullmatch(hs["pattern"], clean):
+            continue
+        n += 1
+        nxt = next((x for x in segs[k + 1:] if not re.fullmatch(
+            hs["pattern"], m["content"][x["start"]:x["end"]].strip())), None)
+        sp = proj.span(nxt["start"], nxt["end"]) if nxt else None
+        hit = next((i for i, s, e in offs if sp and s <= sp[0] < e), None)
+        if hit is None:
+            rep.setdefault("unplaced_headings", []).append(clean)
+            continue
+        insert.setdefault(hit, []).append({"kind": "heading", "path": str(n), "title": clean,
+                                           "source": {"openpecha_text": hs["text_id"],
+                                                      "openpecha_segment": sgm["id"]}})
+    out = []
+    for i, it in enumerate(items):
+        out += insert.get(i, [])
+        out.append(it)
+    rep["headings"] = sum(len(v) for v in insert.values())
+    return out
 
 
 def _align_via(ctx, spec, items, rep):
@@ -210,13 +250,14 @@ def adapt_parallel(ctx, spec, rep):
     the splits agree); rows sharing a first target are kept as lines of one
     block; every target is transcluded."""
     tgt = spec["target"]
-    idx = ctx.index(tgt)
     rows_r = _row_lines(ctx, spec["pair"]["root_rows"])
     rows_o = _row_lines(ctx, spec["pair"]["other"])
     comments = ctx.docx(spec["pair"]["other"])["comments"]
+    mapper = RowMapper(ctx, tgt, [r["text"] for r in rows_r])
     n = max(len(rows_r), len(rows_o))
-    blocks, order, hint = {}, [], 0
+    blocks, order = {}, []
     unmapped, root_only, raw_pairs = [], [], []
+    last = None
     for i in range(n):
         r = rows_r[i] if i < len(rows_r) else None
         o = rows_o[i] if i < len(rows_o) else None
@@ -226,24 +267,31 @@ def adapt_parallel(ctx, spec, rep):
             if rt.strip():
                 root_only.append(i + 1)
             continue
-        ids = []
-        if rt.strip():
-            ids, hint = idx.find(rt, hint)
-            ids = ids or []
+        ids = mapper.ids(i) if rt.strip() else []
         raw_pairs.append({"row": i + 1, "root_row_text": rt, "targets": ids})
+        flag = None
         if not ids:
-            unmapped.append({"row": i + 1, "text": ot})
-            continue
-        key = ids[0]
+            # never drop text: keep the row as a further line of the previous
+            # block, flagged for review
+            if last is None:
+                unmapped.append({"row": i + 1, "text": ot, "kept": False})
+                continue
+            unmapped.append({"row": i + 1, "text": ot, "kept_in_block": last})
+            key, flag = last, "row has no located counterpart; kept with the preceding block"
+        else:
+            key = ids[0]
         if key not in blocks:
             blocks[key] = {"kind": "block", "text": "", "id": key, "targets": [], "lines": [],
                            "source": {"doc": spec["pair"]["other"], "rows": []}, "annotations": [],
                            "comments": []}
             order.append(key)
+        last = key
         b = blocks[key]
         off = sum(len(x) + 1 for x in b["lines"])
         b["lines"].append(ot.strip())
         b["source"]["rows"].append(i + 1)
+        if flag:
+            b["source"].setdefault("flags", []).append({"row": i + 1, "flag": flag})
         for t in ids:
             if t not in b["targets"]:
                 b["targets"].append(t)
@@ -284,6 +332,46 @@ def explode_lines(para):
             for i, q in enumerate(out)]
 
 
+class RowMapper:
+    """Map the rows of a root-side split onto a built target's block ids.
+
+    First by sequential letter projection of the whole split onto the
+    target (robust to small corrections made in one version only), then by
+    order-free letter search (for splits whose rows were reordered)."""
+
+    def __init__(self, ctx, target, rows):
+        self.rows = rows
+        tblocks = ctx.works[target]["blocks"]
+        ttext = self.ttext = "\n".join(t for _, t in tblocks)
+        self.toffs, pos = [], 0
+        for bid, t in tblocks:
+            self.toffs.append((bid, pos, pos + len(t)))
+            pos += len(t) + 1
+        rtext = "\n".join(rows)
+        self.roffs, pos = [], 0
+        for r in rows:
+            self.roffs.append((pos, pos + len(r)))
+            pos += len(r) + 1
+        self.proj = Projector(rtext, ttext)
+        self.idx = ctx.index(target)
+        self.hint = 0
+
+    def ids(self, i):
+        sp = self.proj.span(*self.roffs[i])
+        if sp:
+            out = []
+            for bid, s, e in self.toffs:
+                if s < sp[1] and e > sp[0]:
+                    # count only blocks that receive a real share of the row
+                    share = len(letters_only(self.ttext[max(s, sp[0]):min(e, sp[1])]))
+                    if share >= min(3, len(letters_only(self.rows[i]))):
+                        out.append(bid)
+            if out:
+                return out
+        ids, self.hint = self.idx.find(self.rows[i], self.hint)
+        return ids or []
+
+
 def _heading_level(spec, para):
     """Heading level by the document legend: {colour: level} plus optional
     {"<colour>+bold": level} and {"style:<name>": level}."""
@@ -308,6 +396,8 @@ def adapt_ref_commentary(ctx, spec, rep):
     split where an internal line starts with a reference."""
     doc = ctx.docx(spec["text"])
     refs_mode = spec.get("refs", "align")          # align | candidate | none
+    ref_style = spec.get("ref_style", "dotted")
+    ref_map = build_ref_map(ctx, spec["ref_map"], spec["target"], rep) if spec.get("ref_map") else None
     legend = spec.get("legend")
     lemma = set(spec.get("lemma_colours") or [])
     items, heads = [], [0, 0]
@@ -317,12 +407,27 @@ def adapt_ref_commentary(ctx, spec, rep):
     paras = doc["paragraphs"]
     if spec.get("split_lines"):
         paras = [q for p in paras for q in explode_lines(p)]
+    excluded = []
     for p in paras:
         if not p["text"].strip():
             continue
         if title_para is not None and p["index"] == title_para:
+            rep["title_text"] = p["text"]
+            continue
+        ex = next((e for e in spec.get("exclude_paragraphs") or []
+                   if re.match(e["regex"], p["text"].strip())), None)
+        if ex:
+            excluded.append({"paragraph": p["index"], "text": p["text"], "reason": ex["reason"]})
             continue
         lvl = _heading_level(spec, p)
+        if lvl and spec.get("heading_numbers"):
+            mnum = re.match(r"^\s*(\d+(?:\.\d+)*)\.?", p["text"])
+            if mnum:
+                items.append({"kind": "heading", "path": mnum.group(1), "title": p["text"],
+                              "source": {"doc": spec["text"], "paragraph": p["index"],
+                                         "annotations": formatted_runs(p, legend)}})
+                continue
+            rep.setdefault("warnings", []).append(f"heading without outline number, paragraph {p['index']}")
         if lvl:
             if lvl == 1 or heads[0] == 0:
                 heads = [heads[0] + 1, 0]
@@ -341,7 +446,7 @@ def adapt_ref_commentary(ctx, spec, rep):
         lines = p["text"].split("\n")
         segs, cur, off = [], None, 0
         for li, line in enumerate(lines):
-            refs, prefix, rest = parse_ref_prefix(line) if refs_mode != "none" else (None, "", line)
+            refs, prefix, rest = parse_ref_prefix(line, ref_style) if refs_mode != "none" else (None, "", line)
             if cur is None or refs:
                 cur = {"lines": [], "refs": refs, "prefix": prefix, "start": off, "line": li}
                 segs.append(cur)
@@ -369,7 +474,16 @@ def adapt_ref_commentary(ctx, spec, rep):
                                **({"auto_number": auto} if k == 0 and auto else {})},
                     "annotations": ann}
             if refs:
-                if refs_mode == "align":
+                if refs_mode == "align" and ref_map is not None:
+                    item["source"]["refs"] = refs
+                    tg = []
+                    for r in refs:
+                        if r not in ref_map:
+                            rep.setdefault("unresolved_refs", []).append(r)
+                        tg += [t for t in ref_map.get(r, []) if t not in tg]
+                    item["targets"] = sorted(tg, key=lambda x: int(x) if x.isdigit() else x)
+                    n_refs += 1
+                elif refs_mode == "align":
                     item["targets"] = [str(r) for r in refs]
                     n_refs += 1
                 else:
@@ -392,9 +506,185 @@ def adapt_ref_commentary(ctx, spec, rep):
                 "candidate_refs": len(candidates),
                 "lemma_blocks": sum(1 for i in items if i.get("role") == "lemma")})
     extra = {}
+    if ref_map is not None:
+        extra["ref_map"] = {"doc": spec["ref_map"]["doc"], "style": spec["ref_map"].get("style", "typed"),
+                            "map": {str(k): v for k, v in sorted(ref_map.items())}}
+    if excluded:
+        extra["excluded_paragraphs"] = excluded
+        rep["excluded_paragraphs"] = len(excluded)
     if spec.get("tsadrel"):
         extra["tsadrel"] = tsadrel_crosscheck(ctx, spec, items, rep)
+    if spec.get("overlays"):
+        extra["overlay_summary"] = apply_overlays(ctx, spec, items, rep)
     return items, extra
+
+
+def build_ref_map(ctx, rm, target, rep):
+    """Concordance from a reference numbering to the target's block ids.
+
+    rm = {doc: <docx whose paragraphs carry the numbers>,
+          style: typed | auto}  — typed: '  12. text'; auto: Word list number.
+    Each numbered paragraph is located in the target by its letters."""
+    doc = ctx.docx(rm["doc"])
+    idx = ctx.index(target)
+    out, hint, missing = {}, 0, []
+    for p in doc["paragraphs"]:
+        if not p["text"].strip():
+            continue
+        if rm.get("style", "typed") == "auto":
+            n = (p["numbering"] or {}).get("value")
+            text = p["text"]
+        else:
+            refs, _, text = parse_ref_prefix(p["text"])
+            n = refs[0] if refs and len(refs) == 1 else None
+        if n is None:
+            continue
+        ids, hint = idx.find(text, hint)
+        if ids:
+            out[n] = ids
+        else:
+            missing.append(n)
+    # A number that could not be located by its letters (its row carries a
+    # later correction) but whose neighbours both were, takes the target ids
+    # lying strictly between them. Recorded as inferred, never silent.
+    order = [b for b, _ in ctx.works[target]["blocks"]]
+    pos = {b: i for i, b in enumerate(order)}
+    inferred = {}
+    for n in list(missing):
+        if n - 1 in out and n + 1 in out:
+            lo = max(pos[b] for b in out[n - 1])
+            hi = min(pos[b] for b in out[n + 1])
+            between = order[lo + 1:hi]
+            if between:
+                out[n] = between
+                inferred[n] = between
+                missing.remove(n)
+    key = f"ref_map:{rm['doc'].split('/')[-1]}"
+    rep[key] = {"numbers": len(out), "unlocated": missing, "inferred_by_position": inferred}
+    return out
+
+
+def _item_text_index(items):
+    """Concatenated block text with (item index, start, end) offsets."""
+    parts, offs, pos = [], [], 0
+    for i, it in enumerate(items):
+        if it["kind"] != "block":
+            continue
+        t = it["text"]
+        offs.append((i, pos, pos + len(t)))
+        parts.append(t)
+        pos += len(t) + 1
+    return "\n".join(parts), offs
+
+
+def _locate_span(offs, start, end):
+    hits = []
+    for i, s, e in offs:
+        if s < end and e > start:
+            hits.append((i, max(start, s) - s, min(end, e) - s))
+    return hits
+
+
+def apply_overlays(ctx, spec, items, rep):
+    """Carry secondary human layers onto the built blocks (sidecar only):
+      openpecha_alignment — an OpenPecha alignment of the same text
+      openpecha_notes     — OpenPecha durchen (variant readings)
+      refs_doc            — another doc of the same text with its own refs
+      formatting          — runs (e.g. italics) from another version
+    Every unplaced item is counted in the report, never guessed."""
+    text, offs = _item_text_index(items)
+    out = {}
+    for ov in spec.get("overlays") or []:
+        typ = ov["type"]
+        if typ in ("openpecha_alignment", "openpecha_notes"):
+            m = ctx.op(ov["text_id"])
+            proj = Projector(m["content"], text)
+            placed = lost = 0
+            if typ == "openpecha_notes":
+                for n in m["notes"]:
+                    sp = proj.span(n["start"], n["end"])
+                    hits = _locate_span(offs, *sp) if sp else []
+                    if not hits:
+                        lost += 1
+                        continue
+                    i, s, e = hits[0]
+                    items[i].setdefault("annotations", []).append(
+                        {"start": s, "end": e, "layer": "variant_note", "note": n["note"],
+                         "reading": m["content"][n["start"]:n["end"]], "openpecha_id": n["id"],
+                         "openpecha_text": ov["text_id"]})
+                    placed += 1
+            else:
+                root_key = ov.get("root", spec.get("root_work"))
+                root_text = "\n".join(t for _, t in ctx.works[root_key]["blocks"])
+                rproj = Projector(ctx.op(m["alignment"]["parent_text"])["content"], root_text)
+                roffs, pos = [], 0
+                for bid, t in ctx.works[root_key]["blocks"]:
+                    roffs.append((bid, pos, pos + len(t)))
+                    pos += len(t) + 1
+                agree = 0
+                for pr in m["alignment"]["pairs"]:
+                    sp = proj.span(pr["start"], pr["end"])
+                    rsp = rproj.span(pr["target_start"], pr["target_end"])
+                    hits = _locate_span(offs, *sp) if sp else []
+                    rids = [b for b, s, e in roffs if rsp and s < rsp[1] and e > rsp[0]]
+                    if not hits or not rids:
+                        lost += 1
+                        continue
+                    for i, s, e in hits:
+                        items[i].setdefault("overlays", []).append(
+                            {"layer": "openpecha_alignment", "openpecha_id": pr["id"],
+                             "root_ids": rids, "start": s, "end": e})
+                        if set(rids) & set(items[i].get("targets") or []):
+                            agree += 1
+                    placed += 1
+                out.setdefault("openpecha_alignment_agreement", agree)
+            rep[f"overlay:{typ}:{ov['text_id']}"] = {"placed": placed, "unplaced": lost,
+                                                      "projection": proj.stats}
+        elif typ == "refs_doc":
+            doc = ctx.docx(ov["doc"])
+            rmap = build_ref_map(ctx, ov["ref_map"], spec["target"], rep)
+            bidx = LetterIndex([(str(i), items[i]["text"]) for i, _, _ in offs])
+            placed = lost = 0
+            hint = 0
+            for p in doc["paragraphs"]:
+                refs, prefix, rest = parse_ref_prefix(p["text"], ov.get("ref_style", "dotted"))
+                if not refs:
+                    continue
+                bids, hint = bidx.find(rest, hint)
+                if not bids:
+                    lost += 1
+                    continue
+                tg = sorted({t for r in refs for t in rmap.get(r, [])}, key=lambda x: int(x) if x.isdigit() else x)
+                for b in bids:
+                    items[int(b)].setdefault("overlays", []).append(
+                        {"layer": ov.get("label", "refs_doc"), "refs": refs, "root_ids": tg,
+                         "doc": ov["doc"], "paragraph": p["index"]})
+                placed += 1
+            rep[f"overlay:refs_doc:{ov.get('label', '')}"] = {"placed": placed, "unplaced": lost}
+        elif typ == "formatting":
+            doc = ctx.docx(ov["doc"])
+            src = "\n".join(p["text"] for p in doc["paragraphs"])
+            proj = Projector(src, text)
+            keep = set(ov.get("keep") or ["italic"])
+            pos = placed = lost = 0
+            for p in doc["paragraphs"]:
+                for r in formatted_runs(p, ov.get("legend")):
+                    if not keep & {k for k in r if r[k] is True or k in ("color", "highlight")}:
+                        continue
+                    sp = proj.span(pos + r["start"], pos + r["end"])
+                    hits = _locate_span(offs, *sp) if sp else []
+                    if not hits:
+                        lost += 1
+                        continue
+                    for i, s, e in hits:
+                        items[i].setdefault("annotations", []).append(
+                            dict({k: v for k, v in r.items() if k not in ("start", "end")},
+                                 start=s, end=e, layer=f"formatting from {ov['doc'].split('/')[-1]}"))
+                    placed += 1
+                pos += len(p["text"]) + 1
+            rep[f"overlay:formatting:{ov['doc'].split('/')[-1]}"] = {"placed": placed, "unplaced": lost,
+                                                                    "projection": proj.stats}
+    return out
 
 
 def tsadrel_crosscheck(ctx, spec, items, rep):
@@ -454,9 +744,21 @@ def adapt_op_translation(ctx, spec, rep):
         ids = [b for b, s, e in offs if sp and s < sp[1] and e > sp[0]]
         by_seg.setdefault((pr["start"], pr["end"]), []).extend(x for x in ids if x not in by_seg.get((pr["start"], pr["end"]), []))
     blocks, order, unmapped = {}, [], []
+    heads, pending_head, n_head = [], None, 0
+    title_re = spec.get("title_pattern")
+    head_re = spec.get("heading_pattern")
     for sgm in m["segments"]:
         text = m["content"][sgm["start"]:sgm["end"]]
         if not text.strip():
+            continue
+        clean = text.strip().strip("\u200e")
+        if title_re and re.fullmatch(title_re, clean):
+            rep["title_segment"] = clean
+            continue
+        if head_re and re.fullmatch(head_re, clean):
+            n_head += 1
+            pending_head = {"kind": "heading", "path": str(n_head), "title": clean,
+                            "source": {"openpecha_segment": sgm["id"]}}
             continue
         ids = by_seg.get((sgm["start"], sgm["end"]), [])
         if not ids:
@@ -467,16 +769,23 @@ def adapt_op_translation(ctx, spec, rep):
             blocks[key] = {"kind": "block", "id": key, "lines": [], "targets": [],
                            "source": {"openpecha_segments": []}}
             order.append(key)
+        if pending_head:
+            heads.append((key, pending_head))
+            pending_head = None
         b = blocks[key]
         b["lines"].append(text.strip())
         b["source"]["openpecha_segments"].append({"id": sgm["id"], "start": sgm["start"], "end": sgm["end"]})
         b["targets"] += [i for i in ids if i not in b["targets"]]
     items = []
+    head_at = dict(heads)
     for key in sorted(order, key=lambda k: int(k) if k.isdigit() else k):
         b = blocks[key]
         b["text"] = "\n".join(b.pop("lines"))
+        if key in head_at:
+            items.append(head_at[key])
         items.append(b)
-    rep.update({"blocks": len(items), "openpecha_segments": len(m["segments"]),
+    rep["headings"] = len(heads)
+    rep.update({"blocks": len(items) - len(heads), "openpecha_segments": len(m["segments"]),
                 "unmapped_segments": unmapped, "projection": proj.stats})
     return items, {"openpecha": {"text_id": m["text_id"], "instance_id": m["instance_id"],
                                  "alignment_annotation": m["alignment"]["annotation_id"]}}
@@ -515,6 +824,7 @@ def build(manifest_path, vault, only=None, dry=False, out=None):
     manifest = yaml.safe_load(pathlib.Path(manifest_path).read_text(encoding="utf-8"))
     ctx = Ctx(manifest, vault)
     sidecar_dir = manifest.get("sidecar_dir", "1-SOURCES/Annotations")
+    built = []
     for spec in manifest["works"]:
         key = spec["key"]
         rep = {"key": key, "path": spec["path"], "adapter": spec["adapter"]}
@@ -527,14 +837,12 @@ def build(manifest_path, vault, only=None, dry=False, out=None):
                         "date": datetime.date.today().isoformat(),
                         "annotations": f"{sidecar_dir}/{pathlib.Path(spec['path']).stem}.annotations.json"}
         target_path = ctx.works[spec["target"]]["path"] if spec.get("target") else None
-        work = {"path": spec["path"], "frontmatter": fm, "title": spec["title"],
+        work = {"path": spec["path"], "frontmatter": fm, "title": rep.get("title_text") or spec["title"],
                 "id_scheme": spec.get("id_scheme", "flat"), "target_file": target_path,
                 "sidecar": f"{sidecar_dir}/{pathlib.Path(spec['path']).stem}.annotations.json",
                 "items": items,
                 "extra": {"legend": spec.get("legend"), "notes": spec.get("notes"), **extra}}
-        ids = []
-        if not dry:
-            vault_writer.render(work, out or vault)
+        built.append(work)
         # remember the rendered block ids for later works
         blocks = _rendered_blocks(work)
         ctx.works[key] = {"path": spec["path"], "blocks": blocks}
@@ -543,7 +851,37 @@ def build(manifest_path, vault, only=None, dry=False, out=None):
         ctx.report.append(rep)
         print(f"{key:28s} {spec['adapter']:15s} blocks={rep.get('blocks')} "
               f"transclusions={rep['transclusions']} -> {spec['path']}", file=sys.stderr)
+    link_works(ctx, built)
+    if not dry:
+        for work in built:
+            vault_writer.render(work, out or vault)
     return ctx
+
+
+def link_works(ctx, built):
+    """Fill the structural map About Sources.md §10 requires: related_* lists
+    on every file something derives from, covers_verses on every derived file
+    (first–last target id it transcludes, in the target's own order)."""
+    by_path = {w["path"]: w for w in built}
+    order = {w["path"]: {} for w in built}
+    for key, w in ctx.works.items():
+        order[w["path"]] = {b: i for i, (b, _) in enumerate(w["blocks"])}
+    for w in built:
+        fm = w["frontmatter"]
+        root = fm.get("root_text")
+        if not root or root not in by_path:
+            continue
+        rfm = by_path[root]["frontmatter"]
+        field = "related_commentaries" if fm.get("file_type") == "commentary" else "related_translations"
+        rfm.setdefault(field, [])
+        if w["path"] not in rfm[field]:
+            rfm[field].append(w["path"])
+        if w.get("target_file") == root:
+            pos = order[root]
+            tg = sorted({t for it in w["items"] if it["kind"] == "block" for t in it.get("targets") or []
+                         if t in pos}, key=lambda t: pos[t])
+            if tg:
+                fm["covers_verses"] = f"{tg[0]}–{tg[-1]}"
 
 
 def _rendered_blocks(work):

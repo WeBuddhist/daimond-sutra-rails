@@ -1,0 +1,660 @@
+# Intake manifest — Diamond Sūtra corpus
+#
+# Read by 4-SYSTEM/Skills/aligned-corpus-intake/scripts/build_sources.py.
+# One entry per work to produce, in build order (a work can only align to a
+# work listed above it). Paths under `text`, `pair`, `tsadrel`, `align_via`
+# are relative to raw_root. Every value here was taken from the raw data:
+# the Dzongsar metadata sheets, the OpenPecha text.json files, and the docs
+# themselves — see 0-INBOX/dzongsar-drive-inventory.md and
+# 0-INBOX/openpecha-api-inventory.md. An empty value means "not recorded
+# upstream", never "unknown to the converter".
+#
+# Colour legends were established by reading each document (2026-10-02);
+# they are recorded per work so the sidecar labels every coloured run.
+
+raw_root: 0-INBOX/raw-data
+openpecha_root: openpecha-api
+sidecar_dir: 1-SOURCES/Annotations
+
+x-paths:
+  DZ: &DZ dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/
+  MD: &MD dzongsar-drive/Dzongsar_missing_diamond/Diamond/
+
+works:
+
+# ── Tibetan root ────────────────────────────────────────────────────────────
+- key: bo-root
+  path: 1-SOURCES/Text/bo-vajracchedika.md
+  adapter: rows
+  id_scheme: flat
+  text: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/G_Segment_Source/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Tsadel.docx"
+  title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
+  frontmatter:
+    title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
+    alt_titles:
+      - འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ།
+      - རྡོ་རྗེ་གཅོད་པ།
+      - རྡོ་རྗེ་སུམ་བརྒྱ་པའམ་རྡོ་རྗེ་གཅོད་པ།
+    title_in_english: The Diamond Sūtra (Vajracchedikā Prajñāpāramitā Sūtra)
+    author: སྟོན་པ་བཅོམ་ལྡན་འདས།
+    language: Tibetan
+    lang_tag: bo
+    file_type: root-text
+    verse_id_format: verse
+    category_id:
+    license: public
+    source: https://docs.google.com/document/d/1uISaW2HYeS3vCPeAhiDTn-RmwDkM1B7kvhMGTEPyfp0/edit
+    edition_type:
+    bdrc_work_id: WA0RK0016
+    other_ids:
+      - "BDRC (Dzongsar metadata): WA1KG12670"
+      - "Dzongsar: M42AE7A72"
+      - "OpenPecha: OQLxJCPiXhRTJK9yiTviM"
+    source_description: "Dzongsar Tsadel (sentence segmentation) Google Doc of the Kangyur Diamond Sūtra, 430 human-segmented rows; block ^N is row N. Same text as OpenPecha OQLxJCPiXhRTJK9yiTviM (bdrc.io, 207 coarser segments) apart from two short insertions."
+    text_id:
+    edition_id:
+    toc_id:
+
+# ── Chinese root text (Kumārajīva) ──────────────────────────────────────────
+- key: lzh-kumarajiva
+  path: 1-SOURCES/Translations/lzh-kumarajiva.md
+  adapter: numbered
+  id_scheme: flat
+  target: bo-root
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D6__MFF4994FD金剛波羅蜜經.docx"
+  align_via:
+    root_rows: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/G_Segment_Source/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Tsadel.docx"
+    other: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx"
+  headings_from_openpecha: {text_id: i5gV2cTZzE5NEl4DObMKu, pattern: "〔.+分第.+〕"}
+  extra_raw: [openpecha-api/texts/i5gV2cTZzE5NEl4DObMKu/text.json]
+  title: 金剛般若波羅蜜經
+  notes: >-
+    The 32 〔…分第N〕 chapter headings are not in MFF4994FD; they come from the
+    OpenPecha version of the same translation (i5gV2cTZzE5NEl4DObMKu), placed
+    before the block where that version's next segment begins.
+    The 127 auto-numbered paragraphs of MFF4994FD are the human segment numbers
+    every Chinese commentary in this corpus refers to with typed prefixes
+    ("12.", "4-12."). Block ^N is segment N. Transclusions to the Tibetan root
+    come from the Chinese-Tibetan Tsawa doc, which re-splits this same text
+    into Tibetan sentence rows (10 passages reordered to Tibetan order).
+  frontmatter:
+    title: 金剛般若波羅蜜經
+    alt_titles: [金剛經]
+    translator: 後秦 鳩摩羅什譯
+    language: Classical Chinese
+    lang_tag: lzh
+    file_type: translation
+    root_text: 1-SOURCES/Text/bo-vajracchedika.md
+    verse_id_format: verse
+    category_id:
+    license: public
+    source: https://docs.google.com/document/d/1WFgm_fjDCuNeMm5XLn79DU21OtwiBP1bArV9T2PhwIs/edit
+    cbeta_id: T0235
+    source_url: https://cbetaonline.dila.edu.tw/zh/T0235_001
+    other_ids: ["Dzongsar: MFF4994FD"]
+    source_description: "Dzongsar Google Doc MFF4994FD金剛波羅蜜經 — Kumārajīva's translation (CBETA T0235) in 127 human-numbered segments; segments 126–127 are the 真言 and mantra."
+    text_id:
+    edition_id:
+    toc_id:
+
+- key: lzh-kumarajiva-bo
+  path: 1-SOURCES/Translations/lzh-kumarajiva-tibetan-order.md
+  adapter: parallel
+  id_scheme: flat
+  target: bo-root
+  pair:
+    root_rows: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/G_Segment_Source/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Tsadel.docx"
+    other: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa.docx"
+  title: 金剛般若波羅蜜經
+  notes: >-
+    The human Chinese–Tibetan alignment exactly as made: Kumārajīva's text
+    re-split into the Tibetan sentence rows, with 10 passages moved into Tibetan
+    order. Block ^N renders Tibetan row ^N (identity alignment). The same text
+    in Chinese order with its own numbering is lzh-kumarajiva.md.
+  frontmatter:
+    title: 金剛般若波羅蜜經
+    alt_titles: [金剛經]
+    translator: 後秦 鳩摩羅什譯
+    language: Classical Chinese
+    lang_tag: lzh
+    file_type: translation
+    root_text: 1-SOURCES/Text/bo-vajracchedika.md
+    edition_of: 1-SOURCES/Translations/lzh-kumarajiva.md
+    verse_id_format: verse
+    category_id:
+    license: public
+    source: https://docs.google.com/document/d/12wVNIm5bhbjJIB87uEHXEux9xv0qjXhKfFqyPkZUCQU/edit
+    cbeta_id: T0235
+    other_ids: ["Dzongsar: M42AE7A72 (Chinese Tsawa Align)"]
+    source_description: "Dzongsar Google Doc 'M42AE7A72 金剛般若波羅蜜經 - Chinese-Tibetan Tsawa', aligned row for row to the Tibetan Tsadel."
+    text_id:
+    edition_id:
+    toc_id:
+
+- key: zh-baihua
+  path: 1-SOURCES/Translations/zh-baihua.md
+  adapter: op_translation
+  id_scheme: flat
+  target: lzh-kumarajiva
+  openpecha_text: gmqBB9aIgbuZhaFDK8s9m
+  title_pattern: "《金剛般若波羅蜜經》"
+  heading_pattern: "〔.+分第.+〕"
+  extra_raw: [openpecha-api/texts/gmqBB9aIgbuZhaFDK8s9m/text.json, openpecha-api/texts/CudRcM2Y8ZUlGY55GP0cg/text.json]
+  title: 《金剛般若波羅蜜經》白話
+  notes: >-
+    OpenPecha gmqBB9aIgbuZhaFDK8s9m, aligned upstream 112↔112 to the OpenPecha
+    Kumārajīva text (i5gV2cTZzE5NEl4DObMKu), which is projected onto the MFF
+    segments here. CudRcM2Y8ZUlGY55GP0cg is the same text (2 characters differ)
+    filed upstream as a translation of the Tibetan with no alignment; not
+    ingested separately.
+  frontmatter:
+    title: 《金剛般若波羅蜜經》白話
+    translator:
+    language: Chinese
+    lang_tag: zh
+    file_type: translation
+    root_text: 1-SOURCES/Translations/lzh-kumarajiva.md
+    verse_id_format: verse
+    category_id:
+    license: unknown
+    source: https://api-aq25662yyq-uc.a.run.app/v2/texts/gmqBB9aIgbuZhaFDK8s9m
+    source_description: "OpenPecha backend text gmqBB9aIgbuZhaFDK8s9m (source 'unknown'), modern vernacular rendering of Kumārajīva's text."
+    text_id:
+    edition_id:
+    toc_id:
+
+- key: lzh-bodhiruci
+  path: 1-SOURCES/Translations/lzh-bodhiruci.md
+  adapter: rows
+  id_scheme: flat
+  text: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/H_Root_text/R434373A0金剛波羅蜜經 Root text Tsadrel.docx"
+  title: 金剛般若波羅蜜經
+  notes: >-
+    Bodhiruci's translation as laid out in the root column of the R434373A0
+    Tsadrel; block ^N is row N of that doc (rows are the commentary's lemma
+    split, so the numbering has gaps). No human alignment to the Tibetan exists.
+  frontmatter:
+    title: 金剛般若波羅蜜經
+    translator: 元魏 菩提流支譯
+    language: Classical Chinese
+    lang_tag: lzh
+    file_type: translation
+    root_text: 1-SOURCES/Text/bo-vajracchedika.md
+    alignment: none
+    verse_id_format: verse
+    category_id:
+    license: public
+    source: https://docs.google.com/document/d/1B7UlbkpSJECu_0zf33ie8tjbE_BF1JZK0cXLeW8tHBE/edit
+    cbeta_id: T0236a
+    source_description: "Root column of the Dzongsar 'R434373A0 金剛波羅蜜經 Root text Tsadrel' doc (Bodhiruci's translation, CBETA T0236a)."
+    text_id:
+    edition_id:
+    toc_id:
+
+# ── Chinese commentaries (typed references to the MFF segment numbers) ─────
+- key: lzh-huineng
+  path: 1-SOURCES/Commentaries/lzh-huineng-jieyi.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D12__R2A8AD21D金剛經解義/R2A8AD21D金剛經解義.docx"
+  title_paragraph: 0
+  headings: {"0000a0": 1}
+  lemma_colours: ["4a86e8"]
+  legend: {"4a86e8": "root lemma", "0000a0": "title / 分 chapter heading", "ff0000": "flagged character", "428bca": "hyperlinked character"}
+  tsadrel:
+    root_rows: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/H_Root_text/R2A8AD21D金剛般若波羅蜜經 - Root text Tsadrel.docx"
+    other: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/R2A8AD21D金剛經解義-Commentary Tsadrel Alignment.docx"
+  title: 金剛經解義
+  frontmatter: &zhcomm
+    title: 金剛經解義
+    author: 唐 慧能說
+    registered_id: huineng-jieyi
+    language: Classical Chinese
+    lang_tag: lzh
+    file_type: commentary
+    root_text: 1-SOURCES/Translations/lzh-kumarajiva.md
+    verse_id_format: section-paragraph
+    category_id:
+    license: public
+    source: https://docs.google.com/document/d/18Pl2OGDcfHTUCwcbaQl32-6so_EjvhdbcKgB9wsdpEI/edit
+    cbeta_id: X0459
+    other_ids: ["Dzongsar: R2A8AD21D", "OpenPecha: SoWrvGSigom4RZe1EENev"]
+    source_description: "Dzongsar Google Doc R2A8AD21D金剛經解義 (full text with typed MFF segment references); row-level alignment from its Tsadrel pair kept in the sidecar."
+    text_id:
+    edition_id:
+    toc_id:
+
+- key: lzh-vasubandhu-lun
+  path: 1-SOURCES/Commentaries/lzh-vasubandhu-lun.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D8__R434373A0金剛般若波羅蜜經論.docx"
+  title_paragraph: 0
+  lemma_colours: ["4a86e8"]
+  legend: {"4a86e8": "root lemma (Bodhiruci wording)"}
+  tsadrel:
+    root_rows: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/H_Root_text/R434373A0金剛波羅蜜經 Root text Tsadrel.docx"
+    other: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/R434373A0金剛般若波羅蜜經論 - Commentary Tsadrel Alignment.docx"
+  title: 金剛般若波羅蜜經論
+  notes: >-
+    Comments on Bodhiruci's translation (lzh-bodhiruci.md); its typed references
+    use the MFF (Kumārajīva) segment numbers, so it is aligned to lzh-kumarajiva.
+    The Tsadrel root column is Bodhiruci and is cross-checked by letters only
+    where the two translations share wording.
+  frontmatter:
+    <<: *zhcomm
+    title: 金剛般若波羅蜜經論
+    author: 天親 (Vasubandhu) [bdrc:P6119]
+    translator: 元魏 菩提流支譯
+    registered_id: vasubandhu-lun
+    source: https://docs.google.com/document/d/1B7UlbkpSJECu_0zf33ie8tjbE_BF1JZK0cXLeW8tHBE/edit
+    cbeta_id: T1511
+    other_ids: ["Dzongsar: R434373A0", "OpenPecha: gRRECLslNb5yg3Hg7lBpX"]
+    source_description: "Dzongsar Google Doc R434373A0金剛般若波羅蜜經論 (full text with typed MFF segment references)."
+
+- key: lzh-asanga-lun
+  path: 1-SOURCES/Commentaries/lzh-asanga-lun.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D10__R43644D12金剛般若波羅蜜經論 Table of Content.docx"
+  title_paragraph: 1
+  lemma_colours: ["4a86e8"]
+  legend: {"4a86e8": "root lemma under 經曰 (Bodhiruci wording)"}
+  title: 金剛般若波羅蜜經論
+  frontmatter:
+    <<: *zhcomm
+    title: 金剛般若波羅蜜經論
+    author: 無著 (Asaṅga) [bdrc:P6117]
+    registered_id: asanga-lun
+    source: https://drive.google.com/open?id=1SdZj_tFj0-ZeBSbBD20_7-drDBpKm8k_mJy34Tx64k0
+    cbeta_id: T1510b
+    other_ids: ["Dzongsar: R43644D12"]
+    source_description: "Dzongsar Google Doc 'R43644D12金剛般若波羅蜜經論 Table of Content' (despite the name, the full commentary with typed MFF segment references; no Tsadrel pair)."
+
+- key: lzh-zongle-zhujie
+  path: 1-SOURCES/Commentaries/lzh-zongle-zhujie.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D9__R96396549金剛般若波羅蜜經註解/R96396549金剛般若波羅蜜經註解.docx"
+  title_paragraph: 1
+  headings: {"ff00ff": 1}
+  lemma_colours: ["4a86e8"]
+  legend: {"4a86e8": "root lemma", "ff00ff": "斷疑 heading (27 doubts)"}
+  tsadrel:
+    root_rows: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D9__R96396549金剛般若波羅蜜經註解/R96396549金剛般若波羅蜜經- Root text Tsadrel.docx"
+    other: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D9__R96396549金剛般若波羅蜜經註解/R96396549金剛般若波羅蜜經註解 - Commentary Tsadrel Alignment.docx"
+  title: 金剛般若波羅蜜經註解
+  frontmatter:
+    <<: *zhcomm
+    title: 金剛般若波羅蜜經註解
+    author: 明 宗泐．如玘同註
+    registered_id: zongle-zhujie
+    source: https://docs.google.com/document/d/1kOfdz4x5FXhwKbICShS2Yhrl7OmcBjjI42NN3ReR3GE/edit
+    cbeta_id: T1703
+    other_ids: ["Dzongsar: R96396549"]
+    source_description: "Dzongsar Google Doc R96396549金剛般若波羅蜜經註解 (full text with typed MFF segment references)."
+
+- key: lzh-gunada-pojuzhe
+  path: 1-SOURCES/Commentaries/lzh-gunada-pojuzhe.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D16__R67954D57金剛般若波羅蜜經破取著不壞假名論.docx"
+  title_paragraph: 0
+  tsadrel:
+    root_rows: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D15__R67954D57金剛般若波羅蜜經破取著不壞假名論/R67954D57 金剛波羅蜜經  - Root text Tsadrel.docx"
+    other: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D15__R67954D57金剛般若波羅蜜經破取著不壞假名論/R67954D57 金剛般若波羅蜜經破取著不壞假名論-Commentary Tsadrel Alignment.docx"
+  title: 金剛般若波羅蜜經破取著不壞假名論
+  frontmatter:
+    <<: *zhcomm
+    title: 金剛般若波羅蜜經破取著不壞假名論
+    author: 功德施菩薩造
+    translator: 唐 地婆訶羅等譯
+    registered_id: gunada-pojuzhe
+    source: https://docs.google.com/document/d/1g6H4n4478ICMhbIzMnHcOX5PDTDg0YhXn0phAvU2mO0/edit
+    cbeta_id: T1515
+    other_ids: ["Dzongsar: R67954D57", "OpenPecha: sUjAy5TUlP0GZDGrQ25fl"]
+    source_description: "Dzongsar Google Doc R67954D57 (full text with typed MFF segment references)."
+
+- key: lzh-taixu-yimai
+  path: 1-SOURCES/Commentaries/lzh-taixu-yimai.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  text: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/R92439761 金剛般若波羅蜜經義脈.docx"
+  title_paragraph: 0
+  headings: {"ff00ff": 1}
+  legend: {"ff00ff": "科判 heading"}
+  tsadrel:
+    root_rows: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D5__MFF4994FD The Diamond Sūtra in Chinese 金剛經/Resources/R92439761 金剛般若波羅蜜經義脈/R92439761 金剛般若波羅蜜經- Root text Tsadrel.docx"
+    other: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D5__MFF4994FD The Diamond Sūtra in Chinese 金剛經/Resources/R92439761 金剛般若波羅蜜經義脈/R92439761 金剛般若波羅蜜經義脈- Commentary Tsadrel Alignment.docx"
+  title: 金剛般若波羅蜜經義脈
+  frontmatter:
+    <<: *zhcomm
+    title: 金剛般若波羅蜜經義脈
+    author: 太虛大師
+    registered_id: taixu-yimai
+    license: unknown
+    source: https://docs.google.com/document/d/1JdhV9a3Ey6jqZjwyKCR5gVNlAnGBFn8F/edit
+    cbeta_id:
+    source_url: http://big5.xuefo.com/nr/article55/549765.html
+    other_ids: ["Dzongsar: R92439761"]
+    source_description: "Dzongsar Google Doc R92439761 金剛般若波羅蜜經義脈 (typed MFF segment ranges under 科判 headings)."
+
+- key: lzh-tanxu-jiangyi
+  path: 1-SOURCES/Commentaries/lzh-tanxu-jiangyi.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D20__R2FB78325 金剛般若波羅密經講義.docx"
+  title_paragraph: 0
+  headings: {"style:Heading1": 1}
+  lemma_colours: ["4a86e8"]
+  legend: {"4a86e8": "root lemma"}
+  tsadrel:
+    root_rows: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D19__R2FB78325 金剛般若波羅密經講義/R2FB78325 金剛般若波羅密經講義- Root text Tsadrel.docx"
+    other: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D19__R2FB78325 金剛般若波羅密經講義/R2FB78325 金剛般若波羅密經講義- Commentary Tsadrel Alignment.docx"
+  title: 金剛般若波羅密經講義
+  frontmatter:
+    <<: *zhcomm
+    title: 金剛般若波羅密經講義
+    author: 湛山倓虛大師
+    registered_id: tanxu-jiangyi
+    license: unknown
+    source: https://docs.google.com/document/d/1_7qJZEpbXf6ovbkc8WbgA6gdbvghZB0p62mnSmz9cNs/edit
+    cbeta_id:
+    source_url: https://www.book853.com/show.aspx?id=890&cid=78
+    other_ids: ["Dzongsar: R2FB78325"]
+    source_description: "Dzongsar Google Doc R2FB78325 金剛般若波羅密經講義 (1945 自序; full text with typed MFF segment references)."
+
+- key: zh-hsingyun-jianghua
+  path: 1-SOURCES/Commentaries/zh-hsingyun-jianghua.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D14__R3E4D8B99金剛經講話.docx"
+  title_paragraph: 0
+  split_lines: true
+  headings: {"ff00ff": 1}
+  lemma_colours: ["4a86e8"]
+  legend: {"4a86e8": "sūtra passage (incl. 分 titles)", "ff00ff": "sub-heading"}
+  title: 金剛經講話
+  frontmatter:
+    <<: *zhcomm
+    title: 金剛經講話
+    author: 星雲大師
+    registered_id: hsingyun-jianghua
+    language: Chinese
+    lang_tag: zh
+    license: unknown
+    source: https://docs.google.com/document/d/1Wpy0dascVl1DW_qXLnXN4rsLUuXikRy2klWjzIbvJHw/edit
+    cbeta_id:
+    other_ids: ["Dzongsar: R3E4D8B99"]
+    source_description: "Dzongsar Google Doc R3E4D8B99金剛經講話 (modern Chinese; 10 typed MFF segment references; its 'Commentary Tsadrel Alignment' doc is identical to the full text and has no root pair)."
+
+- key: zh-shengyen-jiangji
+  path: 1-SOURCES/Commentaries/zh-shengyen-jiangji.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  refs: candidate
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D18__R2BF994FF 《金剛經》講記.docx"
+  title_paragraph: 0
+  headings: {"ff00ff+bold": 1, "ff00ff": 2}
+  lemma_colours: []
+  legend: {"ff00ff": "heading (bold = top level)", "4a86e8": "quoted sūtra phrase"}
+  title: 《金剛經》講記
+  notes: >-
+    Numeric prefixes here mix MFF segment references with the author's own
+    enumerations, so they are kept in the text and recorded as candidate
+    references in the sidecar; no transclusions until a human confirms them.
+  frontmatter:
+    <<: *zhcomm
+    title: 《金剛經》講記
+    author: 聖嚴法師
+    registered_id: shengyen-jiangji
+    language: Chinese
+    lang_tag: zh
+    license: unknown
+    source: https://docs.google.com/document/d/1ph2BhTInyar809Gp8YanQdcoNTFuzF3Rjkvunfl-KBE/edit
+    cbeta_id:
+    source_url: http://old.ddc.shengyen.org/mobile/toc/07/07-02-1
+    other_ids: ["Dzongsar: R2BF994FF"]
+    source_description: "Dzongsar Google Doc R2BF994FF 《金剛經》講記 (modern Chinese lecture; numbering not confirmed as alignment)."
+
+- key: lzh-jizang-shu
+  path: 1-SOURCES/Commentaries/lzh-jizang-shu.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: lzh-kumarajiva
+  refs: none
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D5__MFF4994FD The Diamond Sūtra in Chinese 金剛經/Resources/R89643BF0 金剛般若疏/R89643BF0 金剛般若疏.docx"
+  title_paragraph: 0
+  heading_patterns: [{regex: "^卷第[一二三四五六七八九十]+\\s*$", level: 1}]
+  exclude_paragraphs:
+    - {regex: "^#", reason: "CBETA edition colophon block (database provenance and free-distribution notice), repeated per fascicle; not text of the work"}
+  title: 金剛般若疏
+  frontmatter:
+    <<: *zhcomm
+    title: 金剛般若疏
+    author: 隋 吉藏撰
+    registered_id: jizang-shu
+    alignment: none
+    source: https://docs.google.com/document/d/12nc7ZffDkpyCF2Q7McDHXdnaK63KiPrOYcuj0rUhNsY/edit
+    cbeta_id: T1699
+    other_ids: ["Dzongsar: R89643BF0"]
+    source_description: "Dzongsar Google Doc R89643BF0 金剛般若疏 (4 卷, plain prose; no human alignment)."
+
+# ── Sanskrit parallel (row-paired with the Tibetan) ─────────────────────────
+- key: sa-vajracchedika
+  path: 1-SOURCES/Translations/sa-vajracchedika.md
+  adapter: parallel
+  id_scheme: flat
+  target: bo-root
+  pair:
+    root_rows: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/H_Root_text/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Tibetan-Sanskrit.docx"
+    other: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx"
+  legend: {}
+  title: वज्रच्छेदिका नाम त्रिशतिका प्रज्ञापारमिता
+  notes: >-
+    Row pairing reproduced exactly as made. From Tibetan row 229 the Sanskrit
+    column sits one row behind (e.g. T230 ཐེག་པ་མཆོག ↔ S229 अग्रयान), later two
+    (T372 ↔ S374, T428 ↔ S429): the human pairing needs review before
+    publication. Reviewer comments (Tenzin Tsering, Dec 2024) are kept in the
+    sidecar on the rows they annotate.
+  frontmatter:
+    title: वज्रच्छेदिका नाम त्रिशतिका प्रज्ञापारमिता
+    author: भगवान् बुद्धः
+    language: Sanskrit
+    lang_tag: sa
+    file_type: translation
+    root_text: 1-SOURCES/Text/bo-vajracchedika.md
+    alignment_status: needs-review
+    verse_id_format: verse
+    category_id:
+    license: unknown
+    source: https://docs.google.com/document/d/1EqG6xuFzFJasTMMovafuzLMgFpNQV9nAT3zbYDo6rxE/edit
+    gretil_url:
+    other_ids: ["Dzongsar: M42AE7A72 (Sanskrit Tsawa Align)", "GRETIL: bsu051 (listed in Dzongsar metadata)"]
+    source_description: "Dzongsar Google Doc 'M42AE7A72 … Sanskrit- Tibetan', Devanāgarī, row-paired with 'Tibetan-Sanskrit'. Original-language parallel, filed as a translation of the Tibetan because that is the alignment relation the library models."
+    text_id:
+    edition_id:
+    toc_id:
+
+# ── Tibetan commentaries (sa bcad headings + alignment numbers → ref431) ────
+- key: bo-vasubandhu
+  path: 1-SOURCES/Commentaries/bo-vasubandhu-saptartha-tika.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: bo-root
+  root_work: bo-root
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D3__E4C456D1 འཕགས་པ་བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་….docx"
+  title_paragraph: 0
+  heading_numbers: true
+  headings: {"ff0000+bold": 1, "ff0000": 1}
+  ref_style: bare
+  ref_map: &ref431
+    doc: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/It is for reference only/རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text.docx"
+    style: typed
+  lemma_colours: ["980000"]
+  legend: {"ff0000": "sa bcad heading (numbered)", "980000": "quoted root-sūtra passage", "00ff00": "closing formula after a quote (ཞེས་བྱ་བ)"}
+  overlays:
+    - {type: openpecha_notes, text_id: SNN7rW1hmwTzroG8hxrjc}
+  extra_raw:
+    - "dzongsar-drive/Dzongsar_missing_diamond/Diamond/A1__RF67A9A4E རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ། - Sentence Segm.docx"
+    - "dzongsar-drive/Dzongsar_missing_diamond/Diamond/A2__RF67A9A4E རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ། - Citation.docx"
+    - "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/C_TOC/RF67A9A4E རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ། - TOC.docx"
+    - "nalanda-printed/Va_3CE4.md"
+  title: འཕགས་པ་བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ།
+  notes: >-
+    D3 is the superset of the Sentence Segm (A1), Citation (A2) and TOC docs:
+    same sentence rows, the citation colours and bold/italic layer, 38 numbered
+    sa bcad headings, and leading alignment numbers in the 431-row reference
+    numbering, mapped here to Tsadel rows. Text bold = root-sūtra words, bold
+    italic = verses. Variant readings (Co ne) from OpenPecha SNN7rW1hmwTzroG8hxrjc
+    (= Nalanda printed edition Va_3CE4) are projected into the sidecar.
+  frontmatter: &bocomm
+    title: འཕགས་པ་བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ།
+    alt_titles: [བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ།]
+    title_in_english: The Extensive Commentary on the Seven Points of the Noble Bhagavatī Mother Prajñāpāramitā Vajracchedikā
+    author: སློབ་དཔོན་དབྱིག་གཉེན། [bdrc:P6119]
+    translator: འགོས་ལོ་ཙཱ་བ་གཞོན་ནུ་དཔལ། [bdrc:P318]; ཞྭ་ལུ་ལོ་ཙཱ་བ་ཆོས་སྐྱོང་བཟང་པོ། [bdrc:P856]
+    registered_id: vasubandhu-saptartha
+    language: Tibetan
+    lang_tag: bo
+    file_type: commentary
+    root_text: 1-SOURCES/Text/bo-vajracchedika.md
+    verse_id_format: section-paragraph
+    category_id:
+    license: public
+    source: https://drive.google.com/open?id=1d8DQUXJHagKwY_MHlhVIh6atWdv5U92QEHzXW8c8T-g
+    bdrc_work_id: WA0RT3161
+    other_ids: ["Dzongsar: RF67A9A4E / E4C456D1", "OpenPecha: SNN7rW1hmwTzroG8hxrjc", "WeBuddhist (Nalanda): 3CE4"]
+    source_description: "Dzongsar Google Doc E4C456D1 (sentence-segmented, citation-annotated, sa bcad TOC and root alignment numbers by the Dzongsar team)."
+    text_id:
+    edition_id:
+    toc_id:
+
+- key: bo-chone
+  path: 1-SOURCES/Commentaries/bo-chone-drakpa-shedrub.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: bo-root
+  root_work: bo-root
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/Resources/R4B9A8FB5 རྗེ་གཅོད་པ་དང་དེའི་འགྲེལ་པ་ཟབ་དོན་གསལ་བའི་ཉི་མ།/R4B9A8FB5 རྡོ་རྗེ་གཅོད་བའི་འགྲེལ་བ།_ཅོ་ནེ། Segm.docx"
+  title_paragraph: 0
+  heading_numbers: true
+  headings: {"ff0000+bold": 1, "ff0000": 1}
+  ref_style: bare
+  ref_map: *ref431
+  legend: {"ff0000": "sa bcad heading (numbered)", "ff00ff": "inline sa bcad announcement", "00ffff": "citation source / closing formula", "ff9900": "quoted text"}
+  overlays:
+    - {type: openpecha_alignment, text_id: eMxgLFLT1xz6OOgpsY1h7}
+    - type: refs_doc
+      label: older alignment (D2, 489-row numbering)
+      doc: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D2__R4B9A8FB5 རྗེ་གཅོད་པ་དང་དེའི་འགྲེལ་པ་ཟབ་དོན་གསལ་བའི་ཉི་མ།.docx"
+      ref_style: dotted
+      ref_map:
+        doc: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/It is for reference only/རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text - original.docx"
+        style: auto
+  extra_raw:
+    - "dzongsar-drive/Dzongsar_missing_diamond/Diamond/A3__R4B9A8FB5 རྡོ་རྗེ་གཅོད་བའི་འགྲེལ་བ།_ཅོ་ནེ། Sentence - Segm.docx"
+    - "dzongsar-drive/Dzongsar_missing_diamond/Diamond/A4__R4B9A8FB5 རྡོ་རྗེ་གཅོད་བའི་འགྲེལ་བ།_ཅོ་ནེ། -Citation.docx"
+    - "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/C_TOC/R4B9A8FB5 རྡོ་རྗེ་གཅོད་བའི་འགྲེལ་བ།_ཅོ་ནེ། TOC.docx"
+  title: རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  notes: >-
+    The 'Segm' doc is the TOC doc (= Citation doc + 8 numbered headings + inline
+    sa bcad announcements) with leading alignment numbers in the 431-row
+    reference numbering. Bold = root words, bold italic = verses and colophon.
+    Second layers in the sidecar: the OpenPecha alignment of the identical text
+    (eMxgLFLT1xz6OOgpsY1h7, 198 pairs) and the older D2 alignment.
+  frontmatter:
+    <<: *bocomm
+    title: རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ་ཞེས་བྱ་བ།
+    alt_titles: [རྡོར་གཅོད་ཀྱི་འགྲེལ་པ།, རྗེ་གཅོད་པ་དང་དེའི་འགྲེལ་པ་ཟབ་དོན་གསལ་བའི་ཉི་མ།]
+    title_in_english: The Sun that Illuminates the Profound Meaning of the Excellent Path for Travelling to Freedom
+    author: ཅོ་ནེ་གྲགས་པ་བཤད་སྒྲུབ། [bdrc:P1629]
+    translator:
+    registered_id: chone-drakpa-shedrub
+    source: https://docs.google.com/document/d/1DRuN5j56GdYaJd9Nk2kNjFMEWxFF-TKgqR4nLEjqyFo/edit
+    bdrc_work_id: WA3CN22739
+    other_ids: ["Dzongsar: R4B9A8FB5", "OpenPecha: eMxgLFLT1xz6OOgpsY1h7 (also pR5GpBvpuXeqfkM0A7ay7, same text, unaligned)"]
+    source_description: "Dzongsar Google Doc 'R4B9A8FB5 … ཅོ་ནེ། Segm' (sentence segmentation, citation colours, sa bcad TOC and root alignment numbers by the Dzongsar team)."
+
+- key: bo-kamalasila
+  path: 1-SOURCES/Commentaries/bo-kamalasila-tika.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: bo-root
+  root_work: bo-root
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D4__E4BF16EE འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་….docx"
+  title_paragraph: 0
+  heading_numbers: true
+  headings: {"ff0000+bold": 1, "ff0000": 1}
+  ref_style: bare
+  ref_map: *ref431
+  legend: {"ff0000": "sa bcad heading (numbered)"}
+  overlays:
+    - {type: openpecha_alignment, text_id: dnFy5O0ji9QDgE1Wh1IR7}
+    - {type: openpecha_notes, text_id: 93udYd4MdkVJ1NK9gLNEi}
+    - type: formatting
+      doc: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/A5__RF161D626 རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ། - Sentence-Segm.docx"
+      keep: [italic]
+      legend: {}
+  extra_raw:
+    - "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/C_TOC/RF161D626 རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ། - TOC.docx"
+    - "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/H_Root_text/RF161D626 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། - Root text Tsadrel.docx"
+    - "nalanda-printed/Ka_3CDH.md"
+  title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།
+  notes: >-
+    D4 = the TOC doc (43 numbered sa bcad headings, up to 6 levels) plus 262
+    leading alignment numbers in the 431-row reference numbering. Sidecar
+    layers: the OpenPecha alignment of the identical text (dnFy5O0ji9QDgE1Wh1IR7,
+    228 pairs), 1015 variant readings (Snar thang / Peking) from OpenPecha
+    93udYd4MdkVJ1NK9gLNEi (= Nalanda printed edition Ka_3CDH), and the verse
+    italics of the partial sentence segmentation A5.
+  frontmatter:
+    <<: *bocomm
+    title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།
+    alt_titles: [ཤེར་ཕྱིན་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།, ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།]
+    title_in_english: An Extensive Commentary on the Vajracchedikā
+    author: ཀ་མ་ལ་ཤཱི་ལ། [bdrc:P7641]
+    translator: སྣ་ནམ་བཙུན་པ་ཡེ་ཤེས་སྡེ། [bdrc:P8205]
+    registered_id: kamalasila-tika
+    source: https://drive.google.com/open?id=1xxZH1FKn43PLDKpNdD3PWJoYXm8p-VDV0OjSTPwH-Cc
+    bdrc_work_id: WA0RT3162
+    other_ids: ["Dzongsar: RF161D626 / E4BF16EE", "OpenPecha: dnFy5O0ji9QDgE1Wh1IR7 (aligned), 93udYd4MdkVJ1NK9gLNEi (with variants)", "WeBuddhist (Nalanda): 3CDH"]
+    source_description: "Dzongsar Google Doc E4BF16EE (segmentation, sa bcad TOC and root alignment numbers by the Dzongsar team)."
+
+- key: bo-asanga-karika
+  path: 1-SOURCES/Commentaries/bo-asanga-rtsa-grel.md
+  adapter: ref_commentary
+  id_scheme: h2
+  target: bo-root
+  refs: candidate
+  ref_style: bare
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/Resources/R3C4E9ABF རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.docx"
+  legend: {}
+  title: རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།
+  notes: >-
+    Verse commentary, one stanza group per paragraph, bold = root words. Only six
+    leading numbers (1, 2, 3, 13, 25, 33-38) and their numbering is not stated,
+    so they are kept in the text and recorded as candidate references.
+  frontmatter:
+    <<: *bocomm
+    title: རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།
+    alt_titles:
+    title_in_english:
+    author: སློབ་དཔོན་ཐོགས་མེད། [bdrc:P6117]
+    translator:
+    registered_id: asanga-rtsa-grel
+    alignment: partial-unconfirmed
+    license: unknown
+    source: https://docs.google.com/document/d/1WllhvydGNn0de3DEwQ8qK-bIUq6oOS9FQhfwiaYQzDA/edit
+    bdrc_work_id: WA1KG22205
+    other_ids: ["Dzongsar: R3C4E9ABF"]
+    source_description: "Dzongsar Resources Google Doc 'རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF' (catalogue attribution to Asaṅga, WA1KG22205)."
