@@ -146,8 +146,46 @@ def read(path):
                 para["runs"].append({"text": text, **props})
         para["text"] = "".join(r["text"] for r in para["runs"])
         paragraphs.append(para)
+    _render_numbers(z, paragraphs)
     return {"paragraphs": paragraphs, "comments": _comments(z),
             "sha1": hashlib.sha1(data).hexdigest()}
+
+
+def _render_numbers(z, paragraphs):
+    """Add numbering["rendered"]: the label Word displays for an auto-numbered
+    paragraph (e.g. "12."). Human references are often typed as these
+    numbers, so the rendered value is part of the text a reader saw."""
+    if "word/numbering.xml" not in z.namelist():
+        return
+    root = ET.fromstring(z.read("word/numbering.xml"))
+    abstract = {}
+    for an in root.findall(W + "abstractNum"):
+        lv = {}
+        for l in an.findall(W + "lvl"):
+            lv[l.get(W + "ilvl")] = {"start": int(_val(l, "start") or 1),
+                                     "fmt": _val(l, "numFmt"), "text": _val(l, "lvlText")}
+        abstract[an.get(W + "abstractNumId")] = lv
+    nums = {n.get(W + "numId"): abstract.get(_val(n, "abstractNumId"), {})
+            for n in root.findall(W + "num")}
+    counters = {}
+    for p in paragraphs:
+        n = p["numbering"]
+        if not n:
+            continue
+        lv = nums.get(n["id"], {}).get(n["level"] or "0")
+        if not lv:
+            continue
+        key = (n["id"], n["level"])
+        counters[key] = counters.get(key, lv["start"] - 1) + 1
+        # deeper levels restart when a shallower one advances
+        for k in list(counters):
+            if k[0] == n["id"] and int(k[1] or 0) > int(n["level"] or 0):
+                del counters[k]
+        value = counters[key]
+        n["value"] = value
+        n["format"] = lv["fmt"]
+        n["rendered"] = (lv["text"] or "%1.").replace(f"%{int(n['level'] or 0) + 1}", str(value)) \
+            if lv["fmt"] == "decimal" else None
 
 
 def marked(para, neutral=NEUTRAL_COLOURS):
