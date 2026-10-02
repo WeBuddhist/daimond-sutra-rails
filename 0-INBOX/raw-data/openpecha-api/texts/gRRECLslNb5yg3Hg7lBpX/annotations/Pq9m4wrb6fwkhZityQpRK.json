@@ -1,0 +1,20 @@
+{
+ "id": "Pq9m4wrb6fwkhZityQpRK",
+ "type": "search_segmentation",
+ "data": [
+  {
+   "id": "HQrIyBcOgomiYqbNP2zSE",
+   "span": {
+    "start": 0,
+    "end": 22326
+   }
+  },
+  {
+   "id": "R5yBUGvAllpV6cLYQNeNi",
+   "span": {
+    "start": 22326,
+    "end": 25768
+   }
+  }
+ ]
+}

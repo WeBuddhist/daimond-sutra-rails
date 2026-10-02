@@ -1,0 +1,82 @@
+[
+ {
+  "instance_id": "1xY251tEzTFQlRyneh1R6",
+  "metadata": {
+   "instance_type": "critical",
+   "source": "bdrc.io",
+   "text_id": "dnFy5O0ji9QDgE1Wh1IR7",
+   "title": {
+    "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།"
+   },
+   "alt_titles": [],
+   "language": "bo",
+   "contributions": []
+  },
+  "annotation": "yKlcGRgVgwMqen0lbn5rD",
+  "relationship": "commentary"
+ },
+ {
+  "instance_id": "PxM1HE5ZzRRHTC2BMBAvF",
+  "metadata": {
+   "instance_type": "critical",
+   "source": "bdrc.io",
+   "text_id": "eMxgLFLT1xz6OOgpsY1h7",
+   "title": {
+    "bo": "རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།"
+   },
+   "alt_titles": [],
+   "language": "bo",
+   "contributions": []
+  },
+  "annotation": "JI9ym6hlRKzeQ0A2I5oVz",
+  "relationship": "commentary"
+ },
+ {
+  "instance_id": "oTC8UvkeqazlX1aN3QHqo",
+  "metadata": {
+   "instance_type": "critical",
+   "source": "unknown",
+   "text_id": "i5gV2cTZzE5NEl4DObMKu",
+   "title": {
+    "lzh": "金剛般若波羅密多經"
+   },
+   "alt_titles": [],
+   "language": "lzh",
+   "contributions": []
+  },
+  "annotation": null,
+  "relationship": "translation"
+ },
+ {
+  "instance_id": "IEkoBoMDcjTxscRDtetr8",
+  "metadata": {
+   "instance_type": "critical",
+   "source": "unknown",
+   "text_id": "CudRcM2Y8ZUlGY55GP0cg",
+   "title": {
+    "zh": "《金剛般若波羅蜜經》白話"
+   },
+   "alt_titles": [],
+   "language": "zh",
+   "contributions": []
+  },
+  "annotation": null,
+  "relationship": "translation"
+ },
+ {
+  "instance_id": "apyDqAuLlbJsHvrg4JfHB",
+  "metadata": {
+   "instance_type": "critical",
+   "source": "bdrc.io",
+   "text_id": "pR5GpBvpuXeqfkM0A7ay7",
+   "title": {
+    "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། (Commentary)"
+   },
+   "alt_titles": [],
+   "language": "bo",
+   "contributions": []
+  },
+  "annotation": null,
+  "relationship": "commentary"
+ }
+]
