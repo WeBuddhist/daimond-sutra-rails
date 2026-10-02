@@ -29,6 +29,10 @@ works:
   text: "<docx>"
   align_via: {root_rows: "<root-side docx>", other: "<this-text-side docx>"}
   headings_from_openpecha: {text_id: <id>, pattern: "〔.+分第.+〕"}
+  number_source: auto                 # auto (Word list numbers) | typed ("  12. text")
+  text_corrections:                   # only corrections a human decided on
+    - {id: 146, find: "…", replace: "…", reason: "…", source: "<doc>"}
+  alt_segmentations: [{label: "<name>", doc: "<docx>"}]
 
 # A translation laid out row-for-row against a root split (Tsadrel pair).
 - key: xx-translation
@@ -56,7 +60,10 @@ works:
   headings: {"ff0000+bold": 1}        # colour[+bold] / style:<name> -> level
   heading_patterns: [{regex: "^卷第.+$", level: 1}]
   ref_style: bare                     # bare | dotted
-  ref_map: {doc: "<numbered copy of the root>", style: typed}   # typed | auto
+  ref_corrections: {"189190": {refs: [189, 190], reason: "…"}}   # human-decided readings
+  # ref_map: avoid. Build the root from the numbering the commentary cites so
+  # numbers are transcluded as written; use a ref_map only for a secondary
+  # layer (overlay) made against some other numbering.
   refs: align                         # align | candidate | none
   split_lines: false                  # true: line breaks inside a paragraph are rows
   lemma_colours: ["980000"]

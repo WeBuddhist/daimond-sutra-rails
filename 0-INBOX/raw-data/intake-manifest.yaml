@@ -25,9 +25,32 @@ works:
 # ── Tibetan root ────────────────────────────────────────────────────────────
 - key: bo-root
   path: 1-SOURCES/Text/bo-vajracchedika.md
-  adapter: rows
+  adapter: numbered
+  number_source: typed
   id_scheme: flat
-  text: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/G_Segment_Source/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Tsadel.docx"
+  text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/It is for reference only/རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text.docx"
+  text_corrections:
+    - id: 29
+      find: "། དུ་ཤེས་ཅན་ནམ།"
+      replace: "། འདུ་ཤེས་ཅན་ནམ།"
+      reason: "Later correction in the Dzongsar Tsadel doc (འདུ་ཤེས་ཅན་, saṃjñin); applied by decision of the vault owner, 2026-10-02."
+      source: Tsadel
+    - id: 146
+      find: "ཁྱོད་ཀྱི་ཁོང"
+      replace: "ཁྱོད་ཀྱིས་ཁོང"
+      reason: "Later correction in the Dzongsar Tsadel doc, per Tenzin Tsering's comment that the Sanskrit (prativedayāmi te) requires ཁྱོད་ཀྱིས་ཁོང་དུ་ཆུད་པར་བྱའོ; applied by decision of the vault owner, 2026-10-02."
+      source: Tsadel
+  alt_segmentations:
+    - label: Tsadel sentence segmentation (430 rows, later corrections)
+      doc: "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/G_Segment_Source/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Tsadel.docx"
+  extra_raw: ["dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/G_Segment_Source/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Tsadel.docx"]
+  notes: >-
+    Block ^N is root segment N of the numbered root the Dzongsar team aligned
+    every Tibetan commentary against (431 typed numbers, title unnumbered).
+    A commentary number "1-3" therefore transcludes ^1, ^2, ^3 here. The
+    Tsadel doc is the same text split into 430 rows (segments 14+15 and
+    183+184 joined) with two later letter corrections (Tenzin Tsering,
+    Dec 2024); its rows and the corrections are recorded in the sidecar.
   title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
   frontmatter:
     title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
@@ -43,14 +66,14 @@ works:
     verse_id_format: verse
     category_id:
     license: public
-    source: https://docs.google.com/document/d/1uISaW2HYeS3vCPeAhiDTn-RmwDkM1B7kvhMGTEPyfp0/edit
+    source: https://docs.google.com/document/d/1nicSL2NJSnvcxdBsEoiJpVBXfMFqPYsjnqb-aDjYIuw/edit
     edition_type:
     bdrc_work_id: WA0RK0016
     other_ids:
       - "BDRC (Dzongsar metadata): WA1KG12670"
       - "Dzongsar: M42AE7A72"
       - "OpenPecha: OQLxJCPiXhRTJK9yiTviM"
-    source_description: "Dzongsar Tsadel (sentence segmentation) Google Doc of the Kangyur Diamond Sūtra, 430 human-segmented rows; block ^N is row N. Same text as OpenPecha OQLxJCPiXhRTJK9yiTviM (bdrc.io, 207 coarser segments) apart from two short insertions."
+    source_description: "Dzongsar Google Doc 'རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Root text' — the numbered root (431 segments) against which the Tibetan commentaries' alignment numbers were made; block ^N is segment N. Same text as the Tsadel segmentation (two letters differ) and as OpenPecha OQLxJCPiXhRTJK9yiTviM."
     text_id:
     edition_id:
     toc_id:
@@ -401,7 +424,6 @@ works:
   adapter: ref_commentary
   id_scheme: h2
   target: lzh-kumarajiva
-  refs: candidate
   text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D18__R2BF994FF 《金剛經》講記.docx"
   title_paragraph: 0
   headings: {"ff00ff+bold": 1, "ff00ff": 2}
@@ -409,9 +431,9 @@ works:
   legend: {"ff00ff": "heading (bold = top level)", "4a86e8": "quoted sūtra phrase"}
   title: 《金剛經》講記
   notes: >-
-    Numeric prefixes here mix MFF segment references with the author's own
-    enumerations, so they are kept in the text and recorded as candidate
-    references in the sidecar; no transclusions until a human confirms them.
+    Numeric prefixes are MFF segment references (104 of 114 share wording with
+    the segment they cite; the rest repeat the previous number over consecutive
+    paragraphs elaborating the same segment).
   frontmatter:
     <<: *zhcomm
     title: 《金剛經》講記
@@ -424,7 +446,7 @@ works:
     cbeta_id:
     source_url: http://old.ddc.shengyen.org/mobile/toc/07/07-02-1
     other_ids: ["Dzongsar: R2BF994FF"]
-    source_description: "Dzongsar Google Doc R2BF994FF 《金剛經》講記 (modern Chinese lecture; numbering not confirmed as alignment)."
+    source_description: "Dzongsar Google Doc R2BF994FF 《金剛經》講記 (modern Chinese lecture with typed MFF segment references)."
 
 - key: lzh-jizang-shu
   path: 1-SOURCES/Commentaries/lzh-jizang-shu.md
@@ -485,7 +507,7 @@ works:
     edition_id:
     toc_id:
 
-# ── Tibetan commentaries (sa bcad headings + alignment numbers → ref431) ────
+# ── Tibetan commentaries (sa bcad headings + alignment numbers = root segment ids) ─
 - key: bo-vasubandhu
   path: 1-SOURCES/Commentaries/bo-vasubandhu-saptartha-tika.md
   adapter: ref_commentary
@@ -497,9 +519,6 @@ works:
   heading_numbers: true
   headings: {"ff0000+bold": 1, "ff0000": 1}
   ref_style: bare
-  ref_map: &ref431
-    doc: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/It is for reference only/རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text.docx"
-    style: typed
   lemma_colours: ["980000"]
   legend: {"ff0000": "sa bcad heading (numbered)", "980000": "quoted root-sūtra passage", "00ff00": "closing formula after a quote (ཞེས་བྱ་བ)"}
   overlays:
@@ -513,8 +532,8 @@ works:
   notes: >-
     D3 is the superset of the Sentence Segm (A1), Citation (A2) and TOC docs:
     same sentence rows, the citation colours and bold/italic layer, 38 numbered
-    sa bcad headings, and leading alignment numbers in the 431-row reference
-    numbering, mapped here to Tsadel rows. Text bold = root-sūtra words, bold
+    sa bcad headings, and leading alignment numbers = numbered-root segment ids,
+    transcluded as written. Text bold = root-sūtra words, bold
     italic = verses. Variant readings (Co ne) from OpenPecha SNN7rW1hmwTzroG8hxrjc
     (= Nalanda printed edition Va_3CE4) are projected into the sidecar.
   frontmatter: &bocomm
@@ -550,7 +569,8 @@ works:
   heading_numbers: true
   headings: {"ff0000+bold": 1, "ff0000": 1}
   ref_style: bare
-  ref_map: *ref431
+  ref_corrections:
+    "189190": {refs: [189, 190], reason: "Missing comma in the source doc: the three paragraphs comment on root 189 and 190 and the next is numbered 191-192; read as 189,190 by decision of the vault owner, 2026-10-02."}
   legend: {"ff0000": "sa bcad heading (numbered)", "ff00ff": "inline sa bcad announcement", "00ffff": "citation source / closing formula", "ff9900": "quoted text"}
   overlays:
     - {type: openpecha_alignment, text_id: eMxgLFLT1xz6OOgpsY1h7}
@@ -568,8 +588,8 @@ works:
   title: རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།།
   notes: >-
     The 'Segm' doc is the TOC doc (= Citation doc + 8 numbered headings + inline
-    sa bcad announcements) with leading alignment numbers in the 431-row
-    reference numbering. Bold = root words, bold italic = verses and colophon.
+    sa bcad announcements) with leading alignment numbers = root segment ids
+    (transcluded as written). Bold = root words, bold italic = verses and colophon.
     Second layers in the sidecar: the OpenPecha alignment of the identical text
     (eMxgLFLT1xz6OOgpsY1h7, 198 pairs) and the older D2 alignment.
   frontmatter:
@@ -596,7 +616,6 @@ works:
   heading_numbers: true
   headings: {"ff0000+bold": 1, "ff0000": 1}
   ref_style: bare
-  ref_map: *ref431
   legend: {"ff0000": "sa bcad heading (numbered)"}
   overlays:
     - {type: openpecha_alignment, text_id: dnFy5O0ji9QDgE1Wh1IR7}
@@ -612,7 +631,7 @@ works:
   title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།
   notes: >-
     D4 = the TOC doc (43 numbered sa bcad headings, up to 6 levels) plus 262
-    leading alignment numbers in the 431-row reference numbering. Sidecar
+    leading alignment numbers = root segment ids (transcluded as written). Sidecar
     layers: the OpenPecha alignment of the identical text (dnFy5O0ji9QDgE1Wh1IR7,
     228 pairs), 1015 variant readings (Snar thang / Peking) from OpenPecha
     93udYd4MdkVJ1NK9gLNEi (= Nalanda printed edition Ka_3CDH), and the verse
@@ -635,15 +654,14 @@ works:
   adapter: ref_commentary
   id_scheme: h2
   target: bo-root
-  refs: candidate
   ref_style: bare
   text: "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/Resources/R3C4E9ABF རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.docx"
   legend: {}
   title: རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།
   notes: >-
-    Verse commentary, one stanza group per paragraph, bold = root words. Only six
-    leading numbers (1, 2, 3, 13, 25, 33-38) and their numbering is not stated,
-    so they are kept in the text and recorded as candidate references.
+    Verse commentary, one stanza group per paragraph, bold = root words. Six
+    paragraphs carry alignment numbers in the numbered-root numbering (1, 2, 3,
+    13, 25, 33-38); the other paragraphs carry none and stay unaligned.
   frontmatter:
     <<: *bocomm
     title: རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།
@@ -652,7 +670,7 @@ works:
     author: སློབ་དཔོན་ཐོགས་མེད། [bdrc:P6117]
     translator:
     registered_id: asanga-rtsa-grel
-    alignment: partial-unconfirmed
+    alignment: partial
     license: unknown
     source: https://docs.google.com/document/d/1WllhvydGNn0de3DEwQ8qK-bIUq6oOS9FQhfwiaYQzDA/edit
     bdrc_work_id: WA1KG22205

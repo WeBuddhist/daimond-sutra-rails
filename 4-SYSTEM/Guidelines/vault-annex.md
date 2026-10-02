@@ -29,7 +29,7 @@ Provenance of every file: its `raw_sources:` frontmatter and `0-INBOX/diamond-su
 
 **`verse_id_format`:** `verse` · **Format example:** `^183`
 
-The Tibetan root has no chapter structure of its own in the source. Its block `^N` is **row N of the Dzongsar Tsadel segmentation** (430 human-segmented rows), so a block id is the human reference. Translations aligned row-for-row to it keep the same ids (`lzh-kumarajiva-tibetan-order.md`, `sa-vajracchedika.md`).
+The Tibetan root has no chapter structure of its own in the source. Its block `^N` is **segment N of the numbered root the Dzongsar team aligned the commentaries against** (431 typed numbers, `It is for reference only/…Root text.docx`), so a commentary's alignment number *is* the root block id: `1-3` transcludes `^1 ^2 ^3`. The 430-row Tsadel split of the same text (segments 14+15 and 183+184 joined, two later letter corrections) is recorded in the root's sidecar. Translations aligned row-for-row keep the root's ids where their row matches one segment (`lzh-kumarajiva-tibetan-order.md`, `sa-vajracchedika.md`).
 
 `lzh-kumarajiva.md` uses the same flat form for its own numbering: block `^N` is **segment N of the 127 numbered segments** of the Dzongsar Chinese text (MFF4994FD) — the numbers every Chinese commentary refers to. `zh-baihua.md` takes the id of the first Kumārajīva segment it renders. `lzh-bodhiruci.md` keeps the row numbers of its source doc (with gaps).
 
@@ -41,13 +41,13 @@ The Tibetan root has no chapter structure of its own in the source. Its block `^
 | `##` | Top-level division (*sa bcad* 1, 2, 3 … / 分 / 卷 / heading) | `^N-0` |
 | `###` … `######` | Deeper *sa bcad* levels | full path + `-0`, e.g. `^3-4-2-6-7-7-0` |
 
-Body blocks are `^<top-level>-<n>`, counted through deeper headings (`verse_id_format: section-paragraph`); blocks before the first heading are section `0`. In the Tibetan commentaries the outline numbers are the human TOC numbers in the source docs; in the Chinese commentaries, headings are numbered in order of appearance.
+Body blocks are `^<top-level>-<n>`, counted through deeper headings (`verse_id_format: section-paragraph`); blocks before the first heading are section `0`. In the Tibetan commentaries the outline numbers are the human TOC numbers in the source docs; in the Chinese commentaries, headings are numbered in order of appearance. A number written in front of a commentary segment is the id of the root segment(s) it comments on and is transcluded as written; unnumbered segments have no alignment.
 
 ### ⚑ Registered deviations — overrides of the default conventions
 
 ### ⚑ Flat `^N` for the root text and its row-aligned translations — overrides `annotation-conventions.md` §1a (registered 2026-10-02)
 
-The default is `^chapter-verse` with a chapter 0. The Tibetan source carries no chapters, and its human segmentation is a flat sequence of 430 numbered rows that every alignment in the corpus refers to. Inventing chapters would detach the ids from the human numbering. Applies to `1-SOURCES/Text/bo-vajracchedika.md` and every file in `1-SOURCES/Translations/`.
+The default is `^chapter-verse` with a chapter 0. The Tibetan source carries no chapters, and its human segmentation is a flat sequence of 431 numbered segments that every commentary alignment refers to by number. Inventing chapters would detach the ids from the human numbering. Applies to `1-SOURCES/Text/bo-vajracchedika.md` and every file in `1-SOURCES/Translations/`.
 
 ### Re-segmentation and ID-migration log
 
@@ -61,7 +61,7 @@ The default is `^chapter-verse` with a chapter 0. The Tibetan source carries no 
 | --------------- | -------------- | ---- | --------- | -------- | ---------- | ---- |
 | `vasubandhu-saptartha` | Vasubandhu, *Extensive Commentary on the Seven Points* (དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ།) | commentary | Indian | Tibetan | Tibetan root | `1-SOURCES/Commentaries/bo-vasubandhu-saptartha-tika.md` |
 | `kamalasila-tika` | Kamalaśīla, *Extensive Commentary* (རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།) | commentary | Indian | Tibetan | Tibetan root | `1-SOURCES/Commentaries/bo-kamalasila-tika.md` |
-| `asanga-rtsa-grel` | Asaṅga (catalogue attribution), རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། | commentary (verse) | Indian | Tibetan | — (candidate refs only) | `1-SOURCES/Commentaries/bo-asanga-rtsa-grel.md` |
+| `asanga-rtsa-grel` | Asaṅga (catalogue attribution), རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། | commentary (verse) | Indian | Tibetan | Tibetan root (6 numbered stanzas) | `1-SOURCES/Commentaries/bo-asanga-rtsa-grel.md` |
 | `chone-drakpa-shedrub` | Chone Drakpa Shedrub, ཟབ་དོན་གསལ་བའི་ཉི་མ། | commentary | Tibetan | Tibetan | Tibetan root | `1-SOURCES/Commentaries/bo-chone-drakpa-shedrub.md` |
 | `vasubandhu-lun` | 天親 (Vasubandhu), 金剛般若波羅蜜經論, tr. 菩提流支 (T1511) | commentary | Indian | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-vasubandhu-lun.md` |
 | `asanga-lun` | 無著 (Asaṅga), 金剛般若波羅蜜經論 (T1510b) | commentary | Indian | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-asanga-lun.md` |
@@ -72,7 +72,7 @@ The default is `^chapter-verse` with a chapter 0. The Tibetan source carries no 
 | `taixu-yimai` | 太虛, 金剛般若波羅蜜經義脈 | commentary | modern | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-taixu-yimai.md` |
 | `tanxu-jiangyi` | 倓虛, 金剛般若波羅密經講義 (1945) | commentary | modern | Classical Chinese | Kumārajīva | `1-SOURCES/Commentaries/lzh-tanxu-jiangyi.md` |
 | `hsingyun-jianghua` | 星雲, 金剛經講話 | commentary | modern | Chinese | Kumārajīva | `1-SOURCES/Commentaries/zh-hsingyun-jianghua.md` |
-| `shengyen-jiangji` | 聖嚴, 《金剛經》講記 | commentary | modern | Chinese | — (candidate refs only) | `1-SOURCES/Commentaries/zh-shengyen-jiangji.md` |
+| `shengyen-jiangji` | 聖嚴, 《金剛經》講記 | commentary | modern | Chinese | Kumārajīva | `1-SOURCES/Commentaries/zh-shengyen-jiangji.md` |
 
 **No hierarchical commentary tradition.** These are independent works from several traditions. Grouping rule for verse packages: by language of the commentary (Tibetan, then Chinese), and within a language in the order of this table.
 

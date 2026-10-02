@@ -10,9 +10,7 @@
     "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/Resources/R3C4E9ABF རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.docx",
     "paragraph": 0,
     "line": 0,
-    "candidate_refs": [
-     1
-    ]
+    "typed_prefix": "1 "
    },
    "annotations": [
     {
@@ -22,7 +20,10 @@
      "bold": true
     }
    ],
-   "text": "1 ༄༅། །རྒྱ་གར་སྐད་དུ། བཛྲ་ཙྪེདིཀཱཡཱ་པྲཛྙཱ་པཱརམིཏྭཱཡཱ་བྱཱཁྱཱནོཔནིབནྡྷནཀཱརིཀཱ།"
+   "targets": [
+    "1"
+   ],
+   "text": "༄༅། །རྒྱ་གར་སྐད་དུ། བཛྲ་ཙྪེདིཀཱཡཱ་པྲཛྙཱ་པཱརམིཏྭཱཡཱ་བྱཱཁྱཱནོཔནིབནྡྷནཀཱརིཀཱ།"
   },
   "0-2": {
    "role": "body",
@@ -30,9 +31,7 @@
     "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/Resources/R3C4E9ABF རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.docx",
     "paragraph": 2,
     "line": 0,
-    "candidate_refs": [
-     2
-    ]
+    "typed_prefix": "2 "
    },
    "annotations": [
     {
@@ -42,7 +41,10 @@
      "bold": true
     }
    ],
-   "text": "2 བོད་སྐད་དུ། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་བཤད་པ། བཤད་སྦྱར་གྱི་ཚིག་ལེའུར་བྱས་པ།"
+   "targets": [
+    "2"
+   ],
+   "text": "བོད་སྐད་དུ། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་བཤད་པ། བཤད་སྦྱར་གྱི་ཚིག་ལེའུར་བྱས་པ།"
   },
   "0-3": {
    "role": "body",
@@ -50,9 +52,7 @@
     "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/Resources/R3C4E9ABF རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.docx",
     "paragraph": 4,
     "line": 0,
-    "candidate_refs": [
-     3
-    ]
+    "typed_prefix": "3 "
    },
    "annotations": [
     {
@@ -62,7 +62,10 @@
      "bold": true
     }
    ],
-   "text": "3 འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །"
+   "targets": [
+    "3"
+   ],
+   "text": "འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །"
   },
   "0-4": {
    "role": "body",
@@ -70,9 +73,7 @@
     "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/Resources/R3C4E9ABF རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.docx",
     "paragraph": 6,
     "line": 0,
-    "candidate_refs": [
-     13
-    ]
+    "typed_prefix": "13 "
    },
    "annotations": [
     {
@@ -82,7 +83,10 @@
      "bold": true
     }
    ],
-   "text": "13 ཕན་གདགས་པ་ཡི་དམ་པ་ནི། །ལུས་དང་འཁོར་བཅས་ཤེས་པར་བྱ། །ཐོབ་དང་མ་ཐོབ་མི་ཉམས་པ། །ཡོངས་སུ་གཏད་པའི་དམ་པ་ཡིན། །"
+   "targets": [
+    "13"
+   ],
+   "text": "ཕན་གདགས་པ་ཡི་དམ་པ་ནི། །ལུས་དང་འཁོར་བཅས་ཤེས་པར་བྱ། །ཐོབ་དང་མ་ཐོབ་མི་ཉམས་པ། །ཡོངས་སུ་གཏད་པའི་དམ་པ་ཡིན། །"
   },
   "0-5": {
    "role": "body",
@@ -90,9 +94,7 @@
     "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/Resources/R3C4E9ABF རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.docx",
     "paragraph": 8,
     "line": 0,
-    "candidate_refs": [
-     25
-    ]
+    "typed_prefix": "25 "
    },
    "annotations": [
     {
@@ -114,7 +116,10 @@
      "bold": true
     }
    ],
-   "text": "25 སེམས་ལ་ཕན་པའི་བསམ་པ་ནི། །རྒྱ་ཆེར་མཆོག་དང་གཏན་དུ་དང་། །ཕྱིན་ཅི་མ་ལོག་གནས་པ་སྟེ། །ཐེག་པ་འདི་ལ་ཡོན་ཏན་རྫོགས། །"
+   "targets": [
+    "25"
+   ],
+   "text": "སེམས་ལ་ཕན་པའི་བསམ་པ་ནི། །རྒྱ་ཆེར་མཆོག་དང་གཏན་དུ་དང་། །ཕྱིན་ཅི་མ་ལོག་གནས་པ་སྟེ། །ཐེག་པ་འདི་ལ་ཡོན་ཏན་རྫོགས། །"
   },
   "0-6": {
    "role": "body",
@@ -122,14 +127,7 @@
     "doc": "dzongsar-drive/Dzongsar_missing_diamond/Diamond/D1__MD9459054 རྡོ་རྗེ་གཅོད་པ།/Resources/R3C4E9ABF རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ།/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.docx",
     "paragraph": 10,
     "line": 0,
-    "candidate_refs": [
-     33,
-     34,
-     35,
-     36,
-     37,
-     38
-    ]
+    "typed_prefix": "33-38  "
    },
    "annotations": [
     {
@@ -139,7 +137,15 @@
      "bold": true
     }
    ],
-   "text": "33-38  ཟང་ཟིང་མི་འཇིགས་ཆོས་ཀྱི་ནི། །སྦྱིན་པ་ཕ་རོལ་ཕྱིན་དྲུག་སྟེ། །གཅིག་དང་གཉིས་དང་གསུམ་གྱིས་ནི། །ལམ་དེ་འདིར་ནི་མི་གནས་ཡིན། །"
+   "targets": [
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38"
+   ],
+   "text": "ཟང་ཟིང་མི་འཇིགས་ཆོས་ཀྱི་ནི། །སྦྱིན་པ་ཕ་རོལ་ཕྱིན་དྲུག་སྟེ། །གཅིག་དང་གཉིས་དང་གསུམ་གྱིས་ནི། །ལམ་དེ་འདིར་ནི་མི་གནས་ཡིན། །"
   },
   "0-7": {
    "role": "body",
@@ -800,5 +806,5 @@
   }
  },
  "legend": {},
- "notes": "Verse commentary, one stanza group per paragraph, bold = root words. Only six leading numbers (1, 2, 3, 13, 25, 33-38) and their numbering is not stated, so they are kept in the text and recorded as candidate references."
+ "notes": "Verse commentary, one stanza group per paragraph, bold = root words. Six paragraphs carry alignment numbers in the numbered-root numbering (1, 2, 3, 13, 25, 33-38); the other paragraphs carry none and stay unaligned."
 }

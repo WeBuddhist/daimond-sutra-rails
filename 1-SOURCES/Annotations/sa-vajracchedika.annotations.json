@@ -4,30 +4,9 @@
  "target_file": "1-SOURCES/Text/bo-vajracchedika.md",
  "headings": [],
  "blocks": {
-  "1": {
+  "3": {
    "targets": [
-    "1"
-   ],
-   "source": {
-    "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
-    "rows": [
-     1
-    ]
-   },
-   "annotations": [
-    {
-     "start": 0,
-     "end": 42,
-     "text": "वज्रच्छेदिका नाम त्रिशतिका प्रज्ञापारमिता।",
-     "shading": "fefefe",
-     "row": 1
-    }
-   ],
-   "text": "वज्रच्छेदिका नाम त्रिशतिका प्रज्ञापारमिता।"
-  },
-  "4": {
-   "targets": [
-    "4"
+    "3"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -46,9 +25,9 @@
    ],
    "text": "॥नमो भगवत्या आर्यप्रज्ञापारमितायै॥"
   },
-  "5": {
+  "4": {
    "targets": [
-    "5"
+    "4"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -67,9 +46,9 @@
    ],
    "text": "एवं मया श्रुतम्। एकस्मिन् समये"
   },
-  "6": {
+  "5": {
    "targets": [
-    "6"
+    "5"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -88,9 +67,9 @@
    ],
    "text": "भगवान् श्रावस्त्यां विहरति स्म जेतवनेऽनाथपिण्डदस्यारामे महता भिक्षुसंघेन सार्थं त्रयोदशभिर्भिक्षुशतैः संबहुलैश्च बोधिसत्त्वैर्महासत्त्वैः।"
   },
-  "7": {
+  "6": {
    "targets": [
-    "7"
+    "6"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -109,9 +88,9 @@
    ],
    "text": "अथ खलु भगवान् पूर्वाह्णकालसमये निवास्य पात्रचीवरमादाय श्रावस्तीं महानगरीं पिण्डाय प्राविक्षत्।"
   },
-  "8": {
+  "7": {
    "targets": [
-    "8"
+    "7"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -130,9 +109,9 @@
    ],
    "text": "अथ खलु भगवान् श्रावस्तीं महानगरीं पिण्डाय चरित्वा कृतभक्तकृत्यः"
   },
-  "9": {
+  "8": {
    "targets": [
-    "9"
+    "8"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -151,9 +130,9 @@
    ],
    "text": "पश्चाद्भक्तपिण्डपातप्रतिक्रान्तः पात्रचीवरं प्रतिशाम्य पादौ प्रक्षाल्य न्यषीदत्प्रज्ञप्त एवासने पर्यङ्कमाभुज्य ऋजुं कायं प्रणिधाय प्रतिमुखीं स्मृतिमुपस्थाप्य।"
   },
-  "10": {
+  "9": {
    "targets": [
-    "10"
+    "9"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -172,9 +151,9 @@
    ],
    "text": "अथ खलु संबहुला भिक्षवो येन भगवांस्तेनोपसंक्रामन्। उपसंक्रम्य"
   },
-  "11": {
+  "10": {
    "targets": [
-    "11"
+    "10"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -193,9 +172,9 @@
    ],
    "text": "भगवतः पादौ शिरोभिरभिवन्द्य भगवन्तं त्रिष्प्रदक्षिणीकृत्य एकान्ते न्यषीदन्॥१॥"
   },
-  "12": {
+  "11": {
    "targets": [
-    "12"
+    "11"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -214,9 +193,9 @@
    ],
    "text": "तेन खलु पुनः समयेनायुष्मान् सुभुतिस्तस्यामेव पर्षदि संनिपतितोऽभूत्संनिषण्णः।"
   },
-  "13": {
+  "12": {
    "targets": [
-    "13"
+    "12"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -235,9 +214,9 @@
    ],
    "text": "अथ खल्वायुष्मान् सुभूतिरुत्थायासनादेकांसमुत्तरासङ्गं कृत्वा दक्षिणं जानुमण्डलं पृथिव्यां प्रतिष्ठाप्य येन भगवांस्तेनाञ्जलिं प्रणम्य"
   },
-  "14": {
+  "13": {
    "targets": [
-    "14"
+    "13"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -256,8 +235,9 @@
    ],
    "text": "भगवन्तमेतदवोचत्-"
   },
-  "15": {
+  "14": {
    "targets": [
+    "14",
     "15"
    ],
    "source": {
@@ -3758,7 +3738,8 @@
   },
   "183": {
    "targets": [
-    "183"
+    "183",
+    "184"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3777,9 +3758,9 @@
    ],
    "text": "आश्चर्यं भगवन्, परमाश्चर्यं सुगत, धर्मपर्यायस्तथागतेन भाषितोऽग्रयानसंप्रस्थितानां सत्त्वानामर्थाय,"
   },
-  "184": {
+  "185": {
    "targets": [
-    "184"
+    "185"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3798,9 +3779,9 @@
    ],
    "text": "श्रेष्ठयानसंप्रस्थितानामर्थाय, यतो मे भगवन् ज्ञानमुत्पन्नम्। न मया भगवन् जात्वेवंरूपो धर्मपर्यायः श्रुतपूर्वः।"
   },
-  "185": {
+  "186": {
    "targets": [
-    "185"
+    "186"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3819,9 +3800,9 @@
    ],
    "text": "परमेण ते भगवन् आश्चर्येण समन्वागता बोधिसत्त्वा भविष्यन्ति, ये इह सूत्रे भाष्यमाणे श्रुत्वा भूतसंज्ञामुत्पादयिष्यन्ति।"
   },
-  "186": {
+  "187": {
    "targets": [
-    "186"
+    "187"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3840,9 +3821,9 @@
    ],
    "text": "तत्कस्य हेतोः ? या चैषा भगवन् भूतसंज्ञा, सैव अभूतसंज्ञा।"
   },
-  "187": {
+  "188": {
    "targets": [
-    "187"
+    "188"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3861,9 +3842,9 @@
    ],
    "text": "तस्मात्तथागतो भाषतेभूतसंज्ञा भूतसंज्ञेति॥"
   },
-  "188": {
+  "189": {
    "targets": [
-    "188"
+    "189"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3882,9 +3863,9 @@
    ],
    "text": "न मम भगवन् आश्चर्यं यदहमिमं धर्मपर्यायं भाष्यमाणमवकल्पयामि अधिमुच्ये।"
   },
-  "189": {
+  "190": {
    "targets": [
-    "189"
+    "190"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3903,9 +3884,9 @@
    ],
    "text": "येऽपि ते भगवन् सत्त्वा भविष्यन्त्यनागतेऽध्वनि पश्चिमे काले पश्चिमे समये पश्चिमायां पञ्चशत्यां सद्धर्मविप्रलोपे वर्तमाने, ये इमं भगवन् धर्मपर्यायमुद्ग्रहीष्यन्ति धारयिष्यन्ति वाचयिष्यन्ति पर्यवाप्स्यन्ति, परेभ्यश्च विस्तरेण संप्रकाशयिष्यन्ति, ते परमाश्चर्येण समन्वागता भविष्यन्ति।"
   },
-  "190": {
+  "191": {
    "targets": [
-    "190"
+    "191"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3924,9 +3905,9 @@
    ],
    "text": "अपि तु खलु पुनर्भगवन् न तेषामात्मसंज्ञा प्रवर्तिष्यते,"
   },
-  "191": {
+  "192": {
    "targets": [
-    "191"
+    "192"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3945,9 +3926,9 @@
    ],
    "text": "न सत्त्वसंज्ञा न जीवसंज्ञा न पुद्गलसंज्ञा प्रवर्तिष्यते, नापि तेषां काचित्संज्ञा नासंज्ञा प्रवर्तते।"
   },
-  "192": {
+  "193": {
    "targets": [
-    "192"
+    "193"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3966,9 +3947,9 @@
    ],
    "text": "तत्कस्य हेतोः ? या सा भगवन् आत्मसंज्ञा, सैवासंज्ञा। या सत्त्वसंज्ञा जीवसंज्ञा पुद्गलसंज्ञा, सैवासंज्ञा।"
   },
-  "193": {
+  "194": {
    "targets": [
-    "193"
+    "194"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -3987,9 +3968,9 @@
    ],
    "text": "तत्कस्य हेतोः ? सर्वसंज्ञापगता हि बुद्ध भगवन्तः॥"
   },
-  "194": {
+  "195": {
    "targets": [
-    "194"
+    "195"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4008,9 +3989,9 @@
    ],
    "text": "एवमुक्ते भगवानायुष्मन्तं सुभूतिमेतदवोचत्-"
   },
-  "195": {
+  "196": {
    "targets": [
-    "195"
+    "196"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4029,9 +4010,9 @@
    ],
    "text": "एवमेतत् सुभूते, एवमेतत्।"
   },
-  "196": {
+  "197": {
    "targets": [
-    "196"
+    "197"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4050,9 +4031,9 @@
    ],
    "text": "परमाश्चर्यसमन्वागतास्ते सत्त्वा भविष्यन्ति, ये इह सुभूते सूत्रे भाष्यमाणे नोत्रसिष्यन्ति न संत्रसिष्यन्ति न संत्रासमापत्स्यन्ते।"
   },
-  "197": {
+  "198": {
    "targets": [
-    "197"
+    "198"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4071,9 +4052,9 @@
    ],
    "text": "तत्कस्य हेतोः ? परमपारमितेयं सुभूते तथागतेन भाषिता यदुतापारमिता।"
   },
-  "198": {
+  "199": {
    "targets": [
-    "198"
+    "199"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4092,9 +4073,9 @@
    ],
    "text": "यां च सुभूते तथागतः परमपारमितां भाषते, तामपरिमाणा अपि बुद्धा भगवन्तो भाषन्ते।"
   },
-  "199": {
+  "200": {
    "targets": [
-    "199"
+    "200"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4113,9 +4094,9 @@
    ],
    "text": "तेनोच्यन्ते परमपारमितेति॥"
   },
-  "200": {
+  "201": {
    "targets": [
-    "200"
+    "201"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4134,9 +4115,9 @@
    ],
    "text": "अपि तु खलु पुनः सुभुते या तथागतस्य क्षान्तिपारमिता, सैव अपारमिता।"
   },
-  "201": {
+  "202": {
    "targets": [
-    "201"
+    "202"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4155,9 +4136,9 @@
    ],
    "text": "तत्कस्य हेतोः ? यदा मे सुभूते कलिराजा अङ्गप्रत्यङ्गमांसान्यच्छैत्सीत्, नासीन्मे तस्मिन् समये आत्मसंज्ञा वा सत्त्वसंज्ञा वा जीवसंज्ञा वा पुद्गलसंज्ञा वा,"
   },
-  "202": {
+  "203": {
    "targets": [
-    "202"
+    "203"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4176,9 +4157,9 @@
    ],
    "text": "नापि मे काचित्संज्ञा वा असंज्ञा वा बभूव।"
   },
-  "203": {
+  "204": {
    "targets": [
-    "203"
+    "204"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4197,9 +4178,9 @@
    ],
    "text": "तत्कस्य हेतोः ? सचेन्मे सुभूते तस्मिन् समये आत्मसंज्ञा अभविष्यत्, व्यापादसंज्ञापि मे तस्मिन् समयेऽभविष्यत्।"
   },
-  "204": {
+  "205": {
    "targets": [
-    "204"
+    "205"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4218,9 +4199,9 @@
    ],
    "text": "सचेत्सत्त्वसंज्ञा जीवसंज्ञा पुद्गलसंज्ञाभविष्यत्, व्यापादसंज्ञापि मे तस्मिन् समयेऽभविष्यत्।"
   },
-  "205": {
+  "206": {
    "targets": [
-    "205"
+    "206"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4239,9 +4220,9 @@
    ],
    "text": "तत्कस्य हेतोः ? अभिजानाम्यहं सुभूते अतीतेऽध्वनि पञ्च जातिशतानि यदहं क्षान्तिवादी ऋषिरभूवम्। तत्रापि मे नात्मसंज्ञा बभूव,"
   },
-  "206": {
+  "207": {
    "targets": [
-    "206"
+    "207"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4260,9 +4241,9 @@
    ],
    "text": "न सत्त्वसंज्ञा, न जीवसंज्ञा, न पुद्गलसंज्ञा बभूव।"
   },
-  "207": {
+  "208": {
    "targets": [
-    "207"
+    "208"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4281,9 +4262,9 @@
    ],
    "text": "तस्मात्तर्हि सुभूते बोधिसत्त्वेन महासत्त्वेन सर्वसंज्ञा विवर्जयित्वा"
   },
-  "208": {
+  "209": {
    "targets": [
-    "208"
+    "209"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4302,9 +4283,9 @@
    ],
    "text": "अनुत्तरायां सम्यक्संबोधौ चित्तमुत्पादयितव्यम्।"
   },
-  "209": {
+  "210": {
    "targets": [
-    "209"
+    "210"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4323,9 +4304,9 @@
    ],
    "text": "न रूपप्रतिष्ठितं चित्तमुत्पादयितव्यम्,"
   },
-  "210": {
+  "211": {
    "targets": [
-    "210"
+    "211"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4344,9 +4325,9 @@
    ],
    "text": "न शब्दगन्धरसस्प्रष्टव्यधर्मप्रतिष्ठितं चित्तमुत्पादयितव्यम्,"
   },
-  "211": {
+  "212": {
    "targets": [
-    "211"
+    "212"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4365,9 +4346,9 @@
    ],
    "text": "न धर्मप्रतिष्ठितं चित्तमुत्पादयितव्यम्,"
   },
-  "212": {
+  "213": {
    "targets": [
-    "212"
+    "213"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4386,9 +4367,9 @@
    ],
    "text": "नाधर्मप्रतिष्ठितं चित्तमुत्पादयितव्यम्,"
   },
-  "213": {
+  "214": {
    "targets": [
-    "213"
+    "214"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4407,9 +4388,9 @@
    ],
    "text": "न क्वचित्प्रतिष्ठितं चित्तमुत्पादयितव्यम्।"
   },
-  "214": {
+  "215": {
    "targets": [
-    "214"
+    "215"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4428,9 +4409,9 @@
    ],
    "text": "तत्कस्य हेतोः ? यत्प्रतिष्ठितं तदेवाप्रतिष्ठितम्।"
   },
-  "215": {
+  "216": {
    "targets": [
-    "215"
+    "216"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4463,9 +4444,9 @@
    ],
    "text": "तस्मादेव तथागतो भाषते-अप्रतिष्ठितेन बोधिसत्त्वेन दानं दातव्यम्।न रूपशब्दगन्धरसस्पर्शधर्मप्रतिष्ठितेन दानं दातव्यम्॥"
   },
-  "216": {
+  "217": {
    "targets": [
-    "216"
+    "217"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4484,9 +4465,9 @@
    ],
    "text": "अपि तु खलु पुनः सुभूते बोधिसत्त्वेन एवंरूपो दानपरित्यागः कर्तव्यः सर्वसत्त्वानामर्थाय।"
   },
-  "217": {
+  "218": {
    "targets": [
-    "217"
+    "218"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4505,9 +4486,9 @@
    ],
    "text": "तत्कस्य हेतोः ? या चैषा सुभूते सत्त्वसंज्ञा, सैव असंज्ञा।"
   },
-  "218": {
+  "219": {
    "targets": [
-    "218"
+    "219"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4526,9 +4507,9 @@
    ],
    "text": "य एवं ते सर्वसत्त्वास्तथागतेन भाषितास्त एव असत्त्वाः।"
   },
-  "219": {
+  "220": {
    "targets": [
-    "219"
+    "220"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4547,9 +4528,9 @@
    ],
    "text": "तत्कस्य हेतोः ? भूतवादी सुभूते तथागतः, सत्यवादी तथावादी अनन्यथावादी तथागतः,"
   },
-  "220": {
+  "221": {
    "targets": [
-    "220"
+    "221"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4568,9 +4549,9 @@
    ],
    "text": "न वितथवादी तथागतः॥"
   },
-  "221": {
+  "222": {
    "targets": [
-    "221"
+    "222"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4589,9 +4570,9 @@
    ],
    "text": "अपि तु खलु पुनः सुभूते यस्तथागतेन धर्मोऽभिसंबुद्धो देशितो निध्यातः, न तत्र सत्यं न मृषा।"
   },
-  "222": {
+  "223": {
    "targets": [
-    "222"
+    "223"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4610,9 +4591,9 @@
    ],
    "text": "तद्यथापि नाम सुभूते पुरुषोऽन्धकारप्रविष्टो न किंचिदपि पश्येत्, एवं वस्तुपतितो बोधिसत्त्वो द्रष्टव्यो यो वस्तुपतितो दानं परित्यजति।"
   },
-  "223": {
+  "224": {
    "targets": [
-    "223"
+    "224"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4631,9 +4612,9 @@
    ],
    "text": "तद्यथापि नाम सुभूते चक्षुष्मान् पुरुषः प्रभातायां रात्रौ सूर्येऽभ्युद्गते नानविधानि रूपाणि पश्येत्, एवमवस्तुपतितो बोधिसत्त्वो द्रष्टव्यो योऽवस्तुपतितो दानं परित्यजति॥"
   },
-  "224": {
+  "225": {
    "targets": [
-    "224"
+    "225"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4652,9 +4633,9 @@
    ],
    "text": "अपि तु खलु पुनः सुभूते ये कुलपुत्रा वा कुलदुहितरो वा इमं धर्मपर्यायमुद्ग्रहीष्यन्ति धारयिष्यन्ति वाचयिष्यन्ति पर्यवाप्स्यन्ति, परेभ्यश्च विस्तरेण संप्रकाशयिष्यन्ति, ज्ञातास्ते सुभूते तथागतेन बुद्धज्ञानेन, दृष्टास्ते सुभूते तथागतेन बुद्धचक्षुषा, बुद्धास्ते तथागतेन।"
   },
-  "225": {
+  "226": {
    "targets": [
-    "225"
+    "226"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4673,9 +4654,9 @@
    ],
    "text": "सर्वे ते सुभूते सत्त्वा अप्रमेयमसंख्येयं पुण्यस्कन्धं प्रसविष्यन्ति प्रतिग्रहीष्यन्ति॥१४॥"
   },
-  "226": {
+  "227": {
    "targets": [
-    "226"
+    "227"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4694,9 +4675,9 @@
    ],
    "text": "यश्च खलु पुनः सुभूते स्त्री वा पुरुषो वा पुर्वाह्णकालसमये गङ्गानदीवालुकासमानात्मभावान् परित्यजेत्, एवं मध्याह्नकालसमये गङ्गानदीवालुकासमानात्मभावान् परित्यजेत्, सायाह्नकालसमये गङ्गानदीवालुकासमानात्मभावान् परित्यजेत्, अनेन पर्यायेण बहूनि कल्पकोटिनियुतशतसहस्राण्यात्मभावान् परित्यजेत्,"
   },
-  "227": {
+  "228": {
    "targets": [
-    "227"
+    "228"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4715,9 +4696,9 @@
    ],
    "text": "यश्चेमं धर्मपर्यायं श्रुत्वा न प्रतिक्षिपेत्, अयमेव ततोनिदानं बहुतरं पुण्यस्कन्धं प्रसुनुयादप्रमेयमसंख्येयम्, कः पुनर्वादो यो लिखित्वा उद्गृह्णीयाद्धारयेद्वाचयेत्पर्यवाप्नुयात्, परेभ्यश्च विस्तरेण संप्रकाशयेत्॥"
   },
-  "228": {
+  "229": {
    "targets": [
-    "228"
+    "229"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4736,9 +4717,9 @@
    ],
    "text": "अपि तु खलु पुनः सुभूते अचिन्त्योऽतुल्योऽयं धर्मपर्यायः।"
   },
-  "229": {
+  "230": {
    "targets": [
-    "229"
+    "230"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4757,9 +4738,9 @@
    ],
    "text": "अयं च सुभूते धर्मपर्यायस्तथागतेन भाषितोऽग्रयानसंप्रस्थितानां सत्त्वानामर्थाय, श्रेष्ठयानसंप्रस्थितानां सत्त्वानामर्थाय।"
   },
-  "230": {
+  "231": {
    "targets": [
-    "230"
+    "231"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4778,9 +4759,9 @@
    ],
    "text": "ये इमं धर्मपर्यायमुद्ग्रहीष्यन्ति धारयिष्यन्ति वाचयिष्यन्ति पर्यवाप्स्यन्ति, परेभ्यश्च विस्तरेण संप्रकाशयिष्यन्ति, ज्ञातास्ते सुभूते तथागतेन बुद्धज्ञानेन, दृष्टास्ते सुभूते तथागतेन बुद्धचक्षुषा, बुद्धास्ते तथागतेन।"
   },
-  "231": {
+  "232": {
    "targets": [
-    "231"
+    "232"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4799,9 +4780,9 @@
    ],
    "text": "सर्वे ते सुभूते सत्त्वा अप्रमेयेण पुण्यस्कन्धेनां समन्वागता भविष्यन्ति।"
   },
-  "232": {
+  "233": {
    "targets": [
-    "232"
+    "233"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4820,9 +4801,9 @@
    ],
    "text": "अचिन्त्येनातुल्येनामाप्येनापरिमाणेन पुण्यस्कन्धेन समन्वागता भविष्यन्ति।"
   },
-  "233": {
+  "234": {
    "targets": [
-    "233"
+    "234"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4841,9 +4822,9 @@
    ],
    "text": "सर्वे ते सुभूते सत्त्वाः समांशेन बोधिं धारयिष्यन्ति वचयिष्यन्ति पर्यवाप्स्यन्ति।"
   },
-  "234": {
+  "235": {
    "targets": [
-    "234"
+    "235"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4862,9 +4843,9 @@
    ],
    "text": "तत्कस्य हेतोः ? न हि शक्यं सुभूते अयं धर्मपर्यायो हीनाधिमुक्तिकैः सत्त्वैः श्रोतुम्,"
   },
-  "235": {
+  "236": {
    "targets": [
-    "235"
+    "236"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4883,9 +4864,9 @@
    ],
    "text": "नात्मदृष्टिकैर्न सत्त्वदृष्टिकैर्न जीवदृष्टिकैर्न पुद्गलदृष्टिकैः।"
   },
-  "236": {
+  "237": {
    "targets": [
-    "236"
+    "237"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4904,9 +4885,9 @@
    ],
    "text": "नाबोधिसत्त्वप्रतिज्ञै सत्त्वैः शक्यमयं धर्मपर्यायः श्रोतुं वा उद्ग्रहीतुं वा धारयितुं वा वाचयितुं वा पर्यवाप्तुं वा।"
   },
-  "237": {
+  "238": {
    "targets": [
-    "237"
+    "238"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4925,9 +4906,9 @@
    ],
    "text": "नेदं स्थानं विद्यते॥"
   },
-  "238": {
+  "239": {
    "targets": [
-    "238"
+    "239"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4946,9 +4927,9 @@
    ],
    "text": "अपि तु खलु पुनः सुभूते यत्र पृथिवीप्रदेशे इदं सूत्रं प्रकशयिष्यते, पूजनीयः स पृथिवीप्रदेशो भविष्यति सदेवमानुषासुरस्य लोकस्य।"
   },
-  "239": {
+  "240": {
    "targets": [
-    "239"
+    "240"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4967,9 +4948,9 @@
    ],
    "text": "वन्दनीयः प्रदक्षिणीयश्च स पृथिवीप्रदेशो भविष्यति,"
   },
-  "240": {
+  "241": {
    "targets": [
-    "240"
+    "241"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -4988,9 +4969,9 @@
    ],
    "text": "चैत्यभूतः स पृथिवीप्रदेशो भविष्यति॥१५॥"
   },
-  "241": {
+  "242": {
    "targets": [
-    "241"
+    "242"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5009,9 +4990,9 @@
    ],
    "text": "अपि तु ये ते सुभूते कुलपुत्रा वा कुलदुहितरो वा इमानेवंरूपान् सूत्रान्तानुद्ग्रहीष्यन्ति धारयिष्यन्ति वाचयिष्यन्ति पर्यवाप्स्यन्ति, योनिशश्च मनसिकरिष्यन्ति, परेभ्यश्च विस्तरेण संप्रकाशयिष्यन्ति, ते परिभूता भविष्यन्ति,"
   },
-  "242": {
+  "243": {
    "targets": [
-    "242"
+    "243"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5030,9 +5011,9 @@
    ],
    "text": "सुपरिभूताश्च भविष्यन्ति।"
   },
-  "243": {
+  "244": {
    "targets": [
-    "243"
+    "244"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5051,9 +5032,9 @@
    ],
    "text": "तत्कस्य हेतोः ? यानि च तेषां सुभूते सत्त्वानां पौर्वजन्मिकान्यशुभानि कर्माणि कृतान्यपायसंवर्तनीयानि, दृष्ट एव धर्मे परिभूततया तानि पौर्वजन्मिकान्यशुभानि कर्माणि क्षपयिष्यन्ति,"
   },
-  "244": {
+  "245": {
    "targets": [
-    "244"
+    "245"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5072,9 +5053,9 @@
    ],
    "text": "बुद्धबोधिं चानुप्राप्स्यन्ति॥"
   },
-  "245": {
+  "246": {
    "targets": [
-    "245"
+    "246"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5093,9 +5074,9 @@
    ],
    "text": "अभिजानाम्यहं सुभूते अतीतेऽध्वन्यसंख्येयैः कल्पैरसंख्येयतरैर्दीपंकरस्य तथागतस्यार्हतः सम्यक्संबुद्धस्य परेण परतरेण चतुरशीतिबुद्धकोटिनियुतशतसहस्राण्यभूवन् ये मयारागिताः,"
   },
-  "246": {
+  "247": {
    "targets": [
-    "246"
+    "247"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5114,9 +5095,9 @@
    ],
    "text": "आराग्य न विरागिताः।"
   },
-  "247": {
+  "248": {
    "targets": [
-    "247"
+    "248"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5135,9 +5116,9 @@
    ],
    "text": "यच्च मया सुभूते ते बुद्धा भगवन्त आरागिताः, आराग्य न विरागिताः, यच्च पश्चिमे काले पश्चिमे समये पश्चिमायां पञ्चशत्यां सद्धर्मविप्रलोपकाले वर्तमाने इमानेवंरूपान् सूत्रान्तानुद्ग्रहीष्यन्ति धारयिष्यन्ति वाचयिष्यन्ति पर्यवाप्स्यन्ति, परेभ्यश्च विस्तरेण संप्रकाशयिष्यन्ति, अस्य खलु पुनः सुभूते पुण्यस्कन्धस्यान्तिकादसौ पौर्वकः पुण्यस्कन्धः शततमीमपि कलां नोपैति,"
   },
-  "248": {
+  "249": {
    "targets": [
-    "248"
+    "249"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5156,9 +5137,9 @@
    ],
    "text": "सहस्रतमीमपि शतसहस्रतमीमपि कोटिममिपि कोटिशततमीमपि कोटिशतसहस्रतमीमपि कोटिनियुतशतसहस्रतमीमपि। संख्यामपि कलामपि गणनामपि उपमामपि उपनिषदमपि यावदौपम्यमपि न क्षमते॥"
   },
-  "249": {
+  "250": {
    "targets": [
-    "249"
+    "250"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5177,9 +5158,9 @@
    ],
    "text": "सचेत्पुनः सुभूते तेषां कुलपुत्राणां कुलदुहितॄणां वा अहं पुण्यस्कन्धं भाषेयम्, यावत्ते कुलपुत्रा वा कुलदुहितरो वा तस्मिन् समये पुण्यस्कन्धं प्रसविष्यन्ति, प्रतिग्रहीष्यन्ति, उन्मादं सत्त्वा अनुप्राप्नुयुश्चित्तविक्षेपं वा गच्छेयुः।"
   },
-  "250": {
+  "251": {
    "targets": [
-    "250"
+    "251"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5198,9 +5179,9 @@
    ],
    "text": "अपि तु खलु पुनः सुभूते अचिन्त्योऽतुल्योऽयं धर्मपर्यायस्तथागतेन भाषितः।"
   },
-  "251": {
+  "252": {
    "targets": [
-    "251"
+    "252"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5219,9 +5200,9 @@
    ],
    "text": "अस्य अचिन्त्य एव विपाकः प्रतिकाङ्क्षितव्यः॥१६॥"
   },
-  "252": {
+  "253": {
    "targets": [
-    "252"
+    "253"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5240,9 +5221,9 @@
    ],
    "text": "अथ खल्वायुष्मान् सुभूतिर्भगवन्तमेतदवोचत्-"
   },
-  "253": {
+  "254": {
    "targets": [
-    "253"
+    "254"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5261,9 +5242,9 @@
    ],
    "text": "कथं भगवन् बोधिसत्त्वयानसंप्रस्थितेन स्थातव्यम्,"
   },
-  "254": {
+  "255": {
    "targets": [
-    "254"
+    "255"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5282,9 +5263,9 @@
    ],
    "text": "कथं प्रतिपत्तव्यम्,"
   },
-  "255": {
+  "256": {
    "targets": [
-    "255"
+    "256"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5303,9 +5284,9 @@
    ],
    "text": "कथं चित्तं प्रग्रहीतव्यम् ?"
   },
-  "256": {
+  "257": {
    "targets": [
-    "256"
+    "257"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5324,9 +5305,9 @@
    ],
    "text": "भगवानाह-"
   },
-  "257": {
+  "258": {
    "targets": [
-    "257"
+    "258"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5345,9 +5326,9 @@
    ],
    "text": "इह सुभूते बोधिसत्त्वयानसंप्रस्थितेन एवं चित्तमुत्पादयितव्यम्-सर्वे सत्त्वा मया अनुपधिशेषे निर्वाणधातौ परिनिर्वापयितव्याः।"
   },
-  "258": {
+  "259": {
    "targets": [
-    "258"
+    "259"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5366,9 +5347,9 @@
    ],
    "text": "एवं स सत्त्वान् परिनिर्वाप्य न कश्चित्सत्त्वः परिनिर्वापितो भवति।"
   },
-  "259": {
+  "260": {
    "targets": [
-    "259"
+    "260"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5387,9 +5368,9 @@
    ],
    "text": "तत्कस्य हेतोः ? सचेत्सुभूते बोधिसत्त्वस्य सत्त्वसंज्ञा प्रवर्तेत, न स बोधिसत्त्व इति वक्तव्यः।"
   },
-  "260": {
+  "261": {
    "targets": [
-    "260"
+    "261"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5408,9 +5389,9 @@
    ],
    "text": "जीवसंज्ञा वा यावत्पुद्गलसंज्ञा वा प्रवर्तेत, न स बोधिसत्त्व इति वक्तव्यः।"
   },
-  "261": {
+  "262": {
    "targets": [
-    "261"
+    "262"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5429,9 +5410,9 @@
    ],
    "text": "तत्कस्य हेतोः ? नास्ति सुभूते स कश्चिद्धर्मो यो बोधिसत्त्वयानसंप्रस्थितो नाम॥"
   },
-  "262": {
+  "263": {
    "targets": [
-    "262"
+    "263"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5450,9 +5431,9 @@
    ],
    "text": "तत्किं मन्यसे सुभूते"
   },
-  "263": {
+  "264": {
    "targets": [
-    "263"
+    "264"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5471,9 +5452,9 @@
    ],
    "text": "अस्ति स कश्चिद्धर्मो यस्तथागतेन दीपंकरस्य तथागतस्यान्तिकादनुत्तरां सम्यक्संबोधिमभिसंबुद्धः ?"
   },
-  "264": {
+  "265": {
    "targets": [
-    "264"
+    "265"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5492,9 +5473,9 @@
    ],
    "text": "एवमुक्ते आयुष्मान् सुभूतिर्भगवन्तमेतदवोचत्-"
   },
-  "265": {
+  "266": {
    "targets": [
-    "265"
+    "266"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5513,9 +5494,9 @@
    ],
    "text": "यथाहं भगवतो भाषितस्यार्थमाजानामि, नास्ति स भगवन् कश्चिद्धर्मो यस्तथागतेन दीपंकरस्य तथागतस्यार्हतः सम्यक्संबुद्धस्यान्तिकादनुत्तरां सम्यक्संबोधिमभिसंबुद्धः।"
   },
-  "266": {
+  "267": {
    "targets": [
-    "266"
+    "267"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5534,9 +5515,9 @@
    ],
    "text": "एवमुक्ते भगवानायुष्मन्तं सुभूतिमेतदवोचत्-"
   },
-  "267": {
+  "268": {
    "targets": [
-    "267"
+    "268"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5555,9 +5536,9 @@
    ],
    "text": "एवमेतत्सुभूते, एवमेतत्।"
   },
-  "268": {
+  "269": {
    "targets": [
-    "268"
+    "269"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5576,9 +5557,9 @@
    ],
    "text": "नास्ति सुभूते स कश्चिद्धर्मो यस्तथागतेन दीपंकरस्य तथागतस्यार्हतः सम्यक्संबुद्धस्यान्तिकादनुत्तरां सम्यक्संबोधिमभिसंबुद्धः।"
   },
-  "269": {
+  "270": {
    "targets": [
-    "269"
+    "270"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5597,9 +5578,9 @@
    ],
    "text": "सचेत्पुनः सुभूते कश्चिद्धर्मस्तथागतेनाभिसंबुद्धोऽभविष्यत्, न मां दीपंकरस्तथागतो व्याकरिष्यत्-भविष्यसि त्वं माणव अनागतेऽध्वनि शाक्यमुनिर्नाम तथागतोऽर्हन् सम्यक्संबुद्ध इति।"
   },
-  "270": {
+  "271": {
    "targets": [
-    "270"
+    "271"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5618,9 +5599,9 @@
    ],
    "text": "यस्मात्तर्हि सुभूते तथागतेनार्हता सम्यक्संबुद्धेन नास्ति स कश्चिद्धर्मो योऽनुत्तरां सम्यक्संबोधिमभिसंबुद्धः,"
   },
-  "271": {
+  "272": {
    "targets": [
-    "271"
+    "272"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5639,9 +5620,9 @@
    ],
    "text": "तस्मादहं दीपंकरेण तथागतेन व्याकृत- भविष्यसि त्वं माणव अनागतेऽध्वनि शाक्यमुनिर्नाम तथागतोऽर्हन् सम्यक्संबुद्ध।"
   },
-  "272": {
+  "273": {
    "targets": [
-    "272"
+    "273"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5660,9 +5641,9 @@
    ],
    "text": "तत्कस्य हेतोः ? तथागत इति सुभूते भूततथताया एतदधिवचनम्।"
   },
-  "273": {
+  "274": {
    "targets": [
-    "273"
+    "274"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5681,9 +5662,9 @@
    ],
    "text": "000. तथागत इति सुभूते अनुत्पादधर्मताया एतदधिवचनम्। तथागत इति सुभूते धर्मोच्छेदस्यैतदधिवचनम्। तथागत इति सुभूते अत्यन्तानुत्पन्नस्यैतदधिवचनम्। तत्कस्य हेतोः ? एष सुभूते अनुत्पादो यः परमार्थः।"
   },
-  "274": {
+  "275": {
    "targets": [
-    "274"
+    "275"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5702,9 +5683,9 @@
    ],
    "text": "यः कश्चित्सुभूते एवं वदेत्-तथागतेनार्हता सम्यक्संबुद्धेन अनुत्तरा सम्यक्संबोधिरभिसंबुद्धेति, स वितथं वदेत्। अभ्याचक्षीत मां स सुभूते असतोद्गृहीतेन।"
   },
-  "276": {
+  "277": {
    "targets": [
-    "276"
+    "277"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5723,9 +5704,9 @@
    ],
    "text": "तत्कस्य हेतोः- ? नास्ति सुभूते स कश्चिद्धर्मो यस्तथागतेन अनुत्तरां सम्यक्संबोधिमभिसंबुद्धः।"
   },
-  "277": {
+  "278": {
    "targets": [
-    "277"
+    "278"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5744,9 +5725,9 @@
    ],
    "text": "यश्च सुभूते तथागतेन धर्मोऽभिसंबुद्धो देशितो वा तत्र न सत्यं न मृषा।"
   },
-  "278": {
+  "279": {
    "targets": [
-    "278"
+    "279"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5765,9 +5746,9 @@
    ],
    "text": "तस्मात्तथागतो भाषते-सर्वधर्मा बुद्धधर्मा इति।"
   },
-  "279": {
+  "280": {
    "targets": [
-    "279"
+    "280"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5786,9 +5767,9 @@
    ],
    "text": "तत्कस्य हेतोः ? सर्वधर्मा इति सुभूते अधर्मास्तथागतेन भाषिताः।"
   },
-  "280": {
+  "281": {
    "targets": [
-    "280"
+    "281"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5807,9 +5788,9 @@
    ],
    "text": "तस्मादुच्यन्ते सर्वधर्मा बुद्धधर्मा इति॥"
   },
-  "281": {
+  "282": {
    "targets": [
-    "281"
+    "282"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5828,9 +5809,9 @@
    ],
    "text": "तद्यथापि नाम सुभूते पुरुषो भवेदुपेतकायो महाकायः ?"
   },
-  "282": {
+  "283": {
    "targets": [
-    "282"
+    "283"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5849,9 +5830,9 @@
    ],
    "text": "आयुष्मान् सुभूतिराह- योऽसौ भगवंस्तथागतेन पुरुषो भाषित उपेतकायो महाकाय इति, अकायः स भगवंस्तथागतेन भाषितः।"
   },
-  "283": {
+  "284": {
    "targets": [
-    "283"
+    "284"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5870,9 +5851,9 @@
    ],
    "text": "तेनोच्यते उपेतकायो महाकाय इति॥"
   },
-  "284": {
+  "285": {
    "targets": [
-    "284"
+    "285"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5891,9 +5872,9 @@
    ],
    "text": "भगवानाह -एवमेतत्सुभूते।"
   },
-  "285": {
+  "286": {
    "targets": [
-    "285"
+    "286"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5912,9 +5893,9 @@
    ],
    "text": "यो बोधिसत्त्व एवं वदेत्-अहं सत्त्वान् परिनिर्वापयिष्यामिति, न स बोधिसत्त्व इति वक्तव्यः।"
   },
-  "286": {
+  "287": {
    "targets": [
-    "286"
+    "287"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5933,9 +5914,9 @@
    ],
    "text": "तत्कस्य हेतोः ? अस्ति सुभूते स कश्चिद्धर्मो यो बोधिसत्त्वो नाम ?"
   },
-  "287": {
+  "288": {
    "targets": [
-    "287"
+    "288"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5954,9 +5935,9 @@
    ],
    "text": "सुभूतिराह-नो हीदं भगवन्।"
   },
-  "288": {
+  "289": {
    "targets": [
-    "288"
+    "289"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5975,9 +5956,9 @@
    ],
    "text": "नास्ति स कश्चिद्धर्मो यो बोधिसत्त्वो नाम। भगवानाह- सत्त्वाः सत्त्वा इति सुभूते असत्त्वास्ते तथागतेन भाषिताः,तेनोच्यन्ते सत्त्वा इति। तस्मात्तथागतो भाषते-निरात्मानः सर्वधर्मा निर्जीवा निष्पोषा निष्पुद्गलाः सर्वधर्मा इति॥"
   },
-  "289": {
+  "290": {
    "targets": [
-    "289"
+    "290"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -5996,9 +5977,9 @@
    ],
    "text": "यः सुभूते बोधिसत्त्व एवं वदेत्- अहं क्षेत्रव्यूहान्निष्पादयिष्यामीति, स वितथं वदेत्।"
   },
-  "290": {
+  "291": {
    "targets": [
-    "290"
+    "291"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6017,9 +5998,9 @@
    ],
    "text": "तत्कस्य हेतोः ? क्षेत्रव्यूहाः क्षेत्रव्यूहा इति सुभूते अव्यूहास्ते तथागतेन भाषिताः।"
   },
-  "291": {
+  "292": {
    "targets": [
-    "291"
+    "292"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6038,9 +6019,9 @@
    ],
    "text": "तेनोच्यन्ते क्षेत्रव्यूहा इति॥"
   },
-  "292": {
+  "293": {
    "targets": [
-    "292"
+    "293"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6059,9 +6040,9 @@
    ],
    "text": "यः सुभूते बोधिसत्त्वो निरात्मानो धर्मा निरात्मानो धर्मा इत्यधिमुच्यते, तथागतेनार्हता सम्यक्संबुद्धेन बोधिसत्त्वो महासत्त्व इत्याख्यातः॥१७॥"
   },
-  "293": {
+  "294": {
    "targets": [
-    "293"
+    "294"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6080,9 +6061,9 @@
    ],
    "text": "भगवानाह-तत्किं मन्यसे सुभूते-संविद्यते तथागतस्य मांसचक्षुः ?"
   },
-  "294": {
+  "295": {
    "targets": [
-    "294"
+    "295"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6101,9 +6082,9 @@
    ],
    "text": "सुभूतिराह- एवमेतद्भगवन्, संविद्यते तथागतस्य मांसचक्षुः।"
   },
-  "295": {
+  "296": {
    "targets": [
-    "295"
+    "296"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6122,9 +6103,9 @@
    ],
    "text": "भगवानाह-तत्किं मन्यसे सुभूते"
   },
-  "296": {
+  "297": {
    "targets": [
-    "296"
+    "297"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6143,9 +6124,9 @@
    ],
    "text": "संविद्यते तथागतस्य दिव्यं चक्षुः ?"
   },
-  "297": {
+  "298": {
    "targets": [
-    "297"
+    "298"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6164,9 +6145,9 @@
    ],
    "text": "सुभूतिराह-एवमेतद्भगवन्, संविद्यते तथागतस्य दिव्यं चक्षुः।"
   },
-  "298": {
+  "299": {
    "targets": [
-    "298"
+    "299"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6185,9 +6166,9 @@
    ],
    "text": "भगवानाह-तत्किं मन्यसे सुभूते"
   },
-  "299": {
+  "300": {
    "targets": [
-    "299"
+    "300"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6206,9 +6187,9 @@
    ],
    "text": "संविद्यते तथागतस्य प्रज्ञाचक्षुः ?"
   },
-  "300": {
+  "301": {
    "targets": [
-    "300"
+    "301"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6227,9 +6208,9 @@
    ],
    "text": "सुभूतिराह-एवमेतद्भगवन्,"
   },
-  "301": {
+  "302": {
    "targets": [
-    "301"
+    "302"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6248,9 +6229,9 @@
    ],
    "text": "संविद्यते तथागतस्य प्रज्ञाचक्षुः।"
   },
-  "302": {
+  "303": {
    "targets": [
-    "302"
+    "303"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6269,9 +6250,9 @@
    ],
    "text": "भगवानाह-तत्किं मन्यसे सुभूते"
   },
-  "303": {
+  "304": {
    "targets": [
-    "303"
+    "304"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6290,9 +6271,9 @@
    ],
    "text": "संविद्यते तथागतस्य धर्मचक्षुः ?"
   },
-  "304": {
+  "305": {
    "targets": [
-    "304"
+    "305"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6311,9 +6292,9 @@
    ],
    "text": "सुभूतिराह-एवमेतद्भगवन्,"
   },
-  "305": {
+  "306": {
    "targets": [
-    "305"
+    "306"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6332,9 +6313,9 @@
    ],
    "text": "संविद्यते तथागतस्य धर्मचक्षुः।"
   },
-  "306": {
+  "307": {
    "targets": [
-    "306"
+    "307"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6353,9 +6334,9 @@
    ],
    "text": "भगवानाह- तत्किं मन्यसे सुभूते"
   },
-  "307": {
+  "308": {
    "targets": [
-    "307"
+    "308"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6374,9 +6355,9 @@
    ],
    "text": "संविद्यते तथागतस्य बुद्धचक्षुः ?"
   },
-  "308": {
+  "309": {
    "targets": [
-    "308"
+    "309"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6395,9 +6376,9 @@
    ],
    "text": "सुभूतिराह-एवमेतद्भगवन्,"
   },
-  "309": {
+  "310": {
    "targets": [
-    "309"
+    "310"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6430,9 +6411,9 @@
    ],
    "text": "संविद्यते तथागत बुद्धचक्षुः।भगवानाह-तत्किं मन्यसे सुभूते यावन्त्यो गङ्गायां महानद्यां वालुकाः, अपि नु ता वालुकास्तथागतेन भाषिताः ? सुभूतिराह-एवमेतद्भगवन्, एवमेतत् सुगत। भाषितास्तथागतेन वालुकाः।"
   },
-  "310": {
+  "311": {
    "targets": [
-    "310"
+    "311"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6451,9 +6432,9 @@
    ],
    "text": "भगवानाह-तत्किं मन्यसे सुभूते"
   },
-  "311": {
+  "312": {
    "targets": [
-    "311"
+    "312"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6472,9 +6453,9 @@
    ],
    "text": "यावत्यो गङ्गायां महानद्यां वालुकाः, तावत्य एव गङ्गानद्यो भवेयुः, तासु वा वालुकाः, तावन्तश्च लोकधातवो भवेयुः, कच्चिद्बहवस्ते लोकधातवो भवेयुः ?"
   },
-  "312": {
+  "313": {
    "targets": [
-    "312"
+    "313"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6493,9 +6474,9 @@
    ],
    "text": "सुभूतिराह-एवमेतद्भगवन्, एवमेतत् सुगत।"
   },
-  "313": {
+  "314": {
    "targets": [
-    "313"
+    "314"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6514,9 +6495,9 @@
    ],
    "text": "बहवस्ते लोकधातवो भवेयुः।"
   },
-  "314": {
+  "315": {
    "targets": [
-    "314"
+    "315"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6535,9 +6516,9 @@
    ],
    "text": "भगवानाह-यावन्तः सुभूते तेषु लोकधातुषु सत्त्वाः, तेषामहं नानाभावां चित्तधारां प्रजानामि।"
   },
-  "315": {
+  "316": {
    "targets": [
-    "315"
+    "316"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6556,9 +6537,9 @@
    ],
    "text": "तत्कस्य हेतोः ? चित्तधारा चित्तधारेति सुभूते अधारैषा तथागतेन भाषिता,"
   },
-  "316": {
+  "317": {
    "targets": [
-    "316"
+    "317"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6577,9 +6558,9 @@
    ],
    "text": "तेनोच्यते चित्तधारेति।"
   },
-  "317": {
+  "318": {
    "targets": [
-    "317"
+    "318"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6598,9 +6579,9 @@
    ],
    "text": "तत्कस्य हेतोः ? अतीतं सुभूते चित्तं नोपलभ्यते।"
   },
-  "318": {
+  "319": {
    "targets": [
-    "318"
+    "319"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6619,9 +6600,9 @@
    ],
    "text": "अनागतं चित्तं नोपलभ्यते।"
   },
-  "319": {
+  "320": {
    "targets": [
-    "319"
+    "320"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6640,9 +6621,9 @@
    ],
    "text": "प्रत्युत्पन्नं चित्तं नोपलभ्यते॥१८॥"
   },
-  "320": {
+  "321": {
    "targets": [
-    "320"
+    "321"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6661,9 +6642,9 @@
    ],
    "text": "तत्किं मन्यसे सुभूते"
   },
-  "321": {
+  "322": {
    "targets": [
-    "321"
+    "322"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6682,9 +6663,9 @@
    ],
    "text": "यः कश्चित्कुलपुत्रो वा कुलदुहिता वा इमं त्रिसाहस्रमहासाहस्रं लोकधातुं सप्तरत्नपरिपूर्णं कृत्वा तथागतेभ्योऽर्हद्भयः सम्यक्संबुद्धेभ्यो दानं दद्यात्, अपि नु स कुलपुत्रो वा कुलदुहिता वा ततोनिदानं बहु पुण्यस्कन्धं प्रसुनुयात् ?"
   },
-  "322": {
+  "323": {
    "targets": [
-    "322"
+    "323"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6703,9 +6684,9 @@
    ],
    "text": "सुभूतिराह- बहु भगवन्,"
   },
-  "323": {
+  "324": {
    "targets": [
-    "323"
+    "324"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6724,9 +6705,9 @@
    ],
    "text": "बहु सुगत।"
   },
-  "324": {
+  "325": {
    "targets": [
-    "324"
+    "325"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6745,9 +6726,9 @@
    ],
    "text": "भगवानाह-एवमेतत्सुभूते, एवमेतत्।"
   },
-  "325": {
+  "326": {
    "targets": [
-    "325"
+    "326"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6766,9 +6747,9 @@
    ],
    "text": "बहु स कुलपुत्रो वा कुलदुहिता वा ततोनिदानं पुण्यस्कन्धं प्रसुनुयादप्रमेयमसंख्येयम्।"
   },
-  "326": {
+  "327": {
    "targets": [
-    "326"
+    "327"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6787,9 +6768,9 @@
    ],
    "text": "तत्कस्य हेतोः ? पुण्यस्कन्धः पुण्यस्कन्ध इति सुभूते अस्कन्धः स तथागतेन भाषितः।"
   },
-  "327": {
+  "328": {
    "targets": [
-    "327"
+    "328"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6808,9 +6789,9 @@
    ],
    "text": "तेनोच्यते पुण्यस्कन्ध इति। सचेत् पुनः सुभूते पुण्यस्कन्धोऽभविष्यत्, न तथागतोऽभाषिष्यत् पुण्यस्कन्धः पुण्यस्कन्ध इति॥१९॥"
   },
-  "328": {
+  "329": {
    "targets": [
-    "328"
+    "329"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6829,9 +6810,9 @@
    ],
    "text": "तत्किं मन्यसे सुभूते"
   },
-  "329": {
+  "330": {
    "targets": [
-    "329"
+    "330"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6850,9 +6831,9 @@
    ],
    "text": "रूपकायपरिनिष्पत्त्या तथागतो द्रष्टव्यः ?"
   },
-  "330": {
+  "331": {
    "targets": [
-    "330"
+    "331"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6871,9 +6852,9 @@
    ],
    "text": "सुभूतिराह-नो हीदं भगवन्।"
   },
-  "331": {
+  "332": {
    "targets": [
-    "331"
+    "332"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6892,9 +6873,9 @@
    ],
    "text": "न रूपकायपरिनिष्पत्त्या तथागतो द्रष्टव्यः।"
   },
-  "332": {
+  "333": {
    "targets": [
-    "332"
+    "333"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6913,9 +6894,9 @@
    ],
    "text": "तत्कस्य हेतोः ? रूपकायपरिनिष्पत्ती रूपकायपरिनिष्पत्तिरिति भगवन् अपरिनिष्पत्तिरेषा तथागतेन भाषिता।"
   },
-  "333": {
+  "334": {
    "targets": [
-    "333"
+    "334"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6934,9 +6915,9 @@
    ],
    "text": "तेनोच्यते रूपकायपरिनिष्पत्तिरिति॥"
   },
-  "334": {
+  "335": {
    "targets": [
-    "334"
+    "335"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6955,9 +6936,9 @@
    ],
    "text": "भगवानाह- तत्किं मन्यसे सुभूते"
   },
-  "335": {
+  "336": {
    "targets": [
-    "335"
+    "336"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6976,9 +6957,9 @@
    ],
    "text": "लक्षणसंपदा तथागतो द्रष्टव्यः ?"
   },
-  "336": {
+  "337": {
    "targets": [
-    "336"
+    "337"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -6997,9 +6978,9 @@
    ],
    "text": "सुभूतिराह-नो हीदं भगवान्।"
   },
-  "337": {
+  "338": {
    "targets": [
-    "337"
+    "338"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7018,9 +6999,9 @@
    ],
    "text": "न लक्षणसंपदा तथागतो द्रष्टव्यः।"
   },
-  "338": {
+  "339": {
    "targets": [
-    "338"
+    "339"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7039,9 +7020,9 @@
    ],
    "text": "तत्कस्य हेतोः ? यैषा भगवन् लक्षणसंपत्तथागतेन भाषिता, अलक्षणसंपदेषा तथागतेन भाषिता।"
   },
-  "339": {
+  "340": {
    "targets": [
-    "339"
+    "340"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7060,9 +7041,9 @@
    ],
    "text": "तेनोच्यते लक्षणसंपदिति॥२०॥"
   },
-  "340": {
+  "341": {
    "targets": [
-    "340"
+    "341"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7081,9 +7062,9 @@
    ],
    "text": "भगवानाह- तत्किं मन्यसे सुभूते"
   },
-  "341": {
+  "342": {
    "targets": [
-    "341"
+    "342"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7102,9 +7083,9 @@
    ],
    "text": "अपि नु तथागतस्यैवं भवति-मया धर्मो देशित इति ? सुभूतिराह-नो हीदं भगवन्"
   },
-  "342": {
+  "343": {
    "targets": [
-    "342"
+    "343"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7123,9 +7104,9 @@
    ],
    "text": "तथागतस्यैवं भवति-मया धर्मो देशित इति।"
   },
-  "343": {
+  "344": {
    "targets": [
-    "343"
+    "344"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7144,9 +7125,9 @@
    ],
    "text": "भगवानाह-यः सुभूते एवं वदेत्- तथागतेन धर्मो देशित इति, स वितथं वदेत्। अभ्याचक्षीत मां स सुभूते असतोद्गृहीतेन।"
   },
-  "344": {
+  "345": {
    "targets": [
-    "344"
+    "345"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7165,9 +7146,9 @@
    ],
    "text": "तत्कस्य हेतोः ? धर्मदेशना धर्मदेशनेति सुभूते नास्ति स कश्चिद्धर्मो यो धर्मदेशना नामोपलभ्यते॥"
   },
-  "345": {
+  "346": {
    "targets": [
-    "345"
+    "346"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7186,9 +7167,9 @@
    ],
    "text": "एवमुक्ते आयुष्मान् सुभूतिर्भगवन्तमेतदवोचत्-"
   },
-  "346": {
+  "347": {
    "targets": [
-    "346"
+    "347"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7207,9 +7188,9 @@
    ],
    "text": "अस्ति भगवन् केचित्सत्त्वा भविष्यन्त्यनागतेऽध्वनि पश्चिमे काले पश्चिमे समये पश्चिमायां पञ्चशत्यां सद्धर्मविप्रलोपे वर्तमाने, य इमानेवंरूपान् धर्मान् श्रुत्वा अभिश्रद्धास्यन्ति।"
   },
-  "347": {
+  "348": {
    "targets": [
-    "347"
+    "348"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7228,9 +7209,9 @@
    ],
    "text": "भगवानाह- न ते सुभूते सत्त्वा नासत्त्वाः।"
   },
-  "348": {
+  "349": {
    "targets": [
-    "348"
+    "349"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7249,9 +7230,9 @@
    ],
    "text": "तत्कस्य हेतोः ? सत्त्वाः सत्त्वा इति सुभूते सर्वे ते सुभूते असत्त्वास्तथागतेन भाषिताः।"
   },
-  "349": {
+  "350": {
    "targets": [
-    "349"
+    "350"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7270,9 +7251,9 @@
    ],
    "text": "तेनोच्यन्ते सत्त्वा इति॥२१॥"
   },
-  "350": {
+  "351": {
    "targets": [
-    "350"
+    "351"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7291,9 +7272,9 @@
    ],
    "text": "तत्किं मन्यसे सुभूते-"
   },
-  "351": {
+  "352": {
    "targets": [
-    "351"
+    "352"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7312,9 +7293,9 @@
    ],
    "text": "अपि नु अस्ति स कश्चिद्धर्मः, यस्तथागतेनानुत्तरां सम्यक्संबोधिमभिसंबुद्धः ?"
   },
-  "352": {
+  "353": {
    "targets": [
-    "352"
+    "353"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7333,9 +7314,9 @@
    ],
    "text": "आयुष्मान् सुभूतिराह-नो हीदं भगवन्। नास्ति स भगवन् कश्चिद्धर्मो यस्तथागतेनानुत्तरां सम्यक्संबोधिमभिसंबुद्धः।"
   },
-  "353": {
+  "354": {
    "targets": [
-    "353"
+    "354"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7354,9 +7335,9 @@
    ],
    "text": "भगवानाह-एवमेतत्सुभूते, एवमेतत्।"
   },
-  "354": {
+  "355": {
    "targets": [
-    "354"
+    "355"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7375,9 +7356,9 @@
    ],
    "text": "अणुरपि तत्र धर्मो न संविद्यते नोपलभ्यते।"
   },
-  "355": {
+  "356": {
    "targets": [
-    "355"
+    "356"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7396,9 +7377,9 @@
    ],
    "text": "तेनोच्यते अनुत्तरा सम्यक्संबोधिरिति॥२२॥"
   },
-  "356": {
+  "357": {
    "targets": [
-    "356"
+    "357"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7417,9 +7398,9 @@
    ],
    "text": "अपि तु खलु पुनः सुभूते समः स धर्मो न तत्र कश्चिद्विषमः।"
   },
-  "357": {
+  "358": {
    "targets": [
-    "357"
+    "358"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7438,9 +7419,9 @@
    ],
    "text": "तेनोच्यते अनुत्तरा सम्यक्संबोधिरिति।"
   },
-  "358": {
+  "359": {
    "targets": [
-    "358"
+    "359"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7459,9 +7440,9 @@
    ],
    "text": "निरात्मत्वेन निःसत्त्वत्वेन निर्जीवत्वेन निष्पुद्गलत्वेन समा सा अनुत्तरा सम्यक्संबोधिः"
   },
-  "359": {
+  "360": {
    "targets": [
-    "359"
+    "360"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7480,9 +7461,9 @@
    ],
    "text": "सर्वैः कुशलैर्धर्मैरभिसंबुध्यते।"
   },
-  "360": {
+  "361": {
    "targets": [
-    "360"
+    "361"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7501,9 +7482,9 @@
    ],
    "text": "तत्कस्य हेतोः ? कुशला धर्माः कुशला धर्मा इति सुभूते अधर्माश्चैव ते तथागतेन भाषिताः।"
   },
-  "361": {
+  "362": {
    "targets": [
-    "361"
+    "362"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7522,9 +7503,9 @@
    ],
    "text": "तेनोच्यन्ते कुशला धर्मा इति॥२३॥"
   },
-  "362": {
+  "363": {
    "targets": [
-    "362"
+    "363"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7543,9 +7524,9 @@
    ],
    "text": "यश्च खलु पुनः सुभुते स्त्री वा पुरुषो वा यावन्तस्त्रिसाहस्रमहासाहस्रे लोकधातौ सुमेरवः पर्वतराजानः, तावतो राशीन् सप्तानां रत्नानामभिसंहृत्य तथागतेभ्योऽर्हद्भयः सम्यक्संबुद्धेभ्यो दानं दद्यात्, यश्च कुलपुत्रो वा कुलदुहिता वा इतः प्रज्ञापारमिताया धर्मपर्यायादन्तशश्चतुष्पादिकामपि गाथामुद्गृह्य परेभ्यो देशयेत्, अस्य सुभूते पुण्यस्कन्धस्य असौ पौर्वकः पुण्यस्कन्धः शततमीमपि कलां नोपैति, यावदुपनिषदमपि न क्षमते॥२४॥"
   },
-  "363": {
+  "364": {
    "targets": [
-    "363"
+    "364"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7564,9 +7545,9 @@
    ],
    "text": "तत्किं मन्यसे सुभूते-"
   },
-  "364": {
+  "365": {
    "targets": [
-    "364"
+    "365"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7585,9 +7566,9 @@
    ],
    "text": "अपि नु तथागतस्यैवं भवति-मया सत्त्वाः परिमोचिता इति? न खलु पुनः सुभूते एवं द्रष्टव्यम्।"
   },
-  "365": {
+  "366": {
    "targets": [
-    "365"
+    "366"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7606,9 +7587,9 @@
    ],
    "text": "तत्कस्य हेतोः ? नास्ति सुभूते कश्चित्सत्त्वो यस्तथागतेन परिमोचितः।"
   },
-  "366": {
+  "367": {
    "targets": [
-    "366"
+    "367"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7627,9 +7608,9 @@
    ],
    "text": "यदि पुनः सुभूते कश्चित्सत्त्वोऽभविष्यद्यस्तथागतेन परिमोचितः स्यात्, स एव तथागतस्यात्मग्राहोऽभविष्यत्,"
   },
-  "367": {
+  "368": {
    "targets": [
-    "367"
+    "368"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7648,9 +7629,9 @@
    ],
    "text": "सत्त्वग्राहो जीवग्राहः पुद्गलग्राहोऽभविष्यत्।"
   },
-  "368": {
+  "369": {
    "targets": [
-    "368"
+    "369"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7669,9 +7650,9 @@
    ],
    "text": "आत्मग्राह इति सुभूते अग्राह एष तथागतेन भाषितः। स च बालपृथग्जनैरुद्गृहीतः।"
   },
-  "369": {
+  "370": {
    "targets": [
-    "369"
+    "370"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7690,9 +7671,9 @@
    ],
    "text": "बालपृथग्जना इति सुभूते अजना एव ते तथागतेन भाषिताः।"
   },
-  "370": {
+  "371": {
    "targets": [
-    "370"
+    "371"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7711,9 +7692,9 @@
    ],
    "text": "तेनोच्यन्ते बालपृथग्जना इति॥२५॥"
   },
-  "371": {
+  "372": {
    "targets": [
-    "371"
+    "372"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7732,9 +7713,9 @@
    ],
    "text": "तत्किं मन्यसे सुभूते-"
   },
-  "372": {
+  "373": {
    "targets": [
-    "372"
+    "373"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7753,9 +7734,9 @@
    ],
    "text": "लक्षणसंपदा तथागतो द्रष्टव्यः ?"
   },
-  "373": {
+  "374": {
    "targets": [
-    "373"
+    "374"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7788,9 +7769,9 @@
    ],
    "text": "सुभूतिराह-नो हीदं भगवन्।यथाहं भगवतो भाषितस्यार्थमाजानामि,"
   },
-  "374": {
+  "375": {
    "targets": [
-    "374"
+    "375"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7809,9 +7790,9 @@
    ],
    "text": "न लक्षणसंपदा तथागतो द्रष्टव्यः।"
   },
-  "375": {
+  "376": {
    "targets": [
-    "375"
+    "376"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7844,9 +7825,9 @@
    ],
    "text": "भगवानाह-साधु साधु सुभूते, एवमेतत्सुभूते,एवमेतद्यथा वदसि।"
   },
-  "376": {
+  "377": {
    "targets": [
-    "376"
+    "377"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7865,9 +7846,9 @@
    ],
    "text": "न लक्षणसंपदा तथागतो द्रष्टव्यः।"
   },
-  "377": {
+  "378": {
    "targets": [
-    "377"
+    "378"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7886,9 +7867,9 @@
    ],
    "text": "तत्कस्य हेतोः ? सचेत्पुनः सुभूते लक्षणसंपदा तथागतो द्रष्टव्योऽभविष्यत्, राजापि चक्रवर्ती तथागतोऽभविष्यत्।"
   },
-  "378": {
+  "379": {
    "targets": [
-    "378"
+    "379"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7907,9 +7888,9 @@
    ],
    "text": "तस्मान्न लक्षणसंपदा तथागतो द्रष्टव्यः।"
   },
-  "379": {
+  "380": {
    "targets": [
-    "379"
+    "380"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7928,9 +7909,9 @@
    ],
    "text": "आयुष्मान् सुभुतिर्भगवन्तमेतदवोचत्-"
   },
-  "380": {
+  "381": {
    "targets": [
-    "380"
+    "381"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7949,9 +7930,9 @@
    ],
    "text": "यथाहं भगवतो भाषितस्यार्थमाजानामि, न लक्षणसंपदा तथागतो द्रष्टव्यः॥"
   },
-  "381": {
+  "382": {
    "targets": [
-    "381"
+    "382"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7970,9 +7951,9 @@
    ],
    "text": "अथ खलु भगवांस्तस्यां वेलायामिमे गाथे अभाषत-"
   },
-  "382": {
+  "383": {
    "targets": [
-    "382"
+    "383"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -7991,9 +7972,9 @@
    ],
    "text": "ये मां रूपेण चाद्राक्षुर्ये मां घोषेण चान्वगुः।मिथ्याप्रहाणप्रसृता"
   },
-  "383": {
+  "384": {
    "targets": [
-    "383"
+    "384"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8012,9 +7993,9 @@
    ],
    "text": "न मां द्रक्ष्यन्ति ते जनाः॥१॥"
   },
-  "384": {
+  "385": {
    "targets": [
-    "384"
+    "385"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8033,9 +8014,9 @@
    ],
    "text": "धर्मतो बुद्धो द्रष्टव्यो"
   },
-  "385": {
+  "386": {
    "targets": [
-    "385"
+    "386"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8054,9 +8035,9 @@
    ],
    "text": "धर्मकाया हि नायकाः।धर्मता च न विज्ञेया न सा शक्या विजानितुम्॥२॥२६॥"
   },
-  "386": {
+  "387": {
    "targets": [
-    "386"
+    "387"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8075,9 +8056,9 @@
    ],
    "text": "तत्किं मन्यसे सुभूते"
   },
-  "387": {
+  "388": {
    "targets": [
-    "387"
+    "388"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8096,9 +8077,9 @@
    ],
    "text": "लक्षणसंपदा तथागतेन अनुत्तरा सम्यक्संबोधिरभिसंबुद्धा ? न खलु पुनस्ते सुभूते एवं द्रष्टव्यम्। तत्कस्य हेतोः ?"
   },
-  "388": {
+  "389": {
    "targets": [
-    "388"
+    "389"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8117,9 +8098,9 @@
    ],
    "text": "न हि सुभूते लक्षणसंपदा तथागतेन अनुत्तरा सम्यक्संबोधिरभिसंबुद्धा स्यात्।"
   },
-  "389": {
+  "390": {
    "targets": [
-    "389"
+    "390"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8138,9 +8119,9 @@
    ],
    "text": "न खलु पुनस्ते सुभूते कश्चिदेवं वदेत्-बोधिसत्त्वयानसंप्रस्थितैः कस्यचिद्धर्मस्य विनाशः प्रज्ञप्तः उच्छेदो वेति। न खलु पुनस्ते सुभूते एवं द्रष्टव्यम्। तत्कस्य हेतोः ?"
   },
-  "390": {
+  "391": {
    "targets": [
-    "390"
+    "391"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8159,9 +8140,9 @@
    ],
    "text": "न बोधिसत्त्वयानसंप्रस्थितैः कस्यचिद्धर्मस्य विनाशः प्रज्ञप्तो नोच्छेदः॥२७॥"
   },
-  "391": {
+  "392": {
    "targets": [
-    "391"
+    "392"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8180,9 +8161,9 @@
    ],
    "text": "यश्च खलु पुनः सुभूते कुलपुत्रो वा कुलदुहिता वा गङ्गानदीवालुकासमाँल्लोकधातून् सप्तरत्नपरिपूर्णं कृत्वा तथागतेभ्योऽर्हद्भयः सम्यक्संबुद्धेभ्यो दानं दद्यात्, यश्च बोधिसत्त्वो निरात्मकेष्वनुत्पत्तिकेषु धर्मेषु क्षान्तिं प्रतिलभते, अयमेव ततोनिदानं बहुतरं पुण्यस्कन्धं प्रसवेदप्रमेयमसंख्येयम्।"
   },
-  "392": {
+  "393": {
    "targets": [
-    "392"
+    "393"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8201,9 +8182,9 @@
    ],
    "text": "न खलु पुनः सुभूते बोधिसत्त्वेन महासत्त्वेन पुण्यस्कन्धः परिग्रहीतव्यः।"
   },
-  "393": {
+  "394": {
    "targets": [
-    "393"
+    "394"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8222,9 +8203,9 @@
    ],
    "text": "आयुष्मान् सुभूतिराह- ननु भगवन् बोधिसत्त्वेन पुण्यस्कन्धः परिग्रहीतव्यः ?"
   },
-  "394": {
+  "395": {
    "targets": [
-    "394"
+    "395"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8243,9 +8224,9 @@
    ],
    "text": "भगवानाह-परिग्रहीतव्यः सुभूते नो ग्रहीतव्यः।"
   },
-  "395": {
+  "396": {
    "targets": [
-    "395"
+    "396"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8264,9 +8245,9 @@
    ],
    "text": "तेनोच्यते परिग्रहीतव्य इति॥२८॥"
   },
-  "396": {
+  "397": {
    "targets": [
-    "396"
+    "397"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8285,9 +8266,9 @@
    ],
    "text": "अपि तु खलु पुनः सुभूते यः कश्चिदेवं वदेत्-तथागतो गच्छति वा आगच्छति वा तिष्ठति वा निषीदति वा, शय्यां वा कल्पयति, न मे सुभूते (स) भाषितस्यार्थमाजानाति।"
   },
-  "397": {
+  "398": {
    "targets": [
-    "397"
+    "398"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8306,9 +8287,9 @@
    ],
    "text": "तत्कस्य हेतोः ? तथागत इति सुभूते उच्यते न क्वचिद्गतो न कुतश्चिदागतः।"
   },
-  "398": {
+  "399": {
    "targets": [
-    "398"
+    "399"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8327,9 +8308,9 @@
    ],
    "text": "तेनोच्यते तथागतोऽर्हन् सम्यक्संबुद्ध इति॥२९॥"
   },
-  "399": {
+  "400": {
    "targets": [
-    "399"
+    "400"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8348,9 +8329,9 @@
    ],
    "text": "यश्च खलु पुनः सुभूते कुलपुत्रो वा कुलदुहिता वा यावन्ति त्रिसाहस्रमहासाहस्रे लोकधातौ पृथिवीरजांसि, तावतां लोकधातूनामेवंरूपं मषिं कुर्यात् यावदेवमसंख्येयेन वीर्येण तद्यथापि नाम परमाणुसंचयः, तत्किं मन्यसे सुभूते-अपि नु बहुः स परमाणुसंचयो भवेत् ?"
   },
-  "400": {
+  "401": {
    "targets": [
-    "400"
+    "401"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8369,9 +8350,9 @@
    ],
    "text": "सुभूतिराह-एवमेतद्भगवन्, एवमेतत्सुगत।"
   },
-  "401": {
+  "402": {
    "targets": [
-    "401"
+    "402"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8390,9 +8371,9 @@
    ],
    "text": "बहुः स परमाणुसंचयो भवेत्।"
   },
-  "402": {
+  "403": {
    "targets": [
-    "402"
+    "403"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8411,9 +8392,9 @@
    ],
    "text": "तत्कस्य हेतोः ? सचेद्भगवन् बहुः परमाणुसंचयोऽभविष्यत्, न भगवानवक्ष्यत्-परमाणुसंचय इति।"
   },
-  "403": {
+  "404": {
    "targets": [
-    "403"
+    "404"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8432,9 +8413,9 @@
    ],
    "text": "तत्कस्य हेतोः ? योऽसौ भगवन् परमाणुसंचयस्तथागतेन भाषितः, असंचयः स तथागतेन भाषितः।"
   },
-  "404": {
+  "405": {
    "targets": [
-    "404"
+    "405"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8453,9 +8434,9 @@
    ],
    "text": "तेनोच्यते परमाणुसंचय इति।"
   },
-  "405": {
+  "406": {
    "targets": [
-    "405"
+    "406"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8474,9 +8455,9 @@
    ],
    "text": "यश्च तथागतेन भाषितस्त्रिसाहस्रमहासाहस्रो लोकधातुरिति, अधातुः स तथागतेन भाषितः।"
   },
-  "406": {
+  "407": {
    "targets": [
-    "406"
+    "407"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8495,9 +8476,9 @@
    ],
    "text": "तेनोच्यते त्रिसाहस्रमहासाहस्रो लोकधातुरिति।"
   },
-  "407": {
+  "408": {
    "targets": [
-    "407"
+    "408"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8516,9 +8497,9 @@
    ],
    "text": "तत्कस्य हेतोः ? सचेद्भगवन् लोकधातुरभविष्यत्, स एव पिण्डग्राहोऽभविष्यत्।"
   },
-  "408": {
+  "409": {
    "targets": [
-    "408"
+    "409"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8537,9 +8518,9 @@
    ],
    "text": "यश्चैव पिण्डग्राहस्तथागतेन भाषितः, अग्राहः स तथागतेन भाषितः।"
   },
-  "409": {
+  "410": {
    "targets": [
-    "409"
+    "410"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8558,9 +8539,9 @@
    ],
    "text": "तेनोच्यते पिण्डग्राह इति।"
   },
-  "410": {
+  "411": {
    "targets": [
-    "410"
+    "411"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8579,9 +8560,9 @@
    ],
    "text": "भगवानाह- पिण्डग्राहश्चैव सुभूते अव्यवहारोऽनभिलाप्यः।"
   },
-  "411": {
+  "412": {
    "targets": [
-    "411"
+    "412"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8600,9 +8581,9 @@
    ],
    "text": "न स धर्मो नाधर्मः। स च बालपृथग्जनैरुद्गृहीतः॥३०॥"
   },
-  "412": {
+  "413": {
    "targets": [
-    "412"
+    "413"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8621,9 +8602,9 @@
    ],
    "text": "तत्कस्य हेतोः ? यो हि कश्चित्सुभूते एवं वदेत्-आत्मदृष्टिस्तथागतेन भाषिता,"
   },
-  "413": {
+  "414": {
    "targets": [
-    "413"
+    "414"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8642,9 +8623,9 @@
    ],
    "text": "सत्त्वदृष्टिर्जीवदृष्टिः पुद्गलदृष्टिस्तथागतेन भाषिता, अपि नु स सुभूते सम्यग्वदमानो वदेत् ?"
   },
-  "414": {
+  "415": {
    "targets": [
-    "414"
+    "415"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8663,9 +8644,9 @@
    ],
    "text": "सुभूतिराह-नो हीदं भगवन्,"
   },
-  "415": {
+  "416": {
    "targets": [
-    "415"
+    "416"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8698,9 +8679,9 @@
    ],
    "text": "नो हीदं सुगत,न सम्यग्वदमानो वदेत्।"
   },
-  "416": {
+  "417": {
    "targets": [
-    "416"
+    "417"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8719,9 +8700,9 @@
    ],
    "text": "तत्कस्य हेतोः ? या सा भगवन् आत्मदृष्टिस्तथागतेन भाषिता, अदृष्टिः सा तथागतेन भाषिता।"
   },
-  "417": {
+  "418": {
    "targets": [
-    "417"
+    "418"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8740,9 +8721,9 @@
    ],
    "text": "तेनोच्यते आत्मदृष्टिरिति॥"
   },
-  "418": {
+  "419": {
    "targets": [
-    "418"
+    "419"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8761,9 +8742,9 @@
    ],
    "text": "भगवानाह-एवं हि सुभूते बोधिसत्त्वयानसंप्रस्थितेन सर्वधर्मा ज्ञातव्या द्रष्टव्या अधिमोक्तव्याः।"
   },
-  "419": {
+  "420": {
    "targets": [
-    "419"
+    "420"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8789,9 +8770,9 @@
    ],
    "text": "तथाच ज्ञातव्या द्रष्टव्या अधिमोक्तव्याः, यथा न धर्मसंज्ञायामपि प्रत्युपतिष्ठेन्नाधर्मसंज्ञायाम्।"
   },
-  "420": {
+  "421": {
    "targets": [
-    "420"
+    "421"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8810,9 +8791,9 @@
    ],
    "text": "तत्कस्य हेतोः ? धर्मसंज्ञा धर्मसंज्ञेति सुभूते असंज्ञैषा तथागतेन भाषिता।"
   },
-  "421": {
+  "422": {
    "targets": [
-    "421"
+    "422"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8831,9 +8812,9 @@
    ],
    "text": "तेनोच्यते धर्मसंज्ञेति॥३१॥"
   },
-  "422": {
+  "423": {
    "targets": [
-    "422"
+    "423"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8852,9 +8833,9 @@
    ],
    "text": "यश्च खलु पुनः सुभूते बोधिसत्त्वो महासत्त्वोऽप्रमेयानसंख्येयांल्लोकधातून् सप्तरत्नपरिपूर्णं कृत्वा तथागतेभ्योऽर्हद्भयः सम्यक्संबुद्धेभ्यो दानं दद्यात्, यश्च कुलपुत्रो वा कुलदुहिता वा इतः प्रज्ञापारमिताया धर्मपर्यायादन्तशश्चतुष्पादिकामपि गाथामुद्गृह्य धारयेद्देशयेद्वाचयेत् पर्यवाप्नुयात्, परेभ्यश्च विस्तरेण संप्रकाशयेत्, अयमेव ततोनिदानं बहुतरं पुण्यस्कन्धं प्रसुनुयादप्रमेयमसंख्येयम्।"
   },
-  "423": {
+  "424": {
    "targets": [
-    "423"
+    "424"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8873,9 +8854,9 @@
    ],
    "text": "कथं च संप्रकाशयेत् ?"
   },
-  "424": {
+  "425": {
    "targets": [
-    "424"
+    "425"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8894,9 +8875,9 @@
    ],
    "text": "तद्यथाकाशे-"
   },
-  "425": {
+  "426": {
    "targets": [
-    "425"
+    "426"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8929,9 +8910,9 @@
    ],
    "text": "तारका तिमिरं दीपो मायावश्याय बुद्बुदम्। स्वप्नं च विद्युदभ्रं च एवं द्रष्टव्य संस्कृतम्॥तथा प्रकाशयेत्, तेनोच्यते संप्रकाशयेदिति॥"
   },
-  "426": {
+  "427": {
    "targets": [
-    "426"
+    "427"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8950,9 +8931,9 @@
    ],
    "text": "इदमवोचद्भगवान् आत्तमनाः। स्थविरसुभूतिस्ते च भिक्षुभिक्षुण्युपासकोपासिकास्ते च बोधिसत्त्वाः सदेवमानुषासुरगन्धर्वश्च लोको"
   },
-  "427": {
+  "428": {
    "targets": [
-    "427"
+    "428"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -8971,11 +8952,11 @@
    ],
    "text": "भगवतो भाषितमभ्यनन्दन्निति॥३२॥ ॥"
   },
-  "428": {
+  "429": {
    "targets": [
-    "428",
     "429",
-    "430"
+    "430",
+    "431"
    ],
    "source": {
     "doc": "dzongsar-drive/Dzongsar_corpus/Dzongsar/01_རྡོ་རྗེ་གཅོད་པ།/I_Commentary_OtherLang/M42AE7A72 རྡོ་རྗེ་གཅོད་པ་རྩ་བ། Sanskrit- Tibetan.docx",
@@ -9001,91 +8982,90 @@
   {
    "row": 1,
    "root_row_text": "༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །",
-   "targets": [
-    "1"
-   ]
+   "targets": []
   },
   {
    "row": 4,
    "root_row_text": "སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །",
    "targets": [
-    "4"
+    "3"
    ]
   },
   {
    "row": 5,
    "root_row_text": "འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། ",
    "targets": [
-    "5"
+    "4"
    ]
   },
   {
    "row": 6,
    "root_row_text": "བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང༌། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དག་དང་ཐབས་གཅིག་ཏུ་བཞུགས་སོ། །",
    "targets": [
-    "6"
+    "5"
    ]
   },
   {
    "row": 7,
    "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ། ཤམ་ཐབས་དང་ཆོས་གོས་སྐུ་ལ་གསོལ་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་སོ། །",
    "targets": [
-    "7"
+    "6"
    ]
   },
   {
    "row": 8,
    "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་ནས་ཞལ་ཟས་གསོལ་ཏེ་ཟས་ཀྱི་བྱ་བ་མཛད་དེ། ",
    "targets": [
-    "8"
+    "7"
    ]
   },
   {
    "row": 9,
    "root_row_text": "ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས་ལྷུང་བཟེད་དང་ཆོས་གོས་བཞག་ནས། ཞབས་བསིལ་ཏེ་གདན་བཤམས་པ་ལ་སྐྱིལ་མོ་ཀྲུང་བཅས་ནས་སྐུ་དྲང་པོར་བསྲང་སྟེ། དྲན་པ་མངོན་དུ་བཞག་ནས་བཞུགས་སོ། །",
    "targets": [
-    "9"
+    "8"
    ]
   },
   {
    "row": 10,
    "root_row_text": "དེ་ནས་དགེ་སློང་མང་པོས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་ལྷགས་ནས། ",
    "targets": [
-    "10"
+    "9"
    ]
   },
   {
    "row": 11,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་ཕྱོགས་གཅིག་ཏུ་འཁོད་དོ། །",
    "targets": [
-    "11"
+    "10"
    ]
   },
   {
    "row": 12,
    "root_row_text": "ཡང་དེའི་ཚེ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་ཏེ་འདུག་གོ །",
    "targets": [
-    "12"
+    "11"
    ]
   },
   {
    "row": 13,
    "root_row_text": "དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། ",
    "targets": [
-    "13"
+    "12"
    ]
   },
   {
    "row": 14,
    "root_row_text": "བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
    "targets": [
-    "14"
+    "13"
    ]
   },
   {
    "row": 15,
    "root_row_text": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཕན་གདགས་པའི་དམ་པ་ཇི་སྙེད་པས་ཕན་གདགས་པ་དང༌། དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཡོངས་སུ་གཏད་པའི་དམ་པ་ཇི་སྙེད་པས་ཡོངས་སུ་གཏད་པ་ནི། བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ། །བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །",
    "targets": [
+    "14",
     "15"
    ]
   },
@@ -10248,231 +10228,232 @@
    "row": 183,
    "root_row_text": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་དེ་བཞིན་གཤེགས་པ་ཇི་སྙེད་པས་གསུངས་པ་ནི། བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ། །བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །",
    "targets": [
-    "183"
+    "183",
+    "184"
    ]
   },
   {
    "row": 184,
    "root_row_text": "བཅོམ་ལྡན་འདས་བདག་གིས་ཡེ་ཤེས་སྐྱེས་ཚུན་ཆད་བདག་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སྔོན་ནམ་ཡང་མ་ཐོས་ལགས་སོ། །",
    "targets": [
-    "184"
+    "185"
    ]
   },
   {
    "row": 185,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་མདོ་སྡེ་བཤད་པ་འདི་ལ་གང་དག་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བའི་སེམས་ཅན་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་ལགས་སོ། །",
    "targets": [
-    "185"
+    "186"
    ]
   },
   {
    "row": 186,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་ཡང་དག་པར་འདུ་ཤེས་པ་གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་མ་མཆིས་པའི་སླད་དུ་སྟེ། ",
    "targets": [
-    "186"
+    "187"
    ]
   },
   {
    "row": 187,
    "root_row_text": "དེས་ན་ཡང་དག་པར་འདུ་ཤེས་ཞེས་དེ་བཞིན་གཤེགས་པས་གསུངས་སོ། །",
    "targets": [
-    "187"
+    "188"
    ]
   },
   {
    "row": 188,
    "root_row_text": "བཅོམ་ལྡན་འདས་བདག་ནི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པ་ལ་རྟོག་ཅིང་མོས་པ་ནི། བདག་ལ་ངོ་མཚར་མ་ལགས་ཀྱི།",
    "targets": [
-    "188"
+    "189"
    ]
   },
   {
    "row": 189,
    "root_row_text": "བཅོམ་ལྡན་འདས་སླད་མའི་ཚེ་སླད་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ་སེམས་ཅན་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འབྲི་བ་དང་། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་ལགས་སོ། །",
    "targets": [
-    "189"
+    "190"
    ]
   },
   {
    "row": 190,
    "root_row_text": "ཡང་བཅོམ་ལྡན་འདས་དེ་དག་ནི་བདག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ཞིང༌།",
    "targets": [
-    "190"
+    "191"
    ]
   },
   {
    "row": 191,
    "root_row_text": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ལགས་སོ། །",
    "targets": [
-    "191"
+    "192"
    ]
   },
   {
    "row": 192,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་བདག་ཏུ་འདུ་ཤེས་པ་དང༌། སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་པ་གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ།",
    "targets": [
-    "192"
+    "193"
    ]
   },
   {
    "row": 193,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ།",
    "targets": [
-    "193"
+    "194"
    ]
   },
   {
    "row": 194,
    "root_row_text": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
    "targets": [
-    "194"
+    "195"
    ]
   },
   {
    "row": 195,
    "root_row_text": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། དེ་དེ་བཞིན་ཏེ། ",
    "targets": [
-    "195"
+    "196"
    ]
   },
   {
    "row": 196,
    "root_row_text": "སེམས་ཅན་གང་དག་མདོ་སྡེ་འདི་བཤད་པ་ལ་མི་སྐྲག་ཅིང་མི་དངངས་ལ་ཀུན་ཏུ་དངངས་པར་མི་འགྱུར་བ་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་རོ།།",
    "targets": [
-    "196"
+    "197"
    ]
   },
   {
    "row": 197,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་འདི་ནི་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
    "targets": [
-    "197"
+    "198"
    ]
   },
   {
    "row": 198,
    "root_row_text": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་གང་དག་དེ་བཞིན་གཤེགས་པས་གསུངས་པ་དེ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དཔག་ཏུ་མེད་པ་ཚད་མེད་པ་རྣམས་ཀྱིས་ཀྱང་གསུངས་པའི་ཕྱིར་ཏེ། ",
    "targets": [
-    "198"
+    "199"
    ]
   },
   {
    "row": 199,
    "root_row_text": "དེས་ན་ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་ཞེས་བྱའོ།།",
    "targets": [
-    "199"
+    "200"
    ]
   },
   {
    "row": 200,
    "root_row_text": "ཡང་རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་གང་ཡིན་པ་དེ་ཉིད་ཕ་རོལ་ཏུ་ཕྱིན་པ་མེད་དོ། །",
    "targets": [
-    "200"
+    "201"
    ]
   },
   {
    "row": 201,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་གི་ཚེ་ཀ་ལིང་ཀའི་རྒྱལ་པོས། ངའི་ཡན་ལག་དང་ཉིང་ལག་རྣམས་བཅད་པར་གྱུར་པ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་སམ། སེམས་ཅན་དུ་འདུ་ཤེས་སམ། སྲོག་ཏུ་འདུ་ཤེས་སམ། གང་ཟག་ཏུ་འདུ་ཤེས་ཀྱང་མ་བྱུང་ཞིང༌།",
    "targets": [
-    "201"
+    "202"
    ]
   },
   {
    "row": 202,
    "root_row_text": "ང་ལ་འདུ་ཤེས་ཅི་ཡང་མེད་ལ་འདུ་ཤེས་མེད་པར་གྱུར་པ་ཡང་མ་ཡིན་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "202"
+    "203"
    ]
   },
   {
    "row": 203,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་བྱུང་ན། དེའི་ཚེ་གནོད་སེམས་ཀྱི་འདུ་ཤེས་ཀྱང་འབྱུང་ལ།",
    "targets": [
-    "203"
+    "204"
    ]
   },
   {
    "row": 204,
    "root_row_text": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་བྱུང་ན། དེའི་ཚེ་གནོད་སེམས་ཀྱི་འདུ་ཤེས་ཀྱང་འབྱུང་བའི་ཕྱིར་རོ། །",
    "targets": [
-    "204"
+    "205"
    ]
   },
   {
    "row": 205,
    "root_row_text": "རབ་འབྱོར་ངས་མངོན་པར་ཤེས་ཏེ། འདས་པའི་དུས་ན། ང་ཚེ་རབས་ལྔ་བརྒྱར་བཟོད་པ་སྨྲ་བ་ཞེས་བྱ་བའི་དྲང་སྲོང་དུ་གྱུར་པ་དེའི་ཚེ་ན་ཡང༌། ང་ལ་བདག་ཏུ་འདུ་ཤེས་མ་བྱུང༌།",
    "targets": [
-    "205"
+    "206"
    ]
   },
   {
    "row": 206,
    "root_row_text": "སེམས་ཅན་དུ་འདུ་ཤེས་དང༌། སྲོག་ཏུ་འདུ་ཤེས་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་མ་བྱུང་ངོ་། །",
    "targets": [
-    "206"
+    "207"
    ]
   },
   {
    "row": 207,
    "root_row_text": "རབ་འབྱོར་དེ་ལྟ་བས་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་འདུ་ཤེས་ཐམས་ཅད་རྣམ་པར་སྤངས་ཏེ། ",
    "targets": [
-    "207"
+    "208"
    ]
   },
   {
    "row": 208,
    "root_row_text": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
    "targets": [
-    "208"
+    "209"
    ]
   },
   {
    "row": 209,
    "root_row_text": "གཟུགས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
    "targets": [
-    "209"
+    "210"
    ]
   },
   {
    "row": 210,
    "root_row_text": "སྒྲ་དང་དྲི་དང་རོ་དང༌། རེག་བྱ་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
    "targets": [
-    "210"
+    "211"
    ]
   },
   {
    "row": 211,
    "root_row_text": "ཆོས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
    "targets": [
-    "211"
+    "212"
    ]
   },
   {
    "row": 212,
    "root_row_text": "ཆོས་མེད་པ་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
    "targets": [
-    "212"
+    "213"
    ]
   },
   {
    "row": 213,
    "root_row_text": "ཅི་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
    "targets": [
-    "213"
+    "214"
    ]
   },
   {
    "row": 214,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། གནས་པ་གང་ཡིན་པ་དེ་ཉིད་མི་གནས་པའི་ཕྱིར་ཏེ། ",
    "targets": [
-    "214"
+    "215"
    ]
   },
   {
    "row": 215,
    "root_row_text": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་འདི་སྐད་དུ། བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། ། ཞེས་གསུངས་སོ། །",
    "targets": [
-    "215"
+    "216"
    ]
   },
   {
@@ -10484,651 +10465,651 @@
    "row": 217,
    "root_row_text": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་འདི་ལྟར་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་གྱི་ཕྱིར་སྦྱིན་པ་ཡོངས་སུ་གཏང་བར་བྱའོ། །",
    "targets": [
-    "216"
+    "217"
    ]
   },
   {
    "row": 218,
    "root_row_text": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་གང་ཡིན་པ་དེ་ཉིད་ཀྱང་འདུ་ཤེས་མེད་པ་སྟེ།",
    "targets": [
-    "217"
+    "218"
    ]
   },
   {
    "row": 219,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་ཐམས་ཅད་ཅེས་གང་དག་གསུངས་པའི་སེམས་ཅན་དེ་དག་ཉིད་ཀྱང་མེད་པའོ།",
    "targets": [
-    "218"
+    "219"
    ]
   },
   {
    "row": 220,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ནི་ཡང་དག་པར་གསུང་བ། བདེན་པར་གསུང་བ། དེ་བཞིན་ཉིད་དུ་གསུང་བ་སྟེ། ",
    "targets": [
-    "219"
+    "220"
    ]
   },
   {
    "row": 221,
    "root_row_text": "དེ་བཞིན་གཤེགས་པ་ནི་ལོག་པར་གསུང་བ་མ་ཡིན་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "220"
+    "221"
    ]
   },
   {
    "row": 222,
    "root_row_text": "ཡང་རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཆོས་གང་ཡང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ལ་བདེན་པ་ཡང་མེད། རྫུན་པ་ཡང་མེད་དོ། །",
    "targets": [
-    "221"
+    "222"
    ]
   },
   {
    "row": 223,
    "root_row_text": "རབ་འབྱོར་འདི་ལྟ་སྟེ། དཔེར་ན་མིག་དང་ལྡན་པའི་མི་ཞིག་མུན་པར་ཞུགས་ན་ཅི་ཡང་མི་མཐོང་བ་དེ་བཞིན་དུ་གང་དངོས་པོར་ལྷུང་བས་སྦྱིན་པ་ཡོངས་སུ་གཏོང་བའི་བྱང་ཆུབ་སེམས་དཔའ་བལྟ་བར་བྱའོ། །",
    "targets": [
-    "222"
+    "223"
    ]
   },
   {
    "row": 224,
    "root_row_text": "ཡང་རབ་འབྱོར་འདི་ལྟ་སྟེ། དཔེར་ན། ནམ་ལངས་ཏེ་ཉི་མ་ཤར་ནས་མིག་དང་ལྡན་པའི་མིས་གཟུགས་རྣམ་པ་སྣ་ཚོགས་དག་མཐོང་བ་དེ་བཞིན་དུ། གང་དངོས༌པོར་མ་ལྷུང་བས་སྦྱིན་པ་ཡོངས་སུ་གཏོང་བའི་བྱང་ཆུབ་སེམས་དཔའ་བལྟ་བར་བྱའོ། །",
    "targets": [
-    "223"
+    "224"
    ]
   },
   {
    "row": 225,
    "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་མཁྱེན། དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ་",
    "targets": [
-    "224"
+    "225"
    ]
   },
   {
    "row": 226,
    "root_row_text": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ། །",
    "targets": [
-    "225"
+    "226"
    ]
   },
   {
    "row": 227,
    "root_row_text": "ཡང་རབ་འབྱོར་སྐྱེས་པའམ། བུད་མེད་གང་ཞིག་སྔ་དྲོའི་དུས་ཀྱི་ཚེ་ལུས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་ལ། ཕྱེད་ཀྱི་དུས་དང༌། ཕྱི་དྲོའི་དུས་ཀྱི་ཚེ་ཡང་ལུས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་སྟེ། རྣམ་གྲངས་འདི་ལྟ་བུར་བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མར་ལུས་ཡོངས་སུ་གཏོང་བ་བས། ",
    "targets": [
-    "226"
+    "227"
    ]
   },
   {
    "row": 228,
    "root_row_text": "གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་མི་སྤོང་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་ན། གང་གིས་ཡི་གེར་བྲིས་ནས་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་ལྟ་ཅི་སྨོས།",
    "targets": [
-    "227"
+    "228"
    ]
   },
   {
    "row": 229,
    "root_row_text": "ཡང་རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་བསམ་གྱིས་མི་ཁྱབ་ཅིང༌། མཚུངས་པ་མེད་དེ།",
    "targets": [
-    "228"
+    "229"
    ]
   },
   {
    "row": 230,
    "root_row_text": "འདིའི་རྣམ་པར་སྨིན་པ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་དུ་རིག་པར་བྱའོ། །",
    "targets": [
-    "229"
+    "230"
    ]
   },
   {
    "row": 231,
    "root_row_text": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་ཐེག་པ་མཆོག་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་དང༌། ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་གྱི་ཕྱིར་དེ་བཞིན་གཤེགས་པས་གསུངས་སོ། །",
    "targets": [
-    "230"
+    "231"
    ]
   },
   {
    "row": 232,
    "root_row_text": "གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་མཁྱེན། དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ། ",
    "targets": [
-    "231"
+    "232"
    ]
   },
   {
    "row": 233,
    "root_row_text": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་དང་ལྡན་པར་འགྱུར་",
    "targets": [
-    "232"
+    "233"
    ]
   },
   {
    "row": 234,
    "root_row_text": "བསོད་ནམས་ཀྱི་ཕུང་པོ་བསམ་གྱིས་མི་ཁྱབ་པ་དང༌། མཚུངས་པ་མེད་པ་དང༌། གཞལ་དུ་མེད་པ་དང༌། ཚད་མེད་པ་དང་ལྡན་པར་འགྱུར་ཏེ།",
    "targets": [
-    "233"
+    "234"
    ]
   },
   {
    "row": 235,
    "root_row_text": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ངའི་བྱང་ཆུབ་ཕྲག་པ་ལ་ཐོགས་པར་འགྱུར་རོ། །",
    "targets": [
-    "234"
+    "235"
    ]
   },
   {
    "row": 236,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དམན་པ་ལ་མོས་པ་རྣམས་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་མཉན་པར་མི་ནུས་ཏེ།",
    "targets": [
-    "235"
+    "236"
    ]
   },
   {
    "row": 237,
    "root_row_text": "བདག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སེམས་ཅན་དུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སྲོག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན་ཞིང༌།",
    "targets": [
-    "236"
+    "237"
    ]
   },
   {
    "row": 238,
    "root_row_text": "གང་ཟག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མཉན་པ་དང༌། བླང་བ་དང་། གཟུང་བ་དང༌། བཀླག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་མི་ནུས་ཏེ། ",
    "targets": [
-    "237"
+    "238"
    ]
   },
   {
    "row": 239,
    "root_row_text": "དེ་ནི་གནས་མེད་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "238"
+    "239"
    ]
   },
   {
    "row": 240,
    "root_row_text": "ཡང་རབ་འབྱོར་ས་ཕྱོགས་གང་ན་མདོ་སྡེ་འདི་སྟོན་པའི་ས་ཕྱོགས་དེ་ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་གྱིས་མཆོད་པ་བྱ་བར་འོས་པར་འགྱུར་རོ། །",
    "targets": [
-    "239"
+    "240"
    ]
   },
   {
    "row": 241,
    "root_row_text": "ས་ཕྱོགས་དེ་ཕྱག་བྱ་བར་འོས་པ་དང༌། བསྐོར་བ་བྱ་བར་འོས་པར་འགྱུར་ཏེ།",
    "targets": [
-    "240"
+    "241"
    ]
   },
   {
    "row": 242,
    "root_row_text": "ས་ཕྱོགས་དེ་མཆོད་རྟེན་ལྟ་བུར་འགྱུར་རོ། །",
    "targets": [
-    "241"
+    "242"
    ]
   },
   {
    "row": 243,
    "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་འདི་དག་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དེ་དག་ནི་མནར་བར་འགྱུར་",
    "targets": [
-    "242"
+    "243"
    ]
   },
   {
    "row": 244,
    "root_row_text": "ཤིན་ཏུ་མནར་བར་འགྱུར་རོ།",
    "targets": [
-    "243"
+    "244"
    ]
   },
   {
    "row": 245,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཅན་དེ་དག་ནི་ཚེ་རབས་སྔ་མའི་མི་དགེ་བའི་ལས་ངན་སོང་དུ་སྐྱེ་བར་འགྱུར་བ་གང་དག་བྱས་པ་དེ་དག་ཚེ་འདི་ཉིད་ལ་མནར་བས། ཚེ་རབས་སྔ་མའི་མི་དགེ་བའི་ལས་ངན་སོང་དུ་སྐྱེ་བར་འགྱུར་བ་གང་དག་བྱས་པ་དེ་དག་བྱང་བར་འགྱུར་ཏེ། ",
    "targets": [
-    "244"
+    "245"
    ]
   },
   {
    "row": 246,
    "root_row_text": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་ཀྱང་ཐོབ་པར་འགྱུར་རོ། །",
    "targets": [
-    "245"
+    "246"
    ]
   },
   {
    "row": 247,
    "root_row_text": "རབ་འབྱོར་ངས་མངོན་པར་ཤེས་ཏེ། འདས་པའི་དུས་བསྐལ་པ་གྲངས་མེད་པའི་ཡང་ཆེས་གྲངས་མེད་པ་ན། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ཀྱི་སྔ་རོལ་གྱི་ཡང་ཆེས་སྔ་རོལ་ན་སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི་དག་བྱུང་བ་ངས་མཉེས་པར་བྱས་ཏེ།",
    "targets": [
-    "246"
+    "247"
    ]
   },
   {
    "row": 248,
    "root_row_text": "མ་མཉེས་པར་མ་བྱས་ནས་ཐུགས་འབྱུང་བར་མ་བྱས་ཏེ།",
    "targets": [
-    "247"
+    "248"
    ]
   },
   {
    "row": 249,
    "root_row_text": "རབ་འབྱོར་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ངས་མཉེས་པར་བྱས་ནས་ཐུགས་འབྱུང་བར་མ་བྱས་པ་གང་ཡིན་པ་དང༌། ཕྱི་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མར་གྱུར་པ་ན། མདོ་སྡེ་འདི་ལེན་པ་དང༌། འདྲི་བ་དང༌། འཛིན་པ་དང་འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་གང་ཡིན་པ་ལས། རབ་འབྱོར་བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་ལ་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ།",
    "targets": [
-    "248"
+    "249"
    ]
   },
   {
    "row": 250,
    "root_row_text": "སྟོང་གི་ཆ་དང༌། འབུམ་གྱི་ཆ་དང༌། གྲངས་དང་ཚད་དང་བགྲང་བ་དང༌། དཔེ་དང་ཟླ་དང་རྒྱུར་ཡང་མི་བཟོད་དོ། །",
    "targets": [
-    "249"
+    "250"
    ]
   },
   {
    "row": 251,
    "root_row_text": "རབ་འབྱོར་གལ་ཏེ་དེའི་ཚེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཇི་སྙེད་རབ་ཏུ་འཛིན་པར་འགྱུར་བའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དག་གི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ངས་བརྗོད་ན། སེམས་ཅན་རྣམས་མྱོ་མྱོ་པོར་འགྱུར་ཞིང་སེམས་འཁྲུགས་པར་འགྱུར་རོ། །",
    "targets": [
-    "250"
+    "251"
    ]
   },
   {
    "row": 252,
    "root_row_text": "ཡང་རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བསམ་གྱིས་མི་ཁྱབ་སྟེ།",
    "targets": [
-    "251"
+    "252"
    ]
   },
   {
    "row": 253,
    "root_row_text": "འདིའི་རྣམ་པར་སྨིན་པ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་དུ་རིག་པར་བྱའོ། །",
    "targets": [
-    "252"
+    "253"
    ]
   },
   {
    "row": 254,
    "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
    "targets": [
-    "253"
+    "254"
    ]
   },
   {
    "row": 255,
    "root_row_text": "བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས་ཇི་ལྟར་གནས་པར་བགྱི། ",
    "targets": [
-    "254"
+    "255"
    ]
   },
   {
    "row": 256,
    "root_row_text": "ཇི་ལྟར་བསྒྲུབ་པར་བགྱི།",
    "targets": [
-    "255"
+    "256"
    ]
   },
   {
    "row": 257,
    "root_row_text": "ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བགྱི།",
    "targets": [
-    "256"
+    "257"
    ]
   },
   {
    "row": 258,
    "root_row_text": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
    "targets": [
-    "257"
+    "258"
    ]
   },
   {
    "row": 259,
    "root_row_text": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
    "targets": [
-    "258"
+    "259"
    ]
   },
   {
    "row": 260,
    "root_row_text": "དེ་ལྟར་སེམས་ཅན་ཚད་མེད་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ཀྱང༌། སེམས་ཅན་གང་ཡང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་གྱུར་པ་མེད་དོ་སྙམ་དུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
    "targets": [
-    "259"
+    "260"
    ]
   },
   {
    "row": 261,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་ན་དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་ལ།",
    "targets": [
-    "260"
+    "261"
    ]
   },
   {
    "row": 262,
    "root_row_text": "གང་ཟག་གི་བར་དུ་འདུ་ཤེས་འཇུག་ན་ཡང༌། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
    "targets": [
-    "261"
+    "262"
    ]
   },
   {
    "row": 263,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་ཞེས་བྱ་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "262"
+    "263"
    ]
   },
   {
    "row": 264,
    "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "263"
+    "264"
    ]
   },
   {
    "row": 265,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་གང་ཡང་ཡོད་སྙམ་མམ། ",
    "targets": [
-    "264"
+    "265"
    ]
   },
   {
    "row": 266,
    "root_row_text": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌།བཅོམ་ལྡན་འདས་ལ་ཚེ་དང༌ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
    "targets": [
-    "265"
+    "266"
    ]
   },
   {
    "row": 267,
    "root_row_text": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་སོ། །",
    "targets": [
-    "266"
+    "267"
    ]
   },
   {
    "row": 268,
    "root_row_text": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
    "targets": [
-    "267"
+    "268"
    ]
   },
   {
    "row": 269,
    "root_row_text": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ། ",
    "targets": [
-    "268"
+    "269"
    ]
   },
   {
    "row": 270,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་དོ། །",
    "targets": [
-    "269"
+    "270"
    ]
   },
   {
    "row": 271,
    "root_row_text": "རབ་འབྱོར་གལ་ཏེ་དེ་བཞིན་གཤེགས་པས་གང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་འགའ་ཞིག་ཡོད་པར་གྱུར་ན། དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ཀྱིས་ང་ལ་བྲམ་ཟེའི་ཁྱེའུ་ཁྱོད་མ་འོངས་པའི་དུས་ན། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ཞེས་བྱ་བར་འགྱུར་རོ། ། ཞེས་ལུང་མི་སྟོན་པ་ཞིག་ན། ",
    "targets": [
-    "270"
+    "271"
    ]
   },
   {
    "row": 272,
    "root_row_text": "རབ་འབྱོར་འདི་ལྟར་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་པས་",
    "targets": [
-    "271"
+    "272"
    ]
   },
   {
    "row": 273,
    "root_row_text": "དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ཀྱིས་ང་ལ་བྲམ་ཟེའི་ཁྱེའུ་ཁྱོད་མ་འོངས་པའི་དུས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ཞེས་བྱ་བར་འགྱུར་རོ་ཞེས་ལུང་བསྟན་ཏོ། །",
    "targets": [
-    "272"
+    "273"
    ]
   },
   {
    "row": 274,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ཞེས་པ་ནི། ཡང་དག་པའི་དེ་བཞིན་ཉིད་ཀྱི་ཚིག་བླ་དྭགས་ཡིན་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "273"
+    "274"
    ]
   },
   {
    "row": 275,
    "root_row_text": "ཡང་རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་ཞེས་ཟེར་ན། དེ་ལོག་པར་སྨྲ་བ་ཡིན་ནོ། །",
    "targets": [
-    "274"
+    "275"
    ]
   },
   {
    "row": 277,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "276"
+    "277"
    ]
   },
   {
    "row": 278,
    "root_row_text": "རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཆོས་གང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ལ་བདེན་པའང་མེད། རྫུན་པ་ཡང་མེད་དོ། །",
    "targets": [
-    "277"
+    "278"
    ]
   },
   {
    "row": 279,
    "root_row_text": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་ཆོས་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་ཆོས་ཞེས་གསུངས་སོ། །",
    "targets": [
-    "278"
+    "279"
    ]
   },
   {
    "row": 280,
    "root_row_text": "རབ་འབྱོར་ཆོས་ཐམས་ཅད་ཅེས་བྱ་བ་ནི། དེ་དག་ཐམས་ཅད་ཆོས་མེད་པ་ཡིན་ཏེ། ",
    "targets": [
-    "279"
+    "280"
    ]
   },
   {
    "row": 281,
    "root_row_text": "དེས་ན་ཆོས་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་ཆོས་ཞེས་བྱའོ། །",
    "targets": [
-    "280"
+    "281"
    ]
   },
   {
    "row": 282,
    "root_row_text": "རབ་འབྱོར་འདི་ལྟ་སྟེ་དཔེར་ན། སྐྱེས་བུ་ཞིག་མིའི་ལུས་དང་ལྡན་ཞིང་ལུས་ཆེན་པོར་གྱུར་པ་བཞིན་ནོ། །",
    "targets": [
-    "281"
+    "282"
    ]
   },
   {
    "row": 283,
    "root_row_text": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་སྐྱེས་བུ་མིའི་ལུས་དང་ལྡན་ཞིང་ལུས་ཆེན་པོ་ཞེས་གང་གསུངས་པ་དེ། དེ་བཞིན་གཤེགས་པས་ལུས་མ་མཆིས་པར་གསུངས་ཏེ། ",
    "targets": [
-    "282"
+    "283"
    ]
   },
   {
    "row": 284,
    "root_row_text": "དེས་ན་ལུས་དང་ལྡན་ཞིང་ལུས་ཆེན་པོ་ཞེས་བགྱིའོ། །",
    "targets": [
-    "283"
+    "284"
    ]
   },
   {
    "row": 285,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་བཞིན་ཏེ། ",
    "targets": [
-    "284"
+    "285"
    ]
   },
   {
    "row": 286,
    "root_row_text": "བྱང་ཆུབ་སེམས་དཔའ་གང་འདི་སྐད་དུ་བདག་གིས་སེམས་ཅན་རྣམས་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ་ཞེས་ཟེར་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱའོ། །",
    "targets": [
-    "285"
+    "286"
    ]
   },
   {
    "row": 287,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་བའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
    "targets": [
-    "286"
+    "287"
    ]
   },
   {
    "row": 288,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
    "targets": [
-    "287"
+    "288"
    ]
   },
   {
    "row": 289,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་བས་ན། དེ་བཞིན་གཤེགས་པས་ཆོས་ཐམས་ཅད་ནི་སེམས་ཅན་མེད་པ། སྲོག་མེད་པ། གང་ཟག་མེད་པའོ། །ཞེས་གསུངས་སོ། །",
    "targets": [
-    "288"
+    "289"
    ]
   },
   {
    "row": 290,
    "root_row_text": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་འདི་སྐད་དུ། བདག་གིས་ཞིང་བཀོད་པ་རྣམས་བསྒྲུབ་བོ་ཞེས་ཟེར་ན། དེ་ཡང་དེ་བཞིན་དུ་བརྗོད་པར་བྱའོ། །",
    "targets": [
-    "289"
+    "290"
    ]
   },
   {
    "row": 291,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཞིང་བཀོད་པ་རྣམས་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་བཀོད་པ་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ། ",
    "targets": [
-    "290"
+    "291"
    ]
   },
   {
    "row": 292,
    "root_row_text": "དེས་ན་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱའོ། །",
    "targets": [
-    "291"
+    "292"
    ]
   },
   {
    "row": 293,
    "root_row_text": "རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་འདི་སྐད་དུ། ཆོས་རྣམས་ནི་བདག་མེད་པ་ཆོས་རྣམས་ནི་བདག་མེད་པའོ་ཞེས་མོས་པ་དེ་ནི། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཞེས་བརྗོད་དོ། །",
    "targets": [
-    "292"
+    "293"
    ]
   },
   {
    "row": 294,
    "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། དེ་བཞིན་གཤེགས་པ་ལ་ཤའི་སྤྱན་མངའ་སྙམ་མམ། ",
    "targets": [
-    "293"
+    "294"
    ]
   },
   {
    "row": 295,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ཤའི་སྤྱན་མངའོ། །",
    "targets": [
-    "294"
+    "295"
    ]
   },
   {
    "row": 296,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "295"
+    "296"
    ]
   },
   {
    "row": 297,
    "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའ་སྙམ་མམ། ",
    "targets": [
-    "296"
+    "297"
    ]
   },
   {
    "row": 298,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ།བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའོ། །",
    "targets": [
-    "297"
+    "298"
    ]
   },
   {
    "row": 299,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "298"
+    "299"
    ]
   },
   {
    "row": 300,
    "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ཤེས་རབ་ཀྱི་སྤྱན་མངའ་སྙམ་མམ། ",
    "targets": [
-    "299"
+    "300"
    ]
   },
   {
    "row": 301,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ།བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
    "targets": [
-    "300"
+    "301"
    ]
   },
   {
    "row": 302,
    "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ཤེས་རབ་ཀྱི་སྤྱན་མངའོ། །",
    "targets": [
-    "301"
+    "302"
    ]
   },
   {
    "row": 303,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "302"
+    "303"
    ]
   },
   {
    "row": 304,
    "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཀྱི་སྤྱན་མངའ་སྙམ་མམ། ",
    "targets": [
-    "303"
+    "304"
    ]
   },
   {
    "row": 305,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
    "targets": [
-    "304"
+    "305"
    ]
   },
   {
    "row": 306,
    "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཀྱི་སྤྱན་མངའོ། །",
    "targets": [
-    "305"
+    "306"
    ]
   },
   {
    "row": 307,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "306"
+    "307"
    ]
   },
   {
    "row": 308,
    "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་སངས་རྒྱས་ཀྱི་སྤྱན་མངའ་སྙམ་མམ། ",
    "targets": [
-    "307"
+    "308"
    ]
   },
   {
    "row": 309,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
    "targets": [
-    "308"
+    "309"
    ]
   },
   {
    "row": 310,
    "root_row_text": "དེ་བཞིན་གཤེགས་པ་ལ་སངས་རྒྱས་ཀྱི་སྤྱན་མངའོ། །",
    "targets": [
-    "309"
+    "310"
    ]
   },
   {
@@ -11140,448 +11121,448 @@
    "row": 312,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱི་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "310"
+    "311"
    ]
   },
   {
    "row": 313,
    "root_row_text": "གངྒཱའི་ཀླུང་གི་བྱེ་མ་ཇི་སྙེད་པ་གངྒཱའི་ཀླུང་ཡང་དེ་སྙེད་ཁོ་ནར་གྱུར་ལ། དེ་དག་གི་བྱེ་མ་དེ་སྙེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་གྱུར་ན། འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མང་བ་ཡིན་སྙམ་མམ། ",
    "targets": [
-    "311"
+    "312"
    ]
   },
   {
    "row": 314,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
    "targets": [
-    "312"
+    "313"
    ]
   },
   {
    "row": 315,
    "root_row_text": "འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མང་ལགས་སོ། །",
    "targets": [
-    "313"
+    "314"
    ]
   },
   {
    "row": 316,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་ན་སེམས་ཅན་ཇི་སྙེད་ཡོད་པ་དེ་དག་གི་བསམ་པ་ཐ་དད་པའི་སེམས་ཀྱི་རྒྱུན་ངས་རབ་ཏུ་ཤེས་སོ། །",
    "targets": [
-    "314"
+    "315"
    ]
   },
   {
    "row": 317,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཀྱི་རྒྱུན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱ་བ་ནི། དེ་རྒྱུན་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ། ",
    "targets": [
-    "315"
+    "316"
    ]
   },
   {
    "row": 318,
    "root_row_text": "དེས་ན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱའོ། །",
    "targets": [
-    "316"
+    "317"
    ]
   },
   {
    "row": 319,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་འདས་པའི་སེམས་ཀྱང་དམིགས་སུ་མེད། ",
    "targets": [
-    "317"
+    "318"
    ]
   },
   {
    "row": 320,
    "root_row_text": "མ་འོངས་པའི་སེམས་ཀྱང་དམིགས་སུ་མེད། ",
    "targets": [
-    "318"
+    "319"
    ]
   },
   {
    "row": 321,
    "root_row_text": "ད་ལྟར་བྱུང་བའི་སེམས་ཀྱང་དམིགས་སུ་མེད་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "319"
+    "320"
    ]
   },
   {
    "row": 322,
    "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "320"
+    "321"
    ]
   },
   {
    "row": 323,
    "root_row_text": "གང་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་ན། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་མང་དུ་བསྐྱེད་དམ། ",
    "targets": [
-    "321"
+    "322"
    ]
   },
   {
    "row": 324,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མང་ལགས་སོ། །",
    "targets": [
-    "322"
+    "323"
    ]
   },
   {
    "row": 325,
    "root_row_text": "བདེ་བར་གཤེགས་པ་མང་ལགས་སོ། །",
    "targets": [
-    "323"
+    "324"
    ]
   },
   {
    "row": 326,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ། ",
    "targets": [
-    "324"
+    "325"
    ]
   },
   {
    "row": 327,
    "root_row_text": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་མང་དུ་བསྐྱེད་དོ། །",
    "targets": [
-    "325"
+    "326"
    ]
   },
   {
    "row": 328,
    "root_row_text": "ཡང་རབ་འབྱོར་གལ་ཏེ་བསོད་ནམས་ཀྱི་ཕུང་པོ་བསོད་ནམས་ཀྱི་ཕུང་པོར་གྱུར་པ་ན། བསོད་ནམས་ཀྱི་ཕུང་པོ་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཞེས་དེ་བཞིན་གཤེགས་པ་མི་གསུང་ངོ་། །",
    "targets": [
-    "326"
+    "327"
    ]
   },
   {
    "row": 329,
    "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "327"
+    "328"
    ]
   },
   {
    "row": 330,
    "root_row_text": "གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ། ",
    "targets": [
-    "328"
+    "329"
    ]
   },
   {
    "row": 331,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
    "targets": [
-    "329"
+    "330"
    ]
   },
   {
    "row": 332,
    "root_row_text": "གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
    "targets": [
-    "330"
+    "331"
    ]
   },
   {
    "row": 333,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པ་ཞེས་བགྱི་བ་ནི། དེ་ཡོངས་སུ་གྲུབ་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
    "targets": [
-    "331"
+    "332"
    ]
   },
   {
    "row": 334,
    "root_row_text": "དེས་ན་གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པ་ཞེས་བགྱིའོ། །",
    "targets": [
-    "332"
+    "333"
    ]
   },
   {
    "row": 335,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
    "targets": [
-    "333"
+    "334"
    ]
   },
   {
    "row": 336,
    "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ། ",
    "targets": [
-    "334"
+    "335"
    ]
   },
   {
    "row": 337,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
    "targets": [
-    "335"
+    "336"
    ]
   },
   {
    "row": 338,
    "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
    "targets": [
-    "336"
+    "337"
    ]
   },
   {
    "row": 339,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། དེ་བཞིན་གཤེགས་པས་མཚན་ཕུན་སུམ་ཚོགས་པ་གང་གསུངས་པ་དེ། མཚན་ཕུན་སུམ་ཚོགས་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
    "targets": [
-    "337"
+    "338"
    ]
   },
   {
    "row": 340,
    "root_row_text": "དེས་ན་མཚན་ཕུན་སུམ་ཚོགས་པ་ཞེས་བགྱིའོ། །",
    "targets": [
-    "338"
+    "339"
    ]
   },
   {
    "row": 341,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "339"
+    "340"
    ]
   },
   {
    "row": 342,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་འདི་སྙམ་དུ་ངས་ཆོས་བསྟན་ཏོ་ཞེས་དགོངས་སོ་སྙམ་ན། རབ་འབྱོར་དེ་དེ་ལྟར་མི་ལྟ་སྟེ། ",
    "targets": [
-    "340"
+    "341"
    ]
   },
   {
    "row": 343,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་གང་བསྟན་པའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "341"
+    "342"
    ]
   },
   {
    "row": 344,
    "root_row_text": "རབ་འབྱོར་སུ་ཞིག་འདི་སྐད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་བསྟན་ཏོ་ཞེས་ཟེར་ན། རབ་འབྱོར་དེ་ནི་མེད་པ་དང་ལོག་པར་ཟིན་པས་ང་ལ་སྐུར་བར་འགྱུར་རོ། །",
    "targets": [
-    "342"
+    "343"
    ]
   },
   {
    "row": 345,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཆོས་བསྟན་པ་ཞེས་བྱ་བ་ནི་གང་ཆོས་བསྟན་པ་ཆོས་བསྟན་པ་ཞེས་བྱ་བར་དམིགས་པར་འགྱུར་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "343"
+    "344"
    ]
   },
   {
    "row": 346,
    "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
    "targets": [
-    "344"
+    "345"
    ]
   },
   {
    "row": 347,
    "root_row_text": "བཅོམ་ལྡན་འདས་མ་འོངས་པའི་དུས་ན། སེམས་ཅན་གང་དག་འདི་ལྟ་བུའི་ཆོས་བཤད་པ་འདི་ཐོས་ནས། མངོན་པར་ཡིད་ཆེས་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ། ",
    "targets": [
-    "345"
+    "346"
    ]
   },
   {
    "row": 348,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དག་ནི་སེམས་ཅན་ཡང་མ་ཡིན། སེམས་ཅན་མེད་པ་ཡང་མ་ཡིན་ནོ། །",
    "targets": [
-    "346"
+    "347"
    ]
   },
   {
    "row": 349,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཅན་རྣམས་ཞེས་བྱ་བ་ནི། དེ་བཞིན་གཤེགས་པས་དེ་དག་སེམས་ཅན་མེད་པར་གསུངས་པའི་ཕྱིར་ཏེ། ",
    "targets": [
-    "347"
+    "348"
    ]
   },
   {
    "row": 350,
    "root_row_text": "དེ་བས་ན་སེམས་ཅན་རྣམས་ཞེས་བྱའོ། །",
    "targets": [
-    "348"
+    "349"
    ]
   },
   {
    "row": 351,
    "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "349"
+    "350"
    ]
   },
   {
    "row": 352,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
    "targets": [
-    "350"
+    "351"
    ]
   },
   {
    "row": 353,
    "root_row_text": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
    "targets": [
-    "351"
+    "352"
    ]
   },
   {
    "row": 354,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ། ",
    "targets": [
-    "352"
+    "353"
    ]
   },
   {
    "row": 355,
    "root_row_text": "དེ་ལ་ཆོས་ཅུང་ཟད་ཀྱང་མི་དམིགས་ཤིང་མེད་དེ། ",
    "targets": [
-    "353"
+    "354"
    ]
   },
   {
    "row": 356,
    "root_row_text": "དེས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཅེས་བྱའོ། །",
    "targets": [
-    "354"
+    "355"
    ]
   },
   {
    "row": 357,
    "root_row_text": "ཡང་རབ་འབྱོར་ཆོས་དེ་ནི་མཉམ་པ་སྟེ། ",
    "targets": [
-    "355"
+    "356"
    ]
   },
   {
    "row": 358,
    "root_row_text": "དེ་ལ་མི་མཉམ་པ་དང་མཉམ་པ་གང་ཡང་མེད་པས། དེས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཅེས་བྱའོ། །",
    "targets": [
-    "356"
+    "357"
    ]
   },
   {
    "row": 359,
    "root_row_text": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དེ་ནི་བདག་མེད་པ་དང༌། སེམས་ཅན་མེད་པ་དང༌། སྲོག་མེད་པ་དང༌། གང་ཟག་མེད་པར་མཉམ་པ་སྟེ། ",
    "targets": [
-    "357"
+    "358"
    ]
   },
   {
    "row": 360,
    "root_row_text": "དགེ་བའི་ཆོས་ཐམས་ཅད་ཀྱིས་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ། །",
    "targets": [
-    "358"
+    "359"
    ]
   },
   {
    "row": 361,
    "root_row_text": "རབ་འབྱོར་དགེ་བའི་ཆོས་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་ཆོས་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ། ",
    "targets": [
-    "359"
+    "360"
    ]
   },
   {
    "row": 362,
    "root_row_text": "དེས་ན་དགེ་བའི་ཆོས་རྣམས་ཞེས་བྱའོ། །",
    "targets": [
-    "360"
+    "361"
    ]
   },
   {
    "row": 363,
    "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་རིའི་རྒྱལ་པོ་རི་རབ་དག་ཇི་སྙེད་ཡོད་པ་དེ་ཙམ་གྱི་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་ཕུང་པོ་མངོན་པར་བསྡུས་ཏེ། སྦྱིན་པ་བྱིན་པ་བས་གང་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་བཟུང་ནས་གཞན་དག་ལ་ཡང་བསྟན་ན། རབ་འབྱོར་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ་དེས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ་བ་ནས་རྒྱུའི་བར་དུ་ཡང་མི་བཟོད་དོ། །",
    "targets": [
-    "361"
+    "362"
    ]
   },
   {
    "row": 364,
    "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "362"
+    "363"
    ]
   },
   {
    "row": 365,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་འདི་སྙམ་དུ་ངས་སེམས་ཅན་རྣམས་བཀྲོལ་ལོ་ཞེས་དགོངས་སོ་སྙམ་ན། རབ་འབྱོར་དེ་ལྟར་མི་བལྟའོ། །",
    "targets": [
-    "363"
+    "364"
    ]
   },
   {
    "row": 366,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་གང་བཀྲོལ་བའི་སེམས་ཅན་དེ་དག་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
    "targets": [
-    "364"
+    "365"
    ]
   },
   {
    "row": 367,
    "root_row_text": "རབ་འབྱོར་གལ་ཏེ་དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་གང་ལ་ལ་ཞིག་བཀྲོལ་བར་གྱུར་ན། དེ་ཉིད་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་འཛིན་པར་འགྱུར།",
    "targets": [
-    "365"
+    "366"
    ]
   },
   {
    "row": 368,
    "root_row_text": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་རོ། །",
    "targets": [
-    "366"
+    "367"
    ]
   },
   {
    "row": 369,
    "root_row_text": "རབ་འབྱོར་བདག་ཏུ་འཛིན་ཅེས་བྱ་བ་ནི། འཛིན་པ་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ན། དེ་ཡང་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཀྱི་བཟུང་ངོ་། །",
    "targets": [
-    "367"
+    "368"
    ]
   },
   {
    "row": 370,
    "root_row_text": "རབ་འབྱོར་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་སྐྱེ་བོ་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ། ",
    "targets": [
-    "368"
+    "369"
    ]
   },
   {
    "row": 371,
    "root_row_text": "དེས་ན་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཞེས་བྱའོ། །",
    "targets": [
-    "369"
+    "370"
    ]
   },
   {
    "row": 372,
    "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "370"
+    "371"
    ]
   },
   {
    "row": 373,
    "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ། ",
    "targets": [
-    "371"
+    "372"
    ]
   },
   {
    "row": 374,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
    "targets": [
-    "372"
+    "373"
    ]
   },
   {
    "row": 375,
    "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
    "targets": [
-    "373"
+    "374"
    ]
   },
   {
@@ -11593,14 +11574,14 @@
    "row": 377,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ། ",
    "targets": [
-    "374"
+    "375"
    ]
   },
   {
    "row": 378,
    "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བྱ་སྟེ།",
    "targets": [
-    "375"
+    "376"
    ]
   },
   {
@@ -11612,280 +11593,280 @@
    "row": 380,
    "root_row_text": "རབ་འབྱོར་གལ་ཏེ་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་འགྱུར་ན། འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་ཡང་དེ་བཞིན་གཤེགས་པར་འགྱུར་ཏེ།",
    "targets": [
-    "376"
+    "377"
    ]
   },
   {
    "row": 381,
    "root_row_text": "དེ་བས་ན་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བྱའོ། །",
    "targets": [
-    "377"
+    "378"
    ]
   },
   {
    "row": 382,
    "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
    "targets": [
-    "378"
+    "379"
    ]
   },
   {
    "row": 383,
    "root_row_text": "བཅོམ་ལྡན་འདས་བདག་གིས་ཇི་ལྟར་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པའི་དོན་འཚལ་བ་ལྟར་ན། མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
    "targets": [
-    "379"
+    "380"
    ]
   },
   {
    "row": 384,
    "root_row_text": "དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །",
    "targets": [
-    "380"
+    "381"
    ]
   },
   {
    "row": 385,
    "root_row_text": "གང་དག་ང་ལ་གཟུགས་སུ་མཐོང༌། །གང་དག་ང་ལ་སྒྲར་ཤེས་པ། །ལོག་པའི་ལམ་དུ་ཞུགས་པ་སྟེ། །",
    "targets": [
-    "381"
+    "382"
    ]
   },
   {
    "row": 386,
    "root_row_text": "སྐྱེ་བོ་དེ་དག་ང་མི་མཐོང༌། །",
    "targets": [
-    "382"
+    "383"
    ]
   },
   {
    "row": 387,
    "root_row_text": "སངས་རྒྱས་རྣམས་ནི་ཆོས་ཉིད་ལྟ། །",
    "targets": [
-    "383"
+    "384"
    ]
   },
   {
    "row": 388,
    "root_row_text": "འདྲེན་པ་རྣམས་ནི་ཆོས་ཀྱི་སྐུ། །ཆོས་ཉིད་ཤེས་པར་བྱ་མིན་པས། །དེ་ནི་རྣམ་པར་ཤེས་མི་ནུས། །",
    "targets": [
-    "384"
+    "385"
    ]
   },
   {
    "row": 389,
    "root_row_text": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ",
    "targets": [
-    "385"
+    "386"
    ]
   },
   {
    "row": 390,
    "root_row_text": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་ཁྱོད་ཀྱིས་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ། ",
    "targets": [
-    "386"
+    "387"
    ]
   },
   {
    "row": 391,
    "root_row_text": "རབ་འབྱོར་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་མེད་དོ། །",
    "targets": [
-    "387"
+    "388"
    ]
   },
   {
    "row": 392,
    "root_row_text": "རབ་འབྱོར་ཁྱོད་འདི་སྙམ་དུ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ལ་ལ་ཞིག་རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པའོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་དེ་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ། ",
    "targets": [
-    "388"
+    "389"
    ]
   },
   {
    "row": 393,
    "root_row_text": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ། །",
    "targets": [
-    "389"
+    "390"
    ]
   },
   {
    "row": 394,
    "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། བྱང་ཆུབ་སེམས་དཔའ་གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བདག་མེད་ཅིང་སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆོས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
    "targets": [
-    "390"
+    "391"
    ]
   },
   {
    "row": 395,
    "root_row_text": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བྱའོ། །",
    "targets": [
-    "391"
+    "392"
    ]
   },
   {
    "row": 396,
    "root_row_text": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བགྱི་ལགས་སམ། ",
    "targets": [
-    "392"
+    "393"
    ]
   },
   {
    "row": 397,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་ཡོངས་སུ་གཟུང་མོད་ཀྱིས། ལོག་པར་མི་བཟུང་སྟེ་",
    "targets": [
-    "393"
+    "394"
    ]
   },
   {
    "row": 398,
    "root_row_text": "དེས་ན་ཡོངས་སུ་གཟུང་བ་ཞེས་བྱའོ། །",
    "targets": [
-    "394"
+    "395"
    ]
   },
   {
    "row": 399,
    "root_row_text": "ཡང་རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པ་བཞུད་དམ་བྱོན་ཏམ། བཞེངས་སམ། བཞུགས་སམ། མནལ་བར་མཛད་དོ་ཞེས་ཟེར་ན། དེས་ངས་བཤད་པའི་དོན་མི་ཤེས་སོ། །",
    "targets": [
-    "395"
+    "396"
    ]
   },
   {
    "row": 400,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་ནི། གར་ཡང་མ་བཞུད། གང་ནས་ཀྱང་མ་བྱོན་པའི་ཕྱིར་ཏེ། ",
    "targets": [
-    "396"
+    "397"
    ]
   },
   {
    "row": 401,
    "root_row_text": "དེས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཞེས་བྱའོ། །",
    "targets": [
-    "397"
+    "398"
    ]
   },
   {
    "row": 402,
    "root_row_text": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས། སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་དེ་དག །འདི་ལྟ་སྟེ་དཔེར་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་བཞིན་དུ་ཕྱེ་མར་བྱས་ན། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་དེ་མང་བ་ཡིན་སྙམ་མམ། ",
    "targets": [
-    "398"
+    "399"
    ]
   },
   {
    "row": 403,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། ",
    "targets": [
-    "399"
+    "400"
    ]
   },
   {
    "row": 404,
    "root_row_text": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་དེ་མང་བ་ལགས་སོ། །",
    "targets": [
-    "400"
+    "401"
    ]
   },
   {
    "row": 405,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཤིག་མཆིས་པར་གྱུར་ན། བཅོམ་ལྡན་འདས་ཀྱིས་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་བཀའ་མི་སྩོལ་བའི་སླད་དུའོ། །",
    "targets": [
-    "401"
+    "402"
    ]
   },
   {
    "row": 406,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་གང་གསུངས་པ་དེ་ཚོགས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པའི་གསུངས་པའི་སླད་དུ་སྟེ། ",
    "targets": [
-    "402"
+    "403"
    ]
   },
   {
    "row": 407,
    "root_row_text": "དེས་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་བགྱིའོ། །",
    "targets": [
-    "403"
+    "404"
    ]
   },
   {
    "row": 408,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་གང་གསུངས་པ་དེ་ཁམས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ། ",
    "targets": [
-    "404"
+    "405"
    ]
   },
   {
    "row": 409,
    "root_row_text": "དེས་ན་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་བགྱིའོ། །",
    "targets": [
-    "405"
+    "406"
    ]
   },
   {
    "row": 410,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་འཇིག་རྟེན་གྱི་ཁམས་ཤིག་མཆིས་པར་གྱུར་ན། དེ་ཉིད་རིལ་པོར་འཛིན་པར་འགྱུར་བའི་སླད་དུའོ།།",
    "targets": [
-    "406"
+    "407"
    ]
   },
   {
    "row": 411,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་རིལ་པོར་འཛིན་པར་གསུངས་པ་དེ་འཛིན་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
    "targets": [
-    "407"
+    "408"
    ]
   },
   {
    "row": 412,
    "root_row_text": "དེས་ན་རིལ་པོར་འཛིན་པ་ཞེས་བགྱིའོ། །",
    "targets": [
-    "408"
+    "409"
    ]
   },
   {
    "row": 413,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་རིལ་པོར་འཛིན་པ་ཉིད་ནི་ཐ་སྙད་དེ། ",
    "targets": [
-    "409"
+    "410"
    ]
   },
   {
    "row": 414,
    "root_row_text": "ཆོས་དེ་ནི་བརྗོད་དུ་མེད་པ་ཡིན་ན། དེ་ཡང་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཀྱིས་གཟུང་ངོ་། །",
    "targets": [
-    "410"
+    "411"
    ]
   },
   {
    "row": 415,
    "root_row_text": "རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གསུངས། ",
    "targets": [
-    "411"
+    "412"
    ]
   },
   {
    "row": 416,
    "root_row_text": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་དུ་ལྟ་བ་དང༌། སྲོག་ཏུ་ལྟ་བ་དང༌། གང་ཟག་ཏུ་ལྟ་བར་གསུངས་སོ། །ཞེས་ཟེར་ན་དེ་ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ཡིན་ནམ། ",
    "targets": [
-    "412"
+    "413"
    ]
   },
   {
    "row": 417,
    "root_row_text": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
    "targets": [
-    "413"
+    "414"
    ]
   },
   {
    "row": 418,
    "root_row_text": "བདེ་བར་གཤེགས་པ་དེ་ནི་མ་ལགས་སོ། །",
    "targets": [
-    "414"
+    "415"
    ]
   },
   {
    "row": 419,
    "root_row_text": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གང་གསུངས་པ་དེ་ནི་ལྟ་བ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ། ",
    "targets": [
-    "415"
+    "416"
    ]
   },
   {
@@ -11897,70 +11878,70 @@
    "row": 421,
    "root_row_text": "དེས་ན་བདག་ཏུ་ལྟ་བ་ཞེས་བགྱིའོ། །",
    "targets": [
-    "416"
+    "417"
    ]
   },
   {
    "row": 422,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་ལྟར་ཆོས་ཐམས་ཅད་ཤེས་པར་བྱ། བལྟ་བར་བྱ། མོས་པར་བྱ་སྟེ།",
    "targets": [
-    "417"
+    "418"
    ]
   },
   {
    "row": 423,
    "root_row_text": "ཅི་ནས་ཆོས་སུ་འདུ་ཤེས་པ་ལ་མི་གནས་པར་ཤེས་པར་བྱའོ། །",
    "targets": [
-    "418"
+    "419"
    ]
   },
   {
    "row": 424,
    "root_row_text": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཆོས་སུ་འདུ་ཤེས་ཆོས་སུ་འདུ་ཤེས་ཞེས་བྱ་བ་ནི། དེ་འདུ་ཤེས་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ། ",
    "targets": [
-    "419"
+    "420"
    ]
   },
   {
    "row": 425,
    "root_row_text": "དེས་ན་ཆོས་སུ་འདུ་ཤེས་ཆོས་སུ་འདུ་ཤེས་ཞེས་བྱའོ། །",
    "targets": [
-    "420"
+    "421"
    ]
   },
   {
    "row": 426,
    "root_row_text": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་དཔག་ཏུ་མེད་ཅིང་གྲངས་མེད་པ་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བྲིས་ནས་འཛིན་ཏམ། འཆང་ངམ། ཀློག་གམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན་དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
    "targets": [
-    "421"
+    "422"
    ]
   },
   {
    "row": 427,
    "root_row_text": "ཇི་ལྟར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཅེ་ན། ཇི་ལྟར་ཡང་དག་པར་རབ་ཏུ་མི་སྟོན་པ་དེ་བཞིན་དུ་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་སྟེ། ",
    "targets": [
-    "422"
+    "423"
    ]
   },
   {
    "row": 428,
    "root_row_text": "དེས་ན་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་ཞེས་བྱའོ། །",
    "targets": [
-    "423"
+    "424"
    ]
   },
   {
    "row": 429,
    "root_row_text": "སྐར་མ་རབ་རིབ་མར་མེ་དང༌། །སྒྱུ་མ་ཟིལ་བ་ཆུ་བུར་དང༌། །རྨི་ལམ་གློག་དང་སྤྲིན་ལྟ་བུ། །འདུས་བྱས་ཐམས་ཅད་དེ་ལྟར་ལྟ། །",
    "targets": [
-    "424"
+    "425"
    ]
   },
   {
    "row": 430,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། གནས་བརྟན་རབ་འབྱོར་དང༌། དགེ་སློང་དེ་དག་དང༌། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང༌། འཁོར་བཞི་པོ་དགེ་སློང་དང༌། དགེ་སློང་མ་དང༌། དགེ་བསྙེན་དང༌། དགེ་བསྙེན་མ་དང༌། ལྷ་དང༌། མི་དང་ལྷ་མ་ཡིན་དང༌། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། ",
    "targets": [
-    "425"
+    "426"
    ]
   },
   {
@@ -11972,23 +11953,23 @@
    "row": 432,
    "root_row_text": "བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།",
    "targets": [
-    "426"
+    "427"
    ]
   },
   {
    "row": 433,
    "root_row_text": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།",
    "targets": [
-    "427"
+    "428"
    ]
   },
   {
    "row": 434,
    "root_row_text": "ན་མོ་བྷ་ག་ཝ་ཏེ། པྲཛྙཱ་པ་ར་མི་ཏ་ཡེ། ཨོཾ་ན་ཏ་ད་ཏི་ཏ། ཨི་ལི་ཤི །ཨི་ལི་ཤི །མི་ལི་ཤི །མི་ལི་ཤི །བྷི་ན་ཡན་བྷི་ན་ཡན། ན་མོ་བྷ་ག་ཝ་ཏེ། པྲད་ཏྱཾ་པྲ་ཏེ། ཨི་རི་ཏི། ཨི་རི་ཏི། མི་ར་ཏི། མི་རི་ཏི། ཤུ་རི་ཏི། ཤུ་རི་ཏི། ཨུ་ཤུ་རི་ཨུ་ཤུ་རི། བྷུ་ཡུ་ཡེ་བྷུ་ཡུ་ཡེ་སྭཱཧཱ། རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ་འདི་ལན་གཅིག་བཟླས་པས་རྡོ་རྗེ་གཅོད་པ་ཁྲི་དགུ་སྟོང་བཀླགས་པ་དང་མཉམ་པར་འགྱུར་རོ། །ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ།། །།",
    "targets": [
-    "428",
     "429",
-    "430"
+    "430",
+    "431"
    ]
   }
  ]

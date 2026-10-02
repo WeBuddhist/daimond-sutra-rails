@@ -2,9 +2,18 @@
  {
   "key": "bo-root",
   "path": "1-SOURCES/Text/bo-vajracchedika.md",
-  "adapter": "rows",
-  "blocks": 430,
-  "ids": "1..430",
+  "adapter": "numbered",
+  "title_text": "༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+  "blocks": 431,
+  "text_corrections": [
+   "29",
+   "146"
+  ],
+  "alt_segmentation:Tsadel sentence segmentation (430 rows, later corrections)": {
+   "rows": 430,
+   "text_differences": 1
+  },
+  "ids": "1..431",
   "transclusions": 0
  },
  {
@@ -22,15 +31,15 @@
   ],
   "headings": 32,
   "ids": "1..127",
-  "transclusions": 376
+  "transclusions": 378
  },
  {
   "key": "lzh-kumarajiva-bo",
   "path": "1-SOURCES/Translations/lzh-kumarajiva-tibetan-order.md",
   "adapter": "parallel",
-  "blocks": 369,
+  "blocks": 368,
   "rows": 431,
-  "identity_alignment": true,
+  "identity_alignment": false,
   "rows_without_counterpart": [
    2,
    3,
@@ -94,9 +103,15 @@
    429,
    430
   ],
-  "unmapped_rows": [],
-  "ids": "1..428",
-  "transclusions": 369
+  "unmapped_rows": [
+   {
+    "row": 1,
+    "text": "金剛般若波羅蜜經",
+    "kept": false
+   }
+  ],
+  "ids": "4..429",
+  "transclusions": 370
  },
  {
   "key": "zh-baihua",
@@ -192,16 +207,17 @@
   "path": "1-SOURCES/Commentaries/lzh-gunada-pojuzhe.md",
   "adapter": "ref_commentary",
   "title_text": "金剛般若波羅蜜經破取著不壞假名論",
-  "blocks": 146,
+  "blocks": 145,
   "headings": 0,
-  "blocks_with_refs": 123,
+  "blocks_with_refs": 124,
   "auto_numbered_refs": 0,
   "candidate_refs": 0,
   "lemma_blocks": 0,
+  "number_only_paragraphs": 1,
   "tsadrel_rows_with_root": 57,
   "tsadrel_agreement_with_typed_refs": "55/55",
-  "ids": "0-1..0-146",
-  "transclusions": 185
+  "ids": "0-1..0-145",
+  "transclusions": 187
  },
  {
   "key": "lzh-taixu-yimai",
@@ -256,12 +272,12 @@
   "title_text": "《金剛經》講記",
   "blocks": 275,
   "headings": 27,
-  "blocks_with_refs": 0,
+  "blocks_with_refs": 114,
   "auto_numbered_refs": 0,
-  "candidate_refs": 114,
+  "candidate_refs": 0,
   "lemma_blocks": 0,
   "ids": "1-1..4-8",
-  "transclusions": 0
+  "transclusions": 137
  },
  {
   "key": "lzh-jizang-shu",
@@ -282,7 +298,7 @@
   "key": "sa-vajracchedika",
   "path": "1-SOURCES/Translations/sa-vajracchedika.md",
   "adapter": "parallel",
-  "blocks": 423,
+  "blocks": 422,
   "rows": 435,
   "identity_alignment": false,
   "rows_without_counterpart": [
@@ -294,52 +310,48 @@
   ],
   "unmapped_rows": [
    {
+    "row": 1,
+    "text": "वज्रच्छेदिका नाम त्रिशतिका प्रज्ञापारमिता। ",
+    "kept": false
+   },
+   {
     "row": 216,
     "text": "न रूपशब्दगन्धरसस्पर्शधर्मप्रतिष्ठितेन दानं दातव्यम्॥",
-    "kept_in_block": "215"
+    "kept_in_block": "216"
    },
    {
     "row": 311,
     "text": "भगवानाह-तत्किं मन्यसे सुभूते यावन्त्यो गङ्गायां महानद्यां वालुकाः, अपि नु ता वालुकास्तथागतेन भाषिताः ? सुभूतिराह-एवमेतद्भगवन्, एवमेतत् सुगत। भाषितास्तथागतेन वालुकाः। ",
-    "kept_in_block": "309"
+    "kept_in_block": "310"
    },
    {
     "row": 376,
     "text": "यथाहं भगवतो भाषितस्यार्थमाजानामि, ",
-    "kept_in_block": "373"
+    "kept_in_block": "374"
    },
    {
     "row": 379,
     "text": "एवमेतद्यथा वदसि। ",
-    "kept_in_block": "375"
+    "kept_in_block": "376"
    },
    {
     "row": 420,
     "text": "न सम्यग्वदमानो वदेत्। ",
-    "kept_in_block": "415"
+    "kept_in_block": "416"
    },
    {
     "row": 431,
     "text": "तथा प्रकाशयेत्, तेनोच्यते संप्रकाशयेदिति॥",
-    "kept_in_block": "425"
+    "kept_in_block": "426"
    }
   ],
-  "ids": "1..428",
-  "transclusions": 425
+  "ids": "3..429",
+  "transclusions": 426
  },
  {
   "key": "bo-vasubandhu",
   "path": "1-SOURCES/Commentaries/bo-vasubandhu-saptartha-tika.md",
   "adapter": "ref_commentary",
-  "ref_map:རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text.docx": {
-   "numbers": 431,
-   "unlocated": [],
-   "inferred_by_position": {
-    "146": [
-     "146"
-    ]
-   }
-  },
   "title_text": "༄༅། །འཕགས་པ་བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ། ",
   "blocks": 423,
   "headings": 38,
@@ -365,20 +377,32 @@
   "key": "bo-chone",
   "path": "1-SOURCES/Commentaries/bo-chone-drakpa-shedrub.md",
   "adapter": "ref_commentary",
-  "ref_map:རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text.docx": {
-   "numbers": 431,
-   "unlocated": [],
-   "inferred_by_position": {
-    "146": [
-     "146"
+  "title_text": "རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།། ",
+  "ref_corrections_applied": [
+   {
+    "paragraph": 381,
+    "written": "189190",
+    "read_as": [
+     189,
+     190
+    ]
+   },
+   {
+    "paragraph": 383,
+    "written": "189190",
+    "read_as": [
+     189,
+     190
+    ]
+   },
+   {
+    "paragraph": 385,
+    "written": "189190",
+    "read_as": [
+     189,
+     190
     ]
    }
-  },
-  "title_text": "རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།། ",
-  "unresolved_refs": [
-   189190,
-   189190,
-   189190
   ],
   "blocks": 366,
   "headings": 8,
@@ -411,21 +435,12 @@
    "unplaced": 12
   },
   "ids": "0-1..3-11",
-  "transclusions": 1026
+  "transclusions": 1035
  },
  {
   "key": "bo-kamalasila",
   "path": "1-SOURCES/Commentaries/bo-kamalasila-tika.md",
   "adapter": "ref_commentary",
-  "ref_map:རྡོ་རྗེ་གཅོད་པ་རྩ་བ།  Root text.docx": {
-   "numbers": 431,
-   "unlocated": [],
-   "inferred_by_position": {
-    "146": [
-     "146"
-    ]
-   }
-  },
   "title_text": "༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།",
   "blocks": 287,
   "headings": 43,
@@ -475,11 +490,11 @@
   "adapter": "ref_commentary",
   "blocks": 79,
   "headings": 0,
-  "blocks_with_refs": 0,
+  "blocks_with_refs": 6,
   "auto_numbered_refs": 0,
-  "candidate_refs": 6,
+  "candidate_refs": 0,
   "lemma_blocks": 0,
   "ids": "0-1..0-79",
-  "transclusions": 0
+  "transclusions": 11
  }
 ]

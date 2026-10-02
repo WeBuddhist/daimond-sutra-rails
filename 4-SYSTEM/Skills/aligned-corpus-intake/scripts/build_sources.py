@@ -138,19 +138,33 @@ def adapt_rows(ctx, spec, rep):
 
 
 def adapt_numbered(ctx, spec, rep):
-    """Blocks are the auto-numbered paragraphs; id = the number Word renders.
+    """Blocks are the numbered segments; id = the segment's number.
+
+    number_source: auto  — Word list numbering (the number Word renders);
+                   typed — a number typed at the start of the paragraph
+                           ("    12. text"), moved into the sidecar.
     An unnumbered paragraph before the first number is the title; any other
     unnumbered text is reported (it has no human id)."""
     doc = ctx.docx(spec["text"])
+    typed = spec.get("number_source", "auto") == "typed"
     items, unnumbered = [], []
     for p in doc["paragraphs"]:
         if not p["text"].strip():
             continue
-        n = p["numbering"]
-        if n and n.get("value"):
-            items.append({"kind": "block", "text": p["text"], "id": str(n["value"]),
-                          "source": {"doc": spec["text"], "paragraph": p["index"], "rendered": n.get("rendered")},
-                          "annotations": formatted_runs(p, spec.get("legend"))})
+        n, text, src = None, p["text"], {"doc": spec["text"], "paragraph": p["index"]}
+        if typed:
+            refs, prefix, rest = parse_ref_prefix(p["text"])
+            if refs and len(refs) == 1:
+                n, text = refs[0], rest
+                src["typed_prefix"] = prefix
+        elif (p["numbering"] or {}).get("value"):
+            n = p["numbering"]["value"]
+            src["rendered"] = p["numbering"].get("rendered")
+        if n is not None:
+            off = len(src.get("typed_prefix", ""))
+            ann = [dict(a, start=a["start"] - off, end=a["end"] - off)
+                   for a in formatted_runs(p, spec.get("legend")) if a["start"] >= off]
+            items.append({"kind": "block", "text": text, "id": str(n), "source": src, "annotations": ann})
         elif not items and "title_text" not in rep:
             rep["title_text"] = p["text"]          # unnumbered opening line = the title
         else:
@@ -158,12 +172,46 @@ def adapt_numbered(ctx, spec, rep):
     rep["blocks"] = len(items)
     if unnumbered:
         rep["unnumbered_paragraphs"] = unnumbered
+    apply_text_corrections(spec, items, rep)
     extra = {}
     if spec.get("align_via"):
         extra["raw_alignment"] = _align_via(ctx, spec, items, rep)
+    if spec.get("alt_segmentations"):
+        extra["alt_segmentations"] = [_alt_segmentation(ctx, a, items, rep) for a in spec["alt_segmentations"]]
     if spec.get("headings_from_openpecha"):
         items = _headings_from_openpecha(ctx, spec["headings_from_openpecha"], items, rep)
     return items, extra
+
+
+def _alt_segmentation(ctx, alt, items, rep):
+    """Record another human segmentation of the same text (rows of a doc)
+    against this work's blocks: which rows each block overlaps, and the
+    letters where the two versions differ (e.g. later corrections)."""
+    rows = [p for p in ctx.docx(alt["doc"])["paragraphs"] if p["text"].strip()]
+    rtext = "\n".join(p["text"] for p in rows)
+    btext = "\n".join(it["text"] for it in items)
+    boffs, pos = [], 0
+    for it in items:
+        boffs.append((it["id"], pos, pos + len(it["text"])))
+        pos += len(it["text"]) + 1
+    proj = Projector(rtext, btext)
+    by_block = {}
+    pos = 0
+    for k, p in enumerate(rows):
+        sp = proj.span(pos, pos + len(p["text"]))
+        for bid, s0, e0 in boffs:
+            if sp and s0 < sp[1] and e0 > sp[0]:
+                by_block.setdefault(bid, []).append(p["index"] + 1)
+        pos += len(p["text"]) + 1
+    import difflib
+    la, lb = letters_only(btext), letters_only(rtext)
+    diffs = [{"op": o, "this": la[i1:i2], "alt": lb[j1:j2], "context": la[max(0, i1 - 12):i2 + 12]}
+             for o, i1, i2, j1, j2 in difflib.SequenceMatcher(None, la, lb, autojunk=False).get_opcodes()
+             if o != "equal"] if len(la) < 60000 else []
+    rep[f"alt_segmentation:{alt.get('label', alt['doc'].split('/')[-1])}"] = {
+        "rows": len(rows), "text_differences": len(diffs)}
+    return {"label": alt.get("label"), "doc": alt["doc"], "rows_by_block": by_block,
+            "text_differences": diffs, "projection": proj.stats}
 
 
 def _headings_from_openpecha(ctx, hs, items, rep):
@@ -200,6 +248,26 @@ def _headings_from_openpecha(ctx, hs, items, rep):
         out.append(it)
     rep["headings"] = sum(len(v) for v in insert.values())
     return out
+
+
+def apply_text_corrections(spec, items, rep):
+    """Apply the manifest's text_corrections: [{id, find, replace, reason,
+    source}] — later human corrections (e.g. a reviewer's emendation carried
+    by another version). `find` must occur exactly once in the block; the
+    original reading is kept in the block's sidecar entry."""
+    by_id = {it.get("id"): it for it in items if it["kind"] == "block"}
+    done = []
+    for c in spec.get("text_corrections") or []:
+        it = by_id.get(str(c["id"]))
+        if it is None or it["text"].count(c["find"]) != 1:
+            raise ValueError(f"text correction {c} does not match exactly once in block ^{c['id']}")
+        it["text"] = it["text"].replace(c["find"], c["replace"])
+        it["source"].setdefault("corrections", []).append(
+            {"original": c["find"], "corrected": c["replace"], "reason": c["reason"],
+             "source": c.get("source")})
+        done.append(str(c["id"]))
+    if done:
+        rep["text_corrections"] = done
 
 
 def _align_via(ctx, spec, items, rep):
@@ -408,6 +476,7 @@ def adapt_ref_commentary(ctx, spec, rep):
     if spec.get("split_lines"):
         paras = [q for p in paras for q in explode_lines(p)]
     excluded = []
+    carry, carried_prefixes = None, []
     for p in paras:
         if not p["text"].strip():
             continue
@@ -447,6 +516,11 @@ def adapt_ref_commentary(ctx, spec, rep):
         segs, cur, off = [], None, 0
         for li, line in enumerate(lines):
             refs, prefix, rest = parse_ref_prefix(line, ref_style) if refs_mode != "none" else (None, "", line)
+            fix = (spec.get("ref_corrections") or {}).get(re.sub(r"[\s.．]", "", prefix)) if refs else None
+            if fix:
+                refs = list(fix["refs"])
+                rep.setdefault("ref_corrections_applied", []).append(
+                    {"paragraph": p["index"], "written": prefix.strip(), "read_as": refs})
             if cur is None or refs:
                 cur = {"lines": [], "refs": refs, "prefix": prefix, "start": off, "line": li}
                 segs.append(cur)
@@ -456,8 +530,18 @@ def adapt_ref_commentary(ctx, spec, rep):
                 cur["lines"].append(line)
             off += len(line) + 1
         auto = (p["numbering"] or {}).get("value")
+        # a paragraph that is only an alignment number applies to the next block
+        if refs_mode != "none" and not spec.get("split_lines"):
+            only, _, rest_ = parse_ref_prefix(p["text"].strip() + " x", ref_style)
+            if only and rest_.strip() == "x":
+                carry = (carry or []) + only
+                carried_prefixes.append({"paragraph": p["index"], "text": p["text"]})
+                continue
         for k, s in enumerate(segs):
             refs = s["refs"]
+            if k == 0 and carry:
+                refs = carry + [r for r in (refs or []) if r not in carry]
+                carry = None
             if k == 0 and auto and refs_mode != "none":
                 refs = [auto] + [r for r in (refs or []) if r != auto]
                 n_auto += 1
@@ -471,6 +555,10 @@ def adapt_ref_commentary(ctx, spec, rep):
             item = {"kind": "block", "text": text, "role": role,
                     "source": {"doc": spec["text"], "paragraph": p["index"], "line": p.get("line", s["line"]),
                                **({"typed_prefix": s["prefix"]} if s["prefix"] else {}),
+                               **({"ref_correction": {"written": s["prefix"].strip(),
+                                                      "read_as": s["refs"],
+                                                      "reason": spec["ref_corrections"][re.sub(r"[\s.．]", "", s["prefix"])]["reason"]}}
+                                  if s["prefix"] and re.sub(r"[\s.．]", "", s["prefix"]) in (spec.get("ref_corrections") or {}) else {}),
                                **({"auto_number": auto} if k == 0 and auto else {})},
                     "annotations": ann}
             if refs:
@@ -506,6 +594,9 @@ def adapt_ref_commentary(ctx, spec, rep):
                 "candidate_refs": len(candidates),
                 "lemma_blocks": sum(1 for i in items if i.get("role") == "lemma")})
     extra = {}
+    if carried_prefixes:
+        extra["number_only_paragraphs"] = carried_prefixes
+        rep["number_only_paragraphs"] = len(carried_prefixes)
     if ref_map is not None:
         extra["ref_map"] = {"doc": spec["ref_map"]["doc"], "style": spec["ref_map"].get("style", "typed"),
                             "map": {str(k): v for k, v in sorted(ref_map.items())}}

@@ -43,7 +43,7 @@ Read with `scripts/docx_model.py` (stdlib only): paragraphs, runs with colour / 
 | dotted | Chinese commentaries (refs to the Chinese root's numbered segments) | `12.` `12-15.` `1-3,5.` `17-19` (a range may drop the dot); a Tibetan tsheg may follow (`3.་`); the first few may be Word auto-numbers rather than typed |
 | bare | Tibetan commentaries (refs to a root reference numbering) | `14` `1-3` `198,199,201` — never followed by a dot (a dotted number is a heading's outline number) |
 
-The numbers refer to a **reference numbering of the root**, which may not be the canonical segmentation (in this corpus: a 431-row numbered copy of the Tibetan, and an older 489-row one). `build_ref_map` turns it into a concordance by locating each numbered row in the canonical root; a row that cannot be located but sits between two located neighbours takes the ids between them, recorded as `inferred_by_position`.
+**The numbers are root segment ids.** They refer to one specific numbered copy of the root — in this corpus the Tibetan `It is for reference only/…Root text.docx` (431 typed numbers, title unnumbered) for every Tibetan commentary, and the 127 auto-numbered segments of MFF4994FD for every Chinese one. Build the root from that copy so its block `^N` is segment N, and transclude each number as written. Other splits of the root (the 430-row Tsadel, the 489-row "original") go in the root's sidecar as `alt_segmentations`. An older alignment made against a different numbering (Cone D2, 489-row) is kept as an overlay with its own concordance (`build_ref_map`). A paragraph that is only a number applies to the next paragraph.
 
 ### 2c. Colour legends seen
 

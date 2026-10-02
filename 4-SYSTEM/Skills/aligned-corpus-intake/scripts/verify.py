@@ -128,6 +128,7 @@ def main():
             if src.get("typed_prefix"):
                 moved.append(src["typed_prefix"])
         moved += [e["text"] for e in side.get("excluded_paragraphs") or []]
+        moved += [e["text"] for e in side.get("number_only_paragraphs") or []]
         src_letters = collections.Counter(letters_only(source_text(raw, spec, op_root)))
         out_letters = collections.Counter(letters_only(out_text + "\n".join(moved)))
         missing = sum((src_letters - out_letters).values())

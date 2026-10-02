@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/bo-asanga-rtsa-grel.md",
+                "file": "1-SOURCES/Commentaries/bo-chone-drakpa-shedrub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bo-asanga-rtsa-grel"
+              "title": "bo-chone-drakpa-shedrub"
             }
           }
         ]
@@ -199,12 +199,12 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/bo-asanga-rtsa-grel.md",
     "1-SOURCES/Text/bo-vajracchedika.md",
     "0-INBOX/diamond-sutra-intake-report.md",
     "README.md",
     "0-INBOX/temp/diamond-intake-report.json",
     "1-SOURCES/Annotations/bo-asanga-rtsa-grel.annotations.json",
-    "1-SOURCES/Commentaries/bo-asanga-rtsa-grel.md",
     "1-SOURCES/Annotations/bo-kamalasila-tika.annotations.json",
     "1-SOURCES/Commentaries/bo-kamalasila-tika.md",
     "1-SOURCES/Annotations/bo-chone-drakpa-shedrub.annotations.json",

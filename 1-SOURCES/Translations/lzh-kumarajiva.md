@@ -29,7 +29,7 @@ intake:
   adapter: numbered
   date: '2026-10-02'
   annotations: 1-SOURCES/Annotations/lzh-kumarajiva.annotations.json
-covers_verses: 5–428
+covers_verses: 4–429
 related_translations:
 - 1-SOURCES/Translations/zh-baihua.md
 related_commentaries:
@@ -49,20 +49,21 @@ related_commentaries:
 
 ## 〔法會因由分第一〕 ^1-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^5]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^4]]
 
 如是我聞： ^1
 
+![[1-SOURCES/Text/bo-vajracchedika.md#^4]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^5]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^6]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^7]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^8]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^9]]
 
 一時，佛在舍衛國祇樹給孤獨園，與大比丘眾千二百五十人俱。爾時，世尊食時，著衣持鉢，入舍衛大城乞食。於其城中，次第乞已，還至本處。飯食訖，收衣鉢，洗足已，敷座而坐。 ^2
 
 ## 〔善現啟請分第二〕 ^2-0
 
+![[1-SOURCES/Text/bo-vajracchedika.md#^12]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^13]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^14]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^15]]
@@ -397,12 +398,12 @@ related_commentaries:
 ![[1-SOURCES/Text/bo-vajracchedika.md#^191]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^192]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^193]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^194]]
 
 爾時，須菩提聞說是經，深解義趣，涕淚悲泣，而白佛言：「希有世尊！佛說如是甚深經典，我從昔來所得慧眼，未曾得聞如是之經。世尊！若復有人得聞是經，信心清淨，則生實相，當知是人，成就第一希有功德。世尊！是實相者，則是非相，是故如來說名實相。世尊！我今得聞如是經典，信解、受持不足為難，若當來世後五百歲，其有眾生得聞是經，信解、受持，是人則為第一希有。何以故？此人無我相、人相、眾生相、壽者相。所以者何？我相即是非相，人相、眾生相、壽者相即是非相。何以故？離一切諸相，則名諸佛。」 ^55
 
 ![[1-SOURCES/Text/bo-vajracchedika.md#^134]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^135]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^194]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^195]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^196]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^197]]
@@ -410,404 +411,404 @@ related_commentaries:
 ![[1-SOURCES/Text/bo-vajracchedika.md#^199]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^200]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^201]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^203]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^205]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^202]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^204]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^206]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^207]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^208]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^209]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^210]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^214]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^211]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^215]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^216]]
 
 佛告須菩提：「如是，如是！若復有人得聞是經，不驚、不怖、不畏，當知是人甚為希有。何以故？須菩提！如來說第一波羅蜜，非第一波羅蜜，是名第一波羅蜜。須菩提！忍辱波羅蜜，如來說非忍辱波羅蜜。何以故？須菩提！如我昔為歌利王割截身體，我於爾時，無我相、無人相、無眾生相、無壽者相。何以故？我於往昔節節支解時，若有我相、人相、眾生相、壽者相，應生瞋恨。須菩提！又念過去於五百世作忍辱仙人，於爾所世，無我相、無人相、無眾生相、無壽者相。是故，須菩提！菩薩應離一切相，發阿耨多羅三藐三菩提心，不應住色生心，不應住聲、香、味、觸、法生心，應生無所住心。若心有住，則為非住。是故，佛說菩薩心不應住色布施。」 ^56
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^216]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^217]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^218]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^219]]
 
 「須菩提！菩薩為利益一切眾生，應如是布施。如來說：『一切諸相，即是非相。』又說：『一切眾生，則非眾生。』 ^57
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^219]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^220]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^221]]
 
 「須菩提！如來是真語者、實語者、如語者、不誑語者、不異語者。」 ^58
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^221]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^222]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^223]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^224]]
 
 「須菩提！如來所得法，此法無實無虛。須菩提！若菩薩心住於法而行布施，如人入闇，則無所見；若菩薩心不住法而行布施，如人有目，日光明照，見種種色。」 ^59
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^224]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^225]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^226]]
 
 「須菩提！當來之世，若有善男子、善女人，能於此經受持、讀誦，則為如來以佛智慧悉知是人，悉見是人，皆得成就無量無邊功德。」 ^60
 
 ## 〔持經功德分第十五〕 ^15-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^226]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^227]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^228]]
 
 「須菩提！若有善男子、善女人，初日分以恒河沙等身布施，中日分復以恒河沙等身布施，後日分亦以恒河沙等身布施，如是無量百千萬億劫以身布施；若復有人，聞此經典，信心不逆，其福勝彼，何況書寫、受持、讀誦、為人解說。」 ^61
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^228]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^229]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^230]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^231]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^233]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^232]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^234]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^235]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^236]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^237]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^238]]
 
 「須菩提！以要言之，是經有不可思議、不可稱量、無邊功德。如來為發大乘者說，為發最上乘者說。若有人能受持、讀誦、廣為人說，如來悉知是人，悉見是人，皆得成就不可量、不可稱、無有邊、不可思議功德，如是人等，則為荷擔如來阿耨多羅三藐三菩提。何以故？須菩提！若樂小法者，著我見、人見、眾生見、壽者見，則於此經，不能聽受、讀誦、為人解說。」 ^62
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^239]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^240]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^241]]
 
 「須菩提！在在處處若有此經，一切世間天、人、阿修羅所應供養；當知此處則為是塔，皆應恭敬、作禮、圍繞，以諸華香而散其處。」 ^63
 
 ## 〔能淨業障分第十六〕 ^16-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^242]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^243]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^244]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^245]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^246]]
 
 「復次，須菩提！善男子、善女人受持、讀誦此經，若為人輕賤，是人先世罪業應墮惡道，以今世人輕賤故，先世罪業則為消滅，當得阿耨多羅三藐三菩提。」 ^64
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^246]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^247]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^248]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^249]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^250]]
 
 「須菩提！我念過去無量阿僧祇劫，於然燈佛前，得值八百四千萬億那由他諸佛，悉皆供養承事，無空過者；若復有人，於後末世，能受持、讀誦此經，所得功德，於我所供養諸佛功德，百分不及一，千萬億分乃至算數、譬喻所不能及。」 ^65
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^250]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^251]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^252]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^253]]
 
 「須菩提！若善男子、善女人於後末世，有受持、讀誦此經所得功德，我若具說者，或有人聞，心則狂亂，狐疑不信。須菩提！當知是經義不可思議，果報亦不可思議。」 ^66
 
 ## 〔究竟無我分第十七〕 ^17-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^253]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^254]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^256]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^255]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^257]]
 
 「爾時，須菩提白佛言：「世尊！善男子、善女人發阿耨多羅三藐三菩提心，云何應住？云何降伏其心？」 ^67
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^257]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^258]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^259]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^260]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^261]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^262]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^263]]
 
 佛告須菩提：「善男子、善女人發阿耨多羅三藐三菩提者，當生如是心：『我應滅度一切眾生。滅度一切眾生已，而無有一眾生實滅度者。』何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，則非菩薩。所以者何？須菩提！實無有法發阿耨多羅三藐三菩提者。」 ^68
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^263]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^264]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^265]]
 
 「須菩提！於意云何？如來於然燈佛所，有法得阿耨多羅三藐三菩提不？」 ^69
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^265]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^266]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^267]]
 
 「不也，世尊！如我解佛所說義，佛於然燈佛所，無有法得阿耨多羅三藐三菩提。」 ^70
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^267]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^268]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^269]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^270]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^271]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^272]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^273]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^274]]
 
 佛言：「如是，如是！須菩提！實無有法，如來得阿耨多羅三藐三菩提。須菩提！若有法，如來得阿耨多羅三藐三菩提者，然燈佛則不與我受記：『汝於來世當得作佛，號釋迦牟尼。』以實無有法得阿耨多羅三藐三菩提，是故然燈佛與我受記，作是言：『汝於來世當得作佛，號釋迦牟尼。』何以故？如來者，即諸法如義。」 ^71
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^274]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^276]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^275]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^277]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^278]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^279]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^280]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^281]]
 
 「若有人言『如來得阿耨多羅三藐三菩提』，須菩提！實無有法，佛得阿耨多羅三藐三菩提。須菩提！如來所得阿耨多羅三藐三菩提，於是中無實無虛，是故如來說：『一切法皆是佛法。』須菩提！所言一切法者，即非一切法，是故名一切法。」 ^72
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^281]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^282]]
 
 「須菩提！譬如人身長、大。」 ^73
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^282]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^283]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^284]]
 
 須菩提言：「世尊！如來說人身長、大，則為非大身，是名大身。」 ^74
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^284]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^285]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^286]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^288]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^287]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^289]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^290]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^291]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^292]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^293]]
 
 「須菩提！菩薩亦如是，若作是言『我當滅度無量眾生』，則不名菩薩。何以故？須菩提！實無有法名為菩薩。是故，佛說：『一切法無我、無人、無眾生、無壽者。』須菩提！若菩薩作是言『我當莊嚴佛土』，是不名菩薩。何以故？如來說莊嚴佛土者，即非莊嚴，是名莊嚴。須菩提！若菩薩通達無我、法者，如來說名真是菩薩。」 ^75
 
 ## 〔一體同觀分第十八〕 ^18-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^293]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^294]]
 
 「須菩提！於意云何？如來有肉眼不？」 ^76
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^294]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^295]]
 
 「如是，世尊！如來有肉眼。」 ^77
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^295]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^296]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^297]]
 
 「須菩提！於意云何？如來有天眼不？」 ^78
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^297]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^298]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^299]]
 
 「如是，世尊！如來有天眼。」 ^79
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^299]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^300]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^301]]
 
 「須菩提！於意云何？如來有慧眼不？」 ^80
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^301]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^302]]
 
 「如是，世尊！如來有慧眼。」 ^81
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^302]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^303]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^304]]
 
 「須菩提！於意云何？如來有法眼不？」 ^82
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^304]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^305]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^306]]
 
 「如是，世尊！如來有法眼。」 ^83
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^306]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^307]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^308]]
 
 「須菩提！於意云何？如來有佛眼不？」 ^84
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^308]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^309]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^310]]
 
 「如是，世尊！如來有佛眼。」 ^85
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^310]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^311]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^312]]
 
 「須菩提！於意云何？恒河中所有沙，佛說是沙不？」 ^86
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^311]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^313]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^312]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^314]]
 
 「如是，世尊！如來說是沙。」 ^87
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^311]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^313]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^312]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^314]]
 
 「須菩提！於意云何？如一恒河中所有沙，有如是等恒河，是諸恒河所有沙數佛世界，如是寧為多不？」 ^88
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^313]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^314]]
 
 「甚多，世尊！」 ^89
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^314]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^315]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^316]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^317]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^318]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^319]]
 
 佛告須菩提：「爾所國土中，所有眾生若干種心，如來悉知。何以故？如來說諸心，皆為非心，是名為心。所以者何？須菩提！過去心不可得，現在心不可得，未來心不可得。」 ^90
 
 ## 〔法界通化分第十九〕 ^19-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^320]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^321]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^322]]
 
 「須菩提！於意云何？若有人滿三千大千世界七寶以用布施，是人以是因緣得福多不？」 ^91
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^312]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^322]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^313]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^323]]
 
 「如是，世尊！此人以是因緣得福甚多。」 ^92
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^325]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^327]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^326]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^328]]
 
 「須菩提！若福德有實，如來不說得福德多；以福德無故，如來說得福德多。」 ^93
 
 ## 〔離色離相分第二十〕 ^20-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^328]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^329]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^330]]
 
 「須菩提！於意云何？佛可以具足色身見不？」 ^94
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^330]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^331]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^332]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^333]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^334]]
 
 「不也，世尊！如來不應以具足色身見。何以故？如來說具足色身，即非具足色身，是名具足色身。」 ^95
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^334]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^335]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^336]]
 
 「須菩提！於意云何？如來可以具足諸相見不？」 ^96
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^336]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^337]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^338]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^339]]
 
 「不也，世尊！如來不應以具足諸相見。何以故？如來說諸相具足，即非具足，是名諸相具足。」 ^97
 
 ## 〔非說所說分第二十一〕 ^21-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^339]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^340]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^342]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^341]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^343]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^344]]
 
 「須菩提！汝勿謂如來作是念，『我當有所說法』。莫作是念，何以故？若人言『如來有所說法』，即為謗佛，不能解我所說故。須菩提！說法者，無法可說，是名說法。」 ^98
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^344]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^345]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^346]]
 
 爾時，慧命須菩提白佛言：「世尊！頗有眾生於未來世，聞說是法生信心不？」 ^99
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^346]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^347]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^348]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^374]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^349]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^375]]
 
 佛言：「須菩提！彼非眾生，非不眾生。何以故？須菩提！眾生、眾生者，如來說非眾生，是名眾生。」 ^100
 
 ## 〔無法可得分第二十二〕 ^22-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^351]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^352]]
 
 須菩提白佛言：「世尊！佛得阿耨多羅三藐三菩提，為無所得耶？」 ^101
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^352]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^353]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^354]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^355]]
 
 「如是，如是！須菩提！我於阿耨多羅三藐三菩提乃至無有少法可得，是名阿耨多羅三藐三菩提。」 ^102
 
 ## 〔淨心行善分第二十三〕 ^23-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^355]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^356]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^357]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^358]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^359]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^360]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^361]]
 
 「復次，須菩提！是法平等，無有高下，是名阿耨多羅三藐三菩提；以無我、無人、無眾生、無壽者，修一切善法，則得阿耨多羅三藐三菩提。須菩提！所言善法者，如來說非善法，是名善法。」 ^103
 
 ## 〔福智無比分第二十四〕 ^24-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^361]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^362]]
 
 「須菩提！若三千大千世界中所有諸須彌山王，如是等七寶聚，有人持用布施；若人以此《般若波羅蜜經》，乃至四句偈等，受持、讀誦、為他人說，於前福德百分不及一，百千萬億分，乃至算數、譬喻所不能及。」 ^104
 
 ## 〔化無所化分第二十五〕 ^25-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^362]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^363]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^364]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^365]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^366]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^367]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^368]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^369]]
 
 「須菩提！於意云何？汝等勿謂如來作是念：『我當度眾生。』須菩提！莫作是念。何以故？實無有眾生如來度者，若有眾生如來度者，如來則有我、人、眾生、壽者。須菩提！如來說有我者，則非有我，而凡夫之人以為有我。須菩提！凡夫者，如來說則非凡夫。」 ^105
 
 ## 〔法身非相分第二十六〕 ^26-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^370]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^371]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^372]]
 
 「須菩提！於意云何？可以三十二相觀如來不？」 ^106
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^371]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^372]]
 
 須菩提言：「如是，如是！以三十二相觀如來。」 ^107
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^376]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^377]]
 
 佛言：「須菩提！若以三十二相觀如來者，轉輪聖王則是如來。」 ^108
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^372]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^373]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^374]]
 
 須菩提白佛言：「世尊！如我解佛所說義，不應以三十二相觀如來。」 ^109
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^380]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^381]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^382]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^383]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^384]]
 
 爾時，世尊而說偈言：「若以色見我，  以音聲求我，是人行邪道，  不能見如來。」 ^110
 
 ## 〔無斷無滅分第二十七〕 ^27-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^385]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^386]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^387]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^388]]
 
 「須菩提！汝若作是念：『如來不以具足相故，得阿耨多羅三藐三菩提。』須菩提！莫作是念：『如來不以具足相故，得阿耨多羅三藐三菩提。』」 ^111
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^388]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^389]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^390]]
 
 「須菩提！汝若作是念：『發阿耨多羅三藐三菩提者，說諸法斷滅相。』莫作是念。何以故？發阿耨多羅三藐三菩提心者，於法不說斷滅相。」 ^112
 
 ## 〔不受不貪分第二十八〕 ^28-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^390]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^391]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^392]]
 
 「須菩提！若菩薩以滿恒河沙等世界七寶布施；若復有人知一切法無我，得成於忍，此菩薩勝前菩薩所得功德。須菩提！以諸菩薩不受福德故。」 ^113
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^392]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^393]]
 
 須菩提白佛言：「世尊！云何菩薩不受福德？」 ^114
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^393]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^394]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^395]]
 
 「須菩提！菩薩所作福德，不應貪著，是故說不受福德。」 ^115
 
 ## 〔威儀寂淨分第二十九〕 ^29-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^395]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^396]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^397]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^398]]
 
 「須菩提！若有人言『如來若來若去、若坐若臥』，是人不解我所說義。何以故？如來者，無所從來，亦無所去，故名如來。」 ^116
 
 ## 〔一合理相分第三十〕 ^30-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^398]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^399]]
 
 「須菩提！若善男子、善女人以三千大千世界碎為微塵，於意云何？是微塵眾寧為多不？」 ^117
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^399]]
-![[1-SOURCES/Text/bo-vajracchedika.md#^401]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^400]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^402]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^403]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^404]]
@@ -815,55 +816,56 @@ related_commentaries:
 ![[1-SOURCES/Text/bo-vajracchedika.md#^406]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^407]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^408]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^409]]
 
 「甚多，世尊！何以故？若是微塵眾實有者，佛則不說是微塵眾。所以者何？佛說微塵眾，則非微塵眾，是名微塵眾。世尊！如來所說三千大千世界，則非世界，是名世界。何以故？若世界實有者，則是一合相。如來說一合相，則非一合相，是名一合相。」 ^118
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^409]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^410]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^411]]
 
 「須菩提！一合相者，則是不可說，但凡夫之人貪著其事。」 ^119
 
 ## 〔知見不生分第三十一〕 ^31-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^411]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^412]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^413]]
 
 「須菩提！若人言『佛說我見、人見、眾生見、壽者見』，須菩提！於意云何？是人解我所說義不？」 ^120
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^413]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^414]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^415]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^416]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^417]]
 
 「世尊！是人不解如來所說義。何以故？世尊說我見、人見、眾生見、壽者見，即非我見、人見、眾生見、壽者見，是名我見、人見、眾生見、壽者見。」 ^121
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^417]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^418]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^419]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^420]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^421]]
 
 「須菩提！發阿耨多羅三藐三菩提心者，於一切法，應如是知，如是見，如是信解，不生法相。須菩提！所言法相者，如來說即非法相，是名法相。」 ^122
 
 ## 〔應化非真分第三十二〕 ^32-0
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^421]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^422]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^423]]
 
 「須菩提！若有人以滿無量阿僧祇世界七寶持用布施，若有善男子、善女人發菩薩心者，持於此經乃至四句偈等，受持、讀誦、為人演說，其福勝彼。云何為人演說？不取於相，如如不動。何以故？」 ^123
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^424]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^425]]
 
 「一切有為法， 如夢、幻、泡、影，如露亦如電，  應作如是觀。」 ^124
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^425]]
 ![[1-SOURCES/Text/bo-vajracchedika.md#^426]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^427]]
 
 佛說是經已，長老須菩提及諸比丘、比丘尼、優婆塞、優婆夷，一切世間天、人、阿修羅，聞佛所說，皆大歡喜，信受奉行。 ^125
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^428]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^429]]
 
 真言 ^126
 
-![[1-SOURCES/Text/bo-vajracchedika.md#^428]]
+![[1-SOURCES/Text/bo-vajracchedika.md#^429]]
 
 那謨婆伽跋帝　鉢喇壤　波羅弭多曳　唵伊利底　伊室利　輸盧馱　毘舍耶　毘舍耶　莎婆訶 ^127
