@@ -1,0 +1,558 @@
+# Reviewed corrections to the mechanical alignment (Claude reviewers, 2026-10-04), one per segment, with evidence.
+segments:
+  5: 6
+  6: 6
+  7: 10
+  8: 11
+  9: 12
+  13: 15
+  14: 15
+  15: 15
+  16: 19
+  17: 19
+  18: 20
+  19: 20
+  20: 20
+  21: 20
+  22: 20
+  23: 20
+  24: 20
+  25: 20
+  26: 20
+  27: 21
+  28: 21
+  29: 23
+  31: 27
+  35: 49
+  39: 52
+  40: 52
+  41: 52
+  42: 52
+  43: 52
+  45: 54
+  46: 54
+  54: 59
+  55: 59
+  82: 78
+  83: 78
+  95: 89
+  98: 91
+  99: 91
+  100: 93
+  103: 95
+  121: 97
+  122: 97
+  123: 97
+  124: 97
+  125: 100
+  132: null
+  133: null
+  134: null
+  135: null
+  141: 104
+  154: 110
+  155: 111
+  168: 118
+  175: 125
+  176: 125
+  177: 125
+  178: 125
+  179: 125
+  192: 134
+  193: 135
+  209: 146
+  210: 146
+  211: 146
+  219: 149
+  220: 150
+  221: 150
+  224: 153
+  248: 167
+  253: 172
+  260: 173
+  261: 173
+  262: 173
+  270: 175
+  271: 175
+  272: 175
+  286: 183
+  287: 183
+  288: 183
+  298: 189
+  299: 189
+  300: 189
+  325: 196
+  330: 201
+  331: 202
+  332: 202
+  333: 202
+  334: 202
+  335: 202
+  336: 202
+  337: 202
+  338: 202
+  344: 209
+  345: 209
+  369: 227
+  381: 231
+  382: 231
+  383: 231
+  384: 232
+  385: 233
+  386: 233
+  396: 244
+  398: 247
+  399: 247
+  400: 247
+  406: 251
+  419: 258
+  420: 258
+  424: 261
+  425: null
+  426: null
+  427: null
+evidence:
+- segment: 5
+  row: 6
+  evidence: 'Row 5 is the བསྡུས་དོན་ preview; detailed gloss in row 6 (3.1): འདི་སྐད་ཅེས་བྱ་བའི་སྒྲ…བདག་གིས་ཞེས་བྱ་བ…ཐོས་པ་ཞེས་བྱ་བ…དུས་གཅིག་ཅེས་བྱ་བ'
+  from: chunk-1.corrections.yaml
+- segment: 6
+  row: 6
+  evidence: 'Seg 6 first taken up at end of row 6: བཅོམ་ལྡན་འདས་ཞེས་བྱ་བ་ནི་…བདུད་བཞི་བཅོམ་པ; continues row 7 (མཉན་ཡོད་ཅེས་བྱ་བ, རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ)'
+  from: chunk-1.corrections.yaml
+- segment: 7
+  row: 10
+  evidence: དེ་ནས་ཞེས་བྱ་བ་ནི་དེའི་འོག་ཏུའོ། །ཚེ་ཞེས་བྱ་བ…སྔ་དྲོ…ཤམ་ཐབས་ཞེས་བྱ་བ (row 10) gloss seg 7
+  from: chunk-1.corrections.yaml
+- segment: 8
+  row: 11
+  evidence: ཅིའི་ཕྱིར་བཅོམ་ལྡན་འདས་བསོད་སྙོམས་ཀྱི་ཕྱིར་ཞུགས…ཟས་ཀྱི་བྱ་བ་བྱས་ཞེས་བྱ་བ (row 11) = seg 8 ཟས་ཀྱི་བྱ་བ་མཛད
+  from: chunk-1.corrections.yaml
+- segment: 9
+  row: 12
+  evidence: མཇུག་ཏུ་ཞེས་བྱ་བ…ཟས་ཕྱི་མ…བཞག་ནས་ཞེས་བྱ་བ་ནི་བཞག་སྟེའོ (row 12) = ཟས་ཕྱི་མའི་བསོད་སྙོམས…བཞག་ནས of seg 9
+  from: chunk-1.corrections.yaml
+- segment: 13
+  row: 15
+  evidence: 'Row 14 closes གླེང་གཞི (…བཤད་ཟིན་ཏོ); row 5 defines གླེང་བསླང་བ as དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སྟན་ལས་ལངས་ཏེ, taken up in row 15: ད་ནི་གླེང་བསླང་བ…བརྗོད་པར་བྱའོ'
+  from: chunk-1.corrections.yaml
+- segment: 14
+  row: 15
+  evidence: Part of གླེང་བསླང་བ opened in row 15 (ད་ནི་གླེང་བསླང་བ…); row 14 explicitly ends གླེང་གཞི
+  from: chunk-1.corrections.yaml
+- segment: 15
+  row: 15
+  evidence: ཇི་སྙེད་པས་ཞེས་བྱ་བ་ནི…དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་ཞེས་བྱ་བ་སྨོས་སོ (row 15)
+  from: chunk-1.corrections.yaml
+- segment: 16
+  row: 19
+  evidence: སྒྲུབ་པའི་མཚན་ཉིད…ཇི་ལྟར་ཞེས་བྱ་བ་སྨོས་སོ། །འཕགས་པ་རབ་འབྱོར་གྱིས་རྣམ་པ་དྲུག་གི་ཕྱིར་ཞུས…གནས་པར་བྱ་བ་ནི་འདུན་པ་དང་སྨོན་ལམ (row 19)
+  from: chunk-1.corrections.yaml
+- segment: 17
+  row: 19
+  evidence: བསྒྲུབ་པར་བྱ་བ་ནི་རྣལ་འབྱོར་ལ་སྙོམས་པར་འཇུག་པས་སོ (row 19)
+  from: chunk-1.corrections.yaml
+- segment: 18
+  row: 20
+  evidence: སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ་ནི་རྣམ་པར་གཡེང་བ་ཚར་བཅད་ནས་སོ (row 20)
+  from: chunk-1.corrections.yaml
+- segment: 19
+  row: 20
+  evidence: གནས་སུ་ཞུས་པས། བཅོམ་ལྡན་འདས་ཀྱིས་འཕགས་པ་རབ་འབྱོར་ལ… (row 20) paraphrases དེ་སྐད་ཅེས་གསོལ་པ་དང
+  from: chunk-1.corrections.yaml
+- segment: 20
+  row: 20
+  evidence: བཅོམ་ལྡན་འདས་ཀྱིས་འཕགས་པ་རབ་འབྱོར་ལ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནོ (row 20)
+  from: chunk-1.corrections.yaml
+- segment: 21
+  row: 20
+  evidence: ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནོ (row 20)
+  from: chunk-1.corrections.yaml
+- segment: 22
+  row: 20
+  evidence: No separate gloss; falls between ལེགས་སོ and ཉོན་ལ, both glossed in row 20 (must follow seg 21)
+  from: chunk-1.corrections.yaml
+- segment: 23
+  row: 20
+  evidence: Repetition of ཕན་གདགས་པའི་དམ་པ; rows 16-18 gloss it for seg 15 (before the question). No separate gloss; ordering requires ≥ row 20, between ལེགས་སོ and ཉོན་ལ (row 20)
+  from: chunk-1.corrections.yaml
+- segment: 24
+  row: 20
+  evidence: Row 18 ཡོངས་སུ་གཏད་པའི་ཕྱིར belongs to the seg-15 exposition (before the question in row 19); no separate gloss; falls before ཉོན་ལ (row 20)
+  from: chunk-1.corrections.yaml
+- segment: 25
+  row: 20
+  evidence: ཉོན་ལ་ཞེས་བྱ་བ…ལེགས་པར་ཞེས་བྱ་བ…རབ་ཏུ་ཡིད་ལ་ཟུང་ཤིག་ཅེས་བྱ་བ (row 20)
+  from: chunk-1.corrections.yaml
+- segment: 26
+  row: 20
+  evidence: བཤད་དོ་ཞེས་བྱ་བ་ནི་དེ་དག་ན་བཤད་ཀྱིས (row 20) = ངས་ཁྱོད་ལ་བཤད་དོ; continued in row 21 (བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ…ཡང་དག་པར་ཞུགས་པ)
+  from: chunk-1.corrections.yaml
+- segment: 27
+  row: 21
+  evidence: 'ཉན་ཞེས་བྱ་བ་ནི་ཁས་བླངས་སོ (row 21): Subhūti''s assent དེ་དེ་བཞིན་ནོ་ཞེས་གསོལ'
+  from: chunk-1.corrections.yaml
+- segment: 28
+  row: 21
+  evidence: ཉན་ཞེས་བྱ་བ་ནི་ཁས་བླངས་སོ (row 21) glosses ལྟར་མཉན་པ
+  from: chunk-1.corrections.yaml
+- segment: 29
+  row: 23
+  evidence: 'Row 21 closes 3.3 (…བཤད་ཟིན་ཏོ), row 22 is a preview; row 23: སེམས་ཅན་ཇི་ཙམ་ཞེས་བྱ་བ་གསུངས་སོ…སེམས་ཅན་དུ་བསྡུ་བར…སྒོ་ང་ལས་སྐྱེས་པ'
+  from: chunk-1.corrections.yaml
+- segment: 31
+  row: 27
+  evidence: དེ་ཅིའི་སླད་དུ་ཞེས་བྱ་བ་སྨོས་སོ། །གལ་ཏེ་ཞེས་བྱ་བ… (row 27) takes up seg 31; row 28 (ཡང་ཅིའི་སླད་དུ་ཞེས་ཞུས་པ) is seg 32
+  from: chunk-1.corrections.yaml
+- segment: 35
+  row: 49
+  evidence: གཟུགས་ལ་མི་གནས་པར་ཞེས་བྱ་བ་ལ་སོགས་པས་ནི
+  from: chunk-2.corrections.yaml
+- segment: 39
+  row: 52
+  evidence: རྣམ་པ་གསུམ་གྱིས་ན་བསོད་ནམས་ནམ་མཁའ་དང་མཚུངས་པ་ཡིན་ཏེ། (space simile first explained)
+  from: chunk-2.corrections.yaml
+- segment: 40
+  row: 52
+  evidence: བསོད་ནམས་ནམ་མཁའ་དང་མཚུངས་པ (space simile dialogue)
+  from: chunk-2.corrections.yaml
+- segment: 41
+  row: 52
+  evidence: ཐམས་ཅད་དུ་སོང་བ་དང་། རྒྱ་ཆེ་བ་དང་། མི་ཟད་པས་སོ (ten-direction space)
+  from: chunk-2.corrections.yaml
+- segment: 42
+  row: 52
+  evidence: space simile dialogue explained in row 52
+  from: chunk-2.corrections.yaml
+- segment: 43
+  row: 52
+  evidence: བསོད་ནམས་ནམ་མཁའ་དང་མཚུངས་པ (conclusion of simile)
+  from: chunk-2.corrections.yaml
+- segment: 45
+  row: 54
+  evidence: དེ་ལ་བརྟགས་ནས་རབ་འབྱོར་གྱིས། དེ་ནི་མ་ལགས་ཏེ་ཞེས་གསལ་ཏོ
+  from: chunk-2.corrections.yaml
+- segment: 46
+  row: 54
+  evidence: རབ་འབྱོར་གྱིས། དེ་ནི་མ་ལགས་ཏེ་ཞེས་གསལ་ཏོ (continuation of Subhūti's reply)
+  from: chunk-2.corrections.yaml
+- segment: 54
+  row: 59
+  evidence: རབ་འབྱོར་གྱི་དོགས་པ་དེ་བསལ་བའི་ཕྱིར (row-58 quote བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ is a spurious match)
+  from: chunk-2.corrections.yaml
+- segment: 55
+  row: 59
+  evidence: འབྱུང་སྟེ་ཞེས་གསུངས་སོ། །སེམས་དཔའ་ཆེན་པོ་ཞེས་བྱ་བ་ནི
+  from: chunk-2.corrections.yaml
+- segment: 82
+  row: 78
+  evidence: རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས་ཞེས་བྱ་བ་གསུངས་སོ
+  from: chunk-2.corrections.yaml
+- segment: 83
+  row: 78
+  evidence: དེ་ལ་རིན་པོ་ཆེ་སྣ་བདུན་ནི་གསེར་དང་། ... སྟོང་ལ་སྟོང་གི་འཇིག་རྟེན་གྱི་ཁམས་སོ
+  from: chunk-2.corrections.yaml
+- segment: 95
+  row: 89
+  evidence: རྒྱུན་ཏོ། །ཞུགས་ནི་ཐོབ་པ་སྟེ ... བདག་གི་ཞེས་བྱ་བ་ནི ... འབྲས་བུ་ཞེས་བྱ་བ་ནི ... ཐོབ་ཅེས་བྱ་བ་ནི
+  from: chunk-2.corrections.yaml
+- segment: 98
+  row: 91
+  evidence: བཅོམ་ལྡན་འདས་དེ་ནི་ཅི་ལ་ཡང་ཞུགས་པ་མ་མཆིས་ཞེས་གསོལ་ཏོ (first 'therefore stream-enterer' sits between 97 and 99, both in row 91)
+  from: chunk-2.corrections.yaml
+- segment: 99
+  row: 91
+  evidence: གཟུགས་ལ་ཡང་མ་ཞུགས་ཞེས་བྱ་བ་ལ་སོགས་པ་གསོལ་ཏོ
+  from: chunk-2.corrections.yaml
+- segment: 100
+  row: 93
+  evidence: དེའི་ཕྱིར་ཡང་དག་པའི་ལམ་ལ་གནས་པས་དེས་ན་རྒྱུན་དུ་ཞུགས་པ་ཞེས་བྱའོ
+  from: chunk-2.corrections.yaml
+- segment: 103
+  row: 95
+  evidence: ལན་ཅིག་ཕྱིར་འོང་བ་ཞེས་བྱ་བ་ལ་སོགས་པ་བཀའ་སྩལ་ཏོ
+  from: chunk-2.corrections.yaml
+- segment: 121
+  row: 97
+  evidence: བདག་ཅེས་བྱ་བ་ལ་སོགས་པ་གསོལ་ཏོ། །ཉོན་མོངས་པ་མེད་པ་ཞེས་བྱ་བ་ནི
+  from: chunk-2.corrections.yaml
+- segment: 122
+  row: 97
+  evidence: ཡོན་ཏན་ཐུན་མོང་བ་དགྲ་བཅོམ་པའི་སྒོ་ནས་བདག་ཉིད་རྗོད་པར་བྱེད་ཅིང་
+  from: chunk-2.corrections.yaml
+- segment: 123
+  row: 97
+  evidence: དེའི་ཚེ་བདག་ཏུ་ལྟ་བ་མ་སྤངས་པའི་ཕྱིར་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཡང་རྙེད་པར་དཀའ་ན
+  from: chunk-2.corrections.yaml
+- segment: 124
+  row: 97
+  evidence: བདག་ལ་ལུང་མི་བསྟན་ལགས་སོ་ཞེས་བྱ་བ་ནི ... ཅི་ལ་ཡང་མི་གནས་པ་ཞེས་བྱ་བ་གསོལ་ཏོ
+  from: chunk-2.corrections.yaml
+- segment: 125
+  row: 100
+  evidence: མར་མེ་མཛད་ལས་གང་བླངས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ་ཞེས་བྱ་བ་གསུངས་སོ
+  from: chunk-2.corrections.yaml
+- segment: 132
+  row: null
+  evidence: 'Explained in row 102 (outside this chunk): མཇུག་བསྡུ་བའི་ཐབས་ཀྱིས་དྲན་པར་བྱ་བའི་ཕྱིར། དེ་ལྟ་བས་ན་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ; row 103 only treats 131'
+  from: chunk-3.corrections.yaml
+- segment: 133
+  row: null
+  evidence: 'Row 102: འདི་ལྟར་ཞེས་བྱ་བ་ནི...དེ་ལ་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ་ཞེས་བྱ་བའི་ཐ་ཚིག་གོ; not discussed in rows 103-168'
+  from: chunk-3.corrections.yaml
+- segment: 134
+  row: null
+  evidence: 'Row 102: ལྷག་མ་ནི་སྔ་མ་བཞིན་ནོ; not discussed in rows 103-168'
+  from: chunk-3.corrections.yaml
+- segment: 135
+  row: null
+  evidence: 'Row 102: ལྷག་མ་ནི་སྔ་མ་བཞིན་ནོ; not discussed in rows 103-168'
+  from: chunk-3.corrections.yaml
+- segment: 141
+  row: 104
+  evidence: 'Row 104: རྒྱལ་དཔོག་པ་ལ་སོགས་པ...དགག་པའི་ཕྱིར། དེ་དངོས་པོ་མ་མཆིས་པས་ཞེས་བྱ་བ་སྨོས་སོ...དེའི་ཕྱིར་ལུས་ཞེས་བྱའོ (row 106 is only the second-pass abode gloss)'
+  from: chunk-3.corrections.yaml
+- segment: 154
+  row: 110
+  evidence: 'Row 110: འདོན་ཞེས་བྱ་བ་ནི་བདག་ཉིད་ཡི་གེ་ཁ་ཏོན་དུ་བྱེད་པའོ། །སྟོན་ཞེས་བྱ་བ་ནི...མཆོད་རྟེན་དུ་གྱུར་ཞེས་བྱ་བ་ནི་ཕྱག་བྱ་བར་འོས་པའོ'
+  from: chunk-3.corrections.yaml
+- segment: 155
+  row: 111
+  evidence: 'Row 111: སྟོན་པ་གནས་ཞེས་བྱ་བ་ནི་ཆོས་སྨྲ་བ་སྟེ...བླ་མ་ལྟ་བུ་གང་ཡང་རུང་བ་ཞེས་བྱ་བ་ནི་འཕགས་པ་འཇམ་པའི་དབྱངས་ལ་སོགས་པ'
+  from: chunk-3.corrections.yaml
+- segment: 168
+  row: 118
+  evidence: 'Row 118: དེ་ལ་སྣའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་ཞེས་བྱ་བ་འདིས་ནི་གཅིག་པུའི་རང་བཞིན་དང་བྲལ་བར་ཁོང་དུ་ཆུད་ན་བསྲབ་པར་བྱ་བའི་ཐབས'
+  from: chunk-3.corrections.yaml
+- segment: 175
+  row: 125
+  evidence: 'Row 125: གནས་བཅུ་གཅིག་པའི་དབང་དུ་མཛད་ནས། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ (row 124 is only the preface)'
+  from: chunk-3.corrections.yaml
+- segment: 176
+  row: 125
+  evidence: 'Row 125: མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་མི་ལྟའི'
+  from: chunk-3.corrections.yaml
+- segment: 177
+  row: 125
+  evidence: 'Row 125: follows 175-176, answer explained together (མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་མི་ལྟའི)'
+  from: chunk-3.corrections.yaml
+- segment: 178
+  row: 125
+  evidence: 'Row 125: མཚན་མ་མཆིས་པར་ཞེས་བྱ་བ་ནི་དོན་དམ་པ་རྣམ་པར་འཇོག་པའོ'
+  from: chunk-3.corrections.yaml
+- segment: 179
+  row: 125
+  evidence: 'Row 125: དེས་ན་ཞེས་བྱ་བ་ལ་སོགས་པས་ནི་གཡེང་བ་ཚར་གཅོད་པ་བསྟན་ཏོ'
+  from: chunk-3.corrections.yaml
+- segment: 192
+  row: 134
+  evidence: 'Row 134: དེ་ཅིའི་སླད་དུ་ཞེ་ན་ཞེས་གསོལ་ནས། ལན་དུ་བདག་ཏུ་འདུ་ཤེས་པ་ཞེས་བྱ་བ་གསོལ་ཏོ'
+  from: chunk-3.corrections.yaml
+- segment: 193
+  row: 135
+  evidence: 'Row 135: ལན་དུ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ་ཞེས་བྱ་བ་གསོལ་ཏོ'
+  from: chunk-3.corrections.yaml
+- segment: 209
+  row: 146
+  evidence: 'Row 146: བརྒྱ་ལམ་ན་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་མི་བསྐྱེད་པས་གཟུགས་ལ་མི་གནས་པར་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ'
+  from: chunk-3.corrections.yaml
+- segment: 210
+  row: 146
+  evidence: 'Row 146: གཟུགས་ལ་མི་གནས་པར་ཞེས་བྱ་བ་ལ་སོགས་པ...གཟུགས་ལ་སོགས་པ་ལ་ཡོང་པར་མངོན་པར་ཞེན་པ་ནི་དེ་ལ་གནས་པ'
+  from: chunk-3.corrections.yaml
+- segment: 211
+  row: 146
+  evidence: 'Row 146: གཟུགས་ལ་སོགས་པ་ལ་ཡོང་པར་མངོན་པར་ཞེན་པ་ནི་དེ་ལ་གནས་པ་སྟེ། འདིར་ཡང་སྔ་མ་བཞིན་དུ་བཤད་དོ'
+  from: chunk-3.corrections.yaml
+- segment: 219
+  row: 149
+  evidence: 'Row 149: ཡང་དག་པར་གསུངས་པ་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ...བདེན་པ་གསུང་པ་ཞེས་བྱ་བ་གསུངས་སོ...དེ་བཞིན་ཉིད་གསུང་པ་ཞེས་བྱ་བ་གསུངས་སོ'
+  from: chunk-3.corrections.yaml
+- segment: 220
+  row: 150
+  evidence: 'Row 150: ལོག་པར་གསུང་བ་མ་ཡིན་ནོ་ཞེས་བྱ་བ་གསུངས་པའོ'
+  from: chunk-3.corrections.yaml
+- segment: 221
+  row: 150
+  evidence: 'Row 150: ཡང་རབ་འབྱོར་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ། །བདེན་པ་ཡང་མེད་ཅེས་བྱ་བ་ནི...བརྫུན་པ་ཡང་མེད་ཅེས་བྱ་བ'
+  from: chunk-3.corrections.yaml
+- segment: 224
+  row: 153
+  evidence: 'Row 153: དེ་བཞིན་གཤེགས་པས་དགོངས་པ་ནི་དེ་དག་དེ་བཞིན་གཤེགས་པས་མཁྱེན་ཞེས་བྱ་བ་ལ་སོགས་པ...ལེན་ཞེས་བྱ་བ་ལ་སོགས་པའི་ཚིག་རྣམས'
+  from: chunk-3.corrections.yaml
+- segment: 248
+  row: 167
+  evidence: 'Row 167: ཐུགས་བྱུང་བར་མ་བྱས་ཞེས་བྱ་བ་ནི...གང་ཡིན་པ་ཞེས་བྱ་བ་ནི་བྱེད་པའི་བྱེ་བྲག་གོ (first gloss; comparison continues in row 168)'
+  from: chunk-3.corrections.yaml
+- segment: 253
+  row: 172
+  evidence: འཕགས་པ་རབ་འབྱོར་གྱིས་བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་ཇི་ལྟར་གནས་པར་བྱ་བ་ལ་སོགས་པ་གསོལ་ཏོ
+  from: chunk-4.corrections.yaml
+- segment: 260
+  row: 173
+  evidence: ལྷག་མ་རྣམས་ཀྱི་བཤད་པ་ནི་སྔ་མ་བཞིན་ནོ (row 173 covers the repeated passage before its lemma)
+  from: chunk-4.corrections.yaml
+- segment: 261
+  row: 173
+  evidence: ལྷག་མ་རྣམས་ཀྱི་བཤད་པ་ནི་སྔ་མ་བཞིན་ནོ
+  from: chunk-4.corrections.yaml
+- segment: 262
+  row: 173
+  evidence: རབ་འབྱོར་གང་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་ཞེས་བྱ་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ་ཞེས་བྱ་བ་འདིར་ལྷག་པ
+  from: chunk-4.corrections.yaml
+- segment: 270
+  row: 175
+  evidence: ཇི་ལྟར་བཅོམ་ལྡན་འདས་མངོན་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ལུང་བསྟན་སྙམ་པ་ལ། རབ་འབྱོར་གལ་ཏེ་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ
+  from: chunk-4.corrections.yaml
+- segment: 271
+  row: 175
+  evidence: དེའི་ཚེ་ངས་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་མེད་ལ
+  from: chunk-4.corrections.yaml
+- segment: 272
+  row: 175
+  evidence: ཡང་དག་པའི་ཡེ་ཤེས་ཀྱི་ལམ་ལ་གནས་པར་ལུང་བསྟན་ཏོ
+  from: chunk-4.corrections.yaml
+- segment: 286
+  row: 183
+  evidence: དེ་ཅིའི་སླད་དུ་ཞེས་བྱ་བ་ནི་འདིར་ཤེས་པར་བྱེད་པའི་གཏན་ཚིགས་ཡོངས་སུ་འདྲི་བའོ། །ཆོས་ཞེས་བྱ་བ་ནི
+  from: chunk-4.corrections.yaml
+- segment: 287
+  row: 183
+  evidence: འཕགས་པ་རབ་འབྱོར་གྱིས་ཀྱང་...དེ་ནི་མ་མཆིས་ལགས་སོ་ཞེས་བྱ་བ་གསོལ་ཏེ
+  from: chunk-4.corrections.yaml
+- segment: 288
+  row: 183
+  evidence: དེ་བས་ན་ཞེས་བྱ་བ་གསུངས་སོ། །སེམས་ཅན་མེད་ཅེས་བྱ་བ་ལ་སོགས་པ་ནི་མཚོན་པ་སྟེ
+  from: chunk-4.corrections.yaml
+- segment: 298
+  row: 189
+  evidence: གང་ཟག་དང་ཆོས་ལ་བདག་མེད་པའི་ཡུལ་ལ་ནི་ཤེས་རབ་ཀྱི་སྤྱན་མངའོ (wisdom-eye exchange explained in row 189)
+  from: chunk-4.corrections.yaml
+- segment: 299
+  row: 189
+  evidence: གང་ཟག་དང་ཆོས་ལ་བདག་མེད་པའི་ཡུལ་ལ་ནི་ཤེས་རབ་ཀྱི་སྤྱན་མངའོ
+  from: chunk-4.corrections.yaml
+- segment: 300
+  row: 189
+  evidence: གང་ཟག་དང་ཆོས་ལ་བདག་མེད་པའི་ཡུལ་ལ་ནི་ཤེས་རབ་ཀྱི་སྤྱན་མངའོ
+  from: chunk-4.corrections.yaml
+- segment: 325
+  row: 196
+  evidence: རིན་པོ་ཆེ་ལ་སོགས་པ་གཏོང་བར་བྱེད་པ་དེ་ཡང་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆེན་པོ་དང་ལྡན་པར་འགྱུར་ན
+  from: chunk-4.corrections.yaml
+- segment: 330
+  row: 201
+  evidence: དེ་བས་ན་དོན་དམ་པར་གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ་ཞེས་བྱའོ
+  from: chunk-4.corrections.yaml
+- segment: 331
+  row: 202
+  evidence: དེ་ཅིའི་སླད་དུ་ཞེས་དྲིས་ཏེ། ...འདི་ནི་གྲུབ་པ་མེད་དེ
+  from: chunk-4.corrections.yaml
+- segment: 332
+  row: 202
+  evidence: དེས་ན་ཞེས་བྱ་བ་ནི་འདི་ལྟར་ཀུན་རྫོབ་ཏུ་ཡོད་དོ
+  from: chunk-4.corrections.yaml
+- segment: 333
+  row: 202
+  evidence: མཚན་གྱི་སྐུ་ཕུན་སུམ་ཚོགས་པའི་དབང་དུ་མཛད་ནས། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་ཏེ
+  from: chunk-4.corrections.yaml
+- segment: 334
+  row: 202
+  evidence: མཚན་གྱི་སྐུ་ཕུན་སུམ་ཚོགས་པའི་དབང་དུ་མཛད་ནས...འདིར་བཤད་པ་ཐམས་ཅད་ནི་སྔ་མ་དང་འདྲའོ
+  from: chunk-4.corrections.yaml
+- segment: 335
+  row: 202
+  evidence: འདིར་བཤད་པ་ཐམས་ཅད་ནི་སྔ་མ་དང་འདྲའོ
+  from: chunk-4.corrections.yaml
+- segment: 336
+  row: 202
+  evidence: འདིར་བཤད་པ་ཐམས་ཅད་ནི་སྔ་མ་དང་འདྲའོ
+  from: chunk-4.corrections.yaml
+- segment: 337
+  row: 202
+  evidence: འདིར་བཤད་པ་ཐམས་ཅད་ནི་སྔ་མ་དང་འདྲའོ
+  from: chunk-4.corrections.yaml
+- segment: 338
+  row: 202
+  evidence: འདིར་བཤད་པ་ཐམས་ཅད་ནི་སྔ་མ་དང་འདྲའོ
+  from: chunk-4.corrections.yaml
+- segment: 344
+  row: 209
+  evidence: འཕགས་པ་རབ་འབྱོར་གྱིས་ཐུགས་ཕུན་སུམ་ཚོགས་པ་ལས་དྲན་པ་ཉེ་བར་གཞག་པའི་དབང་དུ་བྱས་ནས། བཅོམ་ལྡན་འདས་ཞེས་བྱ་བ་ལ་སོགས་པ་གསོལ་ཏོ
+  from: chunk-4.corrections.yaml
+- segment: 345
+  row: 209
+  evidence: ཆོས་ཟབ་མོ་འདི་ལྟ་བུ་མ་འོངས་པའི་དུས་ན...བཅོམ་ལྡན་འདས་ཞེས་བྱ་བ་ལ་སོགས་པ་གསོལ་ཏོ
+  from: chunk-4.corrections.yaml
+- segment: 369
+  row: 227
+  evidence: དོན་དམ་པར་ནི་སྐྱེ་བོ་མེད་པ་ཉིད་དེ་ཀུན་རྫོབ་ལ་བརྟན་ནས་གསུངས་པས་ཉེས་པ་མེད་དོ
+  from: chunk-4.corrections.yaml
+- segment: 381
+  row: 231
+  evidence: གཟུགས་སུ་མཐོང་ཞེས་བྱ་བ་འདིས་ནི... སྒྲར་ཤེས་པ་ཞེས་བྱ་བ་ནི
+  from: chunk-4.corrections.yaml
+- segment: 382
+  row: 231
+  evidence: ལམ་ལོག་པར་ཞུགས་པས་ང་ཡང་དག་པར་མི་མཐོང་ངོ
+  from: chunk-4.corrections.yaml
+- segment: 383
+  row: 231
+  evidence: འོ་ན་སངས་རྒྱས་ཇི་ལྟར་བལྟ་བར་བྱ་སྙམ་པ་ལ་ཆོས་ཉིད་ལྟ་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ
+  from: chunk-4.corrections.yaml
+- segment: 384
+  row: 232
+  evidence: ཅིའི་ཕྱིར་དེ་ཆོས་ཉིད་དུ་བལྟ་བར་བྱ་སྙམ་པ་ལ་ཆོས་ཀྱི་སྐུ་ཞེས་བྱ་བ་གསུངས་སོ ... མི་ནུས་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ
+  from: chunk-4.corrections.yaml
+- segment: 385
+  row: 233
+  evidence: གང་གི་དོགས་པ་དེ་སྤང་བའི་ཕྱིར་རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་སོ
+  from: chunk-4.corrections.yaml
+- segment: 386
+  row: 233
+  evidence: མཚན་མཁན་རྣམས་ཀྱིས་མཚན་ཕུན་སུམ་ཚོགས་པར་མཐོང་ནས་...ལུང་བསྟན་ཏོ་སྙམ་དུ་གང་གི་དོགས་པ་དེ་སྤང་བའི་ཕྱིར་རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས་ཞེས་བྱ་བ
+  from: chunk-4.corrections.yaml
+- segment: 396
+  row: 244
+  evidence: ཇི་ལྟར་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་གཤེགས་པས་རབ་ཏུ་ཕྱེ་བ་ལྟར་བསྟན་སྙམ་དུ་སེམས་པའི་བསམ་པ་ལ་བརྟགས་ནས་དེ་ཅིའི་ཕྱིར་ཞེ་ན་ཞེས་གསུངས་ཏེ
+  from: chunk-5.corrections.yaml
+- segment: 406
+  row: 251
+  evidence: ད་ནི་ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ་བསྟན་པའི་ཕྱིར་དེ་ཅིའི་སླད་དུ་ཞེ་ན་ཞེས་དྲིས་ཏེ
+  from: chunk-5.corrections.yaml
+- segment: 419
+  row: 258
+  evidence: དེ་འདུ་ཤེས་མེད་པར་དེ་བཞིན་གཤེགས་པ་གསུངས་ཞེས་བྱ་བ་ནི་འདིར་གཏན་ཚིགས་སུ་གསུངས་སོ
+  from: chunk-5.corrections.yaml
+- segment: 420
+  row: 258
+  evidence: དོན་དམ་པར་དེ་འདུ་ཤེས་མེད་པའོ། །དེ་བཞིན་གཤེགས་པས་ཀུན་རྫོབ་ལ་བརྟེན་ནས་ཕྱོགས་གཞན་དུ་གསུངས་སོ
+  from: chunk-5.corrections.yaml
+- segment: 424
+  row: 261
+  evidence: ཚིགས་སུ་བཅད་པ་འདིས་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་རྣམ་པ་བཞི་ཡོངས་སུ་བསྟན་ཏེ ... སྐར་མ་ལྟར་བལྟ་བར་བྱ་སྟེ
+  from: chunk-5.corrections.yaml
+- segment: 425
+  row: null
+  evidence: closing assembly's rejoicing is not commented; rows 261-264 cover only the verse and the commentary's own colophon
+  from: chunk-5.corrections.yaml
+- segment: 426
+  row: null
+  evidence: praise of the Blessed One's words is not commented anywhere in rows 260-264
+  from: chunk-5.corrections.yaml
+- segment: 427
+  row: null
+  evidence: row 261 match ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལུས་མཐའ་དག is not the sūtra title; row 264 colophon names only the commentary (དབུ་མའི་ཚུལ་དུ་རྒྱ་ཆེར་འགྲེལ་པ)
+  from: chunk-5.corrections.yaml
+- segment: 398
+  row: 247
+  evidence: row 247 opens with the lemma འདི་ལྟ་སྟེ་དཔེར་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་བཞིན་དུ་ཕྱེ་མར་བྱས་ན་ཞེས་བྱ་བ་; row 246 only closes the comment on 397 and introduces the topic
+  from: chunk-z-final.corrections.yaml
+- segment: 399
+  row: 247
+  evidence: 'with 398 (row 247: འདིར་ཡང་བཤད་པ་ནི་སྔ་མ་བཞིན་ནོ)'
+  from: chunk-z-final.corrections.yaml
+- segment: 400
+  row: 247
+  evidence: 'with 398 (row 247: འདིར་ཡང་བཤད་པ་ནི་སྔ་མ་བཞིན་ནོ)'
+  from: chunk-z-final.corrections.yaml

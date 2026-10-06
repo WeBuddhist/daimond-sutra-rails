@@ -1,0 +1,70 @@
+corrections:
+- segment: 5
+  row: 6
+  evidence: "Row 5 is the བསྡུས་དོན་ preview; detailed gloss in row 6 (3.1): འདི་སྐད་ཅེས་བྱ་བའི་སྒྲ…བདག་གིས་ཞེས་བྱ་བ…ཐོས་པ་ཞེས་བྱ་བ…དུས་གཅིག་ཅེས་བྱ་བ"
+- segment: 6
+  row: 6
+  evidence: "Seg 6 first taken up at end of row 6: བཅོམ་ལྡན་འདས་ཞེས་བྱ་བ་ནི་…བདུད་བཞི་བཅོམ་པ; continues row 7 (མཉན་ཡོད་ཅེས་བྱ་བ, རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ)"
+- segment: 7
+  row: 10
+  evidence: "དེ་ནས་ཞེས་བྱ་བ་ནི་དེའི་འོག་ཏུའོ། །ཚེ་ཞེས་བྱ་བ…སྔ་དྲོ…ཤམ་ཐབས་ཞེས་བྱ་བ (row 10) gloss seg 7"
+- segment: 8
+  row: 11
+  evidence: "ཅིའི་ཕྱིར་བཅོམ་ལྡན་འདས་བསོད་སྙོམས་ཀྱི་ཕྱིར་ཞུགས…ཟས་ཀྱི་བྱ་བ་བྱས་ཞེས་བྱ་བ (row 11) = seg 8 ཟས་ཀྱི་བྱ་བ་མཛད"
+- segment: 9
+  row: 12
+  evidence: "མཇུག་ཏུ་ཞེས་བྱ་བ…ཟས་ཕྱི་མ…བཞག་ནས་ཞེས་བྱ་བ་ནི་བཞག་སྟེའོ (row 12) = ཟས་ཕྱི་མའི་བསོད་སྙོམས…བཞག་ནས of seg 9"
+- segment: 13
+  row: 15
+  evidence: "Row 14 closes གླེང་གཞི (…བཤད་ཟིན་ཏོ); row 5 defines གླེང་བསླང་བ as དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སྟན་ལས་ལངས་ཏེ, taken up in row 15: ད་ནི་གླེང་བསླང་བ…བརྗོད་པར་བྱའོ"
+- segment: 14
+  row: 15
+  evidence: "Part of གླེང་བསླང་བ opened in row 15 (ད་ནི་གླེང་བསླང་བ…); row 14 explicitly ends གླེང་གཞི"
+- segment: 15
+  row: 15
+  evidence: "ཇི་སྙེད་པས་ཞེས་བྱ་བ་ནི…དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་ཞེས་བྱ་བ་སྨོས་སོ (row 15)"
+- segment: 16
+  row: 19
+  evidence: "སྒྲུབ་པའི་མཚན་ཉིད…ཇི་ལྟར་ཞེས་བྱ་བ་སྨོས་སོ། །འཕགས་པ་རབ་འབྱོར་གྱིས་རྣམ་པ་དྲུག་གི་ཕྱིར་ཞུས…གནས་པར་བྱ་བ་ནི་འདུན་པ་དང་སྨོན་ལམ (row 19)"
+- segment: 17
+  row: 19
+  evidence: "བསྒྲུབ་པར་བྱ་བ་ནི་རྣལ་འབྱོར་ལ་སྙོམས་པར་འཇུག་པས་སོ (row 19)"
+- segment: 18
+  row: 20
+  evidence: "སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ་ནི་རྣམ་པར་གཡེང་བ་ཚར་བཅད་ནས་སོ (row 20)"
+- segment: 19
+  row: 20
+  evidence: "གནས་སུ་ཞུས་པས། བཅོམ་ལྡན་འདས་ཀྱིས་འཕགས་པ་རབ་འབྱོར་ལ… (row 20) paraphrases དེ་སྐད་ཅེས་གསོལ་པ་དང"
+- segment: 20
+  row: 20
+  evidence: "བཅོམ་ལྡན་འདས་ཀྱིས་འཕགས་པ་རབ་འབྱོར་ལ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནོ (row 20)"
+- segment: 21
+  row: 20
+  evidence: "ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནོ (row 20)"
+- segment: 22
+  row: 20
+  evidence: "No separate gloss; falls between ལེགས་སོ and ཉོན་ལ, both glossed in row 20 (must follow seg 21)"
+- segment: 23
+  row: 20
+  evidence: "Repetition of ཕན་གདགས་པའི་དམ་པ; rows 16-18 gloss it for seg 15 (before the question). No separate gloss; ordering requires ≥ row 20, between ལེགས་སོ and ཉོན་ལ (row 20)"
+- segment: 24
+  row: 20
+  evidence: "Row 18 ཡོངས་སུ་གཏད་པའི་ཕྱིར belongs to the seg-15 exposition (before the question in row 19); no separate gloss; falls before ཉོན་ལ (row 20)"
+- segment: 25
+  row: 20
+  evidence: "ཉོན་ལ་ཞེས་བྱ་བ…ལེགས་པར་ཞེས་བྱ་བ…རབ་ཏུ་ཡིད་ལ་ཟུང་ཤིག་ཅེས་བྱ་བ (row 20)"
+- segment: 26
+  row: 20
+  evidence: "བཤད་དོ་ཞེས་བྱ་བ་ནི་དེ་དག་ན་བཤད་ཀྱིས (row 20) = ངས་ཁྱོད་ལ་བཤད་དོ; continued in row 21 (བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ…ཡང་དག་པར་ཞུགས་པ)"
+- segment: 27
+  row: 21
+  evidence: "ཉན་ཞེས་བྱ་བ་ནི་ཁས་བླངས་སོ (row 21): Subhūti's assent དེ་དེ་བཞིན་ནོ་ཞེས་གསོལ"
+- segment: 28
+  row: 21
+  evidence: "ཉན་ཞེས་བྱ་བ་ནི་ཁས་བླངས་སོ (row 21) glosses ལྟར་མཉན་པ"
+- segment: 29
+  row: 23
+  evidence: "Row 21 closes 3.3 (…བཤད་ཟིན་ཏོ), row 22 is a preview; row 23: སེམས་ཅན་ཇི་ཙམ་ཞེས་བྱ་བ་གསུངས་སོ…སེམས་ཅན་དུ་བསྡུ་བར…སྒོ་ང་ལས་སྐྱེས་པ"
+- segment: 31
+  row: 27
+  evidence: "དེ་ཅིའི་སླད་དུ་ཞེས་བྱ་བ་སྨོས་སོ། །གལ་ཏེ་ཞེས་བྱ་བ… (row 27) takes up seg 31; row 28 (ཡང་ཅིའི་སླད་དུ་ཞེས་ཞུས་པ) is seg 32"

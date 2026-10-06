@@ -1,0 +1,613 @@
+# pair_corrections for bo-display (row = row of dorjeechoepa-root-bo(sa-bo).md). Evidence: sa-bo.md (full read, 2026-10-04).
+pair_corrections:
+- row: 230
+  target_side_rows: []
+  reason: Tibetan-only sentence (འདིའི་རྣམ་པར་སྨིན་པ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་…, which the Tibetan also has at row 253 = Sanskrit 252); the Sanskrit here has no counterpart. In the doc it sits opposite Sanskrit
+    230, which shifts every following pair by one row down to row 327.
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 231
+  target_side_rows:
+  - 230
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 231 renders Sanskrit row 230.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 232
+  target_side_rows:
+  - 231
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 232 renders Sanskrit row 231.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 233
+  target_side_rows:
+  - 232
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 233 renders Sanskrit row 232.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 234
+  target_side_rows:
+  - 233
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 234 renders Sanskrit row 233.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 235
+  target_side_rows:
+  - 234
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 235 renders Sanskrit row 234.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 236
+  target_side_rows:
+  - 235
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 236 renders Sanskrit row 235.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 237
+  target_side_rows:
+  - 236
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 237 renders Sanskrit row 236.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 238
+  target_side_rows:
+  - 237
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 238 renders Sanskrit row 237.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 239
+  target_side_rows:
+  - 238
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 239 renders Sanskrit row 238.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 240
+  target_side_rows:
+  - 239
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 240 renders Sanskrit row 239.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 241
+  target_side_rows:
+  - 240
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 241 renders Sanskrit row 240.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 242
+  target_side_rows:
+  - 241
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 242 renders Sanskrit row 241.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 243
+  target_side_rows:
+  - 242
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 243 renders Sanskrit row 242.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 244
+  target_side_rows:
+  - 243
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 244 renders Sanskrit row 243.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 245
+  target_side_rows:
+  - 244
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 245 renders Sanskrit row 244.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 246
+  target_side_rows:
+  - 245
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 246 renders Sanskrit row 245.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 247
+  target_side_rows:
+  - 246
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 247 renders Sanskrit row 246.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 248
+  target_side_rows:
+  - 247
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 248 renders Sanskrit row 247.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 249
+  target_side_rows:
+  - 248
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 249 renders Sanskrit row 248.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 250
+  target_side_rows:
+  - 249
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 250 renders Sanskrit row 249.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 251
+  target_side_rows:
+  - 250
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 251 renders Sanskrit row 250.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 252
+  target_side_rows:
+  - 251
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 252 renders Sanskrit row 251.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 253
+  target_side_rows:
+  - 252
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 253 renders Sanskrit row 252.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 254
+  target_side_rows:
+  - 253
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 254 renders Sanskrit row 253.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 255
+  target_side_rows:
+  - 254
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 255 renders Sanskrit row 254.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 256
+  target_side_rows:
+  - 255
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 256 renders Sanskrit row 255.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 257
+  target_side_rows:
+  - 256
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 257 renders Sanskrit row 256.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 258
+  target_side_rows:
+  - 257
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 258 renders Sanskrit row 257.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 259
+  target_side_rows:
+  - 258
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 259 renders Sanskrit row 258.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 260
+  target_side_rows:
+  - 259
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 260 renders Sanskrit row 259.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 261
+  target_side_rows:
+  - 260
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 261 renders Sanskrit row 260.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 262
+  target_side_rows:
+  - 261
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 262 renders Sanskrit row 261.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 263
+  target_side_rows:
+  - 262
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 263 renders Sanskrit row 262.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 264
+  target_side_rows:
+  - 263
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 264 renders Sanskrit row 263.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 265
+  target_side_rows:
+  - 264
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 265 renders Sanskrit row 264.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 266
+  target_side_rows:
+  - 265
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 266 renders Sanskrit row 265.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 267
+  target_side_rows:
+  - 266
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 267 renders Sanskrit row 266.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 268
+  target_side_rows:
+  - 267
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 268 renders Sanskrit row 267.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 269
+  target_side_rows:
+  - 268
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 269 renders Sanskrit row 268.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 270
+  target_side_rows:
+  - 269
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 270 renders Sanskrit row 269.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 271
+  target_side_rows:
+  - 270
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 271 renders Sanskrit row 270.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 272
+  target_side_rows:
+  - 271
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 272 renders Sanskrit row 271.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 273
+  target_side_rows:
+  - 272
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 273 renders Sanskrit row 272.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 274
+  target_side_rows:
+  - 273
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 274 renders Sanskrit row 273.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 275
+  target_side_rows:
+  - 274
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 275 renders Sanskrit row 274.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 276
+  target_side_rows: []
+  reason: 'One-row drift from row 230 to 327: Tibetan row 276 would pair with Sanskrit row 275, which is empty; no Sanskrit counterpart found (left unpaired).'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 277
+  target_side_rows:
+  - 276
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 277 renders Sanskrit row 276.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 278
+  target_side_rows:
+  - 277
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 278 renders Sanskrit row 277.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 279
+  target_side_rows:
+  - 278
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 279 renders Sanskrit row 278.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 280
+  target_side_rows:
+  - 279
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 280 renders Sanskrit row 279.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 281
+  target_side_rows:
+  - 280
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 281 renders Sanskrit row 280.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 282
+  target_side_rows:
+  - 281
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 282 renders Sanskrit row 281.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 283
+  target_side_rows:
+  - 282
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 283 renders Sanskrit row 282.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 284
+  target_side_rows:
+  - 283
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 284 renders Sanskrit row 283.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 285
+  target_side_rows:
+  - 284
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 285 renders Sanskrit row 284.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 286
+  target_side_rows:
+  - 285
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 286 renders Sanskrit row 285.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 287
+  target_side_rows:
+  - 286
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 287 renders Sanskrit row 286.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 288
+  target_side_rows:
+  - 287
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 288 renders Sanskrit row 287.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 289
+  target_side_rows:
+  - 288
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 289 renders Sanskrit row 288.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 290
+  target_side_rows:
+  - 289
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 290 renders Sanskrit row 289.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 291
+  target_side_rows:
+  - 290
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 291 renders Sanskrit row 290.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 292
+  target_side_rows:
+  - 291
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 292 renders Sanskrit row 291.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 293
+  target_side_rows:
+  - 292
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 293 renders Sanskrit row 292.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 294
+  target_side_rows:
+  - 293
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 294 renders Sanskrit row 293.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 295
+  target_side_rows:
+  - 294
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 295 renders Sanskrit row 294.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 296
+  target_side_rows:
+  - 295
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 296 renders Sanskrit row 295.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 297
+  target_side_rows:
+  - 296
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 297 renders Sanskrit row 296.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 298
+  target_side_rows:
+  - 297
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 298 renders Sanskrit row 297.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 299
+  target_side_rows:
+  - 298
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 299 renders Sanskrit row 298.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 300
+  target_side_rows:
+  - 299
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 300 renders Sanskrit row 299.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 301
+  target_side_rows:
+  - 300
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 301 renders Sanskrit row 300.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 302
+  target_side_rows:
+  - 301
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 302 renders Sanskrit row 301.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 303
+  target_side_rows:
+  - 302
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 303 renders Sanskrit row 302.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 304
+  target_side_rows:
+  - 303
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 304 renders Sanskrit row 303.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 305
+  target_side_rows:
+  - 304
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 305 renders Sanskrit row 304.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 306
+  target_side_rows:
+  - 305
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 306 renders Sanskrit row 305.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 307
+  target_side_rows:
+  - 306
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 307 renders Sanskrit row 306.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 308
+  target_side_rows:
+  - 307
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 308 renders Sanskrit row 307.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 309
+  target_side_rows:
+  - 308
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 309 renders Sanskrit row 308.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 310
+  target_side_rows:
+  - 309
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 310 renders Sanskrit row 309.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 312
+  target_side_rows:
+  - 311
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 312 renders Sanskrit row 311.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 313
+  target_side_rows:
+  - 312
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 313 renders Sanskrit row 312.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 314
+  target_side_rows:
+  - 313
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 314 renders Sanskrit row 313.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 315
+  target_side_rows:
+  - 314
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 315 renders Sanskrit row 314.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 316
+  target_side_rows:
+  - 315
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 316 renders Sanskrit row 315.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 317
+  target_side_rows:
+  - 316
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 317 renders Sanskrit row 316.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 318
+  target_side_rows:
+  - 317
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 318 renders Sanskrit row 317.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 319
+  target_side_rows:
+  - 318
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 319 renders Sanskrit row 318.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 320
+  target_side_rows:
+  - 319
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 320 renders Sanskrit row 319.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 321
+  target_side_rows:
+  - 320
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 321 renders Sanskrit row 320.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 322
+  target_side_rows:
+  - 321
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 322 renders Sanskrit row 321.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 323
+  target_side_rows:
+  - 322
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 323 renders Sanskrit row 322.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 324
+  target_side_rows:
+  - 323
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 324 renders Sanskrit row 323.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 325
+  target_side_rows:
+  - 324
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 325 renders Sanskrit row 324.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 326
+  target_side_rows:
+  - 325
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 326 renders Sanskrit row 325.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 327
+  target_side_rows:
+  - 326
+  reason: 'One-row drift from row 230 to 327 (see row 230): Tibetan row 327 renders Sanskrit row 326.'
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 375
+  target_side_rows:
+  - 376
+  reason: Sanskrit 375 (yathāhaṃ bhagavato bhāṣitasyārtham ājānāmi) has no Tibetan; Tibetan 375 renders Sanskrit 376 (na lakṣaṇasaṃpadā tathāgato draṣṭavyaḥ), whose Tibetan row 376 is empty.
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 378
+  target_side_rows:
+  - 379
+  reason: Sanskrit 378 (evam etad yathā vadasi) has no Tibetan; Tibetan 378 renders Sanskrit 379, whose Tibetan row 379 is empty.
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 419
+  target_side_rows:
+  - 420
+  reason: Sanskrit 419 (na samyag vadamāno vadet) has no Tibetan; Tibetan 419 renders Sanskrit 420 (ātmadṛṣṭiḥ … adṛṣṭiḥ), whose Tibetan row 420 is empty.
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 428
+  target_side_rows:
+  - 430
+  reason: Tibetan 428 (དེས་ན་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་ཞེས་བྱའོ།) renders Sanskrit 430 (tenocyate saṃprakāśayed iti); Sanskrit 428 (tadyathākāśe) has no Tibetan.
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'
+- row: 430
+  target_side_rows:
+  - 431
+  reason: Tibetan 430 (བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།…) renders Sanskrit 431 (idam avocad bhagavān …), whose Tibetan row 431 is empty.
+  decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
+  date: '2026-10-04'

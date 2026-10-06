@@ -17,24 +17,33 @@ Never writes to 1-SOURCES/. Output goes to a machine-baseline track folder under
 rails-generated translation.
 
 Endpoint: POST https://dharmamitra.org/api-search/cat-translate/v1/translate
-No API key. Stdlib only (urllib) — no pip install.
+Stdlib only (urllib) — no pip install.
+
+Authentication: if DHARMAMITRA_API_KEY is set (in the environment, or as a
+KEY=VALUE line in the vault's git-ignored 4-SYSTEM/scripts/.env), it is sent as
+the X-API-Key header, which lifts the public endpoint's daily quota. Without it
+the call is anonymous (public quota: 400 requests per day). The key is never
+printed, logged, or written to the ledger.
 
 Usage:
   dm_translate.py --source 1-SOURCES/Text/<file>.md --lang english
   dm_translate.py --source ... --lang german --limit 3          # smoke test
   dm_translate.py --source ... --lang english --only 1-1,1-2
   dm_translate.py --source ... --lang english --batch 1         # one block per call
+  dm_translate.py --source ... --lang english --workers 4       # 4 concurrent lanes (needs a key)
   dm_translate.py --source ... --lang english --render-only     # re-render from ledger
   dm_translate.py --source ... --list                           # parse check, no calls
 """
 
 import argparse
+import concurrent.futures
 import datetime as _dt
 import json
 import os
 import pathlib
 import re
 import sys
+import threading
 import time
 import urllib.error
 import urllib.request
@@ -54,6 +63,37 @@ ENDPOINT = os.environ.get(
     "DHARMAMITRA_CAT_TRANSLATE_URL",
     "https://dharmamitra.org/api-search/cat-translate/v1/translate",
 )
+
+# The key that lifts the daily quota. Read from the environment first, then from
+# the vault's git-ignored 4-SYSTEM/scripts/.env (cwd = vault root, or the vault
+# this script is installed in). It is a credential: never print it, never pass it
+# on the command line, never commit it, never copy it into another vault's files.
+API_KEY_VAR = "DHARMAMITRA_API_KEY"
+
+
+def load_api_key():
+    """Return (key, where-it-came-from) or ("", "none")."""
+    key = os.environ.get(API_KEY_VAR, "").strip()
+    if key:
+        return key, "environment"
+    script_vault = pathlib.Path(__file__).resolve().parents[3]   # <vault>/4-SYSTEM
+    for env_file in (pathlib.Path("4-SYSTEM/scripts/.env"), script_vault / "scripts" / ".env"):
+        try:
+            text = env_file.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        for line in text.splitlines():
+            line = line.strip()
+            if line.startswith("export "):
+                line = line[7:].strip()
+            if line.startswith(API_KEY_VAR + "="):
+                key = line.split("=", 1)[1].strip().strip('"').strip("'")
+                if key:
+                    return key, str(env_file)
+    return "", "none"
+
+
+API_KEY, API_KEY_SOURCE = load_api_key()
 
 BLOCK_ID_RE = re.compile(r"[ \t]\^([A-Za-z0-9][A-Za-z0-9._-]*)[ \t]*$")
 
@@ -441,13 +481,12 @@ def build_body(batch, ctx, args):
 def call_api(body, timeout, retries, verbose=False):
     """POST one block. Backs off hard on 429 — the endpoint is public and shared."""
     data = json.dumps(body, ensure_ascii=False).encode("utf-8")
+    headers = {"Content-Type": "application/json", "Accept": "application/json"}
+    if API_KEY:
+        headers["X-API-Key"] = API_KEY
     last = None
     for attempt in range(1, retries + 1):
-        req = urllib.request.Request(
-            ENDPOINT, data=data,
-            headers={"Content-Type": "application/json", "Accept": "application/json"},
-            method="POST",
-        )
+        req = urllib.request.Request(ENDPOINT, data=data, headers=headers, method="POST")
         try:
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 payload = json.loads(resp.read().decode("utf-8"))
@@ -718,8 +757,13 @@ def main():
                    help="max chars of context + style_instruction + source per call")
     p.add_argument("--only", default=None, help="comma-separated block IDs")
     p.add_argument("--limit", type=int, default=0, help="stop after N new blocks (0 = all)")
-    p.add_argument("--sleep", type=float, default=4.0,
-                   help="seconds between calls; the public endpoint rate-limits above ~10/min")
+    p.add_argument("--sleep", type=float, default=None,
+                   help="seconds between calls in each lane (default: 4 anonymous — the public "
+                        "endpoint rate-limits above ~10/min — or 0.5 with an API key)")
+    p.add_argument("--workers", type=int, default=1,
+                   help="concurrent lanes for this file (default 1). Blocks are split into N "
+                        "contiguous lanes, each keeping its own rolling context; headings are "
+                        "sent N at a time. Needs DHARMAMITRA_API_KEY (refused anonymously).")
     p.add_argument("--timeout", type=int, default=90, help="per-call timeout (do not lower)")
     p.add_argument("--retries", type=int, default=6)
     p.add_argument("--layout", default="transclusion",
@@ -742,6 +786,13 @@ def main():
     p.add_argument("--list", action="store_true", help="print parsed units and exit")
     p.add_argument("--dry-run", action="store_true", help="print request bodies, make no calls")
     args = p.parse_args()
+    if args.sleep is None:
+        args.sleep = 0.5 if API_KEY else 4.0
+    args.workers = max(1, args.workers)
+    if args.workers > 1 and not API_KEY and not (args.list or args.render_only or args.dry_run):
+        sys.exit(f"--workers {args.workers} needs {API_KEY_VAR} (the anonymous endpoint allows "
+                 f"400 calls/day and rate-limits bursts). Put it in the git-ignored "
+                 f"4-SYSTEM/scripts/.env, or run with --workers 1.")
 
     src_path = pathlib.Path(args.source)
     if not src_path.exists():
@@ -788,6 +839,8 @@ def main():
     # silently told the API that all 95 English texts were that first work.
     title = meta.get("title_in_english") or meta.get("title") or src_path.stem
     author = meta.get("author_in_english") or meta.get("author") or "unknown"
+    # Authority tags ("Name [bdrc:P123]") are for the uploader, not the translator.
+    title, author = (re.sub(r"\s*\[(?:bdrc|op):[^\]]*\]", "", str(x)).strip() for x in (title, author))
     work_line = (f"Work: {title} (author: {author}). A canonical Tibetan text; "
                  f"the blocks below are being translated one at a time, in order.")
 
@@ -823,6 +876,9 @@ def main():
 
     if not args.dry_run:
         seed_track(out_dir, meta, args, src_rel, slug)
+    if not args.render_only:
+        print(f"auth       : {'X-API-Key from ' + API_KEY_SOURCE if API_KEY else 'none (public quota: 400 calls/day)'}"
+              f"   workers={args.workers} sleep={args.sleep}s")
 
     def latest_records():
         """Newest record per id, blocks in source order, then headings."""
@@ -854,20 +910,26 @@ def main():
         print(f"target     : {args.lang} ({args.lang_tag})   mode=headings")
         print(f"track      : {out_dir}")
         print(f"headings   : {len(heading_units)} total, {len(done_heads)} already in ledger, {len(todo)} to do")
+        if args.dry_run:
+            for i, hu in enumerate(todo, 1):
+                print(f"[{i}/{len(todo)}] ^{hu['id']}  {hu['text'][:40]} … (dry run)")
+                print(json.dumps(build_body([hu], header, args), ensure_ascii=False, indent=2))
+            return
+        lock, stop = threading.Lock(), threading.Event()
         n_done = 0
-        for i, hu in enumerate(todo, 1):
+
+        def do_heading(i, hu):
+            nonlocal n_done
+            if stop.is_set():
+                return
             body = build_body([hu], header, args)
-            print(f"[{i}/{len(todo)}] ^{hu['id']}  {hu['text'][:40]} … ", end="", flush=True)
-            if args.dry_run:
-                print("(dry run)")
-                print(json.dumps(body, ensure_ascii=False, indent=2))
-                continue
             t0 = time.time()
             try:
                 one = call_api(body, args.timeout, args.retries)
             except RuntimeError as exc:
-                print(f"\nSTOPPED at ^{hu['id']}: {exc}", file=sys.stderr)
-                break
+                stop.set()
+                print(f"STOPPED at ^{hu['id']}: {exc}", file=sys.stderr, flush=True)
+                return
             el = time.time() - t0
             translation = one.strip().split("\n")[0].strip().strip('"').strip("'")
             rec = {
@@ -879,13 +941,19 @@ def main():
                 "elapsed_s": round(el, 2),
                 "ts": _dt.datetime.now().isoformat(timespec="seconds"),
             }
-            ledger.append(rec)
-            with ledger_path.open("a", encoding="utf-8") as fh:
-                fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
-            n_done += 1
-            print(f"{el:.1f}s  {translation[:60]}")
-            if args.sleep and i < len(todo):
+            with lock:
+                ledger.append(rec)
+                with ledger_path.open("a", encoding="utf-8") as fh:
+                    fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
+                n_done += 1
+                print(f"[{i}/{len(todo)}] ^{hu['id']}  {hu['text'][:40]} … {el:.1f}s  {translation[:60]}",
+                      flush=True)
+            if args.sleep:
                 time.sleep(args.sleep)
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
+            for fut in [pool.submit(do_heading, i, hu) for i, hu in enumerate(todo, 1)]:
+                fut.result()
         if not args.dry_run:
             render(out_md, units, latest_records(), meta, args, src_rel, extra_fm=extra_fm)
             print(f"\nwrote {out_md}  ({n_done} heading(s) translated this run)")
@@ -915,6 +983,7 @@ def main():
           f"<={args.batch_max_lines} lines per call)")
 
     fallbacks, diverged, n_done, stopped_at = [], [], 0, None
+    lock, stop = threading.Lock(), threading.Event()   # the ledger is shared by the lanes
 
     def record(unit, translation, elapsed, batch_ids, ctx, fell_back):
         """Append one block's result to the ledger. One record per block ID."""
@@ -935,90 +1004,124 @@ def main():
             "elapsed_s": round(elapsed, 2),
             "ts": _dt.datetime.now().isoformat(timespec="seconds"),
         }
-        ledger = [r for r in ledger if r["block_id"] != unit["id"]] + [rec]
-        with ledger_path.open("a", encoding="utf-8") as fh:
-            fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
-        got, want = len(translation.split("\n")), len(unit["lines"])
-        if got != want:
-            diverged.append((unit["id"], want, got))
+        with lock:
+            ledger = [r for r in ledger if r["block_id"] != unit["id"]] + [rec]
+            with ledger_path.open("a", encoding="utf-8") as fh:
+                fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
+            got, want = len(translation.split("\n")), len(unit["lines"])
+            if got != want:
+                diverged.append((unit["id"], want, got))
 
     order = {b["id"]: i for i, b in enumerate(blocks)}
 
     def context_for(batch):
         """Rolling context: the blocks of this text that PRECEDE the batch, in
-        source order (never headings, never a later block)."""
+        source order (never headings, never a later block). With --workers > 1 a
+        lane's first batch sees only what earlier lanes or runs have finished."""
         ids = {u["id"] for u in batch}
         first_pos = min(order[u["id"]] for u in batch)
-        by_block, _ = latest_by_id(ledger)
+        with lock:
+            by_block, _ = latest_by_id(list(ledger))
         prior = [r for i, r in sorted((order[b], r) for b, r in by_block.items()
                                       if b in order and b not in ids and order[b] < first_pos)]
         combined = {"text": "\n".join(u["text"] for u in batch)}
         return build_context(header, prior, combined, glossary,
                              args.context_blocks, args.context_cap)
 
-    for bi, batch in enumerate(batches, 1):
+    def log(msg, err=False):
+        with lock:
+            print(msg, file=sys.stderr if err else sys.stdout, flush=True)
+
+    def run_batch(bi, batch, tag):
+        """Translate one batch; returns False if the run must stop."""
+        nonlocal n_done, stopped_at
         ids = [u["id"] for u in batch]
         ctx = context_for(batch)
         body = build_body(batch, ctx, args)
         src_field = body[SOURCE_LANG_FIELDS[args.source_language]]
         payload = len(ctx) + len(body["style_instruction"]) + len(src_field)
-
-        label = "^" + ",^".join(ids)
-        print(f"[{bi}/{len(batches)}] {label}  ({len(batch)} blk, "
-              f"{len(src_field)} src, {payload} payload) … ", end="", flush=True)
-
+        label = f"{tag}[{bi}/{len(batches)}] ^" + ",^".join(ids) + \
+            f"  ({len(batch)} blk, {len(src_field)} src, {payload} payload)"
         if args.dry_run:
-            print("(dry run)")
-            print(json.dumps(body, ensure_ascii=False, indent=2))
-            continue
-
+            log(label + " … (dry run)\n" + json.dumps(body, ensure_ascii=False, indent=2))
+            return True
         t0 = time.time()
         try:
             translation = call_api(body, args.timeout, args.retries)
         except RuntimeError as exc:
-            stopped_at = ids[0]
-            print(f"\nSTOPPED at ^{ids[0]}: {exc}", file=sys.stderr)
-            print("Ledger is intact; nothing done so far is lost. Resume with the same "
-                  "command (already-translated blocks are skipped), or raise --sleep.",
-                  file=sys.stderr)
-            break
+            with lock:
+                stopped_at = stopped_at or ids[0]
+            stop.set()
+            log(f"STOPPED at ^{ids[0]}: {exc}\nLedger is intact; nothing done so far is lost. "
+                "Resume with the same command (already-translated blocks are skipped).", err=True)
+            return False
         elapsed = time.time() - t0
-
         segs = split_batch_response(translation, len(batch))
         if segs is not None:
             for unit, seg in zip(batch, segs):
                 record(unit, seg, elapsed, ids, ctx, False)
-            n_done += len(batch)
-            print(f"{elapsed:.1f}s  {segs[0].split(chr(10))[0][:52]}")
-            if args.sleep and bi < len(batches):
-                time.sleep(args.sleep)
-            continue
-
+            with lock:
+                n_done += len(batch)
+            log(f"{label} … {elapsed:.1f}s  {segs[0].split(chr(10))[0][:52]}")
+            return True
         # Markers came back wrong -- never guess the split. Re-run one per call.
-        fallbacks.append(ids)
-        print(f"{elapsed:.1f}s  ! marker split failed; retrying {len(batch)} blocks singly",
-              flush=True)
+        with lock:
+            fallbacks.append(ids)
+        log(f"{label} … {elapsed:.1f}s  ! marker split failed; retrying {len(batch)} blocks singly")
         for unit in batch:
             if args.sleep:
                 time.sleep(args.sleep)
             solo_ctx = context_for([unit])
             solo = build_body([unit], solo_ctx, args)
-            print(f"    ^{unit['id']} … ", end="", flush=True)
             t0 = time.time()
             try:
                 one = call_api(solo, args.timeout, args.retries)
             except RuntimeError as exc:
-                stopped_at = unit["id"]
-                print(f"\nSTOPPED at ^{unit['id']}: {exc}", file=sys.stderr)
-                break
+                with lock:
+                    stopped_at = stopped_at or unit["id"]
+                stop.set()
+                log(f"STOPPED at ^{unit['id']}: {exc}", err=True)
+                return False
             el = time.time() - t0
             record(unit, one.strip(), el, [unit["id"]], solo_ctx, True)
-            n_done += 1
-            print(f"{el:.1f}s  {one.strip().split(chr(10))[0][:52]}")
-        if stopped_at:
-            break
-        if args.sleep and bi < len(batches):
-            time.sleep(args.sleep)
+            with lock:
+                n_done += 1
+            log(f"{tag}    ^{unit['id']} … {el:.1f}s  {one.strip().split(chr(10))[0][:52]}")
+        return True
+
+    def run_lane(lane, tag):
+        for bi, batch in lane:
+            if stop.is_set():
+                return
+            if not run_batch(bi, batch, tag):
+                return
+            if args.sleep and not args.dry_run:
+                time.sleep(args.sleep)
+
+    numbered = list(enumerate(batches, 1))
+    n_lanes = min(args.workers, len(numbered))
+    if n_lanes <= 1:
+        run_lane(numbered, "")
+    else:
+        # Contiguous lanes of roughly equal source size, so each keeps its own
+        # rolling context; batches never cross a heading, so neither does a cut.
+        sizes = [sum(len(u["text"]) for u in b) for _, b in numbered]
+        target, lanes, cur, acc = sum(sizes) / n_lanes, [], [], 0
+        for item, size in zip(numbered, sizes):
+            cur.append(item)
+            acc += size
+            if acc >= target * (len(lanes) + 1) and len(lanes) < n_lanes - 1:
+                lanes.append(cur)
+                cur = []
+        if cur:
+            lanes.append(cur)
+        print(f"lanes      : {len(lanes)} — " + "; ".join(
+            f"L{k + 1} ^{ln[0][1][0]['id']}…^{ln[-1][1][-1]['id']} ({len(ln)} calls)"
+            for k, ln in enumerate(lanes)))
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(lanes)) as pool:
+            futs = [pool.submit(run_lane, ln, f"L{k + 1} ") for k, ln in enumerate(lanes)]
+            for fut in futs:
+                fut.result()
 
     if not args.dry_run:
         # Ledger is append-only; keep the last record per block for rendering.

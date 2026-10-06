@@ -21,7 +21,7 @@ Two engines, same contract:
 | Engine | Strength | Needs |
 |---|---|---|
 | 1 — Gemini | Any display language (Hindi, Nepali, Mongolian, Vietnamese, …) | A Google API key |
-| 2 — DharmaMitra | Buddhist-domain Tibetan/Sanskrit → English; trained on this literature | Public `cat-translate` API, no key |
+| 2 — DharmaMitra | Buddhist-domain Tibetan/Sanskrit → English; trained on this literature | `cat-translate` API: anonymous (400 calls/day), or unlimited with `DHARMAMITRA_API_KEY` |
 
 **Prefer DharmaMitra for Tibetan or Sanskrit into English** — it is trained on exactly
 this material and gets technical vocabulary right that a general model paraphrases.
@@ -198,6 +198,26 @@ The behaviour that is specific to a single-text vault — the default track root
 | Frontmatter | What the vault linter expects of `file_type: translation` (`title` in the target language, `root_text`, `language`, `lang_tag`, `category_id`, `license`, `source`, `edition_type`) plus the provenance keys. Keys the renderer cannot know — researched title, backend ids, import provenance (`PRESERVE_FM_KEYS`) — are carried over from the file being overwritten and can be seeded with `--extra-fm <json>`. There is **no separate stamping pass** in this vault. |
 | Warning callout | Lives in the frontmatter `note:` key, not in the body — the linter requires every non-transclusion body block to end in a block id. |
 | Upload | Never from this skill. See `translation-upload` (`4-SYSTEM/scripts/upload_translation.py`). |
+| Authentication | `DHARMAMITRA_API_KEY`, sent as the `X-API-Key` header, lifts the daily quota. The script reads it from the environment or from a `DHARMAMITRA_API_KEY=…` line in the vault's **git-ignored** `4-SYSTEM/scripts/.env`, and prints only where it came from (`auth : X-API-Key from …`). See **Authentication and parallel runs** below. |
+
+---
+
+### Authentication and parallel runs
+
+**The key.** With `DHARMAMITRA_API_KEY` set, every call carries `X-API-Key: <key>` and the public quota (400 calls per day, shared by everyone on the same IP) no longer applies. The key is a credential the vault owner was given privately:
+
+- Keep it **only** in `4-SYSTEM/scripts/.env` (`DHARMAMITRA_API_KEY=<key>`), which `.gitignore` excludes. Check with `git check-ignore -v 4-SYSTEM/scripts/.env` before creating it.
+- Never write it into this skill, a script, a ledger, a commit, a prompt for another agent, or a command line. Never print it. Never copy it into another vault or into the shared skill library: each vault owner adds it to their own `.env`.
+- The ledger records the endpoint, not the key.
+
+**Parallel runs (key required).** Two levels, combinable:
+
+| Level | How | Notes |
+|---|---|---|
+| Across files | Run one `dm_translate.py` process per source × target pair, concurrently (e.g. one background shell per file). | Each pair has its own ledger. **Never run two processes on the same ledger** (same source and same `--lang-tag`). |
+| Within a file | `--workers N` (default 1; 4 is a good value). The remaining batches are cut into N contiguous lanes of similar source size; each lane runs in order with its own rolling context. With `--headings`, N headings are in flight at once. | A lane's first batch sees only context that earlier lanes or runs already finished — a small loss at N−1 cut points. Ledger writes are serialised; a stop in one lane stops the others after their current call, and re-running resumes. |
+
+Without a key, `--workers > 1` is refused and the default `--sleep` stays 4 s; with a key the default `--sleep` is 0.5 s per lane.
 
 ---
 
@@ -317,9 +337,10 @@ A batch is also closed at a **heading boundary** — sections are never mixed �
 5. **This output is never cited.** It may not be cited by any other `3-TRANSFORMATIONS/` output and must not be promoted past `status: draft` by an LLM. Its renderings may feed `2-RAILS/Bilingual-Glossaries/` only through `bilingual-glossary` (Phase 1).
 6. **`target_language` is a label, never an ISO code** (`"german"`, not `"de"`). The tag (`de`) is used only for folder and file naming.
 7. **Do not lower the 90 s timeout.** A Cloudflare cap at 100 s surfaces as HTTP 524.
-8. **Respect the rate limit — it is a DAILY quota** (400 requests per day, observed 2026-08-27). Count calls, not blocks; `--dry-run` prints the call count without spending any. A daily 429 aborts immediately; short-burst 429s back off 20 s → 180 s. Never run several instances in parallel.
+8. **Anonymous calls have a DAILY quota** (400 requests per day per IP, observed 2026-08-27 and again 2026-10-04, when seven parallel jobs spent it mid-run). Count calls, not blocks; `--dry-run` prints the call count without spending any. A daily 429 aborts immediately; short-burst 429s back off 20 s → 180 s. **Without a key, never run several instances in parallel.** With `DHARMAMITRA_API_KEY` (see **Authentication and parallel runs**) the quota does not apply: run files concurrently and use `--workers`, but never two processes on one ledger.
 9. **The ledger is append-only.** Never hand-edit it. To change a rendering, edit `style.md` and re-run that block with `--force --only <id>`; the newest record wins at render time.
 10. **Report a partial run as partial.** `blocks_translated` / `blocks_total` must match reality.
+11. **The API key is a secret.** It lives only in the git-ignored `4-SYSTEM/scripts/.env`; it is never printed, committed, passed on a command line, or handed to another agent or vault.
 
 ---
 
@@ -349,16 +370,16 @@ Six rather than three, so the smoke test exercises two real batches. This seeds 
 
 ```bash
 python3 4-SYSTEM/Skills/machine-translate/scripts/dm_translate.py \
-  --source "1-SOURCES/Text/<file>.md" --lang <language>
+  --source "1-SOURCES/Text/<file>.md" --lang <language> [--workers 4]
 ```
 
-Blocks already in the ledger are skipped, so this is also the resume command.
+Blocks already in the ledger are skipped, so this is also the resume command. Check the `auth :` line it prints first: `X-API-Key from …` means the key was found and `--workers` / concurrent files are allowed; `none` means the anonymous quota applies. Several files can run at the same time in separate processes when the key is present.
 
 #### Step 3b — Translate the section headings
 
 ```bash
 python3 4-SYSTEM/Skills/machine-translate/scripts/dm_translate.py \
-  --source "1-SOURCES/Text/<file>.md" --lang <language> --headings
+  --source "1-SOURCES/Text/<file>.md" --lang <language> --headings [--workers 4]
 ```
 
 One call per `##` heading (level ≥ 2) under `HEADING_STYLE`; the H1 is never sent. Read the four-or-so results back: a short label, numeral kept, nothing added. Re-run one with `--headings --force --only <id>` if needed. These become the section titles of the translation's table of contents on upload.
@@ -375,7 +396,7 @@ One call per `##` heading (level ≥ 2) under `HEADING_STYLE`; the H1 is never s
    diff <(grep -o '\^[A-Za-z0-9-]*$' "1-SOURCES/Text/<file>.md") \
         <(grep -o '\^[A-Za-z0-9-]*$' "3-TRANSFORMATIONS/Translations/Dharmamitra/<tag>/<stem>-<tag>.md") && echo IDS OK
    ```
-4. Line parity per block and no Tibetan inside translation lines: `python3 4-SYSTEM/Skills/gemini-translate/scripts/gm_verify.py --lang-tag <tag> --track 3-TRANSFORMATIONS/Translations/Dharmamitra/<tag>` (the checker is generator-agnostic).
+4. Line parity per block and no Tibetan inside translation lines: `python3 4-SYSTEM/Skills/machine-translate/scripts/gm_verify.py --lang-tag <tag> --track 3-TRANSFORMATIONS/Translations/Dharmamitra/<tag>` (the checker is generator-agnostic).
 5. Re-render at any time without calling the API: `--render-only` (add `--extra-fm work/extra-fm.json` to seed frontmatter keys).
 
 #### Step 5 — Report

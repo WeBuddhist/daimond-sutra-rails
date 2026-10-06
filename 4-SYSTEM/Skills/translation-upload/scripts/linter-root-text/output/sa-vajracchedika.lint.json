@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/sa-vajracchedika.md",
+  "validated_at": "2026-10-04T09:37:07.802822+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://docs.google.com/document/d/1EqG6xuFzFJasTMMovafuzLMgFpNQV9nAT3zbYDo6rxE/edit'",
+    "toc: 14 headers found"
+  ],
+  "warnings": [
+    "author 'भगवान् बुद्धः': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "sa": "वज्रच्छेदिका नाम त्रिशतिका प्रज्ञापारमिता"
+    },
+    "alt_titles": [
+      {
+        "sa": "आर्यवज्रच्छेदिका भगवती प्रज्ञापारमिता"
+      }
+    ],
+    "language": "sa",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "unknown",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

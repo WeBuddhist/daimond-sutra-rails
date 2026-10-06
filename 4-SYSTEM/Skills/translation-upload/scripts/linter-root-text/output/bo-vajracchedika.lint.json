@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Translations/bo-vajracchedika.md",
+  "validated_at": "2026-10-04T09:37:30.358483+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/sa-vajracchedika.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://docs.google.com/document/d/1uISaW2HYeS3vCPeAhiDTn-RmwDkM1B7kvhMGTEPyfp0/edit'",
+    "toc: 14 headers found"
+  ],
+  "warnings": [
+    "author 'Buddha': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།",
+      "en": "The Diamond Sūtra (Vajracchedikā Prajñāpāramitā Sūtra)"
+    },
+    "alt_titles": [
+      {
+        "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ།"
+      },
+      {
+        "bo": "སྟོན་པ་བཅོམ་ལྡན་འདས། རྡོ་རྗེ་གཅོད་པ།"
+      },
+      {
+        "bo": "རྡོ་རྗེ་གཅོད་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": "KFDP2GKsN0LhzLoJ621MM",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

@@ -1,0 +1,11 @@
+# Applied after the independent review (Claude, 2026-10-04).
+corrections:
+- segment: 398
+  row: 247
+  evidence: "row 247 opens with the lemma འདི་ལྟ་སྟེ་དཔེར་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་བཞིན་དུ་ཕྱེ་མར་བྱས་ན་ཞེས་བྱ་བ་; row 246 only closes the comment on 397 and introduces the topic"
+- segment: 399
+  row: 247
+  evidence: "with 398 (row 247: འདིར་ཡང་བཤད་པ་ནི་སྔ་མ་བཞིན་ནོ)"
+- segment: 400
+  row: 247
+  evidence: "with 398 (row 247: འདིར་ཡང་བཤད་པ་ནི་སྔ་མ་བཞིན་ནོ)"

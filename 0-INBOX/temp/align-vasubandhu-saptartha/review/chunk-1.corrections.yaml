@@ -1,0 +1,223 @@
+corrections:
+- segment: 2
+  row: 2
+  evidence: "Sanskrit title parallels row 2: རྒྱ་གར་སྐད་དུ། ཨཱརྱ་...བཛྲ་ཙྪེ་དི་ཀཱ (row 1 has no Sanskrit title)"
+- segment: 5
+  row: null
+  evidence: "nidāna opening not discussed; row 2 is the commentary's own title/homage/verses"
+- segment: 6
+  row: null
+  evidence: "setting and assembly not discussed anywhere in the commentary"
+- segment: 7
+  row: null
+  evidence: "alms round not discussed anywhere in the commentary"
+- segment: 8
+  row: null
+  evidence: "meal not discussed anywhere in the commentary"
+- segment: 9
+  row: 23
+  evidence: "ཅིའི་དོན་དུ་བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་སྟོན་པའི་ཚེ་སྤོང་བ་པའི་སྤྱོད་ལམ་གྱིས་བཞུགས་ཤེ་ན"
+- segment: 10
+  row: null
+  evidence: "monks approaching not discussed in the commentary"
+- segment: 11
+  row: null
+  evidence: "monks' prostration not discussed in the commentary"
+- segment: 12
+  row: null
+  evidence: "Subhūti joining the assembly not discussed in the commentary"
+- segment: 13
+  row: null
+  evidence: "Subhūti rising not discussed in the commentary"
+- segment: 14
+  row: null
+  evidence: "narrative connector; not discussed in the commentary"
+- segment: 15
+  row: 24
+  evidence: "detailed explanation in 2.1: ཕན་གདགས་པའི་དམ་པས་ཕན་བཏགས་པ་ཞེས་པ་ལ་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ལ་ཕན་གདགས་པ་ནི་ཅི་ཞིག (row 5 is the overview)"
+- segment: 16
+  row: 25
+  evidence: "ཅིའི་དོན་དུ་གནས་བརྟན་རབ་འབྱོར་གྱིས་དྲིས་པར་གྱུར་ཞེ་ན། རྒྱུ་དྲུག་རྣམས་ཀྱིས་ཏེ (row 11 is an overview citing the later question, seg 254)"
+- segment: 17
+  row: 25
+  evidence: "part of Subhūti's question taken up in row 25: ཅིའི་དོན་དུ་གནས་བརྟན་རབ་འབྱོར་གྱིས་དྲིས་པར་གྱུར"
+- segment: 18
+  row: 25
+  evidence: "part of Subhūti's question taken up in row 25: ཅིའི་དོན་དུ་གནས་བརྟན་རབ་འབྱོར་གྱིས་དྲིས་པར་གྱུར"
+- segment: 19
+  row: 25
+  evidence: "closes the question taken up in row 25"
+- segment: 20
+  row: 26
+  evidence: "the Buddha's reply taken up in row 26: ལེགས་སོ་བྱིན་ནས"
+- segment: 21
+  row: 26
+  evidence: "ལེགས་སོ་བྱིན་ནས་བདག་གིས་སེམས་ཅན་ཇི་ཙམ"
+- segment: 22
+  row: 26
+  evidence: "same reply, row 26: ལེགས་སོ་བྱིན་ནས"
+- segment: 23
+  row: 26
+  evidence: "row 20 match (དེ་བཞིན་གཤེགས་པས་ཐ་སྙད་ཀྱི་དོན་དུ) is spurious (row 20 is about seg 87-93); kept with the Buddha's reply in row 26 (ལེགས་སོ་བྱིན་ནས) since ordering bars row 24"
+- segment: 24
+  row: 26
+  evidence: "same as 23: part of the reply summarised in row 26 ལེགས་སོ་བྱིན་ནས"
+- segment: 25
+  row: 26
+  evidence: "reply leading into seg 29, row 26: ལེགས་སོ་བྱིན་ནས་བདག་གིས་སེམས་ཅན་ཇི་ཙམ"
+- segment: 26
+  row: 26
+  evidence: "reply leading into seg 29, row 26: ལེགས་སོ་བྱིན་ནས"
+- segment: 27
+  row: 26
+  evidence: "reply leading into seg 29, row 26"
+- segment: 28
+  row: 26
+  evidence: "reply leading into seg 29, row 26"
+- segment: 31
+  row: 28
+  evidence: "first taken up: གཏན་ཚིགས་ཅི་ཞེ་ན། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་ན་དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་སྨྲ་བར་མི་བྱའོ"
+- segment: 32
+  row: 28
+  evidence: "first taken up: གང་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་པའམ་སྲོག་ཏུ་འདུ་ཤེས་སམ་གང་ཟག་ཏུ་འདུ་ཤེས་ཞེས་བྱ་བའི་དགོངས་པ་ཅི་ཡིན"
+- segment: 33
+  row: 33
+  evidence: "བྱང་ཆུབ་སེམས་དཔས་དངོས་པོ་ལ་མི་གནས་པར་སྦྱིན་པ་བྱིན་ནོ་ཞེས་གང་གསུངས་པ (row 31 match is spurious)"
+- segment: 34
+  row: 36
+  evidence: "དེ་བས་ན་ཅི་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་ནོ་ཞེས་པ་ཡིན་ནོ (row 35 quotes seg 33's དངོས་པོ་ལ་མི་གནས་པར)"
+- segment: 35
+  row: 37
+  evidence: "དེ་བས་ན་གཟུགས་ལ་ཡང་མི་གནས་པར་ཞེས་བྱ་བ་དེ་ལྟ་བུ་ལ་སོགས་པ་གསུངས་སོ"
+- segment: 38
+  row: 39
+  evidence: "མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པའི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆེ་བ་ཉིད་ཡོངས་སུ་སྟོན་ཏེ"
+- segment: 39
+  row: 39
+  evidence: "རྣམ་པ་གསུམ་གྱིས་ནམ་མཁའ་དང་མཚུངས་སོ"
+- segment: 40
+  row: 39
+  evidence: "space simile treated in row 39: ནམ་མཁའ་དང་མཚུངས་སོ"
+- segment: 41
+  row: 39
+  evidence: "space simile treated in row 39: ཐམས་ཅད་དུ་འགྲོ་བ་ཉིད་ཀྱིས"
+- segment: 42
+  row: 39
+  evidence: "space simile treated in row 39: ཡངས་པ་ཉིད་ཀྱིས་ནི"
+- segment: 52
+  row: 43
+  evidence: "connector to Subhūti's question taken up in row 43: སེམས་ཅན་གང་ལ་ལ་དག་འདི་ལྟ་བུའི་འདུ་ཤེས་སྐྱེད་པར་འགྱུར་བ་མཆིས་སམ"
+- segment: 56
+  row: 44
+  evidence: "སངས་རྒྱས་བརྒྱ་སྟོང་མང་པོ་ལ་དེ་རྣམས་ཀྱིས་བསྙེན་བཀུར་བ་འབྱུང་བར་འགྱུར་རོ་ཞེས་བྱ་བ"
+- segment: 57
+  row: 44
+  evidence: "རྒྱ་ཆེན་པོས་རྒྱུ་ཀུན་དུ་འབྱུང་བ་ཡོངས་སུ་བསྒྲགས་པ་ཡིན་ནོ"
+- segment: 58
+  row: 44
+  evidence: "སངས་རྒྱས་བརྒྱ་སྟོང་མང་པོ་ལ་དེ་རྣམས་ཀྱིས་བསྙེན་བཀུར་བ"
+- segment: 59
+  row: 44
+  evidence: "སེམས་གཅིག་ཏུ་རབ་ཏུ་དང་བ ... དེ་བཞིན་གཤེགས་པས་དེ་དག་མཁྱེན་ཏོ་ཞེས་བྱ་བ་ནི"
+- segment: 60
+  row: 45
+  evidence: "གཟུགས་ཀྱི་སྐུ་མཐོང་བ་ལས ... ལྟ་བ་རྣམས་ཏེ (explains གཟིགས)"
+- segment: 62
+  row: 46
+  evidence: "བྱང་ཆུབ་སེམས་དཔའ་དེ་རྣམས་ནི་སེམས་ཅན་དུ་འདུ་ཤེས་པ་འཇུག་པར་མི་འགྱུར་བ་ནས"
+- segment: 70
+  row: 49
+  evidence: "ཡང་རབ་འབྱོར་ཆོས་སུ་བཟུང་བར་མི་བྱ་ཞིང་ཆོས་མ་ཡིན་པར་ཡང་ཞེས་བྱ་བ་ནི"
+- segment: 72
+  row: 51
+  evidence: "connector to the question quoted in row 51: རབ་འབྱོར་དེ་ཇི་སྙམ་སེམས། དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ"
+- segment: 73
+  row: 51
+  evidence: "རབ་འབྱོར་དེ་ཇི་སྙམ་སེམས། དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི"
+- segment: 94
+  row: 60
+  evidence: "opens the stream-enterer question: ཡང་རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་ཞེས་རྒྱས་པར་གསུངས་པ"
+- segment: 95
+  row: 60
+  evidence: "first taken up: མངོན་པའི་ང་རྒྱལ་གྱིས་དབེན་པའི་དབང་དུ་བྱས་ནས། ཡང་རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་ཞེས་རྒྱས་པར་གསུངས"
+- segment: 125
+  row: 63
+  evidence: "connector to the Dīpaṃkara question quoted in row 63: དེ་བཞིན་གཤེགས་པས་...མར་མེ་མཛད་ལས་གང་བླངས་པའི་ཆོས"
+- segment: 133
+  row: 66
+  evidence: "ཅི་ལ་ཡང་མི་གནས་པར་ཞེས་བྱ་བ་འདི་རྒྱས་པར་གསུངས་པ་ཡིན་ནོ"
+- segment: 167
+  row: 74
+  evidence: "connector to the dust question quoted in row 74: རབ་འབྱོར་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ"
+- segment: 168
+  row: 74
+  evidence: "first taken up: རབ་འབྱོར་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་ཞེས་རྒྱས་པར་གསུངས"
+- segment: 181
+  row: 80
+  evidence: "གནས་བརྟན་རབ་འབྱོར་ཅིའི་ཕྱིར་འདི་མཆི་མ་འབྱིན་པར་བྱེད་ཅེ་ན"
+- segment: 182
+  row: 80
+  evidence: "གནས་བརྟན་རབ་འབྱོར་ཅིའི་ཕྱིར་འདི་མཆི་མ་འབྱིན་པར་བྱེད"
+- segment: 183
+  row: 80
+  evidence: "Subhūti's tearful praise explained in row 80: ཅིའི་ཕྱིར་འདི་མཆི་མ་འབྱིན་པར་བྱེད"
+- segment: 211
+  row: 95
+  evidence: "དེ་བཞིན་དུ་ཆོས་ལ་མི་གནས་པ་དང་། ཆོས་མེད་པ་ལ་ཡང་མི་གནས་པར་ཞེས་གསུངས་པ"
+- segment: 212
+  row: 95
+  evidence: "ཆོས་མེད་པ་ལ་ཡང་མི་གནས་པར་ཞེས་གསུངས་པ"
+- segment: 213
+  row: 95
+  evidence: "དེ་ལ་ཡང་མི་གནས་པ་ཉིད་ནི ... གནས་པ་གང་ཡིན་པ་དེ་ཉིད་མི་གནས་པའི་ཕྱིར"
+- segment: 225
+  row: 102
+  evidence: "ཇི་ལྟར་བསོད་ནམས་ཡོངས་སུ་འཛིན་ཞེ་ན། སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་དཔག་ཏུ་མེད་པའི་བསོད་ནམས་ཀྱི་ཕུང་པོ་བསྐྱེད་དོ"
+- segment: 226
+  row: 102
+  evidence: "first half of the comparison completed by seg 227 in row 102; row 101 does not treat it"
+- segment: 243
+  row: 110
+  evidence: "ཤིན་དུ་མནར་བར་འགྱུར་ཞེས་དང་"
+- segment: 244
+  row: 110
+  evidence: "སྒྲིབ་པ་དང་སྡིག་པ་ཡོངས་སུ་ཟད་པར་འགྱུར་ཞེས་བསྟན་པས"
+- segment: 253
+  row: 114
+  evidence: "connector to the question quoted in row 114: བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་ཇི་ལྟར་ཞེས"
+- segment: 256
+  row: 114
+  evidence: "first taken up with 254-255: དེ་ལྟར་སྒྲུབ་པ་དང་ང་ནི་དེ་ལྟར་སེམས་རབ་ཏུ་བཟུང་བར་བྱའོ"
+- segment: 310
+  row: 135
+  evidence: "Ganges-worlds example belongs to pure knowledge: དཔེར་མཛད་པ་དེ་དག་གི་བསམ་པ ... འདི་ནི་ཡེ་ཤེས་རྣམ་པར་དག་པ (cf. row 12)"
+- segment: 311
+  row: 135
+  evidence: "དཔེར་མཛད་པ་དེ་དག་གི་བསམ་པ་ཐ་དད་པའི་སེམས་ཀྱི་རྒྱུན (row 12: ཡེ་ཤེས་...གང་གཱའི་ཀླུང་གི་བྱེ་མ)"
+- segment: 312
+  row: 135
+  evidence: "same example, row 135: དཔེར་མཛད་པ་དེ་དག"
+- segment: 313
+  row: 135
+  evidence: "same example, row 135: དཔེར་མཛད་པ་དེ་དག"
+- segment: 320
+  row: 137
+  evidence: "connector to the trichiliocosm question quoted in row 137: གང་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི"
+- segment: 344
+  row: 142
+  evidence: "connector to Subhūti's question quoted in row 142: བཅོམ་ལྡན་འདས་མ་འོངས་པའི་དུས་ན་སེམས་ཅན་གང་དག"
+- segment: 349
+  row: 143
+  evidence: "connector to the question quoted in row 143: དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ...ཡོད་སྙམ་མམ"
+- segment: 362
+  row: 149
+  evidence: "connector to the question quoted in row 149: དེ་བཞིན་གཤེགས་པས་འདི་སྙམ་དུ་ངས་སེམས་ཅན་རྣམས་བཀྲོལ་ལོ"
+- segment: 403
+  row: 165
+  evidence: "བཅོམ་ལྡན་འདས་ཀྱིས་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་དེ་ཚོགས་མ་མཆིས་པར་གསུངས་པས་ན་དེ་ལྟར་བཤད་པའོ"
+- segment: 425
+  row: null
+  evidence: "closing rejoicing not discussed; row 176 only treats the verse (སྐར་མ་རབ་རིབ་མར་མེ་དང་...བཤད་ཟིན་ཏོ)"
+- segment: 426
+  row: null
+  evidence: "closing praise not discussed in the commentary"

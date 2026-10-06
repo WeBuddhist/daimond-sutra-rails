@@ -13,3 +13,8 @@
 
 # Claude Code worktrees (local only)
 .claude/worktrees/
+
+# Local credentials (API keys) — never commit
+.env
+.env.*
+*.env

@@ -1,0 +1,132 @@
+{
+  "sections": [
+    {
+      "title": {
+        "lzh": "金剛般若波羅蜜經"
+      },
+      "span": {
+        "start": 0,
+        "end": 6533
+      },
+      "subsections": [
+        {
+          "title": {
+            "lzh": "序分"
+          },
+          "span": {
+            "start": 8,
+            "end": 95
+          }
+        },
+        {
+          "title": {
+            "lzh": "長老須菩提請問"
+          },
+          "span": {
+            "start": 95,
+            "end": 201
+          }
+        },
+        {
+          "title": {
+            "lzh": "世尊答"
+          },
+          "span": {
+            "start": 201,
+            "end": 287
+          }
+        },
+        {
+          "title": {
+            "lzh": "發阿耨多羅三藐三菩提心"
+          },
+          "span": {
+            "start": 287,
+            "end": 485
+          }
+        },
+        {
+          "title": {
+            "lzh": "學六波羅蜜行"
+          },
+          "span": {
+            "start": 485,
+            "end": 602
+          }
+        },
+        {
+          "title": {
+            "lzh": "布施等成就色身"
+          },
+          "span": {
+            "start": 602,
+            "end": 1252
+          }
+        },
+        {
+          "title": {
+            "lzh": "四向四果"
+          },
+          "span": {
+            "start": 1252,
+            "end": 2318
+          }
+        },
+        {
+          "title": {
+            "lzh": "相好"
+          },
+          "span": {
+            "start": 2318,
+            "end": 4438
+          }
+        },
+        {
+          "title": {
+            "lzh": "如來有五眼"
+          },
+          "span": {
+            "start": 4438,
+            "end": 4742
+          }
+        },
+        {
+          "title": {
+            "lzh": "心心所"
+          },
+          "span": {
+            "start": 4742,
+            "end": 5635
+          }
+        },
+        {
+          "title": {
+            "lzh": "果法身"
+          },
+          "span": {
+            "start": 5635,
+            "end": 5958
+          }
+        },
+        {
+          "title": {
+            "lzh": "微塵"
+          },
+          "span": {
+            "start": 5958,
+            "end": 6434
+          }
+        },
+        {
+          "title": {
+            "lzh": "流通分"
+          },
+          "span": {
+            "start": 6434,
+            "end": 6533
+          }
+        }
+      ]
+    }
+  ]
+}

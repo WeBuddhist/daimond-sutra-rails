@@ -1,0 +1,30 @@
+- row: 38
+  at:
+  - རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པ་དེའི་
+  targets:
+  - []
+  - - 0
+  targets_note: The row's one Sanskrit segment (tat kasya hetoḥ? + the sentence the
+    heading opens) is shown with part 2, which renders all of it but the question,
+    so the Sanskrit section starts at the same passage as the Tibetan (Claude, 2026-10-04
+    — for the text expert to check; D7's default would show it with part 1).
+  reason: Heading 5 (ཕར་ཕྱིན་དྲུག་གི་སྤྱོད་པ་ལ་སློབ་ཚུལ།) stands inside this row on
+    the Wikisource proofread page (page 3, revision 1239138), after དེ་ཅིའི་ཕྱིར་ཞེ་ན།
+  decided_by: vault owner — standing decision D7 carried over from heart-sutra-rails
+    (2026-10-03)
+  date: '2026-10-04'
+- row: 317
+  at:
+  - རབ་འབྱོར་འདས་པའི་སེམས་ཀྱང་དམིགས་སུ་མེད
+  targets:
+  - []
+  - - 0
+  targets_note: The row's one Sanskrit segment (tat kasya hetoḥ? + the sentence the
+    heading opens) is shown with part 2, which renders all of it but the question,
+    so the Sanskrit section starts at the same passage as the Tibetan (Claude, 2026-10-04
+    — for the text expert to check; D7's default would show it with part 1).
+  reason: Heading 10 (སེམས་སེམས་བྱུང་།) stands inside this row on the Wikisource proofread
+    page (page 18, revision 1239152), after དེ་ཅིའི་ཕྱིར་ཞེ་ན།
+  decided_by: vault owner — standing decision D7 carried over from heart-sutra-rails
+    (2026-10-03)
+  date: '2026-10-04'

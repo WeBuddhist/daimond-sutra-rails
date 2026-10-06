@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-chone-drakpa-shedrub-en.md",
+  "validated_at": "2026-10-04T09:42:53.972507+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Commentaries/bo-chone-drakpa-shedrub.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://dharmamitra.org'",
+    "toc: 22 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'dharmamitra cat-translate v1': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "en": "The Sun Illuminating the Profound Meaning: An Excellent Path to Liberation, a Commentary on the Vajracchedikā by Chone Drakpa Shedrub"
+    },
+    "alt_titles": null,
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": "lBje379uSCW57yo5bYOHX",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

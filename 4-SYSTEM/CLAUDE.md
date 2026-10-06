@@ -431,7 +431,7 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | Ingest EPUB as markdown | `epub-to-markdown` |
 | Ingest JSON (root text / commentary) | `json-to-source-text` · `json-to-commentary` |
 | Bring one raw file into `1-SOURCES/` | `raw-to-sources` |
-| Ingest a human-aligned corpus (OpenPecha API, Dzongsar docx alignments) | `aligned-corpus-intake` |
+| Ingest a human-aligned corpus (OpenPecha API, Dzongsar docx/Markdown alignments) | `aligned-corpus-intake` |
 | Repair mechanical OCR / page damage | `clean-raw-text` |
 | Score OCR quality before trusting a file | `tibetan-ocr-quality` |
 | **Formatting and structure** | |
@@ -441,6 +441,7 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | Add or re-add block IDs | `add-block-ids` |
 | Insert root-verse transclusions into a commentary | `transclusion` |
 | Build a structural outline / table of contents | `toc-generate` (sa bcad) · `structural-outline-ingest` · `add-toc` |
+| Apply a TOC taken from the text's Wikisource Index page (or Wikipedia) | `wiki-toc-import` |
 | Tag inline structural announcements | `tag-inline-toc` |
 | **Metadata** | |
 | Fill a file's frontmatter | `frontmatter` |

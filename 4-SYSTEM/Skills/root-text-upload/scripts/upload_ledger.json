@@ -1,0 +1,30 @@
+{
+  "sa-vajracchedika": {
+    "edition_id": "JRah9DaEkM0e4VXWuClFz",
+    "file_type": "root-text",
+    "lang_tag": "sa",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "KFDP2GKsN0LhzLoJ621MM",
+        "ts": "2026-10-04T15:07:08"
+      },
+      {
+        "chars": 30652,
+        "edition_id": "JRah9DaEkM0e4VXWuClFz",
+        "segments": 428,
+        "step": "edition",
+        "ts": "2026-10-04T15:07:09"
+      },
+      {
+        "step": "toc",
+        "subsections": 13,
+        "toc_id": "YhjbmoWfJw1R50OpGaVtw",
+        "ts": "2026-10-04T15:07:10"
+      }
+    ],
+    "source_file": "1-SOURCES/Text/sa-vajracchedika.md",
+    "text_id": "KFDP2GKsN0LhzLoJ621MM",
+    "toc_id": "YhjbmoWfJw1R50OpGaVtw"
+  }
+}

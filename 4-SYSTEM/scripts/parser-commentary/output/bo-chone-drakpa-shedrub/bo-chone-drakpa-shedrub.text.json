@@ -1,0 +1,26 @@
+{
+  "bdrc": "WA3CN22739",
+  "title": {
+    "bo": "རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ།",
+    "en": "The Sun that Illuminates the Profound Meaning of the Excellent Path for Travelling to Freedom"
+  },
+  "alt_titles": [
+    {
+      "bo": "རྡོར་གཅོད་ཀྱི་འགྲེལ་པ་ཐར་པར་བགྲོད་པའི་ལམ་བཟང་ཟབ་དོན་གསལ་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།"
+    },
+    {
+      "bo": "ཅོ་ནེ་གྲགས་པ་བཤད་སྒྲུབ། རྡོར་གཅོད་ཀྱི་འགྲེལ་པ།"
+    }
+  ],
+  "language": "bo",
+  "commentary_of": "LHLu9gwHglREXXgehSJZ9",
+  "category_id": "uGpinx0GZlvU1uw44RyYS",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1629"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+corrections:
+- segment: 396
+  row: 244
+  evidence: "ཇི་ལྟར་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་གཤེགས་པས་རབ་ཏུ་ཕྱེ་བ་ལྟར་བསྟན་སྙམ་དུ་སེམས་པའི་བསམ་པ་ལ་བརྟགས་ནས་དེ་ཅིའི་ཕྱིར་ཞེ་ན་ཞེས་གསུངས་ཏེ"
+- segment: 406
+  row: 251
+  evidence: "ད་ནི་ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ་བསྟན་པའི་ཕྱིར་དེ་ཅིའི་སླད་དུ་ཞེ་ན་ཞེས་དྲིས་ཏེ"
+- segment: 419
+  row: 258
+  evidence: "དེ་འདུ་ཤེས་མེད་པར་དེ་བཞིན་གཤེགས་པ་གསུངས་ཞེས་བྱ་བ་ནི་འདིར་གཏན་ཚིགས་སུ་གསུངས་སོ"
+- segment: 420
+  row: 258
+  evidence: "དོན་དམ་པར་དེ་འདུ་ཤེས་མེད་པའོ། །དེ་བཞིན་གཤེགས་པས་ཀུན་རྫོབ་ལ་བརྟེན་ནས་ཕྱོགས་གཞན་དུ་གསུངས་སོ"
+- segment: 424
+  row: 261
+  evidence: "ཚིགས་སུ་བཅད་པ་འདིས་ནི་འདུས་བྱས་ཀྱི་མཚན་ཉིད་རྣམ་པ་བཞི་ཡོངས་སུ་བསྟན་ཏེ ... སྐར་མ་ལྟར་བལྟ་བར་བྱ་སྟེ"
+- segment: 425
+  row: null
+  evidence: "closing assembly's rejoicing is not commented; rows 261-264 cover only the verse and the commentary's own colophon"
+- segment: 426
+  row: null
+  evidence: "praise of the Blessed One's words is not commented anywhere in rows 260-264"
+- segment: 427
+  row: null
+  evidence: "row 261 match ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལུས་མཐའ་དག is not the sūtra title; row 264 colophon names only the commentary (དབུ་མའི་ཚུལ་དུ་རྒྱ་ཆེར་འགྲེལ་པ)"

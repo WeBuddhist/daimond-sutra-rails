@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Translations/lzh-vajracchedika.md",
+  "validated_at": "2026-10-04T09:38:15.177331+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Translations/bo-vajracchedika.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://cbetaonline.dila.edu.tw/zh/T0235_001'",
+    "toc: 14 headers found"
+  ],
+  "warnings": [
+    "translator 'Kumārajīva': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "lzh": "金剛般若波羅蜜經"
+    },
+    "alt_titles": [
+      {
+        "lzh": "金剛經"
+      }
+    ],
+    "language": "lzh",
+    "commentary_of": null,
+    "translation_of": "LHLu9gwHglREXXgehSJZ9",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

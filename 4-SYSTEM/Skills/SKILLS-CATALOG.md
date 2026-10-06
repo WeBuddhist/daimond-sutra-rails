@@ -43,7 +43,7 @@ Brings one raw OCR or segmentation file into `1-SOURCES/` as a cleaned, frontmat
 → [`raw-to-sources/SKILL.md`](raw-to-sources/SKILL.md)
 
 ### `aligned-corpus-intake` **[exists]**
-Converts a human-segmented, human-aligned corpus — OpenPecha API downloads and Dzongsar-style Google-Docs exports (Tsadel/Tsadrel line-parallel alignments, sentence segmentations, citation and *sa bcad* TOC docs, numbered alignment references, metadata sheets) — into publishable `1-SOURCES/` root texts, translations and commentaries with headings, block ids and transclusions, plus a lossless annotation sidecar per file. Manifest-driven; a verifier proves no source letter was lost.
+**Purpose:** Converts a human-segmented, human-aligned corpus — OpenPecha API downloads and Dzongsar-style Google-Docs exports (Tsadel/Tsadrel line-parallel alignments, sentence segmentations, citation and *sa bcad* TOC docs, numbered alignment references, metadata sheets) — into publishable `1-SOURCES/` root texts, translations and commentaries with headings, block ids and transclusions, plus a lossless annotation sidecar per file. Manifest-driven; a verifier proves no source letter was lost. **Route B** (`md_rows`) takes the same Docs downloaded as Markdown row-for-row pairs plus CSV metadata and carries every commentary's and translation's row alignment onto the one stored segmentation of the root by letters, without changing any segmentation: TOC first (TOC-doc labels, or a `toc-generate` tree placed at row boundaries), then section ids, then transclusions.
 **Inputs:** raw data in `0-INBOX/raw-data/` and an intake manifest listing each work and its raw files.
 **Outputs:** `1-SOURCES/{Text,Translations,Commentaries}/*.md`, `1-SOURCES/Annotations/*.annotations.json`, an intake report in `0-INBOX/`.
 → [`aligned-corpus-intake/SKILL.md`](aligned-corpus-intake/SKILL.md)
@@ -105,6 +105,12 @@ Finds the inline structural-announcement phrases in a formatted text, wraps the 
 ### `spine-map`
 Builds one commentary's routing index from its own outline nodes onto the canonical spine slots of the root text. Once per commentary, then reused by every claims run.
 → [`spine-map/SKILL.md`](spine-map/SKILL.md)
+
+### `wiki-toc-import` **[exists]**
+**Purpose:** Take a text's table of contents from its proofread Wikisource Index page (or, on request, its Wikipedia article) and apply it to the root, its translations (headings in each file's own language) and any commentary with its own Index page, replacing a missing or over-granular TOC.
+**Inputs:** Wikisource Index page (or Wikipedia) links for the text and its commentaries, and an `aligned-corpus-intake` manifest of row-aligned works.
+**Outputs:** `2-RAILS/Sections/Raw/toc-wikisource/<id>.md` (revision-pinned outline placed on rows, labels per language), the manifest's `toc: {kind: outline}` plus any human-decided `row_splits` / `supplement_rows`, and the rebuilt `1-SOURCES/` files with ids and transclusions regenerated.
+→ [`wiki-toc-import/SKILL.md`](wiki-toc-import/SKILL.md)
 
 ---
 
@@ -216,7 +222,7 @@ The article pipeline: classify each queued term as a standalone subject, section
 **Lock the vocabulary before translating anything that will be published.** A machine or zero-shot output is a first look, not a release candidate.
 
 ### `machine-translate`
-Produces a machine baseline of a block-ID'd source by calling a translation API on small batches. A baseline, never a governed track.
+Produces a machine baseline of a block-ID'd source by calling a translation API on small batches. A baseline, never a governed track. DharmaMitra calls run unlimited and in parallel (`--workers`, several files at once) when `DHARMAMITRA_API_KEY` is in the git-ignored `4-SYSTEM/scripts/.env`; anonymously they share a 400-call daily quota.
 → [`machine-translate/SKILL.md`](machine-translate/SKILL.md)
 
 ### `zeroshot-translate`
@@ -287,8 +293,18 @@ Grades one plan day file against the plan's declared session shape, its groundin
 
 ## 13. Publishing
 
+Order: the root first (`root-text-upload`), then its commentaries (`commentary-upload`) and translations (`translation-upload`) — each needs its parent's `text_id` / `edition_id`. Installed 2026-10-04 from `summary-of-the-perfection-of-wisdom-rails` / `heart-sutra-rails` (the Dzongsar-dolma-bumtsok chain, plus `--alignment transclusion`).
+
+### `root-text-upload` [vault-local]
+Uploads a root text: lint, parse, then create the text, its edition (segmentation = block IDs) and its table of contents. Dry-run by default; `--execute` needs explicit human confirmation. Uses the linter/parser bundled in `translation-upload/scripts/`.
+→ [`root-text-upload/SKILL.md`](root-text-upload/SKILL.md)
+
+### `commentary-upload` [vault-local]
+Uploads a commentary as its own text (`commentary_of` its root): text, edition, table of contents, and an alignment to the root edition derived from its root transclusions. Uses `4-SYSTEM/scripts/linter-commentary/` and `parser-commentary/`. Dry-run by default.
+→ [`commentary-upload/SKILL.md`](commentary-upload/SKILL.md)
+
 ### `translation-upload`
-Uploads a finished translation to the library backend: lint, parse, then create the text, edition, alignment and table of contents. Dry-run by default; `--execute` needs explicit human confirmation every time.
+Uploads a finished translation to the library backend: lint, parse, then create the text, edition, alignment and table of contents. `--alignment transclusion` sends the transclusion-derived pairs for a translation cut differently from its root (here: the Tibetan against the Sanskrit). Dry-run by default; `--execute` needs explicit human confirmation every time.
 → [`translation-upload/SKILL.md`](translation-upload/SKILL.md)
 
 ---
