@@ -34,9 +34,9 @@ line_parity_failures: 0
 style_instruction: "Translate this passage of a Tibetan Buddhist commentary on the Diamond Sūtra (Vajracchedikā Prajñāpāramitā) into clear, accurate English prose. Translate the whole passage completely and in the same order: do not summarise, shorten or omit anything, and keep the same number of lines as the source. Where the commentary quotes or glosses words of the sūtra, keep those quoted words recognisable in the translation. Keep proper names and technical terms in standard Sanskrit transliteration (Subhūti, Tathāgata, Dīpaṃkara, prajñāpāramitā) rather than translating them. Do not add commentary, notes, or explanation of your own."
 rails_used: none
 generated: 2026-10-06
-blocks_translated: 241
+blocks_translated: 264
 blocks_total: 264
-headings_translated: 0
+headings_translated: 44
 note: Machine baseline — not a rails-governed translation. Every line below is raw Google Gemini output (model in the frontmatter), produced in small batches of adjacent blocks under a JSON line schema, with no termbase, no verse-context rails, and no human review. It is a first display translation and a drafting aid only. See `about.md` in this folder.
 status: draft
 ---
@@ -51,13 +51,13 @@ An Extensive Commentary on the Noble Prajñāpāramitā, the Diamond Cutter. ^0-
 
 In the Indian language: Āryaprajñāpāramitāvajracchedikāṭīkā. In the Tibetan language: An Extensive Commentary on the Noble Prajñāpāramitā, the Diamond Cutter. Homage to Mañjuśrīkumārabhūta! Although whatever is renowned to all beings appears clearly before them, she perfectly reveals that they are not found to possess the essence of real entities; she is the stable foundation by which all the Victorious Ones attain the genuine, holy, eternal, and supreme fruit; and she gives birth to all the buddhas abiding in the three times—to her I pay homage with deep devotion! Because familiarizing oneself with her even slightly for but a single instant accumulates vast virtue, and completely eradicates all exceedingly great misdeeds from their very root, therefore, in order to cultivate familiarity with her, having examined the path taught by the gurus, I shall compose this according to the capacity of my intellect. ^0-2
 
-## མདོ་སྡེ་ཇི་ལྟར་འཆད་པའི་ཚུལ་དང་པོར་དགོས་པ་དང་བརྗོད་བྱ་བསྟན་པ། ^1-0
+## First, Showing the Purpose and Subject Matter of the Method of Explaining the Sūtra ^1-0
 
 ![[bo-kamalasila-tika#^1-1]]
 
 Here, one who wishes to explain the sūtra should first state its purpose, in order to engage the listeners in taking it up earnestly and so forth. Without realizing the purpose, intelligent people will not engage in anything at all. Next, in order to show the method for accomplishing the purpose of the sūtra, the subject matter should be stated. A sūtra empty of subject matter does not accomplish the desired purpose, just like words such as 'ten pomegranates'. Next, in order to make that subject matter easy to grasp, the summarized meaning should be stated. Next, in order to understand the summarized meaning, the meaning of the words should be stated. Next, in order to show that the sequence is not contradictory, the connections among the words should be shown. Next, in order to clear away logical contradictions between earlier and later parts, replies to objections should be stated. The procedure is like that. In this regard, the very name of this sūtra, the Diamond Cutter, indicates its subject matter and purpose. Thus, it is the Diamond Cutter in two ways. Because it cuts the subtle afflictive obscurations and cognitive obscurations that are difficult to destroy like a diamond, this indicates that its purpose is the relinquishing of the two obscurations. Alternatively, 'cutter' means it is like a vajra because it resembles the shape of a vajra. A vajra is made thick at its two ends and thin in the middle. Similarly, this prajñāpāramitā also thoroughly teaches as vast the level of action through aspiration at the beginning, and the level of a buddha at the end. By being thin in the middle, it indicates the level of pure extraordinary resolve. Therefore, this is like the shape of a vajra; this indicates that these three levels are its subject matter. ^1-1
 
-## བསྡུས་དོན་བསྟན་པ། ^2-0
+## Showing the Summary ^2-0
 
 ![[bo-kamalasila-tika#^2-1]]
 
@@ -67,9 +67,9 @@ The summarized meaning, in brief, has five aspects. They are as follows: the set
 
 In this regard, the setting is the cause for the sūtra to arise, and that is shown starting from "Thus have I heard" up to "Then the venerable Subhūti". Therefore, it is stated by the authentic compiler in order to inspire trust in himself, and it should be stated for all sūtras. The initiation of the discourse is the connection to the context in order to explain the meaning of the sūtra. Because if spoken out of context, everything would become confused, in order to clear away confusion, the connection to the context should be made in all cases. That is shown by "Then the venerable Subhūti rose from his seat" and so forth. Ensuring the uninterrupted lineage of the buddhas is also shown by that very passage. Since the noble Subhūti knew that this prajñāpāramitā makes the lineage of the buddhas uninterrupted, the elder Subhūti first laid out exactly how the lineage of the buddhas becomes uninterrupted. The characteristics of practice are shown by "How should one who has genuinely entered the bodhisattva vehicle abide?" and so forth. The locus of those characteristics of practice is whichever object a bodhisattva should abide in, practice, and perfectly control the mind in—that is called its locus. That, moreover, is shown starting from "Subhūti, here, one who has genuinely entered the bodhisattva vehicle should think thus, 'I...'" up to the final verse, "A star, a visual aberration," and so forth. These two, the characteristics of practice and its locus, completely show the entirety of a bodhisattva's activities; this is the summarized meaning for now. ^2-2
 
-## ཚིག་གི་དོན་བཤད་པ། ^3-0
+## Explaining the Meaning of the Words ^3-0
 
-### གླེང་གཞི་བཤད་པ། ^3-1-0
+### Explaining the Setting ^3-1-0
 
 ![[bo-kamalasila-tika#^3-1]]
 
@@ -107,7 +107,7 @@ Furthermore, although those who exert themselves in taking orders, such as Śakr
 
 If one asks, 'Why is "Then many monks" mentioned?': It is in order to show that, of however many in number the saṅgha of monks with whom the Blessed One was dwelling in Śrāvastī, not all of them assembled there at the time of teaching the dharma, but rather that 'many'—three or more—assembled there. Furthermore, it was spoken by the compiler in order to generate confidence in others. 'Assembled' merely means drawing near. 'Sat down' refers to sitting on a seat. Because the world mostly establishes the specific preceded by establishing the general, both are mentioned in accordance with worldly convention. Otherwise, by just 'sat down' alone, both would be mentioned. The meaning of the words of the prologue and so forth has been explained. ^3-9
 
-### གླེང་བསླང་བ་དང་སངས་རྒྱས་ཀྱི་གདུང་རྒྱུན་མི་འཆད་པར་བཤད་པ། ^3-2-0
+### Explaining the Initiation of the Discourse and the Uninterrupted Lineage of the Buddha ^3-2-0
 
 ![[bo-kamalasila-tika#^3-10]]
 
@@ -125,7 +125,7 @@ Because He is worthy of being venerated by the entire world, or because He has d
 
 If one asks, 'What is the basis?': Because they are entrusted to spiritual friends through whom they will not be wasted. If one asks, 'What is the thorough attainment of the dharmatā?': Because those benefited bodhisattvas are made to benefit others by means of the dharmatā. If one asks, 'What is the giving of the command?': Because they are entrusted with the command, 'You should benefit other bodhisattvas,' and not without respect. The meaning of the words and so forth of the raising of the topic and making the lineage of the Buddhas uninterrupted has been explained. ^3-13
 
-### སྒྲུབ་པའི་མཚན་ཉིད་བཤད་པ། ^3-3-0
+### Explaining the Characteristics of Practice ^3-3-0
 
 ![[bo-kamalasila-tika#^3-14]]
 
@@ -139,17 +139,17 @@ The characteristic of accomplishment will be explained. In relation to that, 'ho
 
 The vehicle of the bodhisattvas is the bodhisattva vehicle, by which bodhisattvas definitely emerge. That, moreover, is comprised of the ten perfections and the ten bhūmis; 'properly entered into that' means having entered with the minds of aspiration and application. That specific detail is in order to exclude the awakening of śrāvakas and so forth, because if He had said 'properly entered into awakening', since there are three awakenings, it would be understood as other awakenings as well. 'Listening' is a word meaning 'has promised'. The meaning of the words and so forth of the characteristic of accomplishment has been explained. ^3-16
 
-### སྒྲུབ་པའི་མཚན་ཉིད་ཀྱི་གནས་བཤད་པ། ^3-4-0
+### Explaining the Bases of the Characteristics of Practice ^3-4-0
 
-#### མདོར་བསྡུས་ཏེ་བསྟན་པ། ^3-4-1-0
+#### Showing Briefly ^3-4-1-0
 
 ![[bo-kamalasila-tika#^3-17]]
 
 Now, its basis will be explained. If that basis, moreover, is summarized, there are eighteen aspects, as follows: generating the mind; engaging in the perfections; the aspiration to attain the form body; the aspiration to attain the dharma body; the absence of manifest pride regarding the aspiration for distinctions in meditation; pleasing the arising of Buddhas; ripening pure realms; completely ripening sentient beings; freedom from attachment to treatises [concerning] 'for what reason?'; application to destroying the apprehension of the world of sentient beings and the receptacle world as a whole; making offerings and showing reverence to the Tathāgatas; freedom from turning away from joyous effort due to the body and mind being fatigued, from not striving, and from gain and honor, that is, when body and mind are thoroughly fatigued, one does not turn away from having initiated joyous effort; not striving is not initiating it; and desiring gain and honor is influenced by faith, thinking, 'would that others know me, thinking, "this one is endowed with joyous effort!"'—therefore, a bodhisattva should be free from all those and abandon them; being indifferent to suffering; freedom from tasting the flavor of concentration; freedom from the conceptualization thinking 'it is I' at the time of manifest realization; thoroughly seeking instructions; manifest realization; and thoroughly seeking the bhūmi of a Buddha. Those eighteen aspects of the basis are that upon which a bodhisattva should abide, what should be accomplished, and how the mind should be thoroughly controlled. By those bases, three bhūmis are comprised: as follows, by sixteen aspects of the basis, the bhūmi of engaging through devotion; by the single basis of manifest realization, the bhūmi of pure superior intention; and by thoroughly seeking the bhūmi of a Buddha, the bhūmi of a Buddha. Having generated the mind for the sake of the complete nirvāṇa of all sentient beings, thoroughly striving in the perfections generates the aspiration to attain the form body and dharma body of a Tathāgata. Then, one makes the mind free from the hindrances to manifest realization, beginning with manifest pride and so forth, down to finally the conceptualization thinking 'it is I'. Then, one thoroughly seeks instructions in order to manifestly realize. Then, one manifestly realizes. Then, one thoroughly seeks the higher bhūmi of a Buddha. Therefore, the sequence of those is like that. ^3-17
 
-#### རྒྱས་པར་བཤད་པ། ^3-4-2-0
+#### Explaining Extensively ^3-4-2-0
 
-##### སེམས་བསྐྱེད་བཤད་པ། ^3-4-2-1-0
+##### Explaining the Generation of the Mind ^3-4-2-1-0
 
 ![[bo-kamalasila-tika#^3-18]]
 
@@ -215,7 +215,7 @@ If it changes, permanence itself degenerates. Merely by being a cause it does no
 
 Imputing the convention of non-existence to a rabbit's horn and so forth is also due to the cause of merely lacking the capacity to perform a function. By implication, the object to which the convention of existence is imputed is exactly what is capable of performing a function, because existence and non-existence have the characteristic of abiding by mutually excluding each other. If one imputes the name 'entity' even to that which is empty of all capacities of such a kind and is no different from a rabbit's horn and so forth, there is no dispute about names. However, those endowed with understanding of the meaningless assertion state that it is illogical to impute the convention of entity to such a kind of unobservable nature, which is no different from the son of a barren woman and so forth. Therefore, the reason is not unestablished. Because it would absurdly follow that space and so forth are also agents, it is also not inconclusive. Because it exists in what is harmonious with the position, it is also not contradictory. Because there is also no other characteristic of the self, therefore it is similar to the son of a barren woman. As for persons, too, if they perish, it would absurdly follow that they are included exactly within the aggregates, because the aggregates include all conditioned things. But if they do not perish, then at that time, by being dissimilar to the dharmas belonging to the aggregates, they would become exactly another entity from them, and the faults of that have already been stated. Therefore, there is no entity whatsoever that is called inexpressible. Therefore, the lion's roar of the Bhagavan, 'all dharmas are selfless,' terrifies all the herds of tīrthika elephants and is invincible, so there is no need for much. ^3-33
 
-##### ཕ་རོལ་ཕྱིན་པ་ལ་སྦྱོར་བའི་དབང་དུ་མཛད་པ། ^3-4-2-2-0
+##### Regarding the Application to the Perfections ^3-4-2-2-0
 
 ![[bo-kamalasila-tika#^3-34]]
 
@@ -273,7 +273,7 @@ Keeping all those objections in mind—such as, "If that were not so, how could 
 
 Therefore, giving and so forth that abide in non-apprehension, because they arise from correct view, generate extreme faith for the wise, but not otherwise. It is also not asserted that what is to be given and so forth are completely nonexistent—whereby, because of not engaging in giving and so forth, there would be no merit—because they are accepted to exist conventionally. In the state of not being in meditative equipoise, because they are apprehended as illusion-like, it is also not the case that there is no apprehension in all respects. At that time as well, it is posited as non-apprehension arising from resolve. In the state of meditative equipoise, there is solely complete non-apprehension; at that time, engaging in giving and so forth is not accepted, but because actions are performed in the state of initial application or by those who have arisen from equipoise, objections are inappropriate. Because of its great result, this states the extensiveness of the application to the perfections. Because the entities of cause and result are presented conventionally, the extreme of deprecation is also thereby refuted. In three ways, merit is equal to space: because of being all-pervasive, being extensive, and being inexhaustible. Because it generates mundane and supramundane merit, it is all-pervasive; mundane merit is generated by the state of not being in meditative equipoise. Supramundane merit is generated by the state of meditative equipoise. Because it becomes distinguished with superior qualities, it is extensive. Because it will not be completely depleted as long as saṃsāra lasts, it is inexhaustible. ^3-47
 
-##### གཟུགས་སྐུ་ཐོབ་པར་འདུན་པའི་དབང་དུ་མཛད་པ། ^3-4-2-3-0
+##### Regarding the Desire to Obtain the Form Body ^3-4-2-3-0
 
 ![[bo-kamalasila-tika#^3-48]]
 
@@ -291,9 +291,9 @@ The wording "As many as are the excellence of the marks" means that ultimately, 
 
 "As many as are without the excellence of the marks" should be understood as being explained by reversing that. By this, how one who enters meditative equipoise in yoga should accomplish this is taught. This shows how, having abandoned the two extremes, the mind should be firmly held here: "Thus" means that the Tathāgata should be viewed by the marks like a magically emanated Buddha. This clears away the extreme of deprecation, because the Bhagavat's form body is not deprecated conventionally. "Without marks" is to be viewed ultimately, because no marks whatsoever are established. This clears away the extreme of superimposition. By offering prayers in order to obtain the Tathāgata's form body, extensiveness is stated. Because of not apprehending that, it is profound. The basis for aspiring to obtain the form body has been explained. ^3-51
 
-##### ཆོས་སྐུ་ཐོབ་པར་འདུན་པའི་དབང་དུ་མཛད་པ། ^3-4-2-4-0
+##### Regarding the Desire to Obtain the Truth Body ^3-4-2-4-0
 
-###### བཤད་པའི་ཆོས་སྐུ། ^3-4-2-4-1-0
+###### The Truth Body of Explanation ^3-4-2-4-1-0
 
 ![[bo-kamalasila-tika#^3-52]]
 
@@ -355,7 +355,7 @@ The statement "should not be wrongly apprehended" means that one should not appr
 
 Thus, from the Noble Ratnakaraṇḍaka-sūtra as well, it is explained: 'The Bhagavan said, "Venerable Subhūti, if those who know dharma enumerations to be like a raft should abandon even dharmas themselves, what need is there to mention non-dharmas? Whatever dharma is abandoned is neither a dharma nor a non-dharma."' Regarding whatever dharma enumerations, such as sūtras, have the likeness of a raft, it is spoken in that way. The phrase 'even dharmas' is an illustration; therefore, dharmas characterized as form and so forth and the path are apprehended by it. The phrase 'non-dharmas' is also solely an illustration; by it, those entities of non-dharmas such as a self, which are completely imagined by others and taught in contradiction to what is renowned, are also apprehended. Alternatively, because it states dharmas and non-dharmas along with what is to be expressed, there is no fault in subsuming everything. By this, having eliminated distraction, it teaches how the mind should be completely apprehended here. ^3-66
 
-###### རྟོགས་པའི་ཆོས་སྐུ། ^3-4-2-4-2-0
+###### The Truth Body of Realization ^3-4-2-4-2-0
 
 ![[bo-kamalasila-tika#^3-67]]
 
@@ -421,9 +421,9 @@ For that very reason, he intended: "From various other standpoints, 'qualities o
 
 Whatever is taught as "dharmas" because they hold their own and general characteristics, that is common to all entities, so the form body is not taught as the Tathāgata, because it is not that which makes known. Even though it is taught by imputation, the form body does not absurdly follow to be the dharma body, because it is an effect corresponding to the cause of merit. As it is said: "In short, the dharma body of the Victors arises from the collection of exalted wisdom, while the form body of the Buddhas arises from the collection of merit." Therefore, because only the collection of exalted wisdom is the cause of attaining it, it is impossible that it will be attained by the form body; because there is no cause for imputing it, the form body is not called the dharma body. The body of the teaching is the fruit of perfectly pure exalted wisdom, and the body of merit, having the characteristic of a collection, is also the cause of attaining it; thus it is indeed reasonable to teach it as the "collection of dharma" by imputation, so there is no need for a lot of words. Thinking that other bad objections might be distinguished as reasonable or unreasonable by those with wisdom, I have not written them, fearing verbosity. The topic of the aspiration to attain the dharma body has been explained. ^3-82
 
-##### གནས་བཅུ་གཉིས་མི་མཐུན་པ་རྣམ་པ་བཅུ་གཉིས་ཀྱི་གཉེན་པོར་གོ་རིམས་བཞིན་བསྟན་པ། ^3-4-2-5-0
+##### Showing the Twelve Bases in Order as Antidotes to the Twelve Discordant Factors ^3-4-2-5-0
 
-###### མངོན་པའི་ང་རྒྱལ་བསྟན་པ། ^3-4-2-5-1-0
+###### Showing Manifest Pride ^3-4-2-5-1-0
 
 ![[bo-kamalasila-tika#^3-83]]
 
@@ -465,7 +465,7 @@ One who has abandoned the six aspects of afflictions operating in the desire rea
 
 "There is not any dharma called an 'arhat'" means that because it is designated upon the continuum of pristine wisdom that has abandoned such aspects of afflictive obscuration, and because the continuum also exists imputedly, ultimately it does not exist at all; he thought, "It is because it is a superimposition." Now, the noble Subhūti, being a witness himself, in order to make his words worthy of being grasped, expresses himself by way of abiding without afflictions, which is an extraordinary quality, and being an arhat, which is a common quality, and in order to teach exactly the thorough holding of the mind, he said, "I", and so forth. "Without afflictions" is a particular meditative absorption. Furthermore, only arhats who are liberated in both ways enter into meditative absorption in yoga, thinking, "It is not suitable for others to have afflictions arise by focusing on me," and for those who have risen from that, others will not have afflictions arise by focusing on them; those who have the character of abiding by that absence of afflictions are spoken of in this way. This detailed explanation is pleasing. "He would not have prophesied of me" means he thought, "Because the view of self would not have been abandoned at that time, even the fruit of a stream-enterer would be difficult for me to find; so what need is there to even mention abiding without afflictions, which is to be attained by an arhat liberated in both ways?" To the thought, "How should one abide without afflictions?", he said, "He does not abide in anything." "Whoever does not abide by becoming attached in that way, thinking, 'I have attained some conditioned or unconditioned fruit', that very one is said in the tenets to abide without afflictions, and it is not anyone else"—this is the meaning of the words. ^3-92
 
-###### མངོན་པའི་ང་རྒྱལ་མེད་ཀྱང་ཐོས་པ་ཉུང་བ་བསྟན་པ། ^3-4-2-5-2-0
+###### Showing Little Learning Despite the Absence of Manifest Pride ^3-4-2-5-2-0
 
 ![[bo-kamalasila-tika#^3-93]]
 
@@ -479,7 +479,7 @@ One who has abandoned the six aspects of afflictions operating in the desire rea
 
 In order to free those who came to understand thus, thinking, "If ultimately there is nothing to be attained and no attainer, how did the Bhagavan, when he became a bodhisattva, obtain the dharma from the Tathāgata Dīpaṃkara? But if he did not obtain it, then why should those of us who desire to obtain the dharma please the Tathāgatas when they appear?", from the hindrance of having little hearing, he spoke by way of the sixth point: "Do you think that there is any dharma that the Tathāgata obtained from the Tathāgata, the arhat, the perfectly completely awakened Buddha Dīpaṃkara?" Subhūti also, having grasped the previous intention, said, "There is not." That there is no dharma whatsoever obtained as an entity of something to be attained and an attainer ultimately, is just as explained before. It is also because all dharmas are peaceful by nature. Although that is so, it is designated as "obtained" merely with respect to the arising of knowledge in which various collections of words and so forth appear by the power of the Tathāgata. Therefore, thoroughly seeking hearing is fruitful. By this, implicitly, it thoroughly shows that being attached, thinking, "When a bodhisattva thoroughly seeks hearing, they should please Buddhas who have appeared, and after that I will obtain the dharmas of a Buddha," is the discordant class. It also teaches abiding with aspiration and prayer to abandon that. By stating just a portion, "Did he obtain any dharma from Dīpaṃkara?", it turns away all signs of obtaining dharma. By this saying, "There is not any dharma that was obtained," it posits the ultimate of dharmas as ungraspable, and it also teaches entering into meditative absorption in yoga on that and eradicating distraction. It also expresses the profoundness of this point. ^3-95
 
-###### ཐོས་པ་མང་ཡང་དམིགས་པ་ཆུང་ངུ་ཡིད་ལ་བྱེད་པ་བསྒོམ་པ་བསྟན་པ། ^3-4-2-5-3-0
+###### Showing the Cultivation of Mental Engagement with a Lesser Object Despite Much Learning ^3-4-2-5-3-0
 
 ![[bo-kamalasila-tika#^3-96]]
 
@@ -493,7 +493,7 @@ Although those arrays are indeed entirely non-existent, nevertheless, like the a
 
 By this saying, "Therefore, they are called 'arrays of fields'," having refuted the extreme of deprecation, it teaches eradicating distraction, and thoroughly shows the vastness of this point. ^3-98
 
-###### དམིགས་པ་ཆུང་ངུ་མ་ཡིན་པ་ཡིད་ལ་བྱེད་པ་བསྒོམས་ཀྱང་སེམས་ཅན་ཡལ་བར་འདོར་བ་བསྟན་པ། ^3-4-2-5-4-0
+###### Showing the Forsaking of Sentient Beings Despite Cultivating Mental Engagement with a Non-Lesser Object ^3-4-2-5-4-0
 
 ![[bo-kamalasila-tika#^3-99]]
 
@@ -507,7 +507,7 @@ By this saying, "The Tathāgata spoke of it as a non-entity," it posits the ulti
 
 By this saying, "Because it is a non-entity," it teaches eradicating distraction. ^3-101
 
-###### སེམས་ཅན་ཡལ་བར་མི་འདོར་ཡང་ཕྱིའི་བསྟན་བཅོས་་རྗེས་སུ་ཆགས་ཏེ་འཇུག་པ་བསྟན་པ། ^3-4-2-5-5-0
+###### Showing Engagement with Attachment to Outer Treatises Despite Not Forsaking Sentient Beings ^3-4-2-5-5-0
 
 ![[bo-kamalasila-tika#^3-102]]
 
@@ -553,7 +553,7 @@ In order to teach that just as prajñāpāramitā is taught by the Lord by imput
 
 Therefore, the elder Subhūti, intending that ultimately there is no dharma whatsoever taught by the Tathāgata, said, "Lord, there is no dharma whatsoever taught by the Tathāgata." By this, it teaches the subduing of distraction and profundity. ^3-112
 
-###### དངོས་པོའི་མཚན་མ་ཟིལ་གྱིས་མནན་པ་ལ་ཐབས་མི་མཁས་པ་བསྟན་པ། ^3-4-2-5-6-0
+###### Showing Unskillfulness in Means to Overcome the Marks of Entities ^3-4-2-5-6-0
 
 ![[bo-kamalasila-tika#^3-113]]
 
@@ -579,7 +579,7 @@ Thus, having first expressed the receptacle world as solely natureless because i
 
 Therefore, by saying "they are called world systems," having refuted the extreme of deprecation, it teaches the subduing of distraction. ^3-118
 
-###### བསོད་ནམས་ཀྱི་ཚོགས་མ་བསགས་པ་བསྟན་པ། ^3-4-2-5-7-0
+###### Showing the Non-Accumulation of the Collection of Merit ^3-4-2-5-7-0
 
 ![[bo-kamalasila-tika#^3-119]]
 
@@ -589,7 +589,7 @@ Now, whatever bodhisattvas, when making offerings to the Bhagavan due to the gre
 
 Therefore, in order to free them from not having accumulated the collections, concerning the eleventh topic he said, "Subhūti, what do you think?" and so forth. Here, the general summarized meaning is this: when making offerings and doing service to the Tathāgata, one does not view the Tathāgata through the perfection of marks; if one asks, "then how?", it is as ultimate dharmatā. The remaining explanation here accords with the topic of aspiring to attain the form body. Regarding this, one should also not suspect it of being a repetition of words, because previously it was taught to dismantle it at the time of aspiring to attain the form body, whereas now it is taught at the time of making offerings and doing service to the Tathāgata, so they are distinct. Here, by implication, manifest adherence to the form body as the Tathāgata is thoroughly taught as the discordant class, and in order to abandon that, aspiration and making wishing prayers are also taught. By expressing a mere sign, saying "the perfection of marks," the entire form body is thoroughly taught. Saying "they are non-marks" is the ultimate postulation. By "therefore" and so forth, it teaches the subduing of distraction. ^3-120
 
-###### ལེ་ལོ་དང་རྙེད་པ་དང་བཀུར་སྟིས་བསོད་སྙོམས་ཉམས་སུ་མྱོང་བར་བྱེད་པ་བསྟན་པ། ^3-4-2-5-8-0
+###### Showing the Experience of Alms Through Laziness, Gain, and Respect ^3-4-2-5-8-0
 
 ![[bo-kamalasila-tika#^3-121]]
 
@@ -647,7 +647,7 @@ Saying "this is the highest perfection," because this prajñāpāramitā is the 
 
 In order to teach that it is not spoken of as the highest by me alone, but is spoken of as the highest by all Buddhas as well, he said, "whatever highest perfection." By this, it teaches thus: "Since even what is spoken by one Buddha is to be taken as suchness because its meaning is unmistaken, what need is there to mention what is unanimously intended by all Buddhas?" Therefore, if one accomplishes the highest with one's whole being, how will one not become endowed with supreme wonder? This teaching of it as the highest teaches the second occasion for shame: "If this Dharma is thus supreme, for you to remain careless, attached to gain and honor in this way, is very shameful." By this, thoroughly holding the mind is taught. ^3-134
 
-###### སྡུག་བསྔལ་མི་བཟོད་པའི་དབང་དུ་བྱས་ཏེ་བསྟན་པ། ^3-4-2-5-9-0
+###### Showing with Reference to the Inability to Bear Suffering ^3-4-2-5-9-0
 
 ![[bo-kamalasila-tika#^3-135]]
 
@@ -701,7 +701,7 @@ Furthermore, whatever thought wonders, 'What is the difference between one who g
 
 To the thought, "Moreover, if the sun has risen, perhaps they might not see," he said, "when the sun has risen." To the thought, "Even if the sun has risen, if they are in a house or the like that is completely dark, they might not see," he said, "when day has dawned." The expression "when day has dawned" indicates [the dispelling of] darkness; therefore, the meaning is "in a place where there is no darkness." Having suspected the thought, "Even when those are assembled, a blind person would perhaps still not see," he said, "possessing eyes." That is how one should view a bodhisattva who has not fallen into entities. For them, the darkness of ignorance having dawned [i.e., cleared] and the sun of exalted wisdom having risen, they see various objects of knowledge exactly as they authentically are, and because the mistaken entities—the state of all suffering, the suffering which is to be abandoned—are false, they completely abandon them; and desiring the authentic state with the characteristics of unexcelled, completely perfect awakening—the state of all happiness, which is to be adopted—they begin to engage in it. Therefore, it is intended that bodhisattvas, having found the excellence of great resources, their bodies made steadfast by unexcelled happiness, will not turn back from awakening. For that very reason, they will not turn back. Previously, it was taught as "abiding" in that by mere observation. Here, it is "falling" into the characteristic of attachment to that, preceded by observation. Therefore, here "falling" is stated. In the former, "abiding" was stated. By all this, the thorough apprehension of the mind is taught. ^3-147
 
-###### ཡེ་ཤེས་ཀྱི་ཚོགས་མ་བསགས་པའི་དབང་དུ་བྱས་ཏེ་བསྟན་པ། ^3-4-2-5-10-0
+###### Showing with Reference to the Non-Accumulation of the Collection of Wisdom ^3-4-2-5-10-0
 
 ![[bo-kamalasila-tika#^3-148]]
 
@@ -779,7 +779,7 @@ Although this discourse on the Dharma also consists of few chapters, it is extre
 
 Therefore, from this inconceivable one, a result in accordance with the cause and condition will become inconceivable, because the power of the causes and conditions, being omniscience itself, is inconceivable. Here, the word 'maturation' refers to mere result; therefore, results in accordance with the cause and so forth will also be included. By all of this, thoroughly holding the mind is taught. ^3-166
 
-###### བདག་ཏུ་རབ་ཏུ་འཛིན་པ་བསྟན་པ། ^3-4-2-5-11-0
+###### Showing Strong Grasping to a Self ^3-4-2-5-11-0
 
 ![[bo-kamalasila-tika#^3-167]]
 
@@ -789,7 +789,7 @@ Thus, although the tasting of the flavor of dhyāna has been cleared away, when 
 
 By saying here, "Subhūti, because there does not exist at all any dharma called 'one who has rightly entered the bodhisattva vehicle'," by this addition he separates them from the apprehension of a self. The explanation of the rest is like before. Regarding what was said: "If this selflessness of persons and dharmas was earlier rightly and thoroughly explained by the Bhagavan, even though it has been so explained, how can the bodhisattva's apprehension of a self arise later at the time of clear realization? Why is it that, in order to clarify that, what has already been taught is taught again and again? However, if even after being taught thus they become completely bewildered, in that case, what was explained above would become endless"—although it has been taught thus, from beginningless time, by the power of having extremely firmly and manifestly adhered to a self, the complete bewilderment of some is not immediately reversed, so the meaning that has already been taught is taught again. By the very teaching of it again, because the complete bewilderment of the retinues at that time is reversed, it does not become endless. The result of the Bhagavan's teaching is reversing the complete bewilderment of the people to be tamed, so it is not without result. Therefore, when complete bewilderment has been reversed, since he does not engage [in teaching] again because it would be without result, this is weak. ^3-168
 
-###### གདམས་ངག་དང་མི་ལྡན་པ་བསྟན་པ། ^3-4-2-5-12-0
+###### Showing Being Devoid of Instructions ^3-4-2-5-12-0
 
 ![[bo-kamalasila-tika#^3-169]]
 
@@ -815,7 +815,7 @@ Regarding the thought, "Why is it not said that he manifestly and completely awa
 
 Regarding the thought, "If these dharmas are exclusively unarisen, well then, how can they be called 'all dharmas'?", he spoke the words, "Subhūti, what is called 'all dharmas'..." and so forth. Here the meaning is this: this is not a convention designated because they exist ultimately, but rather, although form and so forth do not ultimately exist as dharmas, because they bear their own and general characteristics in reliance on the unexamined non-ultimate, they are therefore called "all dharmas." Ultimately they are not, because for one abiding in that, even though everything is seen, all conventions are non-existent. By this, the suppression of distraction is taught. ^3-174
 
-##### མངོན་པར་རྟོགས་པ་བསྟན་པ། ^3-4-2-6-0
+##### Showing Clear Realization ^3-4-2-6-0
 
 ![[bo-kamalasila-tika#^3-175]]
 
@@ -833,13 +833,13 @@ By thoroughly expressing merely the sign "possessed of a body and a great body",
 
 By this, it teaches that whoever thinks thus, "I will thoroughly lead sentient beings beyond sorrow," or thinks, "I am a bodhisattva," possesses the pride of superiority and in the genuine sense is not a bodhisattva. The words "Why is that?" are a thorough inquiry here into the logical reason that makes this known. What is called "dharma" is the nature of form and so forth, or the nature of persons and so forth. The noble Subhūti, because that dharma is not seen when analyzed by reasoning, stated the words, "that does not exist". Because that reasoning is common to all, the Bhagavān, in order to induce entry into both selflessnesses, spoke the words, "Therefore...". The words "No sentient being..." and so forth are illustrative; they should also be viewed as being without nature. By this, the suppression of distraction is taught. Clear realization has been explained. ^3-178
 
-##### སངས་རྒྱས་ཀྱ་ས་ཡོངས་སུ་བཙལ་བ་བསྟན་པ། ^3-4-2-7-0
+##### Showing the Thorough Seeking of the Buddha Ground ^3-4-2-7-0
 
 ![[bo-kamalasila-tika#^3-179]]
 
 From here on is the thorough seeking of the Buddha. Furthermore, that of the Buddha is thoroughly subsumed by seven excellences. The seven excellences are the excellence of the thoroughly pure field, the excellence of thoroughly pure unsurpassable seeing, the excellence of thoroughly pure unsurpassable knowing, the excellence of gaining mastery over the accumulation of merit, the excellence of body, the excellence of speech, and the excellence of mind. ^3-179
 
-###### ཞིང་ཡོངས་སུ་དག་པ་ཕུན་སུམ་ཚོགས་པ། ^3-4-2-7-1-0
+###### The Excellence of the Complete Purity of the Field ^3-4-2-7-1-0
 
 ![[bo-kamalasila-tika#^3-180]]
 
@@ -849,7 +849,7 @@ Here, in order to clear away the doubt thinking, "If there is no dharma whatsoev
 
 Regarding the thought, "What sort of [person] is called a bodhisattva?", he spoke the words, "Subhūti, whatever bodhisattva..." and so forth. Saying twice the words "dharmas are selfless" teaches that dharmas are selfless through the two kinds of selflessness. Saying twice the words "bodhisattva, being" teaches the realization of those very two kinds of selflessness. Alternatively, one [of the phrases] "he is a bodhisattva" is repeated. The latter, the words "is called a bodhisattva", is the method. If one asks, "Then what is being taught?", it teaches the words, "He is called a bodhisattva because of comprehending both of those non-existences: the absence of apprehending persons and so forth, thinking 'Who will accomplish [it]?', and also the absence of apprehending as dharmas the 'arrays of fields'." By this, thoroughly restraining the mind is taught. By this entire point, profundity is taught. By teaching that bodhisattvas engage with it by resolving in order to accomplish that illusion-like buddha-field, extensiveness is expressed. ^3-181
 
-###### གཟིགས་པ་བླ་ན་མེད་པ་ཡོངས་སུ་དག་པ་ཕུན་སུམ་ཚོགས་པ། ^3-4-2-7-2-0
+###### The Excellence of the Complete Purity of Unsurpassed Vision ^3-4-2-7-2-0
 
 ![[bo-kamalasila-tika#^3-182]]
 
@@ -863,7 +863,7 @@ Therefore, for the sake of whoever in the gathered assembly conceptualizes thus,
 
 He possesses the eye of prajñā regarding the object that is the selflessness of persons and dharmas. The person is empty because conventionally it is merely appearing as dharmas but is not a person; regarding the object of mere dharmas is the eye of dharma. Knowing all objects of knowledge in all aspects is called the eye of the Buddha. By this, by teaching the five eyes in genuine conventionality because he dwells directly actualizing [them] now, thoroughly pure seeing is expressed. ^3-184
 
-###### མཁྱེན་པ་བླ་ན་མེད་པ་ཡོངས་སུ་དག་པ་ཕུན་སུམ་ཚོགས་པ། ^3-4-2-7-3-0
+###### The Excellence of the Complete Purity of Unsurpassed Knowledge ^3-4-2-7-3-0
 
 ![[bo-kamalasila-tika#^3-185]]
 
@@ -881,7 +881,7 @@ The fleshly eye and so forth are themselves unapprehendable when analyzed by the
 
 Even though they are without nature, it is spoken based on conventionality; for that very reason, he spoke the words, 'it is called the stream of mind'. The intention is the thought that, were it otherwise, ultimately it would not be expressed because it is beyond all spheres of expression. Mentioning 'stream of mind' is an illustration; this is the occasion to express the words 'the fleshly eye and so forth are also taught as lacking the nature of an eye', which is stated directly. In order to teach how the mind should be thoroughly restrained regarding this, the question 'Why is that?' was asked, connecting to the words, 'there is no stream'. Because the past mind and so forth are ultimately unarisen, they are unapprehendable, but it is not that they are unapprehendable because it is invalid to apprehend them even though they exist. If that were so, it would not be taught that there is no stream of mind, because merely being unapprehendable does not make entities lack a nature. How the minds of the three times do not exist ultimately has been explained before and will also be taught. Mentioning 'mind' is an illustration; therefore, the past and so forth of the fleshly eye and so forth are also unapprehendable. Here, by the words 'there is no stream' and so forth, profundity is expressed. By the remainder, extensiveness. ^3-188
 
-###### བསོད་ནམས་ཀྱི་ཕུང་པོ་ལ་མངའ་བ་ཕུན་སུམ་ཚོགས་པ། ^3-4-2-7-4-0
+###### The Excellence of Possessing the Heap of Merit ^3-4-2-7-4-0
 
 ![[bo-kamalasila-tika#^3-189]]
 
@@ -903,7 +903,7 @@ Having investigated the thought, "Why is the aggregate of merit not posited as e
 
 The words "the Tathāgata would not speak" are because ultimately expression does not apply; the intention is the thought, "Even without being taught, it would be renowned like that." How the aggregate of merit does not exist ultimately has already been taught previously. By this, both how a bodhisattva who has engaged in order to accomplish the excellence of possessing the Tathāgata's aggregate of merit should accomplish it by engaging in meditative equipoise in yoga through not apprehending it ultimately, and how the mind should be thoroughly restrained by abandoning adherence to apprehending it ultimately, are taught; profundity is also expressed. ^3-193
 
-###### སྐུ་ཕུན་སུམ་ཚོགས་པ། ^3-4-2-7-5-0
+###### The Excellence of the Body ^3-4-2-7-5-0
 
 ![[bo-kamalasila-tika#^3-194]]
 
@@ -925,7 +925,7 @@ Thinking, "Then how is the form body of the Tathāgatas taught?", he asked, "Why
 
 If one should not view the Tathāgata by the thorough establishment of a form body, at that time the teaching of the Bhagavān would also not exist, because that is subsumed by the form body. ^3-198
 
-###### གསུང་ཕུན་སུམ་ཚོགས་པ། ^3-4-2-7-6-0
+###### The Excellence of Speech ^3-4-2-7-6-0
 
 ![[bo-kamalasila-tika#^3-199]]
 
@@ -943,13 +943,13 @@ Thinking, "If those three, the teaching and so forth, do not exist, how are thes
 
 Therefore, because there is no following along, it is also illogical for a specific characteristic to be expressed. If a general entity is also accepted as that which is to be expressed, because it becomes the nature of that which is to be expressed, because it is the nature of a specific characteristic, it indeed does not go to other objects. It is also illogical for a single thing to pervade many manifestations that are individually distinct regarding object, time, and so forth. Like this: if its entire identity is complete in one manifestation, at that time, through whatever thoroughly conceptualizes its nature in that one alone, there does not exist in it another nature related to other manifestations that would permeate others, because its singleness would be impaired. If it pervades by a part, it would result in the faults of possessing parts and of not being apprehended. Like that, if it is apprehended in accordance with positing that it pervades however many distinct manifestations by a part of it, although it might be suitable to apprehend it because apprehending in one manifestation is apprehending a part, in those individually distinct manifestations of age, object, time, and so forth, because apprehending from one manifestation is apprehending a part, since there is no simultaneous apprehension, it would indeed become devoid of conception. Therefore, that which is to be expressed and the expression are logical only as the nature of an imputed aspect, but ultimately they are not. Because of that very reason, the Bhagavān stated elsewhere: 'By whatever names, whatever phenomena are expressed, they do not exist in that; that is the reality of phenomena.' Because the teaching is also false, whatever taught the existence of the thing to be taught and the teacher from that approach is indeed cleared away because that too comes from that approach, so the Bhagavān did not state separately that both of them do not exist. By this, how a bodhisattva should accomplish it and how the mind should be thoroughly controlled is taught. By all this, the profound is taught. ^3-202
 
-###### ཐུགས་ཕུན་སུམ་ཚོགས་པ། ^3-4-2-7-7-0
+###### The Excellence of Mind ^3-4-2-7-7-0
 
 ![[bo-kamalasila-tika#^3-203]]
 
 The excellence of mind is seven distinct aspects: the close placement of mindfulness, manifest perfect awakening, designating the Dharma as having great meaning, designating the instruction as having great meaning, thoroughly apprehending the dharmakāya, not abiding in nirvāṇa and saṃsāra, and perfectly pure abiding. ^3-203
 
-###### **དྲན་པ་ཉེ་བར་གཞག་པ།** ^3-4-2-7-7-1-0
+###### Close Placement of Mindfulness ^3-4-2-7-7-1-0
 
 ![[bo-kamalasila-tika#^3-204]]
 
@@ -967,7 +967,7 @@ As for "because they were stated as not being sentient beings", ultimately senti
 
 In reliance upon the existence of the nature of the aggregates abiding conventionally, they are stated; therefore, because they conventionally exist, they are called "sentient beings". If that were not so, if they did not exist even conventionally, they would not be spoken of. By this, thoroughly controlling the mind is taught. By all this, the profound is expressed. Because the Bhagavān taught the close placement of mindfulness as unobstructed towards all sentient beings, the extensive is taught. ^3-207
 
-###### **མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ།** ^3-4-2-7-7-2-0
+###### Complete and Perfect Awakening ^3-4-2-7-7-2-0
 
 ![[bo-kamalasila-tika#^3-208]]
 
@@ -1001,7 +1001,7 @@ Regarding the thought, 'If, because they do not exist, not even the slightest dh
 
 Because they exist conventionally, he stated 'wholesome dharmas'; therefore, there is no fault in saying that one manifestly perfectly awakens by wholesome dharmas. By this, thoroughly holding the mind is taught, because it removes the distraction of apprehending the extremes of superimposition and deprecation. By all these points, the profound is taught. By thoroughly expressing the own nature of perfectly complete awakening, which is the nature of realizing the selflessness of persons and dharmas without remainder, the extensive is also taught. ^3-215
 
-###### **ཆོས་དོན་ཆེན་པོར་གདགས་པ།** ^3-4-2-7-7-3-0
+###### Designating the Dharma as a Great Purpose ^3-4-2-7-7-3-0
 
 ![[bo-kamalasila-tika#^3-216]]
 
@@ -1011,7 +1011,7 @@ Regarding the thought, "How is that perfectly complete awakening of the Bhagavā
 
 As for "Sumeru, king of mountains," it is an illustration; whatever merit there is from giving having completely filled infinite world systems with precious things, that too simply does not bear comparison. As for "from this prajñāpāramitā," because it does not thoroughly express merely a mark, it illustrates all dharmas of the Great Vehicle. The word "up to" includes "a thousandth part," "a hundred thousandth part," and "even as an example and cause." Thus, by the reason of designating the Dharma as having great meaning, the Bhagavān's consummate mind is known as the unexcelled nature of perfectly complete awakening, because without such a perfectly complete awakening, such a Dharma could not be explained. Therefore, in order to accomplish such a consummate mind through aspiration and prayer, one should abide; by all this, how a bodhisattva should abide is taught, and by this very thing the extensive is also expressed. That perfect awakening is also to be viewed as the nature of the authentic conventional, but not ultimately, because it was explained previously. Although not stated directly, by implication, meditative absorption in yoga, thoroughly holding the mind, and the profound are also taught. ^3-217
 
-###### **གདམས་ངག་དོན་ཆེན་པོར་གདགས་པ།** ^3-4-2-7-7-4-0
+###### Designating the Instructions as a Great Purpose ^3-4-2-7-7-4-0
 
 ![[bo-kamalasila-tika#^3-218]]
 
@@ -1033,7 +1033,7 @@ Regarding the thought, "Even though it is selfless, is there not the apprehensio
 
 It does not become true merely by that, but it would absurdly follow: why would one not apprehend a self and so forth as true even through the application of words like "selflessness"? Regarding the thought, "If there is no self, who is called 'ordinary beings'?", he stated, "Childish ordinary beings," and so forth. Ultimately, beings are completely non-existent; because it was stated relying on the conventional, there is no fault. By all this, because the extremes of exaggeration and deprecation are eliminated, thoroughly holding the mind is taught. By all this, the profound itself is expressed directly; teaching [this] as the cause of designating the instruction as having great meaning with respect to the entire realm of sentient beings also teaches the extensive consummate mind. ^3-222
 
-###### **ཆོས་ཀྱི་སྐུ་ཡོངས་སུ་འཛིན་པ།** ^3-4-2-7-7-5-0
+###### Completely Upholding the Dharmakāya ^3-4-2-7-7-5-0
 
 ![[bo-kamalasila-tika#^3-223]]
 
@@ -1059,7 +1059,7 @@ Because it exists thus at all times, it is tathatā. Because, focusing on it, al
 
 To abandon the doubt of whoever thinks, 'Even though the Tathāgata is not of the nature of perfect marks, it is logical that the defining characteristic of the Tathāgata's unexcelled, perfectly complete awakening arises from the cause of perfect marks, because thus, when he had become a bodhisattva, sign-readers, having seen him as possessing perfect marks, prophesied that the Bhagavān would attain unexcelled, perfectly complete awakening,' he stated, 'Subhūti, what do you think about this?' and so forth. The intention is: 'If perfect marks were to become the cause of unexcelled, perfectly complete awakening, then at that time a wheel-turning monarch would also become so.' Sign-readers, having seen such a kind of mark, prophesied it, but it is not the cause, so there is no fault. By this, thoroughly apprehending the mind is taught. By all these points, profoundness itself is taught. By teaching the defining characteristic of the Tathāgata's exalted wisdom conventionally realizing the nature of all entities without exception, extensiveness is also taught. ^3-228
 
-###### **མྱ་ངན་ལས་འདས་པ་དང་འཁོར་བ་ལ་མི་གནས་པ།** ^3-4-2-7-7-6-0
+###### Non-Abiding in Nirvāṇa and Saṃsāra ^3-4-2-7-7-6-0
 
 ![[bo-kamalasila-tika#^3-229]]
 
@@ -1095,94 +1095,94 @@ By this, whoever, even though having generated a heap of merit, apprehends the h
 
 ![[bo-kamalasila-tika#^3-237]]
 
-*[not yet translated]* ^3-237
+To dispel the conceptualizations of others, the noble Subhūti, as if not having grasped the intention, expresses a contradiction, saying, 'Should it not be grasped?' His thought is this: 'The Bhagavān has said in various sūtras that a bodhisattva should grasp the heap of merit. If here he says it is not to be grasped, how would it not be a contradiction?' To teach the intention by which both were spoken, the Bhagavān also said, 'It is indeed to be grasped.' Whatever was spoken of as 'grasped' is the way of grasping characterized by accomplishment. Here, the characteristic of wrong apprehension is eliminated, so there is no contradiction. Wrong apprehension is apprehending the wrong path. By this, abandoning that conceptualization teaches the thorough holding of the mind. Furthermore, beginning with 'Subhūti, whatever son of noble family or daughter of noble family...', the extensive is taught. By the rest of the preceding, the profound was taught. By all these points, having negated the extremes of permanence and annihilation, the middle path is expressed. Not abiding in saṃsāra and nirvāṇa has been explained. ^3-237
 
-###### **བཞུགས་པ་ཡོངས་སུ་དག་པ།** ^3-4-2-7-7-7-0
+###### Completely Pure Abiding ^3-4-2-7-7-7-0
 
 ![[bo-kamalasila-tika#^3-238]]
 
-*[not yet translated]* ^3-238
+Completely pure abiding will be explained. That, too, is divided into three aspects: abiding through deportment, abiding by having mastery over the world of the vessel and sentient beings, and abiding by not having afflictions. ^3-238
 
 ![[bo-kamalasila-tika#^3-239]]
 
-*[not yet translated]* ^3-239
+Regarding that, if the Buddha is to be seen as the dharmakāya and not as the rūpakāya, then how would this not contradict what is well-known from scripture regarding the Bhagavān's four deportments, taking birth, going forth, and so forth? For the sake of those who think thus, having made reference to abiding through deportment, which is the excellence of abiding, it is said, 'Furthermore, Subhūti, if someone...', and so forth. By the two terms 'goes' or 'comes', walking is taught. The remaining ones teach the deportments of standing and so forth in their respective order. The teaching of deportments is merely an illustration; therefore, taking birth and so forth are also to be seen as taught here. Whoever adheres entirely literally to what is fully expressed in the scriptures regarding the Bhagavān's deportments and so forth, because of adhering in an inverted way, does not know the meaning of what the Tathāgata has spoken. The Bhagavān is not differentiated by the form body; he is completely pure pristine wisdom. Because that pristine wisdom is bodiless, going and so forth are impossible for it even conventionally. Because going and so forth are differentiated by the specific states of the aggregate of form, those are spoken of in dependence on the emanation body of the Bhagavān; they are not in dependence on the body of pristine wisdom, because going and so forth are impossible for it conventionally and ultimately. Therefore, it is taught that a bodhisattva should abide with aspiration and prayer toward such an excellence of abiding through deportment. Having considered the thought of those who think, 'If going and so forth are not present in the Tathāgata, how is the term "Tathāgata" taught as if differentiated by going?', it says, 'Why is that?', which should be connected with the statement, 'They do not know the meaning of what I have explained.' ^3-239
 
 ![[bo-kamalasila-tika#^3-240]]
 
-*[not yet translated]* ^3-240
+Here, in response, it is said, 'Tathāgata,' and so forth. Thinking thus, this expression is not differentiated by going, but is differentiated by realization, because the word 'going' has the meaning of realization. Because he has realized and understood the suchness of entities just as they abide, he is the Tathāgata. Alternatively, because he too has known and understood the suchness of entities just as the previous Buddhas understood it un-invertedly, he is the Tathāgata. Moreover, in correct relative truth it is suitable as the very body of pristine wisdom, because there is no conceptualization regarding anything else. Because that, too, is bodiless, going anywhere and so forth is impossible even conventionally. Ultimately, because it is unarisen, it is utterly impossible. Therefore, because he has understood the nature of entities, he becomes the foremost of the entire world, and being worthy of offerings, he is called an arhat. ^3-240
 
 ![[bo-kamalasila-tika#^3-241]]
 
-*[not yet translated]* ^3-241
+Because he has perfectly and completely understood, he is called a perfectly and completely awakened Buddha. If it were not so, because the form body is of the nature of insentient matter, he would not be called that; such is the intention. By this, entering evenly into yoga and the thorough holding of the mind are taught. By all these points, the profound is taught. By teaching that, conventionally, in dependence on the emanation body of the Tathāgata, going and so forth are unobstructed in infinite world realms, the extensive is also taught. To teach that whatever is the emanation form body of the Tathāgata and whatever is the mental-nature body are also devoid of the nature of one and many, and thus are false just like a magically emanated Buddha, having made reference to abiding by dismantling the world of the vessel and sentient beings, it is said, 'Furthermore, Subhūti...', and so forth. Previously, it was taught that a bodhisattva on the level of action through zealous application dismantles that, whereas now, by teaching the abiding of the Bhagavān on the level of a Buddha, it does not become repetitious. Here, too, by realizing through two methods that it is devoid of the nature of one and many, selflessness is taught. ^3-241
 
 ![[bo-kamalasila-tika#^3-242]]
 
-*[not yet translated]* ^3-242
+By the statement, 'Suppose, for example, it were reduced to powder like a collection of infinitesimal particles', having realized that it is devoid of a singular nature, the method of making it subtle is taught; here, too, the explanation is just as before. ^3-242
 
 ![[bo-kamalasila-tika#^3-243]]
 
-*[not yet translated]* ^3-243
+To someone who thinks, 'Since infinitesimal particles have different directional parts, are they not unestablished? How could they become a collection?', it is asked, 'For what reason?', and in response, 'Bhagavān, if...' is stated. Thinking thus: 'That collection which is analytically divided into infinitesimal particles merely as a method for reversing the apprehension of it as singular, was spoken of by the Bhagavān, but it is not that it ultimately abides. If it were not so, since a collection of infinitesimal particles would be manifestly well-known to everyone, the Bhagavān would therefore not have declared "a collection of infinitesimal particles"; because even without his speaking, it would be well-known as such.' By this, it is taught that one should abide with aspiration and prayer toward such an abiding by dismantling the form of the Tathāgata. ^3-243
 
 ![[bo-kamalasila-tika#^3-244]]
 
-*[not yet translated]* ^3-244
+Having considered the thought of someone who thinks, 'If the collection does not exist, why did the Bhagavān ask, "Would that collection of infinitesimal particles be large?"', he stated, 'Why is that?'. The words 'that is not a collection' mean that since those infinitesimal particles which abide through the analytical division of directions such as east and north are not established by nature, in reality they are not suitable to be a collection. ^3-244
 
 ![[bo-kamalasila-tika#^3-245]]
 
-*[not yet translated]* ^3-245
+It is merely spoken in order to dispel the apprehension of it as singular; therefore, it is called a collection of infinitesimal particles. If they do not have different directional parts, infinitesimal particles would not be surrounded by other infinitesimal particles from different directions, such as beyond and near, and above and below. Therefore, they would not become extensive, just like mind and mental factors and so forth. It is not suitable to state that the parts themselves become infinitesimal particles, because the analysis applies equally to them. If you say, 'Even if they do, there is no end,' it is not suitable: if infinitesimal particles become of an endless nature, what have you established? An endless nature is not established as an entity; therefore, our own assertion is established. Since we do not arbitrarily assert the nature of multiple aspects of particles, we state, 'If infinitesimal particles have no end, by what are they established?' Since you accept that whatever you posit as the partless nature of infinitesimal particles abides in different directions such as east and north, you have accepted that they have different directional parts, and therefore, it absurdly follows that they have parts. Therefore, in order to prove the absurd consequence, the basis of the reason is unestablished. It is not that it is inconclusive due to mind and mental factors either, because since they are bodiless they do not abide in directions; they do not abide by directions such as east and north. Therefore, it is taught, 'It is not the eye, it is not in form, nor does it abide between those two; wherever it abides, it is neither existent nor non-existent,' and so enough with absurd consequences. By this, because it teaches the method of making it unapparent having understood that it is devoid of a multiple nature, entering evenly into yoga and the thorough holding of the mind are taught. By the statement, 'That collection of infinitesimal particles would be large', the extensive is taught. By the rest, the profound is taught. ^3-245
 
 ![[bo-kamalasila-tika#^3-246]]
 
-*[not yet translated]* ^3-246
+Now, making reference to abiding by dismantling the world of sentient beings, he stated, 'that which was spoken of as the trichiliocosm, the great chiliocosm,' and so forth. Since the world of the vessel has already been explained previously, here 'world realm' is asserted to be the world of sentient beings. The mention of 'trichiliocosm, the great chiliocosm' for both indicates infinite world realms. Therefore, the statement, 'the Tathāgata spoke of that as not a realm', is explained just as before, because that world of sentient beings, the nature of the five aggregates, is also devoid of the nature of one and many. By this, it is taught that a bodhisattva should abide with aspiration and prayer toward such an abiding by dismantling the Tathāgata's world of sentient beings. By making it unapparent, how this entering evenly into yoga is to be accomplished is also taught. Now, in order to teach how the mind is to be thoroughly held, it is asked, 'Why is that?', which connects with 'the Tathāgata spoke of that as not a realm'. ^3-246
 
 ![[bo-kamalasila-tika#^3-247]]
 
-*[not yet translated]* ^3-247
+In response, he stated, 'Bhagavān, if...' and so forth. If the world of sentient beings, just as it is well-known, were ultimately to become the nature of a single coarse entity, then, since the Tathāgata realizes the reality of entities just as they abide, he would apprehend that very thing as a mass. Therefore, since the cause of apprehending a self is merely the apprehension of the nature of the aggregates as a mass, that very thing would become a firm apprehension as a mass for the Tathāgata, implying that he has not abandoned it. But it is not so. Therefore, that apprehension as a mass which the Bhagavān spoke of elsewhere to childish ordinary beings as the cause of apprehending a self ultimately does not exist as an apprehension, because the apprehended mass has no nature whatsoever of either one or many. ^3-247
 
 ![[bo-kamalasila-tika#^3-248]]
 
-*[not yet translated]* ^3-248
+It is merely spoken conventionally in the nature of what is well-known to childish ordinary beings; therefore, it is called 'apprehension as a mass'. In order to establish that point, the Bhagavān stated, 'the meaning of apprehension as a mass'. ^3-248
 
 ![[bo-kamalasila-tika#^3-249]]
 
-*[not yet translated]* ^3-249
+What does it teach? It teaches that since what is conventionally called 'apprehension as a mass' is ultimately non-existent, that phenomenon is inexpressible. Having considered the thought, 'If an apprehended mass does not exist in that way, then at that time the apprehension of it does not exist either, so how can one conventionally speak of 'apprehension as a mass'?', he stated, 'that too is grasped by childish ordinary beings'. His thought is that since childish beings, through the power of delusion, apprehend even what does not exist as existent, the convention is designated by the power of their thinking, and so there is no contradiction. Therefore, they are called 'childish ones'; if it were not so, then since the convention would be designated in accordance with the actual entities, how could they become childish ones? Here, how the mind is to be thoroughly held has already been taught. The extensive and the profound are also to be applied here just as before. By this, it is taught that when all entities are ultimately empty of nature, at that time how could the Tathāgata's form body and wisdom body ultimately become a nature and a thought? It is because the root, sentient beings, do not exist. Now, by 'Subhūti, whoever...' and so forth, because one comes to enter evenly into yoga in all situations, the method by which one is to be placed in equipoise in all things is taught. The connection is applied like this: if apprehension as a mass does not exist, then at that time the view of the transitory collection which arises from it as a root is itself non-existent; therefore, considering the thought, 'How did the Bhagavān speak of the view of the transitory collection out of the five views?', for the sake of that he stated, 'Subhūti, whoever...' and so forth. Here, by teaching how it is to be made non-conceptual, who makes it non-conceptual, upon what it is to be made non-conceptual, by what it is made non-conceptual, and what the non-conceptual is, the method of entering evenly into yoga is perfectly taught. Here, starting from 'Subhūti, whoever...' up to 'therefore it is called 'the view of a self'', by this, how it is to be made non-conceptual is taught. How so? The others, the tīrthikas, explain it as a self, but since the Bhagavān posits selflessness in persons, in order to negate a self, he spoke of 'the view of a self'. ^3-249
 
 ![[bo-kamalasila-tika#^3-250]]
 
-*[not yet translated]* ^3-250
+By dismantling that view of a self, selflessness in phenomena is posited; he stated, 'the Tathāgata spoke of that as not a view'. If one does not apprehend that view of a self as reality itself, when applying oneself in that way, a bodhisattva will enter evenly into yoga; because it is non-conceptual, therefore that is the method of entering into it. ^3-250
 
 ![[bo-kamalasila-tika#^3-251]]
 
-*[not yet translated]* ^3-251
+By this saying, 'Subhūti, those who have perfectly entered the bodhisattva vehicle in this way', it completely teaches who makes it non-conceptual. By this saying, 'all phenomena', it teaches upon what it is to be made non-conceptual. By this saying, 'should be known, should be seen, should be resolved upon', it states by what it is to be made non-conceptual. If one asks, 'By what is it to be made non-conceptual?', it is by knowing, by seeing, and by resolving. Here, knowing is the prajñā of hearing. Seeing is the prajñā of reflection, because it causes realization. Resolving is the prajñā of meditation; intense desire is intended to be expressed here by the word 'resolving'. That is accomplished by the power of meditation; therefore, the prajñā arising from meditation, at the stage of the aids to penetration, is spoken of by the word 'resolving'. ^3-251
 
 ![[bo-kamalasila-tika#^3-252]]
 
-*[not yet translated]* ^3-252
+'One should resolve in such a way that one does not abide even in the perception of a phenomenon' teaches what the non-conceptual is. ^3-252
 
 ![[bo-kamalasila-tika#^3-253]]
 
-*[not yet translated]* ^3-253
+'The Tathāgata spoke of that as not a perception' is stated here as the reason. Because even the very non-existence of anything whatsoever to be perceived is empty of the nature of one and many, ultimately it is not a perception. The Tathāgata, relying on the conventional, spoke in another way. His thought is, 'Furthermore, if one abides knowing it as a false meaning, how will one not conceptualize?' The method of entering evenly into yoga in all situations has already been explained. Not having affliction is also of two aspects: not having the affliction of explaining, and not having the affliction of saṃsāra. ^3-253
 
 ![[bo-kamalasila-tika#^3-254]]
 
-*[not yet translated]* ^3-254
+Here, having considered the thought, 'If there is no perception of a phenomenon, then at that time, when the Tathāgata teaches the Dharma to sentient beings, if that perception arises, how would he not become afflicted? If, out of compassion, he remains for the sake of sentient beings as long as saṃsāra lasts, how would he not become afflicted by the perception of a phenomenon?', in order to teach that by that very perfection of mind there is no affliction of explaining, and by the verse there is no affliction of saṃsāra, he stated, 'Furthermore, Subhūti...' and so forth. Previously, from another context, by thoroughly teaching the praises of the world systems, the benefits were praised; but now, in the context of not having affliction, by teaching infinite world systems, the benefits are not stated, so it does not become a repetition of words. Here too, the logic is to be stated just as before. 'Having taken up' means reading aloud. 'Or holding' means the words. 'Or reading' means reading a volume and so forth. 'Comprehending' is a synonym for apprehending the meaning. By this, it completely teaches that because this Dharma has great significance, therefore a bodhisattva should unfailingly abide by aspiration and prayer in such a teaching of the Dharma of great significance. ^3-254
 
 ![[bo-kamalasila-tika#^3-255]]
 
-*[not yet translated]* ^3-255
+Although he indeed explains, in order to teach explaining in such a way that one does not become afflicted, he stated, 'If one asks, how does one perfectly teach?' and so forth. The thought is this: Although he explained the teaching that all phenomena are ultimately unproduced and inexpressible, he did not explain those phenomena by the nature of being inexpressible. That is to say this: It was taught that he teaches in such a way that the person to be trained thinks, 'Because all phenomena are unproduced from the very beginning, they are inexpressible; therefore, they are not to be taught by anyone.' In that way, one teaches without being afflicted, because the meaning is not mistaken. If it were not so, by teaching mistakenly, one would become afflicted. Therefore, at the time when the Tathāgata teaches the Dharma, while he has entered pure mundane wisdom, even though the perception of appearing as a phenomenon arises, because there is no adherence to that as reality itself, it does not become the fault of being afflicted. By this, entering evenly into yoga, thoroughly holding the mind, and profundity are taught. By the former, vastness is taught. ^3-255
 
 ![[bo-kamalasila-tika#^3-256]]
 
-*[not yet translated]* ^3-256
+Now, the entire body of the prajñāpāramitā is posited, and by the verse, not having the affliction of saṃsāra is taught. By this verse, the four aspects of the characteristics of the conditioned are completely taught: the characteristic of the nature, the characteristic of the object of enjoyment, the characteristic of realizing the drawbacks, and the characteristic of realizing the escape. Here, the nature of the five aggregates, dependent origination which is how entities appear, is called 'the conditioned' because it is produced by the assemblage of causes and conditions. The nature of all those should be seen like a star: just as stars appear at night but do not appear in the daytime, similarly, conditioned things appear if there is the darkness of the fault of ignorance, but since they do not appear when the light of the sun of wisdom has arisen, they should be seen as having a star-like nature. The conditioned, which is of the nature of adherence to the view of person and phenomena, should be seen like a visual aberration because non-existent objects appear. The characteristic of consciousness should be seen like a butter-lamp because it burns depending on the wick of karma and the oil of craving. Thus, by those examples, the characteristic of the nature of the conditioned is completely taught. ^3-256
 
 ![[bo-kamalasila-tika#^3-257]]
 
-*[not yet translated]* ^3-257
+By the example of an illusion, the characteristic of the object of enjoyment is completely taught, because it appears in a mistaken manner. Here, the two aspects of the characteristic of realizing the drawbacks regarding the nature of the conditioned are: realizing it as impermanent, and realizing it as suffering. By the example of dew, realizing it as impermanent is taught, because it does not remain for a long time. By the example of a water bubble, realizing it as suffering is taught: feeling is like a water bubble, because it was stated, 'Whatever feeling there may be, that is suffering here.' By the three aspects of suffering, all feeling should be known as suffering. Here, the feeling of suffering is suffering by the suffering of suffering. Those conditioning factors that accord with it are also suffering by their very accordance with it. The feeling of happiness is suffering by the suffering of change. Those phenomena that accord with it are also suffering by their very accordance with it. The feeling of neither suffering nor happiness, and those entities that accord with it, are suffering by the suffering of conditioning, by the characteristic of production and destruction. Thus, all conditioned things should be seen as possessing suffering. ^3-257
 
 ![[bo-kamalasila-tika#^3-258]]
 
-*[not yet translated]* ^3-258
+Here, the characteristic of realizing the escape is realizing person and phenomena as empty. Because one escapes by that object of observation, the Bhagavān stated the two aspects of the object of observation of the escape. As it is also stated in the noble Samādhirāja, 'If one individually analyzes selflessness regarding phenomena, and having analyzed them, if one meditates, that is the cause of obtaining the result of nirvāṇa. Whatever other cause there is, it will not become peaceful.' Thus it is taught. All conditioned things possess the two aspects of selflessness: thus, by the distinction of past, present, and future, the conditioned are of three aspects. Here, those that are past remain merely as a memory; because they lack an inherent nature, they are empty of phenomena and person themselves, and there is no blessing by a self. Therefore, by the example of a dream, realizing their two aspects of selflessness is taught. By the example of lightning, because the present does not possess the nature of a single substance or multiple, and its nature cannot be apprehended, realizing it is taught. The future is of the nature of not having arrived; by the example of a cloud, because its seeds, which are bad states, are generated in the sky-like mind, the two aspects of selflessness are taught. ^3-258
 
 ![[bo-kamalasila-tika#^3-259]]
 
-*[not yet translated]* ^3-259
+Therefore, by all this, it is completely taught that the bodhisattva should always abide by aspiration and prayer to examine the nature of all conditioned things in that way. By teaching the realization of the escape, entering evenly into yoga and thoroughly holding the mind are taught. By all these points, profundity is taught. In this verse, this is completely taught: since the root of affliction is mistake, if even others whose mental engagement possesses repeated examination of the nature of the conditioned, by thoroughly realizing conditioning factors in that way, do not become afflicted because they are without mistake, then how could the Tathāgata, who has meditated on the nature of all entities as they are, and who is free from the entire net of mistake, become afflicted? Therefore, it should be known that the Tathāgata, having understood all the faults of the conditioned, possessing a mind that is unsullied by the water of the faults of saṃsāra like a lotus, having pledged to guide all wandering beings, making it fruitful, possessing a mind endowed with great compassion, abides as long as the wheel of saṃsāra revolves, with the thought of accomplishing benefit and happiness for wandering beings without a time limit. As it is said, 'In order to make the world happy, he abides in neither saṃsāra nor nirvāṇa.' Also, it is stated, 'He abides on the ground of looking upon all sentient beings.' 'By that sky-like vast merit obtained from my explaining as best as I could in this way that which generates the Munis who abide in the three times, may I become Buddhahood itself that clears away the darkness of the world.' The Extensive Commentary on the Noble Vajracchedikā in the Method of the Madhyamaka, authored by the Master Kamalaśīla, is completed. Translated, revised, and finalized by the Indian preceptors Mañjuśrī and Jinamitra, and the chief editor-translator, the monk Ye shes sde. ^3-259
