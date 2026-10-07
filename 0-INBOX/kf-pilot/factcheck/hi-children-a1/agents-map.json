@@ -1,0 +1,6 @@
+{"step": "factcheck-children", "text": "vajracchedika", "lang": "hi", "model": "sonnet", "attempt": 1,
+ "session_dir": "~/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/c7f046c7-2989-44d5-b4bb-4b335990b02a",
+ "agents": {"batch-01": "a564813090a21abb0", "batch-02": "a5ad97b9c2fd037e2", "batch-03": "a0d918f10f06dc4c9",
+  "batch-04": "ae976942322778c65", "batch-05": "aea20a43c8bd25f47", "batch-06": "acdd145d668d4f6a8",
+  "batch-07": "a5cdc0b31cb90fb9d", "batch-08": "a8c7658f8a44c5174", "batch-09": "a4bc1712cd7f3c81a",
+  "batch-10": "af30c4fc63d95f952", "batch-11": "a0d08bd66fdc3f1c6"}}

@@ -1,0 +1,245 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "10-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अरब दुनियाओं वाला ब्रह्माण्ड नाम के दुनिया-क्षेत्र में",
+     "evidence": "The Tibetan names one realm, the trichiliocosm (three-thousand great-thousand world-system); the phrase 'named ... world-region' is clumsy for children.",
+     "fix": "अरब दुनियाओं वाले ब्रह्माण्ड में जितने भी सुमेरु पर्वत, यानी पहाड़ों के राजा हैं,"
+    }
+   ]
+  },
+  {
+   "id": "10-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वे कोई इंसान नहीं हैं",
+     "evidence": "Academic: the Tathagata has called them 'devoid of ordinary-being-ness' (pṛthagjana-rahita), not that they are not people; the plain reading could suggest they do not exist.",
+     "fix": "इसी तरह गए हुए ने उन्हें 'आम इंसान होने' से खाली कहा है;"
+    }
+   ]
+  },
+  {
+   "id": "10-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जागृति-वीर का वाहन के रास्ते पर",
+     "evidence": "Ungrammatical genitive; meaning (those properly set out on the bodhisattva vehicle) is intact.",
+     "fix": "जो लोग जागृति-वीर के वाहन पर ठीक से चलते हैं, वे किसी भी चीज़ को नष्ट होना या कट जाना नहीं कहते।"
+    }
+   ]
+  },
+  {
+   "id": "11-10",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "इस शिक्षा के पाठ के बिना अपने आप के और न जन्मा हुआ होने में धैर्य पा ले",
+     "evidence": "Academic: the bodhisattva attains patience in (acceptance of) this teaching being without self and unborn; the Hindi garbles it so 'without the lesson' reads as lacking the teaching and the object of patience is lost.",
+     "fix": "इस शिक्षा के पाठ में, यानी इस बात में कि कोई अपना आप नहीं है और कुछ भी जन्मा नहीं है, धैर्य पा ले"
+    }
+   ]
+  },
+  {
+   "id": "11-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "अरब दुनियाओं वाले ब्रह्माण्ड के इस दुनिया-क्षेत्र की सारी मिट्टी",
+     "evidence": "Tibetan/academic: all the earth-dust in the whole trichiliocosm (the billion-world universe), not in one world-region of it; the scope is narrowed.",
+     "fix": "अरब दुनियाओं वाले पूरे ब्रह्माण्ड में जितनी भी मिट्टी के कण हैं, उन सबको पीस दे"
+    }
+   ]
+  }
+ ]
+}

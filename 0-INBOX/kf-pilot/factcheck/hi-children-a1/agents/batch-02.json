@@ -1,0 +1,261 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जहाँ सम्पूर्ण चिह्न हैं, वहाँ झूठ है",
+     "evidence": "Tibetan/academic: 'to the extent there is (complete) marks, to that extent it is false' - a proportional 'as much as ... that much'; 'where ... there' turns it into a place.",
+     "fix": "सुभूति, जितने भी सम्पूर्ण चिह्न हैं, उतना ही वह झूठ है।"
+    }
+   ]
+  },
+  {
+   "id": "6-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जहाँ सम्पूर्ण चिह्न नहीं हैं, वहाँ झूठ नहीं है",
+     "evidence": "Tibetan/academic: 'to the extent there are no marks, to that extent it is not false' - proportional, not a place.",
+     "fix": "जितने सम्पूर्ण चिह्न नहीं हैं, उतना झूठ नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बहुत बड़ी जमा हुई भलाई का ढेर",
+     "evidence": "Academic: 'अप्रमेय पुण्यराशि' (immeasurable); 'very big' is weaker than 'beyond measure'.",
+     "fix": "जमा हुई भलाई का ऐसा ढेर बनाएँगे जिसे नापा नहीं जा सकता, और उसे इकट्ठा करेंगे।"
+    }
+   ]
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "चीज़ नहीं का विचार भी नहीं आता",
+     "evidence": "Locked term 'चीज़ नहीं' used as a noun inside a genitive phrase makes the sentence ungrammatical-sounding for a child; meaning (neither 'dharma-notion' nor 'non-dharma-notion') is intact.",
+     "fix": "उन महान जागृति-वीरों में न 'चीज़' का विचार आता है, न 'चीज़ नहीं' का विचार आता है।"
+    }
+   ]
+  },
+  {
+   "id": "6-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "विचार का न होना भी नहीं होगा",
+     "evidence": "Academic: 'असंज्ञा भी प्रवृत्त नहीं होगी' (even the notion of no-notion does not arise); the double negation is tangled for ages 8-12.",
+     "fix": "उनके मन में 'विचार का न होना' भी नहीं आएगा।"
+    }
+   ]
+  },
+  {
+   "id": "6-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-31",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "जिसे पाकर",
+     "evidence": "Academic/Tibetan: any dharma that the Tathagata fully awakened as supreme complete awakening; no idea of 'obtaining/getting' something is stated. 'पाकर' presupposes an acquisition, which is exactly what the sutra's question tests.",
+     "fix": "क्या तुम सोचते हो कि ऐसी कोई भी चीज़ है, जिसे इसी तरह गए हुए ने सर्वोच्च पूर्ण जागृति के रूप में पूरी तरह जाना है?"
+    }
+   ]
+  },
+  {
+   "id": "6-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जिसे ... सर्वोच्च पूर्ण जागृति के रूप में जाना हो और वे पूरी तरह जागे हुए हों",
+     "evidence": "Academic: no dharma that the Tathagata fully awakened (abhisambuddha) as supreme complete awakening; the children's text turns it into 'known' plus a separate 'and is fully awake' clause.",
+     "fix": "ऐसी कोई भी चीज़ नहीं है जिसे इसी तरह गए हुए सर्वोच्च पूर्ण जागृति के रूप में पूरी तरह जाग कर जान सके हों।"
+    }
+   ]
+  },
+  {
+   "id": "6-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-36",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

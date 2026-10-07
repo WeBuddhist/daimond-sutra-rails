@@ -1,0 +1,253 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "एक बड़ा भिक्षुओं का समुदाय",
+     "evidence": "Academic: 'the great community of 1,250 monks'; the word order is tangled and ungrammatical for a child reader.",
+     "fix": "उनके साथ एक हज़ार दो सौ पचास भिक्षुओं का एक बड़ा समुदाय था"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उन्होंने बाद के लिए भिक्षा का भोजन लेना छोड़ दिया",
+     "evidence": "Academic: he gave up (further) alms-food of the later meal, i.e. did not take more food after eating; 'बाद के लिए' could be misread as 'saving food for later'.",
+     "fix": "खाने के बाद उन्होंने और भिक्षा लेना छोड़ दिया"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "जो लोग जागृति-वीर का वाहन अपनाते हैं",
+     "evidence": "Academic: one who has set out 'properly' (सम्यक् रूप से) on the bodhisattva vehicle; 'properly/rightly' is dropped.",
+     "fix": "जो लोग सही तरह से जागृति-वीर के वाहन पर चल पड़े हैं, उन्हें कैसे रहना चाहिए?"
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "क्योंकि तब उसे",
+     "evidence": "Academic/Tibetan: 'because he is not called a bodhisattva'; the added 'तब' (then) makes it conditional, which only 4-4 states.",
+     "fix": "क्योंकि उसे जागृति-वीर नहीं कहा जाता।"
+    }
+   ]
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "छूकर महसूस होने वाले और चीज़ पर भी",
+     "evidence": "Academic lists five objects: sound, smell, taste, touch-object, dharma; 'छूकर महसूस होने वाले' has no noun and is hard for a child.",
+     "fix": "उसी तरह आवाज़, गंध, स्वाद, छूने से होने वाले अनुभव और चीज़ पर भी टिके बिना देना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic: begins 'क्योंकि' (because), answering the 'why?' of 4-10; the causal link is lost.",
+     "fix": "क्योंकि, सुभूति, जो जागृति-वीर टिके बिना देता है, उसकी जमा हुई भलाई का ढेर मापना आसान नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

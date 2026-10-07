@@ -21,7 +21,7 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 | 5b Academic minor fixes | done — 32 regenerated; re-check: 30 pass, 2 regressions reverted to attempt 1 (keep-best rule) | `factcheck/academic-a2/` |
 | 6 Children's version (Gemini, from academic) + fact-check (Claude, 11 agents) | done — 430/432 pass first time; 4-1 fixed; 12-24 flagged after 2 retries; 31 minor open | `3-TRANSFORMATIONS/Translations/en-children/`, `factcheck/children-a1/`, `review-flags.md` |
 | 7 Cost/quality report (Diamond, en) | draft done — $30.04 pipeline, $89.24 all work | `reports/vajracchedika-en-cost-quality.md`; prices in `4-SYSTEM/scripts/usage-ledger/prices.json` |
-| 8 zh, hi | in progress | see below |
+| 8 zh, hi | done — all four tracks final; report extension next | see below |
 
 ## Chinese and Hindi (2026-10-07)
 | Step | zh | hi |
@@ -29,13 +29,13 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 | Zero-shot baseline | existed (Gemini, Traditional) | done — Gemini/hi, 63 calls |
 | Termbase | done; overrides: 相 mark / 相狀 sign; 想 kept for saṃjñā | done; overrides: धर्म for both senses of ཆོས (academic) + compounds |
 | Academic translation | FINAL — all segments pass (a1 429/432 → 60 regenerated → 7-28, 10-52 reverted; 7-30 passes at attempt 3) | FINAL — all segments pass (a1 426/432 → 41 regenerated → a2 40/41; 5-6 reverted to attempt 1) |
-| Children's | FINAL — all segments pass (a1 428/432; 4 major regenerated → a2 4/4 pass); 40 minor open | translation running (`translate/hi-children-run.log`); requirements/audience written |
+| Children's | FINAL — all segments pass (a1 428/432; 4 major regenerated → a2 4/4 pass); 40 minor open | FINAL — all segments pass (a1 427/432; 5 major regenerated → a2 5/5 pass); 40 minor open; glossary-check: 17/18 flags false positives (oblique case); 4-1 paraphrases the locked nirvāṇa term (term itself ungrammatical in context — glossary note) |
 
 ### Resume here (next session)
 1. ~~Hindi re-check a2~~ — done (keep-best rule: a re-check failure where attempt 1 passed → append the attempt-1 row with
    `call_id: revert`; failed both times → one more retry with `--attempt 3`, re-check, then `review-flags.md`).
 2. ~~Chinese children's~~ — done (`factcheck/zh-children-a1`, `zh-children-a2`; agent usage harvested; the previous session's agents live under the `-daimond-sutra-rails` project dir).
-3. **Hindi children's**: requirements/audience/termbase done; translation started 19:50 (rerun skips done segments): `--variant children --lang hi --from-track academic`, then fact-check.
+3. ~~Hindi children's~~ — done (`factcheck/hi-children-a1`, `hi-children-a2`; usage harvested).
 4. **Report**: extend `reports/vajracchedika-en-cost-quality.md` to zh and hi (`usage_ledger.py summary --text vajracchedika`).
 5. Then: register the scripts as skills (`create-skill`) and run Ratnaguṇa.
 
@@ -44,6 +44,7 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 - Sanskrit/Tibetan divergence: Hindi rendered མནར་བ as परिभूत (= Skt paribhūta) where the Tibetan + commentaries mean "tormented" (8-68–70).
 - Glossary-check false positives by script: English plurals, Chinese punctuation, Hindi compounds (fixed: substring stems, skip helper verbs).
 - Several Hindi checkers judged from Tibetan + Sanskrit + English reference without opening the commentaries.
+- Glossary check misses Hindi oblique/inflected forms (चीज़ें→चीज़ों, नदी→नदियों, देना→देता, मानना→मानेंगे): 17 of 18 hi-children flags were false positives.
 - Long background runs: start with absolute paths (`zsh -ic 'cd <vault> && …'`); foreground commands time out at 10 min.
 
 ## Usage ledger

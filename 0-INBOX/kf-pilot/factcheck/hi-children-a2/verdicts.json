@@ -1,0 +1,51 @@
+[
+ {
+  "id": "6-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "पूरी तरह जागे हुए जाना है",
+    "evidence": "The Tibetan/academic text says the Tathagata fully awakened (abhisambuddha) to something as supreme complete awakening; the locked phrase used as a participle plus 'जाना है' reads awkwardly, though meaning is intact.",
+    "fix": "क्या तुम सोचते हो कि ऐसी कोई भी चीज़ है, जिसे इसी तरह गए हुए ने सर्वोच्च पूर्ण जागृति के रूप में पूरी तरह जागकर पाया है?"
+   }
+  ]
+ },
+ {
+  "id": "6-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसे पूरी तरह जागे हुए जाना जाता है",
+    "evidence": "Academic: 'by all wholesome dharmas it is fully awakened to'; the children's phrase is ungrammatical and unclear, though the meaning is intact.",
+    "fix": "सभी अच्छी चीज़ों के द्वारा उसे पूरी तरह जागकर जाना जाता है।"
+   }
+  ]
+ },
+ {
+  "id": "11-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "पूरे अरब दुनियाओं वाले ब्रह्माण्ड के दुनिया-क्षेत्र में जितनी भी मिट्टी है",
+    "evidence": "Academic: all the earth-dust in the trichiliocosm world-system; the children's phrase doubles the world-system term and the grinding/atom-cluster sentence is tangled, though meaning is intact.",
+    "fix": "अगर कोई अच्छे परिवार का बेटा या अच्छे परिवार की बेटी, अरब दुनियाओं वाले ब्रह्माण्ड की सारी मिट्टी को पीसकर नन्हे कणों के गुच्छे जैसा बारीक चूर्ण बना दे, तो सुभूति, तुम क्या सोचते हो? क्या वह नन्हे कणों का गुच्छा बहुत बड़ा होगा?"
+   }
+  ]
+ }
+]

@@ -1,0 +1,213 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "7-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "गंगा नदी की रेत जितने शरीरों का दान कर दे। उसकी जगह, अगर कोई इस शिक्षा के पाठ से कम से कम एक चार पंक्तियों की कविता भी सीख ले और दूसरों को अच्छी तरह सिखाए। तो वह इंसान",
+     "evidence": "The academic translation is one comparative conditional sentence ('than one who gives up bodies as many as Ganges sand, one who takes even a four-line verse and teaches it to others produces far more merit'). The children's text splits the 'if' clauses into separate sentences with a dangling 'तो', and 'उसकी जगह' (instead of that) weakens the comparison 'उसकी अपेक्षा'; meaning is still recoverable from 'उससे कहीं ज़्यादा'.",
+     "fix": "अगर कोई आदमी या औरत गंगा नदी की रेत जितने शरीर दान कर दे, और दूसरा कोई इस शिक्षा के पाठ से बस एक चार पंक्तियों की कविता भी सीखकर दूसरों को अच्छी तरह सिखाए, तो दूसरा इंसान पहले से कहीं ज़्यादा, अनगिनत और अपार जमा हुई भलाई पैदा करेगा।"
+    }
+   ]
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

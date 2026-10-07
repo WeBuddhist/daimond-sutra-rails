@@ -1,0 +1,62 @@
+{
+ "6-31": {
+  "translation": "क्या तुम सोचते हो कि ऐसी कोई भी चीज़ है, जिसे पाकर इसी तरह गए हुए सर्वोच्च पूर्ण जागृति में पूरी तरह जागे हुए हैं?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "जिसे पाकर",
+    "evidence": "Academic/Tibetan: any dharma that the Tathagata fully awakened as supreme complete awakening; no idea of 'obtaining/getting' something is stated. 'पाकर' presupposes an acquisition, which is exactly what the sutra's question tests.",
+    "fix": "क्या तुम सोचते हो कि ऐसी कोई भी चीज़ है, जिसे इसी तरह गए हुए ने सर्वोच्च पूर्ण जागृति के रूप में पूरी तरह जाना है?"
+   }
+  ]
+ },
+ "6-43": {
+  "translation": "वह अच्छे परिवार का बेटा या अच्छे परिवार की बेटी इससे बहुत बड़ा जमा हुई भलाई का ढेर बनाएगा।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "इससे बहुत बड़ा",
+    "evidence": "Source says he generates much merit 'from that basis' (the gift); there is no comparison. 'इससे बहुत बड़ा' reads as 'bigger than this', adding a comparison that only appears later in 6-46.",
+    "fix": "वह अच्छे परिवार का बेटा या अच्छे परिवार की बेटी ऐसा करने से जमा हुई भलाई का बहुत बड़ा ढेर बनाएगा।"
+   }
+  ]
+ },
+ "10-42": {
+  "translation": "सभी अच्छी चीज़ों के द्वारा उसे पूरी तरह जागे हुए पाया जाता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "उसे पूरी तरह जागे हुए पाया जाता है",
+    "evidence": "Academic: by all wholesome dharmas it (the awakening) is fully awakened to / realized. The children's text says the awakening is \"found to be fully awake\", changing subject and object.",
+    "fix": "सभी अच्छी चीज़ों के द्वारा उस जागृति को पूरी तरह जागकर पाया जाता है।"
+   }
+  ]
+ },
+ "11-10": {
+  "translation": "और सुभूति, अगर कोई अच्छे परिवार का बेटा या अच्छे परिवार की बेटी गंगा नदी की रेत के कणों जितने दुनिया-क्षेत्रों को सात कीमती चीज़ों से भरकर उपहार में दे दे। उसकी तुलना में, अगर कोई जागृति-वीर इस शिक्षा के पाठ के बिना अपने आप के और न जन्मा हुआ होने में धैर्य पा ले, तो वह उससे बहुत ज़्यादा, अनगिनत और माप से परे जमा हुई भलाई का ढेर बनाता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "इस शिक्षा के पाठ के बिना अपने आप के और न जन्मा हुआ होने में धैर्य पा ले",
+    "evidence": "Academic: the bodhisattva attains patience in (acceptance of) this teaching being without self and unborn; the Hindi garbles it so 'without the lesson' reads as lacking the teaching and the object of patience is lost.",
+    "fix": "इस शिक्षा के पाठ में, यानी इस बात में कि कोई अपना आप नहीं है और कुछ भी जन्मा नहीं है, धैर्य पा ले"
+   }
+  ]
+ },
+ "12-1": {
+  "translation": "और सुभूति, अगर कोई अच्छे परिवार का बेटा या अच्छे परिवार की बेटी, अरब दुनियाओं वाले ब्रह्माण्ड के इस दुनिया-क्षेत्र की सारी मिट्टी को पीस दे। उदाहरण के लिए, वह उसे एक नन्हा कण जितना बारीक करके नन्हे कणों का गुच्छा बना दे, तो सुभूति, तुम क्या सोचते हो? क्या वह नन्हे कणों का गुच्छा बहुत बड़ा होगा?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "अरब दुनियाओं वाले ब्रह्माण्ड के इस दुनिया-क्षेत्र की सारी मिट्टी",
+    "evidence": "Tibetan/academic: all the earth-dust in the whole trichiliocosm (the billion-world universe), not in one world-region of it; the scope is narrowed.",
+    "fix": "अरब दुनियाओं वाले पूरे ब्रह्माण्ड में जितनी भी मिट्टी के कण हैं, उन सबको पीस दे"
+   }
+  ]
+ }
+}

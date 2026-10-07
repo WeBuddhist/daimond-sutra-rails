@@ -1,0 +1,212 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "12-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बहुत बड़ा होगा",
+     "evidence": "Tibetan mang ba and the academic text say the aggregate would be 'many/much' (बहुत), not 'big' in size.",
+     "fix": "वह नन्हे कणों का गुच्छा बहुत होगा।"
+    }
+   ]
+  },
+  {
+   "id": "12-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "नाम का दुनिया-क्षेत्र कहा जाता है",
+     "evidence": "Academic text: 'therefore it is called the three-thousand great-thousand world-realm'. Adding 'दुनिया-क्षेत्र' as a further label, right after 'it is not a world-realm', is confusing and blurs the logic.",
+     "fix": "इसलिए उसे 'अरब दुनियाओं वाला ब्रह्माण्ड' कहा जाता है।"
+    }
+   ]
+  },
+  {
+   "id": "12-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "नहीं चिपके रहना कहा है",
+     "evidence": "Academic text: the Tathagata called it 'non-grasping' (agrahya); the children's phrase is awkward and ungrammatical Hindi.",
+     "fix": "उसे इसी तरह गए हुए ने चिपके रहना नहीं, यानी बिना चिपकना कहा है,"
+    }
+   ]
+  },
+  {
+   "id": "12-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "पूर्णता के साथ समझे",
+     "evidence": "Tibetan kun chub par byed (understand fully); 'पूर्णता' is the locked term for paramita and is misused here for 'fully'.",
+     "fix": "अच्छी तरह पूरा समझे"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "और सुभूति, अगर कोई महान जागृति-वीर ... जमा हुई भलाई पैदा करेगा।",
+     "evidence": "Academic text is one long sentence; the children's version keeps it as a single tangled sentence too hard for ages 8-12.",
+     "fix": "इसे दो-तीन छोटे वाक्यों में तोड़ें: पहले उपहार देने वाले की बात, फिर चार पंक्तियों की कविता वाले की बात, फिर 'उसकी जमा हुई भलाई कहीं ज़्यादा होगी।'"
+    }
+   ]
+  },
+  {
+   "id": "12-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "पूर्णता के साथ समाप्त हुआ",
+     "evidence": "Tibetan rdzogs so means 'is completed/finished'; 'पूर्णता' is the locked term for paramita and is used here for a different meaning.",
+     "fix": "उत्तम 'हीरे की तरह काटने वाली पूर्ण समझदारी' नामक महान वाहन का पवित्र ग्रंथ यहाँ पूरा हुआ।"
+    }
+   ]
+  },
+  {
+   "id": "13-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

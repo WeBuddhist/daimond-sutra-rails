@@ -1,0 +1,2521 @@
+[
+ {
+  "id": "0-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "एक बड़ा भिक्षुओं का समुदाय",
+    "evidence": "Academic: 'the great community of 1,250 monks'; the word order is tangled and ungrammatical for a child reader.",
+    "fix": "उनके साथ एक हज़ार दो सौ पचास भिक्षुओं का एक बड़ा समुदाय था"
+   }
+  ]
+ },
+ {
+  "id": "1-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उन्होंने बाद के लिए भिक्षा का भोजन लेना छोड़ दिया",
+    "evidence": "Academic: he gave up (further) alms-food of the later meal, i.e. did not take more food after eating; 'बाद के लिए' could be misread as 'saving food for later'.",
+    "fix": "खाने के बाद उन्होंने और भिक्षा लेना छोड़ दिया"
+   }
+  ]
+ },
+ {
+  "id": "1-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "जो लोग जागृति-वीर का वाहन अपनाते हैं",
+    "evidence": "Academic: one who has set out 'properly' (सम्यक् रूप से) on the bodhisattva vehicle; 'properly/rightly' is dropped.",
+    "fix": "जो लोग सही तरह से जागृति-वीर के वाहन पर चल पड़े हैं, उन्हें कैसे रहना चाहिए?"
+   }
+  ]
+ },
+ {
+  "id": "2-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "क्योंकि तब उसे",
+    "evidence": "Academic/Tibetan: 'because he is not called a bodhisattva'; the added 'तब' (then) makes it conditional, which only 4-4 states.",
+    "fix": "क्योंकि उसे जागृति-वीर नहीं कहा जाता।"
+   }
+  ]
+ },
+ {
+  "id": "4-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "छूकर महसूस होने वाले और चीज़ पर भी",
+    "evidence": "Academic lists five objects: sound, smell, taste, touch-object, dharma; 'छूकर महसूस होने वाले' has no noun and is hard for a child.",
+    "fix": "उसी तरह आवाज़, गंध, स्वाद, छूने से होने वाले अनुभव और चीज़ पर भी टिके बिना देना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic: begins 'क्योंकि' (because), answering the 'why?' of 4-10; the causal link is lost.",
+    "fix": "क्योंकि, सुभूति, जो जागृति-वीर टिके बिना देता है, उसकी जमा हुई भलाई का ढेर मापना आसान नहीं है।"
+   }
+  ]
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जहाँ सम्पूर्ण चिह्न हैं, वहाँ झूठ है",
+    "evidence": "Tibetan/academic: 'to the extent there is (complete) marks, to that extent it is false' - a proportional 'as much as ... that much'; 'where ... there' turns it into a place.",
+    "fix": "सुभूति, जितने भी सम्पूर्ण चिह्न हैं, उतना ही वह झूठ है।"
+   }
+  ]
+ },
+ {
+  "id": "6-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जहाँ सम्पूर्ण चिह्न नहीं हैं, वहाँ झूठ नहीं है",
+    "evidence": "Tibetan/academic: 'to the extent there are no marks, to that extent it is not false' - proportional, not a place.",
+    "fix": "जितने सम्पूर्ण चिह्न नहीं हैं, उतना झूठ नहीं है।"
+   }
+  ]
+ },
+ {
+  "id": "6-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बहुत बड़ी जमा हुई भलाई का ढेर",
+    "evidence": "Academic: 'अप्रमेय पुण्यराशि' (immeasurable); 'very big' is weaker than 'beyond measure'.",
+    "fix": "जमा हुई भलाई का ऐसा ढेर बनाएँगे जिसे नापा नहीं जा सकता, और उसे इकट्ठा करेंगे।"
+   }
+  ]
+ },
+ {
+  "id": "6-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-21",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "चीज़ नहीं का विचार भी नहीं आता",
+    "evidence": "Locked term 'चीज़ नहीं' used as a noun inside a genitive phrase makes the sentence ungrammatical-sounding for a child; meaning (neither 'dharma-notion' nor 'non-dharma-notion') is intact.",
+    "fix": "उन महान जागृति-वीरों में न 'चीज़' का विचार आता है, न 'चीज़ नहीं' का विचार आता है।"
+   }
+  ]
+ },
+ {
+  "id": "6-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "विचार का न होना भी नहीं होगा",
+    "evidence": "Academic: 'असंज्ञा भी प्रवृत्त नहीं होगी' (even the notion of no-notion does not arise); the double negation is tangled for ages 8-12.",
+    "fix": "उनके मन में 'विचार का न होना' भी नहीं आएगा।"
+   }
+  ]
+ },
+ {
+  "id": "6-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-31",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "जिसे पाकर",
+    "evidence": "Academic/Tibetan: any dharma that the Tathagata fully awakened as supreme complete awakening; no idea of 'obtaining/getting' something is stated. 'पाकर' presupposes an acquisition, which is exactly what the sutra's question tests.",
+    "fix": "क्या तुम सोचते हो कि ऐसी कोई भी चीज़ है, जिसे इसी तरह गए हुए ने सर्वोच्च पूर्ण जागृति के रूप में पूरी तरह जाना है?"
+   }
+  ]
+ },
+ {
+  "id": "6-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जिसे ... सर्वोच्च पूर्ण जागृति के रूप में जाना हो और वे पूरी तरह जागे हुए हों",
+    "evidence": "Academic: no dharma that the Tathagata fully awakened (abhisambuddha) as supreme complete awakening; the children's text turns it into 'known' plus a separate 'and is fully awake' clause.",
+    "fix": "ऐसी कोई भी चीज़ नहीं है जिसे इसी तरह गए हुए सर्वोच्च पूर्ण जागृति के रूप में पूरी तरह जाग कर जान सके हों।"
+   }
+  ]
+ },
+ {
+  "id": "6-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-40",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बहुत सारा जमा हुई भलाई का ढेर",
+    "evidence": "Source asks whether he would generate much merit-heap; the children's phrase is ungrammatical (masculine 'सारा' with feminine 'जमा हुई भलाई').",
+    "fix": "जमा हुई भलाई का बहुत बड़ा ढेर"
+   }
+  ]
+ },
+ {
+  "id": "6-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-43",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "इससे बहुत बड़ा",
+    "evidence": "Source says he generates much merit 'from that basis' (the gift); there is no comparison. 'इससे बहुत बड़ा' reads as 'bigger than this', adding a comparison that only appears later in 6-46.",
+    "fix": "वह अच्छे परिवार का बेटा या अच्छे परिवार की बेटी ऐसा करने से जमा हुई भलाई का बहुत बड़ा ढेर बनाएगा।"
+   }
+  ]
+ },
+ {
+  "id": "6-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अरब दुनियाओं वाले ब्रह्माण्ड के इस दुनिया-क्षेत्र को",
+    "evidence": "The whole trichiliocosm world-system is filled with the seven jewels; the children's wording makes the filled thing one 'world-region' within the universe, a slight change of scope.",
+    "fix": "इस पूरे अरब दुनियाओं वाले ब्रह्माण्ड को सात कीमती चीज़ों से पूरा भरकर"
+   }
+  ]
+ },
+ {
+  "id": "6-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-30",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इसी तरह गए हुए मेरे बारे में यह बात कि 'अच्छे परिवार का बेटा सुभूति ... सबसे अच्छा है'—",
+    "evidence": "Meaning is intact (if I thought I had attained the state, the Tathagata would not have declared me best of those dwelling without afflictions), but the nested quote and dangling sentence are hard for ages 8-12.",
+    "fix": "भगवान, अगर मैं सोचता कि 'मैंने सम्मान के योग्य होने की अवस्था पा ली है', तो इसी तरह गए हुए मेरे बारे में यह न कहते कि 'अच्छे परिवार का बेटा सुभूति सबसे अच्छा है'—"
+   }
+  ]
+ },
+ {
+  "id": "7-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "छूकर महसूस होने वाले और चीज़ पर भी",
+    "evidence": "Source lists sound, smell, taste, touchable and dharma objects; the children's list leaves 'छूकर महसूस होने वाले' without a noun and is ungrammatical.",
+    "fix": "आवाज़, गंध, स्वाद, छूकर महसूस होने वाली चीज़ें और दूसरी हर चीज़ पर भी टिके बिना मन में ठानना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "7-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-55",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इसी तरह गए हुए, सम्मान के योग्य और पूर्ण बुद्ध को उपहार दे",
+    "evidence": "Tibetan/academic have plural Tathagatas, Arhats, Samyaksambuddhas (to the Buddhas); the children's text gives to a single one.",
+    "fix": "अगर कोई इसी तरह गए हुए, सम्मान के योग्य, पूर्ण बुद्धों को उपहार दे"
+   }
+  ]
+ },
+ {
+  "id": "7-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-60",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "और इसी तरह गए हुए, सम्मान के योग्य और पूर्ण बुद्ध को उपहार दे। इसकी बजाय,",
+    "evidence": "The source makes a comparison: giving to the Buddhas (plural) versus holding a four-line verse; the children's opening is a dangling fragment that loses the 'than giving' comparison and the plural.",
+    "fix": "इसी तरह गए हुए, सम्मान के योग्य, पूर्ण बुद्धों को उपहार देने से भी बढ़कर: अगर कोई इस शिक्षा के पाठ से बस एक चार पंक्तियों की कविता भी याद कर ले,"
+   }
+  ]
+ },
+ {
+  "id": "7-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-63",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जब उन्होंने ऐसा कहा",
+    "evidence": "Academic: 'on this being said' (passive); speaker is the Bhagavan. 'उन्होंने' leaves the speaker unnamed and unclear in an isolated segment.",
+    "fix": "जब भगवान ने ऐसा कहा, तब आदरणीय सुभूति ने भगवान से यह कहा:"
+   }
+  ]
+ },
+ {
+  "id": "7-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "गंगा नदी की रेत जितने शरीरों का दान कर दे। उसकी जगह, अगर कोई इस शिक्षा के पाठ से कम से कम एक चार पंक्तियों की कविता भी सीख ले और दूसरों को अच्छी तरह सिखाए। तो वह इंसान",
+    "evidence": "The academic translation is one comparative conditional sentence ('than one who gives up bodies as many as Ganges sand, one who takes even a four-line verse and teaches it to others produces far more merit'). The children's text splits the 'if' clauses into separate sentences with a dangling 'तो', and 'उसकी जगह' (instead of that) weakens the comparison 'उसकी अपेक्षा'; meaning is still recoverable from 'उससे कहीं ज़्यादा'.",
+    "fix": "अगर कोई आदमी या औरत गंगा नदी की रेत जितने शरीर दान कर दे, और दूसरा कोई इस शिक्षा के पाठ से बस एक चार पंक्तियों की कविता भी सीखकर दूसरों को अच्छी तरह सिखाए, तो दूसरा इंसान पहले से कहीं ज़्यादा, अनगिनत और अपार जमा हुई भलाई पैदा करेगा।"
+   }
+  ]
+ },
+ {
+  "id": "8-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-27",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "मेरे अंग काट दिए थे",
+    "evidence": "Tibetan/academic: limbs and sub-limbs (अंग-प्रत्यंग) were cut off; the children's text keeps only 'limbs'.",
+    "fix": "जब कलिंग के राजा ने मेरे हाथ-पैर और सारे अंग काट दिए थे"
+   }
+  ]
+ },
+ {
+  "id": "8-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-49",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "कई तरह की चीज़ें देखता है",
+    "evidence": "The Tibetan gzugs (forms) has locked rendering 'आकार'; 'चीज़' is locked for chos (dharma), so using it here blurs the two terms.",
+    "fix": "आँखों वाला आदमी कई तरह के आकार देखता है"
+   }
+  ]
+ },
+ {
+  "id": "8-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "अपनाएंगे, याद रखेंगे",
+    "evidence": "Academic lists six actions: grasp, hold, keep in memory, recite, fully master, explain to others; the children's text merges the first two (ग्रहण and धारण) into one 'अपनाएंगे'.",
+    "fix": "इस शिक्षा के पाठ को अपनाएंगे, सँभालेंगे, याद रखेंगे, पढ़ेंगे, पूरी तरह समझेंगे"
+   }
+  ]
+ },
+ {
+  "id": "8-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-72",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "चौरासी करोड़ लाख बुद्ध",
+    "evidence": "The academic translation gives the huge count 'eighty-four koti-niyuta-shatasahasra' buddhas; the children's text compresses it into an unclear 'crore lakh' phrase.",
+    "fix": "चौरासी करोड़ गुणा लाखों-लाख बुद्ध (यानी बहुत-बहुत ज़्यादा) आए थे"
+   }
+  ]
+ },
+ {
+  "id": "8-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-76",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जो अच्छे परिवार का बेटा या अच्छे परिवार की बेटी जितनी जमा हुई भलाई का ढेर अच्छी तरह रखेंगे, उन अच्छे परिवार के बेटे या अच्छे परिवार की बेटी की जमा हुई भलाई का ढेर कितना है",
+    "evidence": "The academic text says: if I described the merit that those sons/daughters of good family will firmly hold, beings would go mad and their minds be confused. The children's sentence is long, repetitive and tangled.",
+    "fix": "सुभूति, उस समय जो अच्छे परिवार के बेटे या बेटियाँ इस ग्रंथ को अच्छी तरह थामेंगे, उनकी जमा हुई भलाई का ढेर अगर मैं पूरा बताऊँ, तो प्राणी पागल हो जाएँगे और उनका मन भटक जाएगा।"
+   }
+  ]
+ },
+ {
+  "id": "8-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-84",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "ऐसे विस्तार में ले जाकर पूरी तरह शोक से मुक्ति दिलाऊँगा, जो ऐसी शोक से मुक्ति जिसमें कोई समूह बचा न हो है",
+    "evidence": "The academic translation: 'I will bring all beings to complete nirvana in the realm of nirvana without remainder of aggregates.' The children's clause is ungrammatical and tangled.",
+    "fix": "'मैं सभी प्राणियों को उस विस्तार में पूरी तरह शोक से मुक्ति दिलाऊँगा, जो शोक से मुक्ति ऐसी है जिसमें कोई समूह बचा नहीं रहता।'"
+   }
+  ]
+ },
+ {
+  "id": "8-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-101",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसे 'इसी तरह गए हुए' ऐसा कहते हैं",
+    "evidence": "The academic translation says the Tathagata calls that (one) 'bodhisattva, bodhisattva'. The children's word order is ambiguous and could be read as the Tathagata addressing someone.",
+    "fix": "उसे 'इसी तरह गए हुए' 'जागृति-वीर, जागृति-वीर' कहते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-111",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-113",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-114",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-117",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-118",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अलग-अलग विचारों की मन की धाराओं को",
+    "evidence": "Academic: 'the mind-streams of their varied intentions'; meaning intact but the chained 'की ... की' genitives are clumsy for ages 8-12.",
+    "fix": "उनके अलग-अलग विचारों वाली मन की धाराओं को मैं अच्छी तरह जानता हूँ।"
+   }
+  ]
+ },
+ {
+  "id": "9-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जमा हुई भलाई पाएंगे",
+    "evidence": "Tibetan/academic: will generate/produce (utpanna, bskyed) much merit from that basis, not \"receive\" it.",
+    "fix": "क्या वह अच्छे परिवार का बेटा या अच्छे परिवार की बेटी इस कारण से बहुत सारी जमा हुई भलाई बनाएगा?"
+   }
+  ]
+ },
+ {
+  "id": "10-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जिसे जानकर 'इसी तरह गए हुए' 'सर्वोच्च पूर्ण जागृति' के रूप में 'पूरी तरह जागे हुए' हैं",
+    "evidence": "Academic: any dharma that the Tathagata has fully awakened to as unsurpassed complete awakening. The children's sentence is tangled with stacked quoted terms and adds 'जानकर' (knowing).",
+    "fix": "क्या तुम सोचते हो कि ऐसी कोई चीज़ है जिसे इसी तरह गए हुए ने सर्वोच्च पूर्ण जागृति के रूप में पूरी तरह जागकर पाया हो?"
+   }
+  ]
+ },
+ {
+  "id": "10-35",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जिसे जानकर 'इसी तरह गए हुए' 'सर्वोच्च पूर्ण जागृति' के रूप में 'पूरी तरह जागे हुए' हों",
+    "evidence": "Academic: no dharma exists that the Tathagata fully awakened to as unsurpassed complete awakening. Wording is tangled and adds 'जानकर'.",
+    "fix": "भगवान, ऐसी कोई चीज़ नहीं है जिसे इसी तरह गए हुए ने सर्वोच्च पूर्ण जागृति के रूप में पूरी तरह जागकर पाया हो।"
+   }
+  ]
+ },
+ {
+  "id": "10-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-42",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "उसे पूरी तरह जागे हुए पाया जाता है",
+    "evidence": "Academic: by all wholesome dharmas it (the awakening) is fully awakened to / realized. The children's text says the awakening is \"found to be fully awake\", changing subject and object.",
+    "fix": "सभी अच्छी चीज़ों के द्वारा उस जागृति को पूरी तरह जागकर पाया जाता है।"
+   }
+  ]
+ },
+ {
+  "id": "10-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-45",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अरब दुनियाओं वाला ब्रह्माण्ड नाम के दुनिया-क्षेत्र में",
+    "evidence": "The Tibetan names one realm, the trichiliocosm (three-thousand great-thousand world-system); the phrase 'named ... world-region' is clumsy for children.",
+    "fix": "अरब दुनियाओं वाले ब्रह्माण्ड में जितने भी सुमेरु पर्वत, यानी पहाड़ों के राजा हैं,"
+   }
+  ]
+ },
+ {
+  "id": "10-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-52",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वे कोई इंसान नहीं हैं",
+    "evidence": "Academic: the Tathagata has called them 'devoid of ordinary-being-ness' (pṛthagjana-rahita), not that they are not people; the plain reading could suggest they do not exist.",
+    "fix": "इसी तरह गए हुए ने उन्हें 'आम इंसान होने' से खाली कहा है;"
+   }
+  ]
+ },
+ {
+  "id": "10-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जागृति-वीर का वाहन के रास्ते पर",
+    "evidence": "Ungrammatical genitive; meaning (those properly set out on the bodhisattva vehicle) is intact.",
+    "fix": "जो लोग जागृति-वीर के वाहन पर ठीक से चलते हैं, वे किसी भी चीज़ को नष्ट होना या कट जाना नहीं कहते।"
+   }
+  ]
+ },
+ {
+  "id": "11-10",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "इस शिक्षा के पाठ के बिना अपने आप के और न जन्मा हुआ होने में धैर्य पा ले",
+    "evidence": "Academic: the bodhisattva attains patience in (acceptance of) this teaching being without self and unborn; the Hindi garbles it so 'without the lesson' reads as lacking the teaching and the object of patience is lost.",
+    "fix": "इस शिक्षा के पाठ में, यानी इस बात में कि कोई अपना आप नहीं है और कुछ भी जन्मा नहीं है, धैर्य पा ले"
+   }
+  ]
+ },
+ {
+  "id": "11-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-1",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "अरब दुनियाओं वाले ब्रह्माण्ड के इस दुनिया-क्षेत्र की सारी मिट्टी",
+    "evidence": "Tibetan/academic: all the earth-dust in the whole trichiliocosm (the billion-world universe), not in one world-region of it; the scope is narrowed.",
+    "fix": "अरब दुनियाओं वाले पूरे ब्रह्माण्ड में जितनी भी मिट्टी के कण हैं, उन सबको पीस दे"
+   }
+  ]
+ },
+ {
+  "id": "12-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बहुत बड़ा होगा",
+    "evidence": "Tibetan mang ba and the academic text say the aggregate would be 'many/much' (बहुत), not 'big' in size.",
+    "fix": "वह नन्हे कणों का गुच्छा बहुत होगा।"
+   }
+  ]
+ },
+ {
+  "id": "12-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-8",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "नाम का दुनिया-क्षेत्र कहा जाता है",
+    "evidence": "Academic text: 'therefore it is called the three-thousand great-thousand world-realm'. Adding 'दुनिया-क्षेत्र' as a further label, right after 'it is not a world-realm', is confusing and blurs the logic.",
+    "fix": "इसलिए उसे 'अरब दुनियाओं वाला ब्रह्माण्ड' कहा जाता है।"
+   }
+  ]
+ },
+ {
+  "id": "12-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "नहीं चिपके रहना कहा है",
+    "evidence": "Academic text: the Tathagata called it 'non-grasping' (agrahya); the children's phrase is awkward and ungrammatical Hindi.",
+    "fix": "उसे इसी तरह गए हुए ने चिपके रहना नहीं, यानी बिना चिपकना कहा है,"
+   }
+  ]
+ },
+ {
+  "id": "12-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-24",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "पूर्णता के साथ समझे",
+    "evidence": "Tibetan kun chub par byed (understand fully); 'पूर्णता' is the locked term for paramita and is misused here for 'fully'.",
+    "fix": "अच्छी तरह पूरा समझे"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "और सुभूति, अगर कोई महान जागृति-वीर ... जमा हुई भलाई पैदा करेगा।",
+    "evidence": "Academic text is one long sentence; the children's version keeps it as a single tangled sentence too hard for ages 8-12.",
+    "fix": "इसे दो-तीन छोटे वाक्यों में तोड़ें: पहले उपहार देने वाले की बात, फिर चार पंक्तियों की कविता वाले की बात, फिर 'उसकी जमा हुई भलाई कहीं ज़्यादा होगी।'"
+   }
+  ]
+ },
+ {
+  "id": "12-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "पूर्णता के साथ समाप्त हुआ",
+    "evidence": "Tibetan rdzogs so means 'is completed/finished'; 'पूर्णता' is the locked term for paramita and is used here for a different meaning.",
+    "fix": "उत्तम 'हीरे की तरह काटने वाली पूर्ण समझदारी' नामक महान वाहन का पवित्र ग्रंथ यहाँ पूरा हुआ।"
+   }
+  ]
+ },
+ {
+  "id": "13-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-6",
+  "verdict": "pass",
+  "issues": []
+ }
+]

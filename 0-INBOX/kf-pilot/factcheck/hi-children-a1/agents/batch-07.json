@@ -1,0 +1,237 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "चौरासी करोड़ लाख बुद्ध",
+     "evidence": "The academic translation gives the huge count 'eighty-four koti-niyuta-shatasahasra' buddhas; the children's text compresses it into an unclear 'crore lakh' phrase.",
+     "fix": "चौरासी करोड़ गुणा लाखों-लाख बुद्ध (यानी बहुत-बहुत ज़्यादा) आए थे"
+    }
+   ]
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जो अच्छे परिवार का बेटा या अच्छे परिवार की बेटी जितनी जमा हुई भलाई का ढेर अच्छी तरह रखेंगे, उन अच्छे परिवार के बेटे या अच्छे परिवार की बेटी की जमा हुई भलाई का ढेर कितना है",
+     "evidence": "The academic text says: if I described the merit that those sons/daughters of good family will firmly hold, beings would go mad and their minds be confused. The children's sentence is long, repetitive and tangled.",
+     "fix": "सुभूति, उस समय जो अच्छे परिवार के बेटे या बेटियाँ इस ग्रंथ को अच्छी तरह थामेंगे, उनकी जमा हुई भलाई का ढेर अगर मैं पूरा बताऊँ, तो प्राणी पागल हो जाएँगे और उनका मन भटक जाएगा।"
+    }
+   ]
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "ऐसे विस्तार में ले जाकर पूरी तरह शोक से मुक्ति दिलाऊँगा, जो ऐसी शोक से मुक्ति जिसमें कोई समूह बचा न हो है",
+     "evidence": "The academic translation: 'I will bring all beings to complete nirvana in the realm of nirvana without remainder of aggregates.' The children's clause is ungrammatical and tangled.",
+     "fix": "'मैं सभी प्राणियों को उस विस्तार में पूरी तरह शोक से मुक्ति दिलाऊँगा, जो शोक से मुक्ति ऐसी है जिसमें कोई समूह बचा नहीं रहता।'"
+    }
+   ]
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उसे 'इसी तरह गए हुए' ऐसा कहते हैं",
+     "evidence": "The academic translation says the Tathagata calls that (one) 'bodhisattva, bodhisattva'. The children's word order is ambiguous and could be read as the Tathagata addressing someone.",
+     "fix": "उसे 'इसी तरह गए हुए' 'जागृति-वीर, जागृति-वीर' कहते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-105",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

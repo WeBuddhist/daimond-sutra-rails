@@ -1,0 +1,213 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "8-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अलग-अलग विचारों की मन की धाराओं को",
+     "evidence": "Academic: 'the mind-streams of their varied intentions'; meaning intact but the chained 'की ... की' genitives are clumsy for ages 8-12.",
+     "fix": "उनके अलग-अलग विचारों वाली मन की धाराओं को मैं अच्छी तरह जानता हूँ।"
+    }
+   ]
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

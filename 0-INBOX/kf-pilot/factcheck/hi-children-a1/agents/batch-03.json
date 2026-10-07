@@ -1,0 +1,229 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "6-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बहुत सारा जमा हुई भलाई का ढेर",
+     "evidence": "Source asks whether he would generate much merit-heap; the children's phrase is ungrammatical (masculine 'सारा' with feminine 'जमा हुई भलाई').",
+     "fix": "जमा हुई भलाई का बहुत बड़ा ढेर"
+    }
+   ]
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-43",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "इससे बहुत बड़ा",
+     "evidence": "Source says he generates much merit 'from that basis' (the gift); there is no comparison. 'इससे बहुत बड़ा' reads as 'bigger than this', adding a comparison that only appears later in 6-46.",
+     "fix": "वह अच्छे परिवार का बेटा या अच्छे परिवार की बेटी ऐसा करने से जमा हुई भलाई का बहुत बड़ा ढेर बनाएगा।"
+    }
+   ]
+  },
+  {
+   "id": "6-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "अरब दुनियाओं वाले ब्रह्माण्ड के इस दुनिया-क्षेत्र को",
+     "evidence": "The whole trichiliocosm world-system is filled with the seven jewels; the children's wording makes the filled thing one 'world-region' within the universe, a slight change of scope.",
+     "fix": "इस पूरे अरब दुनियाओं वाले ब्रह्माण्ड को सात कीमती चीज़ों से पूरा भरकर"
+    }
+   ]
+  },
+  {
+   "id": "6-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}
