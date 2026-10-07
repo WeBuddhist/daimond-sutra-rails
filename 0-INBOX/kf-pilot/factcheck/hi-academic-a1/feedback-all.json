@@ -1,0 +1,515 @@
+{
+ "0-1": {
+  "translation": "आर्य वज्रच्छेदिका प्रज्ञापारमिता यहाँ विद्यमान है।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The Tibetan has ཞེས་བྱ་བ (\"called/named\") linking the title to the sūtra (Sanskrit has नाम); the Hindi gives the title with no \"named/called\", and uses Sanskrit title order rather than the Tibetan order (འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ). english_academic: \"called the Diamond Cutter\".",
+    "fix": "आर्य प्रज्ञापारमिता, वज्रच्छेदिका नामक, यहाँ विद्यमान है।"
+   }
+  ]
+ },
+ "1-2": {
+  "translation": "भगवान श्रावस्ती में अनाथपिण्डद के जेतवन आराम में एक हज़ार दो सौ पचास भिक्षुओं के महान भिक्षु संघ और अत्यंत बहुत से बोधिसत्त्व महासत्त्वों के साथ विहार कर रहे थे।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अत्यंत बहुत से बोधिसत्त्व महासत्त्वों",
+    "evidence": "Tibetan བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དག = \"very many bodhisattva mahāsattvas\"; \"अत्यंत बहुत से\" is a clumsy double intensifier in Hindi.",
+    "fix": "अत्यंत अनेक बोधिसत्त्व महासत्त्वों"
+   }
+  ]
+ },
+ "2-3": {
+  "translation": "भगवान, तथागत, अर्हत्, सम्यक्सम्बुद्ध ने बोधिसत्त्व महासत्त्वों को जिस परम अनुग्रह से अनुगृहीत किया है, और तथागत ने बोधिसत्त्व महासत्त्वों को जिस परम परिन्दना से परिन्दित किया है, हे भगवान, यह आश्चर्य है! हे सुगत, यह आश्चर्य है!",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "भगवान, तथागत, अर्हत्, सम्यक्सम्बुद्ध ने",
+    "evidence": "Tibetan: བཅོམ་ལྡན་འདས་ is the vocative addressed to the Buddha, while དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས is the agent (the Buddha as Tathāgata, Arhat, Samyaksambuddha); the Hindi comma list reads as four co-ordinate titles of one agent, with भगवान not marked as vocative (cf. english_academic \"Blessed One, ... the Tathāgata, the arhat, the perfectly complete Buddha\").",
+    "fix": "हे भगवान, तथागत अर्हत् सम्यक्सम्बुद्ध ने"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "परिन्दना से परिन्दित",
+    "evidence": "Tibetan ཡོངས་སུ་གཏད་པ means \"to entrust\"; Chone Drakpa Shedrub 2-3 glosses it as the threefold entrusting (ཡོངས་སུ་གཏད་པ ... གནས་དང་ཆོས་དང་བཀར་གདགས་པ). \"परिन्दना/परिन्दित\" is an untranslated Sanskrit form (parīndanā) that conveys no meaning in Hindi.",
+    "fix": "परम सौंपने (परिन्दना) से सौंपा है"
+   }
+  ]
+ },
+ "3-5": {
+  "translation": "तथागत ने बोधिसत्त्व महासत्त्वों को परम परिन्दना से परिन्दित किया है।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "परम परिन्दना से परिन्दित किया है",
+    "evidence": "Tibetan ཡོངས་སུ་གཏད་པའི་དམ་པས་ཡོངས་སུ་གཏད་དོ means \"entrusted with the supreme entrustment\" (english_academic); \"परिन्दना/परिन्दित\" is an opaque Sanskrit transliteration, not Hindi for \"entrust\".",
+    "fix": "परम सौंपने (परिन्दना) से सौंपा है"
+   }
+  ]
+ },
+ "4-1": {
+  "translation": "सुभूति, यहाँ बोधिसत्त्वयान में सम्यक् रूप से प्रविष्ट हुए को इस प्रकार विचार करना चाहिए: 'मेरे द्वारा जितने भी सत्त्व सत्त्व-संग्रह द्वारा संगृहीत हैं—चाहे वे अंडज हों, या जरायुज हों, या संस्वेदज हों, या औपपादुक हों, रूपी हों या अरूपी हों, संज्ञी हों, या असंज्ञी हों, या नैवसंज्ञी-नासंज्ञी हों, सत्त्व-धातु में प्रज्ञप्ति द्वारा जितने भी सत्त्व के रूप में प्रज्ञप्त हैं, उन सभी को मैं स्कन्ध-शेष-रहित निर्वाणधातु में परिनिर्वाण प्राप्त कराऊँगा।'",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "मेरे द्वारा जितने भी सत्त्व सत्त्व-संग्रह द्वारा संगृहीत हैं",
+    "evidence": "Tibetan 'བདག་གིས་སེམས་ཅན་ཇི་ཙམ་སེམས་ཅན་དུ་བསྡུ་བས་བསྡུས་པ' and Sanskrit 'yāvantaḥ sattvāḥ sattvasaṃgraheṇa saṃgṛhītāḥ ... te ca mayā sarve ... parinirvāpayitavyāḥ' show the 'I' (བདག་གིས / mayā) as the agent of leading to nirvāṇa, not of the subsumption. Placing 'मेरे द्वारा' beside 'संगृहीत' makes it read as if the beings are subsumed by me.",
+    "fix": "जितने भी सत्त्व सत्त्व-संग्रह द्वारा संगृहीत हैं ... उन सभी को मैं स्कन्ध-शेष-रहित निर्वाणधातु में परिनिर्वाण प्राप्त कराऊँगा"
+   }
+  ]
+ },
+ "5-1": {
+  "translation": "हे सुभूति, क्योंकि जो बोधिसत्त्व अप्रतिष्ठित होकर दान देता है, हे सुभूति, उसकी पुण्यराशि का प्रमाण लेना सुकर नहीं है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्रमाण लेना सुकर नहीं है",
+    "evidence": "Tibetan 'ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པ' (Sanskrit 'pramāṇam udgrahītum') means to take the measure/extent. Hindi 'प्रमाण लेना' reads as 'take proof/evidence', which is a misleading collocation; 'माप करना' or 'परिमाण जानना' is the natural rendering. The same wording recurs in 5-2 and 5-4.",
+    "fix": "उसकी पुण्यराशि का माप करना सरल नहीं है"
+   }
+  ]
+ },
+ "5-2": {
+  "translation": "हे सुभूति, तुम क्या सोचते हो? क्या पूर्व दिशा के आकाश का प्रमाण लेना सुकर है?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्रमाण लेना सुकर है",
+    "evidence": "Tibetan 'ཚད་གཟུང་བར་སླ' means to grasp the measure/extent of space; 'प्रमाण लेना' in Hindi suggests taking proof, not measuring.",
+    "fix": "क्या पूर्व दिशा के आकाश का माप करना सरल है?"
+   }
+  ]
+ },
+ "5-4": {
+  "translation": "भगवान ने कहा— हे सुभूति, उसी प्रकार दक्षिण, पश्चिम, उत्तर, ऊर्ध्व, नीचे की दिशा, विदिशाओं, और दशदिशाओं के आकाश का प्रमाण लेना क्या सुकर है?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्रमाण लेना क्या सुकर है",
+    "evidence": "Tibetan 'ཚད་གཟུང་བར་སླའམ' means 'is it easy to measure'; 'प्रमाण लेना' reads as 'take proof' in Hindi.",
+    "fix": "आकाश का माप करना क्या सरल है?"
+   }
+  ]
+ },
+ "5-6": {
+  "translation": "भगवान ने कहा: सुभूति, उसी प्रकार किसी में भी अप्रतिष्ठित होकर दान देने वाले बोधिसत्त्व की पुण्यराशि को, सुभूति, मापना सरल नहीं होने के कारण है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "पुण्यराशि को, सुभूति, मापना सरल नहीं होने के कारण है",
+    "evidence": "Tibetan 'བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ' states a simple 'because ... is not easy to measure'. The Hindi construction 'पुण्यराशि को ... मापना ... के कारण है' is ungrammatical and hard to parse, and uses 'मापना' where 5-1 uses 'प्रमाण लेना' (inconsistent).",
+    "fix": "उसकी पुण्यराशि का माप करना, सुभूति, सरल नहीं है; इसी कारण से।"
+   }
+  ]
+ },
+ "6-8": {
+  "translation": "इस प्रकार तथागत को लक्षण और निमित्त-रहित देखना चाहिए।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "लक्षण और निमित्त-रहित",
+    "evidence": "Tibetan མཚན་དང་མཚན་མ་མེད་པར་བལྟའོ is parsed by the commentaries as 'by marks, and as without signs/non-marks' (Kamalaśīla bo-kamalasila-tika 3-51: conventionally view the Tathāgata by marks, ultimately as markless; Vasubandhu 2-20: marks viewed as non-marks); Sanskrit lakṣaṇālakṣaṇataḥ. The Hindi 'लक्षण और निमित्त-रहित' can only be read as 'free of both marks and signs', which excludes the 'with marks / without signs' reading that the English cross-reference and Kamalaśīla give.",
+    "fix": "लक्षण के रूप में तथा निमित्त-रहित (लक्षण-अलक्षण) रूप में देखना चाहिए"
+   }
+  ]
+ },
+ "6-19": {
+  "translation": "ऐसा किसलिए है? हे सुभूति, क्योंकि उन बोधिसत्त्व महासत्त्वों में आत्मन् विषयक आत्म-संज्ञा प्रवृत्त नहीं होती,",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "आत्मन् विषयक आत्म-संज्ञा",
+    "evidence": "Tibetan བདག་ཏུ་འདུ་ཤེས is the locked 'आत्म-संज्ञा'; the added gloss 'आत्मन् विषयक' is redundant and slightly awkward. Tibetan འཇུག་པར་མི་འགྱུར is also future/habitual ('will not engage'), while the next segment 6-20 switches to future.",
+    "fix": "आत्म-संज्ञा प्रवृत्त नहीं होती"
+   }
+  ]
+ },
+ "6-20": {
+  "translation": "सत्त्व-संज्ञा नहीं होगी, जीव-संज्ञा नहीं होगी, और पुद्गल-संज्ञा में प्रवृत्त नहीं होंगे।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "सत्त्व-संज्ञा नहीं होगी, जीव-संज्ञा नहीं होगी, और पुद्गल-संज्ञा में प्रवृत्त नहीं होंगे",
+    "evidence": "Tibetan སེམས་ཅན་དུ་འདུ་ཤེས་པ་མ་ཡིན། སྲོག་ཏུ་འདུ་ཤེས་པ་མ་ཡིན། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར is a parallel triad of the same construction (Sanskrit न सत्त्वसंज्ञा, न जीवसंज्ञा, न पुद्गलसंज्ञा प्रवर्तते). The Hindi changes the subject and verb in the third member (persons 'प्रवृत्त नहीं होंगे' versus the perceptions 'नहीं होगी') and the tense differs from 6-19; meaning intact.",
+    "fix": "सत्त्व-संज्ञा प्रवृत्त नहीं होगी, जीव-संज्ञा प्रवृत्त नहीं होगी, और पुद्गल-संज्ञा भी प्रवृत्त नहीं होगी"
+   }
+  ]
+ },
+ "6-49": {
+  "translation": "ऐसा किसलिए है? सुभूति, जिन्हें बुद्ध-गुण, बुद्ध-गुण कहा जाता है, तथागत ने कहा है कि वे बुद्ध-गुण नहीं हैं, इसीलिए;",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "तथागत ने कहा है कि वे बुद्ध-गुण नहीं हैं",
+    "evidence": "Tibetan says སངས་རྒྱས་ཀྱི་ཆོས་དེ་དག་མེད་པར་དེ་བཞིན་གཤེགས་པའི་གསུངས་པ — the Tathāgata spoke of those buddha-qualities as non-existent (མེད་པར). Chone Drakpa Shedrub 2-42 glosses it: དོན་དམ་པར་དེ་དག་མེད་པར་... ('ultimately those do not exist') and Vasubandhu 2-36 repeats བཅོམ་ལྡན་འདས... མེད་པར. Hindi 'वे बुद्ध-गुण नहीं हैं' reads naturally as 'they are not buddha-qualities' (the Sanskrit abuddhadharmāḥ sense) rather than 'they do not exist'.",
+    "fix": "तथागत ने उन बुद्ध-गुणों को अविद्यमान (अभाव रूप) कहा है"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इसीलिए;",
+    "evidence": "Tibetan ends the clause with ཕྱིར་ཏེ ('because'), answering དེ་ཅིའི་ཕྱིར་ཞེ་ན ('Why is that?'). Hindi closes with a dangling 'इसीलिए' ('therefore/for this reason'), which reverses the causal direction and is followed by another 'इसीलिए' in 6-50, so the reasoning is hard to parse.",
+    "fix": "क्योंकि तथागत ने उन बुद्ध-गुणों को अविद्यमान कहा है;"
+   }
+  ]
+ },
+ "7-8": {
+  "translation": "वह किसलिए? भगवान, यदि स्रोतापन्न ऐसा सोचे कि आत्मन् ने स्रोतापत्ति-फल प्राप्त कर लिया है, तो वह उसका आत्म-ग्राह ही होगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "आत्मन् ने स्रोतापत्ति-फल प्राप्त कर लिया है",
+    "evidence": "Tibetan \"བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ\" has བདག་གིས as the first-person pronoun 'by me' (Sanskrit \"मया स्रोतआपत्तिफलं प्राप्तमिति\"; english_academic: 'he had attained the fruit'). The locked term आत्मन् is for the doctrinal 'self' in བདག་ཏུ་འཛིན་པ, not for the pronoun. The Hindi makes 'the self' the agent who attained the fruit, which changes the sense of what the stream-enterer thinks.",
+    "fix": "कि 'मैंने स्रोतापत्ति-फल प्राप्त कर लिया है'"
+   }
+  ]
+ },
+ "7-15": {
+  "translation": "भगवान, यदि सकृदागामी ऐसा सोचे कि 'आत्मन् ने सकृदागामी-फल प्राप्त कर लिया है', तो वह उसका आत्म-ग्राह ही होगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "'आत्मन् ने सकृदागामी-फल प्राप्त कर लिया है'",
+    "evidence": "Tibetan \"བདག་གིས་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ\": བདག་གིས is the pronoun 'by me' (cf. parallel 7-11 where the Hindi correctly has 'मैंने', and english_academic 'I have attained'). Rendering it as आत्मन् turns the thought into 'the self attained the fruit'.",
+    "fix": "'मैंने सकृदागामी-फल प्राप्त कर लिया है'"
+   }
+  ]
+ },
+ "7-26": {
+  "translation": "भगवान, यदि अर्हत् ऐसा सोचे कि 'मैंने अर्हत्त्व प्राप्त कर लिया है', तो वह उसका आत्मन् के प्रति ग्राह, आत्म-ग्राह ही होगा।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "आत्मन् के प्रति ग्राह, आत्म-ग्राह ही होगा",
+    "evidence": "Tibetan \"དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར\" is one compound idea, 'that itself would be his self-grasping' (Sanskrit \"स एव तस्यात्मग्राहो भवेत्\"). The Hindi states it twice (a glossed 'ग्राह towards आत्मन्' plus the locked compound), which is redundant and awkward; 7-8 correctly gives only the compound.",
+    "fix": "तो वह उसका आत्म-ग्राह ही होगा"
+   }
+  ]
+ },
+ "7-28": {
+  "translation": "भगवान, मुझे तथागत, अर्हत् और सम्यक्सम्बुद्ध बुद्ध ने क्लेश-रहित विहारी जनों में अग्र निर्दिष्ट किया है,",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "तथागत, अर्हत् और सम्यक्सम्बुद्ध बुद्ध ने",
+    "evidence": "Tibetan \"དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས\" is three epithets of one person (Sanskrit \"तथागतेनार्हता सम्यक्संबुद्धेन\"). ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས is fully covered by सम्यक्सम्बुद्ध, so the extra 'बुद्ध' is redundant, and 'और' between the epithets can suggest separate persons.",
+    "fix": "तथागत, अर्हत्, सम्यक्सम्बुद्ध ने"
+   }
+  ]
+ },
+ "7-29": {
+  "translation": "भगवान, यद्यपि मैं राग से रहित, वीतराग अर्हत् हूँ, तथापि भगवान, मैं ऐसा नहीं सोचता कि 'मैं अर्हत् हूँ'।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "राग से रहित, वीतराग अर्हत्",
+    "evidence": "Tibetan \"འདོད་ཆགས་དང་བྲལ་བ་དགྲ་བཅོམ་པ\" has a single phrase 'free from desire' (locked: འདོད་ཆགས་དང་བྲལ་བ = वीतराग; Sanskrit \"अर्हन् वीतरागः\"). The Hindi renders it twice ('राग से रहित' and 'वीतराग'), which is redundant.",
+    "fix": "यद्यपि मैं वीतराग अर्हत् हूँ"
+   }
+  ]
+ },
+ "7-33": {
+  "translation": "क्या तुम सोचते हो कि ऐसा कोई भी धर्म है जिसे तथागत ने तथागत, अर्हत्, सम्यक्सम्बुद्ध, बुद्ध दीपंकर से ग्रहण किया था?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सम्यक्सम्बुद्ध, बुद्ध दीपंकर",
+    "evidence": "Tibetan has a single title 'ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད' (perfectly complete Buddha Dīpaṃkara), where 'སངས་རྒྱས' is already the final element of samyaksaṃbuddha (Sanskrit: dīpaṃkarasya tathāgatasyārhataḥ samyaksaṃbuddhasya). Rendering both सम्यक्सम्बुद्ध and a separate बुद्ध duplicates 'Buddha', and the commas make the epithets read as separate persons.",
+    "fix": "तथागत, अर्हत्, सम्यक्सम्बुद्ध दीपंकर से"
+   }
+  ]
+ },
+ "7-35": {
+  "translation": "ऐसा कोई भी धर्म बिल्कुल भी नहीं है जिसे तथागत ने तथागत, अर्हत्, सम्यक्सम्बुद्ध, बुद्ध दीपंकर से ग्रहण किया हो।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सम्यक्सम्बुद्ध, बुद्ध दीपंकर",
+    "evidence": "Tibetan has a single title 'ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད' (perfectly complete Buddha Dīpaṃkara), where 'སངས་རྒྱས' is already the final element of samyaksaṃbuddha (Sanskrit: dīpaṃkarasya tathāgatasyārhataḥ samyaksaṃbuddhasya). Rendering both सम्यक्सम्बुद्ध and a separate बुद्ध duplicates 'Buddha', and the commas make the epithets read as separate persons.",
+    "fix": "तथागत, अर्हत्, सम्यक्सम्बुद्ध दीपंकर से"
+   }
+  ]
+ },
+ "7-72": {
+  "translation": "क्या तथागत द्वारा कहा गया ऐसा कोई भी धर्म है?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan ends ཡོད་སྙམ་མམ ('do you think there is...?'), with the verb of thinking (སྙམ) carrying the question; the Hindi drops 'do you think', and english_academic keeps it.",
+    "fix": "क्या तुम समझते हो कि तथागत द्वारा कहा गया कोई भी धर्म है?"
+   }
+  ]
+ },
+ "7-75": {
+  "translation": "त्रिसाहस्र-महासाहस्र लोकधातु में जितने भी पृथ्वी-रजकण हैं, क्या वे बहुत हैं?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan ends མང་བ་ཡིན་སྙམ་མམ ('do you think they are many?'); the Hindi omits the verb of thinking (སྙམ), which english_academic retains.",
+    "fix": "क्या तुम समझते हो कि वे बहुत हैं?"
+   }
+  ]
+ },
+ "7-78": {
+  "translation": "वह किसलिए? भगवान, इसलिए क्योंकि जो पृथ्वी-रजकण हैं, उन्हें तथागत ने रजकण नहीं कहा है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "उन्हें तथागत ने रजकण नहीं कहा है",
+    "evidence": "Tibetan སའི་རྡུལ་གང་ལགས་པ་དེ་རྡུལ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པ: the Tathāgata taught it AS a non-particle (རྡུལ་མ་མཆིས་པར; Skt arajas tad bhāṣitam), a predication. The Hindi reads as 'the Tathāgata did not call them particles', a denial of the act of naming, which contradicts the next line (called 'particle'). Kamalaśīla 3-115 (རྡུལ་མེད་པ་ཁོ་ན) and Vasubandhu 2-54 confirm; compare 7-80 where the same structure is correctly rendered 'अधातु कहा है'.",
+    "fix": "उन्हें तथागत ने रजकण-रहित (अ-रजकण) कहा है"
+   }
+  ]
+ },
+ "8-18": {
+  "translation": "ऐसा किसलिए है? भगवान, जो आत्मन् की संज्ञा, सत्त्व की संज्ञा, जीव की संज्ञा, और पुद्गल की संज्ञा है, वही सभी संज्ञाओं से रहित होने के कारण है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "वही सभी संज्ञाओं से रहित होने के कारण है।",
+    "evidence": "Tibetan: 'གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ' (the answer to 'why?'; Sanskrit 'सैवासंज्ञा'). The Hindi makes the whole perception clause the subject of 'होने के कारण है' (that itself is because of being devoid), which is ungrammatical and obscures that the perception of self etc. is itself devoid of all perceptions (cf. Chone Drakpa Shedrub 2-76, 'འདུ་ཤེས་དག་དོན་དམ་པར་འདུ་ཤེས་སུ་གྲུབ་པ་དང་བྲལ་བ').",
+    "fix": "वही सभी संज्ञाओं से रहित है।"
+   }
+  ]
+ },
+ "8-19": {
+  "translation": "वह किसलिए? क्योंकि बुद्ध भगवान सभी संज्ञाओं से रहित हैं।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "बुद्ध भगवान",
+    "evidence": "Tibetan 'སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས' has the plural marker 'རྣམས' (Sanskrit 'बुद्ध भगवन्तः', plural; Kamalaśīla 3-130 'སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས'). The Hindi 'बुद्ध भगवान' can be read as a single Buddha-Bhagavān, losing the plural (contrast 8-24 which uses the plural 'बुद्ध भगवानों').",
+    "fix": "बुद्ध भगवान् (सभी बुद्धगण) सभी संज्ञाओं से रहित हैं"
+   }
+  ]
+ },
+ "8-68": {
+  "translation": "और सुभूति, जो कुलपुत्र या कुलपुत्री इस प्रकार के सूत्र के इन शब्दों को ग्रहण करेंगे, धारण करेंगे, वाचन करेंगे, पढ़ेंगे, और पर्यवाप्त करेंगे, वे परिभूत होंगे,",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "वे परिभूत होंगे",
+    "evidence": "Tibetan \"མནར་བར་འགྱུར\" means to be tormented/harassed. Kamalaśīla (3-160) glosses \"མནར་བར་འགྱུར་ཞེས་བྱ་བ་ནི་སྤྱོ་བ་དང་། མཚང་འབྲུ་བ་ལ་སོགས་པས་གནོད་པར་བྱེད་པ\" (harmed by abuse, insult etc.); Chone Drakpa Shedrub (2-97) lists illness, quarrels, beating and binding. The English academic has \"tormented\". Hindi \"परिभूत\" (despised/humiliated/overcome) narrows the sense to humiliation and is also obscure in Hindi.",
+    "fix": "वे प्रताड़ित होंगे"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वाचन करेंगे, पढ़ेंगे",
+    "evidence": "The Tibetan lists five verbs: ལེན་པ (take up), འཛིན་པ (hold), འཆང་བ (keep/retain), ཀློག་པ (read), ཀུན་ཆུབ་པར་བྱེད་པ (master). The Hindi renders both འཆང་བ and ཀློག་པ as recitation/reading (\"वाचन\", \"पढ़ना\"), so the item \"keep/retain\" is lost (elsewhere in this batch འཆང་བ is \"स्मरण रखे\"/\"पास रखेगा\").",
+    "fix": "ग्रहण करेंगे, धारण करेंगे, स्मरण रखेंगे, पढ़ेंगे, और पर्यवाप्त करेंगे"
+   }
+  ]
+ },
+ "8-69": {
+  "translation": "वे अत्यन्त परिभूत होंगे।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "अत्यन्त परिभूत होंगे",
+    "evidence": "Tibetan \"ཤིན་ཏུ་མནར་བར་འགྱུར\" = severely tormented. Kamalaśīla (3-160) glosses the intensified \"ཡོངས་སུ་མནར་བ\" as harm by \"གསད་པ་དང་བཅིང་བ\" (killing, binding); Vasubandhu (2-88) speaks of \"ཤིན་དུ་གདུང་བ\" (intense suffering). \"परिभूत\" conveys humiliation/contempt, not severe torment.",
+    "fix": "वे अत्यन्त प्रताड़ित होंगे"
+   }
+  ]
+ },
+ "8-70": {
+  "translation": "ऐसा क्यों? सुभूति, उन सत्त्वों द्वारा पूर्वजन्म में किए गए वे अकुशल कर्म जिनसे दुर्गति में जन्म होता, इसी जन्म में परिभूत होने के कारण, पूर्वजन्म में किए गए वे अकुशल कर्म जिनसे दुर्गति में जन्म होता, शुद्ध हो जाएँगे,",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "इसी जन्म में परिभूत होने के कारण",
+    "evidence": "Tibetan \"ཚེ་འདི་ཉིད་ལ་མནར་བས\" = because tormented in this very life; Kamalaśīla (3-160) explains the torment as harm by abuse, killing and binding, and Chone Drakpa Shedrub (2-97) as illness, quarrels, beating and binding, whose suffering exhausts the past non-virtuous karma. \"परिभूत\" (humiliated/despised) misses this sense.",
+    "fix": "इसी जन्म में प्रताड़ित होने के कारण"
+   }
+  ]
+ },
+ "8-82": {
+  "translation": "किस प्रकार चित्त का निग्रह करना चाहिए?",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "चित्त का निग्रह करना",
+    "evidence": "Tibetan སེམས་རབ་ཏུ་གཟུང་བར་བགྱི (Skt. cittaṃ pragrahītavyam) means 'fully hold/take up the mind' (cf. Kamalaśīla 3-167 སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ; 8-76 renders རབ་ཏུ་འཛིན་པ as भली-भाँति धारण). 'निग्रह' means restraint/suppression, a different nuance, and loses the རབ་ཏུ་ (pra-) 'fully' and གཟུང་ 'hold'.",
+    "fix": "चित्त को भली-भाँति धारण करना चाहिए"
+   }
+  ]
+ },
+ "8-93": {
+  "translation": "ऐसा निवेदन किए जाने पर, भगवान् ने आयुष्मान् सुभूति से यह कहा:",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "भगवान्",
+    "evidence": "Locked rendering for བཅོམ་ལྡན་འདས is भगवान (used in 8-79, 8-80, 8-83, 8-91, 8-92); 8-93 uses the variant spelling with halant, inconsistent with the glossary.",
+    "fix": "भगवान"
+   }
+  ]
+ },
+ "9-23": {
+  "translation": "ऐसा किसलिए? सुभूति, जिसे 'चित्त-धारा, चित्त-धारा' कहा जाता है, तथागत ने उसे धारा-रहित कहा है।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "तथागत ने उसे धारा-रहित कहा है",
+    "evidence": "The Tibetan ends in the causal particle 'གསུངས་པའི་ཕྱིར་ཏེ' ('because the Tathāgata has taught it as no stream'), giving the reason answering 'དེ་ཅིའི་ཕྱིར་ཞེ་ན'; the Hindi drops the causal marker, so the clause reads as a bare statement rather than the stated reason (Skt. 'adhāraiṣā tathāgatena bhāṣitā' is likewise a reason clause).",
+    "fix": "क्योंकि तथागत ने उसे धारा-रहित कहा है"
+   }
+  ]
+ },
+ "10-24": {
+  "translation": "यदि कोई यह माने कि तथागत ऐसा विचार करते हैं कि 'मैंने धर्म का उपदेश दिया है', तो सुभूति, उसे इस प्रकार नहीं देखना चाहिए।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "यदि कोई यह माने कि",
+    "evidence": "The Tibetan conditional (\"དགོངས་སོ་སྙམ་ན། རབ་འབྱོར་དེ་དེ་ལྟར་མི་ལྟ་སྟེ\") is an address to Subhūti, who is told not to view it so; the Sanskrit makes it a question put to Subhūti. 'कोई' turns the address into a general statement about an unspecified person.",
+    "fix": "यदि तुम ऐसा सोचो कि तथागत यह विचार करते हैं कि 'मैंने धर्म का उपदेश दिया है', तो सुभूति, तुम इसे इस प्रकार मत देखो।"
+   }
+  ]
+ },
+ "10-26": {
+  "translation": "सुभूति, यदि कोई ऐसा कहे कि 'तथागत ने धर्म का उपदेश दिया है', तो सुभूति, वह असत् और मिथ्या ग्रहण करने के कारण मेरी निन्दा करेगा।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "मेरी निन्दा करेगा",
+    "evidence": "Tibetan \"ང་ལ་སྐུར་བར་འགྱུར་རོ\" (Skt abhyācakṣīta) means to slander or falsely accuse; Kamalaśīla 3-200 glosses \"སྐུར་པ་ནི་དོན་མེད་པར་གླེང་བའི་ཕྱིར\" (it is raising a baseless charge). 'निन्दा' means censure or criticism and does not convey the falseness of the charge.",
+    "fix": "मुझ पर मिथ्या आरोप लगाएगा (मेरा अपवाद करेगा)"
+   }
+  ]
+ },
+ "10-49": {
+  "translation": "सुभूति, यदि तथागत द्वारा किसी भी सत्त्व को मुक्त किया जाता, तो वह ही तथागत द्वारा आत्मन् के रूप में आत्म-ग्राह होता।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "आत्मन् के रूप में आत्म-ग्राह",
+    "evidence": "Tibetan དེ་ཉིད་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་འཛིན་པར་འགྱུར says only that this itself would be the Tathāgata's self-grasping (Sanskrit sa eva tathāgatasyātmagrāhaḥ). 'आत्मन् के रूप में' has no counterpart and, stacked on 'आत्म-ग्राह', is redundant and hard to parse (it can read as the Tathāgata being grasped as a self).",
+    "fix": "तो वही तथागत का आत्म-ग्राह होता"
+   }
+  ]
+ },
+ "10-51": {
+  "translation": "सुभूति, जिसे आत्मन् का आत्म-ग्राह कहा जाता है, तथागत ने उसे ग्राह-रहित ही कहा है, फिर भी बाल-पृथग्जन इसे ग्रहण करते हैं।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जिसे आत्मन् का आत्म-ग्राह कहा जाता है",
+    "evidence": "Tibetan བདག་ཏུ་འཛིན་ཅེས་བྱ་བ ('what is called grasping at a self'; Sanskrit ātmagrāha iti). 'आत्मन् का आत्म-ग्राह' doubles the self ('self's self-grasping') and does not parse as the Tibetan does.",
+    "fix": "जिसे आत्म-ग्राह कहा जाता है"
+   }
+  ]
+ },
+ "10-55": {
+  "translation": "क्या लक्षणसम्पदा से तथागत को देखा जाना चाहिए?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan ends བལྟ་བར་བྱ་སྙམ་མམ ('do you think ... is to be seen'); the Hindi renders a bare question and drops the 'do you think' (སྙམ་མམ), which 10-34 renders as 'क्या तुम सोचते हो'. english_academic keeps 'Do you think that'.",
+    "fix": "क्या तुम सोचते हो कि लक्षणसम्पदा से तथागत को देखा जाना चाहिए?"
+   }
+  ]
+ },
+ "12-14": {
+  "translation": "सुभूति, यदि कोई ऐसा कहे: तथागत ने आत्मन् विषयक आत्म-दृष्टि कही है,",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "आत्मन् विषयक आत्म-दृष्टि",
+    "evidence": "Tibetan has only བདག་ཏུ་ལྟ་བར་གསུངས ('has spoken of the view of a self'); the locked rendering of བདག་ཏུ་ལྟ་བ is आत्म-दृष्टि, which already contains the self. The added 'आत्मन् विषयक' (concerning the self) is redundant padding not in the Tibetan.",
+    "fix": "आत्म-दृष्टि"
+   }
+  ]
+ },
+ "13-5": {
+  "translation": "इस वज्रच्छेदिका-हृदय के सार का एक बार जाप करने से यह नौ करोड़ बार वज्रच्छेदिका का पाठ करने के समान हो जाता है।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "इस वज्रच्छेदिका-हृदय के सार का",
+    "evidence": "Tibetan རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ་འདི་ is a single term (locked: वज्रच्छेदिका-हृदय; སྙིང་པོ alone = सार). The translation applies both renderings to the one word སྙིང་པོ, yielding 'the essence of the Vajracchedikā-heart', which adds a second noun the Tibetan does not have (Chone Drakpa Shedrub 3-2 likewise has the single སྙིང་པོ). English: 'this essence of the Diamond Cutter'.",
+    "fix": "इस वज्रच्छेदिका-हृदय का एक बार जाप करने से"
+   }
+  ]
+ },
+ "7-51": {
+  "translation": "सुभूति ने निवेदन किया: भगवान, यदि वे गंगा नदियाँ ही बहुत हैं, तो फिर उनकी बालुका का तो कहना ही क्या!",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "locked termbase rendering not used",
+    "fix": "use the locked rendering: गंगा नदी"
+   }
+  ]
+ },
+ "7-54": {
+  "translation": "यदि कोई पुरुष या स्त्री उन गंगा नदियों में जितनी बालुका है, उतने लोकधातुओं को सप्तरत्न से पूरी तरह भरकर,",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "locked termbase rendering not used",
+    "fix": "use the locked rendering: गंगा नदी"
+   }
+  ]
+ },
+ "10-29": {
+  "translation": "भगवान, क्या भविष्य में ऐसे कोई सत्त्व होंगे, जो धर्म के इस प्रकार के उपदेश को सुनकर दृढ़ श्रद्धा रखेंगे?",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "locked termbase rendering not used",
+    "fix": "use the locked rendering: दृढ़ श्रद्धा रखना"
+   }
+  ]
+ }
+}

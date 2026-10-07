@@ -1,0 +1,169 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The Tibetan has ཞེས་བྱ་བ (\"called/named\") linking the title to the sūtra (Sanskrit has नाम); the Hindi gives the title with no \"named/called\", and uses Sanskrit title order rather than the Tibetan order (འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ). english_academic: \"called the Diamond Cutter\".",
+     "fix": "आर्य प्रज्ञापारमिता, वज्रच्छेदिका नामक, यहाँ विद्यमान है।"
+    }
+   ]
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अत्यंत बहुत से बोधिसत्त्व महासत्त्वों",
+     "evidence": "Tibetan བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དག = \"very many bodhisattva mahāsattvas\"; \"अत्यंत बहुत से\" is a clumsy double intensifier in Hindi.",
+     "fix": "अत्यंत अनेक बोधिसत्त्व महासत्त्वों"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "भगवान, तथागत, अर्हत्, सम्यक्सम्बुद्ध ने",
+     "evidence": "Tibetan: བཅོམ་ལྡན་འདས་ is the vocative addressed to the Buddha, while དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས is the agent (the Buddha as Tathāgata, Arhat, Samyaksambuddha); the Hindi comma list reads as four co-ordinate titles of one agent, with भगवान not marked as vocative (cf. english_academic \"Blessed One, ... the Tathāgata, the arhat, the perfectly complete Buddha\").",
+     "fix": "हे भगवान, तथागत अर्हत् सम्यक्सम्बुद्ध ने"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "परिन्दना से परिन्दित",
+     "evidence": "Tibetan ཡོངས་སུ་གཏད་པ means \"to entrust\"; Chone Drakpa Shedrub 2-3 glosses it as the threefold entrusting (ཡོངས་སུ་གཏད་པ ... གནས་དང་ཆོས་དང་བཀར་གདགས་པ). \"परिन्दना/परिन्दित\" is an untranslated Sanskrit form (parīndanā) that conveys no meaning in Hindi.",
+     "fix": "परम सौंपने (परिन्दना) से सौंपा है"
+    }
+   ]
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "परम परिन्दना से परिन्दित किया है",
+     "evidence": "Tibetan ཡོངས་སུ་གཏད་པའི་དམ་པས་ཡོངས་སུ་གཏད་དོ means \"entrusted with the supreme entrustment\" (english_academic); \"परिन्दना/परिन्दित\" is an opaque Sanskrit transliteration, not Hindi for \"entrust\".",
+     "fix": "परम सौंपने (परिन्दना) से सौंपा है"
+    }
+   ]
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

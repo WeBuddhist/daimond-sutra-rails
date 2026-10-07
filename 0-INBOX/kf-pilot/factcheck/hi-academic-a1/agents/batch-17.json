@@ -1,0 +1,138 @@
+{
+ "batch": "batch-17",
+ "segments": [
+  {
+   "id": "12-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "आत्मन् विषयक आत्म-दृष्टि",
+     "evidence": "Tibetan has only བདག་ཏུ་ལྟ་བར་གསུངས ('has spoken of the view of a self'); the locked rendering of བདག་ཏུ་ལྟ་བ is आत्म-दृष्टि, which already contains the self. The added 'आत्मन् विषयक' (concerning the self) is redundant padding not in the Tibetan.",
+     "fix": "आत्म-दृष्टि"
+    }
+   ]
+  },
+  {
+   "id": "12-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-26",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

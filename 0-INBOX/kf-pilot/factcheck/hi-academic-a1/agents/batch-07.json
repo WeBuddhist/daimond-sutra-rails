@@ -1,0 +1,154 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "7-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-72",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Tibetan ends ཡོད་སྙམ་མམ ('do you think there is...?'), with the verb of thinking (སྙམ) carrying the question; the Hindi drops 'do you think', and english_academic keeps it.",
+     "fix": "क्या तुम समझते हो कि तथागत द्वारा कहा गया कोई भी धर्म है?"
+    }
+   ]
+  },
+  {
+   "id": "7-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-75",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Tibetan ends མང་བ་ཡིན་སྙམ་མམ ('do you think they are many?'); the Hindi omits the verb of thinking (སྙམ), which english_academic retains.",
+     "fix": "क्या तुम समझते हो कि वे बहुत हैं?"
+    }
+   ]
+  },
+  {
+   "id": "7-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-78",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "उन्हें तथागत ने रजकण नहीं कहा है",
+     "evidence": "Tibetan སའི་རྡུལ་གང་ལགས་པ་དེ་རྡུལ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པ: the Tathāgata taught it AS a non-particle (རྡུལ་མ་མཆིས་པར; Skt arajas tad bhāṣitam), a predication. The Hindi reads as 'the Tathāgata did not call them particles', a denial of the act of naming, which contradicts the next line (called 'particle'). Kamalaśīla 3-115 (རྡུལ་མེད་པ་ཁོ་ན) and Vasubandhu 2-54 confirm; compare 7-80 where the same structure is correctly rendered 'अधातु कहा है'.",
+     "fix": "उन्हें तथागत ने रजकण-रहित (अ-रजकण) कहा है"
+    }
+   ]
+  },
+  {
+   "id": "7-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-81",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

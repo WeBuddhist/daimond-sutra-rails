@@ -1,0 +1,14 @@
+{
+ "7-30": {
+  "translation": "世尊，如果我這樣想：「我得到了阿羅漢位」，如來對我宣說：「善男子須菩提是住於無煩惱者之中的第一」，",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "如來對我宣說：「善男子須菩提是住於無煩惱者之中的第一」",
+    "evidence": "Sanskrit: sacen mama ... na māṃ tathāgato vyākariṣyad araṇāvihāriṇām agryaḥ ... (\"if I thought ..., the Tathāgata would NOT have declared me ...\"); the Tibetan verb is the negated ལུང་མི་སྟོན་ལགས་སོ in 7-31 (commentary bo-chone-drakpa-shedrub 2-50: \"ལུང་ མི་སྟོན\"). The translation supplies a positive main verb 宣說 after the \"if I thought\" clause, so the conditional reads \"if I thought I had attained arhatship, the Tathāgata declares me foremost\", the opposite of the sense; english_academic has \"would not declare\".",
+    "fix": "則如來不會對我宣說：「善男子須菩提是住於無煩惱者之中的第一」"
+   }
+  ]
+ }
+}

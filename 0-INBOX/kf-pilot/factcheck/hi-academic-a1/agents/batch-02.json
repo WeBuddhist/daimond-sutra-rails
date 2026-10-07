@@ -1,0 +1,170 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "मेरे द्वारा जितने भी सत्त्व सत्त्व-संग्रह द्वारा संगृहीत हैं",
+     "evidence": "Tibetan 'བདག་གིས་སེམས་ཅན་ཇི་ཙམ་སེམས་ཅན་དུ་བསྡུ་བས་བསྡུས་པ' and Sanskrit 'yāvantaḥ sattvāḥ sattvasaṃgraheṇa saṃgṛhītāḥ ... te ca mayā sarve ... parinirvāpayitavyāḥ' show the 'I' (བདག་གིས / mayā) as the agent of leading to nirvāṇa, not of the subsumption. Placing 'मेरे द्वारा' beside 'संगृहीत' makes it read as if the beings are subsumed by me.",
+     "fix": "जितने भी सत्त्व सत्त्व-संग्रह द्वारा संगृहीत हैं ... उन सभी को मैं स्कन्ध-शेष-रहित निर्वाणधातु में परिनिर्वाण प्राप्त कराऊँगा"
+    }
+   ]
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "प्रमाण लेना सुकर नहीं है",
+     "evidence": "Tibetan 'ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པ' (Sanskrit 'pramāṇam udgrahītum') means to take the measure/extent. Hindi 'प्रमाण लेना' reads as 'take proof/evidence', which is a misleading collocation; 'माप करना' or 'परिमाण जानना' is the natural rendering. The same wording recurs in 5-2 and 5-4.",
+     "fix": "उसकी पुण्यराशि का माप करना सरल नहीं है"
+    }
+   ]
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "प्रमाण लेना सुकर है",
+     "evidence": "Tibetan 'ཚད་གཟུང་བར་སླ' means to grasp the measure/extent of space; 'प्रमाण लेना' in Hindi suggests taking proof, not measuring.",
+     "fix": "क्या पूर्व दिशा के आकाश का माप करना सरल है?"
+    }
+   ]
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "प्रमाण लेना क्या सुकर है",
+     "evidence": "Tibetan 'ཚད་གཟུང་བར་སླའམ' means 'is it easy to measure'; 'प्रमाण लेना' reads as 'take proof' in Hindi.",
+     "fix": "आकाश का माप करना क्या सरल है?"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "पुण्यराशि को, सुभूति, मापना सरल नहीं होने के कारण है",
+     "evidence": "Tibetan 'བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ' states a simple 'because ... is not easy to measure'. The Hindi construction 'पुण्यराशि को ... मापना ... के कारण है' is ungrammatical and hard to parse, and uses 'मापना' where 5-1 uses 'प्रमाण लेना' (inconsistent).",
+     "fix": "उसकी पुण्यराशि का माप करना, सुभूति, सरल नहीं है; इसी कारण से।"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -27,12 +27,27 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 | Step | zh | hi |
 |---|---|---|
 | Zero-shot baseline | existed (Gemini, Traditional) | done — Gemini/hi, 63 calls |
-| Termbase (style sheet + 6 agents + Gemini review) | done; overrides: 相 mark / 相狀 sign; 想 for saṃjñā kept | done; overrides: धर्म for both senses of ཆོས (academic) |
-| Academic translation | done 446/446; 60 regenerated after fact-check | in progress (240/446 before session restart; resumed) |
-| Academic fact-check | a1: 429/432 pass; a2 re-check of 60: batch-03 done (10-52 regressed → revert), batch-02 done, batch-01 rerun | todo |
-| Children's | todo | todo |
+| Termbase | done; overrides: 相 mark / 相狀 sign; 想 kept for saṃjñā | done; overrides: धर्म for both senses of ཆོས (academic) + compounds |
+| Academic translation | FINAL — all segments pass (a1 429/432 → 60 regenerated → 7-28, 10-52 reverted; 7-30 passes at attempt 3) | FINAL — all segments pass (a1 426/432 → 41 regenerated → a2 40/41; 5-6 reverted to attempt 1) |
+| Children's | 300/446 when the session ended (`translate/zh-children-run.log`); resumable | not started |
 
-Translator: `translate/gm_variant_translate.py --lang zh|hi`; fact-check: `factcheck/prep.py --lang`, prompts `factcheck-agent-lang.md`, `factcheck-children-lang.md`.
+### Resume here (next session)
+1. ~~Hindi re-check a2~~ — done (keep-best rule: a re-check failure where attempt 1 passed → append the attempt-1 row with
+   `call_id: revert`; failed both times → one more retry with `--attempt 3`, re-check, then `review-flags.md`).
+2. **Chinese children's**: rerun the same command to finish (it skips done segments):
+   `zsh -ic 'cd <vault> && python3 0-INBOX/kf-pilot/translate/gm_variant_translate.py --variant children --lang zh --from-track academic --workers 6'`
+   then fact-check with `prep.py --variant children --lang zh` + prompt `factcheck-children-lang.md` (lang_name "Chinese (Traditional characters)").
+3. **Hindi children's**: write `3-TRANSFORMATIONS/Translations/hi-children/requirements.md` + `audience.md` (in Hindi, mirror zh-children),
+   copy termbase (already copied), run `--variant children --lang hi --from-track academic`, then fact-check.
+4. **Report**: extend `reports/vajracchedika-en-cost-quality.md` to zh and hi (`usage_ledger.py summary --text vajracchedika`).
+5. Then: register the scripts as skills (`create-skill`) and run Ratnaguṇa.
+
+### Findings to carry into the report
+- Hindi glossary over-application: locked བདག → आत्मन् was used for the pronoun "I" (7-8, 7-15); en/zh were fine.
+- Sanskrit/Tibetan divergence: Hindi rendered མནར་བ as परिभूत (= Skt paribhūta) where the Tibetan + commentaries mean "tormented" (8-68–70).
+- Glossary-check false positives by script: English plurals, Chinese punctuation, Hindi compounds (fixed: substring stems, skip helper verbs).
+- Several Hindi checkers judged from Tibetan + Sanskrit + English reference without opening the commentaries.
+- Long background runs: start with absolute paths (`zsh -ic 'cd <vault> && …'`); foreground commands time out at 10 min.
 
 ## Usage ledger
 `usage-ledger.jsonl` — every model call. Gemini rows are exact (API usage). Claude agent rows: input/cache exact

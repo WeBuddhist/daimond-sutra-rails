@@ -1,0 +1,146 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "वही सभी संज्ञाओं से रहित होने के कारण है।",
+     "evidence": "Tibetan: 'གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ' (the answer to 'why?'; Sanskrit 'सैवासंज्ञा'). The Hindi makes the whole perception clause the subject of 'होने के कारण है' (that itself is because of being devoid), which is ungrammatical and obscures that the perception of self etc. is itself devoid of all perceptions (cf. Chone Drakpa Shedrub 2-76, 'འདུ་ཤེས་དག་དོན་དམ་པར་འདུ་ཤེས་སུ་གྲུབ་པ་དང་བྲལ་བ').",
+     "fix": "वही सभी संज्ञाओं से रहित है।"
+    }
+   ]
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "बुद्ध भगवान",
+     "evidence": "Tibetan 'སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས' has the plural marker 'རྣམས' (Sanskrit 'बुद्ध भगवन्तः', plural; Kamalaśīla 3-130 'སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས'). The Hindi 'बुद्ध भगवान' can be read as a single Buddha-Bhagavān, losing the plural (contrast 8-24 which uses the plural 'बुद्ध भगवानों').",
+     "fix": "बुद्ध भगवान् (सभी बुद्धगण) सभी संज्ञाओं से रहित हैं"
+    }
+   ]
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

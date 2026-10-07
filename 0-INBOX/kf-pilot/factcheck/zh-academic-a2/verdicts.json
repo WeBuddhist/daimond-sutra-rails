@@ -1,0 +1,494 @@
+[
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "世尊、如來、阿羅漢、正等覺者，佛以",
+    "evidence": "Tibetan བཅོམ་ལྡན་འདས་ is the vocative; the agent (ཀྱིས) is the single phrase དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས (Skt tathāgatenārhatā samyaksaṃbuddhena). The translation lists 世尊 and the three epithets as one string of vocatives and then introduces a separate agent 佛, duplicating སངས་རྒྱས (already inside 正等覺者) and obscuring who benefited the bodhisattvas.",
+    "fix": "世尊，如來、阿羅漢、正等覺者以所有最勝的饒益來饒益諸菩薩摩訶薩"
+   }
+  ]
+ },
+ {
+  "id": "3-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan ends ...ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ (the final ཕྱིར་རོ marks a reason clause: \"it is because ... not easy to measure\"); english_academic renders \"it is because\". The translation ends with a bare statement 不易衡量 and drops the causal marker (Sanskrit has no explicit \"because\", so the loss is slight).",
+    "fix": "，須菩提，是因為其福德聚不易衡量"
+   }
+  ]
+ },
+ {
+  "id": "6-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "故如此",
+    "evidence": "Tibetan ends ...འཇུག་པར་མི་འགྱུར་བའི་ཕྱིར་རོ, i.e. the three non-perceptions are the stated reason (\"because they have no perception of a sentient being ... \"). 故如此 (\"therefore it is so\") is a vague, awkward rendering of ཕྱིར་རོ.",
+    "fix": "因為他們無眾生想，無壽者想，亦不會生起人想。"
+   }
+  ]
+ },
+ {
+  "id": "6-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "聖者眾人",
+    "evidence": "Tibetan འཕགས་པའི་གང་ཟག་རྣམས་ (locked 聖者); རྣམས is only a plural marker. 眾人 (\"the crowd of people\") is an unneeded addition and also doubles 人/གང་ཟག.",
+    "fix": "聖者們"
+   }
+  ]
+ },
+ {
+  "id": "6-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這部教法之法門中",
+    "evidence": "ཆོས་ཀྱི་རྣམ་གྲངས་ (\"Dharma discourse\") is a single locked term rendered 法門; the translation splits it into 教法 + 法門, giving the redundant \"教法之法門\".",
+    "fix": "此法門中"
+   }
+  ]
+ },
+ {
+  "id": "6-47",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "正等覺者諸佛",
+    "evidence": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ (locked 正等覺者) already contains སངས་རྒྱས; the added 諸佛 renders it a second time as if a fourth epithet.",
+    "fix": "諸位如來、阿羅漢、正等覺者的阿耨多羅三藐三菩提"
+   }
+  ]
+ },
+ {
+  "id": "7-28",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "正等覺者諸佛宣說我是",
+    "evidence": "The agent is singular: དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས (no རྣམས་; Skt sg.; 7-30 \"དེ་བཞིན་གཤེགས་པས\"). 諸佛 makes the declaring agent plural (all Buddhas) and doubles སངས་རྒྱས, already part of 正等覺者.",
+    "fix": "如來、阿羅漢、正等覺者宣說我是住於無煩惱者之中的第一"
+   }
+  ]
+ },
+ {
+  "id": "7-29",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "遠離貪欲的離欲阿羅漢",
+    "evidence": "Tibetan འདོད་ཆགས་དང་བྲལ་བ་དགྲ་བཅོམ་པ (\"an arhat free from desire\") has one qualifier; 遠離貪欲 and 離欲 render it twice (tautology).",
+    "fix": "離欲的阿羅漢"
+   }
+  ]
+ },
+ {
+  "id": "7-30",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "如來對我宣說：「善男子須菩提是住於無煩惱者之中的第一」",
+    "evidence": "Sanskrit: sacen mama ... na māṃ tathāgato vyākariṣyad araṇāvihāriṇām agryaḥ ... (\"if I thought ..., the Tathāgata would NOT have declared me ...\"); the Tibetan verb is the negated ལུང་མི་སྟོན་ལགས་སོ in 7-31 (commentary bo-chone-drakpa-shedrub 2-50: \"ལུང་ མི་སྟོན\"). The translation supplies a positive main verb 宣說 after the \"if I thought\" clause, so the conditional reads \"if I thought I had attained arhatship, the Tathāgata declares me foremost\", the opposite of the sense; english_academic has \"would not declare\".",
+    "fix": "則如來不會對我宣說：「善男子須菩提是住於無煩惱者之中的第一」"
+   }
+  ]
+ },
+ {
+  "id": "7-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "正等覺者這尊佛",
+    "evidence": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས (locked 正等覺者) already includes སངས་རྒྱས; 這尊佛 is an added doubling and a demonstrative absent from the Tibetan.",
+    "fix": "如來、阿羅漢、正等覺者"
+   }
+  ]
+ },
+ {
+  "id": "8-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門中",
+    "evidence": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ is the single locked term 法門; splitting it as 教法的法門 is redundant.",
+    "fix": "此法門中"
+   }
+  ]
+ },
+ {
+  "id": "8-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法之法門",
+    "evidence": "ཆོས་ཀྱི་རྣམ་གྲངས་ (locked 法門) is split into 教法 + 法門, redundant.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法之法門",
+    "evidence": "ཆོས་ཀྱི་རྣམ་གྲངས་ (locked 法門) is split into 教法 + 法門, redundant.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此被宣說的教法之法門",
+    "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+    "fix": "此被宣說的法門"
+   }
+  ]
+ },
+ {
+  "id": "8-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法之法門",
+    "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "對此教法的法門",
+    "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+    "fix": "對此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-52",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "傍晚",
+    "evidence": "The Tibetan ཕྱི་དྲོའི་དུས་ཀྱི་ཚེ (phyi dro'i dus kyi tshe) means 'in the afternoon' (the third of the three periods after morning ཕྱེད and midday); 傍晚 means 'toward evening/dusk', which narrows the time. english_academic: 'afternoon'.",
+    "fix": "下午"
+   }
+  ]
+ },
+ {
+  "id": "8-53",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-54",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-56",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-57",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-61",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "於阿耨多羅三藐三菩提中現等覺的任何法",
+    "evidence": "Tibetan བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས is terminative (awakened to / as bodhi); Sanskrit 'anuttarāṃ samyaksaṃbodhim abhisaṃbuddhaḥ' takes bodhi as object. '於…中' reads as locative (a dharma realized 'within' bodhi) and is inconsistent with the rendering in 8-95/8-97/8-100.",
+    "fix": "如來現等覺阿耨多羅三藐三菩提的任何法，皆不存在"
+   }
+  ]
+ },
+ {
+  "id": "8-118",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-52",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "無生者",
+    "evidence": "Tibetan སྐྱེ་བོ་མེད་པ་ཉིད (Skt. ajana) means 'non-persons / non-beings', i.e. no ordinary being is established as such. Kamalaśīla 3-222: དོན་དམ་པར་ནི་སྐྱེ་བོ་མེད་པ་ཉིད ('ultimately they are exactly non-beings'); Chone 2-134: དོན་དམ་པར་སྐྱེ་བོ་ཉིད་དུ་གྲུབ་པ་མེད་པར ('not established as beings ultimately'). 無生者 means 'those without arising/unborn' (無生 = anutpāda), a different concept, and does not convey 'no persons'.",
+    "fix": "如來說彼等即是非『生者』（勝義中並無眾生可得）"
+   }
+  ]
+ },
+ {
+  "id": "10-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-3",
+  "verdict": "pass",
+  "issues": []
+ }
+]

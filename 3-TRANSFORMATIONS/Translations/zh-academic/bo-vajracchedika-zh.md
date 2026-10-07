@@ -12,7 +12,7 @@ generator: gemini-3.1-pro-preview
 context_packages: [termbase.md, aligned Sanskrit (1-SOURCES/Text/sa-vajracchedika.md), aligned commentaries: bo-kamalasila-tika, bo-vasubandhu-saptartha-tika, bo-chone-drakpa-shedrub]
 blocks_translated: 446
 blocks_total: 446
-segments_missing_locked_terms: 5
+segments_missing_locked_terms: 6
 generation_date: 2026-10-07
 status: draft
 ---
@@ -519,7 +519,7 @@ status: draft
 
 ![[bo-vajracchedika#^7-28]]
 
-世尊，如來、阿羅漢、正等覺者諸佛宣說我是住於無煩惱者之中的第一； ^7-28
+世尊，如來、阿羅漢、正等覺者將我宣說為住於無煩惱者之中的第一， ^7-28
 
 ![[bo-vajracchedika#^7-29]]
 
@@ -527,7 +527,7 @@ status: draft
 
 ![[bo-vajracchedika#^7-30]]
 
-世尊，如果我這樣想：「我得到了阿羅漢位」，如來對我宣說：「善男子須菩提是住於無煩惱者之中的第一」， ^7-30
+世尊，如果我這樣想：「我得到了阿羅漢位」，則如來不會對我宣說：「善男子須菩提是住於無煩惱者之中的第一」， ^7-30
 
 ![[bo-vajracchedika#^7-31]]
 
@@ -1517,7 +1517,7 @@ status: draft
 
 ![[bo-vajracchedika#^10-52]]
 
-須菩提！所謂凡夫，如來說彼等即是無生者， ^10-52
+須菩提！所謂凡夫，如來說即非凡夫， ^10-52
 
 ![[bo-vajracchedika#^10-53]]
 

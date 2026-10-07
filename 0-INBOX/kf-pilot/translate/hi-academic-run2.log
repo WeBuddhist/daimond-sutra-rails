@@ -10,3 +10,40 @@
   Restart Zsh to retry gitstatus initialization:
 
     [32mexec zsh[39m
+segments to translate=206 batches=35
+  8-45..8-50 ok
+  8-63..8-68 ok
+  8-69..8-74 ok
+  8-75..8-80 ok  still missing terms in ['8-80']
+  8-81..8-86 ok  still missing terms in ['8-84']
+  8-87..8-92 ok  still missing terms in ['8-88', '8-90', '8-92']
+  8-93..8-98 ok  still missing terms in ['8-95', '8-97', '8-98']
+  8-99..8-104 ok  still missing terms in ['8-99', '8-100', '8-102']
+  8-105..8-110 ok
+  8-111..8-116 ok
+  8-117..9-3 ok  still missing terms in ['8-118', '9-0']
+  9-4..9-9 ok
+  9-10..9-15 ok
+  9-16..9-21 ok
+  9-22..10-1 ok
+  10-2..10-7 ok
+  10-8..10-13 ok
+  10-14..10-19 ok
+  10-20..10-25 ok
+  10-26..10-31 ok  still missing terms in ['10-29']
+  10-32..10-37 ok
+  10-38..10-43 ok
+  10-44..10-49 ok
+  10-50..10-55 ok
+  10-56..10-61 ok
+  10-62..11-2 ok
+  11-3..11-8 ok
+  11-9..11-14 ok
+  11-15..12-2 ok  still missing terms in ['11-17']
+  12-3..12-8 ok
+  12-9..12-14 ok
+  12-15..12-20 ok  still missing terms in ['12-20']
+  12-21..12-26 ok  still missing terms in ['12-24']
+  12-27..13-4 ok  still missing terms in ['13-3']
+  13-5..13-6 ok
+rendered 446/446 blocks; segments still missing a locked term: 42

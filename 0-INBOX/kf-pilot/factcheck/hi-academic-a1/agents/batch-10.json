@@ -1,0 +1,161 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "8-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "वे परिभूत होंगे",
+     "evidence": "Tibetan \"མནར་བར་འགྱུར\" means to be tormented/harassed. Kamalaśīla (3-160) glosses \"མནར་བར་འགྱུར་ཞེས་བྱ་བ་ནི་སྤྱོ་བ་དང་། མཚང་འབྲུ་བ་ལ་སོགས་པས་གནོད་པར་བྱེད་པ\" (harmed by abuse, insult etc.); Chone Drakpa Shedrub (2-97) lists illness, quarrels, beating and binding. The English academic has \"tormented\". Hindi \"परिभूत\" (despised/humiliated/overcome) narrows the sense to humiliation and is also obscure in Hindi.",
+     "fix": "वे प्रताड़ित होंगे"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वाचन करेंगे, पढ़ेंगे",
+     "evidence": "The Tibetan lists five verbs: ལེན་པ (take up), འཛིན་པ (hold), འཆང་བ (keep/retain), ཀློག་པ (read), ཀུན་ཆུབ་པར་བྱེད་པ (master). The Hindi renders both འཆང་བ and ཀློག་པ as recitation/reading (\"वाचन\", \"पढ़ना\"), so the item \"keep/retain\" is lost (elsewhere in this batch འཆང་བ is \"स्मरण रखे\"/\"पास रखेगा\").",
+     "fix": "ग्रहण करेंगे, धारण करेंगे, स्मरण रखेंगे, पढ़ेंगे, और पर्यवाप्त करेंगे"
+    }
+   ]
+  },
+  {
+   "id": "8-69",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "अत्यन्त परिभूत होंगे",
+     "evidence": "Tibetan \"ཤིན་ཏུ་མནར་བར་འགྱུར\" = severely tormented. Kamalaśīla (3-160) glosses the intensified \"ཡོངས་སུ་མནར་བ\" as harm by \"གསད་པ་དང་བཅིང་བ\" (killing, binding); Vasubandhu (2-88) speaks of \"ཤིན་དུ་གདུང་བ\" (intense suffering). \"परिभूत\" conveys humiliation/contempt, not severe torment.",
+     "fix": "वे अत्यन्त प्रताड़ित होंगे"
+    }
+   ]
+  },
+  {
+   "id": "8-70",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "इसी जन्म में परिभूत होने के कारण",
+     "evidence": "Tibetan \"ཚེ་འདི་ཉིད་ལ་མནར་བས\" = because tormented in this very life; Kamalaśīla (3-160) explains the torment as harm by abuse, killing and binding, and Chone Drakpa Shedrub (2-97) as illness, quarrels, beating and binding, whose suffering exhausts the past non-virtuous karma. \"परिभूत\" (humiliated/despised) misses this sense.",
+     "fix": "इसी जन्म में प्रताड़ित होने के कारण"
+    }
+   ]
+  },
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

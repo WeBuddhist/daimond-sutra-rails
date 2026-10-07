@@ -1,0 +1,48 @@
+{
+ "batch": "batch-18",
+ "segments": [
+  {
+   "id": "12-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "इस वज्रच्छेदिका-हृदय के सार का",
+     "evidence": "Tibetan རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ་འདི་ is a single term (locked: वज्रच्छेदिका-हृदय; སྙིང་པོ alone = सार). The translation applies both renderings to the one word སྙིང་པོ, yielding 'the essence of the Vajracchedikā-heart', which adds a second noun the Tibetan does not have (Chone Drakpa Shedrub 3-2 likewise has the single སྙིང་པོ). English: 'this essence of the Diamond Cutter'.",
+     "fix": "इस वज्रच्छेदिका-हृदय का एक बार जाप करने से"
+    }
+   ]
+  },
+  {
+   "id": "13-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

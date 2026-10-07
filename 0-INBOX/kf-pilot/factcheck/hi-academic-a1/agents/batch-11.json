@@ -1,0 +1,146 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "चित्त का निग्रह करना",
+     "evidence": "Tibetan སེམས་རབ་ཏུ་གཟུང་བར་བགྱི (Skt. cittaṃ pragrahītavyam) means 'fully hold/take up the mind' (cf. Kamalaśīla 3-167 སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ; 8-76 renders རབ་ཏུ་འཛིན་པ as भली-भाँति धारण). 'निग्रह' means restraint/suppression, a different nuance, and loses the རབ་ཏུ་ (pra-) 'fully' and གཟུང་ 'hold'.",
+     "fix": "चित्त को भली-भाँति धारण करना चाहिए"
+    }
+   ]
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "भगवान्",
+     "evidence": "Locked rendering for བཅོམ་ལྡན་འདས is भगवान (used in 8-79, 8-80, 8-83, 8-91, 8-92); 8-93 uses the variant spelling with halant, inconsistent with the glossary.",
+     "fix": "भगवान"
+    }
+   ]
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

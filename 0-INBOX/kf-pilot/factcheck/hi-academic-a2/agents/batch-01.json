@@ -1,0 +1,142 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जिस परम सौंपने से सौंपा है",
+     "evidence": "Tibetan \"ཡོངས་སུ་གཏད་པའི་དམ་པ་ཇི་སྙེད་པས་ཡོངས་སུ་གཏད་པ\" = entrusted with how-great a supreme entrusting (Skt parīndanā). The Hindi uses the infinitive \"सौंपने\" as an abstract noun with instrumental, which is awkward and hard to parse; meaning is intact.",
+     "fix": "जिस परम समर्पण (परीन्दना) से सौंपा है"
+    }
+   ]
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "परम सौंपने से सौंपा है",
+     "evidence": "Tibetan \"ཡོངས་སུ་གཏད་པའི་དམ་པས་ཡོངས་སུ་གཏད་དོ\" = entrusted with the supreme entrusting (Skt parīndanayā parīndita). The infinitive \"सौंपने\" used as a noun is awkward Hindi; meaning intact.",
+     "fix": "परम समर्पण (परीन्दना) से सौंपा है"
+    }
+   ]
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "सरल नहीं है; इसी कारण से।",
+     "evidence": "Tibetan ends \"ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ\" = \"because ... is not easy to measure\": the final ཕྱིར་རོ marks the non-measurability as the ground (cf. 5-1, same sentence, \"क्योंकि\"). The Hindi turns it into a trailing \"इसी कारण से\" (for this very reason), which makes the non-measurability a consequence of something prior and leaves the sentence dangling; the logical direction of the reason is changed/lost.",
+     "fix": "भगवान ने कहा: हे सुभूति, उसी प्रकार, क्योंकि किसी में भी अप्रतिष्ठित होकर दान देने वाले बोधिसत्त्व की पुण्यराशि का माप करना, सुभूति, सरल नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "लक्षण के रूप में",
+     "evidence": "Tibetan \"མཚན་དང་མཚན་མ་མེད་པར་བལྟའོ\" = to be viewed with marks (མཚན) and without signs (མཚན་མ). Kamalaśīla (bo-kamalasila-tika 3-51): viewed by marks conventionally, without marks ultimately. \"के रूप में\" (as) says the Tathāgata is to be seen as a mark, not as possessing marks; the \"with marks\" sense is imprecise.",
+     "fix": "लक्षणयुक्त तथा निमित्त-रहित"
+    }
+   ]
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-72",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

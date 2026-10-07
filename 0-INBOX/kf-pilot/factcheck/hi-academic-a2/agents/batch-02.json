@@ -1,0 +1,121 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "7-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सभी बुद्ध भगवान",
+     "evidence": "Tibetan སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ has only the plural marker རྣམས, 'the Buddhas, the Blessed Ones'; Sanskrit बुद्ध भगवन्तः likewise has no 'all'. 'सभी' before बुद्ध is not in the source (the 'all' belongs to perceptions only), and 'बुद्ध भगवान' reads as one apposition.",
+     "fix": "बुद्ध भगवान"
+    }
+   ]
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "वज्रच्छेदिका के इस सार",
+     "evidence": "Tibetan རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ is a locked compound, to be rendered 'वज्रच्छेदिका-हृदय'; the translation instead splits it and uses the locked rendering of སྙིང་པོ alone ('सार'), so the longer locked term is not used.",
+     "fix": "वज्रच्छेदिका-हृदय"
+    }
+   ]
+  },
+  {
+   "id": "7-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-29",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

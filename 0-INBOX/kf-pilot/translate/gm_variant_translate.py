@@ -116,12 +116,18 @@ def complies(rendering, text, lang=None):
         strip = lambda x: re.sub(r"[\s，。、；：「」『』《》（）·・—…！？,.;:()\"'-]", "", x)  # noqa: E731
         return strip(rendering) in strip(text)
     if lang == "hi":
+        # Sanskrit-style compounds carry a term inside a longer word (सम्यक्सम्बुद्ध, परिनिर्वाण,
+        # आत्म-ग्राह), so a stem may occur anywhere in a word; helper verbs and postpositions are skipped.
+        skip = {"करना", "होना", "का", "की", "के", "में", "से", "को", "और", "या"}
         tw = re.findall(r"[\u0900-\u097F]+", text)
         for w in re.findall(r"[\u0900-\u097F]+", rendering):
-            if len(w) < 2:
+            if len(w) < 2 or w in skip:
                 continue
-            stem = w[:-1] if len(w) > 3 else w
-            if not any(t.startswith(stem) for t in tw):
+            if w.endswith("\u094d"):  # final virama: आत्मन् -> आत्म
+                stem = w[:-2]
+            else:
+                stem = w[:-1] if len(w) > 3 else w
+            if not any(stem in t for t in tw):
                 return False
         return True
     tw = words(text)

@@ -1,0 +1,170 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "आत्मन् ने स्रोतापत्ति-फल प्राप्त कर लिया है",
+     "evidence": "Tibetan \"བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ\" has བདག་གིས as the first-person pronoun 'by me' (Sanskrit \"मया स्रोतआपत्तिफलं प्राप्तमिति\"; english_academic: 'he had attained the fruit'). The locked term आत्मन् is for the doctrinal 'self' in བདག་ཏུ་འཛིན་པ, not for the pronoun. The Hindi makes 'the self' the agent who attained the fruit, which changes the sense of what the stream-enterer thinks.",
+     "fix": "कि 'मैंने स्रोतापत्ति-फल प्राप्त कर लिया है'"
+    }
+   ]
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "'आत्मन् ने सकृदागामी-फल प्राप्त कर लिया है'",
+     "evidence": "Tibetan \"བདག་གིས་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ\": བདག་གིས is the pronoun 'by me' (cf. parallel 7-11 where the Hindi correctly has 'मैंने', and english_academic 'I have attained'). Rendering it as आत्मन् turns the thought into 'the self attained the fruit'.",
+     "fix": "'मैंने सकृदागामी-फल प्राप्त कर लिया है'"
+    }
+   ]
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "आत्मन् के प्रति ग्राह, आत्म-ग्राह ही होगा",
+     "evidence": "Tibetan \"དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར\" is one compound idea, 'that itself would be his self-grasping' (Sanskrit \"स एव तस्यात्मग्राहो भवेत्\"). The Hindi states it twice (a glossed 'ग्राह towards आत्मन्' plus the locked compound), which is redundant and awkward; 7-8 correctly gives only the compound.",
+     "fix": "तो वह उसका आत्म-ग्राह ही होगा"
+    }
+   ]
+  },
+  {
+   "id": "7-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-28",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "तथागत, अर्हत् और सम्यक्सम्बुद्ध बुद्ध ने",
+     "evidence": "Tibetan \"དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས\" is three epithets of one person (Sanskrit \"तथागतेनार्हता सम्यक्संबुद्धेन\"). ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས is fully covered by सम्यक्सम्बुद्ध, so the extra 'बुद्ध' is redundant, and 'और' between the epithets can suggest separate persons.",
+     "fix": "तथागत, अर्हत्, सम्यक्सम्बुद्ध ने"
+    }
+   ]
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "राग से रहित, वीतराग अर्हत्",
+     "evidence": "Tibetan \"འདོད་ཆགས་དང་བྲལ་བ་དགྲ་བཅོམ་པ\" has a single phrase 'free from desire' (locked: འདོད་ཆགས་དང་བྲལ་བ = वीतराग; Sanskrit \"अर्हन् वीतरागः\"). The Hindi renders it twice ('राग से रहित' and 'वीतराग'), which is redundant.",
+     "fix": "यद्यपि मैं वीतराग अर्हत् हूँ"
+    }
+   ]
+  },
+  {
+   "id": "7-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-31",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}
