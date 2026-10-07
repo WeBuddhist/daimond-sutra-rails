@@ -199,6 +199,9 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/kf-pilot/reports/vajracchedika-en-cost-quality.md",
+    "0-INBOX/kf-pilot/reports",
+    "4-SYSTEM/scripts/usage-ledger/prices.json",
     "0-INBOX/kf-pilot/review-flags.md",
     "0-INBOX/kf-pilot/factcheck/children-a2/feedback.json",
     "0-INBOX/kf-pilot/factcheck/children-a2/agents/batch-01.json",
@@ -209,8 +212,6 @@
     "0-INBOX/kf-pilot/factcheck/children-a2/agents",
     "0-INBOX/kf-pilot/factcheck/children-a2",
     "0-INBOX/kf-pilot/factcheck/children-a1/feedback.json",
-    "0-INBOX/kf-pilot/factcheck/children-a1/verdicts.json",
-    "0-INBOX/kf-pilot/factcheck/children-a1/agents/batch-07.json",
     "0-INBOX/kf-pilot/factcheck/children-a1/rendered/batch-11.md",
     "0-INBOX/kf-pilot/factcheck/children-a1/rendered/batch-10.md",
     "0-INBOX/kf-pilot/factcheck/children-a1/rendered/batch-09.md",
@@ -233,7 +234,6 @@
     "0-INBOX/kf-pilot/factcheck/calibration/prompt.md",
     "0-INBOX/kf-pilot/factcheck/academic-a1/rendered/batch-18.md",
     "0-INBOX/kf-pilot/factcheck/academic-a1/rendered/batch-17.md",
-    "0-INBOX/kf-pilot/factcheck/academic-a1/rendered/batch-16.md",
-    "0-INBOX/kf-pilot/factcheck/academic-a1/rendered/batch-15.md"
+    "0-INBOX/kf-pilot/factcheck/academic-a1/rendered/batch-16.md"
   ]
 }

@@ -139,6 +139,17 @@ def cmd_backfill(a):
 # ------------------------------------------------------------- summary
 
 
+PRICES = pathlib.Path(__file__).resolve().parent / "prices.json"
+
+
+def row_cost(r, prices):
+    """USD for one ledger row at the list prices in prices.json (None if the model is not priced)."""
+    p = prices["models"].get((r.get("model") or "").split(",")[0])
+    if p is None:
+        return None
+    return sum(r["tokens"].get(k, 0) * p[k] for k in TOKEN_KEYS) / 1_000_000
+
+
 def cmd_summary(a):
     rows = [json.loads(l) for l in pathlib.Path(a.ledger).read_text(encoding="utf-8").splitlines() if l.strip()]
     if a.text:
@@ -150,11 +161,17 @@ def cmd_summary(a):
         agg[k]["seconds"] += r.get("seconds") or 0
         for t in TOKEN_KEYS:
             agg[k][t] += r["tokens"].get(t, 0)
-    hdr = ["step", "engine", "model", "calls", *TOKEN_KEYS, "seconds"]
+    prices = json.loads(PRICES.read_text(encoding="utf-8"))
+    cost = defaultdict(float)
+    for r in rows:
+        c = row_cost(r, prices)
+        cost[(r["step"], r["engine"], r["model"])] += c or 0
+    hdr = ["step", "engine", "model", "calls", *TOKEN_KEYS, "seconds", "USD"]
     print("| " + " | ".join(hdr) + " |\n|" + "---|" * len(hdr))
     for (step, eng, model), v in sorted(agg.items()):
         print(f"| {step} | {eng} | {model} | {v['calls']} | " +
-              " | ".join(f"{v[t]:,}" for t in TOKEN_KEYS) + f" | {v['seconds']:.0f} |")
+              " | ".join(f"{v[t]:,}" for t in TOKEN_KEYS) + f" | {v['seconds']:.0f} | {cost[(step, eng, model)]:.2f} |")
+    print(f"\nTotal USD at list prices ({prices['as_of']}): {sum(cost.values()):.2f}")
 
 
 def main():
