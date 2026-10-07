@@ -1,0 +1,34 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+seeded 3-TRANSFORMATIONS/Translations/Gemini/hi/about.md
+seeded 3-TRANSFORMATIONS/Translations/Gemini/hi/style.md
+source     : 1-SOURCES/Translations/bo-vajracchedika.md
+target     : hindi (hi)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/hi
+reference  : none
+glossary   : none
+blocks     : 432 total, 0 already in ledger, 432 to do
+batching   : 61 calls for 432 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/61] ^0-1,^0-2,^0-3,^0-4  (4 blk, 282 src, 396 ctx) … 24.3s  आर्य वज्रच्छेदिका प्रज्ञापारमिता नामक सूत्र यहाँ प्र
+[2/61] ^1-1,^1-2,^1-3,^1-4,^1-5,^1-6,^1-7,^1-8  (8 blk, 902 src, 1310 ctx) … 36.07s  ऐसा मैंने सुना है। एक समय,
+[3/61] ^2-1,^2-2,^2-3,^2-4,^2-5,^2-6,^2-7  (7 blk, 666 src, 2130 ctx) … 46.82s  तब आयुष्मान् सुभूति आसन से उठकर, अपना चीवर एक कंधे प
+[4/61] ^3-1,^3-2,^3-3,^3-4,^3-5,^3-6,^3-7,^3-8  (8 blk, 561 src, 1873 ctx) … 35.48s  भगवान् ने आयुष्मान् सुभूति से यह कहा—
+[5/61] ^3-9  (1 blk, 119 src, 1846 ctx) … 24.96s  आयुष्मान् सुभूति भगवान् की बात सुनने लगे, और भगवान् 
+[6/61] ^4-1,^4-2,^4-3,^4-4,^4-5,^4-6,^4-7,^4-8  (8 blk, 1017 src, 1983 ctx) … 66.74s  हे सुभूति, यहाँ बोधिसत्त्वयान में सम्यक् रूप से प्रस
+[7/61] ^4-9,^4-10  (2 blk, 112 src, 1886 ctx) … 21.76s  हे सुभूति, बोधिसत्त्व को निमित्त-संज्ञा में भी प्रति
+[8/61] ^5-1,^5-2,^5-3,^5-4,^5-5,^5-6  (6 blk, 634 src, 1657 ctx) … 41.85s  हे सुभूति, जो बोधिसत्त्व प्रतिष्ठित हुए बिना दान देत
+[9/61] ^6-1,^6-2,^6-3,^6-4,^6-5,^6-6,^6-7,^6-8  (8 blk, 573 src, 2131 ctx) … 28.87s  हे सुभूति, तुम क्या मानते हो? क्या लक्षण-सम्पदा से त
+[10/61] ^6-9,^6-10,^6-11,^6-12,^6-13,^6-14,^6-15,^6-16  (8 blk, 1158 src, 1690 ctx) … 52.51s  ऐसा कहने पर, आयुष्मान् सुभूति ने भगवान से यह कहा-
+[11/61] ^6-17,^6-18,^6-19,^6-20,^6-21,^6-22,^6-23,^6-24  (8 blk, 739 src, 2632 ctx) … 56.95s  हे सुभूति, तथागत उन्हें देखते हैं;
+[12/61] ^6-25,^6-26,^6-27,^6-28,^6-29,^6-30,^6-31,^6-32  (8 blk, 697 src, 2023 ctx) … 40.2s  यदि उनमें अधर्म-संज्ञा प्रवृत्त हो, तो वही उनका आत्म
+[13/61] ^6-33,^6-34,^6-35,^6-36,^6-37,^6-38,^6-39,^6-40  (8 blk, 892 src, 1979 ctx) … 

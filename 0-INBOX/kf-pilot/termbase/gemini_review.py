@@ -35,14 +35,14 @@ def load(name, path):
 gm = load("gm_translate", VAULT / "4-SYSTEM/Skills/machine-translate/scripts/gm_translate.py")
 ledger = load("usage_ledger", VAULT / "4-SYSTEM/scripts/usage-ledger/usage_ledger.py")
 
-SYSTEM = """You are the reviewer of an English glossary (termbase) for the Tibetan Diamond Sutra, drafted by another model. You approve it on behalf of the editors, so be exacting: a wrong rendering here will be repeated in every translation.
+SYSTEM = """You are the reviewer of a {lang_name} glossary (termbase) for the Tibetan Diamond Sutra, drafted by another model. You approve it on behalf of the editors, so be exacting: a wrong rendering here will be repeated in every translation.
 
-You get the register definitions, the drafter's style sheet (policies and core terms), and every glossary entry: the Tibetan, its Sanskrit where known, its occurrence count, how two English machine translations (DharmaMitra `dm`, Gemini `gm`) rendered it, and the drafted senses with an academic and a children's rendering each.
+You get the register definitions, the drafter's style sheet (policies and core terms), and every glossary entry: the Tibetan, its Sanskrit where known, its occurrence count, reference renderings ({ref_note}), and the drafted senses with an academic and a children's rendering each.
 
 Report OBJECTIONS ONLY, as JSON:
 - `terms`: one item per problem: `term_id`, `sense` (the sense label as given), `field` ("academic" | "children" | "sanskrit" | "sense_split"), `current`, `suggested` (the replacement; for sense_split describe the split), `severity` ("major": wrong meaning, misleading, or inconsistent with a policy or a related term; "minor": a better established or clearer equivalent exists), `reason` (max 25 words).
 - `policies`: objections to style-sheet policies: `policy` (its number), `suggested`, `reason`.
-Check in particular: doctrinal accuracy; consistency between a compound and its parts and across related terms; the register rules (academic: established Buddhological English, IAST; children's: plain words for ages 8-12 that keep the meaning, no Sanskrit except names); one English rendering never used for two different Tibetan terms. Do not object to matters of taste where the draft is accurate and consistent. Return empty lists if nothing needs changing."""
+Check in particular: doctrinal accuracy; consistency between a compound and its parts and across related terms; the register rules as defined in the registers section; one rendering never used for two different Tibetan terms. Do not object to matters of taste where the draft is accurate and consistent. Return empty lists if nothing needs changing."""
 
 SCHEMA = {
     "type": "object",
@@ -61,32 +61,45 @@ SCHEMA = {
 }
 
 
+LANG_NAMES = {"en": "English", "zh": "Chinese (Traditional characters)", "hi": "Hindi"}
+
+
 def entries(run):
     src = {t["term_id"]: t for t in json.loads((run / "terms.json").read_text(encoding="utf-8"))}
     out = []
     for f in sorted((run / "agents").glob("batch-*.json")):
         for t in json.loads(f.read_text(encoding="utf-8"))["terms"]:
             s = src[t["term_id"]]
-            out.append({"term_id": t["term_id"], "bo": s["bo"], "sanskrit": t.get("sanskrit"),
-                        "count": s["count"], "dm": s["dm"], "gm": s["gm"], "occurrences": s["occurrences"],
-                        "senses": t["senses"]})
+            e = {"term_id": t["term_id"], "bo": s["bo"], "sanskrit": t.get("sanskrit"),
+                 "count": s["count"], "occurrences": s["occurrences"], "senses": t["senses"]}
+            if "dm" in s:
+                e["dm"], e["gm"] = s["dm"], s["gm"]
+            else:  # non-English: carry the approved English renderings per sense as the reference
+                en = {x["sense"]: x for x in s["senses"]}
+                for x in e["senses"]:
+                    x["en_academic"] = en.get(x["sense"], {}).get("en_academic")
+                    x["en_children"] = en.get(x["sense"], {}).get("en_children")
+            out.append(e)
     out.sort(key=lambda e: e["term_id"])
     return out
 
 
-def review(run, ents, model):
+def review(run, ents, model, lang):
     key = os.environ.get(gm.KEY_ENV, "")
     if not key:
         sys.exit("GEMINI_API_KEY is not set (run via: zsh -ic 'python3 ...')")
     compact = [{"term_id": e["term_id"], "bo": e["bo"], "sanskrit": e["sanskrit"], "count": e["count"],
-                "dm": dict(list(e["dm"].items())[:4]), "gm": dict(list(e["gm"].items())[:4]),
+                **({"dm": dict(list(e["dm"].items())[:4]), "gm": dict(list(e["gm"].items())[:4])} if "dm" in e else {}),
                 "senses": [{k: (v if k != "occurrences" or v == "all" else f"{len(v)} occurrences")
                             for k, v in s.items() if k != "reason"} for s in e["senses"]]} for e in ents]
-    user = ("# Registers\n\n" + (HERE / "registers.md").read_text(encoding="utf-8")
+    reg_file = HERE / ("registers.md" if lang == "en" else f"registers-{lang}.md")
+    user = ("# Registers\n\n" + reg_file.read_text(encoding="utf-8")
             + "\n\n# Style sheet\n\n" + (run / "style-sheet.md").read_text(encoding="utf-8")
             + "\n\n# Glossary entries\n\n" + json.dumps(compact, ensure_ascii=False)
             + "\n\nReview the glossary. Return JSON only.")
-    body = {"systemInstruction": {"parts": [{"text": SYSTEM}]},
+    ref_note = ("how two English machine translations, DharmaMitra `dm` and Gemini `gm`, rendered it" if lang == "en"
+                else "the approved English academic and children's renderings per sense, `en_academic` / `en_children`")
+    body = {"systemInstruction": {"parts": [{"text": SYSTEM.format(lang_name=LANG_NAMES[lang], ref_note=ref_note)}]},
             "contents": [{"role": "user", "parts": [{"text": user}]}],
             "generationConfig": {"responseMimeType": "application/json", "responseSchema": SCHEMA},
             "safetySettings": gm.SAFETY_OFF}
@@ -94,7 +107,7 @@ def review(run, ents, model):
     t0 = time.time()
     text, info = gm.call_api(body, args, key)
     u = info["usage"]
-    ledger.log_call(step="termbase-review", text="vajracchedika", lang="en", engine="gemini-api",
+    ledger.log_call(step="termbase-review", text="vajracchedika", lang=lang, engine="gemini-api",
                     model=info["model_version"], batch="all", segments=len(ents),
                     tokens={"input": u["prompt_tokens"], "output": u["output_tokens"], "thinking": u["thinking_tokens"]},
                     seconds=round(time.time() - t0, 1), note="Gemini review of Claude termbase (one call, all terms)")
@@ -138,12 +151,13 @@ def apply(run, ents, rev):
     print(f"editor overrides applied={overridden}")
     (run / "termbase.json").write_text(json.dumps(ents, ensure_ascii=False, indent=1), encoding="utf-8")
     (run / "review.json").write_text(json.dumps(rev, ensure_ascii=False, indent=1), encoding="utf-8")
+    lang = run.name.rsplit("-", 1)[-1]
     for reg, title in (("academic", "Academic"), ("children", "Children's")):
         lines = [
-            "---", f"track: en-{reg}", "text: Diamond Sutra (Vajracchedikā)", "source_lemma_language: bo",
-            "target_language: en", f"register: {reg}", "status: draft",
+            "---", f"track: {lang}-{reg}", "text: Diamond Sutra (Vajracchedikā)", "source_lemma_language: bo",
+            f"target_language: {lang}", f"register: {reg}", "status: draft",
             "built_by: Claude Sonnet agents (style sheet + 6 parallel batches), reviewed by Gemini 3.1 Pro",
-            "---", "", f"# Termbase — Diamond Sutra, English, {title}", "",
+            "---", "", f"# Termbase — Diamond Sutra, {LANG_NAMES[lang]}, {title}", "",
             "One locked rendering per Tibetan term (per sense where the term has distinct senses). "
             "Head forms: the translator inflects them in context. ✎ = changed by the Gemini review "
             "(draft rendering in brackets).", "",
@@ -168,7 +182,8 @@ def main():
     a = p.parse_args()
     run = pathlib.Path(a.run_dir)
     ents = entries(run)
-    rev = json.loads((run / "review.json").read_text(encoding="utf-8")) if a.apply_only else review(run, ents, a.model)
+    lang = run.name.rsplit("-", 1)[-1]
+    rev = json.loads((run / "review.json").read_text(encoding="utf-8")) if a.apply_only else review(run, ents, a.model, lang)
     apply(run, ents, rev)
 
 

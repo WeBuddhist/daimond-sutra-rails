@@ -11,7 +11,7 @@ exactly one sense. Prints OK or the problems.
 import json
 import sys
 
-BASIS = {"dm", "gm", "both", "new", "style-sheet"}
+BASIS = {"dm", "gm", "both", "new", "style-sheet", "kumarajiva", "zero-shot", "english-pivot"}
 batch = {t["term_id"]: t for t in json.load(open(sys.argv[1], encoding="utf-8"))}
 try:
     out = json.load(open(sys.argv[2], encoding="utf-8"))
@@ -28,6 +28,8 @@ for t in out.get("terms", []):
     if t.get("bo") != src["bo"]:
         errs.append(f"{t['term_id']}: bo changed")
     senses = t.get("senses") or []
+    if src.get("senses") and [x["sense"] for x in senses] != [x["sense"] for x in src["senses"]]:
+        errs.append(f"{t['term_id']}: keep exactly the input senses, same labels and order")
     if not senses:
         errs.append(f"{t['term_id']}: no senses")
     assigned = []

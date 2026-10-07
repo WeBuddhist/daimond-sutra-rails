@@ -45,13 +45,52 @@ gm = load("gm_translate", VAULT / "4-SYSTEM/Skills/machine-translate/scripts/gm_
 ledger = load("usage_ledger", VAULT / "4-SYSTEM/scripts/usage-ledger/usage_ledger.py")
 
 TERM_RUN = KF / "term-extract/vajracchedika-en"
-TERMBASE = KF / "termbase/vajracchedika-en/termbase.json"
 ROOT = "bo-vajracchedika"
+LANGS = {
+    "en": {"name": "English", "label": "English", "tag": "en"},
+    "zh": {"name": "Chinese", "label": "modern written Chinese in Traditional characters", "tag": "zh"},
+    "hi": {"name": "Hindi", "label": "modern standard Hindi in Devanagari", "tag": "hi"},
+}
+LANG = "en"  # set from --lang in main()
+
+
+def termbase_path(lang):
+    return KF / f"termbase/vajracchedika-{lang}/termbase.json"
+
+
+def track_dir(lang, variant):
+    return VAULT / f"3-TRANSFORMATIONS/Translations/{lang}-{variant}"
+
+
+def work_file(lang, variant):
+    return track_dir(lang, variant) / "work" / f"{ROOT}-{lang}.jsonl"
+
+
+def zero_shot_lines(lang):
+    """Gemini zero-shot root translation in `lang`, by block id (machine baseline)."""
+    p = VAULT / f"3-TRANSFORMATIONS/Translations/Gemini/{lang}/work/{ROOT}-{lang}.jsonl"
+    out = {}
+    if p.exists():
+        for line in p.read_text(encoding="utf-8").splitlines():
+            r = json.loads(line)
+            t = r.get("translation")
+            if t:
+                out[r["block_id"]] = " ".join(t) if isinstance(t, list) else t
+    return out
+
+
+def kumarajiva_lines():
+    a = json.loads((VAULT / "1-SOURCES/Annotations/lzh-vajracchedika.annotations.json").read_text(encoding="utf-8"))
+    out = {}
+    for b in a["blocks"].values():
+        for t in b.get("targets") or []:
+            out[t] = (out.get(t, "") + " " + b.get("text", "")).strip()
+    return out
 LOCK = threading.Lock()
 
 FORMAT = """
 Output rules:
-- Return JSON: {"blocks": [{"id": "<segment id>", "translation": "<English>"}]} with exactly the ids you were sent, in order.
+- Return JSON: {"blocks": [{"id": "<segment id>", "translation": "<translation>"}]} with exactly the ids you were sent, in order.
 - Translate each segment completely and only that segment; the Sanskrit, commentary and drafts are aids, not text to translate.
 - For every term listed under a segment's "locked terms", use that exact rendering (inflect for number or grammar only).
 - No notes, brackets or explanations inside the translation."""
@@ -67,8 +106,24 @@ def words(s):
     return [w.strip("'-") for w in re.findall(r"[a-zāīūṛṝḷṃṁṅñṇṭḍśṣḥ'-]+", s.lower().replace("’", "'")) if w.strip("'-")]
 
 
-def complies(rendering, text):
-    """Loose check: every content word of the locked rendering occurs (prefix match allows plural/inflection)."""
+def complies(rendering, text, lang=None):
+    """Loose check that the locked rendering is used.
+    en: every content word occurs (prefix match allows plural/inflection);
+    zh: the rendering occurs as a substring (punctuation ignored);
+    hi: every word of two or more letters occurs, allowing a changed final vowel sign (inflection)."""
+    lang = lang or LANG
+    if lang == "zh":
+        strip = lambda x: re.sub(r"[\s，。、；：「」『』《》（）·・—…！？,.;:()\"'-]", "", x)  # noqa: E731
+        return strip(rendering) in strip(text)
+    if lang == "hi":
+        tw = re.findall(r"[\u0900-\u097F]+", text)
+        for w in re.findall(r"[\u0900-\u097F]+", rendering):
+            if len(w) < 2:
+                continue
+            stem = w[:-1] if len(w) > 3 else w
+            if not any(t.startswith(stem) for t in tw):
+                return False
+        return True
     tw = words(text)
     tw += [part for w in tw if "-" in w for part in w.split("-")]  # non-phenomena -> phenomena
     tw += [w[:-3] + "man" for w in tw if w.endswith("men")]  # laymen -> layman
@@ -81,9 +136,9 @@ def complies(rendering, text):
     return True
 
 
-def locked_terms(variant):
-    """{segment id: [{bo, rendering, sense}]} from the term occurrences and the termbase."""
-    tb = {e["bo"]: e for e in json.loads(TERMBASE.read_text(encoding="utf-8"))}
+def locked_terms(variant, lang=None):
+    """{segment id: [{bo, rendering, sense}]} from the term occurrences and the language's termbase."""
+    tb = {e["bo"]: e for e in json.loads(termbase_path(lang or LANG).read_text(encoding="utf-8"))}
     occ = json.loads((TERM_RUN / "occurrences-reviewed.json").read_text(encoding="utf-8"))
     out = {}
     for o in occ:
@@ -110,7 +165,7 @@ def make_batches(ids, segs, size, budget):
     return batches
 
 
-def payload(batch, segs, ctx, terms, max_comm, base=None):
+def payload(batch, segs, ctx, terms, max_comm, base=None, refs=None):
     """Per-segment prompt items. With `base` (another track's rows), the item carries that
     translation as the source of meaning instead of Sanskrit, commentaries and machine drafts."""
     out, seen = [], set()
@@ -131,21 +186,33 @@ def payload(batch, segs, ctx, terms, max_comm, base=None):
                 seen.add(key)
                 txt = p["text"]
                 comms.setdefault(cid, []).append(txt if len(txt) <= max_comm else txt[:max_comm] + " …")
-        out.append({"id": i, "heading": s["heading"], "tibetan": s["bo"],
-                    "sanskrit": " ".join(x["text"] for x in c.get("sa", [])) or None,
-                    "commentaries": comms or None,
-                    "machine_drafts": {"dharmamitra": s["dm"], "gemini": s["gm"]},
-                    "locked_terms": [{"tibetan": t["bo"], "use": t["rendering"]} for t in terms.get(i, [])]})
+        item = {"id": i, "heading": s["heading"], "tibetan": s["bo"],
+                "sanskrit": " ".join(x["text"] for x in c.get("sa", [])) or None,
+                "commentaries": comms or None}
+        if refs is None:  # English: the two English machine baselines
+            item["machine_drafts"] = {"dharmamitra": s["dm"], "gemini": s["gm"]}
+        else:  # other languages: approved English academic + target-language aids
+            for k, table in refs.items():
+                if i in table:
+                    item[k] = table[i]
+        item["locked_terms"] = [{"tibetan": t["bo"], "use": t["rendering"]} for t in terms.get(i, [])]
+        out.append(item)
     return out
 
 
 def translate_batch(batch, a, key, system, segs, ctx, terms, work, variant, attempt=1, feedback=None):
-    body_items = payload(batch, segs, ctx, terms, a.max_comm, a.base_rows)
+    body_items = payload(batch, segs, ctx, terms, a.max_comm, a.base_rows, a.refs)
+    label = LANGS[LANG]["label"]
     if a.base_rows is not None:
-        user = (f"Retell these segments of the Diamond Sutra in English for the {variant} register. Take the meaning "
+        user = (f"Retell these segments of the Diamond Sutra in {label} for the {variant} register. Take the meaning "
                 f"from `academic_translation` (checked against the Tibetan); write new, simple wording. Return JSON only.\n\n")
     else:
-        user = f"Translate these segments of the Tibetan Diamond Sutra into English ({variant} register). Return JSON only.\n\n"
+        user = f"Translate these segments of the Tibetan Diamond Sutra into {label} ({variant} register). Return JSON only.\n\n"
+        if a.refs:
+            user += ("Each segment also carries `english_academic` (the approved, fact-checked English academic "
+                     "translation — use it to confirm the meaning, not as the text to translate)"
+                     + (", `kumarajiva` (Kumārajīva's classical Chinese, for established terminology only)" if LANG == "zh" else "")
+                     + " and `zero_shot` (an unreviewed machine draft in the target language). Translate from the Tibetan.\n\n")
     if feedback:
         user += feedback + "\n\n"
     user += json.dumps(body_items, ensure_ascii=False)
@@ -158,7 +225,7 @@ def translate_batch(batch, a, key, system, segs, ctx, terms, work, variant, atte
     t0 = time.time()
     text, info = gm.call_api(body, args, key)
     u = info["usage"]
-    ledger.log_call(step=f"translate-{variant}", text="vajracchedika", lang="en", variant=variant,
+    ledger.log_call(step=f"translate-{variant}", text="vajracchedika", lang=LANG, variant=variant,
                     engine="gemini-api", model=info["model_version"], batch=call_id, segments=len(batch),
                     attempt=attempt, tokens={"input": u["prompt_tokens"], "output": u["output_tokens"],
                                              "thinking": u["thinking_tokens"]},
@@ -228,10 +295,11 @@ def render(track, stem, segs, rows, variant, model):
         {i: [t["rendering"] for t in terms.get(i, []) if not complies(t["rendering"], rows[i]["translation"])]
          for i in missed_ids}, ensure_ascii=False, indent=1), encoding="utf-8")
     title = rows.get("0", {}).get("translation", "Diamond Sutra")
-    fm = ["---", f"title: {title}", f"track: en-{variant}", "language: English", "lang_tag: en",
+    L = LANGS[LANG]
+    fm = ["---", f"title: {title}", f"track: {LANG}-{variant}", f"language: {L['name']}", f"lang_tag: {LANG}",
           "file_type: translation", "track_type: governed-draft", f"root_text: 1-SOURCES/Translations/{ROOT}.md",
-          "source_language: tibetan", "target_language: english", f"generator: {model}",
-          ("context_packages: [termbase.md, ../en-academic/bo-vajracchedika-en.md (meaning source)]" if variant == "children" else
+          "source_language: tibetan", f"target_language: {L['name'].lower()}", f"generator: {model}",
+          (f"context_packages: [termbase.md, ../{LANG}-academic/{ROOT}-{LANG}.md (meaning source)]" if variant == "children" else
           "context_packages: [termbase.md, aligned Sanskrit (1-SOURCES/Text/sa-vajracchedika.md), "
           "aligned commentaries: bo-kamalasila-tika, bo-vasubandhu-saptartha-tika, bo-chone-drakpa-shedrub]"),
           f"blocks_translated: {done}", f"blocks_total: {len(order)}", f"segments_missing_locked_terms: {missed}",
@@ -247,13 +315,14 @@ def render(track, stem, segs, rows, variant, model):
             body += [f"## {r['translation']} ^{i}", ""]
         else:
             body += [f"![[{ROOT}#^{i}]]", "", f"{r['translation']} ^{i}", ""]
-    (track / f"{stem}-en.md").write_text("\n".join(fm + body), encoding="utf-8")
+    (track / f"{stem}-{LANG}.md").write_text("\n".join(fm + body), encoding="utf-8")
     print(f"rendered {done}/{len(order)} blocks; segments still missing a locked term: {missed}")
 
 
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--variant", required=True, choices=["academic", "children"])
+    p.add_argument("--lang", default="en", choices=sorted(LANGS))
     p.add_argument("--model", default=gm.DEFAULT_MODEL)
     p.add_argument("--batch-size", type=int, default=6)
     p.add_argument("--budget", type=int, default=1800, help="max Tibetan chars per batch")
@@ -269,8 +338,10 @@ def main():
     p.add_argument("--from-track", help="build from another track's translation (e.g. academic) instead of the sources")
     a = p.parse_args()
 
-    track = VAULT / f"3-TRANSFORMATIONS/Translations/en-{a.variant}"
-    work = track / "work" / f"{ROOT}-en.jsonl"
+    global LANG
+    LANG = a.lang
+    track = track_dir(LANG, a.variant)
+    work = work_file(LANG, a.variant)
     segs = {s["id"]: s for s in json.loads((TERM_RUN / "segments.json").read_text(encoding="utf-8"))}
     if a.render_only:
         return render(track, ROOT, segs, latest(work), a.variant, a.model)
@@ -283,7 +354,13 @@ def main():
     done = latest(work)
     a.base_rows = None
     if a.from_track:
-        a.base_rows = latest(VAULT / f"3-TRANSFORMATIONS/Translations/en-{a.from_track}" / "work" / f"{ROOT}-en.jsonl")
+        a.base_rows = latest(work_file(LANG, a.from_track))
+    a.refs = None
+    if LANG != "en" and a.base_rows is None:
+        a.refs = {"english_academic": {i: r["translation"] for i, r in latest(work_file("en", "academic")).items()},
+                  "zero_shot": zero_shot_lines(LANG)}
+        if LANG == "zh":
+            a.refs["kumarajiva"] = kumarajiva_lines()
     a.feedback_data = json.loads(pathlib.Path(a.feedback).read_text(encoding="utf-8")) if a.feedback else None
     if a.feedback_data:
         todo = list(a.feedback_data)

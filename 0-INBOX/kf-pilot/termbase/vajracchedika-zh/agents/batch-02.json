@@ -1,0 +1,710 @@
+{
+ "batch": "batch-02",
+ "terms": [
+  {
+   "term_id": "T002",
+   "bo": "བཅོམ་ལྡན་འདས",
+   "sanskrit": "bhagavat",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "世尊",
+     "children": "世尊",
+     "basis": "style-sheet",
+     "reason": "Core term: bhagavat is 世尊 in both registers, also where K narrates with 佛."
+    }
+   ]
+  },
+  {
+   "term_id": "T008",
+   "bo": "འདུ་ཤེས",
+   "sanskrit": "saṃjñā",
+   "senses": [
+    {
+     "sense": "perception (one of the aggregates; in the four graspings)",
+     "occurrences": "all",
+     "academic": "想",
+     "children": "想法",
+     "basis": "style-sheet",
+     "reason": "Core term: saṃjñā is 想, kept apart from 相; child 想法."
+    }
+   ]
+  },
+  {
+   "term_id": "T014",
+   "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+   "sanskrit": "dharmaparyāya",
+   "senses": [
+    {
+     "sense": "discourse on the teaching",
+     "occurrences": "all",
+     "academic": "法門",
+     "children": "教導的一課",
+     "basis": "style-sheet",
+     "reason": "Core term: Gemini and established 法門; child follows lesson on the teaching."
+    }
+   ]
+  },
+  {
+   "term_id": "T020",
+   "bo": "མཚན",
+   "sanskrit": "lakṣaṇa",
+   "senses": [
+    {
+     "sense": "mark of a Buddha",
+     "occurrences": "all",
+     "academic": "相",
+     "children": "特徵",
+     "basis": "style-sheet",
+     "reason": "Core term: lakṣaṇa, mark of a Buddha, is 相 (K 三十二相); child 特徵."
+    }
+   ]
+  },
+  {
+   "term_id": "T026",
+   "bo": "བྱང་ཆུབ",
+   "sanskrit": "bodhi",
+   "senses": [
+    {
+     "sense": "awakening",
+     "occurrences": "all",
+     "academic": "菩提",
+     "children": "覺悟",
+     "basis": "style-sheet",
+     "reason": "Core term: K 菩提; child 覺悟."
+    }
+   ]
+  },
+  {
+   "term_id": "T032",
+   "bo": "འཛིན་པ",
+   "sanskrit": "grāha",
+   "senses": [
+    {
+     "sense": "grasping",
+     "occurrences": "all",
+     "academic": "執著",
+     "children": "抓著不放",
+     "basis": "style-sheet",
+     "reason": "Core term: 執著 per Gemini and established usage; child 抓著不放."
+    }
+   ]
+  },
+  {
+   "term_id": "T038",
+   "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+   "sanskrit": "trisāhasramahāsāhasralokadhātu",
+   "senses": [
+    {
+     "sense": "cosmological measure",
+     "occurrences": "all",
+     "academic": "三千大千世界",
+     "children": "十億個世界",
+     "basis": "style-sheet",
+     "reason": "Policy 16: lexicalised K form, K and Gemini agree; child 十億個世界."
+    }
+   ]
+  },
+  {
+   "term_id": "T044",
+   "bo": "བྱང་ཆུབ་སེམས་དཔ",
+   "sanskrit": "bodhisattva",
+   "senses": [
+    {
+     "sense": "bodhisattva (variant spelling)",
+     "occurrences": "all",
+     "academic": "菩薩",
+     "children": "菩薩",
+     "basis": "style-sheet",
+     "reason": "Variant spelling takes the base term rendering (policy 21): K 菩薩, known to children."
+    }
+   ]
+  },
+  {
+   "term_id": "T050",
+   "bo": "ཞིང",
+   "sanskrit": "kṣetra",
+   "senses": [
+    {
+     "sense": "Buddha-field",
+     "occurrences": "all",
+     "academic": "佛土",
+     "children": "佛的國土",
+     "basis": "kumarajiva",
+     "reason": "K 莊嚴佛土 attests 佛土 for kṣetra; child spells out Buddha-land."
+    }
+   ]
+  },
+  {
+   "term_id": "T056",
+   "bo": "ཡང་དག་པར་འདུ་ཤེས",
+   "sanskrit": "bhūtasaṃjñā",
+   "senses": [
+    {
+     "sense": "true perception",
+     "occurrences": "all",
+     "academic": "真實想",
+     "children": "真實的想法",
+     "basis": "style-sheet",
+     "reason": "Compound X想 with 真實 (bhūta); K 實相 blurs 想 and 相, so 想 kept."
+    }
+   ]
+  },
+  {
+   "term_id": "T062",
+   "bo": "དྲི",
+   "sanskrit": "gandha",
+   "senses": [
+    {
+     "sense": "smell, one of the sense objects",
+     "occurrences": "all",
+     "academic": "香",
+     "children": "氣味",
+     "basis": "kumarajiva",
+     "reason": "K 聲、香、味、觸、法 gives 香 for gandha; child 氣味 is everyday smell."
+    }
+   ]
+  },
+  {
+   "term_id": "T068",
+   "bo": "སྲོག་ཏུ་འཛིན་པ",
+   "sanskrit": "jīvagrāha",
+   "senses": [
+    {
+     "sense": "grasping at a life-force",
+     "occurrences": "all",
+     "academic": "執著於壽者",
+     "children": "抓著「生命」不放",
+     "basis": "style-sheet",
+     "reason": "Pattern 執著於X with 壽者 for srog; child 抓著「X」不放 with 生命."
+    }
+   ]
+  },
+  {
+   "term_id": "T074",
+   "bo": "བདག་ཏུ་ལྟ་བ",
+   "sanskrit": "ātmadṛṣṭi",
+   "senses": [
+    {
+     "sense": "view of a self",
+     "occurrences": "all",
+     "academic": "我見",
+     "children": "有「我」的看法",
+     "basis": "kumarajiva",
+     "reason": "K 我見; pattern X見; child 有「X」的看法 per style sheet."
+    }
+   ]
+  },
+  {
+   "term_id": "T080",
+   "bo": "ལྟ་བ",
+   "sanskrit": "dṛṣṭi",
+   "senses": [
+    {
+     "sense": "view",
+     "occurrences": "all",
+     "academic": "見",
+     "children": "看法",
+     "basis": "kumarajiva",
+     "reason": "K 我見, 人見 attest 見 for dṛṣṭi; child 看法 per the 有「X」的看法 pattern."
+    }
+   ]
+  },
+  {
+   "term_id": "T086",
+   "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདའ",
+   "sanskrit": "parinirvā",
+   "senses": [
+    {
+     "sense": "complete passing into nirvāṇa",
+     "occurrences": "all",
+     "academic": "般涅槃",
+     "children": "完全脫離憂苦",
+     "basis": "style-sheet",
+     "reason": "Policy 8: parinirvāṇa is 般涅槃; child adds 完全 to 脫離憂苦."
+    }
+   ]
+  },
+  {
+   "term_id": "T092",
+   "bo": "དགྲ་བཅོམ་པ་ཉིད",
+   "sanskrit": "arhattva",
+   "senses": [
+    {
+     "sense": "state of being an arhat",
+     "occurrences": "all",
+     "academic": "阿羅漢位",
+     "children": "值得敬重的境界",
+     "basis": "new",
+     "reason": "State of an arhat: 阿羅漢 + 位; kept apart from 果 (phala) and K 道 (path)."
+    }
+   ]
+  },
+  {
+   "term_id": "T098",
+   "bo": "སྐྱེས་བུ་ཆེན་པོ",
+   "sanskrit": "mahāpuruṣa",
+   "senses": [
+    {
+     "sense": "great man (as in thirty-two marks)",
+     "occurrences": "all",
+     "academic": "大丈夫",
+     "children": "偉大的人",
+     "basis": "new",
+     "reason": "Established term (大丈夫相 for mahāpuruṣa); child follows English great person."
+    }
+   ]
+  },
+  {
+   "term_id": "T104",
+   "bo": "རྒྱུན",
+   "sanskrit": "dhārā",
+   "senses": [
+    {
+     "sense": "stream (of mind)",
+     "occurrences": "all",
+     "academic": "心流",
+     "children": "心的流動",
+     "basis": "zero-shot",
+     "reason": "Gemini 心流 for stream of mind; K gives only 心. Child plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T110",
+   "bo": "ལྷུང་བཟེད",
+   "sanskrit": "pātra",
+   "senses": [
+    {
+     "sense": "alms bowl",
+     "occurrences": "all",
+     "academic": "缽",
+     "children": "乞食的缽",
+     "basis": "kumarajiva",
+     "reason": "K 著衣持鉢 (modern 缽); child adds the purpose, alms."
+    }
+   ]
+  },
+  {
+   "term_id": "T116",
+   "bo": "འདུ་ཤེས་མེད་པ",
+   "sanskrit": "asaṃjñā",
+   "senses": [
+    {
+     "sense": "absence of perception",
+     "occurrences": "all",
+     "academic": "無想",
+     "children": "沒有想法",
+     "basis": "style-sheet",
+     "reason": "Core 想 with 無; K lists 無想 among beings; child 沒有想法."
+    }
+   ]
+  },
+  {
+   "term_id": "T122",
+   "bo": "རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ",
+   "sanskrit": "srotaāpattiphala",
+   "senses": [
+    {
+     "sense": "fruit of a stream-enterer",
+     "occurrences": "all",
+     "academic": "須陀洹果",
+     "children": "入流者的成果",
+     "basis": "style-sheet",
+     "reason": "Pattern X果 with K 須陀洹; child avoids transliteration, 入流者."
+    }
+   ]
+  },
+  {
+   "term_id": "T128",
+   "bo": "གནོད་སེམས",
+   "sanskrit": "vyāpāda",
+   "senses": [
+    {
+     "sense": "malice",
+     "occurrences": "all",
+     "academic": "瞋恨",
+     "children": "想傷害人的念頭",
+     "basis": "kumarajiva",
+     "reason": "K 應生瞋恨 aligns; child follows English wish to harm."
+    }
+   ]
+  },
+  {
+   "term_id": "T134",
+   "bo": "སྲོག་ཏུ་ལྟ་བ",
+   "sanskrit": "jīvadṛṣṭi",
+   "senses": [
+    {
+     "sense": "view of a life-force",
+     "occurrences": "all",
+     "academic": "壽者見",
+     "children": "有「生命」的看法",
+     "basis": "style-sheet",
+     "reason": "Pattern X見 with 壽者 for srog; child 有「X」的看法 with 生命."
+    }
+   ]
+  },
+  {
+   "term_id": "T140",
+   "bo": "ལྷའི་སྤྱན",
+   "sanskrit": "divya cakṣus",
+   "senses": [
+    {
+     "sense": "divine eye, one of the five eyes",
+     "occurrences": "all",
+     "academic": "天眼",
+     "children": "天眼",
+     "basis": "kumarajiva",
+     "reason": "K 如來有天眼不; an everyday Chinese word, so both registers keep it."
+    }
+   ]
+  },
+  {
+   "term_id": "T146",
+   "bo": "རྣམ་པར་བཤིག་པ",
+   "sanskrit": "vināśa",
+   "senses": [
+    {
+     "sense": "destroyed",
+     "occurrences": "all",
+     "academic": "毀壞",
+     "children": "破壞",
+     "basis": "zero-shot",
+     "reason": "Gemini 毀壞 for destroy; K 斷滅 renders a different notion. Child 破壞."
+    }
+   ]
+  },
+  {
+   "term_id": "T152",
+   "bo": "ཤམ་ཐབས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "lower robe, garment worn on the lower body",
+     "occurrences": "all",
+     "academic": "下衣",
+     "children": "下身的僧衣",
+     "basis": "new",
+     "reason": "Established 下衣 (antaravāsa); K 著衣 gives no separate word. Child plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T158",
+   "bo": "བླ་གོས",
+   "sanskrit": "uttarāsaṅga",
+   "senses": [
+    {
+     "sense": "upper robe",
+     "occurrences": "all",
+     "academic": "上衣",
+     "children": "上身的僧衣",
+     "basis": "new",
+     "reason": "Established 上衣, paired with 下衣; K gives no separate word."
+    }
+   ]
+  },
+  {
+   "term_id": "T164",
+   "bo": "རྫུས་ཏེ་སྐྱེས་པ",
+   "sanskrit": "aupapāduka",
+   "senses": [
+    {
+     "sense": "miraculously born, one of the four kinds of birth",
+     "occurrences": "all",
+     "academic": "化生",
+     "children": "神奇出生",
+     "basis": "kumarajiva",
+     "reason": "K 若化生 for aupapāduka among the four births; child follows miraculously born."
+    }
+   ]
+  },
+  {
+   "term_id": "T170",
+   "bo": "སེམས་ཅན་གྱི་ཁམས",
+   "sanskrit": "sattvadhātu",
+   "senses": [
+    {
+     "sense": "realm of sentient beings",
+     "occurrences": "all",
+     "academic": "眾生界",
+     "children": "眾生的世界",
+     "basis": "zero-shot",
+     "reason": "Gemini 眾生界, established; 眾生 per style sheet plus 界. Child plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T176",
+   "bo": "སེམས་ཅན་དུ་འདུ་ཤེས",
+   "sanskrit": "sattvasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of a sentient being",
+     "occurrences": "all",
+     "academic": "眾生想",
+     "children": "有「眾生」的想法",
+     "basis": "style-sheet",
+     "reason": "Pattern X-saṃjñā is X想; child 有「X」的想法; K 眾生相 blurs 想."
+    }
+   ]
+  },
+  {
+   "term_id": "T182",
+   "bo": "ལྷོ",
+   "sanskrit": "dakṣiṇa",
+   "senses": [
+    {
+     "sense": "south",
+     "occurrences": "all",
+     "academic": "南",
+     "children": "南方",
+     "basis": "kumarajiva",
+     "reason": "K 南西北方四維上下 gives 南; child 南方."
+    }
+   ]
+  },
+  {
+   "term_id": "T188",
+   "bo": "ཕྱོགས་བཅུ",
+   "sanskrit": "daśadiś",
+   "senses": [
+    {
+     "sense": "ten directions",
+     "occurrences": "all",
+     "academic": "十方",
+     "children": "十個方向",
+     "basis": "new",
+     "reason": "Established 十方; numeral in Chinese characters; child follows ten directions."
+    }
+   ]
+  },
+  {
+   "term_id": "T194",
+   "bo": "གཟིངས",
+   "sanskrit": "kola",
+   "senses": [
+    {
+     "sense": "raft",
+     "occurrences": "all",
+     "academic": "筏",
+     "children": "木筏",
+     "basis": "kumarajiva",
+     "reason": "K 如筏喻者 attests 筏; child 木筏."
+    }
+   ]
+  },
+  {
+   "term_id": "T200",
+   "bo": "ཕྱིར་མི་འོང་བའི་འབྲས་བུ",
+   "sanskrit": "anāgāmiphala",
+   "senses": [
+    {
+     "sense": "fruit of a non-returner",
+     "occurrences": "all",
+     "academic": "阿那含果",
+     "children": "不再回來者的成果",
+     "basis": "style-sheet",
+     "reason": "Pattern X果 with K 阿那含; child avoids transliteration, 不再回來者."
+    }
+   ]
+  },
+  {
+   "term_id": "T206",
+   "bo": "འཇིག་རྟེན་གྱིས་ཁམས",
+   "sanskrit": "lokadhātu",
+   "senses": [
+    {
+     "sense": "world system (variant spelling)",
+     "occurrences": "all",
+     "academic": "世界",
+     "children": "世界",
+     "basis": "style-sheet",
+     "reason": "Variant spelling takes the base term rendering (policy 21): 世界 in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T212",
+   "bo": "འདུ་ཤེས་མ་མཆིས་པ",
+   "sanskrit": "abhūtasaṃjñā",
+   "senses": [
+    {
+     "sense": "absence of perception",
+     "occurrences": "all",
+     "academic": "無想",
+     "children": "沒有想法",
+     "basis": "style-sheet",
+     "reason": "Same sense as T116: 想 core term with 無; K 實相 blurs it."
+    }
+   ]
+  },
+  {
+   "term_id": "T218",
+   "bo": "དྲང་སྲོང",
+   "sanskrit": "ṛṣi",
+   "senses": [
+    {
+     "sense": "sage",
+     "occurrences": "all",
+     "academic": "仙人",
+     "children": "仙人",
+     "basis": "kumarajiva",
+     "reason": "K 忍辱仙人 attests 仙人 for ṛṣi; plain everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T224",
+   "bo": "ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ",
+   "sanskrit": "agrayāna",
+   "senses": [
+    {
+     "sense": "foremost vehicle",
+     "occurrences": "all",
+     "academic": "最上乘",
+     "children": "最好的車乘",
+     "basis": "kumarajiva",
+     "reason": "K 最上乘; child follows best vehicle with 車乘 from style sheet."
+    }
+   ]
+  },
+  {
+   "term_id": "T230",
+   "bo": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ",
+   "sanskrit": "buddhabodhi",
+   "senses": [
+    {
+     "sense": "awakening of a Buddha",
+     "occurrences": "all",
+     "academic": "佛菩提",
+     "children": "佛的覺悟",
+     "basis": "style-sheet",
+     "reason": "Buddha 佛 plus 菩提 per style sheet; Gemini 佛的菩提; K gives full formula."
+    }
+   ]
+  },
+  {
+   "term_id": "T236",
+   "bo": "ཚེ་དང༌ལྡན་པ",
+   "sanskrit": "āyuṣmat",
+   "senses": [
+    {
+     "sense": "venerable (variant spelling)",
+     "occurrences": "all",
+     "academic": "具壽",
+     "children": "尊敬的",
+     "basis": "style-sheet",
+     "reason": "Variant spelling takes the base term rendering (policy 21): 具壽 and 尊敬的."
+    }
+   ]
+  },
+  {
+   "term_id": "T242",
+   "bo": "ཆོས་བསྟན་པ",
+   "sanskrit": "dharmadeśanā",
+   "senses": [
+    {
+     "sense": "teaching the Dharma",
+     "occurrences": "all",
+     "academic": "說法",
+     "children": "講解教導",
+     "basis": "kumarajiva",
+     "reason": "K 說法者 attests 說法, a fixed compound (policy 10); child explaining the teaching."
+    }
+   ]
+  },
+  {
+   "term_id": "T248",
+   "bo": "ལོག་པའི་ལམ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "wrong path",
+     "occurrences": "all",
+     "academic": "邪道",
+     "children": "錯誤的路",
+     "basis": "kumarajiva",
+     "reason": "K 是人行邪道; child follows wrong path."
+    }
+   ]
+  },
+  {
+   "term_id": "T254",
+   "bo": "དཔག་ཏུ་མེད་པ",
+   "sanskrit": "aprameya",
+   "senses": [
+    {
+     "sense": "immeasurable",
+     "occurrences": "all",
+     "academic": "無量",
+     "children": "數不清",
+     "basis": "kumarajiva",
+     "reason": "K 無量眾生 attests 無量; child follows beyond measure."
+    }
+   ]
+  },
+  {
+   "term_id": "T260",
+   "bo": "མར་མེ",
+   "sanskrit": "dīpa",
+   "senses": [
+    {
+     "sense": "lamp",
+     "occurrences": "all",
+     "academic": "燈",
+     "children": "燈",
+     "basis": "zero-shot",
+     "reason": "K omits the lamp; Gemini 明燈, simplified to plain 燈, known to children."
+    }
+   ]
+  },
+  {
+   "term_id": "T266",
+   "bo": "སྤྲིན",
+   "sanskrit": "abhra",
+   "senses": [
+    {
+     "sense": "cloud",
+     "occurrences": "all",
+     "academic": "雲",
+     "children": "雲朵",
+     "basis": "zero-shot",
+     "reason": "K omits the cloud; Gemini 雲朵; academic head form 雲, child 雲朵."
+    }
+   ]
+  },
+  {
+   "term_id": "T272",
+   "bo": "དགེ་བསྙེན་མ",
+   "sanskrit": "upāsikā",
+   "senses": [
+    {
+     "sense": "laywoman",
+     "occurrences": "all",
+     "academic": "優婆夷",
+     "children": "在家的女信徒",
+     "basis": "kumarajiva",
+     "reason": "K 優婆夷 (policy 13); child avoids transliteration with a plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T278",
+   "bo": "ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ",
+   "sanskrit": "ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā",
+   "senses": [
+    {
+     "sense": "mantra (ye dharmā verse)",
+     "occurrences": "all",
+     "academic": "曳達摩係都缽囉婆嚩係都儞帝灑多他揭多係嚩達帝灑者喻儞囉馱曳嚩儞摩訶室羅摩拏曳莎訶",
+     "children": "咒語",
+     "basis": "new",
+     "reason": "Policy 22: mantra transliterated, no K text aligns; flag for review. Child 咒語."
+    }
+   ]
+  }
+ ]
+}
