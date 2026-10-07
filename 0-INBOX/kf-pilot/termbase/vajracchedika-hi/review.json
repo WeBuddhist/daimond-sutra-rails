@@ -1,0 +1,161 @@
+{
+ "terms": [
+  {
+   "term_id": "T046",
+   "sense": "grasping at a self",
+   "field": "children",
+   "current": "'अपना आप' से चिपके रहना",
+   "suggested": "अपने आप से चिपके रहना",
+   "severity": "major",
+   "reason": "Hindi grammar requires the oblique case 'अपने आप' before the postposition 'से'.",
+   "applied": true
+  },
+  {
+   "term_id": "T067",
+   "sense": "grasping at a sentient being",
+   "field": "children",
+   "current": "जीवित प्राणी से चिपके रहना",
+   "suggested": "प्राणी से चिपके रहना",
+   "severity": "major",
+   "reason": "Must match the core rendering of sattva as 'प्राणी' (T005) for consistency in compounds.",
+   "applied": true
+  },
+  {
+   "term_id": "T071",
+   "sense": "array of Buddha-fields",
+   "field": "children",
+   "current": "रचना",
+   "suggested": "सजावट",
+   "severity": "major",
+   "reason": "Should match the rendering 'सजावट' used for vyūha in T049 to ensure one rendering per term.",
+   "applied": true
+  },
+  {
+   "term_id": "T082",
+   "sense": "sūtra",
+   "field": "children",
+   "current": "पवित्र ग्रन्थ",
+   "suggested": "पवित्र ग्रंथ",
+   "severity": "minor",
+   "reason": "Policy 2 requires writing nasals before a consonant as anusvāra, and matches T037.",
+   "applied": true
+  },
+  {
+   "term_id": "T109",
+   "sense": "monastic robe",
+   "field": "children",
+   "current": "भिक्षु का वस्त्र",
+   "suggested": "शिक्षा का वस्त्र",
+   "severity": "major",
+   "reason": "Policy 13: translates parts (chos = Dharma/teaching). Matches en_children 'teaching robe'.",
+   "applied": true
+  },
+  {
+   "term_id": "T133",
+   "sense": "view of a sentient being",
+   "field": "children",
+   "current": "जीवित प्राणी की मान्यता",
+   "suggested": "प्राणी की मान्यता",
+   "severity": "major",
+   "reason": "Must match the core rendering of sattva as 'प्राणी' (T005) for consistency in compounds.",
+   "applied": true
+  },
+  {
+   "term_id": "T139",
+   "sense": "fleshly eye, one of the five eyes",
+   "field": "academic",
+   "current": "मांसचक्षु",
+   "suggested": "मांस-चक्षु",
+   "severity": "minor",
+   "reason": "Compounds of cakṣus take a hyphen in the academic register (see T140, T141, etc.).",
+   "applied": true
+  },
+  {
+   "term_id": "T176",
+   "sense": "perception of a sentient being",
+   "field": "children",
+   "current": "जीवित प्राणी का विचार",
+   "suggested": "प्राणी का विचार",
+   "severity": "major",
+   "reason": "Must match the core rendering of sattva as 'प्राणी' (T005) for consistency in compounds.",
+   "applied": true
+  },
+  {
+   "term_id": "T219",
+   "sense": "abiding",
+   "field": "academic",
+   "current": "प्रतिष्ठित रहना",
+   "suggested": "प्रतिष्ठित",
+   "severity": "major",
+   "reason": "The lemma should be an adjective matching apratiṣṭhita (T024 'अप्रतिष्ठित') and en_academic.",
+   "applied": true
+  },
+  {
+   "term_id": "T219",
+   "sense": "abiding",
+   "field": "children",
+   "current": "टिकना",
+   "suggested": "टिका हुआ",
+   "severity": "major",
+   "reason": "The lemma should be an adjective matching en_children 'staying', not the infinitive verb.",
+   "applied": true
+  },
+  {
+   "term_id": "T226",
+   "sense": "the world with its gods, humans and asuras",
+   "field": "academic",
+   "current": "सदेव-मानुष-असुर लोक",
+   "suggested": "देव, मनुष्य और असुरों सहित लोक",
+   "severity": "major",
+   "reason": "Policy 17: variant spelling must take the exact rendering of the standard form (T207).",
+   "applied": true
+  },
+  {
+   "term_id": "T226",
+   "sense": "the world with its gods, humans and asuras",
+   "field": "children",
+   "current": "देवताओं, इंसानों और ईर्ष्यालु देवताओं वाली दुनिया",
+   "suggested": "देवताओं, इंसानों और ईर्ष्यालु देवताओं सहित दुनिया",
+   "severity": "major",
+   "reason": "Policy 17: variant spelling must take the exact rendering of the standard form (T207).",
+   "applied": true
+  },
+  {
+   "term_id": "T227",
+   "sense": "son or daughter of noble family",
+   "field": "children",
+   "current": "अच्छे परिवार का बेटा या बेटी",
+   "suggested": "अच्छे परिवार का बेटा या अच्छे परिवार की बेटी",
+   "severity": "major",
+   "reason": "Must exactly match the approved rendering for the identical Tibetan fragment in T057.",
+   "applied": true
+  },
+  {
+   "term_id": "T245",
+   "sense": "grasping at a self",
+   "field": "children",
+   "current": "\"अपना आप\" से चिपके रहना",
+   "suggested": "अपने आप से चिपके रहना",
+   "severity": "major",
+   "reason": "Hindi grammar requires the oblique case 'अपने आप' before the postposition 'से'.",
+   "applied": true
+  },
+  {
+   "term_id": "T251",
+   "sense": "without self",
+   "field": "children",
+   "current": "बिना अपना आप के",
+   "suggested": "बिना अपने आप के",
+   "severity": "major",
+   "reason": "Hindi grammar requires the oblique case 'अपने आप' before the postposition 'के'.",
+   "applied": true
+  }
+ ],
+ "policies": [
+  {
+   "policy": "15",
+   "suggested": "Change the example \"(जीवित प्राणी का विचार)\" to \"(प्राणी का विचार)\".",
+   "reason": "Maintains consistency with the Core terms table which renders sattva as 'प्राणी', not 'जीवित प्राणी'."
+  }
+ ]
+}

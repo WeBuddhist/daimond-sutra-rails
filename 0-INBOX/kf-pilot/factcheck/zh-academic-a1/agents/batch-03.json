@@ -1,0 +1,154 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "6-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "有多少無諸相具足，即有多少非虛妄",
+     "evidence": "Tibetan 'ji tsam du mtshan phun sum tshogs pa med pa de tsam du mi brdzun te' is a correlative 'to whatever extent ... to that extent' (degree), per Chone Drakpa Shedrub 2-23 ('ji tsam du ... bden par med pa de tsam ni mi brdzun'). The Chinese 有多少...有多少 reads as counting quantities of things, and 無諸相具足 is hard to parse.",
+     "fix": "在無諸相具足的程度上，即在同等程度上非虛妄，"
+    }
+   ]
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "具足戒、具足功德、具足般若",
+     "evidence": "Tibetan 'tshul khrims dang ldan pa, yon tan dang ldan pa, shes rab dang ldan pa' = 'possessing ethical discipline / qualities / wisdom' (Skt. guṇavantaḥ śīlavantaḥ prajñāvantaḥ). 具足戒 is the fixed Chinese term for full ordination vows (upasampadā), and 具足 also collides with the locked 諸相具足 (phun sum tshogs pa) in 6-7. The commentary (Chone 2-26) means the three trainings, not ordination.",
+     "fix": "具有戒、具有功德、具有般若"
+    }
+   ]
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "無眾生想，無壽者想，因為將不會生起人想。",
+     "evidence": "Tibetan 'sems can du 'du shes pa ma yin | srog tu 'du shes pa ma yin | gang zag tu 'du shes 'jug par mi 'gyur ba'i phyir ro' is a single series; the closing 'phyir ro' answers the 'why?' of 6-19 for the whole series (self, sentient being, life-force, person). The Chinese 因為 attaches only to the last item, so it reads as if the person-perception explains the first two.",
+     "fix": "無眾生想，無壽者想，亦不會生起人想，故如此。"
+    }
+   ]
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-31",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

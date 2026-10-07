@@ -1,0 +1,757 @@
+{
+ "1-5": {
+  "translation": "放棄了後餐的乞食，放下缽與法衣，洗淨雙足，在鋪設好的座位上結跏趺坐，挺直身體，將正念繫念在前而安坐。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "放棄了後餐的乞食",
+    "evidence": "Tibetan ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས; Chone Drakpa Shedrub 1-6 glosses it as ཟས་ཕྱི་མ་ཕྱི་དྲོའི་བསོད་སྙོམས་ཟ་བ་སྤངས་ནས (giving up eating afternoon alms). '後餐' can be misread as a second/next meal rather than the post-meal (afternoon) alms the Buddha refrains from.",
+    "fix": "捨棄了午後（後食）的乞食"
+   }
+  ]
+ },
+ "2-3": {
+  "translation": "世尊！如來、阿羅漢、正等覺者、佛，以何等最勝之利益，利益諸菩薩摩訶薩；如來以何等最勝之付囑，付囑諸菩薩摩訶薩。世尊，這真是稀有！善逝，這真是稀有！",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "正等覺者、佛",
+    "evidence": "Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས is one epithet (locked: 正等覺者, with སངས་རྒྱས contained within it); the Tibetan list is only Tathāgata, arhat, perfectly complete Buddha (Sanskrit tathāgatena arhatā samyaksaṃbuddhena). The enumeration 正等覺者、佛 creates a fourth epithet.",
+    "fix": "正等覺佛"
+   }
+  ]
+ },
+ "3-7": {
+  "translation": "真實步入菩薩乘者應當如何安住、應當如何修行、應當如何降伏其心，我將為你解說。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "真實步入",
+    "evidence": "Tibetan ཡང་དག་པར་བཞུགས་པ (Skt. samprasthita) uses ཡང་དག་པར 'correctly/properly', not 'truly/really'. 真實 reads as 'genuinely' (a claim about authenticity), whereas the Tibetan describes proper entry into the bodhisattva vehicle; english_academic has 'correctly entered'.",
+    "fix": "如理步入"
+   }
+  ]
+ },
+ "4-1": {
+  "translation": "須菩提！於此真實步入菩薩乘者，應作是念：『無論多少眾生被攝於眾生之類中——或卵生，或胎生，或濕生，或化生，或有色，或無色，或有想，或無想，或非有想非無想，無論多少在眾生界中被假名施設為眾生者，我皆令彼等一切於蘊無餘涅槃界中般涅槃。』",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "真實步入",
+    "evidence": "Tibetan བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ: ཡང་དག་པར is 'correctly/properly' (cf. Skt. samprasthita), not 'truly'; 真實 shifts the sense to authenticity. english_academic: 'correctly entered'.",
+    "fix": "如理步入"
+   }
+  ]
+ },
+ "5-6": {
+  "translation": "世尊說：「須菩提，同樣地，菩薩不住於任何事物而行布施，其福德聚，須菩提，是因為不易衡量的緣故。」",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "其福德聚，須菩提，是因為不易衡量的緣故",
+    "evidence": "Tibetan ... བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ says the mass of merit is not easy to measure (the final ཕྱིར་རོ closes the 'why' answer; Skt. tasya puṇyaskandhasya na sukaraṃ pramāṇam udgrahītum has no 'because'). The Chinese 是因為...的緣故 leaves the merit mass with no predicate and reads as 'the merit mass is because it is hard to measure', which garbles the statement.",
+    "fix": "其福德聚，須菩提，不易衡量"
+   }
+  ]
+ },
+ "6-7": {
+  "translation": "有多少無諸相具足，即有多少非虛妄，",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "有多少無諸相具足，即有多少非虛妄",
+    "evidence": "Tibetan 'ji tsam du mtshan phun sum tshogs pa med pa de tsam du mi brdzun te' is a correlative 'to whatever extent ... to that extent' (degree), per Chone Drakpa Shedrub 2-23 ('ji tsam du ... bden par med pa de tsam ni mi brdzun'). The Chinese 有多少...有多少 reads as counting quantities of things, and 無諸相具足 is hard to parse.",
+    "fix": "在無諸相具足的程度上，即在同等程度上非虛妄，"
+   }
+  ]
+ },
+ "6-12": {
+  "translation": "「須菩提，在未來最後五百年，正法徹底壞滅之時，將會出現具足戒、具足功德、具足般若的菩薩摩訶薩。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "具足戒、具足功德、具足般若",
+    "evidence": "Tibetan 'tshul khrims dang ldan pa, yon tan dang ldan pa, shes rab dang ldan pa' = 'possessing ethical discipline / qualities / wisdom' (Skt. guṇavantaḥ śīlavantaḥ prajñāvantaḥ). 具足戒 is the fixed Chinese term for full ordination vows (upasampadā), and 具足 also collides with the locked 諸相具足 (phun sum tshogs pa) in 6-7. The commentary (Chone 2-26) means the three trainings, not ordination.",
+    "fix": "具有戒、具有功德、具有般若"
+   }
+  ]
+ },
+ "6-20": {
+  "translation": "無眾生想，無壽者想，因為將不會生起人想。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "無眾生想，無壽者想，因為將不會生起人想。",
+    "evidence": "Tibetan 'sems can du 'du shes pa ma yin | srog tu 'du shes pa ma yin | gang zag tu 'du shes 'jug par mi 'gyur ba'i phyir ro' is a single series; the closing 'phyir ro' answers the 'why?' of 6-19 for the whole series (self, sentient being, life-force, person). The Chinese 因為 attaches only to the last item, so it reads as if the person-perception explains the first two.",
+    "fix": "無眾生想，無壽者想，亦不會生起人想，故如此。"
+   }
+  ]
+ },
+ "6-38": {
+  "translation": "為什麼呢？因為諸聖人是以無為而區分的。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "諸聖人",
+    "evidence": "Tibetan འཕགས་པའི་གང་ཟག་རྣམས is a locked term (འཕགས་པའི་གང་ཟག -> 聖者); the translation renders it 聖人 instead of the locked 聖者. Meaning is intact (cf. Vasubandhu 2-32, Chone 2-36).",
+    "fix": "諸聖者"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "locked termbase rendering not used",
+    "fix": "use the locked rendering: 聖者"
+   }
+  ]
+ },
+ "6-46": {
+  "translation": "世尊說：須菩提，比起有善男子或善女人將此三千大千世界裝滿七寶並給予施物，若有人從此教法之法門中甚至僅受持四句偈，為他人解說並真實開示，從該基礎將產生更多、無數且無量的福德聚。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "從此教法之法門中",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས is the single locked term ཆོས་ཀྱི་རྣམ་གྲངས -> 法門 (\"this Dharma discourse/teaching\"). The translation renders ཆོས་ separately as 教法 and then adds 法門, doubling the term (教法之法門).",
+    "fix": "從此法門中"
+   }
+  ]
+ },
+ "6-47": {
+  "translation": "為什麼呢？須菩提，因為如來、阿羅漢、正等覺者諸佛的阿耨多羅三藐三菩提，是從此處出生的。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "正等覺者諸佛",
+    "evidence": "Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས is one locked term (-> 正等覺者, plural); the translation renders སངས་རྒྱས་ twice (正等覺者 plus 諸佛), as if two items.",
+    "fix": "正等覺者們"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "因為如來",
+    "evidence": "Tibetan 6-47 has only དེ་ཅིའི་ཕྱིར་ཞེ་ན། ... འདི་ལས་བྱུང་སྟེ, ending in the continuative སྟེ; the causal ཕྱིར་རོ comes only in 6-48 (སྐྱེས་པའི་ཕྱིར་རོ). The added 因為 in 6-47 creates a double \"because\" with 6-48 (cf. Kamalasila 3-78, which cites this clause as the reason).",
+    "fix": "如來"
+   }
+  ]
+ },
+ "7-28": {
+  "translation": "世尊，如來、阿羅漢、正等覺者、佛指示我是住於無煩惱者之中最為第一，",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "正等覺者、佛",
+    "evidence": "The Tibetan has three epithets: de bzhin gshegs pa dgra bcom pa yang dag par rdzogs pa'i sangs rgyas. The glossary locks the whole compound yang dag par rdzogs pa'i sangs rgyas as 正等覺者; the sub-entry sangs rgyas = 佛 is already inside it. Rendering both makes a fourth epithet (佛) that the Tibetan does not have.",
+    "fix": "如來、阿羅漢、正等覺者"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "指示我是",
+    "evidence": "bstan (Skt. nirdiṣṭa) here means 'declared / designated' as foremost; 指示 in Chinese means 'to instruct or point out', which is a different act.",
+    "fix": "宣說我為"
+   }
+  ]
+ },
+ "7-29": {
+  "translation": "世尊，雖然我是遠離貪欲的離欲阿羅漢，但世尊，我不作是想：『我是阿羅漢。』",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "遠離貪欲的離欲阿羅漢",
+    "evidence": "Tibetan 'dod chags dang bral ba dgra bcom pa = 'an arhat free from desire' (Skt. arhan vītarāgaḥ). The locked 離欲 already renders 'dod chags dang bral ba; 遠離貪欲 renders the same words again, so the phrase says 'free-from-desire' twice.",
+    "fix": "離欲的阿羅漢"
+   }
+  ]
+ },
+ "7-30": {
+  "translation": "世尊，如果我這樣想：「我得到了阿羅漢位」，如來對我所謂的「善男子須菩提是住於無煩惱者之中的第一，",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "如來對我所謂的「善男子須菩提是住於無煩惱者之中的第一，",
+    "evidence": "Tibetan: de bzhin gshegs pas bdag la rigs kyi bu rab 'byor ni nyon mongs pa med par gnas pa rnams kyi mchog yin te = the Tathagata's act of declaring concerning me (Skt. na mam tathagato vyakarisyat ...). The Chinese turns the Tathagata's declaring into a noun phrase ('what the Tathagata so-called regarding me') and leaves an opened quotation that is closed only at the end of 7-31, so the 7-31 clause (which is Subhuti's own reason, lung mi ston lags so) falls inside the Tathagata's quoted words. The 'if I thought ...' clause is left with no verb for the Tathagata. Chone Drakpa Shedrub 2-50 reads it as the Tathagata declaring conventionally that Subhuti is foremost of those abiding without affliction, while not declaring 'abiding' ultimately.",
+    "fix": "如來對我宣說：「善男子須菩提是住於無煩惱者之中的第一」，"
+   }
+  ]
+ },
+ "7-31": {
+  "translation": "因為無所安住，故不授記為『住於無煩惱者』。」",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "故不授記為『住於無煩惱者』。」",
+    "evidence": "Tibetan ci la yang mi gnas pas na nyon mongs pa med par gnas pa zhes lung mi ston lags so: the honorific lags marks this as Subhuti speaking of the Tathagata, who does not declare. The Chinese has no subject for 不授記 and, because of the unclosed quotation in 7-30, the final 」 closes the Tathagata's supposed words, so the speaker is misassigned. English_academic supplies 'the Tathagata does not declare me'.",
+    "fix": "由於我無所安住，如來不授記我為『住於無煩惱者』。」"
+   }
+  ]
+ },
+ "7-73": {
+  "translation": "須菩提回答說：「世尊，如來所宣說的法任何都不存在。」",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "如來所宣說的法任何都不存在",
+    "evidence": "Tibetan དེ་བཞིན་གཤེགས་པས་གང་གསུངས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ = 'there is no dharma whatsoever that the Tathagata has spoken' (Sanskrit nāsti sa kaścid dharmo yas tathāgatena bhāṣitaḥ). The Chinese places 任何 after the noun as a floating quantifier ('the dharma spoken by the Tathagata, any, none exists'), which is awkward and could be misparsed; the scope of 'any' over dharma should be explicit.",
+    "fix": "如來所宣說的任何法都不存在"
+   }
+  ]
+ },
+ "8-2": {
+  "translation": "你認為應以那些大丈夫的三十二相來見如來、阿羅漢、正等覺者、佛嗎？",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "正等覺者、佛嗎",
+    "evidence": "Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ is one epithet ('perfectly complete Buddha'; Skt samyaksaṃbuddha), so the series is Tathāgata, arhat, perfectly complete Buddha (three items). The enumeration '正等覺者、佛' makes 佛 a fourth separate epithet.",
+    "fix": "正等覺的佛嗎"
+   }
+  ]
+ },
+ "8-6": {
+  "translation": "世尊說：「須菩提，比起有男子或女人布施等同恆河沙數的身體，若有人從此教法的法門中，哪怕只受持四句偈並為他人真實宣說，此人以此為基礎，將產生遠為更多的無數、無量福德。」",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ "8-9": {
+  "translation": "世尊，如來如此詳盡地宣說這部教法的法門，真是稀有！善逝，真是稀有！",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這部教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "這部法門"
+   }
+  ]
+ },
+ "8-10": {
+  "translation": "世尊，自從我生起本智以來，我以前從未聽聞過這部教法的法門。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這部教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "這部法門"
+   }
+  ]
+ },
+ "8-11": {
+  "translation": "為什麼呢？世尊，對於宣說此經將生起真實想的那些眾生，將具備最極稀有。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "對於宣說此經將生起真實想的那些眾生",
+    "evidence": "Tibetan མདོ་སྡེ་བཤད་པ་འདི་ལ་ is passive/locative: 'when this sūtra is being explained' (Skt bhāṣyamāṇe); the active '宣說此經' lets the reader take the beings as the ones doing the teaching.",
+    "fix": "對於此經被宣說時將生起真實想的那些眾生"
+   }
+  ]
+ },
+ "8-14": {
+  "translation": "世尊，我思惟並信解這部被宣說的教法的法門，對我來說並不稀有；",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這部被宣說的教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "這部被宣說的法門"
+   }
+  ]
+ },
+ "8-15": {
+  "translation": "世尊，在未來的時代、未來的後五百歲中，若有眾生領受、書寫、受持、護持、閱讀並完全通達此教法之法門，這些眾生將具備最極之希有。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法之法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ "8-19": {
+  "translation": "那是為什麼呢？因為諸佛世尊即是遠離一切想的緣故。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "諸佛世尊即是遠離一切想",
+    "evidence": "Tibetan སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བ is a plain predicate ('are free of all perceptions'), with no ཉིད; '即是' reads as an identity statement (Buddhas are freedom-from-perception), unlike 8-12/8-18 where དེ་ཉིད justifies 即是.",
+    "fix": "諸佛世尊已遠離一切想"
+   }
+  ]
+ },
+ "8-22": {
+  "translation": "凡是在這部經被宣說時不驚恐、不害怕、不極度畏懼的眾生，將具備極其稀有之特質。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "極其稀有之特質",
+    "evidence": "Tibetan ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་རོ ('will be endowed with supreme marvel') has no word for 'quality/characteristic'; 之特質 is added and the phrase differs from the rendering of the same expression in 8-11 and 8-15.",
+    "fix": "最極稀有"
+   }
+  ]
+ },
+ "8-31": {
+  "translation": "須菩提，我憶念在過去世中，我於五百世中成為名為忍辱仙人的仙人，即使在那時，我也未生起我想，",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "成為名為忍辱仙人的仙人",
+    "evidence": "Tibetan བཟོད་པ་སྨྲ་བ་ཞེས་བྱ་བའི་དྲང་སྲོང་དུ་གྱུར་པ means 'became the sage (དྲང་སྲོང) called Kṣāntivādin'. The locked rendering 忍辱仙人 already contains 仙人, so 名為忍辱仙人的仙人 repeats 仙人 tautologically; meaning is intact.",
+    "fix": "成為名為忍辱仙人者"
+   }
+  ]
+ },
+ "8-50": {
+  "translation": "再者，須菩提！如果有善男子或善女人，受取、受持、憶持、讀誦、完全通達此教法之法門，並為他人廣泛而真實地開示，如來悉知彼等，如來悉見彼等，",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法之法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་འདི (Skt dharmaparyāya) is a single compound locked as 法門; the translation adds the separate lock ཆོས=教法 as 教法之法門, producing a redundant, double rendering of ཆོས་ཀྱི་རྣམ་གྲངས.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ "8-52": {
+  "translation": "再者，須菩提！若有男子或女人，於早晨時完全捨棄恆河沙數的身體，於中午時及傍晚時亦完全捨棄恆河沙數的身體，以此方式於許多百千萬億劫中完全捨棄身體，與其相比，",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "百千萬億劫",
+    "evidence": "Tibetan བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་ (Skt kotiniyutaśatasahasra) has three units: koti (བྱེ་བ), niyuta (ཁྲག་ཁྲིག), hundred-thousand (འབུམ་ཕྲག); the translation drops the niyuta unit.",
+    "fix": "百千那由他億劫"
+   }
+  ]
+ },
+ "8-53": {
+  "translation": "如果有人聽聞此教法的法門而不捨棄，其將以此為基礎產生更多無數無量的福德，更何況是有人將其寫下、受取、執持、憶持、讀誦、完全精通，並為他人廣泛且正確地開示呢？",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ "8-54": {
+  "translation": "再者，須菩提！此教法的法門是不可思議且無與倫比的。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ "8-56": {
+  "translation": "此教法的法門，是如來為了真實趣入最上乘的眾生之利益，以及真實趣入最上乘的眾生之利益而宣說的。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ "8-57": {
+  "translation": "那些受取、受持、憶持、讀誦、通達，並為他人廣泛而真實地開示這個教法之法門的人，如來了知他們，如來看見他們；",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這個教法之法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "這個法門"
+   }
+  ]
+ },
+ "8-61": {
+  "translation": "為什麼呢？須菩提！信樂下劣者無法聽聞這個教法之法門；",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這個教法之法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "這個法門"
+   }
+  ]
+ },
+ "8-72": {
+  "translation": "須菩提！我憶念在過去無數且更為無數的劫前，在如來、阿羅漢、正等覺者燃燈佛之前，且更為久遠之前，曾有八十四萬億那由他諸佛出世，我皆令他們歡喜，",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "八十四萬億那由他諸佛",
+    "evidence": "Tibetan སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི (Skt caturaśīti-buddhakoṭi-niyuta-śatasahasrāṇi; Chone 2-98 and Kamalaśīla 3-162 repeat the same figure) is 84 x koti x niyuta x hundred-thousand; 「萬」 (ten thousand) does not render འབུམ་ཕྲག (hundred-thousand), so the figure is stated imprecisely.",
+    "fix": "八十四億那由他百千諸佛"
+   }
+  ]
+ },
+ "8-74": {
+  "translation": "須菩提！我令那些佛世尊歡喜且未曾令其心生厭離之所作，與後五百歲時，受取、書寫、受持、憶持、讀誦、完全通達此經者相比，須菩提！前一福德聚對於此福德聚，連百分之一也不及。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "我令那些佛世尊歡喜且未曾令其心生厭離之所作，與後五百歲時，受取、書寫、受持、憶持、讀誦、完全通達此經者相比",
+    "evidence": "The Tibetan compares two masses of merit (བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ vs བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་); Chone 2-98 spells it out: 'the merit of what I did ... and the merit of those who write this sūtra in the last five hundred'. The Chinese sets an act against persons (「所作」 vs 「者」) and leaves the comparison of merits implicit until the final clause.",
+    "fix": "我令那些佛世尊歡喜而未令其心生厭離所作的福德，與後五百歲末時受取、書寫、受持、憶持、讀誦、完全通達此經者的福德相比"
+   }
+  ]
+ },
+ "8-76": {
+  "translation": "須菩提！若彼時有善男子或善女人將受持盡其所有之福德聚，若我宣說彼等善男子或善女人的福德聚，眾生將會發狂，且心神錯亂。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "若彼時有善男子或善女人將受持盡其所有之福德聚，若我宣說",
+    "evidence": "The Tibetan is a single conditional: 'if I were to speak of the mass of merit of those sons/daughters of noble family who would fully uphold however great a mass of merit' (བསོད་ནམས་ཀྱི་ཕུང་པོ་ཇི་སྙེད་རབ་ཏུ་འཛིན་པར་འགྱུར་བའི ... དེ་དག་གི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ངས་བརྗོད་ན). The translation splits it into two stacked 若-clauses, the first with no consequent, so it reads as 'if at that time there were such persons' and the logic is hard to parse; 'ཇི་སྙེད' is a relative modifier of the merit, not a separate condition.",
+    "fix": "若我宣說彼時那些將會受持其所有福德聚的善男子或善女人的福德聚"
+   }
+  ]
+ },
+ "8-77": {
+  "translation": "再者，須菩提，此教法之法門不可思議，",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法之法門",
+    "evidence": "ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs) is a fixed compound locked as 法門 (Skt. dharmaparyāya); it is not 'the 法門 of a 教法'. Rendering ཆོས་ with its separate locked value 教法 and then adding 之法門 doubles the term and produces a nonexistent genitive construction (cf. Chone Drakpa Shedrub 2-100 ཆོས་ཀྱི་རྣམ་གྲངས་འདི).",
+    "fix": "此法門"
+   }
+  ]
+ },
+ "8-84": {
+  "translation": "須菩提！在此，正確趣入菩薩乘的人應該這樣想：『我要使一切眾生都在蘊無餘涅槃界中完全般涅槃。』",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "蘊無餘涅槃界",
+    "evidence": "The locked term for ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པ is 無餘涅槃 (the whole phrase 'nirvana without remainder of aggregates'); the translation prefixes a stray 蘊, giving 蘊無餘涅槃, which is not the locked term and parses oddly. The Tibetan is ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས (dbyings = 界).",
+    "fix": "無餘涅槃界"
+   }
+  ]
+ },
+ "8-90": {
+  "translation": "你認為如來從如來燃燈佛處，有任何現等覺阿耨多羅三藐三菩提之正等菩提的法嗎？",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提之正等菩提",
+    "evidence": "The Tibetan བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ is a single term, locked as 阿耨多羅三藐三菩提 (Skt. anuttarā samyaksaṃbodhi). Adding 之正等菩提 (the locked value of the sub-term ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ) renders the same words twice and creates an apposition the Tibetan does not have.",
+    "fix": "現等覺阿耨多羅三藐三菩提的法"
+   }
+  ]
+ },
+ "8-92": {
+  "translation": "世尊！如來從如來燃燈佛處，沒有任何現等覺阿耨多羅三藐三菩提之正等菩提的法。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提之正等菩提",
+    "evidence": "Same as 8-90: བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ is one term (locked 阿耨多羅三藐三菩提); the added 之正等菩提 double-renders it.",
+    "fix": "現等覺阿耨多羅三藐三菩提的法"
+   }
+  ]
+ },
+ "8-95": {
+  "translation": "如來從如來燃燈佛處，並無任何現等覺阿耨多羅三藐三菩提即正等菩提之法。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提即正等菩提",
+    "evidence": "The Tibetan has only བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ (one term, locked 阿耨多羅三藐三菩提); 即正等菩提 adds an equation not in the Tibetan and double-renders the term.",
+    "fix": "現等覺阿耨多羅三藐三菩提之法"
+   }
+  ]
+ },
+ "8-97": {
+  "translation": "須菩提！因為如來並無任何現等覺阿耨多羅三藐三菩提即正等菩提之法，",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提即正等菩提",
+    "evidence": "Same as 8-95: the Tibetan has a single term བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ; 即正等菩提 is an unwarranted doubling.",
+    "fix": "現等覺阿耨多羅三藐三菩提之法"
+   }
+  ]
+ },
+ "8-100": {
+  "translation": "復次，須菩提！若有任何人這樣說：『如來、阿羅漢、正等覺者，亦即是佛，現等覺了阿耨多羅三藐三菩提此無上正等菩提。』他就是在說不實之語。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "亦即是佛",
+    "evidence": "The Tibetan list is དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས: Tathāgata, arhat, perfectly complete Buddha. 'ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས' is one epithet (locked 正等覺者, as rendered in 8-96 and 8-98); splitting off 亦即是佛 adds an equating clause absent from the Tibetan and is inconsistent with 8-96/8-98.",
+    "fix": "如來、阿羅漢、正等覺者"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提此無上正等菩提",
+    "evidence": "The Tibetan བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ is one term (locked 阿耨多羅三藐三菩提); the added 此無上正等菩提 repeats it and adds a demonstrative 此 not in the Tibetan.",
+    "fix": "現等覺了阿耨多羅三藐三菩提"
+   }
+  ]
+ },
+ "8-102": {
+  "translation": "為什麼呢？須菩提！因為如來現等覺阿耨多羅三藐三菩提此無上正等菩提之法，是完全不存在的。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提此無上正等菩提之法",
+    "evidence": "Tibetan has a single phrase བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ (locked 阿耨多羅三藐三菩提) as the locus of awakening, with ཆོས་དེ་ ('that dharma') as the object of མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ. The translation renders the one phrase twice (transliteration plus an added gloss 此無上正等菩提) and makes 法 an appositive of the bodhi, so the dharma reads as the bodhi itself; Skt anuttarāṃ samyaksaṃbodhim abhisaṃbuddhaḥ with 'kaścid dharmaḥ' separate.",
+    "fix": "因為如來於阿耨多羅三藐三菩提中現等覺的任何法，皆不存在。"
+   }
+  ]
+ },
+ "8-118": {
+  "translation": "須菩提！任何菩薩若如是信解：『諸法無我，諸法無我』，如來、阿羅漢、正等覺者，佛即稱之為菩薩摩訶薩。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "如來、阿羅漢、正等覺者，佛即稱之為",
+    "evidence": "Tibetan དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས is one agent (Skt tathāgatena arhatā samyaksaṃbuddhena); སངས་རྒྱས is the final noun of the epithet ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས (locked 正等覺者). The translation renders it as 正等覺者 and then adds 佛 as a separate subject, so the epithets read as four items; the added 佛 has no counterpart in the Tibetan.",
+    "fix": "如來、阿羅漢、正等覺者即稱之為"
+   }
+  ]
+ },
+ "9-7": {
+  "translation": "你認為如來有般若慧眼嗎？",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "般若慧眼",
+    "evidence": "Locked rendering for ཤེས་རབ་ཀྱི་སྤྱན is 慧眼; the translation prefixes 般若 (the locked rendering of ཤེས་རབ alone), producing a non-locked, redundant compound.",
+    "fix": "慧眼"
+   }
+  ]
+ },
+ "9-9": {
+  "translation": "如來有般若慧眼。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "般若慧眼",
+    "evidence": "Tibetan ཤེས་རབ་ཀྱི་སྤྱན is one locked compound rendered 慧眼 ('eye of wisdom'). Prefixing 般若 renders ཤེས་རབ twice (般若 + 慧), duplicating the same element; the Sanskrit is only prajñā-cakṣus.",
+    "fix": "如來有慧眼。"
+   }
+  ]
+ },
+ "9-11": {
+  "translation": "你認為如來有教法眼嗎？",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "教法眼",
+    "evidence": "Tibetan ཆོས་ཀྱི་སྤྱན (Skt dharma-cakṣus) has the locked rendering 法眼. The translation inserts 教法 (the locked rendering of the bare noun ཆོས), yielding 'eye of the teachings'. The commentaries take the Dharma eye as the eye for phenomena/the conventional: Kamalaśīla 3-184 'ཆོས་ཙམ་གྱི་ཡུལ་ལ་ནི་ཆོས་ཀྱི་སྤྱན' (the eye whose object is mere phenomena); Chone Drakpa Shedrub 2-117 'ཆོས་ཀྱི་སྤྱན་གྱིས་ཀུན་རྫོབ་པའི་རབ་དབྱེ་ཐམས་ཅད' (all conventional distinctions). 'Teaching' is not the sense.",
+    "fix": "法眼"
+   }
+  ]
+ },
+ "9-13": {
+  "translation": "如來有教法眼。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "教法眼",
+    "evidence": "Tibetan ཆོས་ཀྱི་སྤྱན (Skt dharma-cakṣus) has the locked rendering 法眼. The translation inserts 教法 (the locked rendering of the bare noun ཆོས), yielding 'eye of the teachings'. The commentaries take the Dharma eye as the eye for phenomena/the conventional: Kamalaśīla 3-184 'ཆོས་ཙམ་གྱི་ཡུལ་ལ་ནི་ཆོས་ཀྱི་སྤྱན' (the eye whose object is mere phenomena); Chone Drakpa Shedrub 2-117 'ཆོས་ཀྱི་སྤྱན་གྱིས་ཀུན་རྫོབ་པའི་རབ་དབྱེ་ཐམས་ཅད' (all conventional distinctions). 'Teaching' is not the sense.",
+    "fix": "法眼"
+   }
+  ]
+ },
+ "9-19": {
+  "translation": "如果恆河的沙有多少，恆河也剛好變成有那麼多條，如果世間的世界變成如同那些沙數一般多，你認為那些世間的世界多嗎？",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "世間的世界",
+    "evidence": "Tibetan འཇིག་རྟེན་གྱི་ཁམས (lokadhātu) is one locked compound rendered 世界. The translation splits it into འཇིག་རྟེན (世間) + ཁམས (世界), giving 'worlds of the world'.",
+    "fix": "世界"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "如果世間的世界變成如同那些沙數一般多",
+    "evidence": "Tibetan 'དེ་དག་གི་བྱེ་མ་དེ་སྙེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས' (Skt tāsu vā vālukāḥ, tāvantaś ca lokadhātavaḥ) says the worlds equal the grains of sand in those (many) Ganges rivers. The Chinese has no 'in those rivers', so 那些沙 can be read as the sand of the single original Ganges, which understates the number.",
+    "fix": "如果那些恆河中的沙粒有多少，世界也變成有那麼多"
+   }
+  ]
+ },
+ "9-21": {
+  "translation": "那些世間的世界很多。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "世間的世界",
+    "evidence": "འཇིག་རྟེན་གྱི་ཁམས is locked as 世界; 世間 is the locked rendering of འཇིག་རྟེན alone and should not be added as a separate element.",
+    "fix": "那些世界很多。"
+   }
+  ]
+ },
+ "9-22": {
+  "translation": "世尊言：「須菩提！在那些世間的世界中所有的眾生，他們各種不同意向的心流，我皆完全了知。」",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "世間的世界",
+    "evidence": "འཇིག་རྟེན་གྱི་ཁམས་དེ་དག is one locked compound, 世界; the translation renders it as 'worlds of the world'.",
+    "fix": "在那些世界中"
+   }
+  ]
+ },
+ "10-18": {
+  "translation": "應以諸相具足見如來嗎？」",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan ends བལྟ་བར་བྱ་སྙམ་མམ ('do you think ... is to be seen?'); the verb སྙམ ('think') is not rendered, whereas 10-12 renders the parallel with 你認為. The question form in Sanskrit (द्रष्टव्यः ?) is kept, but the 'do you think' frame is lost.",
+    "fix": "你認為應以諸相具足見如來嗎？"
+   }
+  ]
+ },
+ "10-25": {
+  "translation": "因為如來所宣說的法，沒有任何存在的緣故。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "沒有任何存在的緣故",
+    "evidence": "Tibetan དེ་བཞིན་གཤེགས་པས་གང་བསྟན་པའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ: གང་ཡང་ ('any whatsoever') qualifies the dharma ('there is no dharma whatsoever that the Tathāgata taught'). In the Chinese, 任何 is attached to 存在, so the sense reads awkwardly as 'the dharma has no existence of any kind' and the 'no such dharma at all' sense is blurred.",
+    "fix": "因為如來所宣說的任何法，都不存在的緣故。"
+   }
+  ]
+ },
+ "10-26": {
+  "translation": "須菩提！如果有人這麼說：『如來宣說了教法』，須菩提！他就是以執取不存在與顛倒在誹謗我。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "以執取不存在與顛倒",
+    "evidence": "Tibetan མེད་པ་དང་ལོག་པར་ཟིན་པས; Sanskrit असतोद्गृहीतेन ('by what is wrongly grasped, the nonexistent'). Kamalaśīla (bo-kamalasila-tika 3-200) glosses ལོག་པར་འཛིན་པས as ཕྱིན་ཅི་ལོག་ཏུ་མངོན་པར་ཞེན་པས་ལོག་པར་ཟིན་པའི་ཕྱིར་དེ་མེད་: one act, a mistaken grasping of what does not exist. The Chinese 不存在與顛倒 reads as two separate items (grasping the nonexistent, and 'inversion').",
+    "fix": "以對不存在之物的顛倒執取而誹謗我"
+   }
+  ]
+ },
+ "10-52": {
+  "translation": "須菩提！所謂凡夫，如來說即非凡夫，",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "如來說即非凡夫",
+    "evidence": "Tibetan 'དེ་དག་སྐྱེ་བོ་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ' (Skt ajanā eva) says they are exactly 'non-beings' (skye bo med pa), playing on skye bo in so so'i skye bo; Chone Drakpa Shedrub 2-134 glosses it as not established as skye bo in the ultimate sense. '非凡夫' can be read as 'not ordinary people (i.e. noble ones)', which the Tibetan does not say; the 'being' element of skye bo is lost.",
+    "fix": "如來說彼等即是無「生者」（非有情者）"
+   }
+  ]
+ },
+ "10-55": {
+  "translation": "可以憑藉諸相具足來觀見如來嗎？",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan 'བལྟ་བར་བྱ་སྙམ་མམ' contains the verb 'think' (སྙམ, 'do you think ...'); the translation drops it and renders only 'can the Tathagata be seen by...'. Vasubandhu 2-131 quotes the same phrase with 'བལྟ་བར་བྱ་སྙམ་མམ'.",
+    "fix": "你認為可以憑藉諸相具足來觀見如來嗎？"
+   }
+  ]
+ },
+ "11-13": {
+  "translation": "世尊告言：「須菩提！固然應當攝受，但不應顛倒攝受，」",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "不應顛倒攝受",
+    "evidence": "Tibetan ལོག་པར་མི་བཟུང་ means 'one should not take hold wrongly/in a wrong way' (cf. Kamalaśīla 3-237: ལོག་པར་འཛིན་པ་ནི་ལམ་ལོག་པར་འཛིན་པ, grasping in a wrong way). 顛倒 is the standard rendering of ཕྱིན་ཅི་ལོག (viparyāsa), a different term, and adds a technical nuance; English academic has 'wrongly'.",
+    "fix": "不應錯誤地攝受"
+   }
+  ]
+ },
+ "11-17": {
+  "translation": "因此，稱之為如來、阿羅漢、正等覺者、佛。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "正等覺者、佛",
+    "evidence": "The Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས is a single epithet (perfectly complete Buddha), already fully rendered by the locked 正等覺者; appending a separate 佛 produces four epithets (如來、阿羅漢、正等覺者、佛) where the Tibetan has three (cf. Sanskrit tathāgato 'rhan samyaksaṃbuddha).",
+    "fix": "如來、阿羅漢、正等覺者"
+   }
+  ]
+ },
+ "13-3": {
+  "translation": "名為聖《能斷金剛般若波羅蜜》的大乘經圓滿。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "名為聖《能斷金剛般若波羅蜜》的大乘經",
+    "evidence": "Tibetan 'འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ' (Skt. ārya-vajracchedikā ... prajñāpāramitā): 'noble' (འཕགས་པ, locked 聖) qualifies the sūtra/title as a whole, but placing 聖 directly before the title in 名為聖《…》 makes it read as an odd, unattached word or part of the title.",
+    "fix": "名為《能斷金剛般若波羅蜜》的聖大乘經圓滿"
+   }
+  ]
+ }
+}

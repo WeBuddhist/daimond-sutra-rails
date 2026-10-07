@@ -143,6 +143,8 @@ def apply(run, ents, rev):
     if ov_path.exists():
         for ov in json.loads(ov_path.read_text(encoding="utf-8"))["overrides"]:
             for s in by_id[ov["term_id"]]["senses"]:
+                if ov.get("sense") and s["sense"] != ov["sense"]:
+                    continue
                 if s.get(ov["field"]) != ov["value"]:
                     s[ov["field"]] = ov["value"]
                     s.setdefault("review", []).append(f"{ov['field']}: editor override — {ov['reason']}")

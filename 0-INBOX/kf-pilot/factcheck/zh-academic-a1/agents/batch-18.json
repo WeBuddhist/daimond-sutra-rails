@@ -1,0 +1,48 @@
+{
+ "batch": "batch-18",
+ "segments": [
+  {
+   "id": "12-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "名為聖《能斷金剛般若波羅蜜》的大乘經",
+     "evidence": "Tibetan 'འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ' (Skt. ārya-vajracchedikā ... prajñāpāramitā): 'noble' (འཕགས་པ, locked 聖) qualifies the sūtra/title as a whole, but placing 聖 directly before the title in 名為聖《…》 makes it read as an odd, unattached word or part of the title.",
+     "fix": "名為《能斷金剛般若波羅蜜》的聖大乘經圓滿"
+    }
+   ]
+  },
+  {
+   "id": "13-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

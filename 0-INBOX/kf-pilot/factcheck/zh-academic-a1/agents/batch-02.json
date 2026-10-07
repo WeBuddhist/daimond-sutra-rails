@@ -1,0 +1,154 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "真實步入",
+     "evidence": "Tibetan ཡང་དག་པར་བཞུགས་པ (Skt. samprasthita) uses ཡང་དག་པར 'correctly/properly', not 'truly/really'. 真實 reads as 'genuinely' (a claim about authenticity), whereas the Tibetan describes proper entry into the bodhisattva vehicle; english_academic has 'correctly entered'.",
+     "fix": "如理步入"
+    }
+   ]
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "真實步入",
+     "evidence": "Tibetan བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ: ཡང་དག་པར is 'correctly/properly' (cf. Skt. samprasthita), not 'truly'; 真實 shifts the sense to authenticity. english_academic: 'correctly entered'.",
+     "fix": "如理步入"
+    }
+   ]
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "其福德聚，須菩提，是因為不易衡量的緣故",
+     "evidence": "Tibetan ... བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ says the mass of merit is not easy to measure (the final ཕྱིར་རོ closes the 'why' answer; Skt. tasya puṇyaskandhasya na sukaraṃ pramāṇam udgrahītum has no 'because'). The Chinese 是因為...的緣故 leaves the merit mass with no predicate and reads as 'the merit mass is because it is hard to measure', which garbles the statement.",
+     "fix": "其福德聚，須菩提，不易衡量"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

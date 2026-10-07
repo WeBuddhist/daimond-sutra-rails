@@ -1,0 +1,154 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "10-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Tibetan ends བལྟ་བར་བྱ་སྙམ་མམ ('do you think ... is to be seen?'); the verb སྙམ ('think') is not rendered, whereas 10-12 renders the parallel with 你認為. The question form in Sanskrit (द्रष्टव्यः ?) is kept, but the 'do you think' frame is lost.",
+     "fix": "你認為應以諸相具足見如來嗎？"
+    }
+   ]
+  },
+  {
+   "id": "10-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "沒有任何存在的緣故",
+     "evidence": "Tibetan དེ་བཞིན་གཤེགས་པས་གང་བསྟན་པའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ: གང་ཡང་ ('any whatsoever') qualifies the dharma ('there is no dharma whatsoever that the Tathāgata taught'). In the Chinese, 任何 is attached to 存在, so the sense reads awkwardly as 'the dharma has no existence of any kind' and the 'no such dharma at all' sense is blurred.",
+     "fix": "因為如來所宣說的任何法，都不存在的緣故。"
+    }
+   ]
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "以執取不存在與顛倒",
+     "evidence": "Tibetan མེད་པ་དང་ལོག་པར་ཟིན་པས; Sanskrit असतोद्गृहीतेन ('by what is wrongly grasped, the nonexistent'). Kamalaśīla (bo-kamalasila-tika 3-200) glosses ལོག་པར་འཛིན་པས as ཕྱིན་ཅི་ལོག་ཏུ་མངོན་པར་ཞེན་པས་ལོག་པར་ཟིན་པའི་ཕྱིར་དེ་མེད་: one act, a mistaken grasping of what does not exist. The Chinese 不存在與顛倒 reads as two separate items (grasping the nonexistent, and 'inversion').",
+     "fix": "以對不存在之物的顛倒執取而誹謗我"
+    }
+   ]
+  },
+  {
+   "id": "10-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-32",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "batch": "batch-16",
+ "segments": [
+  {
+   "id": "10-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "不應顛倒攝受",
+     "evidence": "Tibetan ལོག་པར་མི་བཟུང་ means 'one should not take hold wrongly/in a wrong way' (cf. Kamalaśīla 3-237: ལོག་པར་འཛིན་པ་ནི་ལམ་ལོག་པར་འཛིན་པ, grasping in a wrong way). 顛倒 is the standard rendering of ཕྱིན་ཅི་ལོག (viparyāsa), a different term, and adds a technical nuance; English academic has 'wrongly'.",
+     "fix": "不應錯誤地攝受"
+    }
+   ]
+  },
+  {
+   "id": "11-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "正等覺者、佛",
+     "evidence": "The Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས is a single epithet (perfectly complete Buddha), already fully rendered by the locked 正等覺者; appending a separate 佛 produces four epithets (如來、阿羅漢、正等覺者、佛) where the Tibetan has three (cf. Sanskrit tathāgato 'rhan samyaksaṃbuddha).",
+     "fix": "如來、阿羅漢、正等覺者"
+    }
+   ]
+  },
+  {
+   "id": "12-1",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

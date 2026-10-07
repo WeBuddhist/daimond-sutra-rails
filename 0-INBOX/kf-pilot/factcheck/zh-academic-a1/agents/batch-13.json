@@ -1,0 +1,185 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "般若慧眼",
+     "evidence": "Tibetan ཤེས་རབ་ཀྱི་སྤྱན is one locked compound rendered 慧眼 ('eye of wisdom'). Prefixing 般若 renders ཤེས་རབ twice (般若 + 慧), duplicating the same element; the Sanskrit is only prajñā-cakṣus.",
+     "fix": "如來有慧眼。"
+    }
+   ]
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "教法眼",
+     "evidence": "Tibetan ཆོས་ཀྱི་སྤྱན (Skt dharma-cakṣus) has the locked rendering 法眼. The translation inserts 教法 (the locked rendering of the bare noun ཆོས), yielding 'eye of the teachings'. The commentaries take the Dharma eye as the eye for phenomena/the conventional: Kamalaśīla 3-184 'ཆོས་ཙམ་གྱི་ཡུལ་ལ་ནི་ཆོས་ཀྱི་སྤྱན' (the eye whose object is mere phenomena); Chone Drakpa Shedrub 2-117 'ཆོས་ཀྱི་སྤྱན་གྱིས་ཀུན་རྫོབ་པའི་རབ་དབྱེ་ཐམས་ཅད' (all conventional distinctions). 'Teaching' is not the sense.",
+     "fix": "法眼"
+    }
+   ]
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "教法眼",
+     "evidence": "Tibetan ཆོས་ཀྱི་སྤྱན (Skt dharma-cakṣus) has the locked rendering 法眼. The translation inserts 教法 (the locked rendering of the bare noun ཆོས), yielding 'eye of the teachings'. The commentaries take the Dharma eye as the eye for phenomena/the conventional: Kamalaśīla 3-184 'ཆོས་ཙམ་གྱི་ཡུལ་ལ་ནི་ཆོས་ཀྱི་སྤྱན' (the eye whose object is mere phenomena); Chone Drakpa Shedrub 2-117 'ཆོས་ཀྱི་སྤྱན་གྱིས་ཀུན་རྫོབ་པའི་རབ་དབྱེ་ཐམས་ཅད' (all conventional distinctions). 'Teaching' is not the sense.",
+     "fix": "法眼"
+    }
+   ]
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "世間的世界",
+     "evidence": "Tibetan འཇིག་རྟེན་གྱི་ཁམས (lokadhātu) is one locked compound rendered 世界. The translation splits it into འཇིག་རྟེན (世間) + ཁམས (世界), giving 'worlds of the world'.",
+     "fix": "世界"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "如果世間的世界變成如同那些沙數一般多",
+     "evidence": "Tibetan 'དེ་དག་གི་བྱེ་མ་དེ་སྙེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས' (Skt tāsu vā vālukāḥ, tāvantaś ca lokadhātavaḥ) says the worlds equal the grains of sand in those (many) Ganges rivers. The Chinese has no 'in those rivers', so 那些沙 can be read as the sand of the single original Ganges, which understates the number.",
+     "fix": "如果那些恆河中的沙粒有多少，世界也變成有那麼多"
+    }
+   ]
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "世間的世界",
+     "evidence": "འཇིག་རྟེན་གྱི་ཁམས is locked as 世界; 世間 is the locked rendering of འཇིག་རྟེན alone and should not be added as a separate element.",
+     "fix": "那些世界很多。"
+    }
+   ]
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "世間的世界",
+     "evidence": "འཇིག་རྟེན་གྱི་ཁམས་དེ་དག is one locked compound, 世界; the translation renders it as 'worlds of the world'.",
+     "fix": "在那些世界中"
+    }
+   ]
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,2670 @@
+[
+ {
+  "id": "0-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "放棄了後餐的乞食",
+    "evidence": "Tibetan ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས; Chone Drakpa Shedrub 1-6 glosses it as ཟས་ཕྱི་མ་ཕྱི་དྲོའི་བསོད་སྙོམས་ཟ་བ་སྤངས་ནས (giving up eating afternoon alms). '後餐' can be misread as a second/next meal rather than the post-meal (afternoon) alms the Buddha refrains from.",
+    "fix": "捨棄了午後（後食）的乞食"
+   }
+  ]
+ },
+ {
+  "id": "1-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "正等覺者、佛",
+    "evidence": "Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས is one epithet (locked: 正等覺者, with སངས་རྒྱས contained within it); the Tibetan list is only Tathāgata, arhat, perfectly complete Buddha (Sanskrit tathāgatena arhatā samyaksaṃbuddhena). The enumeration 正等覺者、佛 creates a fourth epithet.",
+    "fix": "正等覺佛"
+   }
+  ]
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "真實步入",
+    "evidence": "Tibetan ཡང་དག་པར་བཞུགས་པ (Skt. samprasthita) uses ཡང་དག་པར 'correctly/properly', not 'truly/really'. 真實 reads as 'genuinely' (a claim about authenticity), whereas the Tibetan describes proper entry into the bodhisattva vehicle; english_academic has 'correctly entered'.",
+    "fix": "如理步入"
+   }
+  ]
+ },
+ {
+  "id": "3-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "真實步入",
+    "evidence": "Tibetan བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ: ཡང་དག་པར is 'correctly/properly' (cf. Skt. samprasthita), not 'truly'; 真實 shifts the sense to authenticity. english_academic: 'correctly entered'.",
+    "fix": "如理步入"
+   }
+  ]
+ },
+ {
+  "id": "4-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "其福德聚，須菩提，是因為不易衡量的緣故",
+    "evidence": "Tibetan ... བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ says the mass of merit is not easy to measure (the final ཕྱིར་རོ closes the 'why' answer; Skt. tasya puṇyaskandhasya na sukaraṃ pramāṇam udgrahītum has no 'because'). The Chinese 是因為...的緣故 leaves the merit mass with no predicate and reads as 'the merit mass is because it is hard to measure', which garbles the statement.",
+    "fix": "其福德聚，須菩提，不易衡量"
+   }
+  ]
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "有多少無諸相具足，即有多少非虛妄",
+    "evidence": "Tibetan 'ji tsam du mtshan phun sum tshogs pa med pa de tsam du mi brdzun te' is a correlative 'to whatever extent ... to that extent' (degree), per Chone Drakpa Shedrub 2-23 ('ji tsam du ... bden par med pa de tsam ni mi brdzun'). The Chinese 有多少...有多少 reads as counting quantities of things, and 無諸相具足 is hard to parse.",
+    "fix": "在無諸相具足的程度上，即在同等程度上非虛妄，"
+   }
+  ]
+ },
+ {
+  "id": "6-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-12",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "具足戒、具足功德、具足般若",
+    "evidence": "Tibetan 'tshul khrims dang ldan pa, yon tan dang ldan pa, shes rab dang ldan pa' = 'possessing ethical discipline / qualities / wisdom' (Skt. guṇavantaḥ śīlavantaḥ prajñāvantaḥ). 具足戒 is the fixed Chinese term for full ordination vows (upasampadā), and 具足 also collides with the locked 諸相具足 (phun sum tshogs pa) in 6-7. The commentary (Chone 2-26) means the three trainings, not ordination.",
+    "fix": "具有戒、具有功德、具有般若"
+   }
+  ]
+ },
+ {
+  "id": "6-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "無眾生想，無壽者想，因為將不會生起人想。",
+    "evidence": "Tibetan 'sems can du 'du shes pa ma yin | srog tu 'du shes pa ma yin | gang zag tu 'du shes 'jug par mi 'gyur ba'i phyir ro' is a single series; the closing 'phyir ro' answers the 'why?' of 6-19 for the whole series (self, sentient being, life-force, person). The Chinese 因為 attaches only to the last item, so it reads as if the person-perception explains the first two.",
+    "fix": "無眾生想，無壽者想，亦不會生起人想，故如此。"
+   }
+  ]
+ },
+ {
+  "id": "6-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "諸聖人",
+    "evidence": "Tibetan འཕགས་པའི་གང་ཟག་རྣམས is a locked term (འཕགས་པའི་གང་ཟག -> 聖者); the translation renders it 聖人 instead of the locked 聖者. Meaning is intact (cf. Vasubandhu 2-32, Chone 2-36).",
+    "fix": "諸聖者"
+   }
+  ]
+ },
+ {
+  "id": "6-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "從此教法之法門中",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས is the single locked term ཆོས་ཀྱི་རྣམ་གྲངས -> 法門 (\"this Dharma discourse/teaching\"). The translation renders ཆོས་ separately as 教法 and then adds 法門, doubling the term (教法之法門).",
+    "fix": "從此法門中"
+   }
+  ]
+ },
+ {
+  "id": "6-47",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "正等覺者諸佛",
+    "evidence": "Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས is one locked term (-> 正等覺者, plural); the translation renders སངས་རྒྱས་ twice (正等覺者 plus 諸佛), as if two items.",
+    "fix": "正等覺者們"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "因為如來",
+    "evidence": "Tibetan 6-47 has only དེ་ཅིའི་ཕྱིར་ཞེ་ན། ... འདི་ལས་བྱུང་སྟེ, ending in the continuative སྟེ; the causal ཕྱིར་རོ comes only in 6-48 (སྐྱེས་པའི་ཕྱིར་རོ). The added 因為 in 6-47 creates a double \"because\" with 6-48 (cf. Kamalasila 3-78, which cites this clause as the reason).",
+    "fix": "如來"
+   }
+  ]
+ },
+ {
+  "id": "6-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-28",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "正等覺者、佛",
+    "evidence": "The Tibetan has three epithets: de bzhin gshegs pa dgra bcom pa yang dag par rdzogs pa'i sangs rgyas. The glossary locks the whole compound yang dag par rdzogs pa'i sangs rgyas as 正等覺者; the sub-entry sangs rgyas = 佛 is already inside it. Rendering both makes a fourth epithet (佛) that the Tibetan does not have.",
+    "fix": "如來、阿羅漢、正等覺者"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "指示我是",
+    "evidence": "bstan (Skt. nirdiṣṭa) here means 'declared / designated' as foremost; 指示 in Chinese means 'to instruct or point out', which is a different act.",
+    "fix": "宣說我為"
+   }
+  ]
+ },
+ {
+  "id": "7-29",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "遠離貪欲的離欲阿羅漢",
+    "evidence": "Tibetan 'dod chags dang bral ba dgra bcom pa = 'an arhat free from desire' (Skt. arhan vītarāgaḥ). The locked 離欲 already renders 'dod chags dang bral ba; 遠離貪欲 renders the same words again, so the phrase says 'free-from-desire' twice.",
+    "fix": "離欲的阿羅漢"
+   }
+  ]
+ },
+ {
+  "id": "7-30",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "如來對我所謂的「善男子須菩提是住於無煩惱者之中的第一，",
+    "evidence": "Tibetan: de bzhin gshegs pas bdag la rigs kyi bu rab 'byor ni nyon mongs pa med par gnas pa rnams kyi mchog yin te = the Tathagata's act of declaring concerning me (Skt. na mam tathagato vyakarisyat ...). The Chinese turns the Tathagata's declaring into a noun phrase ('what the Tathagata so-called regarding me') and leaves an opened quotation that is closed only at the end of 7-31, so the 7-31 clause (which is Subhuti's own reason, lung mi ston lags so) falls inside the Tathagata's quoted words. The 'if I thought ...' clause is left with no verb for the Tathagata. Chone Drakpa Shedrub 2-50 reads it as the Tathagata declaring conventionally that Subhuti is foremost of those abiding without affliction, while not declaring 'abiding' ultimately.",
+    "fix": "如來對我宣說：「善男子須菩提是住於無煩惱者之中的第一」，"
+   }
+  ]
+ },
+ {
+  "id": "7-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "故不授記為『住於無煩惱者』。」",
+    "evidence": "Tibetan ci la yang mi gnas pas na nyon mongs pa med par gnas pa zhes lung mi ston lags so: the honorific lags marks this as Subhuti speaking of the Tathagata, who does not declare. The Chinese has no subject for 不授記 and, because of the unclosed quotation in 7-30, the final 」 closes the Tathagata's supposed words, so the speaker is misassigned. English_academic supplies 'the Tathagata does not declare me'.",
+    "fix": "由於我無所安住，如來不授記我為『住於無煩惱者』。」"
+   }
+  ]
+ },
+ {
+  "id": "7-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-73",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "如來所宣說的法任何都不存在",
+    "evidence": "Tibetan དེ་བཞིན་གཤེགས་པས་གང་གསུངས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ = 'there is no dharma whatsoever that the Tathagata has spoken' (Sanskrit nāsti sa kaścid dharmo yas tathāgatena bhāṣitaḥ). The Chinese places 任何 after the noun as a floating quantifier ('the dharma spoken by the Tathagata, any, none exists'), which is awkward and could be misparsed; the scope of 'any' over dharma should be explicit.",
+    "fix": "如來所宣說的任何法都不存在"
+   }
+  ]
+ },
+ {
+  "id": "7-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "正等覺者、佛嗎",
+    "evidence": "Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ is one epithet ('perfectly complete Buddha'; Skt samyaksaṃbuddha), so the series is Tathāgata, arhat, perfectly complete Buddha (three items). The enumeration '正等覺者、佛' makes 佛 a fourth separate epithet.",
+    "fix": "正等覺的佛嗎"
+   }
+  ]
+ },
+ {
+  "id": "8-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這部教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "這部法門"
+   }
+  ]
+ },
+ {
+  "id": "8-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這部教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "這部法門"
+   }
+  ]
+ },
+ {
+  "id": "8-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "對於宣說此經將生起真實想的那些眾生",
+    "evidence": "Tibetan མདོ་སྡེ་བཤད་པ་འདི་ལ་ is passive/locative: 'when this sūtra is being explained' (Skt bhāṣyamāṇe); the active '宣說此經' lets the reader take the beings as the ones doing the teaching.",
+    "fix": "對於此經被宣說時將生起真實想的那些眾生"
+   }
+  ]
+ },
+ {
+  "id": "8-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這部被宣說的教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "這部被宣說的法門"
+   }
+  ]
+ },
+ {
+  "id": "8-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法之法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "諸佛世尊即是遠離一切想",
+    "evidence": "Tibetan སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བ is a plain predicate ('are free of all perceptions'), with no ཉིད; '即是' reads as an identity statement (Buddhas are freedom-from-perception), unlike 8-12/8-18 where དེ་ཉིད justifies 即是.",
+    "fix": "諸佛世尊已遠離一切想"
+   }
+  ]
+ },
+ {
+  "id": "8-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "極其稀有之特質",
+    "evidence": "Tibetan ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་རོ ('will be endowed with supreme marvel') has no word for 'quality/characteristic'; 之特質 is added and the phrase differs from the rendering of the same expression in 8-11 and 8-15.",
+    "fix": "最極稀有"
+   }
+  ]
+ },
+ {
+  "id": "8-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "成為名為忍辱仙人的仙人",
+    "evidence": "Tibetan བཟོད་པ་སྨྲ་བ་ཞེས་བྱ་བའི་དྲང་སྲོང་དུ་གྱུར་པ means 'became the sage (དྲང་སྲོང) called Kṣāntivādin'. The locked rendering 忍辱仙人 already contains 仙人, so 名為忍辱仙人的仙人 repeats 仙人 tautologically; meaning is intact.",
+    "fix": "成為名為忍辱仙人者"
+   }
+  ]
+ },
+ {
+  "id": "8-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法之法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་འདི (Skt dharmaparyāya) is a single compound locked as 法門; the translation adds the separate lock ཆོས=教法 as 教法之法門, producing a redundant, double rendering of ཆོས་ཀྱི་རྣམ་གྲངས.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-52",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "百千萬億劫",
+    "evidence": "Tibetan བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་ (Skt kotiniyutaśatasahasra) has three units: koti (བྱེ་བ), niyuta (ཁྲག་ཁྲིག), hundred-thousand (འབུམ་ཕྲག); the translation drops the niyuta unit.",
+    "fix": "百千那由他億劫"
+   }
+  ]
+ },
+ {
+  "id": "8-53",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-54",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-56",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法的法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-57",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這個教法之法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "這個法門"
+   }
+  ]
+ },
+ {
+  "id": "8-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-61",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這個教法之法門",
+    "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+    "fix": "這個法門"
+   }
+  ]
+ },
+ {
+  "id": "8-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-72",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "八十四萬億那由他諸佛",
+    "evidence": "Tibetan སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི (Skt caturaśīti-buddhakoṭi-niyuta-śatasahasrāṇi; Chone 2-98 and Kamalaśīla 3-162 repeat the same figure) is 84 x koti x niyuta x hundred-thousand; 「萬」 (ten thousand) does not render འབུམ་ཕྲག (hundred-thousand), so the figure is stated imprecisely.",
+    "fix": "八十四億那由他百千諸佛"
+   }
+  ]
+ },
+ {
+  "id": "8-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-74",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "我令那些佛世尊歡喜且未曾令其心生厭離之所作，與後五百歲時，受取、書寫、受持、憶持、讀誦、完全通達此經者相比",
+    "evidence": "The Tibetan compares two masses of merit (བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ vs བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་); Chone 2-98 spells it out: 'the merit of what I did ... and the merit of those who write this sūtra in the last five hundred'. The Chinese sets an act against persons (「所作」 vs 「者」) and leaves the comparison of merits implicit until the final clause.",
+    "fix": "我令那些佛世尊歡喜而未令其心生厭離所作的福德，與後五百歲末時受取、書寫、受持、憶持、讀誦、完全通達此經者的福德相比"
+   }
+  ]
+ },
+ {
+  "id": "8-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-76",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "若彼時有善男子或善女人將受持盡其所有之福德聚，若我宣說",
+    "evidence": "The Tibetan is a single conditional: 'if I were to speak of the mass of merit of those sons/daughters of noble family who would fully uphold however great a mass of merit' (བསོད་ནམས་ཀྱི་ཕུང་པོ་ཇི་སྙེད་རབ་ཏུ་འཛིན་པར་འགྱུར་བའི ... དེ་དག་གི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ངས་བརྗོད་ན). The translation splits it into two stacked 若-clauses, the first with no consequent, so it reads as 'if at that time there were such persons' and the logic is hard to parse; 'ཇི་སྙེད' is a relative modifier of the merit, not a separate condition.",
+    "fix": "若我宣說彼時那些將會受持其所有福德聚的善男子或善女人的福德聚"
+   }
+  ]
+ },
+ {
+  "id": "8-77",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "此教法之法門",
+    "evidence": "ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs) is a fixed compound locked as 法門 (Skt. dharmaparyāya); it is not 'the 法門 of a 教法'. Rendering ཆོས་ with its separate locked value 教法 and then adding 之法門 doubles the term and produces a nonexistent genitive construction (cf. Chone Drakpa Shedrub 2-100 ཆོས་ཀྱི་རྣམ་གྲངས་འདི).",
+    "fix": "此法門"
+   }
+  ]
+ },
+ {
+  "id": "8-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-84",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "蘊無餘涅槃界",
+    "evidence": "The locked term for ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པ is 無餘涅槃 (the whole phrase 'nirvana without remainder of aggregates'); the translation prefixes a stray 蘊, giving 蘊無餘涅槃, which is not the locked term and parses oddly. The Tibetan is ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས (dbyings = 界).",
+    "fix": "無餘涅槃界"
+   }
+  ]
+ },
+ {
+  "id": "8-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-90",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提之正等菩提",
+    "evidence": "The Tibetan བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ is a single term, locked as 阿耨多羅三藐三菩提 (Skt. anuttarā samyaksaṃbodhi). Adding 之正等菩提 (the locked value of the sub-term ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ) renders the same words twice and creates an apposition the Tibetan does not have.",
+    "fix": "現等覺阿耨多羅三藐三菩提的法"
+   }
+  ]
+ },
+ {
+  "id": "8-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-92",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提之正等菩提",
+    "evidence": "Same as 8-90: བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ is one term (locked 阿耨多羅三藐三菩提); the added 之正等菩提 double-renders it.",
+    "fix": "現等覺阿耨多羅三藐三菩提的法"
+   }
+  ]
+ },
+ {
+  "id": "8-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-95",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提即正等菩提",
+    "evidence": "The Tibetan has only བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ (one term, locked 阿耨多羅三藐三菩提); 即正等菩提 adds an equation not in the Tibetan and double-renders the term.",
+    "fix": "現等覺阿耨多羅三藐三菩提之法"
+   }
+  ]
+ },
+ {
+  "id": "8-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-97",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提即正等菩提",
+    "evidence": "Same as 8-95: the Tibetan has a single term བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ; 即正等菩提 is an unwarranted doubling.",
+    "fix": "現等覺阿耨多羅三藐三菩提之法"
+   }
+  ]
+ },
+ {
+  "id": "8-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-100",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "亦即是佛",
+    "evidence": "The Tibetan list is དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས: Tathāgata, arhat, perfectly complete Buddha. 'ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས' is one epithet (locked 正等覺者, as rendered in 8-96 and 8-98); splitting off 亦即是佛 adds an equating clause absent from the Tibetan and is inconsistent with 8-96/8-98.",
+    "fix": "如來、阿羅漢、正等覺者"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提此無上正等菩提",
+    "evidence": "The Tibetan བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ is one term (locked 阿耨多羅三藐三菩提); the added 此無上正等菩提 repeats it and adds a demonstrative 此 not in the Tibetan.",
+    "fix": "現等覺了阿耨多羅三藐三菩提"
+   }
+  ]
+ },
+ {
+  "id": "8-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提此無上正等菩提之法",
+    "evidence": "Tibetan has a single phrase བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ (locked 阿耨多羅三藐三菩提) as the locus of awakening, with ཆོས་དེ་ ('that dharma') as the object of མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ. The translation renders the one phrase twice (transliteration plus an added gloss 此無上正等菩提) and makes 法 an appositive of the bodhi, so the dharma reads as the bodhi itself; Skt anuttarāṃ samyaksaṃbodhim abhisaṃbuddhaḥ with 'kaścid dharmaḥ' separate.",
+    "fix": "因為如來於阿耨多羅三藐三菩提中現等覺的任何法，皆不存在。"
+   }
+  ]
+ },
+ {
+  "id": "8-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-111",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-113",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-114",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-117",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-118",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "如來、阿羅漢、正等覺者，佛即稱之為",
+    "evidence": "Tibetan དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས is one agent (Skt tathāgatena arhatā samyaksaṃbuddhena); སངས་རྒྱས is the final noun of the epithet ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས (locked 正等覺者). The translation renders it as 正等覺者 and then adds 佛 as a separate subject, so the epithets read as four items; the added 佛 has no counterpart in the Tibetan.",
+    "fix": "如來、阿羅漢、正等覺者即稱之為"
+   }
+  ]
+ },
+ {
+  "id": "9-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "般若慧眼",
+    "evidence": "Locked rendering for ཤེས་རབ་ཀྱི་སྤྱན is 慧眼; the translation prefixes 般若 (the locked rendering of ཤེས་རབ alone), producing a non-locked, redundant compound.",
+    "fix": "慧眼"
+   }
+  ]
+ },
+ {
+  "id": "9-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "般若慧眼",
+    "evidence": "Tibetan ཤེས་རབ་ཀྱི་སྤྱན is one locked compound rendered 慧眼 ('eye of wisdom'). Prefixing 般若 renders ཤེས་རབ twice (般若 + 慧), duplicating the same element; the Sanskrit is only prajñā-cakṣus.",
+    "fix": "如來有慧眼。"
+   }
+  ]
+ },
+ {
+  "id": "9-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-11",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "教法眼",
+    "evidence": "Tibetan ཆོས་ཀྱི་སྤྱན (Skt dharma-cakṣus) has the locked rendering 法眼. The translation inserts 教法 (the locked rendering of the bare noun ཆོས), yielding 'eye of the teachings'. The commentaries take the Dharma eye as the eye for phenomena/the conventional: Kamalaśīla 3-184 'ཆོས་ཙམ་གྱི་ཡུལ་ལ་ནི་ཆོས་ཀྱི་སྤྱན' (the eye whose object is mere phenomena); Chone Drakpa Shedrub 2-117 'ཆོས་ཀྱི་སྤྱན་གྱིས་ཀུན་རྫོབ་པའི་རབ་དབྱེ་ཐམས་ཅད' (all conventional distinctions). 'Teaching' is not the sense.",
+    "fix": "法眼"
+   }
+  ]
+ },
+ {
+  "id": "9-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-13",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "教法眼",
+    "evidence": "Tibetan ཆོས་ཀྱི་སྤྱན (Skt dharma-cakṣus) has the locked rendering 法眼. The translation inserts 教法 (the locked rendering of the bare noun ཆོས), yielding 'eye of the teachings'. The commentaries take the Dharma eye as the eye for phenomena/the conventional: Kamalaśīla 3-184 'ཆོས་ཙམ་གྱི་ཡུལ་ལ་ནི་ཆོས་ཀྱི་སྤྱན' (the eye whose object is mere phenomena); Chone Drakpa Shedrub 2-117 'ཆོས་ཀྱི་སྤྱན་གྱིས་ཀུན་རྫོབ་པའི་རབ་དབྱེ་ཐམས་ཅད' (all conventional distinctions). 'Teaching' is not the sense.",
+    "fix": "法眼"
+   }
+  ]
+ },
+ {
+  "id": "9-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "世間的世界",
+    "evidence": "Tibetan འཇིག་རྟེན་གྱི་ཁམས (lokadhātu) is one locked compound rendered 世界. The translation splits it into འཇིག་རྟེན (世間) + ཁམས (世界), giving 'worlds of the world'.",
+    "fix": "世界"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "如果世間的世界變成如同那些沙數一般多",
+    "evidence": "Tibetan 'དེ་དག་གི་བྱེ་མ་དེ་སྙེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས' (Skt tāsu vā vālukāḥ, tāvantaś ca lokadhātavaḥ) says the worlds equal the grains of sand in those (many) Ganges rivers. The Chinese has no 'in those rivers', so 那些沙 can be read as the sand of the single original Ganges, which understates the number.",
+    "fix": "如果那些恆河中的沙粒有多少，世界也變成有那麼多"
+   }
+  ]
+ },
+ {
+  "id": "9-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-21",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "世間的世界",
+    "evidence": "འཇིག་རྟེན་གྱི་ཁམས is locked as 世界; 世間 is the locked rendering of འཇིག་རྟེན alone and should not be added as a separate element.",
+    "fix": "那些世界很多。"
+   }
+  ]
+ },
+ {
+  "id": "9-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "世間的世界",
+    "evidence": "འཇིག་རྟེན་གྱི་ཁམས་དེ་དག is one locked compound, 世界; the translation renders it as 'worlds of the world'.",
+    "fix": "在那些世界中"
+   }
+  ]
+ },
+ {
+  "id": "9-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan ends བལྟ་བར་བྱ་སྙམ་མམ ('do you think ... is to be seen?'); the verb སྙམ ('think') is not rendered, whereas 10-12 renders the parallel with 你認為. The question form in Sanskrit (द्रष्टव्यः ?) is kept, but the 'do you think' frame is lost.",
+    "fix": "你認為應以諸相具足見如來嗎？"
+   }
+  ]
+ },
+ {
+  "id": "10-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-25",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "沒有任何存在的緣故",
+    "evidence": "Tibetan དེ་བཞིན་གཤེགས་པས་གང་བསྟན་པའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ: གང་ཡང་ ('any whatsoever') qualifies the dharma ('there is no dharma whatsoever that the Tathāgata taught'). In the Chinese, 任何 is attached to 存在, so the sense reads awkwardly as 'the dharma has no existence of any kind' and the 'no such dharma at all' sense is blurred.",
+    "fix": "因為如來所宣說的任何法，都不存在的緣故。"
+   }
+  ]
+ },
+ {
+  "id": "10-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "以執取不存在與顛倒",
+    "evidence": "Tibetan མེད་པ་དང་ལོག་པར་ཟིན་པས; Sanskrit असतोद्गृहीतेन ('by what is wrongly grasped, the nonexistent'). Kamalaśīla (bo-kamalasila-tika 3-200) glosses ལོག་པར་འཛིན་པས as ཕྱིན་ཅི་ལོག་ཏུ་མངོན་པར་ཞེན་པས་ལོག་པར་ཟིན་པའི་ཕྱིར་དེ་མེད་: one act, a mistaken grasping of what does not exist. The Chinese 不存在與顛倒 reads as two separate items (grasping the nonexistent, and 'inversion').",
+    "fix": "以對不存在之物的顛倒執取而誹謗我"
+   }
+  ]
+ },
+ {
+  "id": "10-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-52",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "如來說即非凡夫",
+    "evidence": "Tibetan 'དེ་དག་སྐྱེ་བོ་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ' (Skt ajanā eva) says they are exactly 'non-beings' (skye bo med pa), playing on skye bo in so so'i skye bo; Chone Drakpa Shedrub 2-134 glosses it as not established as skye bo in the ultimate sense. '非凡夫' can be read as 'not ordinary people (i.e. noble ones)', which the Tibetan does not say; the 'being' element of skye bo is lost.",
+    "fix": "如來說彼等即是無「生者」（非有情者）"
+   }
+  ]
+ },
+ {
+  "id": "10-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-55",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan 'བལྟ་བར་བྱ་སྙམ་མམ' contains the verb 'think' (སྙམ, 'do you think ...'); the translation drops it and renders only 'can the Tathagata be seen by...'. Vasubandhu 2-131 quotes the same phrase with 'བལྟ་བར་བྱ་སྙམ་མམ'.",
+    "fix": "你認為可以憑藉諸相具足來觀見如來嗎？"
+   }
+  ]
+ },
+ {
+  "id": "10-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-13",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "不應顛倒攝受",
+    "evidence": "Tibetan ལོག་པར་མི་བཟུང་ means 'one should not take hold wrongly/in a wrong way' (cf. Kamalaśīla 3-237: ལོག་པར་འཛིན་པ་ནི་ལམ་ལོག་པར་འཛིན་པ, grasping in a wrong way). 顛倒 is the standard rendering of ཕྱིན་ཅི་ལོག (viparyāsa), a different term, and adds a technical nuance; English academic has 'wrongly'.",
+    "fix": "不應錯誤地攝受"
+   }
+  ]
+ },
+ {
+  "id": "11-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-17",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "正等覺者、佛",
+    "evidence": "The Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས is a single epithet (perfectly complete Buddha), already fully rendered by the locked 正等覺者; appending a separate 佛 produces four epithets (如來、阿羅漢、正等覺者、佛) where the Tibetan has three (cf. Sanskrit tathāgato 'rhan samyaksaṃbuddha).",
+    "fix": "如來、阿羅漢、正等覺者"
+   }
+  ]
+ },
+ {
+  "id": "12-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "名為聖《能斷金剛般若波羅蜜》的大乘經",
+    "evidence": "Tibetan 'འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ' (Skt. ārya-vajracchedikā ... prajñāpāramitā): 'noble' (འཕགས་པ, locked 聖) qualifies the sūtra/title as a whole, but placing 聖 directly before the title in 名為聖《…》 makes it read as an odd, unattached word or part of the title.",
+    "fix": "名為《能斷金剛般若波羅蜜》的聖大乘經圓滿"
+   }
+  ]
+ },
+ {
+  "id": "13-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-6",
+  "verdict": "pass",
+  "issues": []
+ }
+]

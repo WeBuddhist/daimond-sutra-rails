@@ -1,0 +1,202 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "正等覺者、佛嗎",
+     "evidence": "Tibetan ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ is one epithet ('perfectly complete Buddha'; Skt samyaksaṃbuddha), so the series is Tathāgata, arhat, perfectly complete Buddha (three items). The enumeration '正等覺者、佛' makes 佛 a fourth separate epithet.",
+     "fix": "正等覺的佛嗎"
+    }
+   ]
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法的法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "這部教法的法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+     "fix": "這部法門"
+    }
+   ]
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "這部教法的法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+     "fix": "這部法門"
+    }
+   ]
+  },
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "對於宣說此經將生起真實想的那些眾生",
+     "evidence": "Tibetan མདོ་སྡེ་བཤད་པ་འདི་ལ་ is passive/locative: 'when this sūtra is being explained' (Skt bhāṣyamāṇe); the active '宣說此經' lets the reader take the beings as the ones doing the teaching.",
+     "fix": "對於此經被宣說時將生起真實想的那些眾生"
+    }
+   ]
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "這部被宣說的教法的法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+     "fix": "這部被宣說的法門"
+    }
+   ]
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法之法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked term (Dharma discourse) rendered 法門; the translation stacks the separate locked rendering of ཆོས (教法) in front of it as '教法的法門', which reads as 'the Dharma's discourse-teaching' and is not a rendering of the compound.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "諸佛世尊即是遠離一切想",
+     "evidence": "Tibetan སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བ is a plain predicate ('are free of all perceptions'), with no ཉིད; '即是' reads as an identity statement (Buddhas are freedom-from-perception), unlike 8-12/8-18 where དེ་ཉིད justifies 即是.",
+     "fix": "諸佛世尊已遠離一切想"
+    }
+   ]
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "極其稀有之特質",
+     "evidence": "Tibetan ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་རོ ('will be endowed with supreme marvel') has no word for 'quality/characteristic'; 之特質 is added and the phrase differs from the rendering of the same expression in 8-11 and 8-15.",
+     "fix": "最極稀有"
+    }
+   ]
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "note": "Editor decisions that take precedence over the Gemini review. Applied last by gemini_review.py.",
+ "overrides": [
+  {
+   "term_id": "T004",
+   "sense": "phenomena",
+   "field": "academic",
+   "value": "धर्म",
+   "reason": "user 2026-10-07: academic Hindi uses धर्म for ཆོས in both senses (Sanskrit/Hindi Buddhist usage); compounds follow"
+  },
+  {
+   "term_id": "T059",
+   "field": "academic",
+   "value": "सभी धर्म",
+   "reason": "user 2026-10-07: academic Hindi uses धर्म for ཆོས in both senses (Sanskrit/Hindi Buddhist usage); compounds follow"
+  },
+  {
+   "term_id": "T090",
+   "field": "academic",
+   "value": "धर्म-अभाव",
+   "reason": "user 2026-10-07: academic Hindi uses धर्म for ཆོས in both senses (Sanskrit/Hindi Buddhist usage); compounds follow"
+  },
+  {
+   "term_id": "T106",
+   "field": "academic",
+   "value": "कुशल धर्म",
+   "reason": "user 2026-10-07: academic Hindi uses धर्म for ཆོས in both senses (Sanskrit/Hindi Buddhist usage); compounds follow"
+  },
+  {
+   "term_id": "T108",
+   "field": "academic",
+   "value": "धर्म-संज्ञा",
+   "reason": "user 2026-10-07: academic Hindi uses धर्म for ཆོས in both senses (Sanskrit/Hindi Buddhist usage); compounds follow"
+  },
+  {
+   "term_id": "T118",
+   "field": "academic",
+   "value": "अ-धर्म",
+   "reason": "user 2026-10-07: academic Hindi uses धर्म for ཆོས in both senses (Sanskrit/Hindi Buddhist usage); compounds follow; hyphen keeps it apart from अधर्म 'unrighteousness'"
+  },
+  {
+   "term_id": "T144",
+   "field": "academic",
+   "value": "धर्मता",
+   "reason": "user 2026-10-07: academic Hindi uses धर्म for ཆོས in both senses (Sanskrit/Hindi Buddhist usage); compounds follow"
+  },
+  {
+   "term_id": "T195",
+   "field": "academic",
+   "value": "धर्म-अभाव",
+   "reason": "user 2026-10-07: academic Hindi uses धर्म for ཆོས in both senses (Sanskrit/Hindi Buddhist usage); compounds follow"
+  },
+  {
+   "term_id": "T267",
+   "field": "academic",
+   "value": "सभी संस्कृत धर्म",
+   "reason": "user 2026-10-07: academic Hindi uses धर्म for ཆོས in both senses (Sanskrit/Hindi Buddhist usage); compounds follow"
+  }
+ ]
+}

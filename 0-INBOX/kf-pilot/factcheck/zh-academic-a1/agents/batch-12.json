@@ -1,0 +1,154 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "8-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "阿耨多羅三藐三菩提此無上正等菩提之法",
+     "evidence": "Tibetan has a single phrase བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ (locked 阿耨多羅三藐三菩提) as the locus of awakening, with ཆོས་དེ་ ('that dharma') as the object of མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ. The translation renders the one phrase twice (transliteration plus an added gloss 此無上正等菩提) and makes 法 an appositive of the bodhi, so the dharma reads as the bodhi itself; Skt anuttarāṃ samyaksaṃbodhim abhisaṃbuddhaḥ with 'kaścid dharmaḥ' separate.",
+     "fix": "因為如來於阿耨多羅三藐三菩提中現等覺的任何法，皆不存在。"
+    }
+   ]
+  },
+  {
+   "id": "8-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-118",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "如來、阿羅漢、正等覺者，佛即稱之為",
+     "evidence": "Tibetan དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས is one agent (Skt tathāgatena arhatā samyaksaṃbuddhena); སངས་རྒྱས is the final noun of the epithet ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས (locked 正等覺者). The translation renders it as 正等覺者 and then adds 佛 as a separate subject, so the epithets read as four items; the added 佛 has no counterpart in the Tibetan.",
+     "fix": "如來、阿羅漢、正等覺者即稱之為"
+    }
+   ]
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "般若慧眼",
+     "evidence": "Locked rendering for ཤེས་རབ་ཀྱི་སྤྱན is 慧眼; the translation prefixes 般若 (the locked rendering of ཤེས་རབ alone), producing a non-locked, redundant compound.",
+     "fix": "慧眼"
+    }
+   ]
+  }
+ ]
+}

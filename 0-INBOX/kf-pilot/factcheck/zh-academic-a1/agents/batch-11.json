@@ -1,0 +1,201 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "若彼時有善男子或善女人將受持盡其所有之福德聚，若我宣說",
+     "evidence": "The Tibetan is a single conditional: 'if I were to speak of the mass of merit of those sons/daughters of noble family who would fully uphold however great a mass of merit' (བསོད་ནམས་ཀྱི་ཕུང་པོ་ཇི་སྙེད་རབ་ཏུ་འཛིན་པར་འགྱུར་བའི ... དེ་དག་གི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ངས་བརྗོད་ན). The translation splits it into two stacked 若-clauses, the first with no consequent, so it reads as 'if at that time there were such persons' and the logic is hard to parse; 'ཇི་སྙེད' is a relative modifier of the merit, not a separate condition.",
+     "fix": "若我宣說彼時那些將會受持其所有福德聚的善男子或善女人的福德聚"
+    }
+   ]
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法之法門",
+     "evidence": "ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs) is a fixed compound locked as 法門 (Skt. dharmaparyāya); it is not 'the 法門 of a 教法'. Rendering ཆོས་ with its separate locked value 教法 and then adding 之法門 doubles the term and produces a nonexistent genitive construction (cf. Chone Drakpa Shedrub 2-100 ཆོས་ཀྱི་རྣམ་གྲངས་འདི).",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "蘊無餘涅槃界",
+     "evidence": "The locked term for ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པ is 無餘涅槃 (the whole phrase 'nirvana without remainder of aggregates'); the translation prefixes a stray 蘊, giving 蘊無餘涅槃, which is not the locked term and parses oddly. The Tibetan is ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས (dbyings = 界).",
+     "fix": "無餘涅槃界"
+    }
+   ]
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "阿耨多羅三藐三菩提之正等菩提",
+     "evidence": "The Tibetan བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ is a single term, locked as 阿耨多羅三藐三菩提 (Skt. anuttarā samyaksaṃbodhi). Adding 之正等菩提 (the locked value of the sub-term ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ) renders the same words twice and creates an apposition the Tibetan does not have.",
+     "fix": "現等覺阿耨多羅三藐三菩提的法"
+    }
+   ]
+  },
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "阿耨多羅三藐三菩提之正等菩提",
+     "evidence": "Same as 8-90: བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ is one term (locked 阿耨多羅三藐三菩提); the added 之正等菩提 double-renders it.",
+     "fix": "現等覺阿耨多羅三藐三菩提的法"
+    }
+   ]
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "阿耨多羅三藐三菩提即正等菩提",
+     "evidence": "The Tibetan has only བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ (one term, locked 阿耨多羅三藐三菩提); 即正等菩提 adds an equation not in the Tibetan and double-renders the term.",
+     "fix": "現等覺阿耨多羅三藐三菩提之法"
+    }
+   ]
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "阿耨多羅三藐三菩提即正等菩提",
+     "evidence": "Same as 8-95: the Tibetan has a single term བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ; 即正等菩提 is an unwarranted doubling.",
+     "fix": "現等覺阿耨多羅三藐三菩提之法"
+    }
+   ]
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "亦即是佛",
+     "evidence": "The Tibetan list is དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས: Tathāgata, arhat, perfectly complete Buddha. 'ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས' is one epithet (locked 正等覺者, as rendered in 8-96 and 8-98); splitting off 亦即是佛 adds an equating clause absent from the Tibetan and is inconsistent with 8-96/8-98.",
+     "fix": "如來、阿羅漢、正等覺者"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "阿耨多羅三藐三菩提此無上正等菩提",
+     "evidence": "The Tibetan བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ is one term (locked 阿耨多羅三藐三菩提); the added 此無上正等菩提 repeats it and adds a demonstrative 此 not in the Tibetan.",
+     "fix": "現等覺了阿耨多羅三藐三菩提"
+    }
+   ]
+  }
+ ]
+}

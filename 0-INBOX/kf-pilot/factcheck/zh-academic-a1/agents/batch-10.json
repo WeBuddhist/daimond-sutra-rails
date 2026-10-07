@@ -1,0 +1,194 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "8-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "百千萬億劫",
+     "evidence": "Tibetan བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་ (Skt kotiniyutaśatasahasra) has three units: koti (བྱེ་བ), niyuta (ཁྲག་ཁྲིག), hundred-thousand (འབུམ་ཕྲག); the translation drops the niyuta unit.",
+     "fix": "百千那由他億劫"
+    }
+   ]
+  },
+  {
+   "id": "8-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法的法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法的法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-56",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法的法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "這個教法之法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+     "fix": "這個法門"
+    }
+   ]
+  },
+  {
+   "id": "8-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-61",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "這個教法之法門",
+     "evidence": "Tibetan ཆོས་ཀྱི་རྣམ་གྲངས (dharmaparyāya) is a single compound whose locked rendering is 法門; the translation also adds the separate locked term for ཆོས (教法), producing the redundant 「教法的法門」, as if the Tibetan said 'the dharma of the dharma-discourse'.",
+     "fix": "這個法門"
+    }
+   ]
+  },
+  {
+   "id": "8-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "八十四萬億那由他諸佛",
+     "evidence": "Tibetan སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི (Skt caturaśīti-buddhakoṭi-niyuta-śatasahasrāṇi; Chone 2-98 and Kamalaśīla 3-162 repeat the same figure) is 84 x koti x niyuta x hundred-thousand; 「萬」 (ten thousand) does not render འབུམ་ཕྲག (hundred-thousand), so the figure is stated imprecisely.",
+     "fix": "八十四億那由他百千諸佛"
+    }
+   ]
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "我令那些佛世尊歡喜且未曾令其心生厭離之所作，與後五百歲時，受取、書寫、受持、憶持、讀誦、完全通達此經者相比",
+     "evidence": "The Tibetan compares two masses of merit (བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ vs བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་); Chone 2-98 spells it out: 'the merit of what I did ... and the merit of those who write this sūtra in the last five hundred'. The Chinese sets an act against persons (「所作」 vs 「者」) and leaves the comparison of merits implicit until the final clause.",
+     "fix": "我令那些佛世尊歡喜而未令其心生厭離所作的福德，與後五百歲末時受取、書寫、受持、憶持、讀誦、完全通達此經者的福德相比"
+    }
+   ]
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

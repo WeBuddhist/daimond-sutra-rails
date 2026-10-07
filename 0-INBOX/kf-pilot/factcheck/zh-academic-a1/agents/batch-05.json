@@ -1,0 +1,169 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-28",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "正等覺者、佛",
+     "evidence": "The Tibetan has three epithets: de bzhin gshegs pa dgra bcom pa yang dag par rdzogs pa'i sangs rgyas. The glossary locks the whole compound yang dag par rdzogs pa'i sangs rgyas as 正等覺者; the sub-entry sangs rgyas = 佛 is already inside it. Rendering both makes a fourth epithet (佛) that the Tibetan does not have.",
+     "fix": "如來、阿羅漢、正等覺者"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "指示我是",
+     "evidence": "bstan (Skt. nirdiṣṭa) here means 'declared / designated' as foremost; 指示 in Chinese means 'to instruct or point out', which is a different act.",
+     "fix": "宣說我為"
+    }
+   ]
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "遠離貪欲的離欲阿羅漢",
+     "evidence": "Tibetan 'dod chags dang bral ba dgra bcom pa = 'an arhat free from desire' (Skt. arhan vītarāgaḥ). The locked 離欲 already renders 'dod chags dang bral ba; 遠離貪欲 renders the same words again, so the phrase says 'free-from-desire' twice.",
+     "fix": "離欲的阿羅漢"
+    }
+   ]
+  },
+  {
+   "id": "7-30",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "如來對我所謂的「善男子須菩提是住於無煩惱者之中的第一，",
+     "evidence": "Tibetan: de bzhin gshegs pas bdag la rigs kyi bu rab 'byor ni nyon mongs pa med par gnas pa rnams kyi mchog yin te = the Tathagata's act of declaring concerning me (Skt. na mam tathagato vyakarisyat ...). The Chinese turns the Tathagata's declaring into a noun phrase ('what the Tathagata so-called regarding me') and leaves an opened quotation that is closed only at the end of 7-31, so the 7-31 clause (which is Subhuti's own reason, lung mi ston lags so) falls inside the Tathagata's quoted words. The 'if I thought ...' clause is left with no verb for the Tathagata. Chone Drakpa Shedrub 2-50 reads it as the Tathagata declaring conventionally that Subhuti is foremost of those abiding without affliction, while not declaring 'abiding' ultimately.",
+     "fix": "如來對我宣說：「善男子須菩提是住於無煩惱者之中的第一」，"
+    }
+   ]
+  },
+  {
+   "id": "7-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "故不授記為『住於無煩惱者』。」",
+     "evidence": "Tibetan ci la yang mi gnas pas na nyon mongs pa med par gnas pa zhes lung mi ston lags so: the honorific lags marks this as Subhuti speaking of the Tathagata, who does not declare. The Chinese has no subject for 不授記 and, because of the unclosed quotation in 7-30, the final 」 closes the Tathagata's supposed words, so the speaker is misassigned. English_academic supplies 'the Tathagata does not declare me'.",
+     "fix": "由於我無所安住，如來不授記我為『住於無煩惱者』。」"
+    }
+   ]
+  }
+ ]
+}
