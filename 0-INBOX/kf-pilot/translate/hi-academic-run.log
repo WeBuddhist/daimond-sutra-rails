@@ -10,3 +10,15 @@
   Restart Zsh to retry gitstatus initialization:
 
     [32mexec zsh[39m
+    ! attempt 1/6 failed ([Errno 54] Connection reset by peer); retrying in 2s
+    ! attempt 1/6 failed ([Errno 54] Connection reset by peer); retrying in 2s
+    ! attempt 1/6 failed ([Errno 54] Connection reset by peer); retrying in 2s
+    ! attempt 1/6 failed ([Errno 54] Connection reset by peer); retrying in 2s
+    ! attempt 1/6 failed ([Errno 54] Connection reset by peer); retrying in 2s
+    ! attempt 1/6 failed ([Errno 54] Connection reset by peer); retrying in 2s
+    ! attempt 2/6 failed (The read operation timed out); retrying in 4s
+    ! attempt 2/6 failed (The read operation timed out); retrying in 4s
+    ! attempt 2/6 failed (The read operation timed out); retrying in 4s
+    ! attempt 2/6 failed (The read operation timed out); retrying in 4s
+    ! attempt 2/6 failed (The read operation timed out); retrying in 4s
+    ! attempt 2/6 failed (The read operation timed out); retrying in 4s

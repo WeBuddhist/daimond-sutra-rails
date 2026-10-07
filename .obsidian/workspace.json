@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "bo-vajracchedika-en"
             }
+          },
+          {
+            "id": "584c6897c2ac1ea3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +210,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "584c6897c2ac1ea3",
   "lastOpenFiles": [
     "0-INBOX/kf-pilot/factcheck/zh-academic-a1/feedback-all.json",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a1/verdicts.json",

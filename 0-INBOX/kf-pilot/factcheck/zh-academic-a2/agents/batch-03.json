@@ -1,0 +1,121 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "於阿耨多羅三藐三菩提中現等覺的任何法",
+     "evidence": "Tibetan བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས is terminative (awakened to / as bodhi); Sanskrit 'anuttarāṃ samyaksaṃbodhim abhisaṃbuddhaḥ' takes bodhi as object. '於…中' reads as locative (a dharma realized 'within' bodhi) and is inconsistent with the rendering in 8-95/8-97/8-100.",
+     "fix": "如來現等覺阿耨多羅三藐三菩提的任何法，皆不存在"
+    }
+   ]
+  },
+  {
+   "id": "8-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-52",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "無生者",
+     "evidence": "Tibetan སྐྱེ་བོ་མེད་པ་ཉིད (Skt. ajana) means 'non-persons / non-beings', i.e. no ordinary being is established as such. Kamalaśīla 3-222: དོན་དམ་པར་ནི་སྐྱེ་བོ་མེད་པ་ཉིད ('ultimately they are exactly non-beings'); Chone 2-134: དོན་དམ་པར་སྐྱེ་བོ་ཉིད་དུ་གྲུབ་པ་མེད་པར ('not established as beings ultimately'). 無生者 means 'those without arising/unborn' (無生 = anutpāda), a different concept, and does not convey 'no persons'.",
+     "fix": "如來說彼等即是非『生者』（勝義中並無眾生可得）"
+    }
+   ]
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-3",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

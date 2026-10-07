@@ -1,0 +1,177 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此被宣說的教法之法門",
+     "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+     "fix": "此被宣說的法門"
+    }
+   ]
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法之法門",
+     "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "對此教法的法門",
+     "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+     "fix": "對此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "傍晚",
+     "evidence": "The Tibetan ཕྱི་དྲོའི་དུས་ཀྱི་ཚེ (phyi dro'i dus kyi tshe) means 'in the afternoon' (the third of the three periods after morning ཕྱེད and midday); 傍晚 means 'toward evening/dusk', which narrows the time. english_academic: 'afternoon'.",
+     "fix": "下午"
+    }
+   ]
+  },
+  {
+   "id": "8-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法的法門",
+     "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法的法門",
+     "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-56",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法的法門",
+     "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法的法門",
+     "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-61",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "此教法的法門",
+     "evidence": "The locked rendering of ཆོས་ཀྱི་རྣམ་གྲངས (chos kyi rnam grangs, 'Dharma discourse') is 法門 as a unit; the translation splits the compound into genitive ཆོས (教法) + རྣམ་གྲངས (法門), giving the redundant '教法的法門'. This is also inconsistent with 8-77, which renders the same phrase simply 此法門.",
+     "fix": "此法門"
+    }
+   ]
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}
