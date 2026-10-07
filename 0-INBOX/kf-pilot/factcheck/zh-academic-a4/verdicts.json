@@ -1,0 +1,157 @@
+[
+ {
+  "id": "7-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-77",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "這部教法的法門",
+    "evidence": "ཆོས་ཀྱི་རྣམ་གྲངས་ is a single locked compound (法門 = Skt. dharmaparyāya). Prefixing 教法 renders ཆོས་ a second time and reads as 'the Dharma-gate of the teaching'. Bo-vasubandhu 2-91 uses ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ as one term.",
+    "fix": "這部法門"
+   }
+  ]
+ },
+ {
+  "id": "8-84",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "於蘊的無餘涅槃界中",
+    "evidence": "ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་ is 'the realm of nirvāṇa without remainder of the aggregates'; the locked rendering 無餘涅槃 already contains the aggregates. Adding a separate '蘊的' is awkward and misparses the compound (Skt. anupadhiśeṣe nirvāṇadhātau).",
+    "fix": "於無餘涅槃界中"
+   }
+  ]
+ },
+ {
+  "id": "8-90",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "無上正等菩提——阿耨多羅三藐三菩提",
+    "evidence": "The Tibetan has one object, བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ (locked: 阿耨多羅三藐三菩提). The translation renders it twice ('無上正等菩提' and '阿耨多羅三藐三菩提'), so it reads as two items or an inserted gloss; Sanskrit has the single anuttarāṃ samyaksaṃbodhim.",
+    "fix": "阿耨多羅三藐三菩提"
+   }
+  ]
+ },
+ {
+  "id": "8-92",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "無上正等菩提——阿耨多羅三藐三菩提",
+    "evidence": "The Tibetan has one object, བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ (locked: 阿耨多羅三藐三菩提). The translation renders it twice ('無上正等菩提' and '阿耨多羅三藐三菩提'), so it reads as two items or an inserted gloss; Sanskrit has the single anuttarāṃ samyaksaṃbodhim.",
+    "fix": "阿耨多羅三藐三菩提"
+   }
+  ]
+ },
+ {
+  "id": "8-95",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "無上正等菩提——阿耨多羅三藐三菩提",
+    "evidence": "The Tibetan has one object, བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ (locked: 阿耨多羅三藐三菩提). The translation renders it twice ('無上正等菩提' and '阿耨多羅三藐三菩提'), so it reads as two items or an inserted gloss; Sanskrit has the single anuttarāṃ samyaksaṃbodhim.",
+    "fix": "阿耨多羅三藐三菩提"
+   }
+  ]
+ },
+ {
+  "id": "8-97",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "無上正等菩提——阿耨多羅三藐三菩提",
+    "evidence": "The Tibetan has one object, བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ (locked: 阿耨多羅三藐三菩提). The translation renders it twice ('無上正等菩提' and '阿耨多羅三藐三菩提'), so it reads as two items or an inserted gloss; Sanskrit has the single anuttarāṃ samyaksaṃbodhim.",
+    "fix": "阿耨多羅三藐三菩提"
+   }
+  ]
+ },
+ {
+  "id": "8-100",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提之無上正等菩提",
+    "evidence": "The Tibetan has one object, བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ (locked: 阿耨多羅三藐三菩提). The translation renders it twice ('無上正等菩提' and '阿耨多羅三藐三菩提'), so it reads as two items or an inserted gloss; Sanskrit has the single anuttarāṃ samyaksaṃbodhim.",
+    "fix": "阿耨多羅三藐三菩提"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "而成佛",
+    "evidence": "The Tibetan ends མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ, the verb already rendered 現等覺 (locked); there is no separate 'and became a Buddha' clause (Skt. abhisambuddhā). Bo-vasubandhu 2-101 has no such clause.",
+    "fix": "（刪去「而成佛」）"
+   }
+  ]
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "阿耨多羅三藐三菩提、無上正等菩提之法",
+    "evidence": "The Tibetan has one object, བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ (locked: 阿耨多羅三藐三菩提). The translation renders it twice ('無上正等菩提' and '阿耨多羅三藐三菩提'), so it reads as two items or an inserted gloss; Sanskrit has the single anuttarāṃ samyaksaṃbodhim.",
+    "fix": "阿耨多羅三藐三菩提之法"
+   }
+  ]
+ },
+ {
+  "id": "8-118",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "正等覺者、佛",
+    "evidence": "The Tibetan epithet is དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས, three titles (Tathāgata, arhat, perfectly complete Buddha; Skt. tathāgatenārhatā samyaksaṃbuddhena). སངས་རྒྱས is part of the third title, already covered by 正等覺者; listing 佛 separately yields a fourth epithet (cf. 7-28 and 8-100, which use 正等覺者 alone).",
+    "fix": "如來、阿羅漢、正等覺者"
+   }
+  ]
+ },
+ {
+  "id": "9-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "般若慧眼",
+    "evidence": "ཤེས་རབ་ཀྱི་སྤྱན is the locked compound 慧眼; 般若 is the locked rendering of the bare word ཤེས་རབ and is not to be added in front of 慧眼, making a redundant doubled rendering.",
+    "fix": "慧眼"
+   }
+  ]
+ },
+ {
+  "id": "9-11",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "教法之法眼",
+    "evidence": "ཆོས་ཀྱི་སྤྱན is the locked compound 法眼. Adding 教法 (the locked rendering of bare ཆོས་) reads it as an eye of the doctrine or teaching. The commentaries define it differently: Kamalaśīla 3-184 'ཆོས་ཙམ་གྱི་ཡུལ་ལ་ནི་ཆོས་ཀྱི་སྤྱན' (the eye for the object that is mere phenomena); Vasubandhu 2-112 says it knows what is designated as dharmas and persons.",
+    "fix": "法眼"
+   }
+  ]
+ }
+]

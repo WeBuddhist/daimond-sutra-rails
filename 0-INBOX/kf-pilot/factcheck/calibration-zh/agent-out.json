@@ -1,0 +1,276 @@
+{
+ "batch": "calibration",
+ "segments": [
+  {
+   "id": "10-51",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "如來說即是執著",
+     "evidence": "Tibetan འཛིན་པ་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ན: the Tathagata spoke of it as 'without grasping' (Skt agrāha); the translation reverses the negation. Chone Drakpa 2-133 says the Tathagata has abandoned it and has no such clinging.",
+     "fix": "如來說為無有執著"
+    }
+   ]
+  },
+  {
+   "id": "13-5",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "九百萬遍",
+     "evidence": "Tibetan ཁྲི་དགུ་སྟོང་ = 9,000 x 10,000 = ninety million (English: ninety million). 九百萬 is only nine million.",
+     "fix": "九千萬遍"
+    }
+   ]
+  },
+  {
+   "id": "12-22",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "如來說即是真實想",
+     "evidence": "Tibetan དེ་འདུ་ཤེས་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ (Skt asaṃjñā): the Tathagata spoke of it as 'no perception'. The translation affirms a 'real perception' instead, adding content and reversing the sense.",
+     "fix": "如來說為無想"
+    }
+   ]
+  },
+  {
+   "id": "7-35",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "釋迦牟尼佛",
+     "evidence": "Tibetan མར་མེ་མཛད (Skt Dīpaṃkara) is the Buddha from whom nothing was obtained; the locked term is 燃燈佛. Shakyamuni is the Tathagata who speaks. Chone Drakpa 2-51 and Kamalaśīla 3-95 name Dipamkara.",
+     "fix": "燃燈佛"
+    }
+   ]
+  },
+  {
+   "id": "6-16",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "彼等不為如來所知曉",
+     "evidence": "Tibetan དེ་བཞིན་གཤེགས་པས་མཁྱེན་ཏོ and Skt jñātās te ... tathāgatena: the Tathagata knows them. The translation negates it.",
+     "fix": "彼等為如來所知曉"
+    }
+   ]
+  },
+  {
+   "id": "5-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "有所住而行布施",
+     "evidence": "Tibetan མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པ (Skt apratiṣṭhito dānaṃ dadāti): gives without abiding (locked 不住). The translation says the opposite, 'abiding'.",
+     "fix": "無所住而行布施"
+    }
+   ]
+  },
+  {
+   "id": "8-22",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "—",
+     "evidence": "Tibetan མདོ་སྡེ་འདི་བཤད་པ་ལ ('when this sūtra is being explained'; Skt sūtre bhāṣyamāṇe) is missing; the translation states only 'those who are not frightened'.",
+     "fix": "凡是在宣說此經時不驚恐、不害怕、不極度畏懼的眾生，將具備最極稀有"
+    }
+   ]
+  },
+  {
+   "id": "2-3",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "佛允諾諸菩薩摩訶薩往生其淨土",
+     "evidence": "Nothing in the Tibetan or Sanskrit about promising rebirth in a pure land; the Tibetan only says the Tathagata benefited (ཕན་གདགས་པ) the bodhisattvas. Chone Drakpa 2-3 explains benefit through Dharma and entrusting, with no pure land.",
+     "fix": "如來以所有最勝的饒益來饒益諸菩薩摩訶薩"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "世尊、如來、阿羅漢、正等覺者，佛",
+     "evidence": "The epithets 'Tathagata, arhat, perfectly complete Buddha' are the agent of the benefiting (ཀྱིས); the vocative bhagavan is separate. The Chinese lists them as parallel vocatives and then adds a separate subject 佛, obscuring the agent.",
+     "fix": "世尊！如來、阿羅漢、正等覺者"
+    }
+   ]
+  },
+  {
+   "id": "8-4",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "八十相",
+     "evidence": "Tibetan མཚན་སུམ་ཅུ་རྩ་གཉིས (Skt dvātriṃśan) = thirty-two marks; locked term 三十二相.",
+     "fix": "三十二相"
+    }
+   ]
+  },
+  {
+   "id": "8-114",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "無靈魂",
+     "evidence": "Tibetan སྲོག (Skt jīva) has locked rendering 壽者; 靈魂 'soul' is a different concept. Chone Drakpa 2-113 lists སེམས་ཅན, སྲོག, གང་ཟག as the three.",
+     "fix": "無壽者"
+    }
+   ]
+  },
+  {
+   "id": "8-75",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "亦能相及",
+     "evidence": "Tibetan མི་བཟོད་དོ (Skt na kṣamate): does not bear comparison/does not withstand. The Chinese says it can be compared, reversing the sense.",
+     "fix": "皆不堪相及"
+    }
+   ]
+  },
+  {
+   "id": "11-9",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "將某些法施設為毀壞，亦施設為斷滅",
+     "evidence": "Tibetan ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པ་མེད་དོ (Skt na ... kasyacid dharmasya vināśaḥ prajñapto nocchedaḥ): they do NOT designate any phenomenon as destroyed or annihilated. The translation affirms it and turns 'or' into 'and also'.",
+     "fix": "不將任何法施設為毀壞或斷滅"
+    }
+   ]
+  },
+  {
+   "id": "6-21",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "也將會生起法想",
+     "evidence": "Tibetan ཆོས་སུ་འདུ་ཤེས་པ་དང༌། ཆོས་མེད་པར་ཡང་འདུ་ཤེས་མི་འཇུག: the negation མི་འཇུག governs both perceptions (Skt nāpi ... dharmasaṃjñā pravartate, evaṃ nādharmasaṃjñā). The translation affirms the perception of a phenomenon.",
+     "fix": "也不會生起法想，也不會生起非法想"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "傍晚時分",
+     "evidence": "Tibetan སྔ་དྲོའི་དུས (Skt pūrvāhṇa) means morning; 傍晚 is evening.",
+     "fix": "清晨時分"
+    }
+   ]
+  },
+  {
+   "id": "10-27",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "確實有教法可以被緣取為所謂說法",
+     "evidence": "Tibetan ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར (Skt nāsti sa kaścid dharmaḥ): there is no phenomenon that can be apprehended as 'teaching the Dharma'. The translation asserts existence.",
+     "fix": "是因為沒有任何教法可以被緣取為所謂說法的緣故"
+    }
+   ]
+  },
+  {
+   "id": "12-27",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "彩虹",
+     "evidence": "Tibetan ཟིལ་བ (Skt avaśyāya) is dew, locked as 露; 彩虹 (rainbow) is a different item.",
+     "fix": "露"
+    }
+   ]
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "無上正等正覺",
+     "evidence": "Tibetan བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ requires the locked rendering 阿耨多羅三藐三菩提; the rendered phrase also duplicates 等覺 with 現等覺.",
+     "fix": "阿耨多羅三藐三菩提"
+    }
+   ]
+  },
+  {
+   "id": "6-28",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "法應當執持",
+     "evidence": "Tibetan ཆོས་རྣམས་ཀྱང་སྤང་བར་བྱ (Skt dharmā eva prahātavyāḥ): even phenomena should be abandoned, let alone non-phenomena. The translation says to hold on to them, reversing the sense.",
+     "fix": "法尚應捨棄"
+    }
+   ]
+  },
+  {
+   "id": "11-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

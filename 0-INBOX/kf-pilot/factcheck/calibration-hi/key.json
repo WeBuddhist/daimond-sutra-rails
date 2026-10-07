@@ -1,0 +1,146 @@
+{
+ "10-51": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "उसे ग्राह-रहित ही कहा है",
+  "new": "उसे ग्राह ही कहा है"
+ },
+ "13-5": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "नौ करोड़ बार",
+  "new": "नब्बे लाख बार"
+ },
+ "12-22": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "उसे असंज्ञा कहा है",
+  "new": "उसे सच्ची संज्ञा कहा है"
+ },
+ "7-35": {
+  "planted": true,
+  "kind": "name",
+  "severity": "major",
+  "old": "दीपंकर",
+  "new": "शाक्यमुनि"
+ },
+ "6-16": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "तथागत उन्हें जानते हैं",
+  "new": "तथागत उन्हें नहीं जानते"
+ },
+ "5-1": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "अप्रतिष्ठित होकर",
+  "new": "प्रतिष्ठित होकर"
+ },
+ "8-22": {
+  "planted": true,
+  "kind": "omission",
+  "severity": "major",
+  "old": "जो सत्त्व इस सूत्र के उपदेश किए जाने पर त्रस्त",
+  "new": "जो सत्त्व त्रस्त"
+ },
+ "2-3": {
+  "planted": true,
+  "kind": "addition",
+  "severity": "major",
+  "old": "महासत्त्वों को जिस परम अनुग्रह से",
+  "new": "महासत्त्वों को अपनी शुद्ध भूमि में पुनर्जन्म का वचन देकर जिस परम अनुग्रह से"
+ },
+ "8-4": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "बत्तीस",
+  "new": "अस्सी"
+ },
+ "8-114": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "जीवरहित",
+  "new": "आत्मारहित"
+ },
+ "8-75": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "तुलना नहीं सहता है",
+  "new": "तुलना सहता है"
+ },
+ "11-9": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "किसी भी धर्म को विनाश या उच्छेद के रूप में प्रज्ञप्त नहीं किया है",
+  "new": "कुछ धर्मों को विनाश या उच्छेद के रूप में प्रज्ञप्त किया है"
+ },
+ "6-21": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "धर्म-संज्ञा में और धर्म-अभाव-संज्ञा में भी प्रवृत्त नहीं होंगे",
+  "new": "धर्म-संज्ञा में प्रवृत्त होंगे, पर धर्म-अभाव-संज्ञा में प्रवृत्त नहीं होंगे"
+ },
+ "1-3": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "पूर्वाह्न के समय",
+  "new": "सायंकाल के समय"
+ },
+ "10-27": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "ऐसा कोई भी धर्म नहीं है जिसे",
+  "new": "ऐसा एक धर्म है जिसे"
+ },
+ "12-27": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "ओस की बूँद",
+  "new": "इंद्रधनुष"
+ },
+ "8-97": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "अनुत्तर सम्यक्सम्बोधि",
+  "new": "अनुत्तर पूर्ण ज्ञानोदय"
+ },
+ "6-28": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "धर्मों को भी त्याग देना चाहिए",
+  "new": "धर्मों को पकड़े रहना चाहिए"
+ },
+ "11-8": {
+  "planted": false
+ },
+ "7-61": {
+  "planted": false
+ },
+ "7-60": {
+  "planted": false
+ },
+ "11-10": {
+  "planted": false
+ },
+ "8-52": {
+  "planted": false
+ },
+ "8-85": {
+  "planted": false
+ }
+}

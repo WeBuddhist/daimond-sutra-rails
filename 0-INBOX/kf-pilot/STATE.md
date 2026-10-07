@@ -38,6 +38,7 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 3. ~~Hindi children's~~ — done (`factcheck/hi-children-a1`, `hi-children-a2`; usage harvested).
 4. ~~Report~~ — extended to zh + hi (filename still `-en-`; rename to `vajracchedika-cost-quality.md` if no links depend on it). Hindi glossary check fixed (strips inflectional endings); hi tracks re-rendered.
 5. **Next:** planted-error checker test in zh + hi (report §4), then register the scripts as skills (`create-skill`) and run Ratnaguṇa.
+6. Bodhicaryāvatāra (Chonjuk) started 2026-10-07 in `bodhisattvacharyavatara-rails/0-INBOX/kf-pilot/` (scripts copied and adapted; see its STATE.md). The user asked for before/after improvement metrics for every fact-check + fix round; compute them retroactively here too (list in that STATE.md).
 
 ### Findings to carry into the report
 - Hindi glossary over-application: locked བདག → आत्मन् was used for the pronoun "I" (7-8, 7-15); en/zh were fine.

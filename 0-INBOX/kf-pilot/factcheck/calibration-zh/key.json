@@ -1,0 +1,146 @@
+{
+ "10-51": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "如來說即非執著",
+  "new": "如來說即是執著"
+ },
+ "13-5": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "九千萬遍",
+  "new": "九百萬遍"
+ },
+ "12-22": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "如來說即是無想",
+  "new": "如來說即是真實想"
+ },
+ "7-35": {
+  "planted": true,
+  "kind": "name",
+  "severity": "major",
+  "old": "燃燈佛",
+  "new": "釋迦牟尼佛"
+ },
+ "6-16": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "彼等為如來所知曉",
+  "new": "彼等不為如來所知曉"
+ },
+ "5-1": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "不住而行布施",
+  "new": "有所住而行布施"
+ },
+ "8-22": {
+  "planted": true,
+  "kind": "omission",
+  "severity": "major",
+  "old": "凡是在這部經被宣說時不驚恐",
+  "new": "凡是不驚恐"
+ },
+ "2-3": {
+  "planted": true,
+  "kind": "addition",
+  "severity": "major",
+  "old": "佛以所有最勝的饒益",
+  "new": "佛允諾諸菩薩摩訶薩往生其淨土，並以所有最勝的饒益"
+ },
+ "8-4": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "三十二相",
+  "new": "八十相"
+ },
+ "8-114": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "無壽者",
+  "new": "無靈魂"
+ },
+ "8-75": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "亦不能及",
+  "new": "亦能相及"
+ },
+ "11-9": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "不將任何法施設為毀壞，亦不施設為斷滅",
+  "new": "將某些法施設為毀壞，亦施設為斷滅"
+ },
+ "6-21": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "也將不會生起法想",
+  "new": "也將會生起法想"
+ },
+ "1-3": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "清晨時分",
+  "new": "傍晚時分"
+ },
+ "10-27": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "根本沒有任何教法可以被緣取",
+  "new": "確實有教法可以被緣取"
+ },
+ "12-27": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "幻、露、水泡",
+  "new": "幻、彩虹、水泡"
+ },
+ "8-97": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "無上正等菩提——阿耨多羅三藐三菩提",
+  "new": "無上正等正覺"
+ },
+ "6-28": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "連法尚且應當捨棄",
+  "new": "法應當執持"
+ },
+ "11-8": {
+  "planted": false
+ },
+ "7-61": {
+  "planted": false
+ },
+ "7-60": {
+  "planted": false
+ },
+ "11-10": {
+  "planted": false
+ },
+ "8-52": {
+  "planted": false
+ },
+ "8-85": {
+  "planted": false
+ }
+}

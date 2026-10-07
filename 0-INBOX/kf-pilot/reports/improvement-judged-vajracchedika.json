@@ -1,0 +1,74 @@
+[
+ {
+  "track": "en-academic",
+  "id": "0-3",
+  "result": "win",
+  "after_was": "B",
+  "reason": "B is better because it keeps 'Noble Perfection of Wisdom' together, correctly reflecting the Tibetan word order and phrasing of the title.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-5",
+  "result": "win",
+  "after_was": "B",
+  "reason": "B is better because it accurately translates 'zas' as 'meal', making 'alms of the later meal' more precise than A's 'later alms'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-3",
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A is better because it faithfully translates the explicit Tibetan nouns 'supreme benefits' and 'supreme entrustments', which B drops.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "3-6",
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B correctly translates the adverbs without adding extra words, whereas A inserts the extra verb 'attend' which is absent from the Tibetan.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-1",
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A is better because B adds 'without perception' (asaṃjñino), which is absent from this specific Tibetan source segment.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-8",
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B correctly translates the Tibetan 'mtshan dang mtshan ma med par' as being without both marks and signs, whereas A mistranslates it.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-13",
+  "result": "win",
+  "after_was": "B",
+  "reason": "B is better because adding 'just' clarifies the English meaning (they served many Buddhas), avoiding the misreading that they served zero Buddhas.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-14",
+  "result": "win",
+  "after_was": "A",
+  "reason": "A is better because adding 'just' prevents the English ambiguity that they planted zero roots of virtue, correctly conveying they planted many.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ }
+]

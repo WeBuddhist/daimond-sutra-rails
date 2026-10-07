@@ -1,0 +1,20 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+Traceback (most recent call last):
+  File "/Users/tashitsering/Desktop/work/Obsidian/KF-project/daimond-sutra-rails/0-INBOX/kf-pilot/factcheck/pairwise_judge.py", line 172, in <module>
+    main()
+    ~~~~^^
+  File "/Users/tashitsering/Desktop/work/Obsidian/KF-project/daimond-sutra-rails/0-INBOX/kf-pilot/factcheck/pairwise_judge.py", line 164, in main
+    print(f"pairs to judge={len(pairs)} calls={len(jobs)}", flush=True)
+                            ~~~^^^^^^^
+TypeError: object of type 'int' has no len()

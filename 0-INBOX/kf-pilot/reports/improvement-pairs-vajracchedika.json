@@ -1,0 +1,1138 @@
+[
+ {
+  "track": "en-academic",
+  "id": "0-3",
+  "before": "In the Tibetan language: The Noble Mahāyāna Sūtra called the Diamond Cutter Perfection of Wisdom.",
+  "after": "In the Tibetan language: The Noble Perfection of Wisdom called the Diamond Cutter, a Mahāyāna sūtra.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-5",
+  "before": "Having given up later alms, he set aside his alms bowl and Dharma robe, washed his feet, sat cross-legged on the arranged seat, straightened his body, and remained, having established mindfulness to the fore.",
+  "after": "Having given up the alms of the later meal, he set aside his alms bowl and Dharma robe, washed his feet, sat cross-legged on the arranged seat, straightened his body, and remained, having established mindfulness to the fore.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-3",
+  "before": "\"Blessed One, it is wonderful how the Tathāgata, the arhat, the perfectly complete Buddha, has benefited the bodhisattva great beings with all the supreme benefits, and how the Tathāgata has entrusted the bodhisattva great beings with all the supreme entrustments. Blessed One, it is wonderful! Sugata, it is wonderful!\"",
+  "after": "Blessed One, it is wonderful to what supreme extent the Tathāgata, the arhat, the perfectly complete Buddha, has benefited the bodhisattva great beings, and to what supreme extent the Tathāgata has entrusted the bodhisattva great beings. Blessed One, it is wonderful! Sugata, it is wonderful!",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "3-6",
+  "before": "Therefore, Subhūti, listen well and hold it thoroughly in mind, and",
+  "after": "Therefore, Subhūti, listen, attend properly, and hold it thoroughly in mind, and",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-1",
+  "before": "Subhūti, here one who has correctly entered the bodhisattva vehicle should think in this way: 'However many sentient beings are subsumed by the subsumption of sentient beings—whether born from eggs, or born from a womb, or born from warmth and moisture, or miraculously born, or having form, or without form, or having perception, or neither with perception nor without perception—however many are designated by conceptual designation as sentient beings in the realm of sentient beings, all those I shall lead to complete nirvāṇa in the expanse of nirvāṇa without remainder of the aggregates.'",
+  "after": "Subhūti, here one who has correctly entered the bodhisattva vehicle should think in this way: 'However many sentient beings are subsumed by the subsumption of sentient beings—whether born from eggs, or born from a womb, or born from warmth and moisture, or miraculously born, or having form, or without form, or having perception, or without perception, or neither with perception nor without perception—however many are designated by conceptual designation as sentient beings in the realm of sentient beings, all those I shall lead to complete nirvāṇa in the expanse of nirvāṇa without remainder of the aggregates.'",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-8",
+  "before": "Thus, the Tathāgata should be viewed as being without marks and signs.",
+  "after": "Thus, the Tathāgata should be viewed as having marks and as being without signs.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-13",
+  "before": "Subhūti, those bodhisattva great beings have not served a single Buddha.",
+  "after": "Subhūti, those bodhisattva great beings have not served just a single Buddha.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-14",
+  "before": "They have not planted roots of virtue under a single Buddha, but",
+  "after": "They have not planted roots of virtue under just a single Buddha, but",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-25",
+  "before": "Even if they were to engage in the perception of a selfless phenomenon, that itself would become for them a grasping at a self,",
+  "after": "Even if they were to engage in the perception of phenomena as selfless, that itself would become for them a grasping at a self,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-30",
+  "before": "Blessed One, if I were to think, 'I have obtained arhatship,' the Tathāgata, concerning me, 'The son of noble family Subhūti is the foremost of those abiding without affliction,'",
+  "after": "Blessed One, if I were to think, 'I have obtained arhatship,' the Tathāgata, concerning me, would not declare: 'The son of noble family Subhūti is the foremost of those abiding without affliction,' —",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-31",
+  "before": "Because I do not abide in anything whatsoever, he does not declare \"abiding without affliction.\"",
+  "after": "Because I do not abide in anything whatsoever, the Tathāgata does not declare me 'abiding without affliction'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-37",
+  "before": "Why is that? Subhūti, as for what is called 'arrays of Buddha-fields, arrays of Buddha-fields,' it is because the Tathāgata has taught them as being without those arrays.",
+  "after": "Why is that? Subhūti, as for what is called 'arrays of Buddha-fields, arrays of Buddha-fields,' it is because the Tathāgata has taught those arrays as non-arrays.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-39",
+  "before": "Subhūti, therefore, a bodhisattva great being should generate the mind without abiding in this way:",
+  "after": "Subhūti, therefore, a bodhisattva great being should generate the mind in this way, without abiding:",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-52",
+  "before": "The Blessed One said: Subhūti, you should be convinced.",
+  "after": "The Blessed One said: Subhūti, you should take an interest.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-55",
+  "before": "and were to give them as a gift to the Tathāgatas, arhats, and perfectly complete Buddhas, Subhūti, what do you think? Would that man or woman generate much merit on that basis?",
+  "after": "and were to give them as a gift to the Tathāgatas, the arhats, the perfectly complete Buddhas, Subhūti, what do you think? Would that man or woman generate much merit on that basis?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-78",
+  "before": "Why is that? Blessed One, it is because whatever is a particle of earth has been taught by the Tathāgata as not a particle.\"",
+  "after": "Why is that? Blessed One, it is because whatever is a particle of earth has been taught by the Tathāgata as not a particle,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-2",
+  "before": "Should the Tathāgata, the arhat, the perfectly complete Buddha be seen by those thirty-two marks of a great man?",
+  "after": "Do you think the Tathāgata, the arhat, the perfectly complete Buddha should be seen by those thirty-two marks of a great man?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-6",
+  "before": "The Blessed One said: \"Subhūti, if some man or woman were to give away bodies as numerous as the grains of sand of the Gaṅgā river, and if someone were to take up even just a four-line verse from this Dharma discourse and teach it properly to others, that person would generate on that basis far greater, incalculable, immeasurable merit.\"",
+  "after": "The Blessed One said: \"Subhūti, if some man or woman were to give away bodies as numerous as the grains of sand of the Gaṅgā river, someone who takes up even just a four-line verse from this Dharma discourse and teaches it properly to others would, on that basis, generate far greater merit than that, incalculable and immeasurable.\"",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-15",
+  "before": "Blessed One, in the future time, in the last five hundred years, those sentient beings who take up, write, hold, keep, read, and fully master this Dharma discourse will be endowed with supreme wonder.",
+  "after": "Blessed One, in the future time, in the last five hundred years, those sentient beings who take up, write, hold, keep, read, and fully master this Dharma discourse will be endowed with supreme marvel.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-22",
+  "before": "Those sentient beings who, when this sūtra is being explained, are not terrified, not frightened, and do not become completely frightened, will be endowed with supreme wonder.",
+  "after": "Those sentient beings who, when this sūtra is being explained, are not terrified, not frightened, and do not become completely frightened, will be endowed with supreme marvel.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-38",
+  "before": "One should generate the mind without abiding in non-phenomena.",
+  "after": "One should generate the mind without abiding even in non-phenomena.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-45",
+  "before": "Why is that? Subhūti, the Tathāgata speaks authentically, speaks truthfully, and speaks of suchness,",
+  "after": "Why is that? Subhūti, the Tathāgata speaks authentically, speaks truthfully, and speaks in accordance with suchness,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-52",
+  "before": "Moreover, Subhūti, if a man or a woman were to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during the morning, and were also to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during midday and during the afternoon, compared to completely giving away bodies in this manner for many hundreds of thousands of millions of eons,",
+  "after": "Moreover, Subhūti, if a man or a woman were to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during the morning, and were also to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during midday and during the afternoon, compared to completely giving away bodies in this manner for many hundred-thousands of myriads of millions of eons,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-87",
+  "before": "and even if they engage in a perception up to that of a person, it is because they are not to be called a bodhisattva.",
+  "after": "and because, even if they engage in a perception up to that of a person, they are not to be called a bodhisattva.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-3",
+  "before": "It is because the present mind is also unapprehendable.",
+  "after": "This is because the present mind, too, is unapprehendable.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-5",
+  "before": "If someone were to completely fill this three-thousandfold great thousandfold world system with the seven precious substances and give it as a gift, would that son of noble family or daughter of noble family produce much merit on that basis?",
+  "after": "If someone were to completely fill this three-thousandfold great thousandfold world system with the seven precious substances and give a gift, would that son of noble family or daughter of noble family produce much merit on that basis?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-23",
+  "before": "The Blessed One said, \"Subhūti, what do you think?",
+  "after": "The Blessed One said: Subhūti, what do you think?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-26",
+  "before": "Subhūti, if anyone were to say this: 'The Tathāgata has taught the Dharma,' Subhūti, they would slander me by grasping at what is non-existent and false.",
+  "after": "Subhūti, if anyone were to say this: 'The Tathāgata has taught the Dharma,' Subhūti, they would slander me by a mistaken grasping of what does not exist.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-45",
+  "before": "Furthermore, Subhūti, compared to any son of noble family or daughter of noble family who, having brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, gives them as a gift, if someone were to take up even just a single four-line verse from this perfection of wisdom and teach it to others, Subhūti, that former mass of merit does not approach even a hundredth part, up to not bearing comparison even as a cause.",
+  "after": "Furthermore, Subhūti, suppose any son of noble family or daughter of noble family brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, and gave them as a gift; and suppose someone took up even just a single four-line verse from this perfection of wisdom and taught it to others. Subhūti, that former mass of merit does not come near even a hundredth part of the latter, up to not bearing comparison even as a cause.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "13-1",
+  "before": "After the Blessed One had spoken these words, the elder Subhūti, those monks, those bodhisattvas, the fourfold assembly of monks, nuns, laymen, and laywomen, and the world with its gods, humans, demigods, and gandharvas rejoiced,",
+  "after": "After the Blessed One had spoken thus, the elder Subhūti, those monks, those bodhisattvas, and the fourfold assembly of monks, nuns, laymen, and laywomen, along with the world with its gods, humans, demigods, and gandharvas, rejoiced,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "13-3",
+  "before": "The noble Mahāyāna sūtra called the perfection of wisdom Diamond Cutter is complete.",
+  "after": "The noble Mahāyāna sūtra entitled the Diamond Cutter perfection of wisdom is complete.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "1-5",
+  "before": "放棄了後餐的乞食，放下缽與法衣，洗淨雙足，在鋪設好的座位上結跏趺坐，挺直身體，將正念繫念在前而安坐。",
+  "after": "捨棄了午後的乞食，放下缽與法衣，洗淨雙足，在鋪設好的座位上結跏趺坐，挺直身體，將正念繫念在前而安坐。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "2-3",
+  "before": "世尊！如來、阿羅漢、正等覺者、佛，以何等最勝之利益，利益諸菩薩摩訶薩；如來以何等最勝之付囑，付囑諸菩薩摩訶薩。世尊，這真是稀有！善逝，這真是稀有！",
+  "after": "世尊、如來、阿羅漢、正等覺者，佛以所有最勝的饒益來饒益諸菩薩摩訶薩，以及如來以所有最勝的付囑來付囑諸菩薩摩訶薩，世尊！這真是稀有！善逝！這真是稀有！",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "3-7",
+  "before": "真實步入菩薩乘者應當如何安住、應當如何修行、應當如何降伏其心，我將為你解說。",
+  "after": "如理步入菩薩乘者應當如何安住、應當如何修行、應當如何降伏其心，我將為你解說。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "4-1",
+  "before": "須菩提！於此真實步入菩薩乘者，應作是念：『無論多少眾生被攝於眾生之類中——或卵生，或胎生，或濕生，或化生，或有色，或無色，或有想，或無想，或非有想非無想，無論多少在眾生界中被假名施設為眾生者，我皆令彼等一切於蘊無餘涅槃界中般涅槃。』",
+  "after": "須菩提！於此如理步入菩薩乘者，應作是念：『無論多少眾生被攝於眾生之類中——或卵生，或胎生，或濕生，或化生，或有色，或無色，或有想，或無想，或非有想非無想，無論多少在眾生界中被假名施設為眾生者，我皆令彼等一切於蘊無餘涅槃界中般涅槃。』",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "5-6",
+  "before": "世尊說：「須菩提，同樣地，菩薩不住於任何事物而行布施，其福德聚，須菩提，是因為不易衡量的緣故。」",
+  "after": "世尊說：「須菩提，同樣地，菩薩不住於任何事物而行布施，其福德聚，須菩提，不易衡量。」",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "6-7",
+  "before": "有多少無諸相具足，即有多少非虛妄，",
+  "after": "在無諸相具足的程度上，即在同等程度上非虛妄，",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "6-12",
+  "before": "「須菩提，在未來最後五百年，正法徹底壞滅之時，將會出現具足戒、具足功德、具足般若的菩薩摩訶薩。",
+  "after": "須菩提，在未來最後五百年，正法徹底壞滅之時，將會出現具有戒、具有功德、具有般若的菩薩摩訶薩。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "6-20",
+  "before": "無眾生想，無壽者想，因為將不會生起人想。",
+  "after": "無眾生想，無壽者想，亦不會生起人想，故如此。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "6-38",
+  "before": "為什麼呢？因為諸聖人是以無為而區分的。",
+  "after": "為什麼呢？因為聖者眾人是以無為而有差別的。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "6-46",
+  "before": "世尊說：須菩提，比起有善男子或善女人將此三千大千世界裝滿七寶並給予施物，若有人從此教法之法門中甚至僅受持四句偈，為他人解說並真實開示，從該基礎將產生更多、無數且無量的福德聚。",
+  "after": "世尊說：「須菩提，比起有善男子或善女人，將這三千大千世界以七寶完全充滿，作為施物而給予；若有人從這部教法之法門中，乃至僅僅受持四句偈，為他人解說並真實開示，他從這一基礎將產生更多無數、無量的福德聚。」",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "6-47",
+  "before": "為什麼呢？須菩提，因為如來、阿羅漢、正等覺者諸佛的阿耨多羅三藐三菩提，是從此處出生的。",
+  "after": "為什麼呢？須菩提，因為諸位如來、阿羅漢、正等覺者諸佛的阿耨多羅三藐三菩提，是從此處產生的；",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "7-28",
+  "before": "世尊，如來、阿羅漢、正等覺者、佛指示我是住於無煩惱者之中最為第一，",
+  "after": "世尊，如來、阿羅漢、正等覺者將我宣說為住於無煩惱者之中的第一，",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "7-29",
+  "before": "世尊，雖然我是遠離貪欲的離欲阿羅漢，但世尊，我不作是想：『我是阿羅漢。』",
+  "after": "世尊，雖然我是遠離貪欲的離欲阿羅漢，但世尊，我並不作是想：『我是阿羅漢。』",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "7-30",
+  "before": "世尊，如果我這樣想：「我得到了阿羅漢位」，如來對我所謂的「善男子須菩提是住於無煩惱者之中的第一，",
+  "after": "世尊，如果我這樣想：「我得到了阿羅漢位」，則如來不會對我宣說：「善男子須菩提是住於無煩惱者之中的第一」，",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "7-31",
+  "before": "因為無所安住，故不授記為『住於無煩惱者』。」",
+  "after": "由於我無所安住，如來不授記我為「住於無煩惱者」。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "7-73",
+  "before": "須菩提回答說：「世尊，如來所宣說的法任何都不存在。」",
+  "after": "須菩提回答說：「世尊，如來所宣說的任何法都不存在。」",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-2",
+  "before": "你認為應以那些大丈夫的三十二相來見如來、阿羅漢、正等覺者、佛嗎？",
+  "after": "你認為可以藉由大丈夫的三十二相，來見如來、阿羅漢、正等覺者這尊佛嗎？",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-6",
+  "before": "世尊說：「須菩提，比起有男子或女人布施等同恆河沙數的身體，若有人從此教法的法門中，哪怕只受持四句偈並為他人真實宣說，此人以此為基礎，將產生遠為更多的無數、無量福德。」",
+  "after": "世尊說：「須菩提，比起有男子或女人布施如同恆河沙數的身體，若有人從此教法的法門中，哪怕只是受持一首四句偈，並為他人正確宣說，此人以此為基礎所產生的福德將遠大於此，無數無量。」",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-9",
+  "before": "世尊，如來如此詳盡地宣說這部教法的法門，真是稀有！善逝，真是稀有！",
+  "after": "世尊，如來如此廣泛宣說此教法之法門，實為稀有！善逝，實為稀有！",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-10",
+  "before": "世尊，自從我生起本智以來，我以前從未聽聞過這部教法的法門。",
+  "after": "世尊，自從我生起本智以來，我以前從未聽聞過此教法之法門。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-11",
+  "before": "為什麼呢？世尊，對於宣說此經將生起真實想的那些眾生，將具備最極稀有。",
+  "after": "為什麼呢？世尊，對於此經被宣說時將生起真實想的那些眾生，將具備最極稀有。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-14",
+  "before": "世尊，我思惟並信解這部被宣說的教法的法門，對我來說並不稀有；",
+  "after": "世尊，我思惟並信受此被宣說的教法之法門，這對我而言並不稀有；",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-15",
+  "before": "世尊，在未來的時代、未來的後五百歲中，若有眾生領受、書寫、受持、護持、閱讀並完全通達此教法之法門，這些眾生將具備最極之希有。",
+  "after": "世尊，在未來的時代、未來的後五百歲中，若有眾生領受、書寫、受持、保留、讀誦並完全通達此教法之法門，這些眾生將具足最極稀有。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-19",
+  "before": "那是為什麼呢？因為諸佛世尊即是遠離一切想的緣故。",
+  "after": "為什麼呢？因為諸佛世尊已遠離一切想的緣故。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-22",
+  "before": "凡是在這部經被宣說時不驚恐、不害怕、不極度畏懼的眾生，將具備極其稀有之特質。",
+  "after": "凡是在這部經被宣說時不驚恐、不害怕、不極度畏懼的眾生，將具備最極稀有。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-31",
+  "before": "須菩提，我憶念在過去世中，我於五百世中成為名為忍辱仙人的仙人，即使在那時，我也未生起我想，",
+  "after": "須菩提！我憶念在過去世中，我於五百世中成為名為忍辱仙人者，即使在那時，我也未生起我想。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-50",
+  "before": "再者，須菩提！如果有善男子或善女人，受取、受持、憶持、讀誦、完全通達此教法之法門，並為他人廣泛而真實地開示，如來悉知彼等，如來悉見彼等，",
+  "after": "再者，須菩提！若有善男子或善女人對此教法的法門受取、受持、憶持、讀誦、通達，並為他人廣為真實開示，如來悉知他們，如來悉見他們，",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-52",
+  "before": "再者，須菩提！若有男子或女人，於早晨時完全捨棄恆河沙數的身體，於中午時及傍晚時亦完全捨棄恆河沙數的身體，以此方式於許多百千萬億劫中完全捨棄身體，與其相比，",
+  "after": "再者，須菩提！若有男子或女人，於早晨時完全捨棄恆河沙數的身體，於中午時及傍晚時亦完全捨棄恆河沙數的身體，以此方式於許多百千那由他億劫中完全捨棄身體，與其相比，",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-53",
+  "before": "如果有人聽聞此教法的法門而不捨棄，其將以此為基礎產生更多無數無量的福德，更何況是有人將其寫下、受取、執持、憶持、讀誦、完全精通，並為他人廣泛且正確地開示呢？",
+  "after": "若有人聽聞此教法的法門而不捨棄，彼即由此生起更多無數無量的福德，更何況是書寫、受取、受持、憶持、讀誦、通達，並為他人廣為真實開示者呢！",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-54",
+  "before": "再者，須菩提！此教法的法門是不可思議且無與倫比的。",
+  "after": "再者，須菩提！此教法的法門是不可思議、無與倫比的，",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-56",
+  "before": "此教法的法門，是如來為了真實趣入最上乘的眾生之利益，以及真實趣入最上乘的眾生之利益而宣說的。",
+  "after": "此教法的法門，是如來為了真實趣入最上乘的眾生之利益，以及為了真實趣入最上乘的眾生之利益而宣說的。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-57",
+  "before": "那些受取、受持、憶持、讀誦、通達，並為他人廣泛而真實地開示這個教法之法門的人，如來了知他們，如來看見他們；",
+  "after": "凡是受取、受持、憶持、讀誦、通達此教法的法門，並為他人廣為真實開示的人，如來悉知，如來悉見；",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-61",
+  "before": "為什麼呢？須菩提！信樂下劣者無法聽聞這個教法之法門；",
+  "after": "為什麼呢？須菩提！信樂下劣者無法聽聞此教法的法門；",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-72",
+  "before": "須菩提！我憶念在過去無數且更為無數的劫前，在如來、阿羅漢、正等覺者燃燈佛之前，且更為久遠之前，曾有八十四萬億那由他諸佛出世，我皆令他們歡喜，",
+  "after": "須菩提！我憶念在過去無數且更為無數的劫前，在如來、阿羅漢、正等覺者燃燈佛之前，且更為久遠之前，曾有八十四億那由他百千諸佛出世，我皆令他們歡喜，",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-74",
+  "before": "須菩提！我令那些佛世尊歡喜且未曾令其心生厭離之所作，與後五百歲時，受取、書寫、受持、憶持、讀誦、完全通達此經者相比，須菩提！前一福德聚對於此福德聚，連百分之一也不及。",
+  "after": "須菩提！我令那些佛世尊歡喜而未令其心生厭離所作的福德，與後五百歲時受取、書寫、受持、憶持、讀誦、完全通達此經者的福德相比，須菩提！前一福德聚對於此福德聚，連百分之一也不及。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-76",
+  "before": "須菩提！若彼時有善男子或善女人將受持盡其所有之福德聚，若我宣說彼等善男子或善女人的福德聚，眾生將會發狂，且心神錯亂。",
+  "after": "須菩提！若我宣說彼時那些將會受持其所有福德聚的善男子或善女人的福德聚，眾生將會發狂，且心神錯亂。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-77",
+  "before": "再者，須菩提，此教法之法門不可思議，",
+  "after": "復次，須菩提！這部教法的法門是不可思議的，",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-84",
+  "before": "須菩提！在此，正確趣入菩薩乘的人應該這樣想：『我要使一切眾生都在蘊無餘涅槃界中完全般涅槃。』",
+  "after": "須菩提！於此真實趣入菩薩乘者應作是念：『我當令一切眾生於蘊的無餘涅槃界中完全般涅槃。』",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-90",
+  "before": "你認為如來從如來燃燈佛處，有任何現等覺阿耨多羅三藐三菩提之正等菩提的法嗎？",
+  "after": "你認為有任何法，能讓如來從如來燃燈佛那裡現等覺無上正等菩提——阿耨多羅三藐三菩提嗎？",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-92",
+  "before": "世尊！如來從如來燃燈佛處，沒有任何現等覺阿耨多羅三藐三菩提之正等菩提的法。",
+  "after": "世尊！並沒有任何法，能讓如來從如來燃燈佛那裡現等覺無上正等菩提——阿耨多羅三藐三菩提。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-95",
+  "before": "如來從如來燃燈佛處，並無任何現等覺阿耨多羅三藐三菩提即正等菩提之法。",
+  "after": "並沒有任何法，能讓如來從如來燃燈佛那裡現等覺無上正等菩提——阿耨多羅三藐三菩提。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-97",
+  "before": "須菩提！因為如來並無任何現等覺阿耨多羅三藐三菩提即正等菩提之法，",
+  "after": "須菩提！既然並沒有任何法，能讓如來現等覺無上正等菩提——阿耨多羅三藐三菩提，",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-100",
+  "before": "復次，須菩提！若有任何人這樣說：『如來、阿羅漢、正等覺者，亦即是佛，現等覺了阿耨多羅三藐三菩提此無上正等菩提。』他就是在說不實之語。",
+  "after": "復次，須菩提！若有任何人作如是言：「如來、阿羅漢、正等覺者，現等覺阿耨多羅三藐三菩提之無上正等菩提而成佛。」彼即是妄語。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-102",
+  "before": "為什麼呢？須菩提！因為如來現等覺阿耨多羅三藐三菩提此無上正等菩提之法，是完全不存在的。",
+  "after": "何以故？須菩提！因為如來現等覺阿耨多羅三藐三菩提、無上正等菩提之法，完全無所有故。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-118",
+  "before": "須菩提！任何菩薩若如是信解：『諸法無我，諸法無我』，如來、阿羅漢、正等覺者，佛即稱之為菩薩摩訶薩。",
+  "after": "須菩提！若有菩薩作如是信解：「諸法無我，諸法無我」，如來、阿羅漢、正等覺者、佛，即稱彼為菩薩摩訶薩。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-7",
+  "before": "你認為如來有般若慧眼嗎？",
+  "after": "汝意云何？如來有般若慧眼否？",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-11",
+  "before": "你認為如來有教法眼嗎？",
+  "after": "你認為如來有法眼嗎？",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-13",
+  "before": "如來有教法眼。",
+  "after": "如來有法眼。",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-19",
+  "before": "如果恆河的沙有多少，恆河也剛好變成有那麼多條，如果世間的世界變成如同那些沙數一般多，你認為那些世間的世界多嗎？",
+  "after": "若恆河的沙有多少，恆河就有多少，若世界如同那些恆河的沙那麼多，你認為那些世界多嗎？",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-21",
+  "before": "那些世間的世界很多。",
+  "after": "那些世界很多。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-22",
+  "before": "世尊言：「須菩提！在那些世間的世界中所有的眾生，他們各種不同意向的心流，我皆完全了知。」",
+  "after": "世尊說：「須菩提，那些世界中有多少眾生，我完全了知他們種種不同意念的心流。」",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "10-18",
+  "before": "應以諸相具足見如來嗎？」",
+  "after": "你認為應以諸相具足見如來嗎？",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "10-25",
+  "before": "因為如來所宣說的法，沒有任何存在的緣故。",
+  "after": "因為如來所宣說的任何法，都不存在的緣故。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "10-26",
+  "before": "須菩提！如果有人這麼說：『如來宣說了教法』，須菩提！他就是以執取不存在與顛倒在誹謗我。",
+  "after": "須菩提！如果有人這麼說：『如來宣說了教法』，須菩提！他就是以對不存在之物的顛倒執取而誹謗我。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "10-55",
+  "before": "可以憑藉諸相具足來觀見如來嗎？",
+  "after": "你認為可以憑藉諸相具足來觀見如來嗎？",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "11-13",
+  "before": "世尊告言：「須菩提！固然應當攝受，但不應顛倒攝受，」",
+  "after": "世尊告言：「須菩提！固然應當攝受，但不應錯誤地攝受，」",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "11-17",
+  "before": "因此，稱之為如來、阿羅漢、正等覺者、佛。",
+  "after": "因此稱為如來、阿羅漢、正等覺者。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "13-3",
+  "before": "名為聖《能斷金剛般若波羅蜜》的大乘經圓滿。",
+  "after": "名為《能斷金剛般若波羅蜜》的聖大乘經圓滿。",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "0-1",
+  "before": "आर्य वज्रच्छेदिका प्रज्ञापारमिता यहाँ विद्यमान है।",
+  "after": "आर्य प्रज्ञापारमिता, वज्रच्छेदिका नामक, यहाँ विद्यमान है।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "1-2",
+  "before": "भगवान श्रावस्ती में अनाथपिण्डद के जेतवन आराम में एक हज़ार दो सौ पचास भिक्षुओं के महान भिक्षु संघ और अत्यंत बहुत से बोधिसत्त्व महासत्त्वों के साथ विहार कर रहे थे।",
+  "after": "भगवान श्रावस्ती में अनाथपिण्डद के जेतवन आराम में एक हज़ार दो सौ पचास भिक्षुओं के महान भिक्षु संघ और अत्यंत अनेक बोधिसत्त्व महासत्त्वों के साथ विहार कर रहे थे।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "2-3",
+  "before": "भगवान, तथागत, अर्हत्, सम्यक्सम्बुद्ध ने बोधिसत्त्व महासत्त्वों को जिस परम अनुग्रह से अनुगृहीत किया है, और तथागत ने बोधिसत्त्व महासत्त्वों को जिस परम परिन्दना से परिन्दित किया है, हे भगवान, यह आश्चर्य है! हे सुगत, यह आश्चर्य है!",
+  "after": "हे भगवान, तथागत अर्हत् सम्यक्सम्बुद्ध ने बोधिसत्त्व महासत्त्वों को जिस परम अनुग्रह से अनुगृहीत किया है, और तथागत ने बोधिसत्त्व महासत्त्वों को जिस परम सौंपने से सौंपा है, हे भगवान, यह आश्चर्य है! हे सुगत, यह आश्चर्य है!",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "3-5",
+  "before": "तथागत ने बोधिसत्त्व महासत्त्वों को परम परिन्दना से परिन्दित किया है।",
+  "after": "तथागत ने बोधिसत्त्व महासत्त्वों को परम सौंपने से सौंपा है।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "4-1",
+  "before": "सुभूति, यहाँ बोधिसत्त्वयान में सम्यक् रूप से प्रविष्ट हुए को इस प्रकार विचार करना चाहिए: 'मेरे द्वारा जितने भी सत्त्व सत्त्व-संग्रह द्वारा संगृहीत हैं—चाहे वे अंडज हों, या जरायुज हों, या संस्वेदज हों, या औपपादुक हों, रूपी हों या अरूपी हों, संज्ञी हों, या असंज्ञी हों, या नैवसंज्ञी-नासंज्ञी हों, सत्त्व-धातु में प्रज्ञप्ति द्वारा जितने भी सत्त्व के रूप में प्रज्ञप्त हैं, उन सभी को मैं स्कन्ध-शेष-रहित निर्वाणधातु में परिनिर्वाण प्राप्त कराऊँगा।'",
+  "after": "सुभूति, यहाँ बोधिसत्त्वयान में सम्यक् रूप से प्रविष्ट हुए को इस प्रकार विचार करना चाहिए: 'जितने भी सत्त्व सत्त्व-संग्रह द्वारा संगृहीत हैं—चाहे वे अंडज हों, या जरायुज हों, या संस्वेदज हों, या औपपादुक हों, रूपी हों या अरूपी हों, संज्ञी हों, या असंज्ञी हों, या नैवसंज्ञी-नासंज्ञी हों, सत्त्व-धातु में प्रज्ञप्ति द्वारा जितने भी सत्त्व के रूप में प्रज्ञप्त हैं, उन सभी को मैं स्कन्ध-शेष-रहित निर्वाणधातु में परिनिर्वाण प्राप्त कराऊँगा।'",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "5-1",
+  "before": "हे सुभूति, क्योंकि जो बोधिसत्त्व अप्रतिष्ठित होकर दान देता है, हे सुभूति, उसकी पुण्यराशि का प्रमाण लेना सुकर नहीं है।",
+  "after": "हे सुभूति, क्योंकि जो बोधिसत्त्व अप्रतिष्ठित होकर दान देता है, हे सुभूति, उसकी पुण्यराशि का माप करना सरल नहीं है।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "5-2",
+  "before": "हे सुभूति, तुम क्या सोचते हो? क्या पूर्व दिशा के आकाश का प्रमाण लेना सुकर है?",
+  "after": "हे सुभूति, तुम क्या सोचते हो? क्या पूर्व दिशा के आकाश का माप करना सरल है?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "5-4",
+  "before": "भगवान ने कहा— हे सुभूति, उसी प्रकार दक्षिण, पश्चिम, उत्तर, ऊर्ध्व, नीचे की दिशा, विदिशाओं, और दशदिशाओं के आकाश का प्रमाण लेना क्या सुकर है?",
+  "after": "भगवान ने कहा: हे सुभूति, उसी प्रकार दक्षिण, पश्चिम, उत्तर, ऊर्ध्व, नीचे की दिशा, विदिशाओं, और दशदिशाओं के आकाश का माप करना क्या सरल है?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "6-8",
+  "before": "इस प्रकार तथागत को लक्षण और निमित्त-रहित देखना चाहिए।",
+  "after": "इस प्रकार तथागत को लक्षण के रूप में तथा निमित्त-रहित देखना चाहिए।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "6-19",
+  "before": "ऐसा किसलिए है? हे सुभूति, क्योंकि उन बोधिसत्त्व महासत्त्वों में आत्मन् विषयक आत्म-संज्ञा प्रवृत्त नहीं होती,",
+  "after": "ऐसा किसलिए है? हे सुभूति, क्योंकि उन बोधिसत्त्व महासत्त्वों में आत्म-संज्ञा प्रवृत्त नहीं होती,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "6-20",
+  "before": "सत्त्व-संज्ञा नहीं होगी, जीव-संज्ञा नहीं होगी, और पुद्गल-संज्ञा में प्रवृत्त नहीं होंगे।",
+  "after": "सत्त्व-संज्ञा प्रवृत्त नहीं होती, जीव-संज्ञा प्रवृत्त नहीं होती, और पुद्गल-संज्ञा भी प्रवृत्त नहीं होती।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "6-49",
+  "before": "ऐसा किसलिए है? सुभूति, जिन्हें बुद्ध-गुण, बुद्ध-गुण कहा जाता है, तथागत ने कहा है कि वे बुद्ध-गुण नहीं हैं, इसीलिए;",
+  "after": "वह किसलिए? सुभूति, जिन्हें बुद्ध-गुण, बुद्ध-गुण कहा जाता है, क्योंकि तथागत ने उन बुद्ध-गुणों को अविद्यमान कहा है;",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-8",
+  "before": "वह किसलिए? भगवान, यदि स्रोतापन्न ऐसा सोचे कि आत्मन् ने स्रोतापत्ति-फल प्राप्त कर लिया है, तो वह उसका आत्म-ग्राह ही होगा।",
+  "after": "वह किसलिए? भगवान, यदि स्रोतापन्न ऐसा सोचे कि 'मैंने स्रोतापत्ति-फल प्राप्त कर लिया है', तो वह उसका आत्म-ग्राह ही होगा।",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-15",
+  "before": "भगवान, यदि सकृदागामी ऐसा सोचे कि 'आत्मन् ने सकृदागामी-फल प्राप्त कर लिया है', तो वह उसका आत्म-ग्राह ही होगा।",
+  "after": "भगवान, यदि सकृदागामी ऐसा सोचे कि 'मैंने सकृदागामी-फल प्राप्त कर लिया है', तो वह उसका आत्म-ग्राह ही होगा।",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-26",
+  "before": "भगवान, यदि अर्हत् ऐसा सोचे कि 'मैंने अर्हत्त्व प्राप्त कर लिया है', तो वह उसका आत्मन् के प्रति ग्राह, आत्म-ग्राह ही होगा।",
+  "after": "भगवान, यदि अर्हत् ऐसा सोचे कि 'मैंने अर्हत्त्व प्राप्त कर लिया है', तो वह उसका आत्म-ग्राह ही होगा।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-28",
+  "before": "भगवान, मुझे तथागत, अर्हत् और सम्यक्सम्बुद्ध बुद्ध ने क्लेश-रहित विहारी जनों में अग्र निर्दिष्ट किया है,",
+  "after": "भगवान, मुझे तथागत, अर्हत्, सम्यक्सम्बुद्ध ने क्लेश-रहित विहारी जनों में अग्र निर्दिष्ट किया है,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-29",
+  "before": "भगवान, यद्यपि मैं राग से रहित, वीतराग अर्हत् हूँ, तथापि भगवान, मैं ऐसा नहीं सोचता कि 'मैं अर्हत् हूँ'।",
+  "after": "भगवान, यद्यपि मैं वीतराग अर्हत् हूँ, तथापि भगवान, मैं ऐसा नहीं सोचता कि 'मैं अर्हत् हूँ'।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-33",
+  "before": "क्या तुम सोचते हो कि ऐसा कोई भी धर्म है जिसे तथागत ने तथागत, अर्हत्, सम्यक्सम्बुद्ध, बुद्ध दीपंकर से ग्रहण किया था?",
+  "after": "क्या तुम समझते हो कि ऐसा कोई भी धर्म है जिसे तथागत ने तथागत, अर्हत्, सम्यक्सम्बुद्ध दीपंकर से ग्रहण किया था?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-35",
+  "before": "ऐसा कोई भी धर्म बिल्कुल भी नहीं है जिसे तथागत ने तथागत, अर्हत्, सम्यक्सम्बुद्ध, बुद्ध दीपंकर से ग्रहण किया हो।",
+  "after": "ऐसा कोई भी धर्म बिल्कुल भी नहीं है जिसे तथागत ने तथागत, अर्हत्, सम्यक्सम्बुद्ध दीपंकर से ग्रहण किया हो।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-51",
+  "before": "सुभूति ने निवेदन किया: भगवान, यदि वे गंगा नदियाँ ही बहुत हैं, तो फिर उनकी बालुका का तो कहना ही क्या!",
+  "after": "सुभूति ने कहा: भगवान, यदि वे गंगा नदियाँ ही बहुत होंगी, तो उनकी बालुका के बारे में तो कहना ही क्या!",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-54",
+  "before": "यदि कोई पुरुष या स्त्री उन गंगा नदियों में जितनी बालुका है, उतने लोकधातुओं को सप्तरत्न से पूरी तरह भरकर,",
+  "after": "उन गंगा नदियों में जितनी बालुका है, यदि कोई पुरुष या स्त्री उतने ही लोकधातुओं को सप्तरत्नों से पूर्ण करके,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-72",
+  "before": "क्या तथागत द्वारा कहा गया ऐसा कोई भी धर्म है?",
+  "after": "क्या तुम समझते हो कि तथागत द्वारा कहा गया कोई भी धर्म है?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-75",
+  "before": "त्रिसाहस्र-महासाहस्र लोकधातु में जितने भी पृथ्वी-रजकण हैं, क्या वे बहुत हैं?",
+  "after": "क्या तुम समझते हो कि त्रिसाहस्र-महासाहस्र लोकधातु में जितने भी पृथ्वी-रजकण हैं, वे बहुत हैं?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-78",
+  "before": "वह किसलिए? भगवान, इसलिए क्योंकि जो पृथ्वी-रजकण हैं, उन्हें तथागत ने रजकण नहीं कहा है।",
+  "after": "वह किसलिए? भगवान, इसलिए क्योंकि जो पृथ्वी-रजकण हैं, उन्हें तथागत ने अ-रजकण कहा है।",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-18",
+  "before": "ऐसा किसलिए है? भगवान, जो आत्मन् की संज्ञा, सत्त्व की संज्ञा, जीव की संज्ञा, और पुद्गल की संज्ञा है, वही सभी संज्ञाओं से रहित होने के कारण है।",
+  "after": "वह किसलिए? भगवान, इसलिए क्योंकि जो आत्मन् की संज्ञा, सत्त्व की संज्ञा, जीव की संज्ञा और पुद्गल की संज्ञा है, वही सभी संज्ञाओं से रहित है।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-19",
+  "before": "वह किसलिए? क्योंकि बुद्ध भगवान सभी संज्ञाओं से रहित हैं।",
+  "after": "वह किसलिए? क्योंकि सभी बुद्ध भगवान सभी संज्ञाओं से रहित हैं।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-68",
+  "before": "और सुभूति, जो कुलपुत्र या कुलपुत्री इस प्रकार के सूत्र के इन शब्दों को ग्रहण करेंगे, धारण करेंगे, वाचन करेंगे, पढ़ेंगे, और पर्यवाप्त करेंगे, वे परिभूत होंगे,",
+  "after": "और सुभूति, जो कुलपुत्र या कुलपुत्री इस प्रकार के सूत्र के इन शब्दों को ग्रहण करेंगे, धारण करेंगे, स्मरण रखेंगे, पढ़ेंगे, और पर्यवाप्त करेंगे, वे प्रताड़ित होंगे,",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-69",
+  "before": "वे अत्यन्त परिभूत होंगे।",
+  "after": "वे अत्यन्त प्रताड़ित होंगे।",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-70",
+  "before": "ऐसा क्यों? सुभूति, उन सत्त्वों द्वारा पूर्वजन्म में किए गए वे अकुशल कर्म जिनसे दुर्गति में जन्म होता, इसी जन्म में परिभूत होने के कारण, पूर्वजन्म में किए गए वे अकुशल कर्म जिनसे दुर्गति में जन्म होता, शुद्ध हो जाएँगे,",
+  "after": "ऐसा क्यों? सुभूति, उन सत्त्वों द्वारा पूर्वजन्म में किए गए वे अकुशल कर्म जिनसे दुर्गति में जन्म होता, इसी जन्म में प्रताड़ित होने के कारण, पूर्वजन्म में किए गए वे अकुशल कर्म जिनसे दुर्गति में जन्म होता, शुद्ध हो जाएँगे,",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-82",
+  "before": "किस प्रकार चित्त का निग्रह करना चाहिए?",
+  "after": "किस प्रकार चित्त को भली-भाँति धारण करना चाहिए?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-93",
+  "before": "ऐसा निवेदन किए जाने पर, भगवान् ने आयुष्मान् सुभूति से यह कहा:",
+  "after": "ऐसा निवेदन किए जाने पर, भगवान ने आयुष्मान् सुभूति से यह कहा:",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "9-23",
+  "before": "ऐसा किसलिए? सुभूति, जिसे 'चित्त-धारा, चित्त-धारा' कहा जाता है, तथागत ने उसे धारा-रहित कहा है।",
+  "after": "ऐसा किसलिए? सुभूति, जिसे 'चित्त-धारा, चित्त-धारा' कहा जाता है, क्योंकि तथागत ने उसे धारा-रहित कहा है।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-24",
+  "before": "यदि कोई यह माने कि तथागत ऐसा विचार करते हैं कि 'मैंने धर्म का उपदेश दिया है', तो सुभूति, उसे इस प्रकार नहीं देखना चाहिए।",
+  "after": "यदि तुम ऐसा सोचो कि तथागत यह विचार करते हैं कि 'मैंने धर्म का उपदेश दिया है', तो सुभूति, तुम इसे इस प्रकार मत देखो।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-26",
+  "before": "सुभूति, यदि कोई ऐसा कहे कि 'तथागत ने धर्म का उपदेश दिया है', तो सुभूति, वह असत् और मिथ्या ग्रहण करने के कारण मेरी निन्दा करेगा।",
+  "after": "सुभूति, यदि कोई ऐसा कहे कि 'तथागत ने धर्म का उपदेश दिया है', तो सुभूति, वह असत् और मिथ्या ग्रहण करने के कारण मुझ पर मिथ्या आरोप लगाएगा।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-29",
+  "before": "भगवान, क्या भविष्य में ऐसे कोई सत्त्व होंगे, जो धर्म के इस प्रकार के उपदेश को सुनकर दृढ़ श्रद्धा रखेंगे?",
+  "after": "भगवान, क्या भविष्यत् काल में ऐसे कोई सत्त्व होंगे, जो इस प्रकार के धर्म-उपदेश को सुनकर दृढ़ श्रद्धा रखेंगे?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-49",
+  "before": "सुभूति, यदि तथागत द्वारा किसी भी सत्त्व को मुक्त किया जाता, तो वह ही तथागत द्वारा आत्मन् के रूप में आत्म-ग्राह होता।",
+  "after": "सुभूति, यदि तथागत द्वारा किसी भी सत्त्व को मुक्त किया जाता, तो वही तथागत का आत्म-ग्राह होता।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-51",
+  "before": "सुभूति, जिसे आत्मन् का आत्म-ग्राह कहा जाता है, तथागत ने उसे ग्राह-रहित ही कहा है, फिर भी बाल-पृथग्जन इसे ग्रहण करते हैं।",
+  "after": "सुभूति, जिसे आत्म-ग्राह कहा जाता है, तथागत ने उसे ग्राह-रहित ही कहा है, फिर भी बाल-पृथग्जन इसे ग्रहण करते हैं।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-55",
+  "before": "क्या लक्षणसम्पदा से तथागत को देखा जाना चाहिए?",
+  "after": "क्या तुम सोचते हो कि लक्षणसम्पदा से तथागत को देखा जाना चाहिए?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "12-14",
+  "before": "सुभूति, यदि कोई ऐसा कहे: तथागत ने आत्मन् विषयक आत्म-दृष्टि कही है,",
+  "after": "सुभूति, यदि कोई ऐसा कहे: तथागत ने आत्म-दृष्टि कही है,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "13-5",
+  "before": "इस वज्रच्छेदिका-हृदय के सार का एक बार जाप करने से यह नौ करोड़ बार वज्रच्छेदिका का पाठ करने के समान हो जाता है।",
+  "after": "वज्रच्छेदिका के इस सार का एक बार जाप करने से यह वज्रच्छेदिका का नौ करोड़ बार पाठ करने के समान हो जाएगा।",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-1",
+  "before": "Subhuti, someone who has correctly entered the awakening hero's vehicle should think like this: 'I must help all kinds of living beings. This includes those born from eggs, or born from a womb. It includes those born from warmth and moisture, or miraculously born. It includes those having a shape, and those without form. It includes those having ideas, and those without ideas. It even includes those neither with ideas nor without ideas. However many exist in the realm of living beings, I will lead them all to complete freedom from sorrow in the expanse of freedom from sorrow with no group left over.'",
+  "after": "Subhuti, someone who has correctly entered the awakening hero's vehicle should think like this. 'I must help all kinds of living beings. This includes those born from eggs, and those born from a womb. It includes those born from warmth and moisture, and those miraculously born. It includes those having a shape, and those without form. It includes those having ideas, and those without ideas. It even includes those neither with ideas nor without ideas. However many are called living beings in the realm of living beings, I will lead them all to complete freedom from sorrow in the expanse of freedom from sorrow with no group left over.'",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-65",
+  "before": "Also, Subhuti, any place where this sacred text is taught will deserve respect. It will be honored by the world with its gods, humans, and jealous gods.",
+  "after": "Also, Subhuti, think of any place where this sacred text is taught. That place will become worthy of respect. The world with its gods, people, and jealous gods will honor it. Every human, god, and jealous god will respect it.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-98",
+  "before": "That is why the Thus-Gone One Dipankara foretold this to me: \"Brahmin boy, in the future you will become the Thus-Gone One, the worthy one, the complete Buddha named Shakyamuni.\"",
+  "after": "That is why the Thus-Gone One, Dipankara, foretold this to me. He said, 'Brahmin boy, in the future you will become a Thus-Gone One. You will be a worthy one, a complete Buddha named Shakyamuni.'",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "12-24",
+  "before": "Furthermore, Subhuti, think of a great awakening hero who fills countless world realms with the seven precious things and gives them all away as a gift. Now think of a son of a good family or a daughter of a good family. They might write down, learn, keep, read, understand, or fully teach others even just a four-line verse from this perfection, perfect wisdom. This person will create much more stored-up goodness. It will be too great to count or measure.",
+  "after": "Also, Subhuti, think of a great awakening hero, a great hero. They might fill countless world realms with the seven precious things and give them as a gift. Now think of a son of a good family or a daughter of a good family. They might write down, take up, keep, read, master, or fully teach to others even just a four-line verse from this perfect wisdom, this perfection. They will make much more stored-up goodness from that. It will be countless and cannot be measured.",
+  "before_verdict": "fail",
+  "after_verdict": "fail"
+ },
+ {
+  "track": "zh-children",
+  "id": "6-46",
+  "before": "世尊說：「須菩提，如果有好人家的兒子或女兒，把七種珍寶裝滿十億個世界，當作禮物送給別人。不論是兒子還是好人家的女兒，送的禮物都非常大。可是，如果有人從這教導的一課裡，哪怕只記住一首四句的短詩，把這段詩句好好解釋給別人聽。這個人就會得到一大堆福氣，多得數也數不清，比送珍寶的人還要多！」",
+  "after": "世尊說：「須菩提，如果有好人家的兒子或女兒，不管是好人家的兒子還是好人家的女兒，用七種珍寶裝滿十億個世界，把它們當作禮物送給人。另一方面，如果有人從這教導的一課裡，哪怕只記住一首四句的短詩，把這詩句為別人解說，清楚地教導別人。那麼，這個人會因此產生無法計算、無窮無盡的一大堆福氣，比前面那個人還要多。」",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-children",
+  "id": "7-8",
+  "before": "為什麼呢？世尊，如果進入聖流的人心想：『我得到了進入聖流的成果。』把修行成果抓著不放，這本身就是抓著「我」不放了。",
+  "after": "為什麼呢？世尊，如果一個進入聖流的人心裡想：「我得到了進入聖流的成果。」把這當作自己的修行成果，這就表示他抓著「我」不放，也就是對自己抓著不放。",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-children",
+  "id": "7-72",
+  "before": "你認為如來有說過任何事物嗎？」",
+  "after": "你認為有任何如來所說的事物存在嗎？」",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-children",
+  "id": "8-72",
+  "before": "須菩提！我記得在過去無數個漫長歲月之前，也就是在如來、值得敬重的修行者、圓滿的佛陀燃燈佛的更早以前，那時候出現過非常多位佛陀。我都讓他們很開心，",
+  "after": "須菩提！我記得在很久很久、數也數不清的漫長歲月之前，在如來、值得敬重的修行者、圓滿的佛陀——燃燈佛出現以前，更早更早的時候，出現過八十四億那由他百千位佛陀。我都讓他們很開心，",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-children",
+  "id": "6-31",
+  "before": "क्या तुम सोचते हो कि ऐसी कोई भी चीज़ है, जिसे पाकर इसी तरह गए हुए सर्वोच्च पूर्ण जागृति में पूरी तरह जागे हुए हैं?",
+  "after": "क्या तुम सोचते हो कि ऐसी कोई भी चीज़ है, जिसे इसी तरह गए हुए ने सर्वोच्च पूर्ण जागृति के रूप में पूरी तरह जागे हुए जाना है?",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-children",
+  "id": "6-43",
+  "before": "वह अच्छे परिवार का बेटा या अच्छे परिवार की बेटी इससे बहुत बड़ा जमा हुई भलाई का ढेर बनाएगा।",
+  "after": "वह अच्छे परिवार का बेटा या अच्छे परिवार की बेटी ऐसा करने से जमा हुई भलाई का बहुत बड़ा ढेर बनाएगा।",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-children",
+  "id": "10-42",
+  "before": "सभी अच्छी चीज़ों के द्वारा उसे पूरी तरह जागे हुए पाया जाता है।",
+  "after": "सभी अच्छी चीज़ों के द्वारा उसे पूरी तरह जागे हुए जाना जाता है।",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-children",
+  "id": "11-10",
+  "before": "और सुभूति, अगर कोई अच्छे परिवार का बेटा या अच्छे परिवार की बेटी गंगा नदी की रेत के कणों जितने दुनिया-क्षेत्रों को सात कीमती चीज़ों से भरकर उपहार में दे दे। उसकी तुलना में, अगर कोई जागृति-वीर इस शिक्षा के पाठ के बिना अपने आप के और न जन्मा हुआ होने में धैर्य पा ले, तो वह उससे बहुत ज़्यादा, अनगिनत और माप से परे जमा हुई भलाई का ढेर बनाता है।",
+  "after": "और सुभूति, मान लो कोई अच्छे परिवार का बेटा या अच्छे परिवार की बेटी गंगा नदी की रेत के कणों जितने दुनिया-क्षेत्रों को सात कीमती चीज़ों से भरकर उपहार में दे दे। उसकी तुलना में, जो जागृति-वीर इस शिक्षा के पाठ के 'बिना अपने आप के' और 'न जन्मा हुआ' होने पर धैर्य पा लेता है, वह उससे बहुत ज़्यादा, अनगिनत और माप से परे जमा हुई भलाई का ढेर पैदा करता है।",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-children",
+  "id": "12-1",
+  "before": "और सुभूति, अगर कोई अच्छे परिवार का बेटा या अच्छे परिवार की बेटी, अरब दुनियाओं वाले ब्रह्माण्ड के इस दुनिया-क्षेत्र की सारी मिट्टी को पीस दे। उदाहरण के लिए, वह उसे एक नन्हा कण जितना बारीक करके नन्हे कणों का गुच्छा बना दे, तो सुभूति, तुम क्या सोचते हो? क्या वह नन्हे कणों का गुच्छा बहुत बड़ा होगा?",
+  "after": "और सुभूति, अगर कोई अच्छे परिवार का बेटा या अच्छे परिवार की बेटी, पूरे अरब दुनियाओं वाले ब्रह्माण्ड के दुनिया-क्षेत्र में जितनी भी मिट्टी है, उस सबको पीस दे। उदाहरण के लिए, वह उसे एक नन्हे कण जितना बारीक करके नन्हे कणों का गुच्छा बना दे, तो सुभूति, तुम क्या सोचते हो? क्या वह नन्हे कणों का गुच्छा बहुत बड़ा होगा?",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ }
+]
