@@ -1,0 +1,4423 @@
+{
+ "1-1": {
+  "dm": [
+   "time"
+  ],
+  "gm": [
+   "time"
+  ]
+ },
+ "1-2": {
+  "dm": [
+   "hundred",
+   "thousand",
+   "great"
+  ],
+  "gm": [
+   "many",
+   "hundred",
+   "dwelling",
+   "thousand"
+  ]
+ },
+ "1-3": {
+  "dm": [
+   "entered",
+   "great"
+  ],
+  "gm": [
+   "time",
+   "great"
+  ]
+ },
+ "1-4": {
+  "dm": [
+   "entered",
+   "having",
+   "regarding",
+   "great"
+  ],
+  "gm": [
+   "having",
+   "great"
+  ]
+ },
+ "1-5": {
+  "dm": [
+   "body",
+   "having"
+  ],
+  "gm": [
+   "body",
+   "having",
+   "away"
+  ]
+ },
+ "1-6": {
+  "dm": [
+   "many",
+   "having"
+  ],
+  "gm": [
+   "many"
+  ]
+ },
+ "1-8": {
+  "dm": [
+   "time"
+  ],
+  "gm": [
+   "time"
+  ]
+ },
+ "2-2": {
+  "dm": [
+   "way",
+   "addressed",
+   "addressed the blessed"
+  ],
+  "gm": [
+   "spoke",
+   "words"
+  ]
+ },
+ "2-3": {
+  "dm": [
+   "supreme",
+   "wonderful"
+  ],
+  "gm": [
+   "supreme",
+   "wonderful"
+  ]
+ },
+ "2-4": {
+  "dm": [
+   "correctly",
+   "entered",
+   "abide",
+   "correctly entered"
+  ],
+  "gm": [
+   "correctly",
+   "entered",
+   "abide"
+  ]
+ },
+ "2-5": {
+  "dm": [
+   "practice"
+  ]
+ },
+ "2-7": {
+  "dm": [
+   "spoken",
+   "words"
+  ],
+  "gm": [
+   "spoken",
+   "words"
+  ]
+ },
+ "3-1": {
+  "dm": [
+   "words",
+   "spoke"
+  ],
+  "gm": [
+   "spoke",
+   "words"
+  ]
+ },
+ "3-6": {
+  "dm": [
+   "therefore",
+   "take"
+  ],
+  "gm": [
+   "therefore",
+   "mind"
+  ]
+ },
+ "3-7": {
+  "dm": [
+   "entered",
+   "practice",
+   "dwell"
+  ],
+  "gm": [
+   "correctly",
+   "entered",
+   "abide",
+   "explain"
+  ]
+ },
+ "3-8": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied",
+   "having"
+  ]
+ },
+ "3-9": {
+  "dm": [
+   "words",
+   "spoke"
+  ],
+  "gm": [
+   "spoke",
+   "words"
+  ]
+ },
+ "4-1": {
+  "dm": [
+   "think",
+   "way",
+   "entered",
+   "many"
+  ],
+  "gm": [
+   "correctly",
+   "many",
+   "entered"
+  ]
+ },
+ "4-2": {
+  "dm": [
+   "beings",
+   "immeasurable",
+   "led"
+  ],
+  "gm": [
+   "whatsoever",
+   "immeasurable"
+  ]
+ },
+ "4-3": {
+  "dm": [
+   "why",
+   "perception",
+   "called",
+   "because",
+   "hold"
+  ],
+  "gm": [
+   "why",
+   "called",
+   "because"
+  ]
+ },
+ "4-4": {
+  "dm": [
+   "why",
+   "called"
+  ],
+  "gm": [
+   "why",
+   "called",
+   "because",
+   "holds"
+  ]
+ },
+ "4-5": {
+  "dm": [
+   "furthermore",
+   "practice"
+  ],
+  "gm": [
+   "moreover",
+   "give"
+  ]
+ },
+ "4-6": {
+  "dm": [
+   "practice",
+   "anything"
+  ],
+  "gm": [
+   "whatsoever",
+   "give",
+   "anything"
+  ]
+ },
+ "4-7": {
+  "dm": [
+   "practice"
+  ],
+  "gm": [
+   "give"
+  ]
+ },
+ "4-8": {
+  "dm": [
+   "practice"
+  ],
+  "gm": [
+   "give"
+  ]
+ },
+ "4-9": {
+  "dm": [
+   "way",
+   "practice"
+  ],
+  "gm": [
+   "give",
+   "way"
+  ]
+ },
+ "4-10": {
+  "dm": [
+   "why"
+  ],
+  "gm": [
+   "why"
+  ]
+ },
+ "5-1": {
+  "dm": [
+   "practices",
+   "easy",
+   "measure"
+  ],
+  "gm": [
+   "because",
+   "easy"
+  ]
+ },
+ "5-2": {
+  "dm": [
+   "think",
+   "extent",
+   "easy",
+   "measure"
+  ],
+  "gm": [
+   "think",
+   "easy"
+  ]
+ },
+ "5-3": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied"
+  ]
+ },
+ "5-4": {
+  "dm": [
+   "said",
+   "extent",
+   "easy",
+   "measure"
+  ],
+  "gm": [
+   "said",
+   "easy"
+  ]
+ },
+ "5-5": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied"
+  ]
+ },
+ "5-6": {
+  "dm": [
+   "way",
+   "anything",
+   "said",
+   "practices",
+   "easy",
+   "measure"
+  ],
+  "gm": [
+   "whatsoever",
+   "because",
+   "said",
+   "anything",
+   "easy"
+  ]
+ },
+ "6-0": {
+  "dm": [
+   "generosity",
+   "practices"
+  ],
+  "gm": [
+   "teaching"
+  ]
+ },
+ "6-1": {
+  "dm": [
+   "think",
+   "means",
+   "seen"
+  ],
+  "gm": [
+   "think",
+   "seen"
+  ]
+ },
+ "6-2": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied"
+  ]
+ },
+ "6-3": {
+  "dm": [
+   "means",
+   "seen"
+  ],
+  "gm": [
+   "seen"
+  ]
+ },
+ "6-4": {
+  "dm": [
+   "spoken",
+   "why",
+   "because"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "because",
+   "itself"
+  ]
+ },
+ "6-5": {
+  "dm": [
+   "spoken",
+   "way",
+   "addressed"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "6-6": {
+  "dm": [
+   "extent"
+  ]
+ },
+ "6-7": {
+  "dm": [
+   "extent"
+  ]
+ },
+ "6-8": {
+  "dm": [
+   "without",
+   "view"
+  ],
+  "gm": [
+   "therefore",
+   "seen"
+  ]
+ },
+ "6-9": {
+  "dm": [
+   "spoken",
+   "way",
+   "addressed",
+   "addressed the blessed"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "6-10": {
+  "dm": [
+   "words",
+   "form",
+   "completely",
+   "arise",
+   "future",
+   "explanations",
+   "perish"
+  ],
+  "gm": [
+   "spoken",
+   "produce",
+   "time",
+   "words",
+   "future",
+   "destroyed"
+  ]
+ },
+ "6-11": {
+  "dm": [
+   "words",
+   "form",
+   "like",
+   "said",
+   "say",
+   "completely",
+   "arise",
+   "future",
+   "explanations",
+   "perish"
+  ],
+  "gm": [
+   "spoken",
+   "said",
+   "produce",
+   "like",
+   "speak",
+   "time",
+   "words",
+   "future",
+   "destroyed"
+  ]
+ },
+ "6-12": {
+  "dm": [
+   "endowed",
+   "completely",
+   "arise",
+   "future",
+   "perish"
+  ],
+  "gm": [
+   "possess",
+   "time",
+   "future",
+   "destroyed"
+  ]
+ },
+ "6-15": {
+  "dm": [
+   "many",
+   "arise"
+  ],
+  "gm": [
+   "many"
+  ]
+ },
+ "6-16": {
+  "dm": [
+   "regarding",
+   "explanations"
+  ],
+  "gm": [
+   "teaching"
+  ]
+ },
+ "6-18": {
+  "dm": [
+   "generate",
+   "immeasurable"
+  ],
+  "gm": [
+   "completely",
+   "immeasurable",
+   "produce"
+  ]
+ },
+ "6-19": {
+  "dm": [
+   "why",
+   "because",
+   "engage"
+  ],
+  "gm": [
+   "why",
+   "because",
+   "engage"
+  ]
+ },
+ "6-20": {
+  "dm": [
+   "engage"
+  ],
+  "gm": [
+   "engage"
+  ]
+ },
+ "6-21": {
+  "dm": [
+   "engage"
+  ],
+  "gm": [
+   "engage"
+  ]
+ },
+ "6-22": {
+  "dm": [
+   "engage"
+  ],
+  "gm": [
+   "engage"
+  ]
+ },
+ "6-23": {
+  "dm": [
+   "why",
+   "engage",
+   "become"
+  ],
+  "gm": [
+   "why",
+   "because",
+   "engage"
+  ]
+ },
+ "6-24": {
+  "dm": [
+   "become"
+  ]
+ },
+ "6-25": {
+  "dm": [
+   "engage",
+   "become"
+  ],
+  "gm": [
+   "engage"
+  ]
+ },
+ "6-26": {
+  "dm": [
+   "become"
+  ]
+ },
+ "6-27": {
+  "dm": [
+   "why",
+   "grasp"
+  ],
+  "gm": [
+   "why",
+   "because",
+   "grasp"
+  ]
+ },
+ "6-28": {
+  "dm": [
+   "therefore",
+   "mind",
+   "like",
+   "said",
+   "understand"
+  ],
+  "gm": [
+   "therefore",
+   "spoken",
+   "mind",
+   "like",
+   "know"
+  ]
+ },
+ "6-29": {
+  "dm": [
+   "furthermore",
+   "words",
+   "spoke"
+  ],
+  "gm": [
+   "spoke",
+   "furthermore"
+  ]
+ },
+ "6-30": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "6-31": {
+  "dm": [
+   "think",
+   "whatsoever"
+  ],
+  "gm": [
+   "think",
+   "whatsoever"
+  ]
+ },
+ "6-32": {
+  "dm": [
+   "think",
+   "whatsoever",
+   "taught"
+  ],
+  "gm": [
+   "taught",
+   "think",
+   "whatsoever"
+  ]
+ },
+ "6-33": {
+  "dm": [
+   "spoken",
+   "way",
+   "addressed",
+   "words",
+   "addressed the blessed"
+  ],
+  "gm": [
+   "spoken",
+   "said"
+  ]
+ },
+ "6-34": {
+  "dm": [
+   "whatsoever",
+   "said",
+   "understand"
+  ],
+  "gm": [
+   "whatsoever",
+   "spoken",
+   "understand"
+  ]
+ },
+ "6-35": {
+  "dm": [
+   "whatsoever",
+   "taught"
+  ],
+  "gm": [
+   "taught",
+   "whatsoever"
+  ]
+ },
+ "6-36": {
+  "dm": [
+   "why",
+   "taught",
+   "because",
+   "grasped"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "whatsoever",
+   "cannot"
+  ]
+ },
+ "6-37": {
+  "dm": [
+   "because"
+  ],
+  "gm": [
+   "because"
+  ]
+ },
+ "6-38": {
+  "dm": [
+   "why",
+   "because"
+  ],
+  "gm": [
+   "why",
+   "because"
+  ]
+ },
+ "6-39": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "spoke"
+  ]
+ },
+ "6-40": {
+  "dm": [
+   "generate",
+   "much",
+   "fill",
+   "basis",
+   "give"
+  ],
+  "gm": [
+   "think",
+   "give",
+   "basis",
+   "generate",
+   "fill"
+  ]
+ },
+ "6-41": {
+  "dm": [
+   "replied",
+   "much"
+  ],
+  "gm": [
+   "replied",
+   "much"
+  ]
+ },
+ "6-42": {
+  "dm": [
+   "much"
+  ],
+  "gm": [
+   "much"
+  ]
+ },
+ "6-43": {
+  "dm": [
+   "generate",
+   "basis",
+   "great"
+  ],
+  "gm": [
+   "basis",
+   "generate",
+   "great"
+  ]
+ },
+ "6-44": {
+  "dm": [
+   "why",
+   "because"
+  ],
+  "gm": [
+   "why",
+   "because"
+  ]
+ },
+ "6-45": {
+  "dm": [
+   "therefore",
+   "speaks"
+  ],
+  "gm": [
+   "therefore",
+   "spoke"
+  ]
+ },
+ "6-46": {
+  "dm": [
+   "generate",
+   "correctly",
+   "immeasurable",
+   "take",
+   "incalculable",
+   "fill",
+   "said",
+   "others",
+   "basis",
+   "give"
+  ],
+  "gm": [
+   "perfectly",
+   "immeasurable",
+   "spoke",
+   "basis",
+   "much",
+   "generate",
+   "others",
+   "takes",
+   "whoever",
+   "giving"
+  ]
+ },
+ "6-47": {
+  "dm": [
+   "why"
+  ],
+  "gm": [
+   "why"
+  ]
+ },
+ "6-48": {
+  "dm": [
+   "because",
+   "born"
+  ],
+  "gm": [
+   "because",
+   "born"
+  ]
+ },
+ "6-49": {
+  "dm": [
+   "spoken",
+   "why",
+   "called",
+   "devoid"
+  ],
+  "gm": [
+   "why",
+   "called",
+   "because",
+   "spoke"
+  ]
+ },
+ "6-50": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "7-1": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "7-2": {
+  "dm": [
+   "think",
+   "attained"
+  ],
+  "gm": [
+   "think",
+   "obtained"
+  ]
+ },
+ "7-3": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied"
+  ]
+ },
+ "7-4": {
+  "dm": [
+   "why",
+   "because",
+   "entered",
+   "anything"
+  ],
+  "gm": [
+   "why",
+   "because",
+   "entered",
+   "anything"
+  ]
+ },
+ "7-5": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "7-6": {
+  "dm": [
+   "entered"
+  ],
+  "gm": [
+   "entered"
+  ]
+ },
+ "7-7": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "7-8": {
+  "dm": [
+   "why",
+   "think",
+   "attained"
+  ],
+  "gm": [
+   "why",
+   "think",
+   "obtained"
+  ]
+ },
+ "7-10": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "7-11": {
+  "dm": [
+   "think",
+   "attained"
+  ],
+  "gm": [
+   "think",
+   "obtained"
+  ]
+ },
+ "7-12": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied"
+  ]
+ },
+ "7-13": {
+  "dm": [
+   "why",
+   "whatsoever",
+   "because",
+   "entered",
+   "state"
+  ],
+  "gm": [
+   "why",
+   "whatsoever",
+   "because",
+   "entered"
+  ]
+ },
+ "7-14": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "7-15": {
+  "dm": [
+   "think",
+   "attained"
+  ],
+  "gm": [
+   "think",
+   "obtained"
+  ]
+ },
+ "7-17": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "7-18": {
+  "dm": [
+   "think",
+   "attained"
+  ],
+  "gm": [
+   "think",
+   "obtained"
+  ]
+ },
+ "7-19": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied"
+  ]
+ },
+ "7-20": {
+  "dm": [
+   "why",
+   "whatsoever",
+   "because",
+   "entered",
+   "state"
+  ],
+  "gm": [
+   "why",
+   "whatsoever",
+   "because",
+   "entered"
+  ]
+ },
+ "7-21": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "7-22": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "7-23": {
+  "dm": [
+   "think",
+   "attained"
+  ],
+  "gm": [
+   "think",
+   "obtained"
+  ]
+ },
+ "7-24": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied"
+  ]
+ },
+ "7-25": {
+  "dm": [
+   "why",
+   "called",
+   "whatsoever",
+   "because"
+  ],
+  "gm": [
+   "why",
+   "whatsoever",
+   "called",
+   "because"
+  ]
+ },
+ "7-26": {
+  "dm": [
+   "think",
+   "attained"
+  ],
+  "gm": [
+   "think",
+   "obtained"
+  ]
+ },
+ "7-29": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "7-30": {
+  "dm": [
+   "think",
+   "attained"
+  ],
+  "gm": [
+   "think",
+   "obtained"
+  ]
+ },
+ "7-31": {
+  "dm": [
+   "whatsoever",
+   "because",
+   "anything",
+   "abide"
+  ],
+  "gm": [
+   "called",
+   "because"
+  ]
+ },
+ "7-32": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "7-33": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "7-34": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "7-35": {
+  "dm": [
+   "whatsoever"
+  ]
+ },
+ "7-36": {
+  "dm": [
+   "said",
+   "say"
+  ],
+  "gm": [
+   "said",
+   "falsely"
+  ]
+ },
+ "7-37": {
+  "dm": [
+   "spoken",
+   "why",
+   "because",
+   "exist"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "called",
+   "because"
+  ]
+ },
+ "7-38": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "7-39": {
+  "dm": [
+   "because",
+   "way",
+   "abide"
+  ],
+  "gm": [
+   "therefore",
+   "without",
+   "dwelling",
+   "way"
+  ]
+ },
+ "7-40": {
+  "dm": [
+   "without",
+   "abiding",
+   "anything",
+   "mind without abiding"
+  ],
+  "gm": [
+   "whatsoever",
+   "without",
+   "dwelling",
+   "anything"
+  ]
+ },
+ "7-41": {
+  "dm": [
+   "without",
+   "abiding",
+   "mind without abiding"
+  ],
+  "gm": [
+   "without",
+   "dwelling"
+  ]
+ },
+ "7-42": {
+  "dm": [
+   "without",
+   "abiding",
+   "mind without abiding"
+  ],
+  "gm": [
+   "without",
+   "dwelling"
+  ]
+ },
+ "7-43": {
+  "dm": [
+   "think",
+   "person",
+   "become",
+   "like",
+   "say"
+  ],
+  "gm": [
+   "think",
+   "person",
+   "like",
+   "large"
+  ]
+ },
+ "7-44": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied",
+   "large"
+  ]
+ },
+ "7-46": {
+  "dm": [
+   "why",
+   "without",
+   "taught",
+   "because"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "because"
+  ]
+ },
+ "7-47": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore",
+   "large"
+  ]
+ },
+ "7-48": {
+  "dm": [
+   "therefore",
+   "called",
+   "without",
+   "because"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "7-49": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "7-50": {
+  "dm": [
+   "many",
+   "sand",
+   "grains",
+   "numerous",
+   "rivers",
+   "grains of sand"
+  ],
+  "gm": [
+   "think",
+   "many",
+   "sand",
+   "grains",
+   "grains of sand"
+  ]
+ },
+ "7-51": {
+  "dm": [
+   "replied",
+   "sand",
+   "grains",
+   "numerous",
+   "grains of sand"
+  ],
+  "gm": [
+   "many",
+   "replied",
+   "sand",
+   "speak",
+   "grains",
+   "grains of sand"
+  ]
+ },
+ "7-52": {
+  "dm": [
+   "said",
+   "faith"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "7-53": {
+  "dm": [
+   "understand"
+  ],
+  "gm": [
+   "understand"
+  ]
+ },
+ "7-54": {
+  "dm": [
+   "many",
+   "sand",
+   "grains",
+   "fill",
+   "woman",
+   "man",
+   "grains of sand"
+  ],
+  "gm": [
+   "completely",
+   "many",
+   "sand",
+   "grains",
+   "man",
+   "woman",
+   "fill",
+   "grains of sand"
+  ]
+ },
+ "7-55": {
+  "dm": [
+   "think",
+   "generate",
+   "much",
+   "woman",
+   "man",
+   "basis"
+  ],
+  "gm": [
+   "think",
+   "give",
+   "produce",
+   "man",
+   "basis",
+   "much",
+   "woman"
+  ]
+ },
+ "7-56": {
+  "dm": [
+   "replied",
+   "much"
+  ],
+  "gm": [
+   "replied",
+   "much"
+  ]
+ },
+ "7-57": {
+  "dm": [
+   "much"
+  ],
+  "gm": [
+   "much"
+  ]
+ },
+ "7-58": {
+  "dm": [
+   "generate",
+   "much",
+   "woman",
+   "man",
+   "basis"
+  ],
+  "gm": [
+   "produce",
+   "man",
+   "basis",
+   "much",
+   "woman"
+  ]
+ },
+ "7-59": {
+  "dm": [
+   "many",
+   "gift",
+   "fill",
+   "someone",
+   "said",
+   "give"
+  ],
+  "gm": [
+   "completely",
+   "many",
+   "said",
+   "someone",
+   "fill"
+  ]
+ },
+ "7-60": {
+  "dm": [
+   "person",
+   "generate",
+   "correctly",
+   "teach",
+   "take",
+   "much",
+   "someone",
+   "others",
+   "basis",
+   "countless"
+  ],
+  "gm": [
+   "correctly",
+   "produce",
+   "someone",
+   "basis",
+   "much",
+   "teach",
+   "others",
+   "explain",
+   "giving"
+  ]
+ },
+ "7-61": {
+  "dm": [
+   "without",
+   "furthermore",
+   "taught",
+   "supreme",
+   "endowed",
+   "place",
+   "anyone"
+  ],
+  "gm": [
+   "taught",
+   "moreover",
+   "endowed",
+   "speak",
+   "reads",
+   "wonder",
+   "holds",
+   "place",
+   "takes",
+   "whoever",
+   "writes"
+  ]
+ },
+ "7-62": {
+  "dm": [
+   "venerable",
+   "like",
+   "someone",
+   "place"
+  ],
+  "gm": [
+   "like",
+   "someone",
+   "place"
+  ]
+ },
+ "7-63": {
+  "dm": [
+   "spoken",
+   "addressed",
+   "words",
+   "addressed the blessed"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "7-66": {
+  "dm": [
+   "spoken",
+   "way",
+   "addressed"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "7-68": {
+  "dm": [
+   "way",
+   "hold"
+  ],
+  "gm": [
+   "hold"
+  ]
+ },
+ "7-69": {
+  "dm": [
+   "spoken",
+   "why",
+   "because",
+   "itself"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "because"
+  ]
+ },
+ "7-70": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "7-71": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "7-72": {
+  "dm": [
+   "spoken",
+   "think",
+   "whatsoever"
+  ],
+  "gm": [
+   "taught",
+   "think",
+   "whatsoever"
+  ]
+ },
+ "7-73": {
+  "dm": [
+   "spoken",
+   "replied",
+   "whatsoever"
+  ],
+  "gm": [
+   "taught",
+   "whatsoever",
+   "said"
+  ]
+ },
+ "7-74": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "7-75": {
+  "dm": [
+   "think",
+   "many"
+  ],
+  "gm": [
+   "think",
+   "many"
+  ]
+ },
+ "7-76": {
+  "dm": [
+   "replied",
+   "many"
+  ],
+  "gm": [
+   "many",
+   "said"
+  ]
+ },
+ "7-77": {
+  "dm": [
+   "many"
+  ],
+  "gm": [
+   "many"
+  ]
+ },
+ "7-78": {
+  "dm": [
+   "why",
+   "taught",
+   "because"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "because",
+   "whatever"
+  ]
+ },
+ "7-79": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "7-80": {
+  "dm": [
+   "taught",
+   "because"
+  ],
+  "gm": [
+   "taught",
+   "because",
+   "whatever"
+  ]
+ },
+ "7-81": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "8-1": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "8-2": {
+  "dm": [
+   "means"
+  ],
+  "gm": [
+   "seen"
+  ]
+ },
+ "8-3": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "8-4": {
+  "dm": [
+   "spoken",
+   "why",
+   "without",
+   "because"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "because",
+   "whatever"
+  ]
+ },
+ "8-5": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "8-6": {
+  "dm": [
+   "person",
+   "generate",
+   "immeasurable",
+   "many",
+   "sand",
+   "teach",
+   "grains",
+   "take",
+   "incalculable",
+   "someone",
+   "woman",
+   "said",
+   "others",
+   "man",
+   "grains of sand"
+  ],
+  "gm": [
+   "immeasurable",
+   "said",
+   "give",
+   "sand",
+   "grains",
+   "man",
+   "someone",
+   "basis",
+   "generate",
+   "teach",
+   "woman",
+   "others",
+   "away",
+   "bodies",
+   "grains of sand"
+  ]
+ },
+ "8-8": {
+  "dm": [
+   "way",
+   "addressed",
+   "having",
+   "addressed the blessed"
+  ],
+  "gm": [
+   "said",
+   "having",
+   "away"
+  ]
+ },
+ "8-9": {
+  "dm": [
+   "spoken"
+  ],
+  "gm": [
+   "taught",
+   "wonderful"
+  ]
+ },
+ "8-10": {
+  "dm": [
+   "eye",
+   "attained"
+  ]
+ },
+ "8-11": {
+  "dm": [
+   "why",
+   "generate",
+   "supreme",
+   "endowed",
+   "regarding"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "endowed",
+   "supreme",
+   "generate",
+   "wonder"
+  ]
+ },
+ "8-12": {
+  "dm": [
+   "why",
+   "because"
+  ],
+  "gm": [
+   "why",
+   "because",
+   "whatever",
+   "itself"
+  ]
+ },
+ "8-13": {
+  "dm": [
+   "spoken",
+   "therefore"
+  ],
+  "gm": [
+   "taught",
+   "therefore"
+  ]
+ },
+ "8-14": {
+  "dm": [
+   "faith"
+  ],
+  "gm": [
+   "taught",
+   "wonderful"
+  ]
+ },
+ "8-15": {
+  "dm": [
+   "fully",
+   "supreme",
+   "endowed",
+   "take",
+   "read",
+   "master",
+   "times",
+   "final",
+   "future"
+  ],
+  "gm": [
+   "completely",
+   "endowed",
+   "supreme",
+   "time",
+   "hold",
+   "read",
+   "future",
+   "wonder"
+  ]
+ },
+ "8-16": {
+  "dm": [
+   "furthermore",
+   "engage"
+  ],
+  "gm": [
+   "engage",
+   "furthermore"
+  ]
+ },
+ "8-17": {
+  "dm": [
+   "engage"
+  ],
+  "gm": [
+   "engage"
+  ]
+ },
+ "8-18": {
+  "dm": [
+   "why",
+   "because",
+   "devoid"
+  ],
+  "gm": [
+   "why",
+   "because",
+   "whatever"
+  ]
+ },
+ "8-19": {
+  "dm": [
+   "why",
+   "because",
+   "devoid"
+  ],
+  "gm": [
+   "why",
+   "because"
+  ]
+ },
+ "8-20": {
+  "dm": [
+   "spoken",
+   "way",
+   "addressed"
+  ],
+  "gm": [
+   "said",
+   "spoke",
+   "words"
+  ]
+ },
+ "8-22": {
+  "dm": [
+   "supreme",
+   "endowed",
+   "become"
+  ],
+  "gm": [
+   "taught",
+   "completely",
+   "endowed",
+   "supreme",
+   "become",
+   "wonder"
+  ]
+ },
+ "8-23": {
+  "dm": [
+   "spoken",
+   "why",
+   "wisdom"
+  ],
+  "gm": [
+   "taught",
+   "why"
+  ]
+ },
+ "8-24": {
+  "dm": [
+   "spoken",
+   "immeasurable",
+   "countless"
+  ],
+  "gm": [
+   "taught",
+   "because",
+   "whatever",
+   "immeasurable"
+  ]
+ },
+ "8-25": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "8-26": {
+  "dm": [
+   "furthermore"
+  ],
+  "gm": [
+   "taught",
+   "moreover",
+   "whatever",
+   "itself"
+  ]
+ },
+ "8-27": {
+  "dm": [
+   "why",
+   "time"
+  ],
+  "gm": [
+   "why",
+   "time"
+  ]
+ },
+ "8-28": {
+  "dm": [
+   "without",
+   "anything"
+  ],
+  "gm": [
+   "whatsoever",
+   "because",
+   "without"
+  ]
+ },
+ "8-29": {
+  "dm": [
+   "why",
+   "time",
+   "arisen"
+  ],
+  "gm": [
+   "why",
+   "time",
+   "arisen"
+  ]
+ },
+ "8-30": {
+  "dm": [
+   "arisen"
+  ],
+  "gm": [
+   "because",
+   "time",
+   "arisen"
+  ]
+ },
+ "8-31": {
+  "dm": [
+   "called",
+   "hundred",
+   "time"
+  ],
+  "gm": [
+   "called",
+   "time",
+   "hundred"
+  ]
+ },
+ "8-33": {
+  "dm": [
+   "therefore",
+   "completely"
+  ],
+  "gm": [
+   "therefore",
+   "completely"
+  ]
+ },
+ "8-39": {
+  "dm": [
+   "anything"
+  ],
+  "gm": [
+   "whatsoever",
+   "anything"
+  ]
+ },
+ "8-40": {
+  "dm": [
+   "why",
+   "because",
+   "itself"
+  ],
+  "gm": [
+   "why",
+   "because",
+   "whatever",
+   "itself"
+  ]
+ },
+ "8-41": {
+  "dm": [
+   "therefore",
+   "practice",
+   "anything",
+   "said"
+  ],
+  "gm": [
+   "whatsoever",
+   "therefore",
+   "spoken",
+   "give",
+   "anything"
+  ]
+ },
+ "8-42": {
+  "dm": [
+   "furthermore",
+   "completely"
+  ],
+  "gm": [
+   "moreover",
+   "give",
+   "way"
+  ]
+ },
+ "8-43": {
+  "dm": [
+   "itself"
+  ],
+  "gm": [
+   "whatever",
+   "itself"
+  ]
+ },
+ "8-44": {
+  "dm": [
+   "spoken"
+  ],
+  "gm": [
+   "spoken"
+  ]
+ },
+ "8-45": {
+  "dm": [
+   "why",
+   "speaks"
+  ],
+  "gm": [
+   "why",
+   "authentically",
+   "speaks"
+  ]
+ },
+ "8-46": {
+  "dm": [
+   "because",
+   "falsely"
+  ],
+  "gm": [
+   "because",
+   "speak",
+   "falsely"
+  ]
+ },
+ "8-47": {
+  "dm": [
+   "furthermore",
+   "taught"
+  ],
+  "gm": [
+   "taught",
+   "moreover",
+   "whatever"
+  ]
+ },
+ "8-48": {
+  "dm": [
+   "perception",
+   "person",
+   "view",
+   "having",
+   "like",
+   "practices"
+  ],
+  "gm": [
+   "person",
+   "seen",
+   "like",
+   "way",
+   "giving"
+  ]
+ },
+ "8-49": {
+  "dm": [
+   "perception",
+   "person",
+   "without",
+   "furthermore",
+   "way",
+   "view",
+   "having",
+   "like",
+   "practices"
+  ],
+  "gm": [
+   "person",
+   "moreover",
+   "seen",
+   "like",
+   "way",
+   "giving"
+  ]
+ },
+ "8-50": {
+  "dm": [
+   "furthermore",
+   "correctly",
+   "hold",
+   "teach",
+   "take",
+   "read",
+   "master",
+   "seen",
+   "others",
+   "extensively"
+  ],
+  "gm": [
+   "moreover",
+   "completely",
+   "whatever",
+   "seen",
+   "authentically",
+   "hold",
+   "teach",
+   "others",
+   "read",
+   "comprehend",
+   "vastly"
+  ]
+ },
+ "8-51": {
+  "dm": [
+   "generate",
+   "immeasurable"
+  ],
+  "gm": [
+   "immeasurable",
+   "produce"
+  ]
+ },
+ "8-52": {
+  "dm": [
+   "furthermore",
+   "body",
+   "way",
+   "many",
+   "sand",
+   "grains",
+   "woman",
+   "times",
+   "sacrifice",
+   "man",
+   "grains of sand"
+  ],
+  "gm": [
+   "moreover",
+   "many",
+   "give",
+   "sand",
+   "grains",
+   "man",
+   "woman",
+   "away",
+   "bodies",
+   "giving",
+   "grains of sand"
+  ]
+ },
+ "8-53": {
+  "dm": [
+   "generate",
+   "mass",
+   "correctly",
+   "immeasurable",
+   "having",
+   "someone",
+   "others",
+   "extensively",
+   "countless"
+  ],
+  "gm": [
+   "completely",
+   "immeasurable",
+   "produce",
+   "having",
+   "someone",
+   "authentically",
+   "basis",
+   "much",
+   "others",
+   "reads",
+   "vastly",
+   "holds",
+   "takes"
+  ]
+ },
+ "8-54": {
+  "dm": [
+   "furthermore",
+   "inconceivable"
+  ],
+  "gm": [
+   "moreover",
+   "inconceivable"
+  ]
+ },
+ "8-55": {
+  "dm": [
+   "inconceivable",
+   "know"
+  ],
+  "gm": [
+   "inconceivable"
+  ]
+ },
+ "8-56": {
+  "dm": [
+   "spoken",
+   "correctly",
+   "entered",
+   "correctly entered"
+  ],
+  "gm": [
+   "spoken",
+   "entered",
+   "authentically"
+  ]
+ },
+ "8-57": {
+  "dm": [
+   "correctly",
+   "hold",
+   "teach",
+   "take",
+   "read",
+   "master",
+   "others",
+   "extensively"
+  ],
+  "gm": [
+   "completely",
+   "seen",
+   "authentically",
+   "hold",
+   "teach",
+   "others",
+   "read",
+   "comprehend",
+   "vastly"
+  ]
+ },
+ "8-58": {
+  "dm": [
+   "immeasurable"
+  ],
+  "gm": [
+   "immeasurable",
+   "endowed"
+  ]
+ },
+ "8-59": {
+  "dm": [
+   "immeasurable",
+   "inconceivable"
+  ],
+  "gm": [
+   "endowed",
+   "inconceivable",
+   "measureless"
+  ]
+ },
+ "8-61": {
+  "dm": [
+   "why"
+  ],
+  "gm": [
+   "why"
+  ]
+ },
+ "8-62": {
+  "dm": [
+   "hold"
+  ],
+  "gm": [
+   "hold"
+  ]
+ },
+ "8-63": {
+  "dm": [
+   "hold",
+   "take",
+   "read",
+   "master",
+   "grasp"
+  ],
+  "gm": [
+   "completely",
+   "hold",
+   "read",
+   "comprehend"
+  ]
+ },
+ "8-64": {
+  "dm": [
+   "without",
+   "because",
+   "abiding",
+   "place"
+  ],
+  "gm": [
+   "because"
+  ]
+ },
+ "8-65": {
+  "dm": [
+   "furthermore",
+   "taught",
+   "place",
+   "worthy"
+  ],
+  "gm": [
+   "taught",
+   "moreover",
+   "whatever",
+   "become",
+   "place"
+  ]
+ },
+ "8-66": {
+  "dm": [
+   "place",
+   "worthy"
+  ],
+  "gm": [
+   "become",
+   "place"
+  ]
+ },
+ "8-67": {
+  "dm": [
+   "become",
+   "like",
+   "place"
+  ],
+  "gm": [
+   "like",
+   "become",
+   "place"
+  ]
+ },
+ "8-68": {
+  "dm": [
+   "furthermore",
+   "words",
+   "take",
+   "read",
+   "master",
+   "tormented"
+  ],
+  "gm": [
+   "moreover",
+   "completely",
+   "words",
+   "hold",
+   "read",
+   "comprehend",
+   "tormented"
+  ]
+ },
+ "8-69": {
+  "dm": [
+   "tormented"
+  ],
+  "gm": [
+   "tormented"
+  ]
+ },
+ "8-70": {
+  "dm": [
+   "why",
+   "led",
+   "tormented"
+  ],
+  "gm": [
+   "why",
+   "because",
+   "whatever",
+   "life",
+   "tormented"
+  ]
+ },
+ "8-72": {
+  "dm": [
+   "incalculable",
+   "hundred",
+   "thousand",
+   "time"
+  ],
+  "gm": [
+   "hundred",
+   "measureless",
+   "thousand"
+  ]
+ },
+ "8-73": {
+  "dm": [
+   "having"
+  ]
+ },
+ "8-74": {
+  "dm": [
+   "fully",
+   "take",
+   "read",
+   "regarding",
+   "final"
+  ],
+  "gm": [
+   "completely",
+   "whatever",
+   "time",
+   "reads",
+   "holds",
+   "takes",
+   "whoever",
+   "writes"
+  ]
+ },
+ "8-75": {
+  "dm": [
+   "measure"
+  ]
+ },
+ "8-76": {
+  "dm": [
+   "fully",
+   "become",
+   "much"
+  ],
+  "gm": [
+   "fully",
+   "time",
+   "hold",
+   "great"
+  ]
+ },
+ "8-77": {
+  "dm": [
+   "furthermore",
+   "inconceivable"
+  ],
+  "gm": [
+   "moreover",
+   "inconceivable"
+  ]
+ },
+ "8-78": {
+  "dm": [
+   "inconceivable",
+   "know"
+  ],
+  "gm": [
+   "inconceivable"
+  ]
+ },
+ "8-79": {
+  "dm": [
+   "way",
+   "addressed",
+   "addressed the blessed"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "8-80": {
+  "dm": [
+   "correctly",
+   "entered",
+   "abide",
+   "correctly entered"
+  ],
+  "gm": [
+   "correctly",
+   "entered",
+   "dwell"
+  ]
+ },
+ "8-81": {
+  "dm": [
+   "practice"
+  ]
+ },
+ "8-82": {
+  "dm": [
+   "mind"
+  ],
+  "gm": [
+   "fully"
+  ]
+ },
+ "8-83": {
+  "dm": [
+   "spoken",
+   "way",
+   "addressed",
+   "addressed the venerable"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "8-84": {
+  "dm": [
+   "think",
+   "correctly",
+   "entered",
+   "correctly entered"
+  ],
+  "gm": [
+   "think",
+   "correctly",
+   "entered",
+   "realm"
+  ]
+ },
+ "8-85": {
+  "dm": [
+   "way",
+   "immeasurable",
+   "led"
+  ],
+  "gm": [
+   "beings",
+   "whatsoever",
+   "immeasurable",
+   "way"
+  ]
+ },
+ "8-86": {
+  "dm": [
+   "why",
+   "called"
+  ],
+  "gm": [
+   "why",
+   "called"
+  ]
+ },
+ "8-87": {
+  "dm": [
+   "called",
+   "engage"
+  ],
+  "gm": [
+   "called",
+   "because",
+   "engage"
+  ]
+ },
+ "8-88": {
+  "dm": [
+   "why",
+   "called",
+   "whatsoever",
+   "correctly",
+   "because",
+   "entered",
+   "having",
+   "correctly entered"
+  ],
+  "gm": [
+   "why",
+   "whatsoever",
+   "called",
+   "because",
+   "correctly",
+   "entered",
+   "whatsoever called"
+  ]
+ },
+ "8-89": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "8-90": {
+  "dm": [
+   "think",
+   "whatsoever"
+  ],
+  "gm": [
+   "think",
+   "whatsoever"
+  ]
+ },
+ "8-91": {
+  "dm": [
+   "spoken",
+   "addressed",
+   "words",
+   "addressed the blessed"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "8-92": {
+  "dm": [
+   "whatsoever"
+  ],
+  "gm": [
+   "whatsoever"
+  ]
+ },
+ "8-93": {
+  "dm": [
+   "spoken",
+   "way",
+   "addressed",
+   "addressed the venerable"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "8-95": {
+  "dm": [
+   "whatsoever"
+  ],
+  "gm": [
+   "whatsoever"
+  ]
+ },
+ "8-96": {
+  "dm": [
+   "enlightenment",
+   "become",
+   "future",
+   "time"
+  ],
+  "gm": [
+   "time",
+   "become",
+   "future"
+  ]
+ },
+ "8-97": {
+  "dm": [
+   "whatsoever",
+   "because"
+  ],
+  "gm": [
+   "whatsoever"
+  ]
+ },
+ "8-98": {
+  "dm": [
+   "become",
+   "future",
+   "time"
+  ],
+  "gm": [
+   "therefore",
+   "time",
+   "become",
+   "future"
+  ]
+ },
+ "8-99": {
+  "dm": [
+   "why",
+   "because"
+  ],
+  "gm": [
+   "why"
+  ]
+ },
+ "8-100": {
+  "dm": [
+   "person",
+   "furthermore",
+   "say",
+   "anyone",
+   "falsely"
+  ],
+  "gm": [
+   "speak",
+   "furthermore",
+   "anyone",
+   "falsely"
+  ]
+ },
+ "8-101": {
+  "dm": [
+   "speaks"
+  ],
+  "gm": [
+   "called"
+  ]
+ },
+ "8-102": {
+  "dm": [
+   "why",
+   "whatsoever",
+   "because"
+  ],
+  "gm": [
+   "why",
+   "whatsoever",
+   "because"
+  ]
+ },
+ "8-103": {
+  "dm": [
+   "taught",
+   "regarding",
+   "falsehood"
+  ],
+  "gm": [
+   "taught",
+   "falsehood"
+  ]
+ },
+ "8-104": {
+  "dm": [
+   "therefore"
+  ],
+  "gm": [
+   "taught",
+   "therefore"
+  ]
+ },
+ "8-105": {
+  "dm": [
+   "called"
+  ],
+  "gm": [
+   "called"
+  ]
+ },
+ "8-106": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "8-107": {
+  "dm": [
+   "person",
+   "possesses",
+   "become",
+   "like"
+  ],
+  "gm": [
+   "person",
+   "endowed",
+   "like"
+  ]
+ },
+ "8-108": {
+  "dm": [
+   "spoken",
+   "replied",
+   "person",
+   "having"
+  ],
+  "gm": [
+   "taught",
+   "person",
+   "without",
+   "said",
+   "endowed",
+   "having"
+  ]
+ },
+ "8-109": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore",
+   "endowed",
+   "having"
+  ]
+ },
+ "8-110": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "8-111": {
+  "dm": [
+   "called",
+   "say"
+  ],
+  "gm": [
+   "called",
+   "speak"
+  ]
+ },
+ "8-112": {
+  "dm": [
+   "why",
+   "think",
+   "called"
+  ],
+  "gm": [
+   "why",
+   "think",
+   "whatsoever",
+   "called",
+   "whatsoever called"
+  ]
+ },
+ "8-113": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "8-114": {
+  "dm": [
+   "replied",
+   "therefore",
+   "without",
+   "said"
+  ],
+  "gm": [
+   "taught",
+   "therefore",
+   "without",
+   "said"
+  ]
+ },
+ "8-115": {
+  "dm": [
+   "spoken",
+   "furthermore",
+   "way",
+   "say"
+  ],
+  "gm": [
+   "spoken",
+   "moreover",
+   "speak",
+   "way"
+  ]
+ },
+ "8-116": {
+  "dm": [
+   "why",
+   "said"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "called",
+   "without"
+  ]
+ },
+ "8-117": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "8-118": {
+  "dm": [
+   "called"
+  ]
+ },
+ "9-1": {
+  "dm": [
+   "think",
+   "possesses"
+  ],
+  "gm": [
+   "think",
+   "possess"
+  ]
+ },
+ "9-2": {
+  "dm": [
+   "replied",
+   "possesses"
+  ],
+  "gm": [
+   "said",
+   "possesses"
+  ]
+ },
+ "9-3": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "9-4": {
+  "dm": [
+   "think",
+   "possesses"
+  ],
+  "gm": [
+   "possess"
+  ]
+ },
+ "9-5": {
+  "dm": [
+   "replied",
+   "possesses"
+  ],
+  "gm": [
+   "said",
+   "possesses"
+  ]
+ },
+ "9-6": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "9-7": {
+  "dm": [
+   "think",
+   "possesses"
+  ],
+  "gm": [
+   "possess"
+  ]
+ },
+ "9-8": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "9-9": {
+  "dm": [
+   "possesses"
+  ],
+  "gm": [
+   "possesses"
+  ]
+ },
+ "9-10": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "9-11": {
+  "dm": [
+   "think",
+   "possesses"
+  ],
+  "gm": [
+   "possess"
+  ]
+ },
+ "9-12": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "9-13": {
+  "dm": [
+   "possesses"
+  ],
+  "gm": [
+   "possesses"
+  ]
+ },
+ "9-14": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "9-15": {
+  "dm": [
+   "think",
+   "possesses"
+  ],
+  "gm": [
+   "possess"
+  ]
+ },
+ "9-16": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "9-17": {
+  "dm": [
+   "possesses"
+  ],
+  "gm": [
+   "possesses"
+  ]
+ },
+ "9-18": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "9-19": {
+  "dm": [
+   "many",
+   "sand",
+   "grains",
+   "numerous",
+   "rivers",
+   "grains of sand"
+  ],
+  "gm": [
+   "think",
+   "many",
+   "sand",
+   "grains",
+   "grains of sand"
+  ]
+ },
+ "9-20": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "9-21": {
+  "dm": [
+   "numerous"
+  ],
+  "gm": [
+   "many"
+  ]
+ },
+ "9-22": {
+  "dm": [
+   "fully",
+   "said",
+   "exist",
+   "know"
+  ],
+  "gm": [
+   "fully",
+   "many",
+   "said",
+   "know"
+  ]
+ },
+ "9-23": {
+  "dm": [
+   "spoken",
+   "why",
+   "without"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "called"
+  ]
+ },
+ "9-24": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "9-25": {
+  "dm": [
+   "why"
+  ],
+  "gm": [
+   "why"
+  ]
+ },
+ "10-2": {
+  "dm": [
+   "future"
+  ],
+  "gm": [
+   "future"
+  ]
+ },
+ "10-3": {
+  "dm": [
+   "because"
+  ],
+  "gm": [
+   "because"
+  ]
+ },
+ "10-4": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "10-5": {
+  "dm": [
+   "generate",
+   "much",
+   "fill",
+   "someone",
+   "basis"
+  ],
+  "gm": [
+   "completely",
+   "give",
+   "produce",
+   "someone",
+   "basis",
+   "much",
+   "fill"
+  ]
+ },
+ "10-6": {
+  "dm": [
+   "replied",
+   "much"
+  ],
+  "gm": [
+   "said",
+   "much"
+  ]
+ },
+ "10-7": {
+  "dm": [
+   "much"
+  ],
+  "gm": [
+   "much"
+  ]
+ },
+ "10-8": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "10-9": {
+  "dm": [
+   "generate",
+   "basis",
+   "great"
+  ],
+  "gm": [
+   "produce",
+   "basis",
+   "great"
+  ]
+ },
+ "10-10": {
+  "dm": [
+   "furthermore",
+   "become"
+  ],
+  "gm": [
+   "moreover",
+   "speak"
+  ]
+ },
+ "10-11": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "10-12": {
+  "dm": [
+   "think",
+   "means",
+   "viewed"
+  ],
+  "gm": [
+   "think",
+   "seen"
+  ]
+ },
+ "10-13": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "10-14": {
+  "dm": [
+   "means",
+   "viewed"
+  ],
+  "gm": [
+   "seen"
+  ]
+ },
+ "10-15": {
+  "dm": [
+   "spoken",
+   "why",
+   "because"
+  ],
+  "gm": [
+   "why",
+   "called",
+   "spoken",
+   "because"
+  ]
+ },
+ "10-16": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "10-17": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "10-18": {
+  "dm": [
+   "think",
+   "means",
+   "viewed"
+  ],
+  "gm": [
+   "think",
+   "seen"
+  ]
+ },
+ "10-19": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "10-20": {
+  "dm": [
+   "means",
+   "viewed"
+  ],
+  "gm": [
+   "seen"
+  ]
+ },
+ "10-21": {
+  "dm": [
+   "spoken",
+   "why",
+   "because"
+  ],
+  "gm": [
+   "why",
+   "spoken",
+   "because",
+   "whatever"
+  ]
+ },
+ "10-22": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "10-23": {
+  "dm": [
+   "think",
+   "said"
+  ],
+  "gm": [
+   "think",
+   "said"
+  ]
+ },
+ "10-24": {
+  "dm": [
+   "think",
+   "taught",
+   "way",
+   "view"
+  ],
+  "gm": [
+   "taught",
+   "think",
+   "like",
+   "view"
+  ]
+ },
+ "10-25": {
+  "dm": [
+   "whatsoever",
+   "taught",
+   "because"
+  ],
+  "gm": [
+   "taught",
+   "whatsoever",
+   "because"
+  ]
+ },
+ "10-26": {
+  "dm": [
+   "person",
+   "taught",
+   "because",
+   "say",
+   "grasped",
+   "anyone",
+   "falsely"
+  ],
+  "gm": [
+   "taught",
+   "grasping",
+   "anyone"
+  ]
+ },
+ "10-27": {
+  "dm": [
+   "why",
+   "called",
+   "whatsoever",
+   "taught"
+  ],
+  "gm": [
+   "why",
+   "whatsoever",
+   "called"
+  ]
+ },
+ "10-28": {
+  "dm": [
+   "way",
+   "addressed",
+   "addressed the blessed"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "10-29": {
+  "dm": [
+   "times",
+   "future",
+   "give"
+  ],
+  "gm": [
+   "having",
+   "teaching",
+   "future"
+  ]
+ },
+ "10-30": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "10-31": {
+  "dm": [
+   "why",
+   "called",
+   "taught",
+   "because",
+   "called sentient"
+  ],
+  "gm": [
+   "why",
+   "called",
+   "spoken",
+   "because"
+  ]
+ },
+ "10-32": {
+  "dm": [
+   "therefore",
+   "called",
+   "called sentient"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "10-33": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "10-34": {
+  "dm": [
+   "subhūti",
+   "think",
+   "whatsoever"
+  ],
+  "gm": [
+   "think",
+   "whatsoever"
+  ]
+ },
+ "10-35": {
+  "dm": [
+   "replied",
+   "whatsoever"
+  ],
+  "gm": [
+   "whatsoever",
+   "said"
+  ]
+ },
+ "10-36": {
+  "dm": [
+   "said"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "10-37": {
+  "dm": [
+   "exist"
+  ]
+ },
+ "10-38": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "10-39": {
+  "dm": [
+   "furthermore"
+  ],
+  "gm": [
+   "furthermore"
+  ]
+ },
+ "10-40": {
+  "dm": [
+   "called",
+   "whatsoever"
+  ],
+  "gm": [
+   "whatsoever",
+   "called",
+   "therefore",
+   "because"
+  ]
+ },
+ "10-41": {
+  "dm": [
+   "without"
+  ],
+  "gm": [
+   "without"
+  ]
+ },
+ "10-43": {
+  "dm": [
+   "called",
+   "taught",
+   "devoid"
+  ],
+  "gm": [
+   "called",
+   "spoken"
+  ]
+ },
+ "10-44": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "10-45": {
+  "dm": [
+   "person",
+   "furthermore",
+   "many",
+   "teach",
+   "gift",
+   "take",
+   "others",
+   "give"
+  ],
+  "gm": [
+   "heap",
+   "many",
+   "having",
+   "gift",
+   "someone",
+   "teach",
+   "furthermore",
+   "others"
+  ]
+ },
+ "10-46": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "10-47": {
+  "dm": [
+   "think",
+   "way",
+   "view"
+  ],
+  "gm": [
+   "think",
+   "seen",
+   "like"
+  ]
+ },
+ "10-48": {
+  "dm": [
+   "why",
+   "whatsoever",
+   "because"
+  ],
+  "gm": [
+   "why",
+   "whatsoever",
+   "because"
+  ]
+ },
+ "10-49": {
+  "dm": [
+   "whatsoever"
+  ],
+  "gm": [
+   "beings",
+   "whatsoever"
+  ]
+ },
+ "10-50": {
+  "dm": [
+   "grasping"
+  ],
+  "gm": [
+   "apprehension"
+  ]
+ },
+ "10-51": {
+  "dm": [
+   "grasping",
+   "called",
+   "grasped"
+  ],
+  "gm": [
+   "called",
+   "spoken",
+   "apprehended",
+   "apprehension"
+  ]
+ },
+ "10-52": {
+  "dm": [
+   "called"
+  ],
+  "gm": [
+   "called",
+   "spoken"
+  ]
+ },
+ "10-53": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "10-54": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "10-55": {
+  "dm": [
+   "think",
+   "means",
+   "seen"
+  ],
+  "gm": [
+   "think",
+   "seen"
+  ]
+ },
+ "10-56": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "10-57": {
+  "dm": [
+   "means",
+   "seen"
+  ],
+  "gm": [
+   "seen"
+  ]
+ },
+ "10-58": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "10-59": {
+  "dm": [
+   "means",
+   "seen"
+  ],
+  "gm": [
+   "seen"
+  ]
+ },
+ "10-60": {
+  "dm": [
+   "means",
+   "seen"
+  ],
+  "gm": [
+   "seen"
+  ]
+ },
+ "10-61": {
+  "dm": [
+   "therefore",
+   "means",
+   "seen"
+  ],
+  "gm": [
+   "therefore",
+   "seen"
+  ]
+ },
+ "10-62": {
+  "dm": [
+   "way",
+   "addressed",
+   "addressed the blessed"
+  ],
+  "gm": [
+   "spoke"
+  ]
+ },
+ "10-63": {
+  "dm": [
+   "means",
+   "said",
+   "seen",
+   "understand"
+  ],
+  "gm": [
+   "spoken",
+   "seen",
+   "understand"
+  ]
+ },
+ "10-64": {
+  "dm": [
+   "time",
+   "spoke"
+  ],
+  "gm": [
+   "spoke",
+   "time"
+  ]
+ },
+ "11-1": {
+  "dm": [
+   "entered"
+  ],
+  "gm": [
+   "know"
+  ]
+ },
+ "11-3": {
+  "dm": [
+   "seen"
+  ],
+  "gm": [
+   "seen"
+  ]
+ },
+ "11-5": {
+  "dm": [
+   "think"
+  ],
+  "gm": [
+   "think"
+  ]
+ },
+ "11-6": {
+  "dm": [
+   "think",
+   "perfectly",
+   "buddha",
+   "complete",
+   "way",
+   "view",
+   "means",
+   "perfectly complete buddha",
+   "complete buddha",
+   "perfectly complete"
+  ],
+  "gm": [
+   "think",
+   "like"
+  ]
+ },
+ "11-7": {
+  "dm": [
+   "perfectly",
+   "buddha",
+   "complete",
+   "means",
+   "perfectly complete buddha",
+   "complete buddha",
+   "perfectly complete"
+  ],
+  "gm": [
+   "become"
+  ]
+ },
+ "11-8": {
+  "dm": [
+   "think",
+   "correctly",
+   "way",
+   "entered",
+   "view",
+   "hold",
+   "correctly entered"
+  ],
+  "gm": [
+   "think",
+   "seen",
+   "like",
+   "destroyed"
+  ]
+ },
+ "11-9": {
+  "dm": [
+   "correctly",
+   "entered",
+   "hold",
+   "correctly entered"
+  ],
+  "gm": [
+   "destroyed"
+  ]
+ },
+ "11-10": {
+  "dm": [
+   "generate",
+   "furthermore",
+   "immeasurable",
+   "many",
+   "sand",
+   "gift",
+   "grains",
+   "incalculable",
+   "fill",
+   "give",
+   "grains of sand"
+  ],
+  "gm": [
+   "moreover",
+   "many",
+   "immeasurable",
+   "give",
+   "sand",
+   "gift",
+   "grains",
+   "basis",
+   "fill",
+   "vastly",
+   "grains of sand"
+  ]
+ },
+ "11-11": {
+  "dm": [
+   "furthermore"
+  ],
+  "gm": [
+   "moreover"
+  ]
+ },
+ "11-13": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "11-14": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "11-15": {
+  "dm": [
+   "person",
+   "furthermore",
+   "taught",
+   "understand",
+   "say",
+   "anyone"
+  ],
+  "gm": [
+   "taught",
+   "moreover",
+   "anyone",
+   "understand"
+  ]
+ },
+ "11-16": {
+  "dm": [
+   "why",
+   "called"
+  ],
+  "gm": [
+   "why",
+   "called"
+  ]
+ },
+ "11-17": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "12-1": {
+  "dm": [
+   "think",
+   "furthermore",
+   "take",
+   "numerous"
+  ],
+  "gm": [
+   "think",
+   "moreover",
+   "many",
+   "like",
+   "large",
+   "earth",
+   "become",
+   "particles",
+   "family or daughter"
+  ]
+ },
+ "12-2": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said"
+  ]
+ },
+ "12-3": {
+  "dm": [
+   "numerous"
+  ],
+  "gm": [
+   "large"
+  ]
+ },
+ "12-4": {
+  "dm": [
+   "spoken",
+   "why",
+   "exist"
+  ],
+  "gm": [
+   "why",
+   "spoken"
+  ]
+ },
+ "12-5": {
+  "dm": [
+   "spoken",
+   "why",
+   "because"
+  ],
+  "gm": [
+   "taught",
+   "why",
+   "spoken",
+   "because"
+  ]
+ },
+ "12-6": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "12-7": {
+  "dm": [
+   "spoken"
+  ],
+  "gm": [
+   "taught",
+   "spoken"
+  ]
+ },
+ "12-8": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "12-9": {
+  "dm": [
+   "why",
+   "exist"
+  ],
+  "gm": [
+   "why",
+   "itself"
+  ]
+ },
+ "12-10": {
+  "dm": [
+   "spoken"
+  ],
+  "gm": [
+   "taught",
+   "spoken",
+   "because"
+  ]
+ },
+ "12-11": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "12-12": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "said",
+   "itself"
+  ]
+ },
+ "12-13": {
+  "dm": [
+   "grasped"
+  ]
+ },
+ "12-14": {
+  "dm": [
+   "spoken",
+   "someone",
+   "say"
+  ],
+  "gm": [
+   "spoken",
+   "anyone"
+  ]
+ },
+ "12-15": {
+  "dm": [
+   "spoken",
+   "correctly",
+   "say"
+  ],
+  "gm": [
+   "spoken",
+   "said"
+  ]
+ },
+ "12-16": {
+  "dm": [
+   "replied"
+  ],
+  "gm": [
+   "replied"
+  ]
+ },
+ "12-18": {
+  "dm": [
+   "spoken",
+   "why",
+   "called",
+   "because"
+  ],
+  "gm": [
+   "why",
+   "spoken"
+  ]
+ },
+ "12-19": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "12-20": {
+  "dm": [
+   "correctly",
+   "way",
+   "entered",
+   "said",
+   "understand",
+   "know",
+   "correctly entered"
+  ],
+  "gm": [
+   "said",
+   "entered",
+   "know"
+  ]
+ },
+ "12-21": {
+  "dm": [
+   "without",
+   "abide",
+   "know"
+  ],
+  "gm": [
+   "way",
+   "abide",
+   "know"
+  ]
+ },
+ "12-22": {
+  "dm": [
+   "spoken",
+   "why",
+   "without"
+  ],
+  "gm": [
+   "why",
+   "called",
+   "spoken"
+  ]
+ },
+ "12-23": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "12-24": {
+  "dm": [
+   "generate",
+   "furthermore",
+   "correctly",
+   "immeasurable",
+   "teach",
+   "gift",
+   "take",
+   "incalculable",
+   "much",
+   "fill",
+   "read",
+   "master",
+   "others",
+   "extensively",
+   "give"
+  ],
+  "gm": [
+   "correctly",
+   "completely",
+   "immeasurable",
+   "produce",
+   "gift",
+   "basis",
+   "furthermore",
+   "others",
+   "reads",
+   "takes",
+   "writes",
+   "family or daughter"
+  ]
+ },
+ "12-25": {
+  "dm": [
+   "way",
+   "teaching"
+  ],
+  "gm": [
+   "way"
+  ]
+ },
+ "12-26": {
+  "dm": [
+   "therefore",
+   "called"
+  ],
+  "gm": [
+   "called",
+   "therefore"
+  ]
+ },
+ "12-27": {
+  "dm": [
+   "view",
+   "like"
+  ],
+  "gm": [
+   "like",
+   "view"
+  ]
+ },
+ "13-1": {
+  "dm": [
+   "spoken",
+   "world",
+   "words"
+  ],
+  "gm": [
+   "spoken",
+   "world"
+  ]
+ },
+ "13-2": {
+  "dm": [
+   "spoken"
+  ],
+  "gm": [
+   "spoken"
+  ]
+ },
+ "13-3": {
+  "dm": [
+   "noble"
+  ],
+  "gm": [
+   "noble",
+   "called",
+   "complete"
+  ]
+ },
+ "13-5": {
+  "dm": [
+   "times",
+   "thousand"
+  ],
+  "gm": [
+   "having",
+   "read"
+  ]
+ },
+ "0": {
+  "gm": [
+   "called",
+   "cutter perfection"
+  ]
+ },
+ "1-7": {
+  "gm": [
+   "bowed"
+  ]
+ },
+ "2-1": {
+  "gm": [
+   "bowed"
+  ]
+ },
+ "3-4": {
+  "gm": [
+   "supreme"
+  ]
+ },
+ "3-5": {
+  "gm": [
+   "supreme"
+  ]
+ },
+ "7-45": {
+  "gm": [
+   "large"
+  ]
+ },
+ "8-0": {
+  "gm": [
+   "marks"
+  ]
+ },
+ "11-4": {
+  "gm": [
+   "cannot"
+  ]
+ }
+}

@@ -1,0 +1,719 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "8-80",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཐེག་པ",
+      "reason": "Nested term",
+      "dm": "vehicle",
+      "gm": "vehicle"
+     }
+    ]
+   },
+   {
+    "id": "8-81",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-82",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Technical term (citta)",
+      "dm": "mind",
+      "gm": "minds"
+     }
+    ]
+   },
+   {
+    "id": "8-83",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཚེ་དང་ལྡན་པ",
+      "reason": "Nested term",
+      "dm": "venerable",
+      "gm": "venerable"
+     }
+    ]
+   },
+   {
+    "id": "8-84",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཐེག་པ",
+      "reason": "Nested term",
+      "dm": "vehicle",
+      "gm": "vehicle"
+     },
+     {
+      "bo": "དབྱིངས",
+      "reason": "Technical term (dhātu)",
+      "dm": "realm",
+      "gm": "realm"
+     }
+    ]
+   },
+   {
+    "id": "8-85",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-86",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-87",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-88",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཐེག་པ",
+      "reason": "Nested term",
+      "dm": "vehicle",
+      "gm": "vehicle"
+     }
+    ]
+   },
+   {
+    "id": "8-89",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-90",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "perfectly complete enlightenment",
+      "gm": "perfectly complete awakening"
+     },
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "8-91",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཚེ་དང༌ལྡན་པ",
+      "reason": "Nested term",
+      "dm": "venerable",
+      "gm": "venerable"
+     }
+    ]
+   },
+   {
+    "id": "8-92",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "perfectly complete enlightenment",
+      "gm": "perfectly complete awakening"
+     },
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "8-93",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཚེ་དང་ལྡན་པ",
+      "reason": "Nested term",
+      "dm": "venerable",
+      "gm": "venerable"
+     }
+    ]
+   },
+   {
+    "id": "8-94",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-95",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "perfectly complete enlightenment",
+      "gm": "perfectly complete awakening"
+     },
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "8-96",
+    "drop": [
+     {
+      "n": 7,
+      "reason": "Includes negative particle, ordinary verb form here"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྲམ་ཟེ",
+      "reason": "Nested term",
+      "dm": "Brahmin",
+      "gm": "Brahmin"
+     }
+    ]
+   },
+   {
+    "id": "8-97",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "perfectly complete enlightenment",
+      "gm": "perfectly complete awakening"
+     },
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "8-98",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྲམ་ཟེ",
+      "reason": "Nested term",
+      "dm": "Brahmin",
+      "gm": "Brahmin"
+     }
+    ]
+   },
+   {
+    "id": "8-99",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-100",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "perfectly complete enlightenment",
+      "gm": "perfectly complete awakening"
+     },
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "8-101",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-102",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "perfectly complete enlightenment",
+      "gm": "perfectly complete awakening"
+     },
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Nested term",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "8-103",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-104",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-105",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-106",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-107",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Ordinary phrase in an analogy"
+     },
+     {
+      "n": 3,
+      "reason": "Ordinary phrase in an analogy"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-108",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary phrase in an analogy"
+     },
+     {
+      "n": 6,
+      "reason": "Ordinary phrase in an analogy"
+     },
+     {
+      "n": 7,
+      "reason": "Ordinary noun in this context"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཚེ་དང་ལྡན་པ",
+      "reason": "Nested term",
+      "dm": "venerable",
+      "gm": "Venerable"
+     }
+    ]
+   },
+   {
+    "id": "8-109",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary phrase"
+     },
+     {
+      "n": 2,
+      "reason": "Ordinary noun in this context"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-110",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-111",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-112",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-113",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-114",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-115",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཞིང",
+      "reason": "Nested term",
+      "dm": "buddhafields",
+      "gm": "fields"
+     },
+     {
+      "bo": "བཀོད་པ",
+      "reason": "Nested term",
+      "dm": "arrays",
+      "gm": "arrays"
+     }
+    ]
+   },
+   {
+    "id": "8-116",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཞིང",
+      "reason": "Nested term",
+      "dm": "buddhafields",
+      "gm": "fields"
+     },
+     {
+      "bo": "བཀོད་པ",
+      "reason": "Nested term",
+      "dm": "arrays",
+      "gm": "arrays"
+     }
+    ]
+   },
+   {
+    "id": "8-117",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཞིང",
+      "reason": "Nested term",
+      "dm": "buddhafields",
+      "gm": "fields"
+     },
+     {
+      "bo": "བཀོད་པ",
+      "reason": "Nested term",
+      "dm": "arrays",
+      "gm": "arrays"
+     }
+    ]
+   },
+   {
+    "id": "8-118",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "8-96",
+    "bo": "ལུང་མི་སྟོན་པ",
+    "reason": "Includes negative particle, ordinary verb form here"
+   },
+   {
+    "id": "8-107",
+    "bo": "མིའི་ལུས",
+    "reason": "Ordinary phrase in an analogy"
+   },
+   {
+    "id": "8-107",
+    "bo": "ལུས་ཆེན་པོ",
+    "reason": "Ordinary phrase in an analogy"
+   },
+   {
+    "id": "8-108",
+    "bo": "མིའི་ལུས",
+    "reason": "Ordinary phrase in an analogy"
+   },
+   {
+    "id": "8-108",
+    "bo": "ལུས་ཆེན་པོ",
+    "reason": "Ordinary phrase in an analogy"
+   },
+   {
+    "id": "8-108",
+    "bo": "ལུས",
+    "reason": "Ordinary noun in this context"
+   },
+   {
+    "id": "8-109",
+    "bo": "ལུས་ཆེན་པོ",
+    "reason": "Ordinary phrase"
+   },
+   {
+    "id": "8-109",
+    "bo": "ལུས",
+    "reason": "Ordinary noun in this context"
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "8-80",
+    "bo": "ཐེག་པ",
+    "dm": "vehicle",
+    "gm": "vehicle",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-82",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "minds",
+    "reason": "Technical term (citta)"
+   },
+   {
+    "id": "8-83",
+    "bo": "ཚེ་དང་ལྡན་པ",
+    "dm": "venerable",
+    "gm": "venerable",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-84",
+    "bo": "ཐེག་པ",
+    "dm": "vehicle",
+    "gm": "vehicle",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-84",
+    "bo": "དབྱིངས",
+    "dm": "realm",
+    "gm": "realm",
+    "reason": "Technical term (dhātu)"
+   },
+   {
+    "id": "8-88",
+    "bo": "ཐེག་པ",
+    "dm": "vehicle",
+    "gm": "vehicle",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-90",
+    "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "dm": "perfectly complete enlightenment",
+    "gm": "perfectly complete awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-90",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-91",
+    "bo": "ཚེ་དང༌ལྡན་པ",
+    "dm": "venerable",
+    "gm": "venerable",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-92",
+    "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "dm": "perfectly complete enlightenment",
+    "gm": "perfectly complete awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-92",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-93",
+    "bo": "ཚེ་དང་ལྡན་པ",
+    "dm": "venerable",
+    "gm": "venerable",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-95",
+    "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "dm": "perfectly complete enlightenment",
+    "gm": "perfectly complete awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-95",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-96",
+    "bo": "བྲམ་ཟེ",
+    "dm": "Brahmin",
+    "gm": "Brahmin",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-97",
+    "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "dm": "perfectly complete enlightenment",
+    "gm": "perfectly complete awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-97",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-98",
+    "bo": "བྲམ་ཟེ",
+    "dm": "Brahmin",
+    "gm": "Brahmin",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-100",
+    "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "dm": "perfectly complete enlightenment",
+    "gm": "perfectly complete awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-100",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-102",
+    "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "dm": "perfectly complete enlightenment",
+    "gm": "perfectly complete awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-102",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-108",
+    "bo": "ཚེ་དང་ལྡན་པ",
+    "dm": "venerable",
+    "gm": "Venerable",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-115",
+    "bo": "ཞིང",
+    "dm": "buddhafields",
+    "gm": "fields",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-115",
+    "bo": "བཀོད་པ",
+    "dm": "arrays",
+    "gm": "arrays",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-116",
+    "bo": "ཞིང",
+    "dm": "buddhafields",
+    "gm": "fields",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-116",
+    "bo": "བཀོད་པ",
+    "dm": "arrays",
+    "gm": "arrays",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-117",
+    "bo": "ཞིང",
+    "dm": "buddhafields",
+    "gm": "fields",
+    "reason": "Nested term"
+   },
+   {
+    "id": "8-117",
+    "bo": "བཀོད་པ",
+    "dm": "arrays",
+    "gm": "arrays",
+    "reason": "Nested term"
+   }
+  ]
+ }
+}

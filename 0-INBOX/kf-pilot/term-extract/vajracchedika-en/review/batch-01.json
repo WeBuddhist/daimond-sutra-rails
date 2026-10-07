@@ -1,0 +1,322 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "0-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "0-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "0-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "0-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-7",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Includes a plain number ('three times') and is part of a stock narrative formula."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསྐོར་བ",
+      "reason": "Technical Buddhist act of devotion (pradakṣiṇā).",
+      "dm": "circumambulated",
+      "gm": "circumambulated"
+     }
+    ]
+   },
+   {
+    "id": "1-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-1",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཕུང་པོ་ལྷག་མ་མེད་པ",
+      "reason": "Key technical concept (nirupadhiśeṣa) nested within a larger phrase.",
+      "dm": "leaves no remainder of the aggregates",
+      "gm": "without remainder of aggregates"
+     },
+     {
+      "bo": "མྱ་ངན་ལས་འདས་པའི་དབྱིངས",
+      "reason": "Core technical term (nirvāṇadhātu) nested within a larger phrase.",
+      "dm": "realm of nirvāṇa",
+      "gm": "realm of nirvāṇa"
+     }
+    ]
+   },
+   {
+    "id": "4-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "1-7",
+    "bo": "ལན་གསུམ་བསྐོར་བ",
+    "reason": "Includes a plain number ('three times') and is part of a stock narrative formula."
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "1-7",
+    "bo": "བསྐོར་བ",
+    "dm": "circumambulated",
+    "gm": "circumambulated",
+    "reason": "Technical Buddhist act of devotion (pradakṣiṇā)."
+   },
+   {
+    "id": "4-1",
+    "bo": "ཕུང་པོ་ལྷག་མ་མེད་པ",
+    "dm": "leaves no remainder of the aggregates",
+    "gm": "without remainder of aggregates",
+    "reason": "Key technical concept (nirupadhiśeṣa) nested within a larger phrase."
+   },
+   {
+    "id": "4-1",
+    "bo": "མྱ་ངན་ལས་འདས་པའི་དབྱིངས",
+    "dm": "realm of nirvāṇa",
+    "gm": "realm of nirvāṇa",
+    "reason": "Core technical term (nirvāṇadhātu) nested within a larger phrase."
+   }
+  ]
+ }
+}

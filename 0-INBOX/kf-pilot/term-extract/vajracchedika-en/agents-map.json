@@ -1,0 +1,6 @@
+{"step": "term-extract", "text": "vajracchedika", "lang": "en", "model": "sonnet",
+ "agents": {"batch-01": "afd619ef961b97dec", "batch-02": "ab783d19358dd3660", "batch-03": "a1b2d120f52f22d7f",
+  "batch-04": "a4ae46931600fb212", "batch-05": "ab700f9b54e22cee8", "batch-06": "ad4c056d400ecbe3b",
+  "batch-07": "adb559c4f01642b3c", "batch-08": "aecd27671eab7471f", "batch-09": "a20468d6d3696c2cb",
+  "batch-10": "a221a37201951b5ef", "batch-11": "af5f88d78212721dc", "batch-12": "a77ef0d9d4e0ad0ae",
+  "batch-13": "a666044e5342ca5b3"}}

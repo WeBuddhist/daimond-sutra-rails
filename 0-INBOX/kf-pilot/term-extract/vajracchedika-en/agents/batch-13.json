@@ -1,0 +1,714 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "12-0",
+   "terms": [
+    {
+     "bo": "རྡུལ་ཕྲ་རབ",
+     "dm": "Most Minute Particles",
+     "gm": "Subtle Particles"
+    }
+   ]
+  },
+  {
+   "id": "12-1",
+   "terms": [
+    {
+     "bo": "རིགས་ཀྱི་བུ",
+     "dm": "noble son",
+     "gm": "son of good family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ་མོ",
+     "dm": "noble daughter",
+     "gm": "daughter of good family"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "trichiliocosm world-system",
+     "gm": "trichiliocosm, the great thousandfold world system"
+    },
+    {
+     "bo": "རྡུལ་ཕྲ་རབ",
+     "dm": "finest atoms",
+     "gm": "fine atoms"
+    },
+    {
+     "bo": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+     "dm": "collection of the finest atoms",
+     "gm": "mass of fine atoms"
+    }
+   ]
+  },
+  {
+   "id": "12-2",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Bhagavan",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "12-3",
+   "terms": [
+    {
+     "bo": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+     "dm": "collection of the finest atoms",
+     "gm": "mass of fine atoms"
+    }
+   ]
+  },
+  {
+   "id": "12-4",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Bhagavan",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+     "dm": "collection of the finest atoms",
+     "gm": "mass of fine atoms"
+    }
+   ]
+  },
+  {
+   "id": "12-5",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Bhagavan",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+     "dm": "collection of the finest atoms",
+     "gm": "mass of fine atoms"
+    }
+   ]
+  },
+  {
+   "id": "12-6",
+   "terms": [
+    {
+     "bo": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+     "dm": "collection of the finest atoms",
+     "gm": "mass of fine atoms"
+    }
+   ]
+  },
+  {
+   "id": "12-7",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "three-thousandfold great thousand world system",
+     "gm": "trichiliocosm, the great thousandfold world system"
+    }
+   ]
+  },
+  {
+   "id": "12-8",
+   "terms": [
+    {
+     "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "three-thousandfold great thousand world system",
+     "gm": "trichiliocosm, the great thousandfold world system"
+    }
+   ]
+  },
+  {
+   "id": "12-9",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Bhagavan",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world system",
+     "gm": "world system"
+    },
+    {
+     "bo": "རིལ་པོར་འཛིན་པ",
+     "dm": "grasping at a totality",
+     "gm": "grasping at a solid mass"
+    }
+   ]
+  },
+  {
+   "id": "12-10",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "རིལ་པོར་འཛིན་པ",
+     "dm": "grasping at a totality",
+     "gm": "grasping at a solid mass"
+    }
+   ]
+  },
+  {
+   "id": "12-11",
+   "terms": [
+    {
+     "bo": "རིལ་པོར་འཛིན་པ",
+     "dm": "grasping at a totality",
+     "gm": "grasping at a solid mass"
+    }
+   ]
+  },
+  {
+   "id": "12-12",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "རིལ་པོར་འཛིན་པ",
+     "dm": "grasping at a totality",
+     "gm": "grasping at a solid mass"
+    },
+    {
+     "bo": "ཐ་སྙད",
+     "dm": "conventional designation",
+     "gm": "convention"
+    }
+   ]
+  },
+  {
+   "id": "12-13",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    },
+    {
+     "bo": "བརྗོད་དུ་མེད་པ",
+     "dm": "inexpressible",
+     "gm": "inexpressible"
+    },
+    {
+     "bo": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+     "dm": "immature ordinary beings",
+     "gm": "ordinary childish beings"
+    }
+   ]
+  },
+  {
+   "id": "12-14",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བདག་ཏུ་ལྟ་བ",
+     "dm": "view of a self",
+     "gm": "view of a self"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "12-15",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སེམས་ཅན་དུ་ལྟ་བ",
+     "dm": "view of a sentient being",
+     "gm": "view of a sentient being"
+    },
+    {
+     "bo": "སྲོག་ཏུ་ལྟ་བ",
+     "dm": "view of a life-force",
+     "gm": "view of a living soul"
+    },
+    {
+     "bo": "གང་ཟག་ཏུ་ལྟ་བ",
+     "dm": "view of a person",
+     "gm": "view of a person"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "living soul"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    }
+   ]
+  },
+  {
+   "id": "12-16",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "12-17",
+   "terms": [
+    {
+     "bo": "བདེ་བར་གཤེགས་པ",
+     "dm": "Sugata",
+     "gm": "Sugata"
+    }
+   ]
+  },
+  {
+   "id": "12-18",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བདག་ཏུ་ལྟ་བ",
+     "dm": "view of a self",
+     "gm": "view of a self"
+    }
+   ]
+  },
+  {
+   "id": "12-19",
+   "terms": [
+    {
+     "bo": "བདག་ཏུ་ལྟ་བ",
+     "dm": "view of a self",
+     "gm": "view of a self"
+    }
+   ]
+  },
+  {
+   "id": "12-20",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+     "dm": "path of the bodhisattva",
+     "gm": "bodhisattva vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཆོས་ཐམས་ཅད",
+     "dm": "all phenomena",
+     "gm": "all dharmas"
+    }
+   ]
+  },
+  {
+   "id": "12-21",
+   "terms": [
+    {
+     "bo": "ཆོས་སུ་འདུ་ཤེས",
+     "dm": "perception of phenomena",
+     "gm": "perception of a dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "12-22",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཆོས་སུ་འདུ་ཤེས",
+     "dm": "perception of phenomena",
+     "gm": "perception of a dharma"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "12-23",
+   "terms": [
+    {
+     "bo": "ཆོས་སུ་འདུ་ཤེས",
+     "dm": "perception of phenomena",
+     "gm": "perception of a dharma"
+    }
+   ]
+  },
+  {
+   "id": "12-24",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattva",
+     "gm": "bodhisattva, a great being"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world systems",
+     "gm": "world systems"
+    },
+    {
+     "bo": "རིན་པོ་ཆེ་སྣ་བདུན",
+     "dm": "seven types of precious substances",
+     "gm": "seven precious things"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ",
+     "dm": "son",
+     "gm": "son of noble family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ་མོ",
+     "dm": "daughter of noble family",
+     "gm": "daughter of noble family"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+     "dm": "four-line verse",
+     "gm": "four-line verse"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "12-25",
+   "terms": [
+    {
+     "bo": "ཡང་དག་པར་རབ་ཏུ་སྟོན",
+     "dm": "perfectly and thoroughly teach",
+     "gm": "correctly explain"
+    }
+   ]
+  },
+  {
+   "id": "12-26",
+   "terms": [
+    {
+     "bo": "ཡང་དག་པར་རབ་ཏུ་སྟོན་པ",
+     "dm": "perfectly and thoroughly teaching",
+     "gm": "correctly explaining"
+    }
+   ]
+  },
+  {
+   "id": "12-27",
+   "terms": [
+    {
+     "bo": "སྐར་མ",
+     "dm": "star",
+     "gm": "star"
+    },
+    {
+     "bo": "རབ་རིབ",
+     "dm": "visual fault",
+     "gm": "visual aberration"
+    },
+    {
+     "bo": "མར་མེ",
+     "dm": "lamp",
+     "gm": "lamp"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "magical illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "ཟིལ་བ",
+     "dm": "dewdrop",
+     "gm": "dewdrop"
+    },
+    {
+     "bo": "ཆུ་བུར",
+     "dm": "bubble",
+     "gm": "bubble"
+    },
+    {
+     "bo": "རྨི་ལམ",
+     "dm": "dream",
+     "gm": "dream"
+    },
+    {
+     "bo": "གློག",
+     "dm": "flash of lightning",
+     "gm": "lightning"
+    },
+    {
+     "bo": "སྤྲིན",
+     "dm": "cloud",
+     "gm": "cloud"
+    },
+    {
+     "bo": "འདུས་བྱས་ཐམས་ཅད",
+     "dm": "all conditioned phenomena",
+     "gm": "all conditioned things"
+    }
+   ]
+  },
+  {
+   "id": "13-0",
+   "terms": []
+  },
+  {
+   "id": "13-1",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Bhagavān",
+     "gm": "Bhagavan"
+    },
+    {
+     "bo": "གནས་བརྟན་རབ་འབྱོར",
+     "dm": "elder Subhūti",
+     "gm": "elder Subhūti"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དགེ་སློང",
+     "dm": "monks",
+     "gm": "monks"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattvas",
+     "gm": "bodhisattvas"
+    },
+    {
+     "bo": "འཁོར་བཞི་པོ",
+     "dm": "fourfold assembly",
+     "gm": "fourfold assembly"
+    },
+    {
+     "bo": "དགེ་སློང་མ",
+     "dm": "nuns",
+     "gm": "nuns"
+    },
+    {
+     "bo": "དགེ་བསྙེན",
+     "dm": "laymen",
+     "gm": "laymen"
+    },
+    {
+     "bo": "དགེ་བསྙེན་མ",
+     "dm": "laywomen",
+     "gm": "laywomen"
+    },
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    },
+    {
+     "bo": "མི",
+     "dm": "humans",
+     "gm": "humans"
+    },
+    {
+     "bo": "ལྷ་མ་ཡིན",
+     "dm": "asuras",
+     "gm": "asuras"
+    },
+    {
+     "bo": "དྲི་ཟ",
+     "dm": "gandharvas",
+     "gm": "gandharvas"
+    }
+   ]
+  },
+  {
+   "id": "13-2",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Bhagavān",
+     "gm": "Bhagavan"
+    }
+   ]
+  },
+  {
+   "id": "13-3",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ",
+     "dm": "The Perfection of Wisdom that Cuts Like a Diamond",
+     "gm": "Vajracchedikā Prajñāpāramitā"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Prajñāpāramitā"
+    },
+    {
+     "bo": "རྡོ་རྗེ་གཅོད་པ",
+     "dm": "Cuts Like a Diamond",
+     "gm": "Vajracchedikā"
+    },
+    {
+     "bo": "ཐེག་པ་ཆེན་པོ",
+     "dm": "Mahāyāna",
+     "gm": "Mahāyāna"
+    },
+    {
+     "bo": "མདོ",
+     "dm": "Sūtra",
+     "gm": "sūtra"
+    }
+   ]
+  },
+  {
+   "id": "13-4",
+   "terms": [
+    {
+     "bo": "ན་མོ་བྷ་ག་ཝ་ཏེ། པྲཛྙཱ་པ་ར་མི་ཏ་ཡེ། ཨོཾ་ན་ཏ་ད་ཏི་ཏ། ཨི་ལི་ཤི །ཨི་ལི་ཤི །མི་ལི་ཤི །མི་ལི་ཤི །བྷི་ན་ཡན་བྷི་ན་ཡན། ན་མོ་བྷ་ག་ཝ་ཏེ། པྲད་ཏྱཾ་པྲ་ཏེ། ཨི་རི་ཏི། ཨི་རི་ཏི། མི་ར་ཏི། མི་རི་ཏི། ཤུ་རི་ཏི། ཤུ་རི་ཏི། ཨུ་ཤུ་རི་ཨུ་ཤུ་རི། བྷུ་ཡུ་ཡེ་བྷུ་ཡུ་ཡེ་སྭཱཧཱ",
+     "dm": "Namo bhagavate prajñāpāramitāye. Oṃ natadatita iliśi iliśi miliśi miliśi bhinayan bhinayan. Namo bhagavate pratyampate iriti iriti miriti miriti śuriti śuriti uśuri uśuri bhuyuye bhuyuye svāhā",
+     "gm": "namo bhagavate prajñāpāramitāye oṃ natadatita iliśi iliśi miliśi miliśi bhinayan bhinayan namo bhagavate pratyaṃprate iriti iriti mirati miriti śuriti śuriti uśuri uśuri bhuyuye bhuyuye svāhā"
+    }
+   ]
+  },
+  {
+   "id": "13-5",
+   "terms": [
+    {
+     "bo": "རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ",
+     "dm": "essence of the Diamond Cutter",
+     "gm": "essence of the Vajracchedikā"
+    },
+    {
+     "bo": "རྡོ་རྗེ་གཅོད་པ",
+     "dm": "Diamond Cutter",
+     "gm": "Vajracchedikā"
+    }
+   ]
+  },
+  {
+   "id": "13-6",
+   "terms": [
+    {
+     "bo": "ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ",
+     "dm": "Ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat | teṣāñca yo nirodha evaṃvādī mahāśramaṇaye svāhā",
+     "gm": "ye dharma hetuprabhava hetunteṣāntathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā"
+    }
+   ]
+  }
+ ]
+}

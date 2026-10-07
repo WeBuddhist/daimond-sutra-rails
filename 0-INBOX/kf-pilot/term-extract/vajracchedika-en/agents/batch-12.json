@@ -1,0 +1,434 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "11-0",
+   "terms": [
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "Fruition",
+     "gm": "Resultant"
+    },
+    {
+     "bo": "ཆོས་སྐུ",
+     "dm": "Dharmakāya",
+     "gm": "Dharmakāya"
+    }
+   ]
+  },
+  {
+   "id": "11-1",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "སྒྲ",
+     "dm": "sound",
+     "gm": "sound"
+    },
+    {
+     "bo": "ལོག་པའི་ལམ",
+     "dm": "mistaken path",
+     "gm": "wrong path"
+    }
+   ]
+  },
+  {
+   "id": "11-2",
+   "terms": []
+  },
+  {
+   "id": "11-3",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "ཆོས་ཉིད",
+     "dm": "nature of reality",
+     "gm": "nature of phenomena"
+    }
+   ]
+  },
+  {
+   "id": "11-4",
+   "terms": [
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "guides",
+     "gm": "guides"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་སྐུ",
+     "dm": "Dharmakāya",
+     "gm": "body of Dharma"
+    },
+    {
+     "bo": "ཆོས་ཉིད",
+     "dm": "nature of reality",
+     "gm": "nature of phenomena"
+    }
+   ]
+  },
+  {
+   "id": "11-5",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "11-6",
+   "terms": [
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfection of marks",
+     "gm": "perfection of his marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "perfect enlightenment",
+     "gm": "perfect and full awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས",
+     "dm": "fully awakened",
+     "gm": "fully awakened"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "11-7",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfection of marks",
+     "gm": "perfection of his marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "perfect enlightenment",
+     "gm": "perfect and full awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས",
+     "dm": "fully awakened",
+     "gm": "fully awakened"
+    }
+   ]
+  },
+  {
+   "id": "11-8",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+     "dm": "bodhisattva vehicle",
+     "gm": "Bodhisattva vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔ",
+     "dm": "bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "phenomenon"
+    },
+    {
+     "bo": "ཆད་པ",
+     "dm": "cut off",
+     "gm": "annihilated"
+    }
+   ]
+  },
+  {
+   "id": "11-9",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+     "dm": "bodhisattva vehicle",
+     "gm": "Bodhisattva vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔ",
+     "dm": "bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "phenomenon"
+    },
+    {
+     "bo": "ཆད་པ",
+     "dm": "cut off",
+     "gm": "annihilated"
+    }
+   ]
+  },
+  {
+   "id": "11-10",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+     "dm": "son or daughter of noble family",
+     "gm": "son of good family or a daughter of good family"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world systems",
+     "gm": "world systems"
+    },
+    {
+     "bo": "གངྒཱའི་ཀླུང",
+     "dm": "river Ganges",
+     "gm": "river Ganges"
+    },
+    {
+     "bo": "རིན་པོ་ཆེ་སྣ་བདུན",
+     "dm": "seven types of precious jewels",
+     "gm": "seven precious things"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔ",
+     "dm": "bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "phenomena",
+     "gm": "Dharma-discourse"
+    },
+    {
+     "bo": "བདག་མེད",
+     "dm": "without self",
+     "gm": "selfless"
+    },
+    {
+     "bo": "སྐྱེ་བ་མེད་པ",
+     "dm": "unborn",
+     "gm": "unproduced"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "mass of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "11-11",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔ",
+     "dm": "bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "mass of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "ཡོངས་སུ་གཟུང་",
+     "dm": "take hold of",
+     "gm": "fully acquire"
+    }
+   ]
+  },
+  {
+   "id": "11-12",
+   "terms": [
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "Venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔ",
+     "dm": "bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "mass of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "ཡོངས་སུ་གཟུང་",
+     "dm": "take hold of",
+     "gm": "fully acquire"
+    }
+   ]
+  },
+  {
+   "id": "11-13",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཡོངས་སུ་གཟུང་",
+     "dm": "take hold of",
+     "gm": "fully acquire"
+    }
+   ]
+  },
+  {
+   "id": "11-14",
+   "terms": [
+    {
+     "bo": "ཡོངས་སུ་གཟུང་བ",
+     "dm": "taking hold",
+     "gm": "fully acquiring"
+    }
+   ]
+  },
+  {
+   "id": "11-15",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "11-16",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "11-17",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "Perfectly Complete Buddha",
+     "gm": "perfectly and fully awakened Buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "8-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-4",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "མཚན"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "8-5",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཚན",
+      "reason": "component of a listed compound term",
+      "dm": "marks",
+      "gm": "marks"
+     }
+    ]
+   },
+   {
+    "id": "8-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-11",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-14",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-19",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-21",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-28",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-29",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-33",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [],
+  "fix_span": [
+   {
+    "id": "8-4",
+    "bo": "མཚན་མ",
+    "bo_fixed": "མཚན"
+   }
+  ],
+  "add": [
+   {
+    "id": "8-5",
+    "bo": "མཚན",
+    "dm": "marks",
+    "gm": "marks",
+    "reason": "component of a listed compound term"
+   }
+  ]
+ }
+}

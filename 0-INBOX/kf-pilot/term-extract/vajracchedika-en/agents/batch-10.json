@@ -1,0 +1,590 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "10-0",
+   "terms": [
+    {
+     "bo": "སེམས་སེམས་བྱུང",
+     "dm": "Mind and Mental Factors",
+     "gm": "Mind and Mental Factors"
+    }
+   ]
+  },
+  {
+   "id": "10-1",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "དམིགས་སུ་མེད",
+     "dm": "unapprehendable",
+     "gm": "cannot be apprehended"
+    }
+   ]
+  },
+  {
+   "id": "10-2",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "དམིགས་སུ་མེད",
+     "dm": "unapprehendable",
+     "gm": "cannot be apprehended"
+    }
+   ]
+  },
+  {
+   "id": "10-3",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "དམིགས་སུ་མེད",
+     "dm": "unapprehendable",
+     "gm": "cannot be apprehended"
+    }
+   ]
+  },
+  {
+   "id": "10-4",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-5",
+   "terms": [
+    {
+     "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "trichiliocosm world system",
+     "gm": "three-thousandfold great thousandfold world realm"
+    },
+    {
+     "bo": "རིན་པོ་ཆེ་སྣ་བདུན",
+     "dm": "seven types of precious jewels",
+     "gm": "seven precious substances"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "gift",
+     "gm": "gift"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+     "dm": "son or daughter of good family",
+     "gm": "son of noble family or daughter of noble family"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "10-6",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "10-7",
+   "terms": [
+    {
+     "bo": "བདེ་བར་གཤེགས་པ",
+     "dm": "Sugata",
+     "gm": "Sugata"
+    }
+   ]
+  },
+  {
+   "id": "10-8",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-9",
+   "terms": [
+    {
+     "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+     "dm": "son or daughter of good family",
+     "gm": "son of noble family or daughter of noble family"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "heap of merit",
+     "gm": "heap of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "10-10",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "heap of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-11",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-12",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "གཟུགས་ཀྱི་སྐུ",
+     "dm": "form body",
+     "gm": "form body"
+    },
+    {
+     "bo": "ཡོངས་སུ་གྲུབ་པ",
+     "dm": "perfection",
+     "gm": "perfect accomplishment"
+    }
+   ]
+  },
+  {
+   "id": "10-13",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "10-14",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "གཟུགས་ཀྱི་སྐུ",
+     "dm": "form body",
+     "gm": "form body"
+    },
+    {
+     "bo": "ཡོངས་སུ་གྲུབ་པ",
+     "dm": "perfection",
+     "gm": "perfect accomplishment"
+    }
+   ]
+  },
+  {
+   "id": "10-15",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "གཟུགས་ཀྱི་སྐུ",
+     "dm": "form body",
+     "gm": "form body"
+    },
+    {
+     "bo": "ཡོངས་སུ་གྲུབ་པ",
+     "dm": "perfection",
+     "gm": "perfect accomplishment"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-16",
+   "terms": [
+    {
+     "bo": "གཟུགས་ཀྱི་སྐུ",
+     "dm": "form body",
+     "gm": "form body"
+    },
+    {
+     "bo": "ཡོངས་སུ་གྲུབ་པ",
+     "dm": "perfection",
+     "gm": "perfect accomplishment"
+    }
+   ]
+  },
+  {
+   "id": "10-17",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-18",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfection of his marks",
+     "gm": "perfection of marks"
+    },
+    {
+     "bo": "མཚན",
+     "dm": "marks",
+     "gm": "marks"
+    }
+   ]
+  },
+  {
+   "id": "10-19",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "10-20",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfection of his marks",
+     "gm": "perfection of marks"
+    },
+    {
+     "bo": "མཚན",
+     "dm": "marks",
+     "gm": "marks"
+    }
+   ]
+  },
+  {
+   "id": "10-21",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfection of marks",
+     "gm": "perfection of marks"
+    },
+    {
+     "bo": "མཚན",
+     "dm": "marks",
+     "gm": "marks"
+    }
+   ]
+  },
+  {
+   "id": "10-22",
+   "terms": [
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfection of marks",
+     "gm": "perfection of marks"
+    },
+    {
+     "bo": "མཚན",
+     "dm": "marks",
+     "gm": "marks"
+    }
+   ]
+  },
+  {
+   "id": "10-23",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-24",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-25",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "10-26",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "10-27",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཆོས་བསྟན་པ",
+     "dm": "teaching the Dharma",
+     "gm": "teaching the Dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "དམིགས་པར་འགྱུར",
+     "dm": "apprehended",
+     "gm": "apprehended"
+    }
+   ]
+  },
+  {
+   "id": "10-28",
+   "terms": [
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "10-29",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "མངོན་པར་ཡིད་ཆེས",
+     "dm": "true faith",
+     "gm": "truly believe"
+    }
+   ]
+  },
+  {
+   "id": "10-30",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "10-31",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-32",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,993 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "8-80",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+     "dm": "bodhisattva vehicle",
+     "gm": "bodhisattva vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "8-81",
+   "terms": []
+  },
+  {
+   "id": "8-82",
+   "terms": []
+  },
+  {
+   "id": "8-83",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར",
+     "dm": "venerable Subhūti",
+     "gm": "venerable Subhūti"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "8-84",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+     "dm": "bodhisattva vehicle",
+     "gm": "bodhisattva vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདའ",
+     "dm": "final nirvāṇa",
+     "gm": "complete nirvāṇa"
+    },
+    {
+     "bo": "ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པ",
+     "dm": "nirvāṇa without remainder",
+     "gm": "nirvāṇa without remainder of the aggregates"
+    },
+    {
+     "bo": "མྱ་ངན་ལས་འདས་པ",
+     "dm": "nirvāṇa",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "ཕུང་པོ",
+     "dm": null,
+     "gm": "aggregates"
+    }
+   ]
+  },
+  {
+   "id": "8-85",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ",
+     "dm": "final nirvāṇa",
+     "gm": "complete nirvāṇa"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད་པ",
+     "dm": "generate the mind",
+     "gm": "generate the mind"
+    }
+   ]
+  },
+  {
+   "id": "8-86",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-87",
+   "terms": [
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "8-88",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+     "dm": "bodhisattva vehicle",
+     "gm": "bodhisattva vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-89",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "8-90",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མར་མེ་མཛད",
+     "dm": "Dīpaṃkara",
+     "gm": "Dīpaṃkara"
+    },
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfectly complete enlightenment",
+     "gm": "unsurpassable, perfectly complete awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "fully realized",
+     "gm": "fully awakened"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-91",
+   "terms": [
+    {
+     "bo": "ཚེ་དང༌ལྡན་པ་རབ་འབྱོར",
+     "dm": "venerable Subhūti",
+     "gm": "venerable Subhūti"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "8-92",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མར་མེ་མཛད",
+     "dm": "Dīpaṃkara",
+     "gm": "Dīpaṃkara"
+    },
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfectly complete enlightenment",
+     "gm": "unsurpassable, perfectly complete awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "fully realized",
+     "gm": "fully awakened"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-93",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར",
+     "dm": "venerable Subhūti",
+     "gm": "venerable Subhūti"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "8-94",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "8-95",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མར་མེ་མཛད",
+     "dm": "Dīpaṃkara",
+     "gm": "Dīpaṃkara"
+    },
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfectly complete enlightenment",
+     "gm": "unsurpassable, perfectly complete awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "fully realized",
+     "gm": "fully awakened"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-96",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "fully realized",
+     "gm": "fully awakened"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    },
+    {
+     "bo": "མར་མེ་མཛད",
+     "dm": "Dīpaṃkara",
+     "gm": "Dīpaṃkara"
+    },
+    {
+     "bo": "བྲམ་ཟེའི་ཁྱེའུ",
+     "dm": "Young Brahmin",
+     "gm": "Brahmin boy"
+    },
+    {
+     "bo": "ལུང་མི་སྟོན་པ",
+     "dm": "prophecy",
+     "gm": "prophesied"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "Perfectly Complete Buddha",
+     "gm": "perfectly complete buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "buddha"
+    },
+    {
+     "bo": "ཤཱཀྱ་ཐུབ་པ",
+     "dm": "Śākyamuni",
+     "gm": "Śākyamuni"
+    }
+   ]
+  },
+  {
+   "id": "8-97",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfectly complete enlightenment",
+     "gm": "unsurpassable, perfectly complete awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "fully realized",
+     "gm": "fully awakened"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-98",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མར་མེ་མཛད",
+     "dm": "Dīpaṃkara",
+     "gm": "Dīpaṃkara"
+    },
+    {
+     "bo": "བྲམ་ཟེའི་ཁྱེའུ",
+     "dm": "Young Brahmin",
+     "gm": "Brahmin boy"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "Perfectly Complete Buddha",
+     "gm": "perfectly complete buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "buddha"
+    },
+    {
+     "bo": "ཤཱཀྱ་ཐུབ་པ",
+     "dm": "Śākyamuni",
+     "gm": "Śākyamuni"
+    },
+    {
+     "bo": "ལུང་བསྟན",
+     "dm": "prophesied",
+     "gm": "prophesied"
+    }
+   ]
+  },
+  {
+   "id": "8-99",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཡང་དག་པའི་དེ་བཞིན་ཉིད",
+     "dm": "true suchness",
+     "gm": "true suchness"
+    },
+    {
+     "bo": "དེ་བཞིན་ཉིད",
+     "dm": "suchness",
+     "gm": "suchness"
+    },
+    {
+     "bo": "ཚིག་བླ་དྭགས",
+     "dm": "designation",
+     "gm": "designation"
+    }
+   ]
+  },
+  {
+   "id": "8-100",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "perfectly complete Buddha",
+     "gm": "perfectly complete buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "buddha"
+    },
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfectly complete enlightenment",
+     "gm": "unsurpassable, perfectly complete awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས",
+     "dm": "fully awakened",
+     "gm": "fully awakened"
+    }
+   ]
+  },
+  {
+   "id": "8-101",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "8-102",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfectly complete enlightenment",
+     "gm": "unsurpassable, perfectly complete awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "fully awakened",
+     "gm": "fully awakened"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-103",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharma"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "fully awakened",
+     "gm": "fully awakened"
+    }
+   ]
+  },
+  {
+   "id": "8-104",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས་ཐམས་ཅད",
+     "dm": "all phenomena",
+     "gm": "all dharmas"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཀྱི་ཆོས",
+     "dm": "qualities of a Buddha",
+     "gm": "Buddha's dharmas"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    }
+   ]
+  },
+  {
+   "id": "8-105",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཆོས་ཐམས་ཅད",
+     "dm": "all phenomena",
+     "gm": "all dharmas"
+    },
+    {
+     "bo": "ཆོས་མེད་པ",
+     "dm": "non-phenomena",
+     "gm": "non-dharmas"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    }
+   ]
+  },
+  {
+   "id": "8-106",
+   "terms": [
+    {
+     "bo": "ཆོས་ཐམས་ཅད",
+     "dm": "all phenomena",
+     "gm": "all dharmas"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཀྱི་ཆོས",
+     "dm": "qualities of a Buddha",
+     "gm": "Buddha's dharmas"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    }
+   ]
+  },
+  {
+   "id": "8-107",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "མིའི་ལུས",
+     "dm": "human body",
+     "gm": "human body"
+    },
+    {
+     "bo": "ལུས་ཆེན་པོ",
+     "dm": "great body",
+     "gm": "large body"
+    }
+   ]
+  },
+  {
+   "id": "8-108",
+   "terms": [
+    {
+     "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར",
+     "dm": "venerable Subhūti",
+     "gm": "Venerable Subhūti"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མིའི་ལུས",
+     "dm": "human body",
+     "gm": "human body"
+    },
+    {
+     "bo": "ལུས་ཆེན་པོ",
+     "dm": "great body",
+     "gm": "large body"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "8-109",
+   "terms": [
+    {
+     "bo": "ལུས་ཆེན་པོ",
+     "dm": "great body",
+     "gm": "large body"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "8-110",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "8-111",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདའ",
+     "dm": "complete nirvana",
+     "gm": "completely pass into nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "8-112",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-113",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "8-114",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས་ཐམས་ཅད",
+     "dm": "all phenomena",
+     "gm": "all dharmas"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life",
+     "gm": "soul"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    }
+   ]
+  },
+  {
+   "id": "8-115",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཞིང་བཀོད་པ",
+     "dm": "arrays of buddhafields",
+     "gm": "arrays of the fields"
+    }
+   ]
+  },
+  {
+   "id": "8-116",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཞིང་བཀོད་པ",
+     "dm": "arrays of buddhafields",
+     "gm": "arrays of the fields"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "8-117",
+   "terms": [
+    {
+     "bo": "ཞིང་བཀོད་པ",
+     "dm": "arrays of buddhafields",
+     "gm": "arrays of the fields"
+    }
+   ]
+  },
+  {
+   "id": "8-118",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "བདག་མེད་པ",
+     "dm": "selfless",
+     "gm": "without self"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "perfectly complete Buddha",
+     "gm": "Perfectly Complete Buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattva",
+     "gm": "bodhisattva, a great being"
+    },
+    {
+     "bo": "སེམས་དཔའ་ཆེན་པོ",
+     "dm": "mahāsattva",
+     "gm": "great being"
+    }
+   ]
+  }
+ ]
+}

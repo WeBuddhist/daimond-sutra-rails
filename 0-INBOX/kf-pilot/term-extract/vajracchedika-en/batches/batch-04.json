@@ -1,0 +1,289 @@
+[
+ {
+  "id": "7-0",
+  "heading": true,
+  "bo": "ཞུགས་གནས་བརྒྱད།",
+  "dm": "The Eight Types of Noble Beings",
+  "gm": "The Eight Stages of Entering and Abiding"
+ },
+ {
+  "id": "7-1",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "Subhūti, what do you think?"
+ },
+ {
+  "id": "7-2",
+  "heading": false,
+  "bo": "རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+  "dm": "Does a stream-enterer think, \"I have attained the fruit of a stream-enterer\"?",
+  "gm": "Does a Stream-Enterer think, 'I have obtained the fruit of a Stream-Enterer'?"
+ },
+ {
+  "id": "7-3",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not so.\"",
+  "gm": "Subhūti replied: Blessed One, that is not so."
+ },
+ {
+  "id": "7-4",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་ནི་ཅི་ལ་ཡང་ཞུགས་པ་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Blessed One, it is because he has not entered into anything at all.",
+  "gm": "Why is that? Blessed One, because he has not entered into anything;"
+ },
+ {
+  "id": "7-5",
+  "heading": false,
+  "bo": "དེས་ན་རྒྱུན་དུ་ཞུགས་པ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, he is called a \"stream-enterer.\"",
+  "gm": "therefore he is called a Stream-Enterer."
+ },
+ {
+  "id": "7-6",
+  "heading": false,
+  "bo": "གཟུགས་ལ་ཡང་མ་ཞུགས། སྒྲ་ལ་ཡང་མ་ལགས། དྲི་ལ་ཡང་མ་ལགས། རོ་ལ་ཡང་མ་ལགས། རེག་བྱ་ལ་ཡང་མ་ལགས། ཆོས་རྣམས་ལ་ཡང་མ་ཞུགས་ཏེ།",
+  "dm": "He has not entered into forms, nor has he entered into sounds, nor has he entered into odors, nor has he entered into tastes, nor has he entered into tangibles, nor has he entered into mental phenomena.",
+  "gm": "He has not entered into forms, nor into sounds, nor into smells, nor into tastes, nor into tangible objects, nor into dharmas;"
+ },
+ {
+  "id": "7-7",
+  "heading": false,
+  "bo": "དེས་ན་རྒྱུན་དུ་ཞུགས་པ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, he is called a \"stream-enterer.\"",
+  "gm": "therefore he is called a Stream-Enterer."
+ },
+ {
+  "id": "7-8",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "Why is that? Blessed One, if a stream-enterer were to think, \"I have attained the fruit of a stream-enterer,\" that itself would be his grasping at a self.",
+  "gm": "Why is that? Blessed One, if a Stream-Enterer were to think, 'I have obtained the fruit of a Stream-Enterer', that itself would be his grasping at a self."
+ },
+ {
+  "id": "7-9",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "It would be grasping at a sentient being, grasping at a life force, and grasping at a person.",
+  "gm": "It would be grasping at a living being, grasping at a life, and grasping at a person."
+ },
+ {
+  "id": "7-10",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said: Subhūti, what do you think?"
+ },
+ {
+  "id": "7-11",
+  "heading": false,
+  "bo": "ལན་ཅིག་ཕྱིར་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ།",
+  "dm": "Does a once-returner think, 'I have attained the fruit of a once-returner'?\"",
+  "gm": "Does a Once-Returner think, 'I have obtained the fruit of a Once-Returner'?"
+ },
+ {
+  "id": "7-12",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not so.\"",
+  "gm": "Subhūti replied: Blessed One, that is not so."
+ },
+ {
+  "id": "7-13",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། གང་ལན་ཅིག་ཕྱིར་འོང་བ་ཉིད་དུ་ཞུགས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? It is because there is no phenomenon whatsoever that has entered into the state of being a once-returner.",
+  "gm": "Why is that? Because there is no dharma whatsoever that has entered into the state of a Once-Returner;"
+ },
+ {
+  "id": "7-14",
+  "heading": false,
+  "bo": "དེས་ན་ལན་ཅིག་ཕྱིར་འོང་བ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called a \"once-returner.\"",
+  "gm": "therefore he is called a Once-Returner."
+ },
+ {
+  "id": "7-15",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་གལ་ཏེ་ལན་ཅིག་ཕྱིར་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "Blessed One, if a once-returner were to think, \"I have attained the fruit of a once-returner,\" that itself would be his grasping at a self.",
+  "gm": "Blessed One, if a Once-Returner were to think, 'I have obtained the fruit of a Once-Returner', that itself would be his grasping at a self."
+ },
+ {
+  "id": "7-16",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "It would be grasping at a sentient being, grasping at a life-force, and grasping at a person.",
+  "gm": "It would be grasping at a living being, grasping at a life, and grasping at a person."
+ },
+ {
+  "id": "7-17",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས་",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said: Subhūti, what do you think?"
+ },
+ {
+  "id": "7-18",
+  "heading": false,
+  "bo": "ཕྱིར་མི་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+  "dm": "Does a non-returner think, 'I have attained the fruit of a non-returner'?\"",
+  "gm": "Does a Non-Returner think, 'I have obtained the fruit of a Non-Returner'?"
+ },
+ {
+  "id": "7-19",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti replied: Blessed One, that is not so."
+ },
+ {
+  "id": "7-20",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། གང་ཕྱིར་མི་འོང་བ་ཉིད་དུ་ཞུགས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Because there is no phenomenon whatsoever that has entered into the state of a non-returner.",
+  "gm": "Why is that? Because there is no dharma whatsoever that has entered into the state of a Non-Returner;"
+ },
+ {
+  "id": "7-21",
+  "heading": false,
+  "bo": "དེའི་ཕྱིར་ཕྱིར་མི་འོང་བ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called a non-returner.",
+  "gm": "therefore he is called a Non-Returner."
+ },
+ {
+  "id": "7-22",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said: Subhūti, what do you think?"
+ },
+ {
+  "id": "7-23",
+  "heading": false,
+  "bo": "དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+  "dm": "Does an arhat think, 'I have attained the state of an arhat'?\"",
+  "gm": "Does an Arhat think, 'I have obtained Arhatship'?"
+ },
+ {
+  "id": "7-24",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti replied: Blessed One, that is not so."
+ },
+ {
+  "id": "7-25",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། གང་དག་དགྲ་བཅོམ་པ་ཞེས་བགྱི་བའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུའོ། །",
+  "dm": "Why is that? It is because there is no phenomenon whatsoever that can be called an arhat.",
+  "gm": "Why is that? Because there is no dharma whatsoever that is called an Arhat."
+ },
+ {
+  "id": "7-26",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་གལ་ཏེ་དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "Blessed One, if an arhat were to think, 'I have attained the state of an arhat,' that itself would be his grasping at a self.",
+  "gm": "Blessed One, if an Arhat were to think, 'I have obtained Arhatship,' that itself would be his grasping at a self,"
+ },
+ {
+  "id": "7-27",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "It would be grasping at a sentient being, grasping at a life force, and grasping at a person.",
+  "gm": "grasping at a sentient being, grasping at a life, and grasping at a person."
+ },
+ {
+  "id": "7-28",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བདག་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་ཉོན་མོངས་པ་མེད་པར་གནས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་ཏེ།",
+  "dm": "Blessed One, the Tathāgata, the Arhat, the Perfectly Complete Buddha has declared me to be the foremost of those who dwell in the state of being without defilement.",
+  "gm": "Blessed One, the Tathāgata, the Arhat, the perfectly and fully awakened Buddha has declared me to be the foremost of those who dwell without afflictions."
+ },
+ {
+  "id": "7-29",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བདག་འདོད་ཆགས་དང་བྲལ་བ་དགྲ་བཅོམ་པ་ལགས་ཀྱང༌། བཅོམ་ལྡན་འདས་བདག་འདི་སྙམ་དུ་བདག་ནི་དགྲ་བཅོམ་པའོ་སྙམ་དུ་མི་སེམས་ལགས་སོ། །",
+  "dm": "Blessed One, although I am an arhat who is free from desire, Blessed One, I do not think to myself that I am an arhat.",
+  "gm": "Blessed One, although I am an Arhat free from desire, Blessed One, I do not think, 'I am an Arhat.'"
+ },
+ {
+  "id": "7-30",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་གལ་ཏེ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་བཞིན་གཤེགས་པས་བདག་ལ་རིགས་ཀྱི་བུ་རབ་འབྱོར་ནི་ཉོན་མོངས་པ་མེད་པར་གནས་པ་རྣམས་ཀྱི་མཆོག་ཡིན་ཏེ།",
+  "dm": "Blessed One, if I were to think that I had attained the state of an arhat, the Tathāgata would not have declared of me, \"The son of good family, Subhūti, is the foremost of those who dwell in the state of being without defilement.\"",
+  "gm": "Blessed One, if I were to think, 'I have obtained Arhatship,' the Tathāgata would not have declared of me, 'The son of noble family Subhūti is the foremost of those who dwell without afflictions;"
+ },
+ {
+  "id": "7-31",
+  "heading": false,
+  "bo": "ཅི་ལ་ཡང་མི་གནས་པས་ན་ཉོན་མོངས་པ་མེད་པར་གནས་པ་ཞེས་ལུང་མི་སྟོན་ལགས་སོ། །",
+  "dm": "Because I do not abide in anything whatsoever, I do not declare myself to be one who dwells in the state of being without defilement.",
+  "gm": "and because he dwells nowhere, he is called a dweller without afflictions.'"
+ },
+ {
+  "id": "7-32",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said: Subhūti, what do you think?"
+ },
+ {
+  "id": "7-33",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ལས་གང་བླངས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+  "dm": "Do you think that there is any dharma that the Tathāgata obtained from the Tathāgata, Arhat, Perfectly Complete Buddha Dīpaṃkara?\"",
+  "gm": "Do you think there is any Dharma that the Tathāgata received from the Tathāgata, the Arhat, the perfectly and fully awakened Buddha Dīpaṃkara?"
+ },
+ {
+  "id": "7-34",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti said: Blessed One, that is not so."
+ },
+ {
+  "id": "7-35",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ལས་གང་བླངས་པའི་ཆོས་དེ་གང་ཡང་ཡོང་ཡེ་མ་མཆིས་ལགས་སོ། །",
+  "dm": "There is not any dharma whatsoever that the Tathāgata, Arhat, Perfectly Complete Buddha Dīpaṃkara obtained from the Tathāgata.\"",
+  "gm": "There is absolutely no Dharma that the Tathāgata received from the Tathāgata, the Arhat, the perfectly and fully awakened Buddha Dīpaṃkara."
+ },
+ {
+  "id": "7-36",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ་བདག་གིས་ཞིང་བཀོད་པ་རྣམས་སྒྲུབ་བོ་ཞེས་ཟེར་ན་དེ་ནི་མི་བདེན་པར་སྨྲའོ། །",
+  "dm": "The Blessed One said, \"Subhūti, if any bodhisattva were to say, 'I shall accomplish the adornment of the buddha-fields,' he would be speaking untruthfully.\"",
+  "gm": "The Blessed One said: Subhūti, if any bodhisattva were to say, 'I will accomplish the array of the fields,' they would be speaking falsely."
+ },
+ {
+  "id": "7-37",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཞིང་བཀོད་པ་རྣམས་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱ་བ་ནི། བཀོད་པ་དེ་དག་མེད་པར་དེ་བཞིན་གཤེགས་པར་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, the so-called \"adornment of the buddha-fields\" is spoken of by the Tathāgata as a non-adornment, because those adornments do not exist.",
+  "gm": "Why is that? Subhūti, as for what is called 'the array of the fields, the array of the fields,' it is because the Tathāgata has taught them as being no array;"
+ },
+ {
+  "id": "7-38",
+  "heading": false,
+  "bo": "དེས་ན་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called \"adornment of the buddha-fields.\"",
+  "gm": "therefore, they are called 'the array of the fields.'"
+ },
+ {
+  "id": "7-39",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེ་ལྟ་བས་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་འདི་ལྟར་མི་གནས་པར་སེམས་པ་བསྐྱེད་པར་བྱ་སྟེ།",
+  "dm": "Subhūti, because of that, a bodhisattva mahāsattva should generate the mind in such a way that it does not abide.",
+  "gm": "Therefore, Subhūti, a bodhisattva, a great being, should produce the mind without dwelling in this way;"
+ },
+ {
+  "id": "7-40",
+  "heading": false,
+  "bo": "ཅི་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind without abiding in anything at all.",
+  "gm": "they should produce the mind without dwelling on anything whatsoever."
+ }
+]

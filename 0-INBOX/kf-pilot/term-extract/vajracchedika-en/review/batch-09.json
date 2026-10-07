@@ -1,0 +1,533 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "9-0",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "སྤྱན་ལྔ"
+     }
+    ],
+    "add": [
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of Five Eyes",
+      "dm": "Eyes",
+      "gm": "Eyes"
+     }
+    ]
+   },
+   {
+    "id": "9-1",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of fleshly eye",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-2",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of fleshly eye",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-4",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of divine eye",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-5",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of divine eye",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-7",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Sub-term of eye of wisdom",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of eye of wisdom",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-9",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Sub-term of eye of wisdom",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of eye of wisdom",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-11",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Sub-term of Dharma eye",
+      "dm": "Dharma",
+      "gm": "Dharma"
+     },
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of Dharma eye",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-13",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Sub-term of Dharma eye",
+      "dm": "Dharma",
+      "gm": "Dharma"
+     },
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of Dharma eye",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-14",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-15",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Sub-term of Buddha eye",
+      "dm": "Buddha",
+      "gm": "Buddha"
+     },
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of Buddha eye",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-17",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Sub-term of Buddha eye",
+      "dm": "Buddha",
+      "gm": "Buddha"
+     },
+     {
+      "bo": "སྤྱན",
+      "reason": "Sub-term of Buddha eye",
+      "dm": "eye",
+      "gm": "eye"
+     }
+    ]
+   },
+   {
+    "id": "9-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-19",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Sub-term of world systems",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   },
+   {
+    "id": "9-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-21",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Sub-term of world systems",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   },
+   {
+    "id": "9-22",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Sub-term of world systems",
+      "dm": "world",
+      "gm": "world"
+     },
+     {
+      "bo": "སེམས",
+      "reason": "Sub-term of stream of thought/mind",
+      "dm": "thought",
+      "gm": "mind"
+     },
+     {
+      "bo": "རྒྱུན",
+      "reason": "Sub-term of stream of thought/mind",
+      "dm": "streams",
+      "gm": "streams"
+     }
+    ]
+   },
+   {
+    "id": "9-23",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Sub-term of stream of thought/mind",
+      "dm": "thought",
+      "gm": "mind"
+     },
+     {
+      "bo": "རྒྱུན",
+      "reason": "Sub-term of stream of thought/mind",
+      "dm": "stream",
+      "gm": "stream"
+     }
+    ]
+   },
+   {
+    "id": "9-24",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Sub-term of stream of thought/mind",
+      "dm": "thought",
+      "gm": "mind"
+     },
+     {
+      "bo": "རྒྱུན",
+      "reason": "Sub-term of stream of thought/mind",
+      "dm": "stream",
+      "gm": "stream"
+     }
+    ]
+   },
+   {
+    "id": "9-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [],
+  "fix_span": [
+   {
+    "id": "9-0",
+    "bo": "སྤྱན་ལྔ་ཁྱད་པར་ཅན",
+    "bo_fixed": "སྤྱན་ལྔ"
+   }
+  ],
+  "add": [
+   {
+    "id": "9-0",
+    "bo": "སྤྱན",
+    "dm": "Eyes",
+    "gm": "Eyes",
+    "reason": "Sub-term of Five Eyes"
+   },
+   {
+    "id": "9-1",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of fleshly eye"
+   },
+   {
+    "id": "9-2",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of fleshly eye"
+   },
+   {
+    "id": "9-4",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of divine eye"
+   },
+   {
+    "id": "9-5",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of divine eye"
+   },
+   {
+    "id": "9-7",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Sub-term of eye of wisdom"
+   },
+   {
+    "id": "9-7",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of eye of wisdom"
+   },
+   {
+    "id": "9-9",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Sub-term of eye of wisdom"
+   },
+   {
+    "id": "9-9",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of eye of wisdom"
+   },
+   {
+    "id": "9-11",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": "Dharma",
+    "reason": "Sub-term of Dharma eye"
+   },
+   {
+    "id": "9-11",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of Dharma eye"
+   },
+   {
+    "id": "9-13",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": "Dharma",
+    "reason": "Sub-term of Dharma eye"
+   },
+   {
+    "id": "9-13",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of Dharma eye"
+   },
+   {
+    "id": "9-15",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "Buddha",
+    "reason": "Sub-term of Buddha eye"
+   },
+   {
+    "id": "9-15",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of Buddha eye"
+   },
+   {
+    "id": "9-17",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "Buddha",
+    "reason": "Sub-term of Buddha eye"
+   },
+   {
+    "id": "9-17",
+    "bo": "སྤྱན",
+    "dm": "eye",
+    "gm": "eye",
+    "reason": "Sub-term of Buddha eye"
+   },
+   {
+    "id": "9-19",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Sub-term of world systems"
+   },
+   {
+    "id": "9-21",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Sub-term of world systems"
+   },
+   {
+    "id": "9-22",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Sub-term of world systems"
+   },
+   {
+    "id": "9-22",
+    "bo": "སེམས",
+    "dm": "thought",
+    "gm": "mind",
+    "reason": "Sub-term of stream of thought/mind"
+   },
+   {
+    "id": "9-22",
+    "bo": "རྒྱུན",
+    "dm": "streams",
+    "gm": "streams",
+    "reason": "Sub-term of stream of thought/mind"
+   },
+   {
+    "id": "9-23",
+    "bo": "སེམས",
+    "dm": "thought",
+    "gm": "mind",
+    "reason": "Sub-term of stream of thought/mind"
+   },
+   {
+    "id": "9-23",
+    "bo": "རྒྱུན",
+    "dm": "stream",
+    "gm": "stream",
+    "reason": "Sub-term of stream of thought/mind"
+   },
+   {
+    "id": "9-24",
+    "bo": "སེམས",
+    "dm": "thought",
+    "gm": "mind",
+    "reason": "Sub-term of stream of thought/mind"
+   },
+   {
+    "id": "9-24",
+    "bo": "རྒྱུན",
+    "dm": "stream",
+    "gm": "stream",
+    "reason": "Sub-term of stream of thought/mind"
+   }
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "10-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-5",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Includes a conjunction particle ('འམ'); should be split into two separate fixed terms."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རིགས་ཀྱི་བུ",
+      "reason": "Technical category (son of noble family)",
+      "dm": "son",
+      "gm": "son of noble family"
+     },
+     {
+      "bo": "རིགས་ཀྱི་བུ་མོ",
+      "reason": "Technical category (daughter of noble family)",
+      "dm": "daughter of good family",
+      "gm": "daughter of noble family"
+     }
+    ]
+   },
+   {
+    "id": "10-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-9",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Includes a conjunction particle ('འམ'); should be split into two separate fixed terms."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རིགས་ཀྱི་བུ",
+      "reason": "Technical category (son of noble family)",
+      "dm": "son",
+      "gm": "son of noble family"
+     },
+     {
+      "bo": "རིགས་ཀྱི་བུ་མོ",
+      "reason": "Technical category (daughter of noble family)",
+      "dm": "daughter of good family",
+      "gm": "daughter of noble family"
+     }
+    ]
+   },
+   {
+    "id": "10-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-11",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-14",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-19",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-21",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-27",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Ordinary verb form with a future-tense auxiliary, not a base glossary term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-28",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-29",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "10-5",
+    "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+    "reason": "Includes a conjunction particle ('འམ'); should be split into two separate fixed terms."
+   },
+   {
+    "id": "10-9",
+    "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+    "reason": "Includes a conjunction particle ('འམ'); should be split into two separate fixed terms."
+   },
+   {
+    "id": "10-27",
+    "bo": "དམིགས་པར་འགྱུར",
+    "reason": "Ordinary verb form with a future-tense auxiliary, not a base glossary term."
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "10-5",
+    "bo": "རིགས་ཀྱི་བུ",
+    "dm": "son",
+    "gm": "son of noble family",
+    "reason": "Technical category (son of noble family)"
+   },
+   {
+    "id": "10-5",
+    "bo": "རིགས་ཀྱི་བུ་མོ",
+    "dm": "daughter of good family",
+    "gm": "daughter of noble family",
+    "reason": "Technical category (daughter of noble family)"
+   },
+   {
+    "id": "10-9",
+    "bo": "རིགས་ཀྱི་བུ",
+    "dm": "son",
+    "gm": "son of noble family",
+    "reason": "Technical category (son of noble family)"
+   },
+   {
+    "id": "10-9",
+    "bo": "རིགས་ཀྱི་བུ་མོ",
+    "dm": "daughter of good family",
+    "gm": "daughter of noble family",
+    "reason": "Technical category (daughter of noble family)"
+   }
+  ]
+ }
+}

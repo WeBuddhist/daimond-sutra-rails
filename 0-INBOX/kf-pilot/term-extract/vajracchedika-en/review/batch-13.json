@@ -1,0 +1,464 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "12-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-1",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+      "reason": "Component of a longer fixed term that is also a term itself.",
+      "dm": "world-system",
+      "gm": "world system"
+     }
+    ]
+   },
+   {
+    "id": "12-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-7",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+      "reason": "Component of a longer fixed term that is also a term itself.",
+      "dm": "world system",
+      "gm": "world system"
+     }
+    ]
+   },
+   {
+    "id": "12-8",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+      "reason": "Component of a longer fixed term that is also a term itself.",
+      "dm": "world system",
+      "gm": "world system"
+     }
+    ]
+   },
+   {
+    "id": "12-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-10",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཛིན་པ",
+      "reason": "Technical term (grasping), also part of the compound present here.",
+      "dm": "grasping",
+      "gm": "grasping"
+     }
+    ]
+   },
+   {
+    "id": "12-11",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-14",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལྟ་བ",
+      "reason": "Technical term (view), component of a longer fixed term.",
+      "dm": "view",
+      "gm": "view"
+     }
+    ]
+   },
+   {
+    "id": "12-15",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལྟ་བ",
+      "reason": "Technical term (view), component of a longer fixed term.",
+      "dm": "view",
+      "gm": "view"
+     }
+    ]
+   },
+   {
+    "id": "12-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-18",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལྟ་བ",
+      "reason": "Technical term (view), component of a longer fixed term.",
+      "dm": "view",
+      "gm": "view"
+     }
+    ]
+   },
+   {
+    "id": "12-19",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལྟ་བ",
+      "reason": "Technical term (view), component of a longer fixed term.",
+      "dm": "view",
+      "gm": "view"
+     }
+    ]
+   },
+   {
+    "id": "12-20",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཐེག་པ",
+      "reason": "Technical term (vehicle/path), component of a longer fixed term.",
+      "dm": "path",
+      "gm": "vehicle"
+     }
+    ]
+   },
+   {
+    "id": "12-21",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-24",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས་དཔའ་ཆེན་པོ",
+      "reason": "Technical title (mahāsattva), component of a longer fixed term.",
+      "dm": "mahāsattva",
+      "gm": "great being"
+     },
+     {
+      "bo": "སྦྱིན་པ",
+      "reason": "Technical term (giving/gift).",
+      "dm": "gift",
+      "gm": "gift"
+     },
+     {
+      "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+      "reason": "Technical term (perfection).",
+      "dm": "perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "12-25",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary verb phrase (perfectly teach / correctly explain)."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-26",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary verb phrase (perfectly teaching / correctly explaining)."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "12-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "13-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "13-1",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Technical term (world).",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   },
+   {
+    "id": "13-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "13-3",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཕགས་པ",
+      "reason": "Title epithet.",
+      "dm": "Noble",
+      "gm": "noble"
+     },
+     {
+      "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+      "reason": "Technical term.",
+      "dm": "Perfection",
+      "gm": "pāramitā"
+     }
+    ]
+   },
+   {
+    "id": "13-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "13-5",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྙིང་པོ",
+      "reason": "Technical term (essence).",
+      "dm": "essence",
+      "gm": "essence"
+     }
+    ]
+   },
+   {
+    "id": "13-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "12-25",
+    "bo": "ཡང་དག་པར་རབ་ཏུ་སྟོན",
+    "reason": "Ordinary verb phrase (perfectly teach / correctly explain)."
+   },
+   {
+    "id": "12-26",
+    "bo": "ཡང་དག་པར་རབ་ཏུ་སྟོན་པ",
+    "reason": "Ordinary verb phrase (perfectly teaching / correctly explaining)."
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "12-1",
+    "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+    "dm": "world-system",
+    "gm": "world system",
+    "reason": "Component of a longer fixed term that is also a term itself."
+   },
+   {
+    "id": "12-7",
+    "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+    "dm": "world system",
+    "gm": "world system",
+    "reason": "Component of a longer fixed term that is also a term itself."
+   },
+   {
+    "id": "12-8",
+    "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+    "dm": "world system",
+    "gm": "world system",
+    "reason": "Component of a longer fixed term that is also a term itself."
+   },
+   {
+    "id": "12-10",
+    "bo": "འཛིན་པ",
+    "dm": "grasping",
+    "gm": "grasping",
+    "reason": "Technical term (grasping), also part of the compound present here."
+   },
+   {
+    "id": "12-14",
+    "bo": "ལྟ་བ",
+    "dm": "view",
+    "gm": "view",
+    "reason": "Technical term (view), component of a longer fixed term."
+   },
+   {
+    "id": "12-15",
+    "bo": "ལྟ་བ",
+    "dm": "view",
+    "gm": "view",
+    "reason": "Technical term (view), component of a longer fixed term."
+   },
+   {
+    "id": "12-18",
+    "bo": "ལྟ་བ",
+    "dm": "view",
+    "gm": "view",
+    "reason": "Technical term (view), component of a longer fixed term."
+   },
+   {
+    "id": "12-19",
+    "bo": "ལྟ་བ",
+    "dm": "view",
+    "gm": "view",
+    "reason": "Technical term (view), component of a longer fixed term."
+   },
+   {
+    "id": "12-20",
+    "bo": "ཐེག་པ",
+    "dm": "path",
+    "gm": "vehicle",
+    "reason": "Technical term (vehicle/path), component of a longer fixed term."
+   },
+   {
+    "id": "12-24",
+    "bo": "སེམས་དཔའ་ཆེན་པོ",
+    "dm": "mahāsattva",
+    "gm": "great being",
+    "reason": "Technical title (mahāsattva), component of a longer fixed term."
+   },
+   {
+    "id": "12-24",
+    "bo": "སྦྱིན་པ",
+    "dm": "gift",
+    "gm": "gift",
+    "reason": "Technical term (giving/gift)."
+   },
+   {
+    "id": "12-24",
+    "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Technical term (perfection)."
+   },
+   {
+    "id": "13-1",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Technical term (world)."
+   },
+   {
+    "id": "13-3",
+    "bo": "འཕགས་པ",
+    "dm": "Noble",
+    "gm": "noble",
+    "reason": "Title epithet."
+   },
+   {
+    "id": "13-3",
+    "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "dm": "Perfection",
+    "gm": "pāramitā",
+    "reason": "Technical term."
+   },
+   {
+    "id": "13-5",
+    "bo": "སྙིང་པོ",
+    "dm": "essence",
+    "gm": "essence",
+    "reason": "Technical term (essence)."
+   }
+  ]
+ }
+}

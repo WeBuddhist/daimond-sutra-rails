@@ -1,0 +1,635 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "10-33",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-34",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharma",
+     "gm": "dharma"
+    },
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfect, and complete enlightenment",
+     "gm": "unexcelled, perfectly complete awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "fully awakened",
+     "gm": "fully awakened"
+    }
+   ]
+  },
+  {
+   "id": "10-35",
+   "terms": [
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharma",
+     "gm": "dharma"
+    },
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfect, and complete enlightenment",
+     "gm": "unexcelled, perfectly complete awakening"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "fully awakened",
+     "gm": "fully awakened"
+    }
+   ]
+  },
+  {
+   "id": "10-36",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-37",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "dharma",
+     "gm": "dharma"
+    },
+    {
+     "bo": "མི་དམིགས",
+     "dm": "conceptually observed",
+     "gm": "apprehended"
+    }
+   ]
+  },
+  {
+   "id": "10-38",
+   "terms": [
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfect, and complete enlightenment",
+     "gm": "unexcelled, perfectly complete awakening"
+    }
+   ]
+  },
+  {
+   "id": "10-39",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharma",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "10-40",
+   "terms": [
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfect, and complete enlightenment",
+     "gm": "unexcelled, perfectly complete awakening"
+    }
+   ]
+  },
+  {
+   "id": "10-41",
+   "terms": [
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfect, and complete enlightenment",
+     "gm": "unexcelled, perfectly complete awakening"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "living soul"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    }
+   ]
+  },
+  {
+   "id": "10-42",
+   "terms": [
+    {
+     "bo": "དགེ་བའི་ཆོས",
+     "dm": "wholesome dharmas",
+     "gm": "wholesome dharmas"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharmas",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས",
+     "dm": "perfectly and completely awakened",
+     "gm": "fully awakened"
+    }
+   ]
+  },
+  {
+   "id": "10-43",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དགེ་བའི་ཆོས",
+     "dm": "wholesome dharmas",
+     "gm": "wholesome dharmas"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharmas",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-44",
+   "terms": [
+    {
+     "bo": "དགེ་བའི་ཆོས",
+     "dm": "wholesome dharmas",
+     "gm": "wholesome dharmas"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharmas",
+     "gm": "dharmas"
+    }
+   ]
+  },
+  {
+   "id": "10-45",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+     "dm": "son or daughter of noble family",
+     "gm": "son of noble family or daughter of noble family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ",
+     "dm": null,
+     "gm": "son of noble family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ་མོ",
+     "dm": null,
+     "gm": "daughter of noble family"
+    },
+    {
+     "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "trichiliocosm",
+     "gm": "three thousand grand thousand world systems"
+    },
+    {
+     "bo": "རི་རབ",
+     "dm": "Mount Merus",
+     "gm": "Sumerus"
+    },
+    {
+     "bo": "རིན་པོ་ཆེ་སྣ་བདུན",
+     "dm": "seven precious substances",
+     "gm": "seven precious substances"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+     "dm": "four-line stanza",
+     "gm": "four-line stanza"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "10-46",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-47",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བཀྲོལ",
+     "dm": "liberated",
+     "gm": "liberate"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-48",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བཀྲོལ",
+     "dm": "liberated",
+     "gm": "liberated"
+    }
+   ]
+  },
+  {
+   "id": "10-49",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "བཀྲོལ",
+     "dm": "liberate",
+     "gm": "liberated"
+    },
+    {
+     "bo": "བདག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a self",
+     "gm": "apprehension of a self"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "10-50",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "living soul"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    }
+   ]
+  },
+  {
+   "id": "10-51",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+     "dm": "immature ordinary beings",
+     "gm": "childish ordinary beings"
+    }
+   ]
+  },
+  {
+   "id": "10-52",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+     "dm": "immature ordinary beings",
+     "gm": "childish ordinary beings"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-53",
+   "terms": [
+    {
+     "bo": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+     "dm": "immature ordinary beings",
+     "gm": "childish ordinary beings"
+    }
+   ]
+  },
+  {
+   "id": "10-54",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-55",
+   "terms": [
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of his marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-56",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "10-57",
+   "terms": [
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of his marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-58",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-59",
+   "terms": [
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of his marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-60",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of his marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ",
+     "dm": "wheel-turning monarch",
+     "gm": "wheel-turning king"
+    }
+   ]
+  },
+  {
+   "id": "10-61",
+   "terms": [
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of his marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-62",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "10-63",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of his marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "10-64",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  }
+ ]
+}

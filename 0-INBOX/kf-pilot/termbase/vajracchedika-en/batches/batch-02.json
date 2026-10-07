@@ -1,0 +1,1678 @@
+[
+ {
+  "term_id": "T002",
+  "bo": "བཅོམ་ལྡན་འདས",
+  "count": 126,
+  "occurrences": [
+   "1-2",
+   "1-3",
+   "1-4",
+   "1-6",
+   "1-7",
+   "2-1",
+   "2-2",
+   "2-3",
+   "2-4",
+   "3-0",
+   "3-1",
+   "3-8",
+   "3-9",
+   "5-3",
+   "5-4",
+   "5-5",
+   "5-6",
+   "6-2",
+   "6-5",
+   "6-9",
+   "6-10",
+   "6-11",
+   "6-29",
+   "6-33",
+   "6-34",
+   "6-39",
+   "6-41",
+   "6-46",
+   "6-48",
+   "7-3",
+   "7-4",
+   "7-8",
+   "7-10",
+   "7-12",
+   "7-15",
+   "7-17",
+   "7-19",
+   "7-22",
+   "7-24",
+   "7-26",
+   "7-28",
+   "7-29",
+   "7-30",
+   "7-32",
+   "7-34",
+   "7-36",
+   "7-44",
+   "7-49",
+   "7-51",
+   "7-52",
+   "7-56",
+   "7-59",
+   "7-63",
+   "7-64",
+   "7-66",
+   "7-73",
+   "7-74",
+   "7-76",
+   "7-78",
+   "8-1",
+   "8-3",
+   "8-6",
+   "8-8",
+   "8-9",
+   "8-10",
+   "8-11",
+   "8-12",
+   "8-14",
+   "8-15",
+   "8-16",
+   "8-18",
+   "8-19",
+   "8-20",
+   "8-24",
+   "8-74",
+   "8-79",
+   "8-80",
+   "8-83",
+   "8-91",
+   "8-92",
+   "8-93",
+   "8-108",
+   "8-110",
+   "8-113",
+   "8-114",
+   "9-2",
+   "9-3",
+   "9-5",
+   "9-6",
+   "9-8",
+   "9-10",
+   "9-12",
+   "9-14",
+   "9-16",
+   "9-18",
+   "9-20",
+   "9-22",
+   "10-6",
+   "10-8",
+   "10-13",
+   "10-15",
+   "10-17",
+   "10-19",
+   "10-23",
+   "10-28",
+   "10-29",
+   "10-30",
+   "10-35",
+   "10-36",
+   "10-56",
+   "10-58",
+   "10-62",
+   "10-63",
+   "10-64",
+   "11-12",
+   "11-13",
+   "12-2",
+   "12-4",
+   "12-5",
+   "12-9",
+   "12-12",
+   "12-16",
+   "12-18",
+   "12-20",
+   "13-1",
+   "13-2"
+  ],
+  "dm": {
+   "Blessed One": 115,
+   "Bhagavan": 5,
+   "Blessed Ones": 4,
+   "Bhagavān": 2
+  },
+  "gm": {
+   "Blessed One": 102,
+   "Bhagavān": 17,
+   "Blessed Ones": 2,
+   "Bhagavāns": 2,
+   "Bhagavan": 2,
+   "Bhagavat": 1
+  },
+  "examples": [
+   {
+    "id": "1-2",
+    "bo": "བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང༌། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དག་དང་ཐབས་གཅིག་ཏུ་བཞུགས་སོ། །",
+    "dm": "The Blessed One was dwelling in Śrāvastī, in the Jeta Grove, Anāthapiṇḍada’s park, together with a great community of one thousand two hundred and fifty monks and a vast number of bodhisattva mahāsattvas.",
+    "gm": "The Blessed One was dwelling at Śrāvastī in the Jetavana, the park of Anāthapiṇḍada, together with a great saṅgha of one thousand two hundred and fifty monks, and very many bodhisattvas, great beings.",
+    "sa": "भगवान् श्रावस्त्यां विहरति स्म जेतवनेऽनाथपिण्डदस्यारामे महता भिक्षुसंघेन सार्थं त्रयोदशभिर्भिक्षुशतैः संबहुलैश्च बोधिसत्त्वैर्महासत्त्वैः।"
+   },
+   {
+    "id": "3-0",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་ལན།",
+    "dm": "The Bhagavan’s Response",
+    "gm": "The Bhagavat's Answer",
+    "sa": ""
+   },
+   {
+    "id": "6-48",
+    "bo": "སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱང་འདི་ལས་སྐྱེས་པའི་ཕྱིར་རོ། །",
+    "dm": "Because the Buddhas, the Blessed Ones, are also born from this.",
+    "gm": "because the Buddhas, the Blessed Ones, are also born from this.",
+    "sa": "अतोनिर्जाताश्च बुद्धा भगवन्तः।"
+   }
+  ]
+ },
+ {
+  "term_id": "T008",
+  "bo": "འདུ་ཤེས",
+  "count": 27,
+  "occurrences": [
+   "4-4",
+   "4-9",
+   "6-10",
+   "6-11",
+   "6-19",
+   "6-20",
+   "6-21",
+   "6-22",
+   "6-23",
+   "6-25",
+   "8-11",
+   "8-12",
+   "8-16",
+   "8-17",
+   "8-18",
+   "8-19",
+   "8-27",
+   "8-28",
+   "8-29",
+   "8-30",
+   "8-31",
+   "8-32",
+   "8-33",
+   "8-43",
+   "8-86",
+   "8-87",
+   "12-22"
+  ],
+  "dm": {
+   "perception": 20,
+   "notion": 6,
+   "notions": 1
+  },
+  "gm": {
+   "perception": 24,
+   "notion": 2,
+   "perceptions": 1
+  },
+  "examples": [
+   {
+    "id": "4-4",
+    "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་གམ། སྲོག་ཏུ་འདུ་ཤེས་འཇུག་གམ། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+    "dm": "Why is that? Subhūti, if a bodhisattva engages in the perception of a sentient being, the perception of a life-force, or the perception of a person, they should not be called a bodhisattva.",
+    "gm": "Why is that? Subhūti, it is because if one holds the notion of a being, holds the notion of a living soul, or holds the notion of a person, they would not be called a bodhisattva.",
+    "sa": "तत्कस्य हेतोः ? न स सुभूते बोधिसत्त्वो वक्तव्यो यस्य सत्त्वसंज्ञा प्रवर्तेत, जीवसंज्ञा वा पुद्गलसंज्ञा व प्रवर्तेत॥३॥"
+   },
+   {
+    "id": "6-10",
+    "bo": "བཅོམ་ལྡན་འདས་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ། དམ་པའི་ཆོས་རབ་ཏུ་རྣམ་པར་འཇིག་པར་འགྱུར་བ་ན་སེམས་ཅན་གང་ལ་ལ་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་བཤད་པ་དག་ལ་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ།",
+    "dm": "Blessed One, in the final five-hundred-year period of the future, when the holy Dharma is about to completely perish, will there be any sentient beings who will arise to form a correct perception of such explanations of the words of a sutra as this?",
+    "gm": "Blessed One, will there appear any sentient beings in the future time, in the last five hundred years, when the true Dharma is being destroyed, who will produce a true perception regarding the spoken words of a sūtra such as this?",
+    "sa": "अस्ति भगवन्। केचित्सत्त्वा भविष्यन्त्यनागतेऽध्वनि पश्चिमे काले पश्चिमे समये पश्चिमायां पञ्चशत्यां सद्धर्मविप्रलोपकाले वर्तमाने, ये इमेष्वेवंरूपेषु सूत्रान्तपदेषु भाष्यमाणेषु भूतसंज्ञामुत्पादयिष्यन्ति।"
+   },
+   {
+    "id": "8-27",
+    "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་གི་ཚེ་ཀ་ལིང་ཀའི་རྒྱལ་པོས། ངའི་ཡན་ལག་དང་ཉིང་ལག་རྣམས་བཅད་པར་གྱུར་པ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་སམ། སེམས་ཅན་དུ་འདུ་ཤེས་སམ། སྲོག་ཏུ་འདུ་ཤེས་སམ། གང་ཟག་ཏུ་འདུ་ཤེས་ཀྱང་མ་བྱུང་ཞིང༌།",
+    "dm": "Why is that? Subhūti, at the time when the King of Kaliṅga severed my limbs and minor limbs, I had no notion of a self, no notion of a sentient being, no notion of a life-force, and no notion of a person.",
+    "gm": "Why is that? Subhūti, at the time when the king of Kaliṅga cut off my major and minor limbs, at that time the perception of a self, the perception of a sentient being, the perception of a life force, or the perception of a person did not arise in me, and",
+    "sa": "तत्कस्य हेतोः ? यदा मे सुभूते कलिराजा अङ्गप्रत्यङ्गमांसान्यच्छैत्सीत्, नासीन्मे तस्मिन् समये आत्मसंज्ञा वा सत्त्वसंज्ञा वा जीवसंज्ञा वा पुद्गलसंज्ञा वा,"
+   }
+  ]
+ },
+ {
+  "term_id": "T014",
+  "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+  "count": 19,
+  "occurrences": [
+   "6-28",
+   "6-46",
+   "7-60",
+   "7-61",
+   "7-64",
+   "7-67",
+   "8-6",
+   "8-9",
+   "8-10",
+   "8-14",
+   "8-15",
+   "8-50",
+   "8-53",
+   "8-54",
+   "8-56",
+   "8-57",
+   "8-61",
+   "8-77",
+   "11-10"
+  ],
+  "dm": {
+   "Dharma discourse": 12,
+   "discourse on Dharma": 4,
+   "discourse on the Dharma": 2,
+   "phenomena": 1
+  },
+  "gm": {
+   "dharma discourse": 8,
+   "discourse on Dharma": 5,
+   "discourse on the Dharma": 4,
+   "discourse on dharma": 1,
+   "Dharma-discourse": 1
+  },
+  "examples": [
+   {
+    "id": "6-28",
+    "bo": "དེ་བས་ན་དེ་ལས་དགོངས་ཏེ་དེ་བཞིན་གཤེགས་པས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གཟིངས་ལྟ་བུར་ཤེས་པ་རྣམས་ཀྱིས་ཆོས་རྣམས་ཀྱང་སྤང་བར་བྱ་ན། ཆོས་མ་ཡིན་པ་རྣམས་ལྟ་ཅི་སྨོས། ཞེས་གསུངས་སོ། །",
+    "dm": "Therefore, keeping this in mind, the Tathāgata has said that those who understand this discourse on the Dharma as being like a raft should abandon even phenomena, let alone what are not phenomena.",
+    "gm": "Therefore, with this in mind, the Tathāgata has spoken: 'Those who know this dharma discourse to be like a raft should abandon even dharmas, let alone non-dharmas.'",
+    "sa": "तस्मादियं तथागतेन संधाय वाग्भाषिता-कोलोपमं धर्मपर्यायमाजानद्भिधर्मा एव प्रहातव्याः प्रागेवाधर्मा इति॥६॥"
+   },
+   {
+    "id": "6-46",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་ནས་གཞན་དག་ལ་འཆད་ཅིང་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན། གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+    "dm": "The Blessed One said: Subhūti, if a son or daughter of noble family were to fill this trichiliocosm of great thousand-fold world systems with the seven types of precious substances and give them as a gift, and if another were to take up from this discourse on Dharma even just a four-line verse and explain it to others and correctly demonstrate it, they would generate a mass of merit from that basis that is far greater, incalculable, and immeasurable.",
+    "gm": "The Blessed One spoke: Subhūti, compared to some son of noble family or daughter of noble family filling this three-thousandfold great thousandfold world system with the seven precious substances and giving it as a gift, whoever takes up even just a four-line verse from this discourse on dharma, teaches it to others, and perfectly explains it will generate a much greater mass of merit from that basis, countless and immeasurable.",
+    "sa": "भगवानाह-यश्च खलु पुनः सुभूते कुलपुत्रो वा कुलदुहिता व इमं त्रिसाहस्रमहासाहस्रं लोकधातुं सप्तरत्नपरिपूर्णं कृत्वा तथागतेभ्योऽर्हद्भ्यः सम्यक्संबुद्धेभ्यो दानं दद्यात्, यश्च इतो धर्मपर्यायादन्तशश्चतुष्पादिकामपि गाथामुद्गृह्य परेभ्यो विस्तरेण देशयेत् संप्रकाशयेत्, अयमेव ततोनिदानं बहुतरं पुण्यस्कन्धं प्रसुनुयादप्रमेयसंख्येयम्।"
+   },
+   {
+    "id": "7-60",
+    "bo": "དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ལ་སྦྱིན་པ་བྱིན་པ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་ནས། གཞན་དག་ལ་ཡང་དག་པར་རབ་ཏུ་བཤད་དེ་ཡང་དག་པར་རབ་ཏུ་བསྟན་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+    "dm": "and were to offer them as gifts to the Tathāgatas, Arhats, and perfectly complete Buddhas, compared to that, if someone were to take up even a four-line stanza from this Dharma discourse, and were to correctly explain and correctly teach it to others, that person would generate much more merit on that basis—countless and measureless merit.\"",
+    "gm": "compared to giving them as a gift to the Tathāgatas, Arhats, perfectly and fully awakened Buddhas, if someone were to take up even a four-line verse from this discourse on the Dharma, explain it fully and correctly to others, and teach it fully and correctly, they would produce infinitely and immeasurably much more merit from that basis.",
+    "sa": "तथागतेभ्योऽर्हद्भयः सम्यक्संबुद्धेभ्यो दानं दद्यात्, यश्च कुलपुत्रो वा कुलदुहिता वा इतो धर्मपर्यायादन्तशश्चतुष्पादिकामपि गाथामुद्गृह्य परेभ्यो देशयेत् संप्रकाशयेत्, अयमेव ततोनिदानं बहुतरं पुण्यस्कन्धं प्रसुनुयादप्रमेयमसंख्येयम्॥११॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T020",
+  "bo": "མཚན",
+  "count": 15,
+  "occurrences": [
+   "6-8",
+   "8-0",
+   "8-2",
+   "8-4",
+   "8-5",
+   "10-18",
+   "10-20",
+   "10-21",
+   "10-22",
+   "10-55",
+   "10-57",
+   "10-59",
+   "10-60",
+   "10-61",
+   "10-63"
+  ],
+  "dm": {
+   "marks": 14,
+   "Major Marks": 1
+  },
+  "gm": {
+   "marks": 14,
+   "Major": 1
+  },
+  "examples": [
+   {
+    "id": "6-8",
+    "bo": "དེ་ལྟར་ན་དེ་བཞིན་གཤེགས་པ་ལ་མཚན་དང་མཚན་མ་མེད་པར་བལྟའོ། །",
+    "dm": "Thus, one should view the Tathāgata as being without marks and signs.",
+    "gm": "therefore, the Tathāgata should be seen as marks and no-marks.",
+    "sa": "हि लक्षणालक्षणतस्तथागतो द्रष्टव्यः॥५॥"
+   },
+   {
+    "id": "8-0",
+    "bo": "མཚན་དང་དཔེ་བྱད།",
+    "dm": "The Major Marks and Minor Signs",
+    "gm": "The Major and Minor Marks",
+    "sa": ""
+   },
+   {
+    "id": "10-18",
+    "bo": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ།",
+    "dm": "Do you think that the Tathāgata should be viewed by means of the perfection of his marks?\"",
+    "gm": "Do you think the Tathāgata is to be seen by the perfection of marks?",
+    "sa": "लक्षणसंपदा तथागतो द्रष्टव्यः ?"
+   }
+  ]
+ },
+ {
+  "term_id": "T026",
+  "bo": "བྱང་ཆུབ",
+  "count": 12,
+  "occurrences": [
+   "6-31",
+   "6-34",
+   "6-47",
+   "8-34",
+   "8-60",
+   "8-71",
+   "8-90",
+   "8-92",
+   "8-95",
+   "8-97",
+   "8-100",
+   "8-102"
+  ],
+  "dm": {
+   "enlightenment": 11,
+   "awakening": 1
+  },
+  "gm": {
+   "awakening": 11,
+   "enlightenment": 1
+  },
+  "examples": [
+   {
+    "id": "6-31",
+    "bo": "དེ་བཞིན་གཤེགས་པའི་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+    "dm": "Do you think that there is any phenomenon whatsoever by which the Tathāgata has fully awakened to unsurpassed, perfect, and complete enlightenment?",
+    "gm": "Do you think there is any dharma whatsoever to which the Tathāgata has manifestly and completely awakened as unsurpassed, perfectly complete awakening?",
+    "sa": "अस्ति स कश्चिद्धर्मो यस्तथागतेनानुत्तरा सम्यक्संबोधिरित्यभिसंबुद्धः,"
+   },
+   {
+    "id": "8-34",
+    "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+    "dm": "One should generate the mind for unsurpassed, perfectly complete enlightenment.",
+    "gm": "give rise to the mind for unsurpassed, perfectly complete enlightenment.",
+    "sa": "अनुत्तरायां सम्यक्संबोधौ चित्तमुत्पादयितव्यम्।"
+   },
+   {
+    "id": "8-60",
+    "bo": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ངའི་བྱང་ཆུབ་ཕྲག་པ་ལ་ཐོགས་པར་འགྱུར་རོ། །",
+    "dm": "All those sentient beings will have my awakening placed upon their shoulders.",
+    "gm": "and all those sentient beings will carry my awakening upon their shoulders.",
+    "sa": "सर्वे ते सुभूते सत्त्वाः समांशेन बोधिं धारयिष्यन्ति वचयिष्यन्ति पर्यवाप्स्यन्ति।"
+   }
+  ]
+ },
+ {
+  "term_id": "T032",
+  "bo": "འཛིན་པ",
+  "count": 9,
+  "occurrences": [
+   "6-24",
+   "6-26",
+   "7-8",
+   "7-9",
+   "7-15",
+   "7-16",
+   "7-26",
+   "7-27",
+   "12-10"
+  ],
+  "dm": {
+   "grasping": 9
+  },
+  "gm": {
+   "grasping": 7,
+   "grasp": 2
+  },
+  "examples": [
+   {
+    "id": "6-24",
+    "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་བའི་ཕྱིར་རོ། །",
+    "dm": "and it would become a grasping at a sentient being, a grasping at a life-force, and a grasping at a person.",
+    "gm": "grasp at a sentient being, grasp at a living soul, and grasp at a person.",
+    "sa": "सत्त्वग्राहो जीवग्राहः पुद्गलग्राहो भवेत्।"
+   },
+   {
+    "id": "7-8",
+    "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+    "dm": "Why is that? Blessed One, if a stream-enterer were to think, \"I have attained the fruit of a stream-enterer,\" that itself would be his grasping at a self.",
+    "gm": "Why is that? Blessed One, if a Stream-Enterer were to think, 'I have obtained the fruit of a Stream-Enterer', that itself would be his grasping at a self.",
+    "sa": "सचेद्भगवन् स्रोतआपन्नस्यैवं भवेत्- मया स्रोतआपत्तिफलं प्राप्तमिति, स एव तस्यात्मग्राहो भवेत्,"
+   },
+   {
+    "id": "7-9",
+    "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+    "dm": "It would be grasping at a sentient being, grasping at a life force, and grasping at a person.",
+    "gm": "It would be grasping at a living being, grasping at a life, and grasping at a person.",
+    "sa": "सत्त्वग्राहो जीवग्राहः पुद्गलग्राहो भवेदिति॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T038",
+  "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+  "count": 8,
+  "occurrences": [
+   "6-40",
+   "6-46",
+   "7-75",
+   "10-5",
+   "10-45",
+   "12-1",
+   "12-7",
+   "12-8"
+  ],
+  "dm": {
+   "trichiliocosm world system": 2,
+   "three-thousandfold great thousand world system": 2,
+   "trichiliocosm of great thousand-fold world systems": 1,
+   "great trichiliocosm world system": 1,
+   "trichiliocosm": 1,
+   "trichiliocosm world-system": 1
+  },
+  "gm": {
+   "three-thousandfold great thousandfold world system": 3,
+   "trichiliocosm, the great thousandfold world system": 3,
+   "three-thousandfold great thousandfold world realm": 1,
+   "three thousand grand thousand world systems": 1
+  },
+  "examples": [
+   {
+    "id": "6-40",
+    "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་ན། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་མང་དུ་བསྐྱེད་སྙམ་མམ།",
+    "dm": "If some son or daughter of noble family were to fill this trichiliocosm world system with the seven kinds of precious substances and give them as a gift, would that son or daughter of noble family generate much merit on that basis?",
+    "gm": "If some son of noble family or daughter of noble family were to fill this three-thousandfold great thousandfold world system with the seven precious substances and give it as a gift, do you think that son of noble family or daughter of noble family would generate a great mass of merit from that basis?",
+    "sa": "यः कश्चित्कुलपुत्रो वा कुलदुहिता वा इमं त्रिसाहस्रमहासाहस्रं लोकधातुं सप्तरत्नपरिपूर्णं कृत्वा तथागतेभ्योऽर्हद्भयः सम्यक्संबुद्धेभ्यो दानं दद्यात्, अपि नु स कुलपुत्रो वा कुलदुहिता वा ततोनिदानं बहु पुण्यस्कन्धं प्रसुनुयात्।"
+   },
+   {
+    "id": "6-46",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་ནས་གཞན་དག་ལ་འཆད་ཅིང་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན། གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+    "dm": "The Blessed One said: Subhūti, if a son or daughter of noble family were to fill this trichiliocosm of great thousand-fold world systems with the seven types of precious substances and give them as a gift, and if another were to take up from this discourse on Dharma even just a four-line verse and explain it to others and correctly demonstrate it, they would generate a mass of merit from that basis that is far greater, incalculable, and immeasurable.",
+    "gm": "The Blessed One spoke: Subhūti, compared to some son of noble family or daughter of noble family filling this three-thousandfold great thousandfold world system with the seven precious substances and giving it as a gift, whoever takes up even just a four-line verse from this discourse on dharma, teaches it to others, and perfectly explains it will generate a much greater mass of merit from that basis, countless and immeasurable.",
+    "sa": "भगवानाह-यश्च खलु पुनः सुभूते कुलपुत्रो वा कुलदुहिता व इमं त्रिसाहस्रमहासाहस्रं लोकधातुं सप्तरत्नपरिपूर्णं कृत्वा तथागतेभ्योऽर्हद्भ्यः सम्यक्संबुद्धेभ्यो दानं दद्यात्, यश्च इतो धर्मपर्यायादन्तशश्चतुष्पादिकामपि गाथामुद्गृह्य परेभ्यो विस्तरेण देशयेत् संप्रकाशयेत्, अयमेव ततोनिदानं बहुतरं पुण्यस्कन्धं प्रसुनुयादप्रमेयसंख्येयम्।"
+   },
+   {
+    "id": "7-75",
+    "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་དེ་མང་བ་ཡིན་སྙམ་མམ།",
+    "dm": "Do you think that the number of dust motes in the great trichiliocosm world system is many?”",
+    "gm": "Do you think that the particles of earth that exist in the three-thousandfold great thousandfold world system are many?\"",
+    "sa": "यावत् त्रिसाहस्रमहासाहस्रे लोकधातौ पृथिवीरजः कच्चित्, तद्बहु भवेत् ?"
+   }
+  ]
+ },
+ {
+  "term_id": "T044",
+  "bo": "བྱང་ཆུབ་སེམས་དཔ",
+  "count": 7,
+  "occurrences": [
+   "4-9",
+   "6-27",
+   "11-8",
+   "11-9",
+   "11-10",
+   "11-11",
+   "11-12"
+  ],
+  "dm": {
+   "bodhisattva": 7
+  },
+  "gm": {
+   "Bodhisattva": 5,
+   "bodhisattva": 2
+  },
+  "examples": [
+   {
+    "id": "4-9",
+    "bo": "རབ་འབྱོར་ཅི་ནས་ཀྱང་མཚན་མར་འདུ་ཤེས་པ་ལ་ཡང་མི་གནས་པར་དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔས་སྦྱིན་པ་སྦྱིན་ནོ། །",
+    "dm": "Subhūti, in this way a bodhisattva should practice generosity without abiding in the perception of characteristics.",
+    "gm": "Subhūti, a bodhisattva should give gifts in such a way that they do not abide even in the notion of a sign.",
+    "sa": "एवं हि सूभूते बोधिसत्त्वेन महासत्त्वेन दानं दातव्यं यथा न निमित्तसंज्ञायामपि प्रतितिष्ठेत्।"
+   },
+   {
+    "id": "11-8",
+    "bo": "རབ་འབྱོར་ཁྱོད་འདི་སྙམ་དུ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ལ་ལ་ཞིག་རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པའོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་དེ་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ།",
+    "dm": "Subhūti, if you think that those who have correctly entered the bodhisattva vehicle hold the view that any phenomenon is destroyed or designated as cut off, Subhūti, you should not view it in that way.",
+    "gm": "Subhūti, if you think that those who have genuinely set out in the Bodhisattva vehicle have destroyed some phenomenon or designated it as annihilated, Subhūti, it should not be seen like that.",
+    "sa": "न खलु पुनस्ते सुभूते कश्चिदेवं वदेत्-बोधिसत्त्वयानसंप्रस्थितैः कस्यचिद्धर्मस्य विनाशः प्रज्ञप्तः उच्छेदो वेति। न खलु पुनस्ते सुभूते एवं द्रष्टव्यम्। तत्कस्य हेतोः ?"
+   },
+   {
+    "id": "11-10",
+    "bo": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། བྱང་ཆུབ་སེམས་དཔའ་གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བདག་མེད་ཅིང་སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆོས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+    "dm": "Furthermore, Subhūti, if a son or daughter of noble family were to fill as many world systems as there are grains of sand in the river Ganges with the seven types of precious jewels and give them as a gift, and if a bodhisattva were to gain patience in the realization that phenomena are without self and unborn, then that bodhisattva would generate a mass of merit far greater, immeasurable, and incalculable than that.",
+    "gm": "Moreover, Subhūti, if a son of good family or a daughter of good family were to fill as many world systems as there are grains of sand in the river Ganges with the seven precious things and give them as a gift, and if a Bodhisattva were to attain the patience that this Dharma-discourse is selfless and unproduced, he would produce from that basis a mass of merit vastly greater, incalculable and immeasurable.",
+    "sa": "यश्च खलु पुनः सुभूते कुलपुत्रो वा कुलदुहिता वा गङ्गानदीवालुकासमाँल्लोकधातून् सप्तरत्नपरिपूर्णं कृत्वा तथागतेभ्योऽर्हद्भयः सम्यक्संबुद्धेभ्यो दानं दद्यात्, यश्च बोधिसत्त्वो निरात्मकेष्वनुत्पत्तिकेषु धर्मेषु क्षान्तिं प्रतिलभते, अयमेव ततोनिदानं बहुतरं पुण्यस्कन्धं प्रसवेदप्रमेयमसंख्येयम्।"
+   }
+  ]
+ },
+ {
+  "term_id": "T050",
+  "bo": "ཞིང",
+  "count": 6,
+  "occurrences": [
+   "7-36",
+   "7-37",
+   "7-38",
+   "8-115",
+   "8-116",
+   "8-117"
+  ],
+  "dm": {
+   "buddha-fields": 3,
+   "buddhafields": 3
+  },
+  "gm": {
+   "fields": 6
+  },
+  "examples": [
+   {
+    "id": "7-36",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ་བདག་གིས་ཞིང་བཀོད་པ་རྣམས་སྒྲུབ་བོ་ཞེས་ཟེར་ན་དེ་ནི་མི་བདེན་པར་སྨྲའོ། །",
+    "dm": "The Blessed One said, \"Subhūti, if any bodhisattva were to say, 'I shall accomplish the adornment of the buddha-fields,' he would be speaking untruthfully.\"",
+    "gm": "The Blessed One said: Subhūti, if any bodhisattva were to say, 'I will accomplish the array of the fields,' they would be speaking falsely.",
+    "sa": "भगवानाह-यः कश्चित्सुभूते बोधिसत्त्व एवं वदेत्-अहं क्षेत्रव्यूहान् निष्पादयिष्यामीति, स वितथं वदेत्।"
+   },
+   {
+    "id": "8-115",
+    "bo": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་འདི་སྐད་དུ། བདག་གིས་ཞིང་བཀོད་པ་རྣམས་བསྒྲུབ་བོ་ཞེས་ཟེར་ན། དེ་ཡང་དེ་བཞིན་དུ་བརྗོད་པར་བྱའོ། །",
+    "dm": "Furthermore, Subhūti, if a bodhisattva were to say, \"I shall accomplish the arrays of buddhafields,\" that should also be spoken of in that same way.",
+    "gm": "Moreover, Subhūti, if any bodhisattva were to speak thus: 'I shall accomplish the arrays of the fields,' he too would be spoken of in the same way.",
+    "sa": "यः सुभूते बोधिसत्त्व एवं वदेत्- अहं क्षेत्रव्यूहान्निष्पादयिष्यामीति, स वितथं वदेत्।"
+   },
+   {
+    "id": "7-38",
+    "bo": "དེས་ན་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱའོ། །",
+    "dm": "Therefore, it is called \"adornment of the buddha-fields.\"",
+    "gm": "therefore, they are called 'the array of the fields.'",
+    "sa": "तेनोच्यन्ते क्षेत्रव्यूहा इति।"
+   }
+  ]
+ },
+ {
+  "term_id": "T056",
+  "bo": "ཡང་དག་པར་འདུ་ཤེས",
+  "count": 5,
+  "occurrences": [
+   "6-10",
+   "6-11",
+   "8-11",
+   "8-12",
+   "8-13"
+  ],
+  "dm": {
+   "correct perception": 5
+  },
+  "gm": {
+   "true perception": 5
+  },
+  "examples": [
+   {
+    "id": "6-10",
+    "bo": "བཅོམ་ལྡན་འདས་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ། དམ་པའི་ཆོས་རབ་ཏུ་རྣམ་པར་འཇིག་པར་འགྱུར་བ་ན་སེམས་ཅན་གང་ལ་ལ་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་བཤད་པ་དག་ལ་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ།",
+    "dm": "Blessed One, in the final five-hundred-year period of the future, when the holy Dharma is about to completely perish, will there be any sentient beings who will arise to form a correct perception of such explanations of the words of a sutra as this?",
+    "gm": "Blessed One, will there appear any sentient beings in the future time, in the last five hundred years, when the true Dharma is being destroyed, who will produce a true perception regarding the spoken words of a sūtra such as this?",
+    "sa": "अस्ति भगवन्। केचित्सत्त्वा भविष्यन्त्यनागतेऽध्वनि पश्चिमे काले पश्चिमे समये पश्चिमायां पञ्चशत्यां सद्धर्मविप्रलोपकाले वर्तमाने, ये इमेष्वेवंरूपेषु सूत्रान्तपदेषु भाष्यमाणेषु भूतसंज्ञामुत्पादयिष्यन्ति।"
+   },
+   {
+    "id": "6-11",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་གང་ཁྱོད་འདི་སྐད་དུ་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ། དམ་པའི་ཆོས་རབ་ཏུ་རྣམ་པར་འཇིག་པར་འགྱུར་བ་ན། སེམས་ཅན་གང་ལ་ལ་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་བཤད་པ་དག་ལ་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ་ཞེས་ཁྱོད་དེ་སྐད་མ་ཟེར་ཅིག །",
+    "dm": "The Blessed One said: Subhūti, do not speak like that. Do not say, \"In the final five-hundred-year period of the future, when the holy Dharma is about to completely perish, will there be any sentient beings who will arise to form a correct perception of such explanations of the words of a sutra as this?\"",
+    "gm": "The Blessed One said: Subhūti, do not speak like this, saying: \"Will there appear any sentient beings in the future time, in the last five hundred years, when the true Dharma is being destroyed, who will produce a true perception regarding the spoken words of a sūtra such as this?\"",
+    "sa": "अपि तु खलु पुनः"
+   },
+   {
+    "id": "8-11",
+    "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་མདོ་སྡེ་བཤད་པ་འདི་ལ་གང་དག་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བའི་སེམས་ཅན་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་ལགས་སོ། །",
+    "dm": "Why is that? Blessed One, those sentient beings who will generate a correct perception regarding this explanation of the sutra will be endowed with supreme marvels.",
+    "gm": "Why is that? Bhagavān, those sentient beings who will generate a true perception regarding this sūtra being taught will be endowed with supreme wonder.",
+    "sa": "परमेण ते भगवन् आश्चर्येण समन्वागता बोधिसत्त्वा भविष्यन्ति, ये इह सूत्रे भाष्यमाणे श्रुत्वा भूतसंज्ञामुत्पादयिष्यन्ति।"
+   }
+  ]
+ },
+ {
+  "term_id": "T062",
+  "bo": "དྲི",
+  "count": 4,
+  "occurrences": [
+   "4-8",
+   "7-6",
+   "7-42",
+   "8-36"
+  ],
+  "dm": {
+   "smell": 2,
+   "odors": 2
+  },
+  "gm": {
+   "smells": 3,
+   "smell": 1
+  },
+  "examples": [
+   {
+    "id": "4-8",
+    "bo": "དེ་བཞིན་དུ་སྒྲ་དང༌། དྲི་དང་། རོ་དང༌། རེག་བྱ་དང༌། ཆོས་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+    "dm": "Likewise, they should practice generosity without abiding in sound, smell, taste, tangible objects, or phenomena.",
+    "gm": "Likewise, without abiding in sounds, smells, tastes, tactile objects, or mental phenomena, they should give gifts.",
+    "sa": "न शब्दगन्धरसस्प्रष्टव्यधर्मेषु प्रतिष्ठितेन दानं दातव्यम्।"
+   },
+   {
+    "id": "7-6",
+    "bo": "གཟུགས་ལ་ཡང་མ་ཞུགས། སྒྲ་ལ་ཡང་མ་ལགས། དྲི་ལ་ཡང་མ་ལགས། རོ་ལ་ཡང་མ་ལགས། རེག་བྱ་ལ་ཡང་མ་ལགས། ཆོས་རྣམས་ལ་ཡང་མ་ཞུགས་ཏེ།",
+    "dm": "He has not entered into forms, nor has he entered into sounds, nor has he entered into odors, nor has he entered into tastes, nor has he entered into tangibles, nor has he entered into mental phenomena.",
+    "gm": "He has not entered into forms, nor into sounds, nor into smells, nor into tastes, nor into tangible objects, nor into dharmas;",
+    "sa": "न रूपमापन्नो न शब्दान् न गन्धान् न रसान् न स्प्रष्टव्यान् धर्मानापन्नः।"
+   },
+   {
+    "id": "8-36",
+    "bo": "སྒྲ་དང་དྲི་དང་རོ་དང༌། རེག་བྱ་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+    "dm": "One should generate the mind without abiding in sound, smell, taste, or tangible objects.",
+    "gm": "They should give rise to the mind without abiding in sound, smell, taste, or tactile objects.",
+    "sa": "न शब्दगन्धरसस्प्रष्टव्यधर्मप्रतिष्ठितं चित्तमुत्पादयितव्यम्,"
+   }
+  ]
+ },
+ {
+  "term_id": "T068",
+  "bo": "སྲོག་ཏུ་འཛིན་པ",
+  "count": 4,
+  "occurrences": [
+   "7-9",
+   "7-16",
+   "7-27",
+   "10-50"
+  ],
+  "dm": {
+   "grasping at a life force": 2,
+   "grasping at a life-force": 2
+  },
+  "gm": {
+   "grasping at a life": 3,
+   "apprehension of a living soul": 1
+  },
+  "examples": [
+   {
+    "id": "7-9",
+    "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+    "dm": "It would be grasping at a sentient being, grasping at a life force, and grasping at a person.",
+    "gm": "It would be grasping at a living being, grasping at a life, and grasping at a person.",
+    "sa": "सत्त्वग्राहो जीवग्राहः पुद्गलग्राहो भवेदिति॥"
+   },
+   {
+    "id": "7-16",
+    "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+    "dm": "It would be grasping at a sentient being, grasping at a life-force, and grasping at a person.",
+    "gm": "It would be grasping at a living being, grasping at a life, and grasping at a person.",
+    "sa": ""
+   },
+   {
+    "id": "10-50",
+    "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་རོ། །",
+    "dm": "It would be grasping at a sentient being, grasping at a life-force, and grasping at a person.",
+    "gm": "an apprehension of a sentient being, an apprehension of a living soul, and an apprehension of a person.",
+    "sa": "सत्त्वग्राहो जीवग्राहः पुद्गलग्राहोऽभविष्यत्।"
+   }
+  ]
+ },
+ {
+  "term_id": "T074",
+  "bo": "བདག་ཏུ་ལྟ་བ",
+  "count": 4,
+  "occurrences": [
+   "8-62",
+   "12-14",
+   "12-18",
+   "12-19"
+  ],
+  "dm": {
+   "view of a self": 4
+  },
+  "gm": {
+   "view of a self": 4
+  },
+  "examples": [
+   {
+    "id": "8-62",
+    "bo": "བདག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སེམས་ཅན་དུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སྲོག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན་ཞིང༌།",
+    "dm": "nor can those who hold the view of a self, those who hold the view of a sentient being, those who hold the view of a life-force,",
+    "gm": "nor by those who hold a view of a self, nor by those who hold a view of a sentient being, nor by those who hold a view of a living being;",
+    "sa": "नात्मदृष्टिकैर्न सत्त्वदृष्टिकैर्न जीवदृष्टिकैर्न पुद्गलदृष्टिकैः।"
+   },
+   {
+    "id": "12-14",
+    "bo": "རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གསུངས།",
+    "dm": "Subhūti, if someone were to say, \"The Tathāgata has spoken of a view of a self,\"",
+    "gm": "Subhūti, if anyone were to say: 'The Tathāgata has spoken of the view of a self,",
+    "sa": "तत्कस्य हेतोः ? यो हि कश्चित्सुभूते एवं वदेत्-आत्मदृष्टिस्तथागतेन भाषिता,"
+   },
+   {
+    "id": "12-18",
+    "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གང་གསུངས་པ་དེ་ནི་ལྟ་བ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+    "dm": "\"Why is that? Because, Blessed One, what the Tathāgata has spoken of as a view of a self, the Tathāgata has spoken of as a non-view; that is why it is called a view of a self.\"",
+    "gm": "Why is that? Blessed One, what the Tathāgata has spoken of as the view of a self, the Tathāgata has spoken of as no view.",
+    "sa": "तत्कस्य हेतोः ? या सा भगवन् आत्मदृष्टिस्तथागतेन भाषिता, अदृष्टिः सा तथागतेन भाषिता।"
+   }
+  ]
+ },
+ {
+  "term_id": "T080",
+  "bo": "ལྟ་བ",
+  "count": 4,
+  "occurrences": [
+   "12-14",
+   "12-15",
+   "12-18",
+   "12-19"
+  ],
+  "dm": {
+   "view": 4
+  },
+  "gm": {
+   "view": 4
+  },
+  "examples": [
+   {
+    "id": "12-14",
+    "bo": "རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གསུངས།",
+    "dm": "Subhūti, if someone were to say, \"The Tathāgata has spoken of a view of a self,\"",
+    "gm": "Subhūti, if anyone were to say: 'The Tathāgata has spoken of the view of a self,",
+    "sa": "तत्कस्य हेतोः ? यो हि कश्चित्सुभूते एवं वदेत्-आत्मदृष्टिस्तथागतेन भाषिता,"
+   },
+   {
+    "id": "12-15",
+    "bo": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་དུ་ལྟ་བ་དང༌། སྲོག་ཏུ་ལྟ་བ་དང༌། གང་ཟག་ཏུ་ལྟ་བར་གསུངས་སོ། །ཞེས་ཟེར་ན་དེ་ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ཡིན་ནམ།",
+    "dm": "and were to say, \"The Tathāgata has spoken of a view of a sentient being, a view of a life-force, and a view of a person,\" would that person be speaking correctly?",
+    "gm": "the Tathāgata has spoken of the view of a sentient being, the view of a living soul, and the view of a person'—if they said that, would they be speaking truthfully?",
+    "sa": "सत्त्वदृष्टिर्जीवदृष्टिः पुद्गलदृष्टिस्तथागतेन भाषिता, अपि नु स सुभूते सम्यग्वदमानो वदेत् ?"
+   },
+   {
+    "id": "12-18",
+    "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གང་གསུངས་པ་དེ་ནི་ལྟ་བ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+    "dm": "\"Why is that? Because, Blessed One, what the Tathāgata has spoken of as a view of a self, the Tathāgata has spoken of as a non-view; that is why it is called a view of a self.\"",
+    "gm": "Why is that? Blessed One, what the Tathāgata has spoken of as the view of a self, the Tathāgata has spoken of as no view.",
+    "sa": "तत्कस्य हेतोः ? या सा भगवन् आत्मदृष्टिस्तथागतेन भाषिता, अदृष्टिः सा तथागतेन भाषिता।"
+   }
+  ]
+ },
+ {
+  "term_id": "T086",
+  "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདའ",
+  "count": 3,
+  "occurrences": [
+   "4-1",
+   "8-84",
+   "8-111"
+  ],
+  "dm": {
+   "complete nirvāṇa": 1,
+   "final nirvāṇa": 1,
+   "complete nirvana": 1
+  },
+  "gm": {
+   "complete nirvāṇa": 2,
+   "completely pass into nirvāṇa": 1
+  },
+  "examples": [
+   {
+    "id": "4-1",
+    "bo": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཇི་ཙམ་སེམས་ཅན་དུ་བསྡུ་བས་བསྡུས་པ། སྒོ་ང་ལས་སྐྱེས་པའམ། མངལ་ལས་སྐྱེས་པའམ། དྲོད་གཤེར་ལས་སྐྱེས་པའམ། རྫུས་ཏེ་སྐྱེས་པའམ། གཟུགས་ཅན་ནམ། གཟུགས་ཅན་མ་ཡིན་པའམ། འདུ་ཤེས་ཅན་ནམ། འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་ནམ། སེམས་ཅན་གྱི་ཁམས་ཇི་ཙམ་སེམས་ཅན་དུ་གདགས་པའི་བརྟགས་པ་དེ་དག་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+    "dm": "Subhūti, those who have truly entered the bodhisattva vehicle should think in this way: \"As many sentient beings as are included in the category of sentient beings—whether born from eggs, born from wombs, born from warmth and moisture, or born miraculously; whether having form or without form; whether having perception or without perception, or neither with perception nor without perception—all those sentient beings I shall lead to complete nirvāṇa in the realm of nirvāṇa that leaves no remainder of the aggregates.\"",
+    "gm": "Subhūti, here one who has correctly entered the bodhisattva vehicle should form this thought: 'As many beings as are subsumed in the collection of beings—whether born from eggs, born from wombs, born from heat and moisture, or miraculously born; whether having form or formless; whether having perception, having no perception, or neither having nor lacking perception; however many are conceptually designated as the realm of beings—all these I shall lead to complete nirvāṇa in the realm of nirvāṇa without remainder of aggregates.'",
+    "sa": "इह सुभूते बोधिसत्त्वयानसंप्रस्थितेनैव चित्तमुत्पादयितव्यम्-यावन्तः सुभूते सत्त्वाः सत्त्वधातौ सत्त्वसंग्रहेण संगृहीता अण्डजा वा जरायुजा वा संस्वेदजा वा औपपादुका वा रूपिणो वा अरूपिणो वा संज्ञिनो वा असंज्ञिनो वा नैवसंज्ञिनो नासंज्ञिनो वा, यावान् कश्चित्सत्त्वधातुः प्रज्ञप्यमानः प्रज्ञप्यते, ते च मया सर्वेऽनुपधिशेषे निर्वाणधातौ परिनिर्वापयितव्याः।"
+   },
+   {
+    "id": "8-84",
+    "bo": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+    "dm": "Subhūti, in this regard, one who has correctly entered the bodhisattva vehicle should think thus: \"I shall lead all sentient beings to final nirvāṇa in the realm of nirvāṇa without remainder.\"",
+    "gm": "Subhūti, here one who has correctly entered the bodhisattva vehicle should think thus: 'I will lead all sentient beings to complete nirvāṇa in the realm of nirvāṇa without remainder of the aggregates.",
+    "sa": "इह सुभूते बोधिसत्त्वयानसंप्रस्थितेन एवं चित्तमुत्पादयितव्यम्-सर्वे सत्त्वा मया अनुपधिशेषे निर्वाणधातौ परिनिर्वापयितव्याः।"
+   },
+   {
+    "id": "8-111",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་འདི་སྐད་དུ་བདག་གིས་སེམས་ཅན་རྣམས་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ་ཞེས་ཟེར་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱའོ། །",
+    "dm": "If a bodhisattva were to say, 'I shall lead sentient beings to complete nirvana,' that one should not be called a bodhisattva.",
+    "gm": "If any bodhisattva were to speak thus: 'I shall cause sentient beings to completely pass into nirvāṇa,' he would not be called a bodhisattva.",
+    "sa": "यो बोधिसत्त्व एवं वदेत्-अहं सत्त्वान् परिनिर्वापयिष्यामिति, न स बोधिसत्त्व इति वक्तव्यः।"
+   }
+  ]
+ },
+ {
+  "term_id": "T092",
+  "bo": "དགྲ་བཅོམ་པ་ཉིད",
+  "count": 3,
+  "occurrences": [
+   "7-23",
+   "7-26",
+   "7-30"
+  ],
+  "dm": {
+   "state of an arhat": 3
+  },
+  "gm": {
+   "Arhatship": 3
+  },
+  "examples": [
+   {
+    "id": "7-23",
+    "bo": "དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+    "dm": "Does an arhat think, 'I have attained the state of an arhat'?\"",
+    "gm": "Does an Arhat think, 'I have obtained Arhatship'?",
+    "sa": "अपि नु अर्हत एवं भवति-मया अर्हत्त्वं प्राप्तमिति ?"
+   },
+   {
+    "id": "7-26",
+    "bo": "བཅོམ་ལྡན་འདས་གལ་ཏེ་དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+    "dm": "Blessed One, if an arhat were to think, 'I have attained the state of an arhat,' that itself would be his grasping at a self.",
+    "gm": "Blessed One, if an Arhat were to think, 'I have obtained Arhatship,' that itself would be his grasping at a self,",
+    "sa": "सचेद्भगवन् अर्हत एवं भवेत्-मया अर्हत्त्वं प्राप्तमिति, स एव तस्यात्मग्राहो भवेत्,"
+   },
+   {
+    "id": "7-30",
+    "bo": "བཅོམ་ལྡན་འདས་གལ་ཏེ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་བཞིན་གཤེགས་པས་བདག་ལ་རིགས་ཀྱི་བུ་རབ་འབྱོར་ནི་ཉོན་མོངས་པ་མེད་པར་གནས་པ་རྣམས་ཀྱི་མཆོག་ཡིན་ཏེ།",
+    "dm": "Blessed One, if I were to think that I had attained the state of an arhat, the Tathāgata would not have declared of me, \"The son of good family, Subhūti, is the foremost of those who dwell in the state of being without defilement.\"",
+    "gm": "Blessed One, if I were to think, 'I have obtained Arhatship,' the Tathāgata would not have declared of me, 'The son of noble family Subhūti is the foremost of those who dwell without afflictions;",
+    "sa": "सचेन्मम भगवन्नेवं भवेत्-मया अर्हत्त्वं प्राप्तमिति, न मां तथागतो व्याकरिष्यदरणाविहारिणामग्र्यः सुभूतिः कुलपुत्रो"
+   }
+  ]
+ },
+ {
+  "term_id": "T098",
+  "bo": "སྐྱེས་བུ་ཆེན་པོ",
+  "count": 3,
+  "occurrences": [
+   "8-2",
+   "8-4",
+   "8-5"
+  ],
+  "dm": {
+   "great being": 3
+  },
+  "gm": {
+   "great man": 3
+  },
+  "examples": [
+   {
+    "id": "8-2",
+    "bo": "སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་པོ་དེ་དག་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སུ་བལྟ་བར་བྱ་སྙམ་མམ།",
+    "dm": "Should the Tathāgata, the Arhat, the Perfectly Enlightened Buddha be perceived by means of those thirty-two marks of a great being?\"",
+    "gm": "Should the Tathāgata, the Arhat, the fully awakened Buddha be seen by those thirty-two marks of a great man?\"",
+    "sa": "द्वात्रिंशन्महापुरुषलक्षणैस्तथागतोऽर्हन् सम्यक्संबुद्धो द्रष्टव्यः ?"
+   },
+   {
+    "id": "8-4",
+    "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་གང་དག་དེ་བཞིན་གཤེགས་པས་གསུངས་པ་དེ་དག་མཚན་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+    "dm": "Why is that? Because those thirty-two marks of a great being that the Tathāgata has spoken of were spoken of by the Tathāgata as being without marks.",
+    "gm": "Why is that? Because whatever thirty-two marks of a great man were taught by the Tathāgata, they were taught by the Tathāgata as not marks.",
+    "sa": "द्वात्रिंशन्महापुरुषलक्षणैस्तथागतोऽर्हन् सम्यक्संबुद्धो द्रष्टव्यः।तत्कस्य हेतोः ? यानि हि तानि भगवन् द्वात्रिंशन्महापुरुषलक्षणानि तथागतेन भाषितानि, अलक्षणानि तानि भगवंस्तथागतेन भाषितानि।"
+   },
+   {
+    "id": "8-5",
+    "bo": "དེས་ན་སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་རྣམས་ཞེས་བགྱིའོ། །",
+    "dm": "Therefore, they are called the thirty-two marks of a great being.",
+    "gm": "Therefore they are called the thirty-two marks of a great man.\"",
+    "sa": "तेनोच्यन्ते द्वात्रिंशन्महापुरुषलक्षणानीति॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T104",
+  "bo": "རྒྱུན",
+  "count": 3,
+  "occurrences": [
+   "9-22",
+   "9-23",
+   "9-24"
+  ],
+  "dm": {
+   "stream": 2,
+   "streams": 1
+  },
+  "gm": {
+   "stream": 2,
+   "streams": 1
+  },
+  "examples": [
+   {
+    "id": "9-22",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་ན་སེམས་ཅན་ཇི་སྙེད་ཡོད་པ་དེ་དག་གི་བསམ་པ་ཐ་དད་པའི་སེམས་ཀྱི་རྒྱུན་ངས་རབ་ཏུ་ཤེས་སོ། །",
+    "dm": "The Blessed One said: Subhūti, I fully know the streams of thought of all the sentient beings that exist in those world systems, with their various and diverse intentions.",
+    "gm": "The Blessed One said, \"Subhūti, I fully know the streams of mind of various dispositions of however many sentient beings there are in those world realms.\"",
+    "sa": "भगवानाह-यावन्तः सुभूते तेषु लोकधातुषु सत्त्वाः, तेषामहं नानाभावां चित्तधारां प्रजानामि।"
+   },
+   {
+    "id": "9-23",
+    "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཀྱི་རྒྱུན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱ་བ་ནི། དེ་རྒྱུན་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ།",
+    "dm": "Why is that? Subhūti, the so-called \"stream of thought\" is spoken of by the Tathāgata as being without a stream.",
+    "gm": "\"Why is that? Subhūti, as for what is called 'stream of mind, stream of mind', the Tathāgata has taught it to be no stream.\"",
+    "sa": "तत्कस्य हेतोः ? चित्तधारा चित्तधारेति सुभूते अधारैषा तथागतेन भाषिता,"
+   },
+   {
+    "id": "9-24",
+    "bo": "དེས་ན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱའོ། །",
+    "dm": "Therefore, it is called a \"stream of thought.\"",
+    "gm": "\"Therefore it is called 'stream of mind'.\"",
+    "sa": "तेनोच्यते चित्तधारेति।"
+   }
+  ]
+ },
+ {
+  "term_id": "T110",
+  "bo": "ལྷུང་བཟེད",
+  "count": 2,
+  "occurrences": [
+   "1-3",
+   "1-5"
+  ],
+  "dm": {
+   "alms bowl": 2
+  },
+  "gm": {
+   "alms bowl": 2
+  },
+  "examples": [
+   {
+    "id": "1-3",
+    "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ། ཤམ་ཐབས་དང་ཆོས་གོས་སྐུ་ལ་གསོལ་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་སོ། །",
+    "dm": "Then, in the morning, the Blessed One put on his lower robe and Dharma robes, took up his alms bowl, and entered the great city of Śrāvastī for alms.",
+    "gm": "Then the Blessed One, in the morning time, put on his lower garment and dharma-robe, took his alms bowl, and went to the great city of Śrāvastī for alms.",
+    "sa": "अथ खलु भगवान् पूर्वाह्णकालसमये निवास्य पात्रचीवरमादाय श्रावस्तीं महानगरीं पिण्डाय प्राविक्षत्।"
+   },
+   {
+    "id": "1-5",
+    "bo": "ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས་ལྷུང་བཟེད་དང་ཆོས་གོས་བཞག་ནས། ཞབས་བསིལ་ཏེ་གདན་བཤམས་པ་ལ་སྐྱིལ་མོ་ཀྲུང་བཅས་ནས་སྐུ་དྲང་པོར་བསྲང་སྟེ། དྲན་པ་མངོན་དུ་བཞག་ནས་བཞུགས་སོ། །",
+    "dm": "Having finished his meal and ceased receiving alms, he set aside his alms bowl and Dharma robes, washed his feet, arranged his seat, sat down cross-legged, straightened his body, and remained with mindfulness established before him.",
+    "gm": "Having forsaken later alms-food, he put away his alms bowl and dharma-robe, washed his feet, and sat down on the prepared seat, crossing his legs, keeping his body upright, and establishing mindfulness to the fore.",
+    "sa": "पश्चाद्भक्तपिण्डपातप्रतिक्रान्तः पात्रचीवरं प्रतिशाम्य पादौ प्रक्षाल्य न्यषीदत्प्रज्ञप्त एवासने पर्यङ्कमाभुज्य ऋजुं कायं प्रणिधाय प्रतिमुखीं स्मृतिमुपस्थाप्य।"
+   }
+  ]
+ },
+ {
+  "term_id": "T116",
+  "bo": "འདུ་ཤེས་མེད་པ",
+  "count": 2,
+  "occurrences": [
+   "6-22",
+   "8-43"
+  ],
+  "dm": {
+   "non-perception": 1,
+   "devoid of perception": 1
+  },
+  "gm": {
+   "non-perception": 2
+  },
+  "examples": [
+   {
+    "id": "6-22",
+    "bo": "དེ་དག་ནི་འདུ་ཤེས་མེད་པར་ཡང་འཇུག་པར་མི་འགྱུར་རོ། །",
+    "dm": "They also do not engage in the perception of non-perception.",
+    "gm": "and they will also not engage in non-perception.",
+    "sa": "नापि तेषां सुभूते संज्ञा नासंज्ञा प्रवर्तते।"
+   },
+   {
+    "id": "8-43",
+    "bo": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་གང་ཡིན་པ་དེ་ཉིད་ཀྱང་འདུ་ཤེས་མེད་པ་སྟེ།",
+    "dm": "Whatever is perceived as a sentient being is itself devoid of perception.",
+    "gm": "Whatever is the perception of a sentient being is itself a non-perception.",
+    "sa": "तत्कस्य हेतोः ? या चैषा सुभूते सत्त्वसंज्ञा, सैव असंज्ञा।"
+   }
+  ]
+ },
+ {
+  "term_id": "T122",
+  "bo": "རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ",
+  "count": 2,
+  "occurrences": [
+   "7-2",
+   "7-8"
+  ],
+  "dm": {
+   "fruit of a stream-enterer": 2
+  },
+  "gm": {
+   "fruit of a Stream-Enterer": 2
+  },
+  "examples": [
+   {
+    "id": "7-2",
+    "bo": "རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+    "dm": "Does a stream-enterer think, \"I have attained the fruit of a stream-enterer\"?",
+    "gm": "Does a Stream-Enterer think, 'I have obtained the fruit of a Stream-Enterer'?",
+    "sa": "अपि नु स्रोतआपन्नस्यैवं भवति-मया स्रोतआपत्तिफलं प्राप्तमिति?"
+   },
+   {
+    "id": "7-8",
+    "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+    "dm": "Why is that? Blessed One, if a stream-enterer were to think, \"I have attained the fruit of a stream-enterer,\" that itself would be his grasping at a self.",
+    "gm": "Why is that? Blessed One, if a Stream-Enterer were to think, 'I have obtained the fruit of a Stream-Enterer', that itself would be his grasping at a self.",
+    "sa": "सचेद्भगवन् स्रोतआपन्नस्यैवं भवेत्- मया स्रोतआपत्तिफलं प्राप्तमिति, स एव तस्यात्मग्राहो भवेत्,"
+   }
+  ]
+ },
+ {
+  "term_id": "T128",
+  "bo": "གནོད་སེམས",
+  "count": 2,
+  "occurrences": [
+   "8-29",
+   "8-30"
+  ],
+  "dm": {
+   "malice": 2
+  },
+  "gm": {
+   "malice": 2
+  },
+  "examples": [
+   {
+    "id": "8-29",
+    "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་བྱུང་ན། དེའི་ཚེ་གནོད་སེམས་ཀྱི་འདུ་ཤེས་ཀྱང་འབྱུང་ལ།",
+    "dm": "Why is that? Subhūti, if at that time a notion of a self had arisen in me, then a notion of malice would also have arisen.",
+    "gm": "Why is that? Subhūti, if at that time the perception of a self had arisen in me, then at that time the perception of malice would also have arisen, and",
+    "sa": "तत्कस्य हेतोः ? सचेन्मे सुभूते तस्मिन् समये आत्मसंज्ञा अभविष्यत्, व्यापादसंज्ञापि मे तस्मिन् समयेऽभविष्यत्।"
+   },
+   {
+    "id": "8-30",
+    "bo": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་བྱུང་ན། དེའི་ཚེ་གནོད་སེམས་ཀྱི་འདུ་ཤེས་ཀྱང་འབྱུང་བའི་ཕྱིར་རོ། །",
+    "dm": "And if a notion of a sentient being, a notion of a life-force, or a notion of a person had arisen, then a notion of malice would also have arisen.",
+    "gm": "because if the perception of a sentient being, the perception of a life force, or the perception of a person had arisen, then at that time the perception of malice would also have arisen.",
+    "sa": "सचेत्सत्त्वसंज्ञा जीवसंज्ञा पुद्गलसंज्ञाभविष्यत्, व्यापादसंज्ञापि मे तस्मिन् समयेऽभविष्यत्।"
+   }
+  ]
+ },
+ {
+  "term_id": "T134",
+  "bo": "སྲོག་ཏུ་ལྟ་བ",
+  "count": 2,
+  "occurrences": [
+   "8-62",
+   "12-15"
+  ],
+  "dm": {
+   "view of a life-force": 2
+  },
+  "gm": {
+   "view of a living being": 1,
+   "view of a living soul": 1
+  },
+  "examples": [
+   {
+    "id": "8-62",
+    "bo": "བདག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སེམས་ཅན་དུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སྲོག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན་ཞིང༌།",
+    "dm": "nor can those who hold the view of a self, those who hold the view of a sentient being, those who hold the view of a life-force,",
+    "gm": "nor by those who hold a view of a self, nor by those who hold a view of a sentient being, nor by those who hold a view of a living being;",
+    "sa": "नात्मदृष्टिकैर्न सत्त्वदृष्टिकैर्न जीवदृष्टिकैर्न पुद्गलदृष्टिकैः।"
+   },
+   {
+    "id": "12-15",
+    "bo": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་དུ་ལྟ་བ་དང༌། སྲོག་ཏུ་ལྟ་བ་དང༌། གང་ཟག་ཏུ་ལྟ་བར་གསུངས་སོ། །ཞེས་ཟེར་ན་དེ་ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ཡིན་ནམ།",
+    "dm": "and were to say, \"The Tathāgata has spoken of a view of a sentient being, a view of a life-force, and a view of a person,\" would that person be speaking correctly?",
+    "gm": "the Tathāgata has spoken of the view of a sentient being, the view of a living soul, and the view of a person'—if they said that, would they be speaking truthfully?",
+    "sa": "सत्त्वदृष्टिर्जीवदृष्टिः पुद्गलदृष्टिस्तथागतेन भाषिता, अपि नु स सुभूते सम्यग्वदमानो वदेत् ?"
+   }
+  ]
+ },
+ {
+  "term_id": "T140",
+  "bo": "ལྷའི་སྤྱན",
+  "count": 2,
+  "occurrences": [
+   "9-4",
+   "9-5"
+  ],
+  "dm": {
+   "divine eye": 2
+  },
+  "gm": {
+   "divine eye": 2
+  },
+  "examples": [
+   {
+    "id": "9-4",
+    "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའ་སྙམ་མམ།",
+    "dm": "Do you think that the Tathāgata possesses the divine eye?",
+    "gm": "\"Does the Tathāgata possess the divine eye?\"",
+    "sa": "संविद्यते तथागतस्य दिव्यं चक्षुः ?"
+   },
+   {
+    "id": "9-5",
+    "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའོ། །",
+    "dm": "Subhūti replied, \"It is so, Blessed One. The Tathāgata possesses the divine eye.\"",
+    "gm": "Subhūti said, \"Blessed One, it is so; the Tathāgata possesses the divine eye.\"",
+    "sa": "सुभूतिराह-एवमेतद्भगवन्, संविद्यते तथागतस्य दिव्यं चक्षुः।"
+   }
+  ]
+ },
+ {
+  "term_id": "T146",
+  "bo": "རྣམ་པར་བཤིག་པ",
+  "count": 2,
+  "occurrences": [
+   "11-8",
+   "11-9"
+  ],
+  "dm": {
+   "destroyed": 2
+  },
+  "gm": {
+   "destroyed": 2
+  },
+  "examples": [
+   {
+    "id": "11-8",
+    "bo": "རབ་འབྱོར་ཁྱོད་འདི་སྙམ་དུ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ལ་ལ་ཞིག་རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པའོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་དེ་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ།",
+    "dm": "Subhūti, if you think that those who have correctly entered the bodhisattva vehicle hold the view that any phenomenon is destroyed or designated as cut off, Subhūti, you should not view it in that way.",
+    "gm": "Subhūti, if you think that those who have genuinely set out in the Bodhisattva vehicle have destroyed some phenomenon or designated it as annihilated, Subhūti, it should not be seen like that.",
+    "sa": "न खलु पुनस्ते सुभूते कश्चिदेवं वदेत्-बोधिसत्त्वयानसंप्रस्थितैः कस्यचिद्धर्मस्य विनाशः प्रज्ञप्तः उच्छेदो वेति। न खलु पुनस्ते सुभूते एवं द्रष्टव्यम्। तत्कस्य हेतोः ?"
+   },
+   {
+    "id": "11-9",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ། །",
+    "dm": "Those who have correctly entered the bodhisattva vehicle do not hold that any phenomenon is destroyed or designated as cut off.",
+    "gm": "Those who have genuinely set out in the Bodhisattva vehicle have not destroyed any phenomenon or designated it as annihilated.",
+    "sa": "न बोधिसत्त्वयानसंप्रस्थितैः कस्यचिद्धर्मस्य विनाशः प्रज्ञप्तो नोच्छेदः॥२७॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T152",
+  "bo": "ཤམ་ཐབས",
+  "count": 1,
+  "occurrences": [
+   "1-3"
+  ],
+  "dm": {
+   "lower robe": 1
+  },
+  "gm": {
+   "lower garment": 1
+  },
+  "examples": [
+   {
+    "id": "1-3",
+    "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ། ཤམ་ཐབས་དང་ཆོས་གོས་སྐུ་ལ་གསོལ་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་སོ། །",
+    "dm": "Then, in the morning, the Blessed One put on his lower robe and Dharma robes, took up his alms bowl, and entered the great city of Śrāvastī for alms.",
+    "gm": "Then the Blessed One, in the morning time, put on his lower garment and dharma-robe, took his alms bowl, and went to the great city of Śrāvastī for alms.",
+    "sa": "अथ खलु भगवान् पूर्वाह्णकालसमये निवास्य पात्रचीवरमादाय श्रावस्तीं महानगरीं पिण्डाय प्राविक्षत्।"
+   }
+  ]
+ },
+ {
+  "term_id": "T158",
+  "bo": "བླ་གོས",
+  "count": 1,
+  "occurrences": [
+   "2-1"
+  ],
+  "dm": {
+   "upper robe": 1
+  },
+  "gm": {
+   "upper robe": 1
+  },
+  "examples": [
+   {
+    "id": "2-1",
+    "bo": "དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས།",
+    "dm": "Then the Venerable Subhūti rose from his seat, draped his upper robe over one shoulder, and knelt with his right knee on the ground. Facing the direction of the Blessed One, he bowed with palms joined.",
+    "gm": "Then the Venerable Subhūti rose from his seat, put his upper robe over one shoulder, placed his right knee on the ground, bowed with joined palms toward the Blessed One, and",
+    "sa": "अथ खल्वायुष्मान् सुभूतिरुत्थायासनादेकांसमुत्तरासङ्गं कृत्वा दक्षिणं जानुमण्डलं पृथिव्यां प्रतिष्ठाप्य येन भगवांस्तेनाञ्जलिं प्रणम्य"
+   }
+  ]
+ },
+ {
+  "term_id": "T164",
+  "bo": "རྫུས་ཏེ་སྐྱེས་པ",
+  "count": 1,
+  "occurrences": [
+   "4-1"
+  ],
+  "dm": {
+   "born miraculously": 1
+  },
+  "gm": {
+   "miraculously born": 1
+  },
+  "examples": [
+   {
+    "id": "4-1",
+    "bo": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཇི་ཙམ་སེམས་ཅན་དུ་བསྡུ་བས་བསྡུས་པ། སྒོ་ང་ལས་སྐྱེས་པའམ། མངལ་ལས་སྐྱེས་པའམ། དྲོད་གཤེར་ལས་སྐྱེས་པའམ། རྫུས་ཏེ་སྐྱེས་པའམ། གཟུགས་ཅན་ནམ། གཟུགས་ཅན་མ་ཡིན་པའམ། འདུ་ཤེས་ཅན་ནམ། འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་ནམ། སེམས་ཅན་གྱི་ཁམས་ཇི་ཙམ་སེམས་ཅན་དུ་གདགས་པའི་བརྟགས་པ་དེ་དག་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+    "dm": "Subhūti, those who have truly entered the bodhisattva vehicle should think in this way: \"As many sentient beings as are included in the category of sentient beings—whether born from eggs, born from wombs, born from warmth and moisture, or born miraculously; whether having form or without form; whether having perception or without perception, or neither with perception nor without perception—all those sentient beings I shall lead to complete nirvāṇa in the realm of nirvāṇa that leaves no remainder of the aggregates.\"",
+    "gm": "Subhūti, here one who has correctly entered the bodhisattva vehicle should form this thought: 'As many beings as are subsumed in the collection of beings—whether born from eggs, born from wombs, born from heat and moisture, or miraculously born; whether having form or formless; whether having perception, having no perception, or neither having nor lacking perception; however many are conceptually designated as the realm of beings—all these I shall lead to complete nirvāṇa in the realm of nirvāṇa without remainder of aggregates.'",
+    "sa": "इह सुभूते बोधिसत्त्वयानसंप्रस्थितेनैव चित्तमुत्पादयितव्यम्-यावन्तः सुभूते सत्त्वाः सत्त्वधातौ सत्त्वसंग्रहेण संगृहीता अण्डजा वा जरायुजा वा संस्वेदजा वा औपपादुका वा रूपिणो वा अरूपिणो वा संज्ञिनो वा असंज्ञिनो वा नैवसंज्ञिनो नासंज्ञिनो वा, यावान् कश्चित्सत्त्वधातुः प्रज्ञप्यमानः प्रज्ञप्यते, ते च मया सर्वेऽनुपधिशेषे निर्वाणधातौ परिनिर्वापयितव्याः।"
+   }
+  ]
+ },
+ {
+  "term_id": "T170",
+  "bo": "སེམས་ཅན་གྱི་ཁམས",
+  "count": 1,
+  "occurrences": [
+   "4-1"
+  ],
+  "dm": {},
+  "gm": {
+   "realm of beings": 1
+  },
+  "examples": [
+   {
+    "id": "4-1",
+    "bo": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཇི་ཙམ་སེམས་ཅན་དུ་བསྡུ་བས་བསྡུས་པ། སྒོ་ང་ལས་སྐྱེས་པའམ། མངལ་ལས་སྐྱེས་པའམ། དྲོད་གཤེར་ལས་སྐྱེས་པའམ། རྫུས་ཏེ་སྐྱེས་པའམ། གཟུགས་ཅན་ནམ། གཟུགས་ཅན་མ་ཡིན་པའམ། འདུ་ཤེས་ཅན་ནམ། འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་ནམ། སེམས་ཅན་གྱི་ཁམས་ཇི་ཙམ་སེམས་ཅན་དུ་གདགས་པའི་བརྟགས་པ་དེ་དག་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+    "dm": "Subhūti, those who have truly entered the bodhisattva vehicle should think in this way: \"As many sentient beings as are included in the category of sentient beings—whether born from eggs, born from wombs, born from warmth and moisture, or born miraculously; whether having form or without form; whether having perception or without perception, or neither with perception nor without perception—all those sentient beings I shall lead to complete nirvāṇa in the realm of nirvāṇa that leaves no remainder of the aggregates.\"",
+    "gm": "Subhūti, here one who has correctly entered the bodhisattva vehicle should form this thought: 'As many beings as are subsumed in the collection of beings—whether born from eggs, born from wombs, born from heat and moisture, or miraculously born; whether having form or formless; whether having perception, having no perception, or neither having nor lacking perception; however many are conceptually designated as the realm of beings—all these I shall lead to complete nirvāṇa in the realm of nirvāṇa without remainder of aggregates.'",
+    "sa": "इह सुभूते बोधिसत्त्वयानसंप्रस्थितेनैव चित्तमुत्पादयितव्यम्-यावन्तः सुभूते सत्त्वाः सत्त्वधातौ सत्त्वसंग्रहेण संगृहीता अण्डजा वा जरायुजा वा संस्वेदजा वा औपपादुका वा रूपिणो वा अरूपिणो वा संज्ञिनो वा असंज्ञिनो वा नैवसंज्ञिनो नासंज्ञिनो वा, यावान् कश्चित्सत्त्वधातुः प्रज्ञप्यमानः प्रज्ञप्यते, ते च मया सर्वेऽनुपधिशेषे निर्वाणधातौ परिनिर्वापयितव्याः।"
+   }
+  ]
+ },
+ {
+  "term_id": "T176",
+  "bo": "སེམས་ཅན་དུ་འདུ་ཤེས",
+  "count": 1,
+  "occurrences": [
+   "4-4"
+  ],
+  "dm": {
+   "perception of a sentient being": 1
+  },
+  "gm": {
+   "notion of a being": 1
+  },
+  "examples": [
+   {
+    "id": "4-4",
+    "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་གམ། སྲོག་ཏུ་འདུ་ཤེས་འཇུག་གམ། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+    "dm": "Why is that? Subhūti, if a bodhisattva engages in the perception of a sentient being, the perception of a life-force, or the perception of a person, they should not be called a bodhisattva.",
+    "gm": "Why is that? Subhūti, it is because if one holds the notion of a being, holds the notion of a living soul, or holds the notion of a person, they would not be called a bodhisattva.",
+    "sa": "तत्कस्य हेतोः ? न स सुभूते बोधिसत्त्वो वक्तव्यो यस्य सत्त्वसंज्ञा प्रवर्तेत, जीवसंज्ञा वा पुद्गलसंज्ञा व प्रवर्तेत॥३॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T182",
+  "bo": "ལྷོ",
+  "count": 1,
+  "occurrences": [
+   "5-4"
+  ],
+  "dm": {
+   "south": 1
+  },
+  "gm": {
+   "south": 1
+  },
+  "examples": [
+   {
+    "id": "5-4",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་བཞིན་དུ་ལྷོ་དང༌། ནུབ་དང༌། བྱང་དང༌། སྟེང་དང༌། འོག་གི་ཕྱོགས་དང༌། ཕྱོགས་མཚམས་དང༌། ཕྱོགས་བཅུའི་ནམ་མཁའི་ཚད་གཟུང་བར་སླའམ།",
+    "dm": "The Blessed One said, \"Subhūti, is it easy to measure the extent of space in the south, the west, the north, the zenith, the nadir, the intermediate directions, and the ten directions?\"",
+    "gm": "The Blessed One said: Subhūti, likewise, is it easy to measure the space in the south, west, north, the directions above and below, the intermediate directions, and the ten directions?",
+    "sa": "भगवानाह- एवं दक्षिणपश्चिमोत्तरासु अध ऊर्ध्वं दिग्विदिक्षु समन्ताद्दशसु दिक्षु सुकरमाकाशस्य प्रमाणमुद्ग्रहीतुम् ?"
+   }
+  ]
+ },
+ {
+  "term_id": "T188",
+  "bo": "ཕྱོགས་བཅུ",
+  "count": 1,
+  "occurrences": [
+   "5-4"
+  ],
+  "dm": {
+   "ten directions": 1
+  },
+  "gm": {
+   "ten directions": 1
+  },
+  "examples": [
+   {
+    "id": "5-4",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་བཞིན་དུ་ལྷོ་དང༌། ནུབ་དང༌། བྱང་དང༌། སྟེང་དང༌། འོག་གི་ཕྱོགས་དང༌། ཕྱོགས་མཚམས་དང༌། ཕྱོགས་བཅུའི་ནམ་མཁའི་ཚད་གཟུང་བར་སླའམ།",
+    "dm": "The Blessed One said, \"Subhūti, is it easy to measure the extent of space in the south, the west, the north, the zenith, the nadir, the intermediate directions, and the ten directions?\"",
+    "gm": "The Blessed One said: Subhūti, likewise, is it easy to measure the space in the south, west, north, the directions above and below, the intermediate directions, and the ten directions?",
+    "sa": "भगवानाह- एवं दक्षिणपश्चिमोत्तरासु अध ऊर्ध्वं दिग्विदिक्षु समन्ताद्दशसु दिक्षु सुकरमाकाशस्य प्रमाणमुद्ग्रहीतुम् ?"
+   }
+  ]
+ },
+ {
+  "term_id": "T194",
+  "bo": "གཟིངས",
+  "count": 1,
+  "occurrences": [
+   "6-28"
+  ],
+  "dm": {
+   "raft": 1
+  },
+  "gm": {
+   "raft": 1
+  },
+  "examples": [
+   {
+    "id": "6-28",
+    "bo": "དེ་བས་ན་དེ་ལས་དགོངས་ཏེ་དེ་བཞིན་གཤེགས་པས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གཟིངས་ལྟ་བུར་ཤེས་པ་རྣམས་ཀྱིས་ཆོས་རྣམས་ཀྱང་སྤང་བར་བྱ་ན། ཆོས་མ་ཡིན་པ་རྣམས་ལྟ་ཅི་སྨོས། ཞེས་གསུངས་སོ། །",
+    "dm": "Therefore, keeping this in mind, the Tathāgata has said that those who understand this discourse on the Dharma as being like a raft should abandon even phenomena, let alone what are not phenomena.",
+    "gm": "Therefore, with this in mind, the Tathāgata has spoken: 'Those who know this dharma discourse to be like a raft should abandon even dharmas, let alone non-dharmas.'",
+    "sa": "तस्मादियं तथागतेन संधाय वाग्भाषिता-कोलोपमं धर्मपर्यायमाजानद्भिधर्मा एव प्रहातव्याः प्रागेवाधर्मा इति॥६॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T200",
+  "bo": "ཕྱིར་མི་འོང་བའི་འབྲས་བུ",
+  "count": 1,
+  "occurrences": [
+   "7-18"
+  ],
+  "dm": {
+   "fruit of a non-returner": 1
+  },
+  "gm": {
+   "fruit of a Non-Returner": 1
+  },
+  "examples": [
+   {
+    "id": "7-18",
+    "bo": "ཕྱིར་མི་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+    "dm": "Does a non-returner think, 'I have attained the fruit of a non-returner'?\"",
+    "gm": "Does a Non-Returner think, 'I have obtained the fruit of a Non-Returner'?",
+    "sa": "अपि नु अनागामिन एवं भवति-मयानागामिफलं प्राप्तमिति ?"
+   }
+  ]
+ },
+ {
+  "term_id": "T206",
+  "bo": "འཇིག་རྟེན་གྱིས་ཁམས",
+  "count": 1,
+  "occurrences": [
+   "7-59"
+  ],
+  "dm": {
+   "world systems": 1
+  },
+  "gm": {
+   "world systems": 1
+  },
+  "examples": [
+   {
+    "id": "7-59",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་གང་གིས་འཇིག་རྟེན་གྱིས་ཁམས་དེ་སྙེད་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ།",
+    "dm": "The Blessed One said, \"Subhūti, if someone were to fill as many world systems as there are with the seven kinds of precious jewels and give them as a gift,",
+    "gm": "The Blessed One said: Subhūti, if someone were to completely fill that many world systems with the seven precious substances,",
+    "sa": "भगवानाह- यश्च खलु पुनः सुभूते स्त्री वा पुरुषो वा तावतो लोकधातून् सप्तरत्नपरिपूर्णं कृत्वा"
+   }
+  ]
+ },
+ {
+  "term_id": "T212",
+  "bo": "འདུ་ཤེས་མ་མཆིས་པ",
+  "count": 1,
+  "occurrences": [
+   "8-12"
+  ],
+  "dm": {
+   "non-perception": 1
+  },
+  "gm": {
+   "no perception": 1
+  },
+  "examples": [
+   {
+    "id": "8-12",
+    "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་ཡང་དག་པར་འདུ་ཤེས་པ་གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+    "dm": "Why is that? Blessed One, it is because that which is a correct perception is precisely a non-perception.",
+    "gm": "Why is that? Because, Bhagavān, whatever is a true perception is itself no perception.",
+    "sa": "तत्कस्य हेतोः ? या चैषा भगवन् भूतसंज्ञा, सैव अभूतसंज्ञा।"
+   }
+  ]
+ },
+ {
+  "term_id": "T218",
+  "bo": "དྲང་སྲོང",
+  "count": 1,
+  "occurrences": [
+   "8-31"
+  ],
+  "dm": {
+   "sage": 1
+  },
+  "gm": {
+   "sage": 1
+  },
+  "examples": [
+   {
+    "id": "8-31",
+    "bo": "རབ་འབྱོར་ངས་མངོན་པར་ཤེས་ཏེ། འདས་པའི་དུས་ན། ང་ཚེ་རབས་ལྔ་བརྒྱར་བཟོད་པ་སྨྲ་བ་ཞེས་བྱ་བའི་དྲང་སྲོང་དུ་གྱུར་པ་དེའི་ཚེ་ན་ཡང༌། ང་ལ་བདག་ཏུ་འདུ་ཤེས་མ་བྱུང༌།",
+    "dm": "Subhūti, I recall that in a past age, when I was a sage called \"Speaker of Patience\" for five hundred lifetimes, even at that time I had no notion of a self.",
+    "gm": "Subhūti, I remember that in the past, for five hundred lifetimes, when I was the sage called Kṣāntivādin, even at that time the perception of a self did not arise in me.",
+    "sa": "तत्कस्य हेतोः ? अभिजानाम्यहं सुभूते अतीतेऽध्वनि पञ्च जातिशतानि यदहं क्षान्तिवादी ऋषिरभूवम्। तत्रापि मे नात्मसंज्ञा बभूव,"
+   }
+  ]
+ },
+ {
+  "term_id": "T224",
+  "bo": "ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ",
+  "count": 1,
+  "occurrences": [
+   "8-56"
+  ],
+  "dm": {
+   "unsurpassed vehicle": 1
+  },
+  "gm": {
+   "foremost vehicle": 1
+  },
+  "examples": [
+   {
+    "id": "8-56",
+    "bo": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་ཐེག་པ་མཆོག་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་དང༌། ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་གྱི་ཕྱིར་དེ་བཞིན་གཤེགས་པས་གསུངས་སོ། །",
+    "dm": "The Tathāgata has spoken this Dharma discourse for the sake of those sentient beings who have correctly entered the supreme vehicle, and for the sake of those sentient beings who have correctly entered the unsurpassed vehicle.",
+    "gm": "The Tathāgata has spoken this dharma discourse for the sake of sentient beings who have authentically entered into the supreme vehicle, and for the sake of sentient beings who have authentically entered into the foremost vehicle.",
+    "sa": "अयं च सुभूते धर्मपर्यायस्तथागतेन भाषितोऽग्रयानसंप्रस्थितानां सत्त्वानामर्थाय, श्रेष्ठयानसंप्रस्थितानां सत्त्वानामर्थाय।"
+   }
+  ]
+ },
+ {
+  "term_id": "T230",
+  "bo": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ",
+  "count": 1,
+  "occurrences": [
+   "8-71"
+  ],
+  "dm": {
+   "enlightenment of a Buddha": 1
+  },
+  "gm": {
+   "awakening of a buddha": 1
+  },
+  "examples": [
+   {
+    "id": "8-71",
+    "bo": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་ཀྱང་ཐོབ་པར་འགྱུར་རོ། །",
+    "dm": "and they will also attain the enlightenment of a Buddha.",
+    "gm": "and they will also attain the awakening of a buddha.",
+    "sa": "बुद्धबोधिं चानुप्राप्स्यन्ति॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T236",
+  "bo": "ཚེ་དང༌ལྡན་པ",
+  "count": 1,
+  "occurrences": [
+   "8-91"
+  ],
+  "dm": {
+   "venerable": 1
+  },
+  "gm": {
+   "venerable": 1
+  },
+  "examples": [
+   {
+    "id": "8-91",
+    "bo": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌།བཅོམ་ལྡན་འདས་ལ་ཚེ་དང༌ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+    "dm": "When he had spoken those words, the venerable Subhūti addressed the Blessed One as follows:",
+    "gm": "When he had said this, the venerable Subhūti said this to the Blessed One:",
+    "sa": "एवमुक्ते आयुष्मान् सुभूतिर्भगवन्तमेतदवोचत्-"
+   }
+  ]
+ },
+ {
+  "term_id": "T242",
+  "bo": "ཆོས་བསྟན་པ",
+  "count": 1,
+  "occurrences": [
+   "10-27"
+  ],
+  "dm": {
+   "teaching the Dharma": 1
+  },
+  "gm": {
+   "teaching the Dharma": 1
+  },
+  "examples": [
+   {
+    "id": "10-27",
+    "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཆོས་བསྟན་པ་ཞེས་བྱ་བ་ནི་གང་ཆོས་བསྟན་པ་ཆོས་བསྟན་པ་ཞེས་བྱ་བར་དམིགས་པར་འགྱུར་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+    "dm": "Why is that? Subhūti, that which is called \"teaching the Dharma\" is such that there is no phenomenon whatsoever that can be apprehended as \"teaching the Dharma\" or \"the Dharma that is taught.\"",
+    "gm": "Why is that? Subhūti, as for what is called 'teaching the Dharma', there is no Dharma whatsoever that can be apprehended as 'teaching the Dharma'.",
+    "sa": "तत्कस्य हेतोः ? धर्मदेशना धर्मदेशनेति सुभूते नास्ति स कश्चिद्धर्मो यो धर्मदेशना नामोपलभ्यते॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T248",
+  "bo": "ལོག་པའི་ལམ",
+  "count": 1,
+  "occurrences": [
+   "11-1"
+  ],
+  "dm": {
+   "mistaken path": 1
+  },
+  "gm": {
+   "wrong path": 1
+  },
+  "examples": [
+   {
+    "id": "11-1",
+    "bo": "གང་དག་ང་ལ་གཟུགས་སུ་མཐོང༌། །གང་དག་ང་ལ་སྒྲར་ཤེས་པ། །ལོག་པའི་ལམ་དུ་ཞུགས་པ་སྟེ། །",
+    "dm": "Those who see me as form, those who perceive me as sound, have entered upon a mistaken path;",
+    "gm": "'Those who see me by form, those who know me by sound, have set out on a wrong path;",
+    "sa": "ये मां रूपेण चाद्राक्षुर्ये मां घोषेण चान्वगुः।मिथ्याप्रहाणप्रसृता"
+   }
+  ]
+ },
+ {
+  "term_id": "T254",
+  "bo": "དཔག་ཏུ་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "11-10"
+  ],
+  "dm": {
+   "immeasurable": 1
+  },
+  "gm": {
+   "immeasurable": 1
+  },
+  "examples": [
+   {
+    "id": "11-10",
+    "bo": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། བྱང་ཆུབ་སེམས་དཔའ་གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བདག་མེད་ཅིང་སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆོས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+    "dm": "Furthermore, Subhūti, if a son or daughter of noble family were to fill as many world systems as there are grains of sand in the river Ganges with the seven types of precious jewels and give them as a gift, and if a bodhisattva were to gain patience in the realization that phenomena are without self and unborn, then that bodhisattva would generate a mass of merit far greater, immeasurable, and incalculable than that.",
+    "gm": "Moreover, Subhūti, if a son of good family or a daughter of good family were to fill as many world systems as there are grains of sand in the river Ganges with the seven precious things and give them as a gift, and if a Bodhisattva were to attain the patience that this Dharma-discourse is selfless and unproduced, he would produce from that basis a mass of merit vastly greater, incalculable and immeasurable.",
+    "sa": "यश्च खलु पुनः सुभूते कुलपुत्रो वा कुलदुहिता वा गङ्गानदीवालुकासमाँल्लोकधातून् सप्तरत्नपरिपूर्णं कृत्वा तथागतेभ्योऽर्हद्भयः सम्यक्संबुद्धेभ्यो दानं दद्यात्, यश्च बोधिसत्त्वो निरात्मकेष्वनुत्पत्तिकेषु धर्मेषु क्षान्तिं प्रतिलभते, अयमेव ततोनिदानं बहुतरं पुण्यस्कन्धं प्रसवेदप्रमेयमसंख्येयम्।"
+   }
+  ]
+ },
+ {
+  "term_id": "T260",
+  "bo": "མར་མེ",
+  "count": 1,
+  "occurrences": [
+   "12-27"
+  ],
+  "dm": {
+   "lamp": 1
+  },
+  "gm": {
+   "lamp": 1
+  },
+  "examples": [
+   {
+    "id": "12-27",
+    "bo": "སྐར་མ་རབ་རིབ་མར་མེ་དང༌། །སྒྱུ་མ་ཟིལ་བ་ཆུ་བུར་དང༌། །རྨི་ལམ་གློག་དང་སྤྲིན་ལྟ་བུ། །འདུས་བྱས་ཐམས་ཅད་དེ་ལྟར་ལྟ། །",
+    "dm": "Like a star, a visual fault, a lamp, A magical illusion, a dewdrop, a bubble, A dream, a flash of lightning, and a cloud— Thus should one view all conditioned phenomena.",
+    "gm": "Like a star, a visual aberration, a lamp, an illusion, a dewdrop, a bubble, a dream, lightning, and a cloud—view all conditioned things thus.",
+    "sa": "तारका तिमिरं दीपो मायावश्याय बुद्बुदम्। स्वप्नं च विद्युदभ्रं च एवं द्रष्टव्य संस्कृतम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T266",
+  "bo": "སྤྲིན",
+  "count": 1,
+  "occurrences": [
+   "12-27"
+  ],
+  "dm": {
+   "cloud": 1
+  },
+  "gm": {
+   "cloud": 1
+  },
+  "examples": [
+   {
+    "id": "12-27",
+    "bo": "སྐར་མ་རབ་རིབ་མར་མེ་དང༌། །སྒྱུ་མ་ཟིལ་བ་ཆུ་བུར་དང༌། །རྨི་ལམ་གློག་དང་སྤྲིན་ལྟ་བུ། །འདུས་བྱས་ཐམས་ཅད་དེ་ལྟར་ལྟ། །",
+    "dm": "Like a star, a visual fault, a lamp, A magical illusion, a dewdrop, a bubble, A dream, a flash of lightning, and a cloud— Thus should one view all conditioned phenomena.",
+    "gm": "Like a star, a visual aberration, a lamp, an illusion, a dewdrop, a bubble, a dream, lightning, and a cloud—view all conditioned things thus.",
+    "sa": "तारका तिमिरं दीपो मायावश्याय बुद्बुदम्। स्वप्नं च विद्युदभ्रं च एवं द्रष्टव्य संस्कृतम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T272",
+  "bo": "དགེ་བསྙེན་མ",
+  "count": 1,
+  "occurrences": [
+   "13-1"
+  ],
+  "dm": {
+   "laywomen": 1
+  },
+  "gm": {
+   "laywomen": 1
+  },
+  "examples": [
+   {
+    "id": "13-1",
+    "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། གནས་བརྟན་རབ་འབྱོར་དང༌། དགེ་སློང་དེ་དག་དང༌། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང༌། འཁོར་བཞི་པོ་དགེ་སློང་དང༌། དགེ་སློང་མ་དང༌། དགེ་བསྙེན་དང༌། དགེ་བསྙེན་མ་དང༌། ལྷ་དང༌། མི་དང་ལྷ་མ་ཡིན་དང༌། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ།",
+    "dm": "When the Bhagavān had spoken these words, the elder Subhūti, those monks, those bodhisattvas, and the fourfold assembly—monks, nuns, laymen, and laywomen—along with the world of gods, humans, asuras, and gandharvas, rejoiced,",
+    "gm": "After the Bhagavan had spoken thus, the elder Subhūti, those monks, those bodhisattvas, and the fourfold assembly of monks, nuns, laymen, and laywomen, along with the world with its gods, humans, asuras, and gandharvas, rejoiced and",
+    "sa": "इदमवोचद्भगवान् आत्तमनाः। स्थविरसुभूतिस्ते च भिक्षुभिक्षुण्युपासकोपासिकास्ते च बोधिसत्त्वाः सदेवमानुषासुरगन्धर्वश्च लोको"
+   }
+  ]
+ },
+ {
+  "term_id": "T278",
+  "bo": "ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ",
+  "count": 1,
+  "occurrences": [
+   "13-6"
+  ],
+  "dm": {
+   "Ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat | teṣāñca yo nirodha evaṃvādī mahāśramaṇaye svāhā": 1
+  },
+  "gm": {
+   "ye dharma hetuprabhava hetunteṣāntathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā": 1
+  },
+  "examples": [
+   {
+    "id": "13-6",
+    "bo": "ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ།། །།",
+    "dm": "Ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat | teṣāñca yo nirodha evaṃvādī mahāśramaṇaye svāhā ||",
+    "gm": "ye dharma hetuprabhava hetunteṣāntathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā",
+    "sa": ""
+   }
+  ]
+ }
+]

@@ -1,0 +1,576 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "7-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-2",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འབྲས་བུ",
+      "reason": "Technical term (fruit/phala), part of compound.",
+      "dm": "fruit",
+      "gm": "fruit"
+     }
+    ]
+   },
+   {
+    "id": "7-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-8",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འབྲས་བུ",
+      "reason": "Technical term (fruit/phala), part of compound.",
+      "dm": "fruit",
+      "gm": "fruit"
+     },
+     {
+      "bo": "འཛིན་པ",
+      "reason": "Technical term (grasping/grāha), part of compound.",
+      "dm": "grasping",
+      "gm": "grasping"
+     }
+    ]
+   },
+   {
+    "id": "7-9",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཛིན་པ",
+      "reason": "Technical term (grasping/grāha), part of compound.",
+      "dm": "grasping",
+      "gm": "grasping"
+     }
+    ]
+   },
+   {
+    "id": "7-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-11",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འབྲས་བུ",
+      "reason": "Technical term (fruit/phala), part of compound.",
+      "dm": "fruit",
+      "gm": "fruit"
+     }
+    ]
+   },
+   {
+    "id": "7-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-13",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལན་ཅིག་ཕྱིར་འོང་བ་ཉིད",
+      "reason": "Technical term (state of a once-returner).",
+      "dm": "state of being a once-returner",
+      "gm": "state of a Once-Returner"
+     }
+    ]
+   },
+   {
+    "id": "7-14",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-15",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འབྲས་བུ",
+      "reason": "Technical term (fruit/phala), part of compound.",
+      "dm": "fruit",
+      "gm": "fruit"
+     },
+     {
+      "bo": "འཛིན་པ",
+      "reason": "Technical term (grasping/grāha), part of compound.",
+      "dm": "grasping",
+      "gm": "grasping"
+     }
+    ]
+   },
+   {
+    "id": "7-16",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཛིན་པ",
+      "reason": "Technical term (grasping/grāha), part of compound.",
+      "dm": "grasping",
+      "gm": "grasping"
+     }
+    ]
+   },
+   {
+    "id": "7-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-18",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འབྲས་བུ",
+      "reason": "Technical term (fruit/phala), part of compound.",
+      "dm": "fruit",
+      "gm": "fruit"
+     }
+    ]
+   },
+   {
+    "id": "7-19",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-20",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཕྱིར་མི་འོང་བ་ཉིད",
+      "reason": "Technical term (state of a non-returner).",
+      "dm": "state of a non-returner",
+      "gm": "state of a Non-Returner"
+     }
+    ]
+   },
+   {
+    "id": "7-21",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-26",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཛིན་པ",
+      "reason": "Technical term (grasping/grāha), part of compound.",
+      "dm": "grasping",
+      "gm": "grasping"
+     }
+    ]
+   },
+   {
+    "id": "7-27",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཛིན་པ",
+      "reason": "Technical term (grasping/grāha), part of compound.",
+      "dm": "grasping",
+      "gm": "grasping"
+     }
+    ]
+   },
+   {
+    "id": "7-28",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཆོག",
+      "reason": "Technical adjective/noun (foremost/agra).",
+      "dm": "foremost",
+      "gm": "foremost"
+     }
+    ]
+   },
+   {
+    "id": "7-29",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འདོད་ཆགས་དང་བྲལ་བ",
+      "reason": "Technical epithet (vītarāga / free from desire).",
+      "dm": "free from desire",
+      "gm": "free from desire"
+     }
+    ]
+   },
+   {
+    "id": "7-30",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཆོག",
+      "reason": "Technical adjective/noun (foremost/agra).",
+      "dm": "foremost",
+      "gm": "foremost"
+     }
+    ]
+   },
+   {
+    "id": "7-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-33",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-36",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཞིང",
+      "reason": "Technical term (field/kṣetra), part of compound.",
+      "dm": "buddha-fields",
+      "gm": "fields"
+     }
+    ]
+   },
+   {
+    "id": "7-37",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཞིང",
+      "reason": "Technical term (field/kṣetra), part of compound.",
+      "dm": "buddha-fields",
+      "gm": "fields"
+     },
+     {
+      "bo": "བཀོད་པ",
+      "reason": "Technical term (adornment/vyūha), part of compound.",
+      "dm": "adornment",
+      "gm": "array"
+     }
+    ]
+   },
+   {
+    "id": "7-38",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཞིང",
+      "reason": "Technical term (field/kṣetra), part of compound.",
+      "dm": "buddha-fields",
+      "gm": "fields"
+     }
+    ]
+   },
+   {
+    "id": "7-39",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས་དཔའ་ཆེན་པོ",
+      "reason": "Technical term (mahāsattva), part of compound.",
+      "dm": "mahāsattva",
+      "gm": "great being"
+     },
+     {
+      "bo": "སེམས",
+      "reason": "Technical term (mind/citta), part of compound.",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "7-40",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Technical term (mind/citta), part of compound.",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "7-2",
+    "bo": "འབྲས་བུ",
+    "dm": "fruit",
+    "gm": "fruit",
+    "reason": "Technical term (fruit/phala), part of compound."
+   },
+   {
+    "id": "7-8",
+    "bo": "འབྲས་བུ",
+    "dm": "fruit",
+    "gm": "fruit",
+    "reason": "Technical term (fruit/phala), part of compound."
+   },
+   {
+    "id": "7-8",
+    "bo": "འཛིན་པ",
+    "dm": "grasping",
+    "gm": "grasping",
+    "reason": "Technical term (grasping/grāha), part of compound."
+   },
+   {
+    "id": "7-9",
+    "bo": "འཛིན་པ",
+    "dm": "grasping",
+    "gm": "grasping",
+    "reason": "Technical term (grasping/grāha), part of compound."
+   },
+   {
+    "id": "7-11",
+    "bo": "འབྲས་བུ",
+    "dm": "fruit",
+    "gm": "fruit",
+    "reason": "Technical term (fruit/phala), part of compound."
+   },
+   {
+    "id": "7-13",
+    "bo": "ལན་ཅིག་ཕྱིར་འོང་བ་ཉིད",
+    "dm": "state of being a once-returner",
+    "gm": "state of a Once-Returner",
+    "reason": "Technical term (state of a once-returner)."
+   },
+   {
+    "id": "7-15",
+    "bo": "འབྲས་བུ",
+    "dm": "fruit",
+    "gm": "fruit",
+    "reason": "Technical term (fruit/phala), part of compound."
+   },
+   {
+    "id": "7-15",
+    "bo": "འཛིན་པ",
+    "dm": "grasping",
+    "gm": "grasping",
+    "reason": "Technical term (grasping/grāha), part of compound."
+   },
+   {
+    "id": "7-16",
+    "bo": "འཛིན་པ",
+    "dm": "grasping",
+    "gm": "grasping",
+    "reason": "Technical term (grasping/grāha), part of compound."
+   },
+   {
+    "id": "7-18",
+    "bo": "འབྲས་བུ",
+    "dm": "fruit",
+    "gm": "fruit",
+    "reason": "Technical term (fruit/phala), part of compound."
+   },
+   {
+    "id": "7-20",
+    "bo": "ཕྱིར་མི་འོང་བ་ཉིད",
+    "dm": "state of a non-returner",
+    "gm": "state of a Non-Returner",
+    "reason": "Technical term (state of a non-returner)."
+   },
+   {
+    "id": "7-26",
+    "bo": "འཛིན་པ",
+    "dm": "grasping",
+    "gm": "grasping",
+    "reason": "Technical term (grasping/grāha), part of compound."
+   },
+   {
+    "id": "7-27",
+    "bo": "འཛིན་པ",
+    "dm": "grasping",
+    "gm": "grasping",
+    "reason": "Technical term (grasping/grāha), part of compound."
+   },
+   {
+    "id": "7-28",
+    "bo": "མཆོག",
+    "dm": "foremost",
+    "gm": "foremost",
+    "reason": "Technical adjective/noun (foremost/agra)."
+   },
+   {
+    "id": "7-29",
+    "bo": "འདོད་ཆགས་དང་བྲལ་བ",
+    "dm": "free from desire",
+    "gm": "free from desire",
+    "reason": "Technical epithet (vītarāga / free from desire)."
+   },
+   {
+    "id": "7-30",
+    "bo": "མཆོག",
+    "dm": "foremost",
+    "gm": "foremost",
+    "reason": "Technical adjective/noun (foremost/agra)."
+   },
+   {
+    "id": "7-36",
+    "bo": "ཞིང",
+    "dm": "buddha-fields",
+    "gm": "fields",
+    "reason": "Technical term (field/kṣetra), part of compound."
+   },
+   {
+    "id": "7-37",
+    "bo": "ཞིང",
+    "dm": "buddha-fields",
+    "gm": "fields",
+    "reason": "Technical term (field/kṣetra), part of compound."
+   },
+   {
+    "id": "7-37",
+    "bo": "བཀོད་པ",
+    "dm": "adornment",
+    "gm": "array",
+    "reason": "Technical term (adornment/vyūha), part of compound."
+   },
+   {
+    "id": "7-38",
+    "bo": "ཞིང",
+    "dm": "buddha-fields",
+    "gm": "fields",
+    "reason": "Technical term (field/kṣetra), part of compound."
+   },
+   {
+    "id": "7-39",
+    "bo": "སེམས་དཔའ་ཆེན་པོ",
+    "dm": "mahāsattva",
+    "gm": "great being",
+    "reason": "Technical term (mahāsattva), part of compound."
+   },
+   {
+    "id": "7-39",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Technical term (mind/citta), part of compound."
+   },
+   {
+    "id": "7-40",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Technical term (mind/citta), part of compound."
+   }
+  ]
+ }
+}

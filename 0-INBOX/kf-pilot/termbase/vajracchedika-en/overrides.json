@@ -1,0 +1,7 @@
+{"note": "Editor decisions that take precedence over the Gemini review. Applied last by gemini_review.py.",
+ "overrides": [
+  {"term_id": "T030", "field": "academic", "value": "perfection of wisdom", "reason": "user 2026-10-07: style sheet capitalises it only as a text title"},
+  {"term_id": "T186", "field": "academic", "value": "below", "reason": "user 2026-10-07: plain direction word; 'nadir' rejected"},
+  {"term_id": "T209", "field": "academic", "value": "guru", "reason": "user 2026-10-07: revert reviewer's 'master'"},
+  {"term_id": "T273", "field": "academic", "value": "gandharva", "reason": "user 2026-10-07: academic English keeps gandharva"}
+ ]}

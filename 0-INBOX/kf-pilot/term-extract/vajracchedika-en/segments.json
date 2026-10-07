@@ -1,0 +1,3124 @@
+[
+ {
+  "id": "0",
+  "heading": true,
+  "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།",
+  "dm": "The Noble Mahāyāna Sūtra Entitled The Diamond-Cutter Perfection of Wisdom",
+  "gm": "The Noble Mahayana Sutra Called the Diamond Cutter Perfection of Wisdom"
+ },
+ {
+  "id": "0-1",
+  "heading": false,
+  "bo": "༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+  "dm": "The Noble Perfection of Wisdom known as the Diamond Cutter.",
+  "gm": "Herein is contained the Noble Perfection of Wisdom named the Diamond Cutter."
+ },
+ {
+  "id": "0-2",
+  "heading": false,
+  "bo": "རྒྱ་གར་སྐད་དུ། ཨརྱཱ་བཛྲ་ཙྪེད་ཀ་པྲཛྙཱ་པ་ར་མི་ཏཱ་ནཱ་མ་མ་ཧཱ་ཡ་ན་སཱུ་ཏྲ།",
+  "dm": "In the language of India: Āryavajracchedikāprajñāpāramitānāmamahāyānasūtra.",
+  "gm": "In the language of India: Ārya vajracchedikā prajñāpāramitā nāma mahāyāna sūtra."
+ },
+ {
+  "id": "0-3",
+  "heading": false,
+  "bo": "བོད་སྐད་དུ། འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།",
+  "dm": "In the Tibetan language: The Noble Mahāyāna Sūtra entitled \"The Perfection of Wisdom known as the Diamond Cutter.\"",
+  "gm": "In the language of Tibet: The Noble Perfection of Wisdom named the Diamond Cutter, a Mahāyāna sūtra."
+ },
+ {
+  "id": "0-4",
+  "heading": false,
+  "bo": "སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །",
+  "dm": "Homage to all Buddhas and Bodhisattvas.",
+  "gm": "Homage to all Buddhas and Bodhisattvas."
+ },
+ {
+  "id": "1-0",
+  "heading": true,
+  "bo": "གླེང་གཞི།",
+  "dm": "The Introductory Narrative",
+  "gm": "Prologue"
+ },
+ {
+  "id": "1-1",
+  "heading": false,
+  "bo": "འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།",
+  "dm": "Thus have I heard at one time:",
+  "gm": "Thus did I hear at one time."
+ },
+ {
+  "id": "1-2",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང༌། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དག་དང་ཐབས་གཅིག་ཏུ་བཞུགས་སོ། །",
+  "dm": "The Blessed One was dwelling in Śrāvastī, in the Jeta Grove, Anāthapiṇḍada’s park, together with a great community of one thousand two hundred and fifty monks and a vast number of bodhisattva mahāsattvas.",
+  "gm": "The Blessed One was dwelling at Śrāvastī in the Jetavana, the park of Anāthapiṇḍada, together with a great saṅgha of one thousand two hundred and fifty monks, and very many bodhisattvas, great beings."
+ },
+ {
+  "id": "1-3",
+  "heading": false,
+  "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ། ཤམ་ཐབས་དང་ཆོས་གོས་སྐུ་ལ་གསོལ་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་སོ། །",
+  "dm": "Then, in the morning, the Blessed One put on his lower robe and Dharma robes, took up his alms bowl, and entered the great city of Śrāvastī for alms.",
+  "gm": "Then the Blessed One, in the morning time, put on his lower garment and dharma-robe, took his alms bowl, and went to the great city of Śrāvastī for alms."
+ },
+ {
+  "id": "1-4",
+  "heading": false,
+  "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་ནས་ཞལ་ཟས་གསོལ་ཏེ་ཟས་ཀྱི་བྱ་བ་མཛད་དེ།",
+  "dm": "Then, having entered the great city of Śrāvastī for alms, the Blessed One ate his meal and finished his duties regarding food.",
+  "gm": "Then the Blessed One, having gone to the great city of Śrāvastī for alms, partook of his meal and completed the action of eating."
+ },
+ {
+  "id": "1-5",
+  "heading": false,
+  "bo": "ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས་ལྷུང་བཟེད་དང་ཆོས་གོས་བཞག་ནས། ཞབས་བསིལ་ཏེ་གདན་བཤམས་པ་ལ་སྐྱིལ་མོ་ཀྲུང་བཅས་ནས་སྐུ་དྲང་པོར་བསྲང་སྟེ། དྲན་པ་མངོན་དུ་བཞག་ནས་བཞུགས་སོ། །",
+  "dm": "Having finished his meal and ceased receiving alms, he set aside his alms bowl and Dharma robes, washed his feet, arranged his seat, sat down cross-legged, straightened his body, and remained with mindfulness established before him.",
+  "gm": "Having forsaken later alms-food, he put away his alms bowl and dharma-robe, washed his feet, and sat down on the prepared seat, crossing his legs, keeping his body upright, and establishing mindfulness to the fore."
+ },
+ {
+  "id": "1-6",
+  "heading": false,
+  "bo": "དེ་ནས་དགེ་སློང་མང་པོས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་ལྷགས་ནས།",
+  "dm": "Then, many monks went to where the Blessed One was, and having arrived,",
+  "gm": "Then many monks went to where the Blessed One was, approached him, and"
+ },
+ {
+  "id": "1-7",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་ཕྱོགས་གཅིག་ཏུ་འཁོད་དོ། །",
+  "dm": "they bowed their heads at the feet of the Blessed One, circumambulated him three times, and sat down to one side.",
+  "gm": "bowed their heads to the feet of the Blessed One, circumambulated him three times, and sat down to one side."
+ },
+ {
+  "id": "1-8",
+  "heading": false,
+  "bo": "ཡང་དེའི་ཚེ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་ཏེ་འདུག་གོ །",
+  "dm": "At that time, the Venerable Subhūti was also present and seated within that very assembly.",
+  "gm": "Also at that time, the Venerable Subhūti had assembled in that very retinue and was sitting there."
+ },
+ {
+  "id": "2-0",
+  "heading": true,
+  "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་དྲི་བ་ཞུས་པ།",
+  "dm": "The Venerable Subhūti Poses a Question",
+  "gm": "Venerable Subhūti's Question"
+ },
+ {
+  "id": "2-1",
+  "heading": false,
+  "bo": "དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས།",
+  "dm": "Then the Venerable Subhūti rose from his seat, draped his upper robe over one shoulder, and knelt with his right knee on the ground. Facing the direction of the Blessed One, he bowed with palms joined.",
+  "gm": "Then the Venerable Subhūti rose from his seat, put his upper robe over one shoulder, placed his right knee on the ground, bowed with joined palms toward the Blessed One, and"
+ },
+ {
+  "id": "2-2",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "He addressed the Blessed One in this way:",
+  "gm": "spoke these words to the Blessed One:"
+ },
+ {
+  "id": "2-3",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཕན་གདགས་པའི་དམ་པ་ཇི་སྙེད་པས་ཕན་གདགས་པ་དང༌། དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཡོངས་སུ་གཏད་པའི་དམ་པ་ཇི་སྙེད་པས་ཡོངས་སུ་གཏད་པ་ནི། བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ། ། བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །",
+  "dm": "\"Blessed One, it is wonderful how the Tathāgata, the Arhat, the perfectly complete Buddha, has so greatly benefited the bodhisattva mahāsattvas with the supreme benefits, and how the Tathāgata has so greatly entrusted the bodhisattva mahāsattvas with the supreme entrustments. Blessed One, it is wonderful! Sugata, it is wonderful!\"",
+  "gm": "Blessed One, the supreme benefit with which the Tathāgata, the Arhat, the Perfectly Awakened Buddha has benefited the bodhisattva great beings, and the supreme entrustment with which the Tathāgata has entrusted the bodhisattva great beings—it is wonderful, O Blessed One! It is wonderful, O Sugata!"
+ },
+ {
+  "id": "2-4",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་ཇི་ལྟར་གནས་པར་བགྱི།",
+  "dm": "Blessed One, how should one who has correctly entered the bodhisattva vehicle abide?",
+  "gm": "O Blessed One, how should one who has correctly entered the bodhisattva vehicle abide?"
+ },
+ {
+  "id": "2-5",
+  "heading": false,
+  "bo": "ཇི་ལྟར་བསྒྲུབ་པར་བགྱི།",
+  "dm": "How should one practice?",
+  "gm": "How should they practice?"
+ },
+ {
+  "id": "2-6",
+  "heading": false,
+  "bo": "ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བགྱི།",
+  "dm": "How should one properly hold the mind?",
+  "gm": "How should they thoroughly control their mind?"
+ },
+ {
+  "id": "2-7",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌།",
+  "dm": "When he had spoken those words,",
+  "gm": "When he had spoken these words,"
+ },
+ {
+  "id": "3-0",
+  "heading": true,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་ལན།",
+  "dm": "The Bhagavan’s Response",
+  "gm": "The Bhagavat's Answer"
+ },
+ {
+  "id": "3-1",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "The Blessed One spoke these words to the venerable Subhūti:",
+  "gm": "The Blessed One spoke these words to venerable Subhūti:"
+ },
+ {
+  "id": "3-2",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ལེགས་སོ་ལེགས་སོ། །",
+  "dm": "Subhūti, excellent, excellent!",
+  "gm": "Excellent, excellent, Subhūti!"
+ },
+ {
+  "id": "3-3",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "dm": "Subhūti, it is so; it is just so.",
+  "gm": "So it is, Subhūti, so it is."
+ },
+ {
+  "id": "3-4",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཕན་གདགས་པའི་དམ་པས་ཕན་གདགས་སོ། །",
+  "dm": "The Tathāgata has benefited the bodhisattva mahāsattvas with the most sublime of benefits.",
+  "gm": "The Tathāgata has benefited the bodhisattva great beings with the supreme benefit."
+ },
+ {
+  "id": "3-5",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཡོངས་སུ་གཏད་པའི་དམ་པས་ཡོངས་སུ་གཏད་དོ། །",
+  "dm": "The Tathāgata has entrusted the bodhisattva mahāsattvas with the most sublime of entrustments.",
+  "gm": "The Tathāgata has entrusted the bodhisattva great beings with the supreme entrustment."
+ },
+ {
+  "id": "3-6",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེའི་ཕྱིར་ཉོན་ལ་ལེགས་པར་རབ་ཏུ་ཡིད་ལ་ཟུངས་ཤིག་དང༌།",
+  "dm": "Subhūti, therefore, listen well and take it to heart.",
+  "gm": "Therefore, Subhūti, listen and bear it well in mind, and"
+ },
+ {
+  "id": "3-7",
+  "heading": false,
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་བཞུགས་པས་ཇི་ལྟར་གནས་པར་བྱ་བ་དང༌། ཇི་ལྟར་བསྒྲུབ་པར་བྱ་བ་དང༌།  ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ་ངས་ཁྱོད་ལ་བཤད་དོ། །",
+  "dm": "I shall explain to you how those who have truly entered the bodhisattva vehicle should dwell, how they should practice, and how they should properly hold their minds.",
+  "gm": "I will explain to you how one who has correctly entered the bodhisattva vehicle should abide, how they should practice, and how they should thoroughly control their mind."
+ },
+ {
+  "id": "3-8",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་དེ་དེ་བཞིན་ནོ། །ཞེས་གསོལ་ནས།",
+  "dm": "\"So be it, Blessed One,\" he replied.",
+  "gm": "Having replied, \"So it is, Blessed One,\""
+ },
+ {
+  "id": "3-9",
+  "heading": false,
+  "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་མཉན་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "The venerable Subhūti listened as the Blessed One had instructed, and the Blessed One spoke these words to the venerable Subhūti.",
+  "gm": "Venerable Subhūti listened to the Blessed One, and the Blessed One spoke these words to Venerable Subhūti:"
+ },
+ {
+  "id": "4-0",
+  "heading": true,
+  "bo": "བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པ།",
+  "dm": "Generating the Mind of Enlightenment",
+  "gm": "Generating Bodhicitta"
+ },
+ {
+  "id": "4-1",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཇི་ཙམ་སེམས་ཅན་དུ་བསྡུ་བས་བསྡུས་པ། སྒོ་ང་ལས་སྐྱེས་པའམ། མངལ་ལས་སྐྱེས་པའམ། དྲོད་གཤེར་ལས་སྐྱེས་པའམ། རྫུས་ཏེ་སྐྱེས་པའམ། གཟུགས་ཅན་ནམ། གཟུགས་ཅན་མ་ཡིན་པའམ། འདུ་ཤེས་ཅན་ནམ། འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་ནམ། སེམས་ཅན་གྱི་ཁམས་ཇི་ཙམ་སེམས་ཅན་དུ་གདགས་པའི་བརྟགས་པ་དེ་དག་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+  "dm": "Subhūti, those who have truly entered the bodhisattva vehicle should think in this way: \"As many sentient beings as are included in the category of sentient beings—whether born from eggs, born from wombs, born from warmth and moisture, or born miraculously; whether having form or without form; whether having perception or without perception, or neither with perception nor without perception—all those sentient beings I shall lead to complete nirvāṇa in the realm of nirvāṇa that leaves no remainder of the aggregates.\"",
+  "gm": "Subhūti, here one who has correctly entered the bodhisattva vehicle should form this thought: 'As many beings as are subsumed in the collection of beings—whether born from eggs, born from wombs, born from heat and moisture, or miraculously born; whether having form or formless; whether having perception, having no perception, or neither having nor lacking perception; however many are conceptually designated as the realm of beings—all these I shall lead to complete nirvāṇa in the realm of nirvāṇa without remainder of aggregates.'"
+ },
+ {
+  "id": "4-2",
+  "heading": false,
+  "bo": "དེ་ལྟར་སེམས་ཅན་ཚད་མེད་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ཀྱང༌། སེམས་ཅན་གང་ཡང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་འགྱུར་བ་མེད་དོ་སྙམ་དུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "\"Even though immeasurable sentient beings are thus led to complete nirvāṇa, one should generate the mind thinking that not even one sentient being has been led to complete nirvāṇa.\"",
+  "gm": "One should generate the mind thinking: 'Even though immeasurable beings have thus been led to complete nirvāṇa, no being whatsoever has been led to complete nirvāṇa.'"
+ },
+ {
+  "id": "4-3",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Because if they were to hold such a perception, they would not be called a bodhisattva.",
+  "gm": "Why is that? Because they would not be called a bodhisattva."
+ },
+ {
+  "id": "4-4",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་གམ། སྲོག་ཏུ་འདུ་ཤེས་འཇུག་གམ། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Subhūti, if a bodhisattva engages in the perception of a sentient being, the perception of a life-force, or the perception of a person, they should not be called a bodhisattva.",
+  "gm": "Why is that? Subhūti, it is because if one holds the notion of a being, holds the notion of a living soul, or holds the notion of a person, they would not be called a bodhisattva."
+ },
+ {
+  "id": "4-5",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་དངོས་པོ་ལ་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "dm": "Furthermore, Subhūti, a bodhisattva should practice generosity without abiding in phenomena.",
+  "gm": "Moreover, Subhūti, a bodhisattva should give gifts without abiding in objects."
+ },
+ {
+  "id": "4-6",
+  "heading": false,
+  "bo": "ཅི་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "dm": "They should practice generosity without abiding in anything at all.",
+  "gm": "Without abiding in anything whatsoever, they should give gifts."
+ },
+ {
+  "id": "4-7",
+  "heading": false,
+  "bo": "གཟུགས་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "dm": "They should practice generosity without abiding in form.",
+  "gm": "Without abiding in form, they should give gifts."
+ },
+ {
+  "id": "4-8",
+  "heading": false,
+  "bo": "དེ་བཞིན་དུ་སྒྲ་དང༌། དྲི་དང་། རོ་དང༌། རེག་བྱ་དང༌། ཆོས་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "dm": "Likewise, they should practice generosity without abiding in sound, smell, taste, tangible objects, or phenomena.",
+  "gm": "Likewise, without abiding in sounds, smells, tastes, tactile objects, or mental phenomena, they should give gifts."
+ },
+ {
+  "id": "4-9",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ཅི་ནས་ཀྱང་མཚན་མར་འདུ་ཤེས་པ་ལ་ཡང་མི་གནས་པར་དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔས་སྦྱིན་པ་སྦྱིན་ནོ། །",
+  "dm": "Subhūti, in this way a bodhisattva should practice generosity without abiding in the perception of characteristics.",
+  "gm": "Subhūti, a bodhisattva should give gifts in such a way that they do not abide even in the notion of a sign."
+ },
+ {
+  "id": "4-10",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན།",
+  "dm": "Why is that?",
+  "gm": "Why is that?"
+ },
+ {
+  "id": "5-0",
+  "heading": true,
+  "bo": "ཕར་ཕྱིན་དྲུག་གི་སྤྱོད་པ་ལ་སློབ་ཚུལ།",
+  "dm": "The Method of Training in the Conduct of the Six Perfections",
+  "gm": "Training in the Conduct of the Six Pāramitās"
+ },
+ {
+  "id": "5-1",
+  "heading": false,
+  "bo": "རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པ་དེའི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+  "dm": "Subhūti, the mass of merit of a bodhisattva who practices generosity without abiding is not easy to measure, Subhūti.",
+  "gm": "Subhūti, it is because the heap of merit of a bodhisattva who gives gifts without abiding is not easy to measure, Subhūti."
+ },
+ {
+  "id": "5-2",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ཤར་ཕྱོགས་ཀྱི་ནམ་མཁའི་ཚད་གཟུང་བར་སླ་སྙམ་མམ།",
+  "dm": "Subhūti, what do you think? Is it easy to measure the extent of space in the eastern direction?",
+  "gm": "Subhūti, what do you think? Do you think it is easy to measure the space in the eastern direction?"
+ },
+ {
+  "id": "5-3",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti replied: Blessed One, it is not so."
+ },
+ {
+  "id": "5-4",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་བཞིན་དུ་ལྷོ་དང༌། ནུབ་དང༌། བྱང་དང༌། སྟེང་དང༌། འོག་གི་ཕྱོགས་དང༌། ཕྱོགས་མཚམས་དང༌། ཕྱོགས་བཅུའི་ནམ་མཁའི་ཚད་གཟུང་བར་སླའམ།",
+  "dm": "The Blessed One said, \"Subhūti, is it easy to measure the extent of space in the south, the west, the north, the zenith, the nadir, the intermediate directions, and the ten directions?\"",
+  "gm": "The Blessed One said: Subhūti, likewise, is it easy to measure the space in the south, west, north, the directions above and below, the intermediate directions, and the ten directions?"
+ },
+ {
+  "id": "5-5",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti replied: Blessed One, it is not so."
+ },
+ {
+  "id": "5-6",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་བཞིན་དུ་བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པ་དེའི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+  "dm": "The Blessed One said, \"Subhūti, in the same way, it is not easy to measure the mass of merit of a bodhisattva who practices generosity without abiding in anything, Subhūti.\"",
+  "gm": "The Blessed One said: Subhūti, likewise, it is because the heap of merit of a bodhisattva who gives gifts without abiding in anything whatsoever is not easy to measure, Subhūti."
+ },
+ {
+  "id": "6-0",
+  "heading": true,
+  "bo": "སྦྱིན་སོགས་ལས་གཟུགས་སྐུ་འགྲུབ་པར་བསྟན་པ།",
+  "dm": "The Accomplishment of the Rūpakāya through Generosity and Other Practices",
+  "gm": "Teaching That the Rūpakāya Is Accomplished Through Generosity and So Forth"
+ },
+ {
+  "id": "6-1",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ།",
+  "dm": "\"Subhūti, what do you think? Do you think that the Tathāgata should be seen by means of his perfect marks?\"",
+  "gm": "Subhūti, what do you think? Do you think the Tathāgata should be seen by the perfection of his marks?"
+ },
+ {
+  "id": "6-2",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti replied: Blessed One, it is not so."
+ },
+ {
+  "id": "6-3",
+  "heading": false,
+  "bo": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+  "dm": "\"The Tathāgata should not be seen by means of his perfect marks.\"",
+  "gm": "The Tathāgata should not be seen by the perfection of his marks."
+ },
+ {
+  "id": "6-4",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། དེ་བཞིན་གཤེགས་པས་མཚན་ཕུན་སུམ་ཚོགས་པ་ཞེས་གང་གསུངས་པ་དེ་ཉིད། མཚན་ཕུན་སུམ་ཚོགས་པ་མ་མཆིས་པའི་སླད་དུའོ། །",
+  "dm": "Why is that? Because what the Tathāgata has spoken of as perfect marks are, in fact, not perfect marks.",
+  "gm": "Why is that? Because what the Tathāgata has taught as the perfection of marks is itself no perfection of marks."
+ },
+ {
+  "id": "6-5",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "When he had spoken thus, the Blessed One addressed the venerable Subhūti in this way:",
+  "gm": "When he had said this, the Blessed One said this to the venerable Subhūti:"
+ },
+ {
+  "id": "6-6",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ཇི་ཙམ་དུ་མཚན་ཕུན་སུམ་ཚོགས་པ་དེ་ཙམ་དུ་བརྫུན་ནོ། །",
+  "dm": "\"Subhūti, to whatever extent there are perfect marks, to that extent there is falsehood.\"",
+  "gm": "Subhūti, as far as there is perfection of marks, so far is there falsehood."
+ },
+ {
+  "id": "6-7",
+  "heading": false,
+  "bo": "ཇི་ཙམ་དུ་མཚན་ཕུན་སུམ་ཚོགས་པ་མེད་པ་དེ་ཙམ་དུ་མི་བརྫུན་ཏེ།",
+  "dm": "To the extent that there is no perfection of marks, to that extent there is no falsehood.",
+  "gm": "As far as there is no perfection of marks, so far is there no falsehood;"
+ },
+ {
+  "id": "6-8",
+  "heading": false,
+  "bo": "དེ་ལྟར་ན་དེ་བཞིན་གཤེགས་པ་ལ་མཚན་དང་མཚན་མ་མེད་པར་བལྟའོ། །",
+  "dm": "Thus, one should view the Tathāgata as being without marks and signs.",
+  "gm": "therefore, the Tathāgata should be seen as marks and no-marks."
+ },
+ {
+  "id": "6-9",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌། བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "When he had spoken thus, the venerable Subhūti addressed the Blessed One in this way:",
+  "gm": "When he had said this, the venerable Subhūti said this to the Blessed One:"
+ },
+ {
+  "id": "6-10",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ། དམ་པའི་ཆོས་རབ་ཏུ་རྣམ་པར་འཇིག་པར་འགྱུར་བ་ན་སེམས་ཅན་གང་ལ་ལ་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་བཤད་པ་དག་ལ་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ།",
+  "dm": "Blessed One, in the final five-hundred-year period of the future, when the holy Dharma is about to completely perish, will there be any sentient beings who will arise to form a correct perception of such explanations of the words of a sutra as this?",
+  "gm": "Blessed One, will there appear any sentient beings in the future time, in the last five hundred years, when the true Dharma is being destroyed, who will produce a true perception regarding the spoken words of a sūtra such as this?"
+ },
+ {
+  "id": "6-11",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་གང་ཁྱོད་འདི་སྐད་དུ་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ། དམ་པའི་ཆོས་རབ་ཏུ་རྣམ་པར་འཇིག་པར་འགྱུར་བ་ན། སེམས་ཅན་གང་ལ་ལ་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་བཤད་པ་དག་ལ་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ་ཞེས་ཁྱོད་དེ་སྐད་མ་ཟེར་ཅིག །",
+  "dm": "The Blessed One said: Subhūti, do not speak like that. Do not say, \"In the final five-hundred-year period of the future, when the holy Dharma is about to completely perish, will there be any sentient beings who will arise to form a correct perception of such explanations of the words of a sutra as this?\"",
+  "gm": "The Blessed One said: Subhūti, do not speak like this, saying: \"Will there appear any sentient beings in the future time, in the last five hundred years, when the true Dharma is being destroyed, who will produce a true perception regarding the spoken words of a sūtra such as this?\""
+ },
+ {
+  "id": "6-12",
+  "heading": false,
+  "bo": "རབ་འབྱོར་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ་དམ་པའི་ཆོས་རབ་ཏུ་རྣམ་པར་འཇིག་པར་འགྱུར་བ་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཚུལ་ཁྲིམས་དང་ལྡན་པ། ཡོན་ཏན་དང་ལྡན་པ། ཤེས་རབ་དང་ལྡན་པ་དག་འབྱུང་སྟེ།",
+  "dm": "Subhūti, in the final five-hundred-year period of the future, when the holy Dharma is about to completely perish, there will arise Bodhisattva Mahāsattvas who are endowed with morality, endowed with qualities, and endowed with wisdom.",
+  "gm": "Subhūti, in the future time, in the last five hundred years, when the true Dharma is being destroyed, there will appear bodhisattva great beings who possess ethical discipline, possess good qualities, and possess wisdom."
+ },
+ {
+  "id": "6-13",
+  "heading": false,
+  "bo": "རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ཀྱང་སངས་རྒྱས་གཅིག་ལ་བསྙེན་བཀུར་བྱས་པ་མ་ཡིན།",
+  "dm": "Subhūti, those Bodhisattva Mahāsattvas have not rendered service to only one Buddha.",
+  "gm": "Subhūti, those bodhisattva great beings will not have served a single Buddha;"
+ },
+ {
+  "id": "6-14",
+  "heading": false,
+  "bo": "སངས་རྒྱས་གཅིག་ལ་དགེ་བའི་རྩ་བ་བསྐྱེད་པ་མ་ཡིན་གྱི།",
+  "dm": "They have not planted roots of virtue under only one Buddha.",
+  "gm": "nor will they have planted roots of virtue under a single Buddha."
+ },
+ {
+  "id": "6-15",
+  "heading": false,
+  "bo": "རབ་འབྱོར་སངས་རྒྱས་འབུམ་ཕྲག་དུ་མ་ལ་བསྙེན་བཀུར་བྱས་ཤིང་སངས་རྒྱས་འབུམ་ཕྲག་དུ་མ་ལ་དགེ་བའི་རྩ་བ་དག་བསྐྱེད་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་འབྱུང་ངོ་། །",
+  "dm": "Subhūti, there will arise those Bodhisattva Mahāsattvas who have rendered service to many hundreds of thousands of Buddhas and who have planted roots of virtue under many hundreds of thousands of Buddhas.",
+  "gm": "Subhūti, there will appear those bodhisattva great beings who have served many hundreds of thousands of Buddhas and planted roots of virtue under many hundreds of thousands of Buddhas."
+ },
+ {
+  "id": "6-16",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གང་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་བཤད་པ་དག་ལ་སེམས་དད་པ་གཅིག་ཙམ་རྙེད་པར་འགྱུར་བ་དེ་དག་ནི། དེ་བཞིན་གཤེགས་པས་མཁྱེན་ཏོ། །",
+  "dm": "Subhūti, those who will attain even a single moment of faith of mind regarding such explanations of the sūtra as this, the Tathāgata knows them.",
+  "gm": "Subhūti, the Tathāgata knows those who will obtain even a single thought of faith regarding the teaching of a sūtra such as this."
+ },
+ {
+  "id": "6-17",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ།",
+  "dm": "Subhūti, those are beheld by the Tathāgata.",
+  "gm": "Subhūti, the Tathāgata sees them."
+ },
+ {
+  "id": "6-18",
+  "heading": false,
+  "bo": "རབ་འབྱོར་སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་བསྐྱེད་ཅིང་ཡོངས་སུ་སྡུད་པར་འགྱུར་རོ། །",
+  "dm": "Subhūti, all those sentient beings will generate and gather an immeasurable mass of merit.",
+  "gm": "Subhūti, all those sentient beings will produce and completely gather an immeasurable aggregate of merit."
+ },
+ {
+  "id": "6-19",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ནི། བདག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ཞིང༌།",
+  "dm": "Why is that? Subhūti, it is because those bodhisattva mahāsattvas do not engage in the perception of a self,",
+  "gm": "Why is that? Subhūti, it is because those bodhisattva great beings will not engage in the perception of a self,"
+ },
+ {
+  "id": "6-20",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་མ་ཡིན། སྲོག་ཏུ་འདུ་ཤེས་པ་མ་ཡིན། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་བའི་ཕྱིར་རོ། །",
+  "dm": "they do not engage in the perception of a sentient being, they do not engage in the perception of a life-force, and they do not engage in the perception of a person.",
+  "gm": "will not have the perception of a sentient being, will not have the perception of a living soul, and will not engage in the perception of a person."
+ },
+ {
+  "id": "6-21",
+  "heading": false,
+  "bo": "རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ཀྱང་ཆོས་སུ་འདུ་ཤེས་པ་དང༌། ཆོས་མེད་པར་ཡང་འདུ་ཤེས་མི་འཇུག་སྟེ།",
+  "dm": "Subhūti, those bodhisattva mahāsattvas also do not engage in the perception of phenomena, nor do they engage in the perception of the non-existence of phenomena.",
+  "gm": "Subhūti, those bodhisattva great beings will also not engage in the perception of a dharma, nor will they engage in the perception of a non-dharma;"
+ },
+ {
+  "id": "6-22",
+  "heading": false,
+  "bo": "དེ་དག་ནི་འདུ་ཤེས་མེད་པར་ཡང་འཇུག་པར་མི་འགྱུར་རོ། །",
+  "dm": "They also do not engage in the perception of non-perception.",
+  "gm": "and they will also not engage in non-perception."
+ },
+ {
+  "id": "6-23",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ནི། ཆོས་སུ་འདུ་ཤེས་འཇུག་ན་ཡང་དེ་ཉིད་དེ་དག་གིས་བདག་ཏུ་འཛིན་པར་འགྱུར་ཞིང༌།",
+  "dm": "Why is that? Subhūti, if those bodhisattva mahāsattvas were to engage in the perception of phenomena, that itself would become for them a grasping at a self,",
+  "gm": "Why is that? Subhūti, it is because if those bodhisattva great beings engage in the perception of a dharma, they would by that very fact grasp at a self,"
+ },
+ {
+  "id": "6-24",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་བའི་ཕྱིར་རོ། །",
+  "dm": "and it would become a grasping at a sentient being, a grasping at a life-force, and a grasping at a person.",
+  "gm": "grasp at a sentient being, grasp at a living soul, and grasp at a person."
+ },
+ {
+  "id": "6-25",
+  "heading": false,
+  "bo": "གལ་ཏེ་ཆོས་བདག་མེད་པར་འདུ་ཤེས་འཇུག་ན་ཡང་དེ་ཉིད་དེ་དག་གིས་བདག་ཏུ་འཛིན་པར་འགྱུར་ཞིང༌།",
+  "dm": "If one were to engage in the perception that phenomena are devoid of a self, that itself would become for them a grasping at a self,",
+  "gm": "Even if they engage in the perception of a selfless dharma, they would by that very fact grasp at a self,"
+ },
+ {
+  "id": "6-26",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་བའི་ཕྱིར་རོ། །",
+  "dm": "and it would become a grasping at a sentient being, a grasping at a life-force, and a grasping at a person.",
+  "gm": "grasp at a sentient being, grasp at a living soul, and grasp at a person."
+ },
+ {
+  "id": "6-27",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔས་ཆོས་ཀྱང་ལོག་པར་གཟུང་བར་མི་བྱ་སྟེ། ཆོས་མ་ཡིན་པ་ཡང་མི་གཟུང་བའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Subhūti, a bodhisattva should not grasp at phenomena as being erroneous, nor should they grasp at what is not a phenomenon.",
+  "gm": "Why is that? Subhūti, it is because a bodhisattva should not wrongly grasp at a dharma, nor should they grasp at a non-dharma."
+ },
+ {
+  "id": "6-28",
+  "heading": false,
+  "bo": "དེ་བས་ན་དེ་ལས་དགོངས་ཏེ་དེ་བཞིན་གཤེགས་པས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གཟིངས་ལྟ་བུར་ཤེས་པ་རྣམས་ཀྱིས་ཆོས་རྣམས་ཀྱང་སྤང་བར་བྱ་ན། ཆོས་མ་ཡིན་པ་རྣམས་ལྟ་ཅི་སྨོས། ཞེས་གསུངས་སོ། །",
+  "dm": "Therefore, keeping this in mind, the Tathāgata has said that those who understand this discourse on the Dharma as being like a raft should abandon even phenomena, let alone what are not phenomena.",
+  "gm": "Therefore, with this in mind, the Tathāgata has spoken: 'Those who know this dharma discourse to be like a raft should abandon even dharmas, let alone non-dharmas.'"
+ },
+ {
+  "id": "6-29",
+  "heading": false,
+  "bo": "གཞན་ཡང་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "Furthermore, the Blessed One spoke these words to the venerable Subhūti:",
+  "gm": "Furthermore, the Blessed One spoke thus to the Venerable Subhūti:"
+ },
+ {
+  "id": "6-30",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "Subhūti, what do you think of this?"
+ },
+ {
+  "id": "6-31",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པའི་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+  "dm": "Do you think that there is any phenomenon whatsoever by which the Tathāgata has fully awakened to unsurpassed, perfect, and complete enlightenment?",
+  "gm": "Do you think there is any dharma whatsoever to which the Tathāgata has manifestly and completely awakened as unsurpassed, perfectly complete awakening?"
+ },
+ {
+  "id": "6-32",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་ཆོས་དེ་གང་ཡང་བསྟན་སྙམ་མམ།",
+  "dm": "Do you think that there is any phenomenon whatsoever that the Tathāgata has taught?",
+  "gm": "Do you think there is any dharma whatsoever that has been taught by the Tathāgata?"
+ },
+ {
+  "id": "6-33",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌། བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "When he had spoken those words, the venerable Subhūti addressed the Blessed One in this way:",
+  "gm": "When he had spoken thus, the Venerable Subhūti said this to the Blessed One:"
+ },
+ {
+  "id": "6-34",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བདག་གིས་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པའི་དོན་འཚལ་བ་ལྟར་ན། དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
+  "dm": "Blessed One, as I understand the meaning of what the Blessed One has said, there is no phenomenon whatsoever by which the Tathāgata has fully awakened to unsurpassed, perfect, and complete enlightenment.",
+  "gm": "Blessed One, as I understand the meaning of what the Blessed One has spoken, there is no dharma whatsoever to which the Tathāgata has manifestly and completely awakened as unsurpassed, perfectly complete awakening."
+ },
+ {
+  "id": "6-35",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་བསྟན་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
+  "dm": "There is no phenomenon whatsoever that the Tathāgata has taught.",
+  "gm": "There is no dharma whatsoever that has been taught by the Tathāgata."
+ },
+ {
+  "id": "6-36",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། དེ་བཞིན་གཤེགས་པས་ཆོས་དེ་གང་ཡང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ནི་གཟུང་དུ་མ་མཆིས་བརྗོད་དུ་མ་མཆིས་ཏེ།",
+  "dm": "Why is that? Because the phenomena that the Tathāgata has fully awakened to, or that he has taught, are not to be grasped and are not to be expressed.",
+  "gm": "Why is that? Any dharma whatsoever to which the Tathāgata has manifestly and completely awakened, or that he has taught, cannot be grasped and cannot be expressed;"
+ },
+ {
+  "id": "6-37",
+  "heading": false,
+  "bo": "དེ་ནི་ཆོས་ཀྱང་མ་ལགས་ཆོས་མ་མཆིས་པ་ཡང་མ་ལགས་པའི་སླད་དུའོ། །",
+  "dm": "That is because it is neither a phenomenon nor the absence of a phenomenon.",
+  "gm": "because it is neither a dharma nor a non-dharma."
+ },
+ {
+  "id": "6-38",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། འཕགས་པའི་གང་ཟག་རྣམས་ནི་འདུས་མ་བྱས་ཀྱིས་རབ་ཏུ་བྱེ་བའི་སླད་དུའོ། །",
+  "dm": "Why is that? Because noble individuals are distinguished by the unconditioned.",
+  "gm": "Why is that? Because noble beings are distinguished by the unconditioned."
+ },
+ {
+  "id": "6-39",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One spoke: Subhūti, what do you think of this?"
+ },
+ {
+  "id": "6-40",
+  "heading": false,
+  "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་ན། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་མང་དུ་བསྐྱེད་སྙམ་མམ།",
+  "dm": "If some son or daughter of noble family were to fill this trichiliocosm world system with the seven kinds of precious substances and give them as a gift, would that son or daughter of noble family generate much merit on that basis?",
+  "gm": "If some son of noble family or daughter of noble family were to fill this three-thousandfold great thousandfold world system with the seven precious substances and give it as a gift, do you think that son of noble family or daughter of noble family would generate a great mass of merit from that basis?"
+ },
+ {
+  "id": "6-41",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མང་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"Blessed One, it would be much.\"",
+  "gm": "Subhūti replied: Blessed One, it is much."
+ },
+ {
+  "id": "6-42",
+  "heading": false,
+  "bo": "བདེ་བར་གཤེགས་པ་མང་ལགས་སོ། །",
+  "dm": "\"It would be much, Sugata.\"",
+  "gm": "Sugata, it is much."
+ },
+ {
+  "id": "6-43",
+  "heading": false,
+  "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དེའི་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་མང་དུ་བསྐྱེད་དོ། །",
+  "dm": "That son or daughter of noble family would generate a great mass of merit on that basis.",
+  "gm": "That son of noble family or daughter of noble family would generate a great mass of merit from that basis."
+ },
+ {
+  "id": "6-44",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བསོད་ནམས་ཀྱི་ཕུང་པོ་དེ་ཉིད་ཕུང་པོ་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Because that mass of merit is not a mass.",
+  "gm": "Why is that? Because that very mass of merit is not a mass;"
+ },
+ {
+  "id": "6-45",
+  "heading": false,
+  "bo": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་བསོད་ནམས་ཀྱི་ཕུང་པོ་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཞེས་གསུངས་སོ། །",
+  "dm": "Therefore, the Tathāgata speaks of a \"mass of merit, a mass of merit.\"",
+  "gm": "therefore the Tathāgata spoke of 'a mass of merit, a mass of merit'."
+ },
+ {
+  "id": "6-46",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་ནས་གཞན་དག་ལ་འཆད་ཅིང་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན། གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "dm": "The Blessed One said: Subhūti, if a son or daughter of noble family were to fill this trichiliocosm of great thousand-fold world systems with the seven types of precious substances and give them as a gift, and if another were to take up from this discourse on Dharma even just a four-line verse and explain it to others and correctly demonstrate it, they would generate a mass of merit from that basis that is far greater, incalculable, and immeasurable.",
+  "gm": "The Blessed One spoke: Subhūti, compared to some son of noble family or daughter of noble family filling this three-thousandfold great thousandfold world system with the seven precious substances and giving it as a gift, whoever takes up even just a four-line verse from this discourse on dharma, teaches it to others, and perfectly explains it will generate a much greater mass of merit from that basis, countless and immeasurable."
+ },
+ {
+  "id": "6-47",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱི་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ནི་འདི་ལས་བྱུང་སྟེ།",
+  "dm": "Why is that? Subhūti, the unsurpassed, perfect, and complete enlightenment of the Tathāgatas, Arhats, and perfectly complete Buddhas arises from this.",
+  "gm": "Why is that? Subhūti, the unexcelled, perfectly complete awakening of the Tathāgatas, the Arhats, the perfectly complete Buddhas arises from this;"
+ },
+ {
+  "id": "6-48",
+  "heading": false,
+  "bo": "སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱང་འདི་ལས་སྐྱེས་པའི་ཕྱིར་རོ། །",
+  "dm": "Because the Buddhas, the Blessed Ones, are also born from this.",
+  "gm": "because the Buddhas, the Blessed Ones, are also born from this."
+ },
+ {
+  "id": "6-49",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་ཞེས་བྱ་བ་ནི། སངས་རྒྱས་ཀྱི་ཆོས་དེ་དག་མེད་པར་དེ་བཞིན་གཤེགས་པའི་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, what are called \"Buddha-qualities, Buddha-qualities\" are spoken of by the Tathāgata as being devoid of those Buddha-qualities.",
+  "gm": "Why is that? Subhūti, as for what are called 'the dharmas of a Buddha, the dharmas of a Buddha', because the Tathāgata spoke of those dharmas of a Buddha as non-existent;"
+ },
+ {
+  "id": "6-50",
+  "heading": false,
+  "bo": "དེས་ན་སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, they are called \"Buddha-qualities.\"",
+  "gm": "therefore they are called 'the dharmas of a Buddha'."
+ },
+ {
+  "id": "7-0",
+  "heading": true,
+  "bo": "ཞུགས་གནས་བརྒྱད།",
+  "dm": "The Eight Types of Noble Beings",
+  "gm": "The Eight Stages of Entering and Abiding"
+ },
+ {
+  "id": "7-1",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "Subhūti, what do you think?"
+ },
+ {
+  "id": "7-2",
+  "heading": false,
+  "bo": "རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+  "dm": "Does a stream-enterer think, \"I have attained the fruit of a stream-enterer\"?",
+  "gm": "Does a Stream-Enterer think, 'I have obtained the fruit of a Stream-Enterer'?"
+ },
+ {
+  "id": "7-3",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not so.\"",
+  "gm": "Subhūti replied: Blessed One, that is not so."
+ },
+ {
+  "id": "7-4",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་ནི་ཅི་ལ་ཡང་ཞུགས་པ་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Blessed One, it is because he has not entered into anything at all.",
+  "gm": "Why is that? Blessed One, because he has not entered into anything;"
+ },
+ {
+  "id": "7-5",
+  "heading": false,
+  "bo": "དེས་ན་རྒྱུན་དུ་ཞུགས་པ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, he is called a \"stream-enterer.\"",
+  "gm": "therefore he is called a Stream-Enterer."
+ },
+ {
+  "id": "7-6",
+  "heading": false,
+  "bo": "གཟུགས་ལ་ཡང་མ་ཞུགས། སྒྲ་ལ་ཡང་མ་ལགས། དྲི་ལ་ཡང་མ་ལགས། རོ་ལ་ཡང་མ་ལགས། རེག་བྱ་ལ་ཡང་མ་ལགས། ཆོས་རྣམས་ལ་ཡང་མ་ཞུགས་ཏེ།",
+  "dm": "He has not entered into forms, nor has he entered into sounds, nor has he entered into odors, nor has he entered into tastes, nor has he entered into tangibles, nor has he entered into mental phenomena.",
+  "gm": "He has not entered into forms, nor into sounds, nor into smells, nor into tastes, nor into tangible objects, nor into dharmas;"
+ },
+ {
+  "id": "7-7",
+  "heading": false,
+  "bo": "དེས་ན་རྒྱུན་དུ་ཞུགས་པ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, he is called a \"stream-enterer.\"",
+  "gm": "therefore he is called a Stream-Enterer."
+ },
+ {
+  "id": "7-8",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "Why is that? Blessed One, if a stream-enterer were to think, \"I have attained the fruit of a stream-enterer,\" that itself would be his grasping at a self.",
+  "gm": "Why is that? Blessed One, if a Stream-Enterer were to think, 'I have obtained the fruit of a Stream-Enterer', that itself would be his grasping at a self."
+ },
+ {
+  "id": "7-9",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "It would be grasping at a sentient being, grasping at a life force, and grasping at a person.",
+  "gm": "It would be grasping at a living being, grasping at a life, and grasping at a person."
+ },
+ {
+  "id": "7-10",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said: Subhūti, what do you think?"
+ },
+ {
+  "id": "7-11",
+  "heading": false,
+  "bo": "ལན་ཅིག་ཕྱིར་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ།",
+  "dm": "Does a once-returner think, 'I have attained the fruit of a once-returner'?\"",
+  "gm": "Does a Once-Returner think, 'I have obtained the fruit of a Once-Returner'?"
+ },
+ {
+  "id": "7-12",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not so.\"",
+  "gm": "Subhūti replied: Blessed One, that is not so."
+ },
+ {
+  "id": "7-13",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། གང་ལན་ཅིག་ཕྱིར་འོང་བ་ཉིད་དུ་ཞུགས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? It is because there is no phenomenon whatsoever that has entered into the state of being a once-returner.",
+  "gm": "Why is that? Because there is no dharma whatsoever that has entered into the state of a Once-Returner;"
+ },
+ {
+  "id": "7-14",
+  "heading": false,
+  "bo": "དེས་ན་ལན་ཅིག་ཕྱིར་འོང་བ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called a \"once-returner.\"",
+  "gm": "therefore he is called a Once-Returner."
+ },
+ {
+  "id": "7-15",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་གལ་ཏེ་ལན་ཅིག་ཕྱིར་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "Blessed One, if a once-returner were to think, \"I have attained the fruit of a once-returner,\" that itself would be his grasping at a self.",
+  "gm": "Blessed One, if a Once-Returner were to think, 'I have obtained the fruit of a Once-Returner', that itself would be his grasping at a self."
+ },
+ {
+  "id": "7-16",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "It would be grasping at a sentient being, grasping at a life-force, and grasping at a person.",
+  "gm": "It would be grasping at a living being, grasping at a life, and grasping at a person."
+ },
+ {
+  "id": "7-17",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས་",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said: Subhūti, what do you think?"
+ },
+ {
+  "id": "7-18",
+  "heading": false,
+  "bo": "ཕྱིར་མི་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+  "dm": "Does a non-returner think, 'I have attained the fruit of a non-returner'?\"",
+  "gm": "Does a Non-Returner think, 'I have obtained the fruit of a Non-Returner'?"
+ },
+ {
+  "id": "7-19",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti replied: Blessed One, that is not so."
+ },
+ {
+  "id": "7-20",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། གང་ཕྱིར་མི་འོང་བ་ཉིད་དུ་ཞུགས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Because there is no phenomenon whatsoever that has entered into the state of a non-returner.",
+  "gm": "Why is that? Because there is no dharma whatsoever that has entered into the state of a Non-Returner;"
+ },
+ {
+  "id": "7-21",
+  "heading": false,
+  "bo": "དེའི་ཕྱིར་ཕྱིར་མི་འོང་བ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called a non-returner.",
+  "gm": "therefore he is called a Non-Returner."
+ },
+ {
+  "id": "7-22",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said: Subhūti, what do you think?"
+ },
+ {
+  "id": "7-23",
+  "heading": false,
+  "bo": "དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+  "dm": "Does an arhat think, 'I have attained the state of an arhat'?\"",
+  "gm": "Does an Arhat think, 'I have obtained Arhatship'?"
+ },
+ {
+  "id": "7-24",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti replied: Blessed One, that is not so."
+ },
+ {
+  "id": "7-25",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། གང་དག་དགྲ་བཅོམ་པ་ཞེས་བགྱི་བའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུའོ། །",
+  "dm": "Why is that? It is because there is no phenomenon whatsoever that can be called an arhat.",
+  "gm": "Why is that? Because there is no dharma whatsoever that is called an Arhat."
+ },
+ {
+  "id": "7-26",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་གལ་ཏེ་དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "Blessed One, if an arhat were to think, 'I have attained the state of an arhat,' that itself would be his grasping at a self.",
+  "gm": "Blessed One, if an Arhat were to think, 'I have obtained Arhatship,' that itself would be his grasping at a self,"
+ },
+ {
+  "id": "7-27",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "It would be grasping at a sentient being, grasping at a life force, and grasping at a person.",
+  "gm": "grasping at a sentient being, grasping at a life, and grasping at a person."
+ },
+ {
+  "id": "7-28",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བདག་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་ཉོན་མོངས་པ་མེད་པར་གནས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་ཏེ།",
+  "dm": "Blessed One, the Tathāgata, the Arhat, the Perfectly Complete Buddha has declared me to be the foremost of those who dwell in the state of being without defilement.",
+  "gm": "Blessed One, the Tathāgata, the Arhat, the perfectly and fully awakened Buddha has declared me to be the foremost of those who dwell without afflictions."
+ },
+ {
+  "id": "7-29",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བདག་འདོད་ཆགས་དང་བྲལ་བ་དགྲ་བཅོམ་པ་ལགས་ཀྱང༌། བཅོམ་ལྡན་འདས་བདག་འདི་སྙམ་དུ་བདག་ནི་དགྲ་བཅོམ་པའོ་སྙམ་དུ་མི་སེམས་ལགས་སོ། །",
+  "dm": "Blessed One, although I am an arhat who is free from desire, Blessed One, I do not think to myself that I am an arhat.",
+  "gm": "Blessed One, although I am an Arhat free from desire, Blessed One, I do not think, 'I am an Arhat.'"
+ },
+ {
+  "id": "7-30",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་གལ་ཏེ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་བཞིན་གཤེགས་པས་བདག་ལ་རིགས་ཀྱི་བུ་རབ་འབྱོར་ནི་ཉོན་མོངས་པ་མེད་པར་གནས་པ་རྣམས་ཀྱི་མཆོག་ཡིན་ཏེ།",
+  "dm": "Blessed One, if I were to think that I had attained the state of an arhat, the Tathāgata would not have declared of me, \"The son of good family, Subhūti, is the foremost of those who dwell in the state of being without defilement.\"",
+  "gm": "Blessed One, if I were to think, 'I have obtained Arhatship,' the Tathāgata would not have declared of me, 'The son of noble family Subhūti is the foremost of those who dwell without afflictions;"
+ },
+ {
+  "id": "7-31",
+  "heading": false,
+  "bo": "ཅི་ལ་ཡང་མི་གནས་པས་ན་ཉོན་མོངས་པ་མེད་པར་གནས་པ་ཞེས་ལུང་མི་སྟོན་ལགས་སོ། །",
+  "dm": "Because I do not abide in anything whatsoever, I do not declare myself to be one who dwells in the state of being without defilement.",
+  "gm": "and because he dwells nowhere, he is called a dweller without afflictions.'"
+ },
+ {
+  "id": "7-32",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said: Subhūti, what do you think?"
+ },
+ {
+  "id": "7-33",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ལས་གང་བླངས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+  "dm": "Do you think that there is any dharma that the Tathāgata obtained from the Tathāgata, Arhat, Perfectly Complete Buddha Dīpaṃkara?\"",
+  "gm": "Do you think there is any Dharma that the Tathāgata received from the Tathāgata, the Arhat, the perfectly and fully awakened Buddha Dīpaṃkara?"
+ },
+ {
+  "id": "7-34",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti said: Blessed One, that is not so."
+ },
+ {
+  "id": "7-35",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ལས་གང་བླངས་པའི་ཆོས་དེ་གང་ཡང་ཡོང་ཡེ་མ་མཆིས་ལགས་སོ། །",
+  "dm": "There is not any dharma whatsoever that the Tathāgata, Arhat, Perfectly Complete Buddha Dīpaṃkara obtained from the Tathāgata.\"",
+  "gm": "There is absolutely no Dharma that the Tathāgata received from the Tathāgata, the Arhat, the perfectly and fully awakened Buddha Dīpaṃkara."
+ },
+ {
+  "id": "7-36",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ་བདག་གིས་ཞིང་བཀོད་པ་རྣམས་སྒྲུབ་བོ་ཞེས་ཟེར་ན་དེ་ནི་མི་བདེན་པར་སྨྲའོ། །",
+  "dm": "The Blessed One said, \"Subhūti, if any bodhisattva were to say, 'I shall accomplish the adornment of the buddha-fields,' he would be speaking untruthfully.\"",
+  "gm": "The Blessed One said: Subhūti, if any bodhisattva were to say, 'I will accomplish the array of the fields,' they would be speaking falsely."
+ },
+ {
+  "id": "7-37",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཞིང་བཀོད་པ་རྣམས་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱ་བ་ནི། བཀོད་པ་དེ་དག་མེད་པར་དེ་བཞིན་གཤེགས་པར་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, the so-called \"adornment of the buddha-fields\" is spoken of by the Tathāgata as a non-adornment, because those adornments do not exist.",
+  "gm": "Why is that? Subhūti, as for what is called 'the array of the fields, the array of the fields,' it is because the Tathāgata has taught them as being no array;"
+ },
+ {
+  "id": "7-38",
+  "heading": false,
+  "bo": "དེས་ན་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called \"adornment of the buddha-fields.\"",
+  "gm": "therefore, they are called 'the array of the fields.'"
+ },
+ {
+  "id": "7-39",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེ་ལྟ་བས་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་འདི་ལྟར་མི་གནས་པར་སེམས་པ་བསྐྱེད་པར་བྱ་སྟེ།",
+  "dm": "Subhūti, because of that, a bodhisattva mahāsattva should generate the mind in such a way that it does not abide.",
+  "gm": "Therefore, Subhūti, a bodhisattva, a great being, should produce the mind without dwelling in this way;"
+ },
+ {
+  "id": "7-40",
+  "heading": false,
+  "bo": "ཅི་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind without abiding in anything at all.",
+  "gm": "they should produce the mind without dwelling on anything whatsoever."
+ },
+ {
+  "id": "7-41",
+  "heading": false,
+  "bo": "གཟུགས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind without abiding in visible forms.",
+  "gm": "they should produce the mind without dwelling on form."
+ },
+ {
+  "id": "7-42",
+  "heading": false,
+  "bo": "སྒྲ་དང་དྲི་དང་རོ་དང་རེག་བྱ་དང་ཆོས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind without abiding in sounds, odors, tastes, tangible objects, or phenomena.",
+  "gm": "they should produce the mind without dwelling on sounds, smells, tastes, tangible objects, and dharmas."
+ },
+ {
+  "id": "7-43",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ལྟ་སྟེ་དཔེར་ན། སྐྱེས་བུ་ཞིག་ལུས་འདི་ལྟ་བུར་གྱུར་ཏེ། འདི་ལྟ་སྟེ་རིའི་རྒྱལ་པོ་རི་རབ་ཙམ་དུ་གྱུར་ན། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ལུས་དེ་ཆེ་བ་ཡིན་སྙམ་མམ།",
+  "dm": "Subhūti, it is like this: for example, if a person were to have a body such as this, that is to say, if it were to become as large as Mount Sumeru, the king of mountains, Subhūti, what do you think? Would that body be large?",
+  "gm": "Subhūti, suppose, for example, a person were to have a body like this: that is, as large as Sumeru, the king of mountains. Subhūti, what do you think? Would you think that body is large?"
+ },
+ {
+  "id": "7-44",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་ལུས་དེ་ཆེ་བ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"Blessed One, that body would be large.\"",
+  "gm": "Subhūti replied: Blessed One, that body would be large."
+ },
+ {
+  "id": "7-45",
+  "heading": false,
+  "bo": "བདེ་བར་གཤེགས་པ་ལུས་དེ་ཆེ་བ་ལགས་སོ། །",
+  "dm": "\"Sugata, that body would be large.\"",
+  "gm": "Sugata, that body would be large."
+ },
+ {
+  "id": "7-46",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། དེ་བཞིན་གཤེགས་པས་དེ་དངོས་པོ་མ་མཆིས་པར་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Because the Tathāgata has taught that it is without any real entity.",
+  "gm": "Why is that? Because the Tathāgata has taught it as being no entity;"
+ },
+ {
+  "id": "7-47",
+  "heading": false,
+  "bo": "དེས་ན་ལུས་དེ་ཆེ་བ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called a large body.",
+  "gm": "therefore, it is called a 'large body'."
+ },
+ {
+  "id": "7-48",
+  "heading": false,
+  "bo": "དེ་དངོས་པོ་མ་མཆིས་པས་དེས་ན་ལུས་ཞེས་བྱའོ། །",
+  "dm": "Because it is without any real entity, therefore it is called a body.",
+  "gm": "Since it is no entity, therefore it is called a 'body'."
+ },
+ {
+  "id": "7-49",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said: Subhūti, what do you think?"
+ },
+ {
+  "id": "7-50",
+  "heading": false,
+  "bo": "གང་གཱའི་ཀླུང་གི་བྱེ་མ་ཇི་སྙེད་པ་གང་གཱའི་ཀླུང་ཡང་དེ་སྙེད་ཁོ་ནར་གྱུར་ན་དེ་དག་གི་བྱེ་མ་གང་ཡིན་པ་དེ་དག་མང་བ་ཡིན་སྙམ་མམ།",
+  "dm": "If there were as many Ganges Rivers as there are grains of sand in the Ganges River, would the grains of sand in all those rivers be numerous?\"",
+  "gm": "If there were just as many Gaṅgā rivers as there are grains of sand in the Gaṅgā river, would you think that the grains of sand in them would be many?"
+ },
+ {
+  "id": "7-51",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་དེ་དག་ཉིད་ཀྱང་མང་ལགས་ན། དེ་དག་གིས་བྱེ་མ་ལྟ་སྨོས་ཀྱང་ཅི་འཚལ།",
+  "dm": "Subhūti replied, \"Blessed One, those Ganges Rivers themselves would be numerous, so what need is there to mention the grains of sand in them?\"",
+  "gm": "Subhūti replied: Blessed One, if those Gaṅgā rivers themselves would be many, what need to speak of their grains of sand?"
+ },
+ {
+  "id": "7-52",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་ཁྱོད་མོས་པར་བྱའོ། །",
+  "dm": "The Blessed One said, \"Subhūti, you must have faith.",
+  "gm": "The Blessed One said: Subhūti, you should be convinced."
+ },
+ {
+  "id": "7-53",
+  "heading": false,
+  "bo": "ཁྱོད་ཀྱིས་ཁོང་དུ་ཆུད་པར་བྱའོ། །",
+  "dm": "You must understand this.",
+  "gm": "You should understand."
+ },
+ {
+  "id": "7-54",
+  "heading": false,
+  "bo": "གང་གཱའི་ཀླུང་དེ་དག་གི་བྱེ་མ་ཇི་སྙེད་པ་དེ་སྙེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་ན་སྐྱེས་པའམ། བུད་མེད་ལ་ལ་ཞིག་གིས་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ།",
+  "dm": "If a man or a woman were to fill as many world systems as there are grains of sand in those Ganges Rivers with the seven types of precious jewels,",
+  "gm": "If some man or woman were to completely fill as many world systems as there are grains of sand in those Gaṅgā rivers with the seven precious substances,"
+ },
+ {
+  "id": "7-55",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ལ་སྦྱིན་པ་བྱིན་ན། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། སྐྱེས་པའམ་བུད་མེད་དེ་གཞི་དེ་ལས་བསོད་ནམས་མང་དུ་བསྐྱེད་སྙམ་མམ།",
+  "dm": "and were to offer them as gifts to the Tathāgatas, Arhats, and perfectly complete Buddhas, Subhūti, what do you think? Would that man or woman generate much merit on that basis?",
+  "gm": "and give them as a gift to the Tathāgatas, Arhats, perfectly and fully awakened Buddhas, Subhūti, what do you think? Would you think that man or woman would produce much merit from that basis?"
+ },
+ {
+  "id": "7-56",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མང་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"Blessed One, it would be much.\"",
+  "gm": "Subhūti replied: Blessed One, it would be much."
+ },
+ {
+  "id": "7-57",
+  "heading": false,
+  "bo": "བདེ་བར་གཤེགས་པ་མང་ལགས་སོ། །",
+  "dm": "\"It would be much, Sugata.\"",
+  "gm": "Sugata, it would be much."
+ },
+ {
+  "id": "7-58",
+  "heading": false,
+  "bo": "སྐྱེས་པའམ་བུད་མེད་དེ་གཞི་དེ་ལས་བསོད་ནམས་མང་དུ་བསྐྱེད་པ་ལགས་སོ། །",
+  "dm": "That man or woman would generate much merit on that basis.",
+  "gm": "That man or woman would produce much merit from that basis."
+ },
+ {
+  "id": "7-59",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་གང་གིས་འཇིག་རྟེན་གྱིས་ཁམས་དེ་སྙེད་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ།",
+  "dm": "The Blessed One said, \"Subhūti, if someone were to fill as many world systems as there are with the seven kinds of precious jewels and give them as a gift,",
+  "gm": "The Blessed One said: Subhūti, if someone were to completely fill that many world systems with the seven precious substances,"
+ },
+ {
+  "id": "7-60",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ལ་སྦྱིན་པ་བྱིན་པ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་ནས། གཞན་དག་ལ་ཡང་དག་པར་རབ་ཏུ་བཤད་དེ་ཡང་དག་པར་རབ་ཏུ་བསྟན་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "dm": "and were to offer them as gifts to the Tathāgatas, Arhats, and perfectly complete Buddhas, compared to that, if someone were to take up even a four-line stanza from this Dharma discourse, and were to correctly explain and correctly teach it to others, that person would generate much more merit on that basis—countless and measureless merit.\"",
+  "gm": "compared to giving them as a gift to the Tathāgatas, Arhats, perfectly and fully awakened Buddhas, if someone were to take up even a four-line verse from this discourse on the Dharma, explain it fully and correctly to others, and teach it fully and correctly, they would produce infinitely and immeasurably much more merit from that basis."
+ },
+ {
+  "id": "7-61",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་ས་ཕྱོགས་གང་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་འདོན་ཏམ་སྟོན་པའི་ས་ཕྱོགས་དེ་ནི་ལྷ་དང་མི་དང་ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་གྱི་མཆོད་རྟེན་དུ་གྱུར་པ་ཡིན་ན་སུ་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འབྲི་བ་དང༌། འཛིན་པ་དང་། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། ཚུལ་བཞིན་དུ་ཡིད་ལ་བྱེད་པ་དེ་ངོ་མཚར་རབ་དང་ལྡན་པར་གྱུར་པ་ལྟ་ཅི་སྨོས་ཏེ་",
+  "dm": "Furthermore, Subhūti, any place where even a four-line stanza from this Dharma discourse is recited or taught becomes a shrine for the world including gods, humans, and asuras. It goes without saying that anyone who takes up, writes down, holds, preserves, reads, masters, and properly attends to this Dharma discourse will be endowed with supreme wonder.",
+  "gm": "Moreover, Subhūti, if the place where even a four-line verse from this discourse on the Dharma is recited or taught becomes a stūpa for the world with its gods, humans, and asuras, what need to speak of whoever takes up this discourse on the Dharma, writes it, holds it, keeps it, reads it, masters it, and attends to it properly becoming endowed with the greatest wonder?"
+ },
+ {
+  "id": "7-62",
+  "heading": false,
+  "bo": "ས་ཕྱོགས་དེ་ན་སྟོན་པའམ། བླ་མ་ལྟ་བུ་གང་ཡང་རུང་བར་གནས་སོ། །",
+  "dm": "In that place, the Teacher or someone like a venerable guru resides.",
+  "gm": "In that place dwells the Teacher, or someone like a guru."
+ },
+ {
+  "id": "7-63",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌། བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "When he had spoken those words, the venerable Subhūti addressed the Blessed One as follows:",
+  "gm": "When this had been said, venerable Subhūti said this to the Blessed One:"
+ },
+ {
+  "id": "7-64",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཅི་ལགས།",
+  "dm": "Blessed One, what is the name of this Dharma discourse?",
+  "gm": "Blessed One, what is the name of this discourse on the Dharma?"
+ },
+ {
+  "id": "7-65",
+  "heading": false,
+  "bo": "འདི་ཇི་ལྟར་གཟུང་བར་བགྱི།",
+  "dm": "How should it be remembered?",
+  "gm": "How should it be held?"
+ },
+ {
+  "id": "7-66",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "When he had spoken thus, the Blessed One addressed the venerable Subhūti in this way:",
+  "gm": "When this had been said, the Blessed One said this to venerable Subhūti:"
+ },
+ {
+  "id": "7-67",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཞེས་བྱ་སྟེ་",
+  "dm": "Subhūti, the name of this Dharma discourse is the Perfection of Wisdom;",
+  "gm": "Subhūti, the name of this discourse on the Dharma is the Perfection of Wisdom, and"
+ },
+ {
+  "id": "7-68",
+  "heading": false,
+  "bo": "འདི་དེ་ལྟར་ཟུངས་ཤིག །",
+  "dm": "hold it in this way.",
+  "gm": "you should hold it thus."
+ },
+ {
+  "id": "7-69",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་གང་གསུངས་པ་དེ་ཉིད་ཕ་རོལ་ཏུ་ཕྱིན་པ་མེད་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, because that which the Tathāgata has spoken of as the Perfection of Wisdom is itself not a perfection.",
+  "gm": "Why is that? Subhūti, because the very perfection of wisdom that was taught by the Tathāgata is not a perfection."
+ },
+ {
+  "id": "7-70",
+  "heading": false,
+  "bo": "དེས་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called the Perfection of Wisdom.",
+  "gm": "Therefore it is called the perfection of wisdom."
+ },
+ {
+  "id": "7-71",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "Subhūti, what do you think?"
+ },
+ {
+  "id": "7-72",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+  "dm": "Do you think that there is any Dharma whatsoever that has been spoken by the Tathāgata?",
+  "gm": "Do you think there is any Dharma whatsoever that has been taught by the Tathāgata?"
+ },
+ {
+  "id": "7-73",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་གང་གསུངས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
+  "dm": "Subhūti replied, “Blessed One, there is no Dharma whatsoever that has been spoken by the Tathāgata.”",
+  "gm": "Subhūti said, \"Bhagavān, there is no Dharma whatsoever that has been taught by the Tathāgata.\""
+ },
+ {
+  "id": "7-74",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, “Subhūti, what do you think?",
+  "gm": "The Bhagavān said, \"Subhūti, what do you think?"
+ },
+ {
+  "id": "7-75",
+  "heading": false,
+  "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་དེ་མང་བ་ཡིན་སྙམ་མམ།",
+  "dm": "Do you think that the number of dust motes in the great trichiliocosm world system is many?”",
+  "gm": "Do you think that the particles of earth that exist in the three-thousandfold great thousandfold world system are many?\""
+ },
+ {
+  "id": "7-76",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་སའི་རྡུལ་དེ་མང་ལགས་སོ། །",
+  "dm": "Subhūti replied, “Blessed One, those dust motes are many.”",
+  "gm": "Subhūti said, \"Bhagavān, those particles of earth are many."
+ },
+ {
+  "id": "7-77",
+  "heading": false,
+  "bo": "བདེ་བར་གཤེགས་པ་མང་ལགས་སོ། །",
+  "dm": "“They are many, Sugata.”",
+  "gm": "Sugata, they are many."
+ },
+ {
+  "id": "7-78",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་སའི་རྡུལ་གང་ལགས་པ་དེ་རྡུལ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "dm": "“Why is that? Blessed One, it is because the Tathāgata has taught that those dust motes are not dust motes.”",
+  "gm": "Why is that? Bhagavān, because whatever is a particle of earth was taught by the Tathāgata as not a particle."
+ },
+ {
+  "id": "7-79",
+  "heading": false,
+  "bo": "དེས་ན་སའི་རྡུལ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called \"dust motes.\"",
+  "gm": "Therefore it is called a particle of earth."
+ },
+ {
+  "id": "7-80",
+  "heading": false,
+  "bo": "འཇིག་རྟེན་གྱི་ཁམས་གང་ལགས་པ་དེ་དག་ཁམས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Because the Tathāgata has taught that those world systems are not world systems.",
+  "gm": "Because whatever those world systems are, they were taught by the Tathāgata as not systems."
+ },
+ {
+  "id": "7-81",
+  "heading": false,
+  "bo": "དེས་ན་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, they are called \"world systems.\"",
+  "gm": "Therefore it is called a world system."
+ },
+ {
+  "id": "8-0",
+  "heading": true,
+  "bo": "མཚན་དང་དཔེ་བྱད།",
+  "dm": "The Major Marks and Minor Signs",
+  "gm": "The Major and Minor Marks"
+ },
+ {
+  "id": "8-1",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Bhagavān said, \"Subhūti, what do you think?"
+ },
+ {
+  "id": "8-2",
+  "heading": false,
+  "bo": "སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་པོ་དེ་དག་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སུ་བལྟ་བར་བྱ་སྙམ་མམ།",
+  "dm": "Should the Tathāgata, the Arhat, the Perfectly Enlightened Buddha be perceived by means of those thirty-two marks of a great being?\"",
+  "gm": "Should the Tathāgata, the Arhat, the fully awakened Buddha be seen by those thirty-two marks of a great man?\""
+ },
+ {
+  "id": "8-3",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not so.\"",
+  "gm": "Subhūti said, \"Bhagavān, that is not so."
+ },
+ {
+  "id": "8-4",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་གང་དག་དེ་བཞིན་གཤེགས་པས་གསུངས་པ་དེ་དག་མཚན་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Because those thirty-two marks of a great being that the Tathāgata has spoken of were spoken of by the Tathāgata as being without marks.",
+  "gm": "Why is that? Because whatever thirty-two marks of a great man were taught by the Tathāgata, they were taught by the Tathāgata as not marks."
+ },
+ {
+  "id": "8-5",
+  "heading": false,
+  "bo": "དེས་ན་སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་རྣམས་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, they are called the thirty-two marks of a great being.",
+  "gm": "Therefore they are called the thirty-two marks of a great man.\""
+ },
+ {
+  "id": "8-6",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་སྐྱེས་པའམ། བུད་མེད་གང་ལ་ལ་ཞིག་གིས་ལུས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་བ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་སྟེ་གཞན་དག་ལ་ཡང་དག་པར་བསྟན་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "dm": "The Blessed One said, \"Subhūti, if a man or a woman were to abandon as many bodies as there are grains of sand in the Ganges river, and if someone else were to take up even a four-line stanza from this discourse on Dharma and teach it to others, that person would generate far more merit, immeasurable and incalculable.\"",
+  "gm": "The Bhagavān said, \"Subhūti, if some man or woman were to give away bodies as numerous as the grains of sand in the river Gaṅgā, and if someone were to retain from this discourse on Dharma even just a four-line verse and teach it properly to others, this one would generate on that basis far greater, incalculable, immeasurable merit.\""
+ },
+ {
+  "id": "8-7",
+  "heading": false,
+  "bo": "དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ཆོས་ཀྱི་ཤུགས་ཀྱིས་མཆི་མ་ཕྱུང་སྟེ།",
+  "dm": "Then, through the power of the Dharma, the venerable Subhūti shed tears.",
+  "gm": "Then venerable Subhūti shed tears by the force of the Dharma."
+ },
+ {
+  "id": "8-8",
+  "heading": false,
+  "bo": "དེས་མཆི་མ་ཕྱིས་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "Having wiped away his tears, he addressed the Blessed One in this way:",
+  "gm": "Having wiped away his tears, he said this to the Bhagavān:"
+ },
+ {
+  "id": "8-9",
+  "heading": false,
+  "bo": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་དེ་བཞིན་གཤེགས་པ་ཇི་སྙེད་པས་གསུངས་པ་ནི། བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ། །བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །",
+  "dm": "\"Blessed One, it is marvelous how this discourse on Dharma has been spoken by the Tathāgata. Sugata, it is marvelous!\"",
+  "gm": "Bhagavān, it is wonderful how this discourse on Dharma has been taught by the Tathāgata! Sugata, it is wonderful!"
+ },
+ {
+  "id": "8-10",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བདག་གིས་ཡེ་ཤེས་སྐྱེས་ཚུན་ཆད་བདག་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སྔོན་ནམ་ཡང་མ་ཐོས་ལགས་སོ། །",
+  "dm": "Blessed One, ever since I attained the eye of wisdom, I have never before heard such a discourse on Dharma as this.",
+  "gm": "Bhagavān, since wisdom arose in me, I have never before heard this discourse on Dharma."
+ },
+ {
+  "id": "8-11",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་མདོ་སྡེ་བཤད་པ་འདི་ལ་གང་དག་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བའི་སེམས་ཅན་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "Why is that? Blessed One, those sentient beings who will generate a correct perception regarding this explanation of the sutra will be endowed with supreme marvels.",
+  "gm": "Why is that? Bhagavān, those sentient beings who will generate a true perception regarding this sūtra being taught will be endowed with supreme wonder."
+ },
+ {
+  "id": "8-12",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་ཡང་དག་པར་འདུ་ཤེས་པ་གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Blessed One, it is because that which is a correct perception is precisely a non-perception.",
+  "gm": "Why is that? Because, Bhagavān, whatever is a true perception is itself no perception."
+ },
+ {
+  "id": "8-13",
+  "heading": false,
+  "bo": "དེས་ན་ཡང་དག་པར་འདུ་ཤེས་ཞེས་དེ་བཞིན་གཤེགས་པས་གསུངས་སོ། །",
+  "dm": "Therefore, the Tathāgata has spoken of \"correct perception.\"",
+  "gm": "Therefore the Tathāgata has taught it as 'true perception'."
+ },
+ {
+  "id": "8-14",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བདག་ནི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པ་ལ་རྟོག་ཅིང་མོས་པ་ནི། བདག་ལ་ངོ་མཚར་མ་ལགས་ཀྱི།",
+  "dm": "Blessed One, that I contemplate and have faith in the explanation of this Dharma discourse is not a marvel to me.",
+  "gm": "Bhagavān, it is not wonderful to me that I realize and believe in this discourse on Dharma being taught, but"
+ },
+ {
+  "id": "8-15",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་སླད་མའི་ཚེ་སླད་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ་སེམས་ཅན་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འབྲི་བ་དང་། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་ལགས་སོ། །",
+  "dm": "Blessed One, in the future, in the final times, in the last five hundred years, those sentient beings who take up, write down, memorize, retain, read, and fully master this Dharma discourse will be endowed with supreme marvels.",
+  "gm": "Bhagavān, in the future time, in the final five hundred years, those sentient beings who take up, write, hold, keep, read, and completely master this discourse on Dharma will be endowed with supreme wonder."
+ },
+ {
+  "id": "8-16",
+  "heading": false,
+  "bo": "ཡང་བཅོམ་ལྡན་འདས་དེ་དག་ནི་བདག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ཞིང༌།",
+  "dm": "Furthermore, Blessed One, they will not engage in the perception of a self,",
+  "gm": "Furthermore, Bhagavān, they will not engage in the perception of a self,"
+ },
+ {
+  "id": "8-17",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ལགས་སོ། །",
+  "dm": "nor will they engage in the perception of a sentient being, the perception of a life-force, or the perception of a person.",
+  "gm": "they will not engage in the perception of a sentient being, the perception of a life, and the perception of a person."
+ },
+ {
+  "id": "8-18",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་བདག་ཏུ་འདུ་ཤེས་པ་དང༌། སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་པ་གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ།།",
+  "dm": "Why is that? Blessed One, because the perception of a self, the perception of a sentient being, the perception of a life-force, and the perception of a person are precisely that which is devoid of all perceptions.",
+  "gm": "Why is that? Because, Bhagavān, whatever is the perception of a self, the perception of a sentient being, the perception of a life, and the perception of a person, that itself is free from all perceptions."
+ },
+ {
+  "id": "8-19",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ།།",
+  "dm": "Why is that? Because the Buddhas, the Blessed Ones, are devoid of all perceptions.",
+  "gm": "Why is that? Because the Buddhas, the Bhagavāns, are free from all perceptions."
+ },
+ {
+  "id": "8-20",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "When he had spoken thus, the Blessed One addressed the venerable Subhūti in this way:",
+  "gm": "When he had said this, the Bhagavān spoke these words to the venerable Subhūti:"
+ },
+ {
+  "id": "8-21",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "dm": "Subhūti, it is so. It is just so.",
+  "gm": "Subhūti, so it is. So it is."
+ },
+ {
+  "id": "8-22",
+  "heading": false,
+  "bo": "སེམས་ཅན་གང་དག་མདོ་སྡེ་འདི་བཤད་པ་ལ་མི་སྐྲག་ཅིང་མི་དངངས་ལ་ཀུན་ཏུ་དངངས་པར་མི་འགྱུར་བ་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་རོ། །",
+  "dm": "Those sentient beings who, when this sūtra is being explained, are not terrified, not frightened, and do not become alarmed, will be endowed with supreme wonder.",
+  "gm": "Those sentient beings who are not terrified, not frightened, and do not become completely terrified when this sūtra is being taught will be endowed with supreme wonder."
+ },
+ {
+  "id": "8-23",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་འདི་ནི་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
+  "dm": "Why is that? Subhūti, this supreme perfection of wisdom has been spoken of by the Tathāgata.",
+  "gm": "Why is that? Subhūti, this supreme perfection was taught by the Tathāgata,"
+ },
+ {
+  "id": "8-24",
+  "heading": false,
+  "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་གང་དག་དེ་བཞིན་གཤེགས་པས་གསུངས་པ་དེ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དཔག་ཏུ་མེད་པ་ཚད་མེད་པ་རྣམས་ཀྱིས་ཀྱང་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "dm": "For those supreme perfections that have been spoken of by the Tathāgata have also been spoken of by immeasurable and countless Buddhas, the Blessed Ones.",
+  "gm": "because whatever supreme perfection was taught by the Tathāgata, that has also been taught by immeasurable, boundless Buddhas, Bhagavāns."
+ },
+ {
+  "id": "8-25",
+  "heading": false,
+  "bo": "དེས་ན་ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called the supreme perfection.",
+  "gm": "Therefore, it is called the supreme perfection."
+ },
+ {
+  "id": "8-26",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་གང་ཡིན་པ་དེ་ཉིད་ཕ་རོལ་ཏུ་ཕྱིན་པ་མེད་དོ། །",
+  "dm": "Furthermore, Subhūti, that which the Tathāgata calls the perfection of patience is not a perfection.",
+  "gm": "Moreover, Subhūti, whatever perfection of patience was taught by the Tathāgata, that itself is no perfection."
+ },
+ {
+  "id": "8-27",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་གི་ཚེ་ཀ་ལིང་ཀའི་རྒྱལ་པོས། ངའི་ཡན་ལག་དང་ཉིང་ལག་རྣམས་བཅད་པར་གྱུར་པ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་སམ། སེམས་ཅན་དུ་འདུ་ཤེས་སམ། སྲོག་ཏུ་འདུ་ཤེས་སམ། གང་ཟག་ཏུ་འདུ་ཤེས་ཀྱང་མ་བྱུང་ཞིང༌།",
+  "dm": "Why is that? Subhūti, at the time when the King of Kaliṅga severed my limbs and minor limbs, I had no notion of a self, no notion of a sentient being, no notion of a life-force, and no notion of a person.",
+  "gm": "Why is that? Subhūti, at the time when the king of Kaliṅga cut off my major and minor limbs, at that time the perception of a self, the perception of a sentient being, the perception of a life force, or the perception of a person did not arise in me, and"
+ },
+ {
+  "id": "8-28",
+  "heading": false,
+  "bo": "ང་ལ་འདུ་ཤེས་ཅི་ཡང་མེད་ལ་འདུ་ཤེས་མེད་པར་གྱུར་པ་ཡང་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+  "dm": "I had no notion of anything, yet it is not the case that I became without notion.",
+  "gm": "because I had no perception whatsoever, nor was I without perception."
+ },
+ {
+  "id": "8-29",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་བྱུང་ན། དེའི་ཚེ་གནོད་སེམས་ཀྱི་འདུ་ཤེས་ཀྱང་འབྱུང་ལ།",
+  "dm": "Why is that? Subhūti, if at that time a notion of a self had arisen in me, then a notion of malice would also have arisen.",
+  "gm": "Why is that? Subhūti, if at that time the perception of a self had arisen in me, then at that time the perception of malice would also have arisen, and"
+ },
+ {
+  "id": "8-30",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་བྱུང་ན། དེའི་ཚེ་གནོད་སེམས་ཀྱི་འདུ་ཤེས་ཀྱང་འབྱུང་བའི་ཕྱིར་རོ། །",
+  "dm": "And if a notion of a sentient being, a notion of a life-force, or a notion of a person had arisen, then a notion of malice would also have arisen.",
+  "gm": "because if the perception of a sentient being, the perception of a life force, or the perception of a person had arisen, then at that time the perception of malice would also have arisen."
+ },
+ {
+  "id": "8-31",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ངས་མངོན་པར་ཤེས་ཏེ། འདས་པའི་དུས་ན། ང་ཚེ་རབས་ལྔ་བརྒྱར་བཟོད་པ་སྨྲ་བ་ཞེས་བྱ་བའི་དྲང་སྲོང་དུ་གྱུར་པ་དེའི་ཚེ་ན་ཡང༌། ང་ལ་བདག་ཏུ་འདུ་ཤེས་མ་བྱུང༌།",
+  "dm": "Subhūti, I recall that in a past age, when I was a sage called \"Speaker of Patience\" for five hundred lifetimes, even at that time I had no notion of a self.",
+  "gm": "Subhūti, I remember that in the past, for five hundred lifetimes, when I was the sage called Kṣāntivādin, even at that time the perception of a self did not arise in me."
+ },
+ {
+  "id": "8-32",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འདུ་ཤེས་དང༌། སྲོག་ཏུ་འདུ་ཤེས་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་མ་བྱུང་ངོ་། །",
+  "dm": "I had no notion of a sentient being, no notion of a life-force, and no notion of a person.",
+  "gm": "The perception of a sentient being, the perception of a life force, or the perception of a person did not arise."
+ },
+ {
+  "id": "8-33",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེ་ལྟ་བས་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་འདུ་ཤེས་ཐམས་ཅད་རྣམ་པར་སྤངས་ཏེ།",
+  "dm": "Subhūti, therefore, a bodhisattva mahāsattva should completely abandon all notions, and...",
+  "gm": "Therefore, Subhūti, a bodhisattva great being should completely abandon all perceptions and"
+ },
+ {
+  "id": "8-34",
+  "heading": false,
+  "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind for unsurpassed, perfectly complete enlightenment.",
+  "gm": "give rise to the mind for unsurpassed, perfectly complete enlightenment."
+ },
+ {
+  "id": "8-35",
+  "heading": false,
+  "bo": "གཟུགས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind without abiding in form.",
+  "gm": "They should give rise to the mind without abiding in form."
+ },
+ {
+  "id": "8-36",
+  "heading": false,
+  "bo": "སྒྲ་དང་དྲི་དང་རོ་དང༌། རེག་བྱ་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind without abiding in sound, smell, taste, or tangible objects.",
+  "gm": "They should give rise to the mind without abiding in sound, smell, taste, or tactile objects."
+ },
+ {
+  "id": "8-37",
+  "heading": false,
+  "bo": "ཆོས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind without abiding in phenomena.",
+  "gm": "They should give rise to the mind without abiding in phenomena."
+ },
+ {
+  "id": "8-38",
+  "heading": false,
+  "bo": "ཆོས་མེད་པ་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind without abiding in the non-existence of phenomena.",
+  "gm": "They should give rise to the mind without abiding in non-phenomena."
+ },
+ {
+  "id": "8-39",
+  "heading": false,
+  "bo": "ཅི་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "One should generate the mind without abiding in anything at all.",
+  "gm": "They should give rise to the mind without abiding in anything whatsoever."
+ },
+ {
+  "id": "8-40",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། གནས་པ་གང་ཡིན་པ་དེ་ཉིད་མི་གནས་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Because whatever abides is itself non-abiding.",
+  "gm": "Why is that? Because whatever is an abiding is itself a non-abiding."
+ },
+ {
+  "id": "8-41",
+  "heading": false,
+  "bo": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་འདི་སྐད་དུ། བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། ། ཞེས་གསུངས་སོ། །",
+  "dm": "Therefore, the Tathāgata has said: \"A bodhisattva should practice generosity without abiding in anything at all.\"",
+  "gm": "Therefore, the Tathāgata has spoken thus: \"A bodhisattva should give gifts without abiding in anything whatsoever.\""
+ },
+ {
+  "id": "8-42",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་འདི་ལྟར་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་གྱི་ཕྱིར་སྦྱིན་པ་ཡོངས་སུ་གཏང་བར་བྱའོ། །",
+  "dm": "Furthermore, Subhūti, a bodhisattva should completely relinquish generosity for the sake of the benefit of all sentient beings.",
+  "gm": "Moreover, Subhūti, a bodhisattva should give gifts in this way for the benefit of all sentient beings."
+ },
+ {
+  "id": "8-43",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་གང་ཡིན་པ་དེ་ཉིད་ཀྱང་འདུ་ཤེས་མེད་པ་སྟེ།",
+  "dm": "Whatever is perceived as a sentient being is itself devoid of perception.",
+  "gm": "Whatever is the perception of a sentient being is itself a non-perception."
+ },
+ {
+  "id": "8-44",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་ཐམས་ཅད་ཅེས་གང་དག་གསུངས་པའི་སེམས་ཅན་དེ་དག་ཉིད་ཀྱང་མེད་པའོ། །",
+  "dm": "Those sentient beings that the Tathāgata has spoken of as \"all sentient beings\" are also non-existent.",
+  "gm": "Those very sentient beings spoken of by the Tathāgata as \"all sentient beings\" do not exist."
+ },
+ {
+  "id": "8-45",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ནི་ཡང་དག་པར་གསུང་བ། བདེན་པར་གསུང་བ། དེ་བཞིན་ཉིད་དུ་གསུང་བ་སྟེ།",
+  "dm": "Why is that? Subhūti, the Tathāgata is one who speaks what is authentic, speaks what is true, and speaks in accordance with suchness.",
+  "gm": "Why is that? Subhūti, the Tathāgata speaks authentically, speaks truthfully, and speaks of suchness;"
+ },
+ {
+  "id": "8-46",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ནི་ལོག་པར་གསུང་བ་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+  "dm": "This is because the Tathāgata does not speak falsely.",
+  "gm": "because the Tathāgata does not speak falsely."
+ },
+ {
+  "id": "8-47",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཆོས་གང་ཡང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ལ་བདེན་པ་ཡང་མེད། རྫུན་པ་ཡང་མེད་དོ། །",
+  "dm": "Furthermore, Subhūti, there is neither truth nor falsehood in the phenomena that the Tathāgata has perfectly awakened to or taught.",
+  "gm": "Moreover, Subhūti, in whatever phenomena the Tathāgata has fully awakened to or taught, there is neither truth nor falsehood."
+ },
+ {
+  "id": "8-48",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ལྟ་སྟེ། དཔེར་ན་མིག་དང་ལྡན་པའི་མི་ཞིག་མུན་པར་ཞུགས་ན་ཅི་ཡང་མི་མཐོང་བ་དེ་བཞིན་དུ་གང་དངོས་པོར་ལྷུང་བས་སྦྱིན་པ་ཡོངས་སུ་གཏོང་བའི་བྱང་ཆུབ་སེམས་དཔའ་བལྟ་བར་བྱའོ། །",
+  "dm": "Subhūti, it is like this: for example, just as a person with sight who enters the darkness sees nothing at all, so should one view a bodhisattva who practices generosity while having fallen into the perception of entities.",
+  "gm": "Subhūti, it is like this: just as a person with eyes who enters into darkness sees nothing at all, in the same way should a bodhisattva be seen who has fallen into objects when giving gifts."
+ },
+ {
+  "id": "8-49",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་འདི་ལྟ་སྟེ། དཔེར་ན། ནམ་ལངས་ཏེ་ཉི་མ་ཤར་ནས་མིག་དང་ལྡན་པའི་མིས་གཟུགས་རྣམ་པ་སྣ་ཚོགས་དག་མཐོང་བ་དེ་བཞིན་དུ། གང་དངོས༌པོར་མ་ལྷུང་བས་སྦྱིན་པ་ཡོངས་སུ་གཏོང་བའི་བྱང་ཆུབ་སེམས་དཔའ་བལྟ་བར་བྱའོ། །",
+  "dm": "Furthermore, Subhūti, it is like this: for example, when dawn breaks and the sun rises, a person with sight sees all various kinds of forms; in the same way, one should view a bodhisattva who practices generosity without having fallen into the perception of entities.",
+  "gm": "Moreover, Subhūti, it is like this: just as when dawn breaks and the sun rises, a person with eyes sees various forms, in the same way should a bodhisattva be seen who has not fallen into objects when giving gifts."
+ },
+ {
+  "id": "8-50",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་མཁྱེན། དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ་",
+  "dm": "Furthermore, Subhūti, any sons or daughters of noble family who take up this Dharma discourse, hold it, keep it, read it, master it, and extensively and correctly teach it to others are known by the Tathāgata, and are seen by the Tathāgata;",
+  "gm": "Moreover, Subhūti, whatever sons of noble family or daughters of noble family take up, hold, keep, read, completely comprehend, and vastly and authentically teach to others this dharma discourse, they are known by the Tathāgata, seen by the Tathāgata, and"
+ },
+ {
+  "id": "8-51",
+  "heading": false,
+  "bo": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ། །",
+  "dm": "all those sentient beings will generate an immeasurable mass of merit.",
+  "gm": "all those sentient beings will produce an immeasurable heap of merit."
+ },
+ {
+  "id": "8-52",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་སྐྱེས་པའམ། བུད་མེད་གང་ཞིག་སྔ་དྲོའི་དུས་ཀྱི་ཚེ་ལུས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་ལ། ཕྱེད་ཀྱི་དུས་དང༌། ཕྱི་དྲོའི་དུས་ཀྱི་ཚེ་ཡང་ལུས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་སྟེ། རྣམ་གྲངས་འདི་ལྟ་བུར་བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མར་ལུས་ཡོངས་སུ་གཏོང་བ་བས།",
+  "dm": "Furthermore, Subhūti, if any man or woman were to sacrifice their body as many times as there are grains of sand in the Ganges River during the morning, and likewise sacrifice their body as many times as there are grains of sand in the Ganges River during the midday, and again sacrifice their body as many times as there are grains of sand in the Ganges River during the evening, and in this way were to sacrifice their body for many hundreds of thousands of millions of eons;",
+  "gm": "Moreover, Subhūti, if a man or woman were to give away bodies as numerous as the grains of sand in the river Gaṅgā in the morning, and were to give away bodies as numerous as the grains of sand in the river Gaṅgā at midday and in the afternoon, compared to giving away bodies in this manner for many tens of millions, hundreds of millions, and hundreds of thousands of eons,"
+ },
+ {
+  "id": "8-53",
+  "heading": false,
+  "bo": "གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་མི་སྤོང་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་ན། གང་གིས་ཡི་གེར་བྲིས་ནས་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་ལྟ་ཅི་སྨོས།",
+  "dm": "if, having heard this Dharma discourse, someone were not to reject it, they would generate a mass of merit that is far greater, immeasurable, and countless; what need is there to mention one who writes it down, takes it up, holds it, reads it, masters it, and extensively and correctly teaches it to others?",
+  "gm": "if someone, having heard this dharma discourse, does not abandon it, they would on that basis produce a much greater, incalculable, and immeasurable amount of merit; so what need is there to mention someone who, having written it in letters, takes it up, holds it, keeps it, reads it, completely comprehends it, and vastly and authentically teaches it to others?"
+ },
+ {
+  "id": "8-54",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་བསམ་གྱིས་མི་ཁྱབ་ཅིང༌། མཚུངས་པ་མེད་དེ།",
+  "dm": "Furthermore, Subhūti, this Dharma discourse is inconceivable and incomparable.",
+  "gm": "Moreover, Subhūti, this dharma discourse is inconceivable and incomparable;"
+ },
+ {
+  "id": "8-55",
+  "heading": false,
+  "bo": "འདིའི་རྣམ་པར་སྨིན་པ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་དུ་རིག་པར་བྱའོ། །",
+  "dm": "One should know that the ripening of this is also inconceivable.",
+  "gm": "its ripening should also be known as inconceivable."
+ },
+ {
+  "id": "8-56",
+  "heading": false,
+  "bo": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་ཐེག་པ་མཆོག་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་དང༌། ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་གྱི་ཕྱིར་དེ་བཞིན་གཤེགས་པས་གསུངས་སོ། །",
+  "dm": "The Tathāgata has spoken this Dharma discourse for the sake of those sentient beings who have correctly entered the supreme vehicle, and for the sake of those sentient beings who have correctly entered the unsurpassed vehicle.",
+  "gm": "The Tathāgata has spoken this dharma discourse for the sake of sentient beings who have authentically entered into the supreme vehicle, and for the sake of sentient beings who have authentically entered into the foremost vehicle."
+ },
+ {
+  "id": "8-57",
+  "heading": false,
+  "bo": "གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་མཁྱེན། དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ།",
+  "dm": "The Tathāgata knows and the Tathāgata sees those who take up, hold, preserve, read, master, and extensively and correctly teach this Dharma discourse to others.",
+  "gm": "Those who take up, hold, keep, read, completely comprehend, and vastly and authentically teach this dharma discourse to others are known by the Tathāgata and seen by the Tathāgata,"
+ },
+ {
+  "id": "8-58",
+  "heading": false,
+  "bo": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་དང་ལྡན་པར་འགྱུར་",
+  "dm": "All those sentient beings will come to possess an immeasurable mass of merit.",
+  "gm": "and all those sentient beings will be endowed with an immeasurable heap of merit;"
+ },
+ {
+  "id": "8-59",
+  "heading": false,
+  "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ་བསམ་གྱིས་མི་ཁྱབ་པ་དང༌། མཚུངས་པ་མེད་པ་དང༌། གཞལ་དུ་མེད་པ་དང༌། ཚད་མེད་པ་དང་ལྡན་པར་འགྱུར་ཏེ།",
+  "dm": "They will come to possess a mass of merit that is inconceivable, incomparable, immeasurable, and limitless.",
+  "gm": "they will be endowed with an inconceivable, incomparable, measureless, and limitless heap of merit,"
+ },
+ {
+  "id": "8-60",
+  "heading": false,
+  "bo": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ངའི་བྱང་ཆུབ་ཕྲག་པ་ལ་ཐོགས་པར་འགྱུར་རོ། །",
+  "dm": "All those sentient beings will have my awakening placed upon their shoulders.",
+  "gm": "and all those sentient beings will carry my awakening upon their shoulders."
+ },
+ {
+  "id": "8-61",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དམན་པ་ལ་མོས་པ་རྣམས་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་མཉན་པར་མི་ནུས་ཏེ།",
+  "dm": "Why is that? Subhūti, those who are intent upon the inferior cannot listen to this discourse on the Dharma,",
+  "gm": "Why is that? Subhūti, those who are inclined toward the inferior are unable to hear this dharma discourse;"
+ },
+ {
+  "id": "8-62",
+  "heading": false,
+  "bo": "བདག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སེམས་ཅན་དུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སྲོག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན་ཞིང༌།",
+  "dm": "nor can those who hold the view of a self, those who hold the view of a sentient being, those who hold the view of a life-force,",
+  "gm": "nor by those who hold a view of a self, nor by those who hold a view of a sentient being, nor by those who hold a view of a living being;"
+ },
+ {
+  "id": "8-63",
+  "heading": false,
+  "bo": "གང་ཟག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མཉན་པ་དང༌། བླང་བ་དང་། གཟུང་བ་དང༌། བཀླག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་མི་ནུས་ཏེ།",
+  "dm": "or those who hold the view of a person listen to it, take it up, grasp it, read it, or master it.",
+  "gm": "and those who hold a view of a person are unable to hear, take up, hold, read, or completely comprehend it,"
+ },
+ {
+  "id": "8-64",
+  "heading": false,
+  "bo": "དེ་ནི་གནས་མེད་པའི་ཕྱིར་རོ། །",
+  "dm": "That is because it is without a place of abiding.",
+  "gm": "because that is impossible."
+ },
+ {
+  "id": "8-65",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་ས་ཕྱོགས་གང་ན་མདོ་སྡེ་འདི་སྟོན་པའི་ས་ཕྱོགས་དེ་ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་གྱིས་མཆོད་པ་བྱ་བར་འོས་པར་འགྱུར་རོ། །",
+  "dm": "Furthermore, Subhūti, any place where this sūtra is taught will be worthy of being venerated by the world, including its gods, humans, and asuras.",
+  "gm": "Moreover, Subhūti, in whatever place this sūtra is taught, that place will become worthy of being venerated by the world with its gods, humans, and asuras."
+ },
+ {
+  "id": "8-66",
+  "heading": false,
+  "bo": "ས་ཕྱོགས་དེ་ཕྱག་བྱ་བར་འོས་པ་དང༌། བསྐོར་བ་བྱ་བར་འོས་པར་འགྱུར་ཏེ།",
+  "dm": "That place will be worthy of being prostrated to and worthy of being circumambulated.",
+  "gm": "That place will become worthy of being bowed to and worthy of being circumambulated;"
+ },
+ {
+  "id": "8-67",
+  "heading": false,
+  "bo": "ས་ཕྱོགས་དེ་མཆོད་རྟེན་ལྟ་བུར་འགྱུར་རོ། །",
+  "dm": "That place will become like a reliquary.",
+  "gm": "that place will become like a stūpa."
+ },
+ {
+  "id": "8-68",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་འདི་དག་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དེ་དག་ནི་མནར་བར་འགྱུར་",
+  "dm": "Furthermore, Subhūti, any sons or daughters of noble family who take up, uphold, bear, read, and master these words of such a sūtra will be tormented,",
+  "gm": "Moreover, Subhūti, whichever sons of noble family or daughters of noble family take up, hold, keep, read, and completely comprehend these words of a sūtra such as this, they will be tormented;"
+ },
+ {
+  "id": "8-69",
+  "heading": false,
+  "bo": "ཤིན་ཏུ་མནར་བར་འགྱུར་རོ། །",
+  "dm": "they will be severely tormented.",
+  "gm": "they will be severely tormented."
+ },
+ {
+  "id": "8-70",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཅན་དེ་དག་ནི་ཚེ་རབས་སྔ་མའི་མི་དགེ་བའི་ལས་ངན་སོང་དུ་སྐྱེ་བར་འགྱུར་བ་གང་དག་བྱས་པ་དེ་དག་ཚེ་འདི་ཉིད་ལ་མནར་བས། ཚེ་རབས་སྔ་མའི་མི་དགེ་བའི་ལས་ངན་སོང་དུ་སྐྱེ་བར་འགྱུར་བ་གང་དག་བྱས་པ་དེ་དག་བྱང་བར་འགྱུར་ཏེ།",
+  "dm": "Why is that? Subhūti, those sentient beings who, in previous lives, committed non-virtuous actions that would have led to rebirth in the lower realms, will, by being tormented in this very life, have those non-virtuous actions of previous lives that would have led to rebirth in the lower realms purified;",
+  "gm": "Why is that? Subhūti, because they are tormented in this very life for whatever nonvirtuous actions those sentient beings committed in past lives that would lead to rebirth in the lower realms, the nonvirtuous actions they committed in past lives that would lead to rebirth in the lower realms will be purified,"
+ },
+ {
+  "id": "8-71",
+  "heading": false,
+  "bo": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་ཀྱང་ཐོབ་པར་འགྱུར་རོ། །",
+  "dm": "and they will also attain the enlightenment of a Buddha.",
+  "gm": "and they will also attain the awakening of a buddha."
+ },
+ {
+  "id": "8-72",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ངས་མངོན་པར་ཤེས་ཏེ། འདས་པའི་དུས་བསྐལ་པ་གྲངས་མེད་པའི་ཡང་ཆེས་གྲངས་མེད་པ་ན། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ཀྱི་སྔ་རོལ་གྱི་ཡང་ཆེས་སྔ་རོལ་ན་སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི་དག་བྱུང་བ་ངས་མཉེས་པར་བྱས་ཏེ།",
+  "dm": "Subhūti, I recall that in the past, even more incalculable than incalculable eons ago, before the time of the Tathāgata, Arhat, perfectly complete Buddha Dīpaṃkara, I served eighty-four hundred thousand million Buddhas and pleased them.",
+  "gm": "Subhūti, I remember that in the past, in measureless and even more than measureless eons, before and even further before the Tathāgata, the Arhat, the perfectly and fully awakened Buddha Dīpaṃkara, eighty-four hundred thousand million myriad buddhas appeared, whom I pleased,"
+ },
+ {
+  "id": "8-73",
+  "heading": false,
+  "bo": "མ་མཉེས་པར་མ་བྱས་ནས་ཐུགས་འབྱུང་བར་མ་བྱས་ཏེ།",
+  "dm": "Having pleased them, I did not displease them, nor did I cause their hearts to be troubled.",
+  "gm": "did not displease, and did not disappoint."
+ },
+ {
+  "id": "8-74",
+  "heading": false,
+  "bo": "རབ་འབྱོར་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ངས་མཉེས་པར་བྱས་ནས་ཐུགས་འབྱུང་བར་མ་བྱས་པ་གང་ཡིན་པ་དང༌། ཕྱི་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མར་གྱུར་པ་ན། མདོ་སྡེ་འདི་ལེན་པ་དང༌། འདྲི་བ་དང༌། འཛིན་པ་དང་འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་གང་ཡིན་པ་ལས། རབ་འབྱོར་བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་ལ་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ།",
+  "dm": "Subhūti, regarding the fact that I pleased those Buddhas, the Blessed Ones, and did not cause their hearts to be troubled, and regarding the fact that in the final period, in the last five hundred years, there will be those who take up, inquire into, uphold, recite, read, and fully comprehend this sūtra—Subhūti, compared to this mass of merit, that previous mass of merit does not approach even a hundredth part.",
+  "gm": "Subhūti, whatever pleasing and not disappointing of those buddhas, the Blessed Ones, I did, compared to whoever, when the last five hundred years of the latter time have come, takes up, writes, holds, keeps, reads, and completely comprehends this sūtra—Subhūti, the former heap of merit does not approach even a hundredth part of this heap of merit;"
+ },
+ {
+  "id": "8-75",
+  "heading": false,
+  "bo": "སྟོང་གི་ཆ་དང༌། འབུམ་གྱི་ཆ་དང༌། གྲངས་དང་ཚད་དང་བགྲང་བ་དང༌། དཔེ་དང་ཟླ་དང་རྒྱུར་ཡང་མི་བཟོད་དོ། །",
+  "dm": "It does not bear comparison to a thousandth part, a hundred-thousandth part, a number, a measure, a calculation, an analogy, a likeness, or even a cause.",
+  "gm": "nor a thousandth part, nor a hundred-thousandth part; nor does it admit of calculation, measure, counting, comparison, matching, or causal connection."
+ },
+ {
+  "id": "8-76",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གལ་ཏེ་དེའི་ཚེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཇི་སྙེད་རབ་ཏུ་འཛིན་པར་འགྱུར་བའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དག་གི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ངས་བརྗོད་ན། སེམས་ཅན་རྣམས་མྱོ་མྱོ་པོར་འགྱུར་ཞིང་སེམས་འཁྲུགས་པར་འགྱུར་རོ། །",
+  "dm": "Subhūti, if I were to describe the mass of merit of those noble sons or noble daughters who would fully uphold as much of this mass of merit as there is, sentient beings would become bewildered and their minds would be troubled.",
+  "gm": "Subhūti, if I were to express the heap of merit of those sons of noble family or daughters of noble family, however great a heap of merit those sons of noble family or daughters of noble family will fully hold at that time, sentient beings would go mad and their minds would be confounded."
+ },
+ {
+  "id": "8-77",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བསམ་གྱིས་མི་ཁྱབ་སྟེ།",
+  "dm": "Furthermore, Subhūti, this Dharma discourse is inconceivable.",
+  "gm": "Moreover, Subhūti, this dharma discourse is inconceivable,"
+ },
+ {
+  "id": "8-78",
+  "heading": false,
+  "bo": "འདིའི་རྣམ་པར་སྨིན་པ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་དུ་རིག་པར་བྱའོ། །",
+  "dm": "You should know that its ripening is also inconceivable.",
+  "gm": "and its ripening should also be known to be simply inconceivable."
+ },
+ {
+  "id": "8-79",
+  "heading": false,
+  "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "Then, the venerable Subhūti addressed the Blessed One in this way:",
+  "gm": "Then the venerable Subhūti said this to the Blessed One:"
+ },
+ {
+  "id": "8-80",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས་ཇི་ལྟར་གནས་པར་བགྱི།",
+  "dm": "Blessed One, how should those who have correctly entered the bodhisattva vehicle abide?",
+  "gm": "Blessed One, how should those who have correctly entered the bodhisattva vehicle dwell?"
+ },
+ {
+  "id": "8-81",
+  "heading": false,
+  "bo": "ཇི་ལྟར་བསྒྲུབ་པར་བགྱི།",
+  "dm": "How should they practice?",
+  "gm": "How should they practice?"
+ },
+ {
+  "id": "8-82",
+  "heading": false,
+  "bo": "ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བགྱི།",
+  "dm": "How should the mind be held?",
+  "gm": "How should they fully control their minds?"
+ },
+ {
+  "id": "8-83",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "When he had spoken thus, the Blessed One addressed the venerable Subhūti in this way:",
+  "gm": "When he had said this, the Blessed One said this to the venerable Subhūti:"
+ },
+ {
+  "id": "8-84",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+  "dm": "Subhūti, in this regard, one who has correctly entered the bodhisattva vehicle should think thus: \"I shall lead all sentient beings to final nirvāṇa in the realm of nirvāṇa without remainder.\"",
+  "gm": "Subhūti, here one who has correctly entered the bodhisattva vehicle should think thus: 'I will lead all sentient beings to complete nirvāṇa in the realm of nirvāṇa without remainder of the aggregates."
+ },
+ {
+  "id": "8-85",
+  "heading": false,
+  "bo": "དེ་ལྟར་སེམས་ཅན་ཚད་མེད་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ཀྱང༌། སེམས་ཅན་གང་ཡང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་གྱུར་པ་མེད་དོ་སྙམ་དུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "Even though immeasurable sentient beings are led to final nirvāṇa in this way, one should generate the mind with the thought that not even one sentient being has been led to final nirvāṇa.",
+  "gm": "Even though immeasurable sentient beings have been led to complete nirvāṇa in this way, no sentient being whatsoever has been led to complete nirvāṇa'—thus should they generate the mind."
+ },
+ {
+  "id": "8-86",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་ན་དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་ལ།",
+  "dm": "Why is that? Subhūti, if a bodhisattva engages in the perception of a sentient being, they should not be called a bodhisattva;",
+  "gm": "Why is that? Subhūti, if a bodhisattva engages in the perception of a sentient being, they are not to be called a bodhisattva,"
+ },
+ {
+  "id": "8-87",
+  "heading": false,
+  "bo": "གང་ཟག་གི་བར་དུ་འདུ་ཤེས་འཇུག་ན་ཡང༌། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+  "dm": "and if they engage in the perception of a person, they should not be called a bodhisattva.",
+  "gm": "and even if they engage in a perception up to that of a person, it is because they are not to be called a bodhisattva."
+ },
+ {
+  "id": "8-88",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་ཞེས་བྱ་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Subhūti, it is because there is no phenomenon whatsoever that can be called \"having correctly entered the bodhisattva vehicle.\"",
+  "gm": "Why is that? Subhūti, it is because there is no dharma whatsoever called 'one who has correctly entered the bodhisattva vehicle'."
+ },
+ {
+  "id": "8-89",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "Subhūti, what do you think?"
+ },
+ {
+  "id": "8-90",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་གང་ཡང་ཡོད་སྙམ་མམ།",
+  "dm": "Do you think that there is any phenomenon whatsoever that the Tathāgata has fully realized as unsurpassed, perfectly complete enlightenment from the Tathāgata Dīpaṃkara?",
+  "gm": "Do you think there is any dharma whatsoever by which the Tathāgata fully awakened to unsurpassable, perfectly complete awakening from the Tathāgata Dīpaṃkara?"
+ },
+ {
+  "id": "8-91",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌།བཅོམ་ལྡན་འདས་ལ་ཚེ་དང༌ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "When he had spoken those words, the venerable Subhūti addressed the Blessed One as follows:",
+  "gm": "When he had said this, the venerable Subhūti said this to the Blessed One:"
+ },
+ {
+  "id": "8-92",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་སོ། །",
+  "dm": "Blessed One, there is no phenomenon whatsoever that the Tathāgata has fully realized as unsurpassed, perfectly complete enlightenment from the Tathāgata Dīpaṃkara.",
+  "gm": "Blessed One, there is no dharma whatsoever by which the Tathāgata fully awakened to unsurpassable, perfectly complete awakening from the Tathāgata Dīpaṃkara."
+ },
+ {
+  "id": "8-93",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "When he had spoken thus, the Blessed One addressed the venerable Subhūti in this way:",
+  "gm": "When he had said this, the Blessed One said this to the venerable Subhūti:"
+ },
+ {
+  "id": "8-94",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "dm": "Subhūti, it is so. It is just so.",
+  "gm": "Subhūti, it is so, it is so."
+ },
+ {
+  "id": "8-95",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་དོ། །",
+  "dm": "There is no phenomenon whatsoever that the Tathāgata has fully realized as unsurpassed, perfectly complete enlightenment from the Tathāgata Dīpaṃkara.",
+  "gm": "There is no dharma whatsoever by which the Tathāgata fully awakened to unsurpassable, perfectly complete awakening from the Tathāgata Dīpaṃkara."
+ },
+ {
+  "id": "8-96",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གལ་ཏེ་དེ་བཞིན་གཤེགས་པས་གང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་འགའ་ཞིག་ཡོད་པར་གྱུར་ན། དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ཀྱིས་ང་ལ་བྲམ་ཟེའི་ཁྱེའུ་ཁྱོད་མ་འོངས་པའི་དུས་ན། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ཞེས་བྱ་བར་འགྱུར་རོ། ། ཞེས་ལུང་མི་སྟོན་པ་ཞིག་ན།",
+  "dm": "Subhūti, if there were any phenomenon that the Tathāgata had fully realized as enlightenment, the Tathāgata Dīpaṃkara would not have given me the prophecy, saying, \"Young Brahmin, in a future time, you will become the Tathāgata, Arhat, Perfectly Complete Buddha named Śākyamuni.\"",
+  "gm": "Subhūti, if there had been some dharma by which the Tathāgata fully awakened, the Tathāgata Dīpaṃkara would not have prophesied to me, 'Brahmin boy, in a future time you will become a tathāgata, an arhat, a perfectly complete buddha named Śākyamuni.'"
+ },
+ {
+  "id": "8-97",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ལྟར་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་པས་",
+  "dm": "Subhūti, because there is no phenomenon whatsoever that the Tathāgata has fully realized as unsurpassed, perfectly complete enlightenment,",
+  "gm": "Subhūti, since there is no dharma whatsoever by which the Tathāgata fully awakened to unsurpassable, perfectly complete awakening,"
+ },
+ {
+  "id": "8-98",
+  "heading": false,
+  "bo": "དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ཀྱིས་ང་ལ་བྲམ་ཟེའི་ཁྱེའུ་ཁྱོད་མ་འོངས་པའི་དུས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ཞེས་བྱ་བར་འགྱུར་རོ་ཞེས་ལུང་བསྟན་ཏོ། །",
+  "dm": "for that reason, the Tathāgata Dīpaṃkara prophesied to me, \"Young Brahmin, in a future time, you will become the Tathāgata, Arhat, Perfectly Complete Buddha named Śākyamuni.\"",
+  "gm": "therefore the Tathāgata Dīpaṃkara prophesied to me, 'Brahmin boy, in a future time you will become a tathāgata, an arhat, a perfectly complete buddha named Śākyamuni.'"
+ },
+ {
+  "id": "8-99",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ཞེས་པ་ནི། ཡང་དག་པའི་དེ་བཞིན་ཉིད་ཀྱི་ཚིག་བླ་དྭགས་ཡིན་པའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Subhūti, because the term \"Tathāgata\" is a designation for the true suchness.",
+  "gm": "Why is that? Subhūti, 'Tathāgata' is a designation for true suchness."
+ },
+ {
+  "id": "8-100",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་ཞེས་ཟེར་ན། དེ་ལོག་པར་སྨྲ་བ་ཡིན་ནོ། །",
+  "dm": "Furthermore, Subhūti, if anyone were to say that the Tathāgata, the Arhat, the perfectly complete Buddha, has fully awakened to unsurpassed, perfectly complete enlightenment, that person is speaking falsely.",
+  "gm": "Furthermore, Subhūti, if anyone were to speak thus: 'The Tathāgata, the arhat, the perfectly complete buddha fully awakened to unsurpassable, perfectly complete awakening,' he would be speaking falsely."
+ },
+ {
+  "id": "8-101",
+  "heading": false,
+  "bo": "དེ་དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བརྗོད་དོ་",
+  "dm": "The Tathāgata speaks of them as \"bodhisattvas,\" calling them \"bodhisattvas.\"",
+  "gm": "That one is called 'a bodhisattva, a bodhisattva' by the Tathāgata."
+ },
+ {
+  "id": "8-102",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Subhūti, because there is no phenomenon whatsoever that the Tathāgata has fully awakened to as unsurpassed, perfectly complete enlightenment.",
+  "gm": "Why is that? Subhūti, it is because there is no dharma whatsoever by which the Tathāgata fully awakened to unsurpassable, perfectly complete awakening."
+ },
+ {
+  "id": "8-103",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཆོས་གང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ལ་བདེན་པའང་མེད། རྫུན་པ་ཡང་མེད་དོ། །",
+  "dm": "Subhūti, regarding the phenomena that the Tathāgata has fully awakened to, or what he has taught, there is neither truth nor falsehood.",
+  "gm": "Subhūti, in the dharma that the Tathāgata fully awakened to or taught, there is neither truth nor falsehood."
+ },
+ {
+  "id": "8-104",
+  "heading": false,
+  "bo": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་ཆོས་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་ཆོས་ཞེས་གསུངས་སོ། །",
+  "dm": "Therefore, the Tathāgata has declared that all phenomena are the qualities of a Buddha.",
+  "gm": "Therefore, the Tathāgata has taught that all dharmas are the Buddha's dharmas."
+ },
+ {
+  "id": "8-105",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ཆོས་ཐམས་ཅད་ཅེས་བྱ་བ་ནི། དེ་དག་ཐམས་ཅད་ཆོས་མེད་པ་ཡིན་ཏེ།",
+  "dm": "Subhūti, what are called \"all phenomena\" are all non-phenomena.",
+  "gm": "Subhūti, as for what is called 'all dharmas,' they are all non-dharmas."
+ },
+ {
+  "id": "8-106",
+  "heading": false,
+  "bo": "དེས་ན་ཆོས་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་ཆོས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, all phenomena are called the qualities of a Buddha.",
+  "gm": "Therefore, all dharmas are called the Buddha's dharmas."
+ },
+ {
+  "id": "8-107",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ལྟ་སྟེ་དཔེར་ན། སྐྱེས་བུ་ཞིག་མིའི་ལུས་དང་ལྡན་ཞིང་ལུས་ཆེན་པོར་གྱུར་པ་བཞིན་ནོ། །",
+  "dm": "Subhūti, it is like this: for example, a person who possesses a human body and has become a great body.",
+  "gm": "Subhūti, it is like, for example, a person endowed with a human body who has a large body."
+ },
+ {
+  "id": "8-108",
+  "heading": false,
+  "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་སྐྱེས་བུ་མིའི་ལུས་དང་ལྡན་ཞིང་ལུས་ཆེན་པོ་ཞེས་གང་གསུངས་པ་དེ། དེ་བཞིན་གཤེགས་པས་ལུས་མ་མཆིས་པར་གསུངས་ཏེ།",
+  "dm": "The venerable Subhūti replied, \"Blessed One, that which the Tathāgata has spoken of as a person possessing a human body and a great body, the Tathāgata has spoken of as having no body.\"",
+  "gm": "Venerable Subhūti said, \"Blessed One, as for what the Tathāgata has taught as 'a person endowed with a human body and having a large body', the Tathāgata has taught that as being without a body."
+ },
+ {
+  "id": "8-109",
+  "heading": false,
+  "bo": "དེས་ན་ལུས་དང་ལྡན་ཞིང་ལུས་ཆེན་པོ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called possessing a body and a great body.",
+  "gm": "Therefore, it is called 'endowed with a body and having a large body'.\""
+ },
+ {
+  "id": "8-110",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་བཞིན་ཏེ།",
+  "dm": "The Blessed One replied, \"Subhūti, it is so. It is just so.",
+  "gm": "The Blessed One said, \"Subhūti, so it is. So it is."
+ },
+ {
+  "id": "8-111",
+  "heading": false,
+  "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་འདི་སྐད་དུ་བདག་གིས་སེམས་ཅན་རྣམས་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ་ཞེས་ཟེར་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱའོ། །",
+  "dm": "If a bodhisattva were to say, 'I shall lead sentient beings to complete nirvana,' that one should not be called a bodhisattva.",
+  "gm": "If any bodhisattva were to speak thus: 'I shall cause sentient beings to completely pass into nirvāṇa,' he would not be called a bodhisattva."
+ },
+ {
+  "id": "8-112",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་བའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+  "dm": "Why is that? Subhūti, do you think that there is any phenomenon called a bodhisattva?",
+  "gm": "Why is that? Subhūti, do you think there is any dharma whatsoever called 'bodhisattva'?\""
+ },
+ {
+  "id": "8-113",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti said, \"Blessed One, that is not so.\""
+ },
+ {
+  "id": "8-114",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་བས་ན། དེ་བཞིན་གཤེགས་པས་ཆོས་ཐམས་ཅད་ནི་སེམས་ཅན་མེད་པ། སྲོག་མེད་པ། གང་ཟག་མེད་པའོ། །ཞེས་གསུངས་སོ། །",
+  "dm": "The Blessed One replied, \"Subhūti, therefore the Tathāgata has said that all phenomena are without sentient beings, without life, and without persons.\"",
+  "gm": "The Blessed One said, \"Subhūti, therefore, the Tathāgata has taught that all dharmas are without a sentient being, without a soul, without a person.\""
+ },
+ {
+  "id": "8-115",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་འདི་སྐད་དུ། བདག་གིས་ཞིང་བཀོད་པ་རྣམས་བསྒྲུབ་བོ་ཞེས་ཟེར་ན། དེ་ཡང་དེ་བཞིན་དུ་བརྗོད་པར་བྱའོ། །",
+  "dm": "Furthermore, Subhūti, if a bodhisattva were to say, \"I shall accomplish the arrays of buddhafields,\" that should also be spoken of in that same way.",
+  "gm": "Moreover, Subhūti, if any bodhisattva were to speak thus: 'I shall accomplish the arrays of the fields,' he too would be spoken of in the same way."
+ },
+ {
+  "id": "8-116",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཞིང་བཀོད་པ་རྣམས་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་བཀོད་པ་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, the so-called \"arrays of buddhafields, arrays of buddhafields\"—the Tathāgata has said that they are not arrays.",
+  "gm": "Why is that? Subhūti, as for what is called 'arrays of the fields, arrays of the fields', the Tathāgata has taught them as being without array."
+ },
+ {
+  "id": "8-117",
+  "heading": false,
+  "bo": "དེས་ན་ཞིང་བཀོད་པ་རྣམས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, they are called \"arrays of buddhafields.\"",
+  "gm": "Therefore, they are called 'arrays of the fields'."
+ },
+ {
+  "id": "8-118",
+  "heading": false,
+  "bo": "རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་འདི་སྐད་དུ། ཆོས་རྣམས་ནི་བདག་མེད་པ་ཆོས་རྣམས་ནི་བདག་མེད་པའོ་ཞེས་མོས་པ་དེ་ནི། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཞེས་བརྗོད་དོ། །",
+  "dm": "Subhūti, any bodhisattva who is convinced that \"phenomena are selfless, phenomena are selfless,\" is called a bodhisattva mahāsattva by the Tathāgata, the Arhat, the perfectly complete Buddha.",
+  "gm": "Subhūti, as for any bodhisattva who resolutely believes thus: 'dharmas are without self, dharmas are without self,' the Tathāgata, the Arhat, the Perfectly Complete Buddha calls him a 'bodhisattva, a great being'."
+ },
+ {
+  "id": "9-0",
+  "heading": true,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་སྤྱན་ལྔ་ཁྱད་པར་ཅན་མངའ་བ།",
+  "dm": "The Tathāgata’s Possession of the Five Extraordinary Eyes",
+  "gm": "The Tathāgata Possessing the Five Extraordinary Eyes"
+ },
+ {
+  "id": "9-1",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། དེ་བཞིན་གཤེགས་པ་ལ་ཤའི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Subhūti, what do you think? Do you think that the Tathāgata possesses the fleshly eye?",
+  "gm": "\"Subhūti, what do you think? Does the Tathāgata possess the physical eye?\""
+ },
+ {
+  "id": "9-2",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ཤའི་སྤྱན་མངའོ། །",
+  "dm": "Subhūti replied, \"It is so, Blessed One. The Tathāgata possesses the fleshly eye.\"",
+  "gm": "Subhūti said, \"Blessed One, it is so; the Tathāgata possesses the physical eye.\""
+ },
+ {
+  "id": "9-3",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?\"",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-4",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata possesses the divine eye?",
+  "gm": "\"Does the Tathāgata possess the divine eye?\""
+ },
+ {
+  "id": "9-5",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའོ། །",
+  "dm": "Subhūti replied, \"It is so, Blessed One. The Tathāgata possesses the divine eye.\"",
+  "gm": "Subhūti said, \"Blessed One, it is so; the Tathāgata possesses the divine eye.\""
+ },
+ {
+  "id": "9-6",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?\"",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-7",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ཤེས་རབ་ཀྱི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata possesses the eye of wisdom?",
+  "gm": "\"Does the Tathāgata possess the eye of wisdom?\""
+ },
+ {
+  "id": "9-8",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "dm": "Subhūti replied, \"It is so, Blessed One.",
+  "gm": "Subhūti said, \"Blessed One, it is so;\""
+ },
+ {
+  "id": "9-9",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ཤེས་རབ་ཀྱི་སྤྱན་མངའོ། །",
+  "dm": "The Tathāgata possesses the eye of wisdom.\"",
+  "gm": "\"the Tathāgata possesses the eye of wisdom.\""
+ },
+ {
+  "id": "9-10",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-11",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཀྱི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata possesses the Dharma eye?\"",
+  "gm": "\"Does the Tathāgata possess the Dharma eye?\""
+ },
+ {
+  "id": "9-12",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "dm": "Subhūti replied, \"It is so, Blessed One.",
+  "gm": "Subhūti said, \"Blessed One, it is so;\""
+ },
+ {
+  "id": "9-13",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཀྱི་སྤྱན་མངའོ། །",
+  "dm": "The Tathāgata possesses the Dharma eye.\"",
+  "gm": "\"the Tathāgata possesses the Dharma eye.\""
+ },
+ {
+  "id": "9-14",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-15",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་སངས་རྒྱས་ཀྱི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata possesses the Buddha eye?\"",
+  "gm": "\"Does the Tathāgata possess the Buddha eye?\""
+ },
+ {
+  "id": "9-16",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "dm": "Subhūti replied, \"It is so, Blessed One. It is so.",
+  "gm": "Subhūti said, \"Blessed One, it is so;\""
+ },
+ {
+  "id": "9-17",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་སངས་རྒྱས་ཀྱི་སྤྱན་མངའོ། །",
+  "dm": "The Tathāgata possesses the Buddha eye.\"",
+  "gm": "\"the Tathāgata possesses the Buddha eye.\""
+ },
+ {
+  "id": "9-18",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱི་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-19",
+  "heading": false,
+  "bo": "གངྒཱའི་ཀླུང་གི་བྱེ་མ་ཇི་སྙེད་པ་གངྒཱའི་ཀླུང་ཡང་དེ་སྙེད་ཁོ་ནར་གྱུར་ལ། དེ་དག་གི་བྱེ་མ་དེ་སྙེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་གྱུར་ན། འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མང་བ་ཡིན་སྙམ་མམ།",
+  "dm": "If there were as many Ganges Rivers as there are grains of sand in the Ganges River, and if there were as many world systems as there are grains of sand in all those rivers, would those world systems be numerous?",
+  "gm": "\"If there were just as many river Gaṅgās as there are grains of sand in the river Gaṅgā, and if there were as many world realms as there are grains of sand in those, do you think those world realms would be many?\""
+ },
+ {
+  "id": "9-20",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "dm": "Subhūti replied, \"It is so, Blessed One. It is so.",
+  "gm": "Subhūti said, \"Blessed One, it is so;\""
+ },
+ {
+  "id": "9-21",
+  "heading": false,
+  "bo": "འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མང་ལགས་སོ། །",
+  "dm": "Those world systems would be numerous.\"",
+  "gm": "\"those world realms are many.\""
+ },
+ {
+  "id": "9-22",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་ན་སེམས་ཅན་ཇི་སྙེད་ཡོད་པ་དེ་དག་གི་བསམ་པ་ཐ་དད་པའི་སེམས་ཀྱི་རྒྱུན་ངས་རབ་ཏུ་ཤེས་སོ། །",
+  "dm": "The Blessed One said: Subhūti, I fully know the streams of thought of all the sentient beings that exist in those world systems, with their various and diverse intentions.",
+  "gm": "The Blessed One said, \"Subhūti, I fully know the streams of mind of various dispositions of however many sentient beings there are in those world realms.\""
+ },
+ {
+  "id": "9-23",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཀྱི་རྒྱུན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱ་བ་ནི། དེ་རྒྱུན་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, the so-called \"stream of thought\" is spoken of by the Tathāgata as being without a stream.",
+  "gm": "\"Why is that? Subhūti, as for what is called 'stream of mind, stream of mind', the Tathāgata has taught it to be no stream.\""
+ },
+ {
+  "id": "9-24",
+  "heading": false,
+  "bo": "དེས་ན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called a \"stream of thought.\"",
+  "gm": "\"Therefore it is called 'stream of mind'.\""
+ },
+ {
+  "id": "9-25",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན།",
+  "dm": "Why is that?",
+  "gm": "Why is that?"
+ },
+ {
+  "id": "10-0",
+  "heading": true,
+  "bo": "སེམས་སེམས་བྱུང་།",
+  "dm": "Mind and Mental Factors",
+  "gm": "Mind and Mental Factors"
+ },
+ {
+  "id": "10-1",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདས་པའི་སེམས་ཀྱང་དམིགས་སུ་མེད།",
+  "dm": "Subhūti, the past mind is also unapprehendable.",
+  "gm": "Subhūti, the past mind cannot be apprehended."
+ },
+ {
+  "id": "10-2",
+  "heading": false,
+  "bo": "མ་འོངས་པའི་སེམས་ཀྱང་དམིགས་སུ་མེད།",
+  "dm": "The future mind is also unapprehendable.",
+  "gm": "The future mind cannot be apprehended."
+ },
+ {
+  "id": "10-3",
+  "heading": false,
+  "bo": "ད་ལྟར་བྱུང་བའི་སེམས་ཀྱང་དམིགས་སུ་མེད་པའི་ཕྱིར་རོ། །",
+  "dm": "It is because the present mind is also unapprehendable.",
+  "gm": "Because the present mind cannot be apprehended."
+ },
+ {
+  "id": "10-4",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "Subhūti, what do you think?"
+ },
+ {
+  "id": "10-5",
+  "heading": false,
+  "bo": "གང་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་ན། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་མང་དུ་བསྐྱེད་དམ།",
+  "dm": "If someone were to fill this trichiliocosm world system with the seven types of precious jewels and offer it as a gift, would that son or daughter of good family generate much merit on that basis?",
+  "gm": "If someone were to completely fill this three-thousandfold great thousandfold world realm with the seven precious substances and give it as a gift, would that son of noble family or daughter of noble family produce much merit on that basis?"
+ },
+ {
+  "id": "10-6",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མང་ལགས་སོ། །",
+  "dm": "Subhūti replied: \"Blessed One, it would be much.\"",
+  "gm": "Subhūti said, \"Blessed One, it is much.\""
+ },
+ {
+  "id": "10-7",
+  "heading": false,
+  "bo": "བདེ་བར་གཤེགས་པ་མང་ལགས་སོ། །",
+  "dm": "Sugata, it would be much.",
+  "gm": "\"Sugata, it is much.\""
+ },
+ {
+  "id": "10-8",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "dm": "The Blessed One replied, \"Subhūti, it is so. It is just so.",
+  "gm": "The Blessed One said, \"Subhūti, it is so; it is so.\""
+ },
+ {
+  "id": "10-9",
+  "heading": false,
+  "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་མང་དུ་བསྐྱེད་དོ། །",
+  "dm": "That son or daughter of good family would generate a great heap of merit on that basis.\"",
+  "gm": "That son of noble family or daughter of noble family would produce a great heap of merit on that basis."
+ },
+ {
+  "id": "10-10",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་གལ་ཏེ་བསོད་ནམས་ཀྱི་ཕུང་པོ་བསོད་ནམས་ཀྱི་ཕུང་པོར་གྱུར་པ་ན། བསོད་ནམས་ཀྱི་ཕུང་པོ་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཞེས་དེ་བཞིན་གཤེགས་པ་མི་གསུང་ངོ་། །",
+  "dm": "Furthermore, Subhūti, if a mass of merit were to become a mass of merit, the Tathāgata would not speak of it as a \"mass of merit.\"",
+  "gm": "Moreover, Subhūti, if a heap of merit were a heap of merit, the Tathāgata would not speak of 'a heap of merit, a heap of merit'."
+ },
+ {
+  "id": "10-11",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "Subhūti, what do you think?"
+ },
+ {
+  "id": "10-12",
+  "heading": false,
+  "bo": "གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata should be viewed by means of the perfection of his form body?",
+  "gm": "Do you think the Tathāgata is to be seen by the perfect accomplishment of the form body?"
+ },
+ {
+  "id": "10-13",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti said, \"Blessed One, it is not so.\""
+ },
+ {
+  "id": "10-14",
+  "heading": false,
+  "bo": "གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+  "dm": "The Tathāgata should not be viewed by means of the perfection of his form body.",
+  "gm": "The Tathāgata is not to be seen by the perfect accomplishment of the form body."
+ },
+ {
+  "id": "10-15",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པ་ཞེས་བགྱི་བ་ནི། དེ་ཡོངས་སུ་གྲུབ་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Blessed One, it is because the perfection of the form body, as spoken of by the Tathāgata, is spoken of by the Tathāgata as the non-perfection of it.",
+  "gm": "Why is that? Blessed One, it is because what is called the 'perfect accomplishment of the form body' has been spoken of by the Tathāgata as no perfect accomplishment."
+ },
+ {
+  "id": "10-16",
+  "heading": false,
+  "bo": "དེས་ན་གཟུགས་ཀྱི་སྐུ་ཡོངས་སུ་གྲུབ་པ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called the perfection of the form body.",
+  "gm": "Therefore it is called the 'perfect accomplishment of the form body'."
+ },
+ {
+  "id": "10-17",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "10-18",
+  "heading": false,
+  "bo": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata should be viewed by means of the perfection of his marks?\"",
+  "gm": "Do you think the Tathāgata is to be seen by the perfection of marks?"
+ },
+ {
+  "id": "10-19",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not so.",
+  "gm": "Subhūti said, \"Blessed One, it is not so.\""
+ },
+ {
+  "id": "10-20",
+  "heading": false,
+  "bo": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+  "dm": "The Tathāgata should not be viewed by means of the perfection of his marks.",
+  "gm": "The Tathāgata is not to be seen by the perfection of marks."
+ },
+ {
+  "id": "10-21",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། དེ་བཞིན་གཤེགས་པས་མཚན་ཕུན་སུམ་ཚོགས་པ་གང་གསུངས་པ་དེ། མཚན་ཕུན་སུམ་ཚོགས་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? Because the perfection of marks that the Tathāgata has spoken of, the Tathāgata has spoken of as being the non-perfection of marks.",
+  "gm": "Why is that? Because whatever perfection of marks has been spoken of by the Tathāgata, it has been spoken of by the Tathāgata as no perfection of marks."
+ },
+ {
+  "id": "10-22",
+  "heading": false,
+  "bo": "དེས་ན་མཚན་ཕུན་སུམ་ཚོགས་པ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called the perfection of marks.",
+  "gm": "Therefore it is called the 'perfection of marks'."
+ },
+ {
+  "id": "10-23",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "10-24",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་འདི་སྙམ་དུ་ངས་ཆོས་བསྟན་ཏོ་ཞེས་དགོངས་སོ་སྙམ་ན། རབ་འབྱོར་དེ་དེ་ལྟར་མི་ལྟ་སྟེ།",
+  "dm": "If you think that the Tathāgata considers, 'I have taught the Dharma,' Subhūti, do not view it in that way.",
+  "gm": "If you think the Tathāgata thinks, 'I have taught the Dharma,' Subhūti, do not view it like that."
+ },
+ {
+  "id": "10-25",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་གང་བསྟན་པའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+  "dm": "It is because there is no phenomenon whatsoever that the Tathāgata has taught.",
+  "gm": "Because there is no Dharma whatsoever that has been taught by the Tathāgata."
+ },
+ {
+  "id": "10-26",
+  "heading": false,
+  "bo": "རབ་འབྱོར་སུ་ཞིག་འདི་སྐད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་བསྟན་ཏོ་ཞེས་ཟེར་ན། རབ་འབྱོར་དེ་ནི་མེད་པ་དང་ལོག་པར་ཟིན་པས་ང་ལ་སྐུར་བར་འགྱུར་རོ། །",
+  "dm": "Subhūti, if anyone were to say that the Tathāgata has taught a Dharma, that person would be speaking falsely and would be slandering me, because they have grasped at what is non-existent.",
+  "gm": "Subhūti, if anyone says that the Tathāgata has taught the Dharma, Subhūti, they would slander me by grasping at what is non-existent and false."
+ },
+ {
+  "id": "10-27",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཆོས་བསྟན་པ་ཞེས་བྱ་བ་ནི་གང་ཆོས་བསྟན་པ་ཆོས་བསྟན་པ་ཞེས་བྱ་བར་དམིགས་པར་འགྱུར་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Subhūti, that which is called \"teaching the Dharma\" is such that there is no phenomenon whatsoever that can be apprehended as \"teaching the Dharma\" or \"the Dharma that is taught.\"",
+  "gm": "Why is that? Subhūti, as for what is called 'teaching the Dharma', there is no Dharma whatsoever that can be apprehended as 'teaching the Dharma'."
+ },
+ {
+  "id": "10-28",
+  "heading": false,
+  "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "Then, the venerable Subhūti addressed the Blessed One in this way:",
+  "gm": "Then the venerable Subhūti said this to the Blessed One:"
+ },
+ {
+  "id": "10-29",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་མ་འོངས་པའི་དུས་ན། སེམས་ཅན་གང་དག་འདི་ལྟ་བུའི་ཆོས་བཤད་པ་འདི་ཐོས་ནས། མངོན་པར་ཡིད་ཆེས་པར་འགྱུར་བ་འབྱུང་བ་ལྟ་མཆིས་ལགས་སམ།",
+  "dm": "Blessed One, in future times, will there be sentient beings who, upon hearing such an explanation of the Dharma as this, will give rise to true faith?",
+  "gm": "\"Blessed One, in the future, will there be any sentient beings who, having heard such a teaching of the Dharma, will come to truly believe it?\""
+ },
+ {
+  "id": "10-30",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དག་ནི་སེམས་ཅན་ཡང་མ་ཡིན། སེམས་ཅན་མེད་པ་ཡང་མ་ཡིན་ནོ། །",
+  "dm": "The Blessed One replied, \"Subhūti, those are neither sentient beings nor are they non-sentient beings.\"",
+  "gm": "The Blessed One said, \"Subhūti, they are neither sentient beings, nor are they not sentient beings."
+ },
+ {
+  "id": "10-31",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཅན་རྣམས་ཞེས་བྱ་བ་ནི། དེ་བཞིན་གཤེགས་པས་དེ་དག་སེམས་ཅན་མེད་པར་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, it is because the Tathāgata has taught that those who are called sentient beings are not sentient beings.",
+  "gm": "Why is that? Subhūti, as for what are called 'sentient beings', it is because they have been spoken of by the Tathāgata as no sentient beings."
+ },
+ {
+  "id": "10-32",
+  "heading": false,
+  "bo": "དེ་བས་ན་སེམས་ཅན་རྣམས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, they are called sentient beings.",
+  "gm": "Therefore they are called 'sentient beings'.\""
+ },
+ {
+  "id": "10-33",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "\"Subhūti, what do you think?"
+ },
+ {
+  "id": "10-34",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+  "dm": "Do you think, Subhūti, that there is any dharma whatsoever by which the Tathāgata has fully awakened to unsurpassed, perfect, and complete enlightenment?",
+  "gm": "Do you think there is any dharma whatsoever that the Tathāgata has fully awakened to as the unexcelled, perfectly complete awakening?\""
+ },
+ {
+  "id": "10-35",
+  "heading": false,
+  "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
+  "dm": "The venerable Subhūti replied, \"Blessed One, there is no dharma whatsoever by which the Tathāgata has fully awakened to unsurpassed, perfect, and complete enlightenment.\"",
+  "gm": "The venerable Subhūti said, \"Blessed One, there is no dharma whatsoever that the Tathāgata has fully awakened to as the unexcelled, perfectly complete awakening.\""
+ },
+ {
+  "id": "10-36",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "dm": "The Blessed One said, \"Subhūti, it is so. It is just so.\"",
+  "gm": "The Blessed One said, \"Subhūti, so it is, so it is."
+ },
+ {
+  "id": "10-37",
+  "heading": false,
+  "bo": "དེ་ལ་ཆོས་ཅུང་ཟད་ཀྱང་མི་དམིགས་ཤིང་མེད་དེ།",
+  "dm": "For there is not the slightest dharma to be conceptually observed or to exist.",
+  "gm": "In it, not even the slightest dharma is apprehended or exists;"
+ },
+ {
+  "id": "10-38",
+  "heading": false,
+  "bo": "དེས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཅེས་བྱའོ། །",
+  "dm": "Therefore, it is called unsurpassed, perfect, and complete enlightenment.",
+  "gm": "therefore it is called 'unexcelled, perfectly complete awakening.'"
+ },
+ {
+  "id": "10-39",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་ཆོས་དེ་ནི་མཉམ་པ་སྟེ།",
+  "dm": "Furthermore, Subhūti, that dharma is equal;",
+  "gm": "Furthermore, Subhūti, that dharma is equal;"
+ },
+ {
+  "id": "10-40",
+  "heading": false,
+  "bo": "དེ་ལ་མི་མཉམ་པ་དང་མཉམ་པ་གང་ཡང་མེད་པས། དེས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཅེས་བྱའོ། །",
+  "dm": "Since there is nothing whatsoever that is unequal or equal, it is called unsurpassed, perfect, and complete enlightenment.",
+  "gm": "because there is nothing whatsoever unequal or equal in it, therefore it is called 'unexcelled, perfectly complete awakening'.\""
+ },
+ {
+  "id": "10-41",
+  "heading": false,
+  "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་དེ་ནི་བདག་མེད་པ་དང༌། སེམས་ཅན་མེད་པ་དང༌། སྲོག་མེད་པ་དང༌། གང་ཟག་མེད་པར་མཉམ་པ་སྟེ།",
+  "dm": "That unsurpassed, perfect, and complete enlightenment is equal in being without a self, without a sentient being, without a life-force, and without a person;",
+  "gm": "That unexcelled, perfectly complete awakening is equal in being without a self, without a sentient being, without a living soul, and without a person;"
+ },
+ {
+  "id": "10-42",
+  "heading": false,
+  "bo": "དགེ་བའི་ཆོས་ཐམས་ཅད་ཀྱིས་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ། །",
+  "dm": "it is perfectly and completely awakened through all wholesome dharmas.",
+  "gm": "it is fully awakened to by means of all wholesome dharmas."
+ },
+ {
+  "id": "10-43",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དགེ་བའི་ཆོས་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་ཆོས་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
+  "dm": "Subhūti, as for what are called \"wholesome dharmas,\" the Tathāgata has taught that they are devoid of the nature of dharmas;",
+  "gm": "Subhūti, as for what are called 'wholesome dharmas', the Tathāgata has spoken of them as being exactly non-dharmas;"
+ },
+ {
+  "id": "10-44",
+  "heading": false,
+  "bo": "དེས་ན་དགེ་བའི་ཆོས་རྣམས་ཞེས་བྱའོ། །",
+  "dm": "therefore, they are called \"wholesome dharmas.\"",
+  "gm": "therefore they are called 'wholesome dharmas'."
+ },
+ {
+  "id": "10-45",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་རིའི་རྒྱལ་པོ་རི་རབ་དག་ཇི་སྙེད་ཡོད་པ་དེ་ཙམ་གྱི་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་ཕུང་པོ་མངོན་པར་བསྡུས་ཏེ། སྦྱིན་པ་བྱིན་པ་བས་གང་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་བཟུང་ནས་གཞན་དག་ལ་ཡང་བསྟན་ན། རབ་འབྱོར་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ་དེས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ་བ་ནས་རྒྱུའི་བར་དུ་ཡང་མི་བཟོད་དོ། །",
+  "dm": "Furthermore, Subhūti, if any son or daughter of noble family were to gather a heap of the seven precious substances equal in size to as many Mount Merus, the kings of mountains, as there are in the trichiliocosm, and give them as a gift, and if another person were to take from this Perfection of Wisdom even just a four-line stanza and teach it to others, Subhūti, that former heap of merit would not approach even a hundredth part of the latter, nor would it bear comparison, even up to the point of calculation.",
+  "gm": "Furthermore, Subhūti, compared to any son of noble family or daughter of noble family who, having collected heaps of the seven precious substances equal in amount to however many Sumerus, kings of mountains, there are in the three thousand grand thousand world systems, gives them as a gift, if someone were to take up even just a single four-line stanza from this perfection of wisdom and teach it to others, Subhūti, that former heap of merit does not approach even a hundredth part of this one, up to not even bearing comparison."
+ },
+ {
+  "id": "10-46",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "Subhūti, what do you think of this?"
+ },
+ {
+  "id": "10-47",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་འདི་སྙམ་དུ་ངས་སེམས་ཅན་རྣམས་བཀྲོལ་ལོ་ཞེས་དགོངས་སོ་སྙམ་ན། རབ་འབྱོར་དེ་ལྟར་མི་བལྟའོ། །",
+  "dm": "If you think that the Tathāgata considers, \"I have liberated sentient beings,\" Subhūti, do not view it in that way.",
+  "gm": "If you think the Tathāgata intends, 'I shall liberate sentient beings,' Subhūti, it should not be seen like that."
+ },
+ {
+  "id": "10-48",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་གང་བཀྲོལ་བའི་སེམས་ཅན་དེ་དག་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Subhūti, it is because there are no sentient beings whatsoever that have been liberated by the Tathāgata.",
+  "gm": "Why is that? Because, Subhūti, there are no sentient beings whatsoever who are liberated by the Tathāgata."
+ },
+ {
+  "id": "10-49",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གལ་ཏེ་དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་གང་ལ་ལ་ཞིག་བཀྲོལ་བར་གྱུར་ན། དེ་ཉིད་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་འཛིན་པར་འགྱུར།",
+  "dm": "Subhūti, if the Tathāgata were to liberate any sentient being whatsoever, that would be the Tathāgata grasping at a self.",
+  "gm": "Subhūti, if the Tathāgata were to have liberated any sentient beings whatsoever, that itself would be an apprehension of a self by the Tathāgata,"
+ },
+ {
+  "id": "10-50",
+  "heading": false,
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་རོ། །",
+  "dm": "It would be grasping at a sentient being, grasping at a life-force, and grasping at a person.",
+  "gm": "an apprehension of a sentient being, an apprehension of a living soul, and an apprehension of a person."
+ },
+ {
+  "id": "10-51",
+  "heading": false,
+  "bo": "རབ་འབྱོར་བདག་ཏུ་འཛིན་ཅེས་བྱ་བ་ནི། འཛིན་པ་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ན། དེ་ཡང་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཀྱི་བཟུང་ངོ་། །",
+  "dm": "Subhūti, what is called \"grasping at a self\" has been declared by the Tathāgata to be \"non-grasping,\" yet it is grasped by immature ordinary beings.",
+  "gm": "Subhūti, as for what is called 'apprehension of a self', the Tathāgata has spoken of it as non-apprehension; yet it is apprehended by childish ordinary beings."
+ },
+ {
+  "id": "10-52",
+  "heading": false,
+  "bo": "རབ་འབྱོར་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་སྐྱེ་བོ་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
+  "dm": "Subhūti, as for what are called \"immature ordinary beings,\" the Tathāgata has declared them to be non-beings.",
+  "gm": "Subhūti, as for what are called 'childish ordinary beings', the Tathāgata has spoken of them as being exactly non-beings;"
+ },
+ {
+  "id": "10-53",
+  "heading": false,
+  "bo": "དེས་ན་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, they are called \"immature ordinary beings.\"",
+  "gm": "therefore they are called 'childish ordinary beings'."
+ },
+ {
+  "id": "10-54",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "Subhūti, what do you think of this?"
+ },
+ {
+  "id": "10-55",
+  "heading": false,
+  "bo": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata should be seen by means of his perfect marks?",
+  "gm": "Do you think that the Tathāgata is to be seen by the perfection of his marks?"
+ },
+ {
+  "id": "10-56",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not so.\"",
+  "gm": "Subhūti said, 'Blessed One, it is not so.'"
+ },
+ {
+  "id": "10-57",
+  "heading": false,
+  "bo": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+  "dm": "\"The Tathāgata should not be seen by means of his perfect marks.\"",
+  "gm": "The Tathāgata is not to be seen by the perfection of his marks.'"
+ },
+ {
+  "id": "10-58",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "dm": "The Blessed One replied, \"Subhūti, it is so. It is just so.",
+  "gm": "The Blessed One said, 'Subhūti, it is so. It is exactly so;"
+ },
+ {
+  "id": "10-59",
+  "heading": false,
+  "bo": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བྱ་སྟེ།",
+  "dm": "The Tathāgata should not be seen by means of his perfect marks.",
+  "gm": "the Tathāgata is not to be seen by the perfection of his marks."
+ },
+ {
+  "id": "10-60",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གལ་ཏེ་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་འགྱུར་ན། འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་ཡང་དེ་བཞིན་གཤེགས་པར་འགྱུར་ཏེ།",
+  "dm": "Subhūti, if the Tathāgata were to be seen by means of his perfect marks, then a wheel-turning monarch would also be a Tathāgata.\"",
+  "gm": "Subhūti, if the Tathāgata were to be seen by the perfection of his marks, a wheel-turning king would also be a Tathāgata;"
+ },
+ {
+  "id": "10-61",
+  "heading": false,
+  "bo": "དེ་བས་ན་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བྱའོ། །",
+  "dm": "Therefore, the Tathāgata should not be seen by means of his perfect marks.",
+  "gm": "therefore, the Tathāgata is not to be seen by the perfection of his marks.'"
+ },
+ {
+  "id": "10-62",
+  "heading": false,
+  "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "Then, the venerable Subhūti addressed the Blessed One in this way:",
+  "gm": "Then the venerable Subhūti spoke thus to the Blessed One:"
+ },
+ {
+  "id": "10-63",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བདག་གིས་ཇི་ལྟར་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པའི་དོན་འཚལ་བ་ལྟར་ན། མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+  "dm": "\"Blessed One, as I understand the meaning of what the Blessed One has said, the Tathāgata should not be seen by means of his perfect marks.\"",
+  "gm": "'Blessed One, as I understand the meaning of what the Blessed One has spoken, the Tathāgata is not to be seen by the perfection of his marks.'"
+ },
+ {
+  "id": "10-64",
+  "heading": false,
+  "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །",
+  "dm": "Then, at that time, the Blessed One spoke these verses:",
+  "gm": "Then, at that time, the Blessed One spoke these verses:"
+ },
+ {
+  "id": "11-0",
+  "heading": true,
+  "bo": "འབྲས་བུ་ཆོས་སྐུ།",
+  "dm": "The Fruition of the Dharmakāya",
+  "gm": "The Resultant Dharmakāya"
+ },
+ {
+  "id": "11-1",
+  "heading": false,
+  "bo": "གང་དག་ང་ལ་གཟུགས་སུ་མཐོང༌། །གང་དག་ང་ལ་སྒྲར་ཤེས་པ། །ལོག་པའི་ལམ་དུ་ཞུགས་པ་སྟེ། །",
+  "dm": "Those who see me as form, those who perceive me as sound, have entered upon a mistaken path;",
+  "gm": "'Those who see me by form, those who know me by sound, have set out on a wrong path;"
+ },
+ {
+  "id": "11-2",
+  "heading": false,
+  "bo": "སྐྱེ་བོ་དེ་དག་ང་མི་མཐོང༌། །",
+  "dm": "Those people do not see me.",
+  "gm": "those people do not see me."
+ },
+ {
+  "id": "11-3",
+  "heading": false,
+  "bo": "སངས་རྒྱས་རྣམས་ནི་ཆོས་ཉིད་ལྟ། །",
+  "dm": "The Buddhas are to be seen as the nature of reality.",
+  "gm": "The Buddhas are to be seen as the nature of phenomena."
+ },
+ {
+  "id": "11-4",
+  "heading": false,
+  "bo": "འདྲེན་པ་རྣམས་ནི་ཆོས་ཀྱི་སྐུ། །ཆོས་ཉིད་ཤེས་པར་བྱ་མིན་པས། །དེ་ནི་རྣམ་པར་ཤེས་མི་ནུས། །",
+  "dm": "The guides are the Dharmakāya; since the nature of reality is not an object to be known, it cannot be cognized.",
+  "gm": "The guides are the body of Dharma. Since the nature of phenomena is not an object of knowledge, it cannot be cognized.'"
+ },
+ {
+  "id": "11-5",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "'Subhūti, what do you think?"
+ },
+ {
+  "id": "11-6",
+  "heading": false,
+  "bo": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་ཁྱོད་ཀྱིས་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ།",
+  "dm": "If you think that the Tathāgata, the Arhat, the perfectly complete Buddha, has fully awakened to perfect enlightenment by means of the perfection of marks, Subhūti, you should not view it in that way.",
+  "gm": "If you think that the Tathāgata, the Arhat, became fully awakened to perfect and full awakening by the perfection of his marks, Subhūti, you should not see it like that."
+ },
+ {
+  "id": "11-7",
+  "heading": false,
+  "bo": "རབ་འབྱོར་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་མེད་དོ། །",
+  "dm": "Subhūti, there is no Tathāgata, Arhat, perfectly complete Buddha who has fully awakened to perfect enlightenment by means of the perfection of marks.",
+  "gm": "Subhūti, the Tathāgata, the Arhat, did not become fully awakened to perfect and full awakening by the perfection of his marks."
+ },
+ {
+  "id": "11-8",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ཁྱོད་འདི་སྙམ་དུ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ལ་ལ་ཞིག་རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པའོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་དེ་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ།",
+  "dm": "Subhūti, if you think that those who have correctly entered the bodhisattva vehicle hold the view that any phenomenon is destroyed or designated as cut off, Subhūti, you should not view it in that way.",
+  "gm": "Subhūti, if you think that those who have genuinely set out in the Bodhisattva vehicle have destroyed some phenomenon or designated it as annihilated, Subhūti, it should not be seen like that."
+ },
+ {
+  "id": "11-9",
+  "heading": false,
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ། །",
+  "dm": "Those who have correctly entered the bodhisattva vehicle do not hold that any phenomenon is destroyed or designated as cut off.",
+  "gm": "Those who have genuinely set out in the Bodhisattva vehicle have not destroyed any phenomenon or designated it as annihilated."
+ },
+ {
+  "id": "11-10",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། བྱང་ཆུབ་སེམས་དཔའ་གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བདག་མེད་ཅིང་སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆོས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "dm": "Furthermore, Subhūti, if a son or daughter of noble family were to fill as many world systems as there are grains of sand in the river Ganges with the seven types of precious jewels and give them as a gift, and if a bodhisattva were to gain patience in the realization that phenomena are without self and unborn, then that bodhisattva would generate a mass of merit far greater, immeasurable, and incalculable than that.",
+  "gm": "Moreover, Subhūti, if a son of good family or a daughter of good family were to fill as many world systems as there are grains of sand in the river Ganges with the seven precious things and give them as a gift, and if a Bodhisattva were to attain the patience that this Dharma-discourse is selfless and unproduced, he would produce from that basis a mass of merit vastly greater, incalculable and immeasurable."
+ },
+ {
+  "id": "11-11",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བྱའོ། །",
+  "dm": "Furthermore, Subhūti, a bodhisattva should not take hold of a mass of merit.",
+  "gm": "Moreover, Subhūti, a Bodhisattva should not fully acquire a mass of merit."
+ },
+ {
+  "id": "11-12",
+  "heading": false,
+  "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བགྱི་ལགས་སམ།",
+  "dm": "The venerable Subhūti asked, \"Blessed One, should a bodhisattva not take hold of a mass of merit?\"",
+  "gm": "Venerable Subhūti asked, 'Blessed One, should a Bodhisattva not fully acquire a mass of merit?'"
+ },
+ {
+  "id": "11-13",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་ཡོངས་སུ་གཟུང་མོད་ཀྱིས། ལོག་པར་མི་བཟུང་སྟེ་",
+  "dm": "The Blessed One replied, \"Subhūti, one may indeed take hold of it, but one should not take hold of it wrongly.",
+  "gm": "The Blessed One said, 'Subhūti, he does fully acquire it, but he does not acquire it erroneously;"
+ },
+ {
+  "id": "11-14",
+  "heading": false,
+  "bo": "དེས་ན་ཡོངས་སུ་གཟུང་བ་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called 'taking hold'.\"",
+  "gm": "therefore it is called \"fully acquiring\".'"
+ },
+ {
+  "id": "11-15",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པ་བཞུད་དམ་བྱོན་ཏམ། བཞེངས་སམ། བཞུགས་སམ། མནལ་བར་མཛད་དོ་ཞེས་ཟེར་ན། དེས་ངས་བཤད་པའི་དོན་མི་ཤེས་སོ། །",
+  "dm": "Furthermore, Subhūti, if anyone were to say that the Tathāgata comes or goes, stands, sits, or lies down, that person does not understand the meaning of what I have taught.",
+  "gm": "Moreover, Subhūti, if anyone were to say that the Tathāgata goes, or comes, or stands, or sits, or lies down, he does not understand the meaning of what I have taught."
+ },
+ {
+  "id": "11-16",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་ནི། གར་ཡང་མ་བཞུད། གང་ནས་ཀྱང་མ་བྱོན་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, the one called Tathāgata does not go anywhere, nor does he come from anywhere.",
+  "gm": "Why is that? Subhūti, the one called \"the Tathāgata\" has not gone anywhere and has not come from anywhere."
+ },
+ {
+  "id": "11-17",
+  "heading": false,
+  "bo": "དེས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, he is called the Tathāgata, the Arhat, the Perfectly Complete Buddha.",
+  "gm": "Therefore he is called the Tathāgata, the Arhat, the perfectly and fully awakened Buddha."
+ },
+ {
+  "id": "12-0",
+  "heading": true,
+  "bo": "རྡུལ་ཕྲ་རབ།",
+  "dm": "The Most Minute Particles",
+  "gm": "Subtle Particles"
+ },
+ {
+  "id": "12-1",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས། སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་དེ་དག །འདི་ལྟ་སྟེ་དཔེར་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་བཞིན་དུ་ཕྱེ་མར་བྱས་ན། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་དེ་མང་བ་ཡིན་སྙམ་མམ།",
+  "dm": "Furthermore, Subhūti, if a noble son or a noble daughter were to take all the earth-dust particles in the trichiliocosm world-system and reduce them to a collection of the finest atoms, what do you think, Subhūti? Would that collection of the finest atoms be numerous?",
+  "gm": "Moreover, Subhūti, if any son of good family or daughter of good family were to grind as many particles of earth as there are in the trichiliocosm, the great thousandfold world system, into powder so that they become, for example, like a mass of fine atoms, what do you think, Subhūti, would that mass of fine atoms be large?"
+ },
+ {
+  "id": "12-2",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "dm": "Subhūti replied, \"It is so, Bhagavan.",
+  "gm": "Subhūti said, 'Blessed One, it is so;"
+ },
+ {
+  "id": "12-3",
+  "heading": false,
+  "bo": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་དེ་མང་བ་ལགས་སོ། །",
+  "dm": "That collection of the finest atoms would be numerous.\"",
+  "gm": "that mass of fine atoms would be large."
+ },
+ {
+  "id": "12-4",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཤིག་མཆིས་པར་གྱུར་ན། བཅོམ་ལྡན་འདས་ཀྱིས་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་བཀའ་མི་སྩོལ་བའི་སླད་དུའོ། །",
+  "dm": "Why is that? Bhagavan, if a collection of the finest atoms were to exist, the Bhagavan would not have spoken of a \"collection of the finest atoms.\"",
+  "gm": "Why is that? Blessed One, if a mass of fine atoms existed, the Blessed One would not have spoken of a \"mass of fine atoms\"."
+ },
+ {
+  "id": "12-5",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་གང་གསུངས་པ་དེ་ཚོགས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པའི་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "dm": "Why is that? It is because what the Bhagavan has spoken of as a \"collection of the finest atoms,\" the Tathāgata has spoken of as not being a collection.",
+  "gm": "Why is that? Because what the Blessed One has spoken of as a \"mass of fine atoms\", the Tathāgata has taught as no mass;"
+ },
+ {
+  "id": "12-6",
+  "heading": false,
+  "bo": "དེས་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called a \"collection of the finest atoms.\"",
+  "gm": "therefore it is called a \"mass of fine atoms\"."
+ },
+ {
+  "id": "12-7",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་གང་གསུངས་པ་དེ་ཁམས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
+  "dm": "What the Tathāgata has spoken of as a \"three-thousandfold great thousand world system,\" the Tathāgata has spoken of as not being a world system.",
+  "gm": "What the Tathāgata has spoken of as the \"trichiliocosm, the great thousandfold world system\", the Tathāgata has taught as no system;"
+ },
+ {
+  "id": "12-8",
+  "heading": false,
+  "bo": "དེས་ན་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called a \"three-thousandfold great thousand world system.\"",
+  "gm": "therefore it is called the \"trichiliocosm, the great thousandfold world system\".'"
+ },
+ {
+  "id": "12-9",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་འཇིག་རྟེན་གྱི་ཁམས་ཤིག་མཆིས་པར་གྱུར་ན། དེ་ཉིད་རིལ་པོར་འཛིན་པར་འགྱུར་བའི་སླད་དུའོ། །",
+  "dm": "Why is that? Bhagavan, if a world system were to exist, it would be grasping at a totality.",
+  "gm": "Why is that? Blessed One, if a world system existed, that itself would be grasping at a solid mass."
+ },
+ {
+  "id": "12-10",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་རིལ་པོར་འཛིན་པར་གསུངས་པ་དེ་འཛིན་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "dm": "What the Tathāgata has spoken of as grasping at a totality, the Tathāgata has spoken of as not being a grasping, and for that reason it is so.",
+  "gm": "Because what the Tathāgata has spoken of as 'grasping at a solid mass', the Tathāgata has taught as no grasping;"
+ },
+ {
+  "id": "12-11",
+  "heading": false,
+  "bo": "དེས་ན་རིལ་པོར་འཛིན་པ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called \"grasping at a totality.\"",
+  "gm": "therefore it is called 'grasping at a solid mass'."
+ },
+ {
+  "id": "12-12",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་རིལ་པོར་འཛིན་པ་ཉིད་ནི་ཐ་སྙད་དེ།",
+  "dm": "The Blessed One replied, \"Subhūti, grasping at a totality is merely a conventional designation.\"",
+  "gm": "The Blessed One said: Subhūti, 'grasping at a solid mass' is itself merely a convention;"
+ },
+ {
+  "id": "12-13",
+  "heading": false,
+  "bo": "ཆོས་དེ་ནི་བརྗོད་དུ་མེད་པ་ཡིན་ན། དེ་ཡང་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཀྱིས་གཟུང་ངོ་། །",
+  "dm": "That phenomenon is inexpressible, yet it is grasped by immature ordinary beings.",
+  "gm": "that dharma is inexpressible, yet it is grasped by ordinary childish beings."
+ },
+ {
+  "id": "12-14",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གསུངས།",
+  "dm": "Subhūti, if someone were to say, \"The Tathāgata has spoken of a view of a self,\"",
+  "gm": "Subhūti, if anyone were to say: 'The Tathāgata has spoken of the view of a self,"
+ },
+ {
+  "id": "12-15",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་དུ་ལྟ་བ་དང༌། སྲོག་ཏུ་ལྟ་བ་དང༌། གང་ཟག་ཏུ་ལྟ་བར་གསུངས་སོ། །ཞེས་ཟེར་ན་དེ་ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ཡིན་ནམ།",
+  "dm": "and were to say, \"The Tathāgata has spoken of a view of a sentient being, a view of a life-force, and a view of a person,\" would that person be speaking correctly?",
+  "gm": "the Tathāgata has spoken of the view of a sentient being, the view of a living soul, and the view of a person'—if they said that, would they be speaking truthfully?"
+ },
+ {
+  "id": "12-16",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "Subhūti replied, \"No, Blessed One, it is not.\"",
+  "gm": "Subhūti replied: Blessed One, they would not."
+ },
+ {
+  "id": "12-17",
+  "heading": false,
+  "bo": "བདེ་བར་གཤེགས་པ་དེ་ནི་མ་ལགས་སོ། །",
+  "dm": "\"It is not so, Sugata.\"",
+  "gm": "Sugata, they would not."
+ },
+ {
+  "id": "12-18",
+  "heading": false,
+  "bo": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གང་གསུངས་པ་དེ་ནི་ལྟ་བ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "dm": "\"Why is that? Because, Blessed One, what the Tathāgata has spoken of as a view of a self, the Tathāgata has spoken of as a non-view; that is why it is called a view of a self.\"",
+  "gm": "Why is that? Blessed One, what the Tathāgata has spoken of as the view of a self, the Tathāgata has spoken of as no view."
+ },
+ {
+  "id": "12-19",
+  "heading": false,
+  "bo": "དེས་ན་བདག་ཏུ་ལྟ་བ་ཞེས་བགྱིའོ། །",
+  "dm": "Therefore, it is called a view of a self.",
+  "gm": "Therefore it is called 'the view of a self'."
+ },
+ {
+  "id": "12-20",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་ལྟར་ཆོས་ཐམས་ཅད་ཤེས་པར་བྱ། བལྟ་བར་བྱ། མོས་པར་བྱ་སྟེ།",
+  "dm": "The Blessed One said, \"Subhūti, in this regard, one who has correctly entered the path of the bodhisattva should know, see, and resolve to understand all phenomena in this way:",
+  "gm": "The Blessed One said: Subhūti, thus should those who have truly entered the bodhisattva vehicle know, see, and be resolved upon all dharmas,"
+ },
+ {
+  "id": "12-21",
+  "heading": false,
+  "bo": "ཅི་ནས་ཆོས་སུ་འདུ་ཤེས་པ་ལ་མི་གནས་པར་ཤེས་པར་བྱའོ། །",
+  "dm": "\"They should know how to abide without dwelling on the perception of phenomena.\"",
+  "gm": "they should know them in such a way that they do not abide in the perception of a dharma."
+ },
+ {
+  "id": "12-22",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཆོས་སུ་འདུ་ཤེས་ཆོས་སུ་འདུ་ཤེས་ཞེས་བྱ་བ་ནི། དེ་འདུ་ཤེས་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, the so-called \"perception of phenomena\" is spoken of by the Tathāgata as being without perception.",
+  "gm": "Why is that? Subhūti, what is called 'perception of a dharma, perception of a dharma', the Tathāgata has spoken of as no perception."
+ },
+ {
+  "id": "12-23",
+  "heading": false,
+  "bo": "དེས་ན་ཆོས་སུ་འདུ་ཤེས་ཆོས་སུ་འདུ་ཤེས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called the perception of phenomena, the perception of phenomena.",
+  "gm": "Therefore it is called 'perception of a dharma, perception of a dharma'."
+ },
+ {
+  "id": "12-24",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་དཔག་ཏུ་མེད་ཅིང་གྲངས་མེད་པ་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བྲིས་ནས་འཛིན་ཏམ། འཆང་ངམ། ཀློག་གམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན་དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "dm": "Furthermore, Subhūti, if a bodhisattva mahāsattva were to fill immeasurable and incalculable world systems with the seven types of precious substances and give them as a gift, compared to that, if a son or daughter of noble family were to take up, bear, read, master, or extensively and correctly teach to others even just a four-line verse from this perfection of wisdom, they would generate much greater, incalculable, and immeasurable merit.",
+  "gm": "Furthermore, Subhūti, compared to a bodhisattva, a great being, who fills immeasurable and countless world systems with the seven precious things and gives them as a gift, if a son of noble family or daughter of noble family writes down, takes up, retains, reads, completely masters, or extensively and correctly explains to others even a four-line verse from this perfection of wisdom, they would produce infinitely and immeasurably more merit on that basis."
+ },
+ {
+  "id": "12-25",
+  "heading": false,
+  "bo": "ཇི་ལྟར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཅེ་ན། ཇི་ལྟར་ཡང་དག་པར་རབ་ཏུ་མི་སྟོན་པ་དེ་བཞིན་དུ་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་སྟེ།",
+  "dm": "How does one perfectly and thoroughly teach? It is by perfectly and thoroughly teaching in the same way that one does not perfectly and thoroughly teach.",
+  "gm": "How does one correctly explain it? Just as one does not correctly explain it, in that way one correctly explains it;"
+ },
+ {
+  "id": "12-26",
+  "heading": false,
+  "bo": "དེས་ན་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called perfectly and thoroughly teaching.",
+  "gm": "Therefore it is called 'correctly explaining'."
+ },
+ {
+  "id": "12-27",
+  "heading": false,
+  "bo": "སྐར་མ་རབ་རིབ་མར་མེ་དང༌། །སྒྱུ་མ་ཟིལ་བ་ཆུ་བུར་དང༌། །རྨི་ལམ་གློག་དང་སྤྲིན་ལྟ་བུ། །འདུས་བྱས་ཐམས་ཅད་དེ་ལྟར་ལྟ། །",
+  "dm": "Like a star, a visual fault, a lamp, A magical illusion, a dewdrop, a bubble, A dream, a flash of lightning, and a cloud— Thus should one view all conditioned phenomena.",
+  "gm": "Like a star, a visual aberration, a lamp, an illusion, a dewdrop, a bubble, a dream, lightning, and a cloud—view all conditioned things thus."
+ },
+ {
+  "id": "13-0",
+  "heading": true,
+  "bo": "མཇུག་གི་རིམ་པ།",
+  "dm": "Concluding Sequence",
+  "gm": "The Concluding Section"
+ },
+ {
+  "id": "13-1",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། གནས་བརྟན་རབ་འབྱོར་དང༌། དགེ་སློང་དེ་དག་དང༌། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང༌། འཁོར་བཞི་པོ་དགེ་སློང་དང༌། དགེ་སློང་མ་དང༌། དགེ་བསྙེན་དང༌། དགེ་བསྙེན་མ་དང༌། ལྷ་དང༌། མི་དང་ལྷ་མ་ཡིན་དང༌། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ།",
+  "dm": "When the Bhagavān had spoken these words, the elder Subhūti, those monks, those bodhisattvas, and the fourfold assembly—monks, nuns, laymen, and laywomen—along with the world of gods, humans, asuras, and gandharvas, rejoiced,",
+  "gm": "After the Bhagavan had spoken thus, the elder Subhūti, those monks, those bodhisattvas, and the fourfold assembly of monks, nuns, laymen, and laywomen, along with the world with its gods, humans, asuras, and gandharvas, rejoiced and"
+ },
+ {
+  "id": "13-2",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།",
+  "dm": "and highly praised what the Bhagavān had spoken.",
+  "gm": "highly praised what the Bhagavan had spoken."
+ },
+ {
+  "id": "13-3",
+  "heading": false,
+  "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།",
+  "dm": "The Noble Mahāyāna Sūtra entitled \"The Perfection of Wisdom that Cuts Like a Diamond\" is concluded.",
+  "gm": "The noble Mahāyāna sūtra called the Vajracchedikā Prajñāpāramitā is complete."
+ },
+ {
+  "id": "13-4",
+  "heading": false,
+  "bo": "ན་མོ་བྷ་ག་ཝ་ཏེ། པྲཛྙཱ་པ་ར་མི་ཏ་ཡེ། ཨོཾ་ན་ཏ་ད་ཏི་ཏ། ཨི་ལི་ཤི །ཨི་ལི་ཤི །མི་ལི་ཤི །མི་ལི་ཤི །བྷི་ན་ཡན་བྷི་ན་ཡན། ན་མོ་བྷ་ག་ཝ་ཏེ། པྲད་ཏྱཾ་པྲ་ཏེ། ཨི་རི་ཏི། ཨི་རི་ཏི། མི་ར་ཏི། མི་རི་ཏི། ཤུ་རི་ཏི། ཤུ་རི་ཏི། ཨུ་ཤུ་རི་ཨུ་ཤུ་རི། བྷུ་ཡུ་ཡེ་བྷུ་ཡུ་ཡེ་སྭཱཧཱ།",
+  "dm": "Namo bhagavate prajñāpāramitāye. Oṃ natadatita iliśi iliśi miliśi miliśi bhinayan bhinayan. Namo bhagavate pratyampate iriti iriti miriti miriti śuriti śuriti uśuri uśuri bhuyuye bhuyuye svāhā.",
+  "gm": "namo bhagavate prajñāpāramitāye oṃ natadatita iliśi iliśi miliśi miliśi bhinayan bhinayan namo bhagavate pratyaṃprate iriti iriti mirati miriti śuriti śuriti uśuri uśuri bhuyuye bhuyuye svāhā"
+ },
+ {
+  "id": "13-5",
+  "heading": false,
+  "bo": "རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ་འདི་ལན་གཅིག་བཟླས་པས་རྡོ་རྗེ་གཅོད་པ་ཁྲི་དགུ་སྟོང་བཀླགས་པ་དང་མཉམ་པར་འགྱུར་རོ། །",
+  "dm": "Reciting this essence of the Diamond Cutter once is equivalent to reading the Diamond Cutter nineteen thousand times.",
+  "gm": "By reciting this essence of the Vajracchedikā once, it becomes equal to having read the Vajracchedikā ninety million times."
+ },
+ {
+  "id": "13-6",
+  "heading": false,
+  "bo": "ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ།། །།",
+  "dm": "Ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat | teṣāñca yo nirodha evaṃvādī mahāśramaṇaye svāhā ||",
+  "gm": "ye dharma hetuprabhava hetunteṣāntathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā"
+ }
+]

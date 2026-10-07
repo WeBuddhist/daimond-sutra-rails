@@ -1,0 +1,303 @@
+[
+ {
+  "id": "0",
+  "heading": true,
+  "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།",
+  "dm": "The Noble Mahāyāna Sūtra Entitled The Diamond-Cutter Perfection of Wisdom",
+  "gm": "The Noble Mahayana Sutra Called the Diamond Cutter Perfection of Wisdom"
+ },
+ {
+  "id": "0-1",
+  "heading": false,
+  "bo": "༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+  "dm": "The Noble Perfection of Wisdom known as the Diamond Cutter.",
+  "gm": "Herein is contained the Noble Perfection of Wisdom named the Diamond Cutter."
+ },
+ {
+  "id": "0-2",
+  "heading": false,
+  "bo": "རྒྱ་གར་སྐད་དུ། ཨརྱཱ་བཛྲ་ཙྪེད་ཀ་པྲཛྙཱ་པ་ར་མི་ཏཱ་ནཱ་མ་མ་ཧཱ་ཡ་ན་སཱུ་ཏྲ།",
+  "dm": "In the language of India: Āryavajracchedikāprajñāpāramitānāmamahāyānasūtra.",
+  "gm": "In the language of India: Ārya vajracchedikā prajñāpāramitā nāma mahāyāna sūtra."
+ },
+ {
+  "id": "0-3",
+  "heading": false,
+  "bo": "བོད་སྐད་དུ། འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།",
+  "dm": "In the Tibetan language: The Noble Mahāyāna Sūtra entitled \"The Perfection of Wisdom known as the Diamond Cutter.\"",
+  "gm": "In the language of Tibet: The Noble Perfection of Wisdom named the Diamond Cutter, a Mahāyāna sūtra."
+ },
+ {
+  "id": "0-4",
+  "heading": false,
+  "bo": "སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །",
+  "dm": "Homage to all Buddhas and Bodhisattvas.",
+  "gm": "Homage to all Buddhas and Bodhisattvas."
+ },
+ {
+  "id": "1-0",
+  "heading": true,
+  "bo": "གླེང་གཞི།",
+  "dm": "The Introductory Narrative",
+  "gm": "Prologue"
+ },
+ {
+  "id": "1-1",
+  "heading": false,
+  "bo": "འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།",
+  "dm": "Thus have I heard at one time:",
+  "gm": "Thus did I hear at one time."
+ },
+ {
+  "id": "1-2",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང༌། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དག་དང་ཐབས་གཅིག་ཏུ་བཞུགས་སོ། །",
+  "dm": "The Blessed One was dwelling in Śrāvastī, in the Jeta Grove, Anāthapiṇḍada’s park, together with a great community of one thousand two hundred and fifty monks and a vast number of bodhisattva mahāsattvas.",
+  "gm": "The Blessed One was dwelling at Śrāvastī in the Jetavana, the park of Anāthapiṇḍada, together with a great saṅgha of one thousand two hundred and fifty monks, and very many bodhisattvas, great beings."
+ },
+ {
+  "id": "1-3",
+  "heading": false,
+  "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ། ཤམ་ཐབས་དང་ཆོས་གོས་སྐུ་ལ་གསོལ་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་སོ། །",
+  "dm": "Then, in the morning, the Blessed One put on his lower robe and Dharma robes, took up his alms bowl, and entered the great city of Śrāvastī for alms.",
+  "gm": "Then the Blessed One, in the morning time, put on his lower garment and dharma-robe, took his alms bowl, and went to the great city of Śrāvastī for alms."
+ },
+ {
+  "id": "1-4",
+  "heading": false,
+  "bo": "དེ་ནས་བཅོམ་ལྡན་འདས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་ནས་ཞལ་ཟས་གསོལ་ཏེ་ཟས་ཀྱི་བྱ་བ་མཛད་དེ།",
+  "dm": "Then, having entered the great city of Śrāvastī for alms, the Blessed One ate his meal and finished his duties regarding food.",
+  "gm": "Then the Blessed One, having gone to the great city of Śrāvastī for alms, partook of his meal and completed the action of eating."
+ },
+ {
+  "id": "1-5",
+  "heading": false,
+  "bo": "ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས་ལྷུང་བཟེད་དང་ཆོས་གོས་བཞག་ནས། ཞབས་བསིལ་ཏེ་གདན་བཤམས་པ་ལ་སྐྱིལ་མོ་ཀྲུང་བཅས་ནས་སྐུ་དྲང་པོར་བསྲང་སྟེ། དྲན་པ་མངོན་དུ་བཞག་ནས་བཞུགས་སོ། །",
+  "dm": "Having finished his meal and ceased receiving alms, he set aside his alms bowl and Dharma robes, washed his feet, arranged his seat, sat down cross-legged, straightened his body, and remained with mindfulness established before him.",
+  "gm": "Having forsaken later alms-food, he put away his alms bowl and dharma-robe, washed his feet, and sat down on the prepared seat, crossing his legs, keeping his body upright, and establishing mindfulness to the fore."
+ },
+ {
+  "id": "1-6",
+  "heading": false,
+  "bo": "དེ་ནས་དགེ་སློང་མང་པོས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་ལྷགས་ནས།",
+  "dm": "Then, many monks went to where the Blessed One was, and having arrived,",
+  "gm": "Then many monks went to where the Blessed One was, approached him, and"
+ },
+ {
+  "id": "1-7",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་ཕྱོགས་གཅིག་ཏུ་འཁོད་དོ། །",
+  "dm": "they bowed their heads at the feet of the Blessed One, circumambulated him three times, and sat down to one side.",
+  "gm": "bowed their heads to the feet of the Blessed One, circumambulated him three times, and sat down to one side."
+ },
+ {
+  "id": "1-8",
+  "heading": false,
+  "bo": "ཡང་དེའི་ཚེ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་ཏེ་འདུག་གོ །",
+  "dm": "At that time, the Venerable Subhūti was also present and seated within that very assembly.",
+  "gm": "Also at that time, the Venerable Subhūti had assembled in that very retinue and was sitting there."
+ },
+ {
+  "id": "2-0",
+  "heading": true,
+  "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་དྲི་བ་ཞུས་པ།",
+  "dm": "The Venerable Subhūti Poses a Question",
+  "gm": "Venerable Subhūti's Question"
+ },
+ {
+  "id": "2-1",
+  "heading": false,
+  "bo": "དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས།",
+  "dm": "Then the Venerable Subhūti rose from his seat, draped his upper robe over one shoulder, and knelt with his right knee on the ground. Facing the direction of the Blessed One, he bowed with palms joined.",
+  "gm": "Then the Venerable Subhūti rose from his seat, put his upper robe over one shoulder, placed his right knee on the ground, bowed with joined palms toward the Blessed One, and"
+ },
+ {
+  "id": "2-2",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "dm": "He addressed the Blessed One in this way:",
+  "gm": "spoke these words to the Blessed One:"
+ },
+ {
+  "id": "2-3",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཕན་གདགས་པའི་དམ་པ་ཇི་སྙེད་པས་ཕན་གདགས་པ་དང༌། དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཡོངས་སུ་གཏད་པའི་དམ་པ་ཇི་སྙེད་པས་ཡོངས་སུ་གཏད་པ་ནི། བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ། ། བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །",
+  "dm": "\"Blessed One, it is wonderful how the Tathāgata, the Arhat, the perfectly complete Buddha, has so greatly benefited the bodhisattva mahāsattvas with the supreme benefits, and how the Tathāgata has so greatly entrusted the bodhisattva mahāsattvas with the supreme entrustments. Blessed One, it is wonderful! Sugata, it is wonderful!\"",
+  "gm": "Blessed One, the supreme benefit with which the Tathāgata, the Arhat, the Perfectly Awakened Buddha has benefited the bodhisattva great beings, and the supreme entrustment with which the Tathāgata has entrusted the bodhisattva great beings—it is wonderful, O Blessed One! It is wonderful, O Sugata!"
+ },
+ {
+  "id": "2-4",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་ཇི་ལྟར་གནས་པར་བགྱི།",
+  "dm": "Blessed One, how should one who has correctly entered the bodhisattva vehicle abide?",
+  "gm": "O Blessed One, how should one who has correctly entered the bodhisattva vehicle abide?"
+ },
+ {
+  "id": "2-5",
+  "heading": false,
+  "bo": "ཇི་ལྟར་བསྒྲུབ་པར་བགྱི།",
+  "dm": "How should one practice?",
+  "gm": "How should they practice?"
+ },
+ {
+  "id": "2-6",
+  "heading": false,
+  "bo": "ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བགྱི།",
+  "dm": "How should one properly hold the mind?",
+  "gm": "How should they thoroughly control their mind?"
+ },
+ {
+  "id": "2-7",
+  "heading": false,
+  "bo": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌།",
+  "dm": "When he had spoken those words,",
+  "gm": "When he had spoken these words,"
+ },
+ {
+  "id": "3-0",
+  "heading": true,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་ལན།",
+  "dm": "The Bhagavan’s Response",
+  "gm": "The Bhagavat's Answer"
+ },
+ {
+  "id": "3-1",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "The Blessed One spoke these words to the venerable Subhūti:",
+  "gm": "The Blessed One spoke these words to venerable Subhūti:"
+ },
+ {
+  "id": "3-2",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ལེགས་སོ་ལེགས་སོ། །",
+  "dm": "Subhūti, excellent, excellent!",
+  "gm": "Excellent, excellent, Subhūti!"
+ },
+ {
+  "id": "3-3",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "dm": "Subhūti, it is so; it is just so.",
+  "gm": "So it is, Subhūti, so it is."
+ },
+ {
+  "id": "3-4",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཕན་གདགས་པའི་དམ་པས་ཕན་གདགས་སོ། །",
+  "dm": "The Tathāgata has benefited the bodhisattva mahāsattvas with the most sublime of benefits.",
+  "gm": "The Tathāgata has benefited the bodhisattva great beings with the supreme benefit."
+ },
+ {
+  "id": "3-5",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཡོངས་སུ་གཏད་པའི་དམ་པས་ཡོངས་སུ་གཏད་དོ། །",
+  "dm": "The Tathāgata has entrusted the bodhisattva mahāsattvas with the most sublime of entrustments.",
+  "gm": "The Tathāgata has entrusted the bodhisattva great beings with the supreme entrustment."
+ },
+ {
+  "id": "3-6",
+  "heading": false,
+  "bo": "རབ་འབྱོར་དེའི་ཕྱིར་ཉོན་ལ་ལེགས་པར་རབ་ཏུ་ཡིད་ལ་ཟུངས་ཤིག་དང༌།",
+  "dm": "Subhūti, therefore, listen well and take it to heart.",
+  "gm": "Therefore, Subhūti, listen and bear it well in mind, and"
+ },
+ {
+  "id": "3-7",
+  "heading": false,
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་བཞུགས་པས་ཇི་ལྟར་གནས་པར་བྱ་བ་དང༌། ཇི་ལྟར་བསྒྲུབ་པར་བྱ་བ་དང༌།  ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ་ངས་ཁྱོད་ལ་བཤད་དོ། །",
+  "dm": "I shall explain to you how those who have truly entered the bodhisattva vehicle should dwell, how they should practice, and how they should properly hold their minds.",
+  "gm": "I will explain to you how one who has correctly entered the bodhisattva vehicle should abide, how they should practice, and how they should thoroughly control their mind."
+ },
+ {
+  "id": "3-8",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་དེ་དེ་བཞིན་ནོ། །ཞེས་གསོལ་ནས།",
+  "dm": "\"So be it, Blessed One,\" he replied.",
+  "gm": "Having replied, \"So it is, Blessed One,\""
+ },
+ {
+  "id": "3-9",
+  "heading": false,
+  "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་མཉན་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "dm": "The venerable Subhūti listened as the Blessed One had instructed, and the Blessed One spoke these words to the venerable Subhūti.",
+  "gm": "Venerable Subhūti listened to the Blessed One, and the Blessed One spoke these words to Venerable Subhūti:"
+ },
+ {
+  "id": "4-0",
+  "heading": true,
+  "bo": "བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པ།",
+  "dm": "Generating the Mind of Enlightenment",
+  "gm": "Generating Bodhicitta"
+ },
+ {
+  "id": "4-1",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཇི་ཙམ་སེམས་ཅན་དུ་བསྡུ་བས་བསྡུས་པ། སྒོ་ང་ལས་སྐྱེས་པའམ། མངལ་ལས་སྐྱེས་པའམ། དྲོད་གཤེར་ལས་སྐྱེས་པའམ། རྫུས་ཏེ་སྐྱེས་པའམ། གཟུགས་ཅན་ནམ། གཟུགས་ཅན་མ་ཡིན་པའམ། འདུ་ཤེས་ཅན་ནམ། འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་ནམ། སེམས་ཅན་གྱི་ཁམས་ཇི་ཙམ་སེམས་ཅན་དུ་གདགས་པའི་བརྟགས་པ་དེ་དག་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+  "dm": "Subhūti, those who have truly entered the bodhisattva vehicle should think in this way: \"As many sentient beings as are included in the category of sentient beings—whether born from eggs, born from wombs, born from warmth and moisture, or born miraculously; whether having form or without form; whether having perception or without perception, or neither with perception nor without perception—all those sentient beings I shall lead to complete nirvāṇa in the realm of nirvāṇa that leaves no remainder of the aggregates.\"",
+  "gm": "Subhūti, here one who has correctly entered the bodhisattva vehicle should form this thought: 'As many beings as are subsumed in the collection of beings—whether born from eggs, born from wombs, born from heat and moisture, or miraculously born; whether having form or formless; whether having perception, having no perception, or neither having nor lacking perception; however many are conceptually designated as the realm of beings—all these I shall lead to complete nirvāṇa in the realm of nirvāṇa without remainder of aggregates.'"
+ },
+ {
+  "id": "4-2",
+  "heading": false,
+  "bo": "དེ་ལྟར་སེམས་ཅན་ཚད་མེད་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ཀྱང༌། སེམས་ཅན་གང་ཡང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་འགྱུར་བ་མེད་དོ་སྙམ་དུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "dm": "\"Even though immeasurable sentient beings are thus led to complete nirvāṇa, one should generate the mind thinking that not even one sentient being has been led to complete nirvāṇa.\"",
+  "gm": "One should generate the mind thinking: 'Even though immeasurable beings have thus been led to complete nirvāṇa, no being whatsoever has been led to complete nirvāṇa.'"
+ },
+ {
+  "id": "4-3",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Because if they were to hold such a perception, they would not be called a bodhisattva.",
+  "gm": "Why is that? Because they would not be called a bodhisattva."
+ },
+ {
+  "id": "4-4",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་གམ། སྲོག་ཏུ་འདུ་ཤེས་འཇུག་གམ། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+  "dm": "Why is that? Subhūti, if a bodhisattva engages in the perception of a sentient being, the perception of a life-force, or the perception of a person, they should not be called a bodhisattva.",
+  "gm": "Why is that? Subhūti, it is because if one holds the notion of a being, holds the notion of a living soul, or holds the notion of a person, they would not be called a bodhisattva."
+ },
+ {
+  "id": "4-5",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་དངོས་པོ་ལ་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "dm": "Furthermore, Subhūti, a bodhisattva should practice generosity without abiding in phenomena.",
+  "gm": "Moreover, Subhūti, a bodhisattva should give gifts without abiding in objects."
+ },
+ {
+  "id": "4-6",
+  "heading": false,
+  "bo": "ཅི་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "dm": "They should practice generosity without abiding in anything at all.",
+  "gm": "Without abiding in anything whatsoever, they should give gifts."
+ },
+ {
+  "id": "4-7",
+  "heading": false,
+  "bo": "གཟུགས་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "dm": "They should practice generosity without abiding in form.",
+  "gm": "Without abiding in form, they should give gifts."
+ },
+ {
+  "id": "4-8",
+  "heading": false,
+  "bo": "དེ་བཞིན་དུ་སྒྲ་དང༌། དྲི་དང་། རོ་དང༌། རེག་བྱ་དང༌། ཆོས་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "dm": "Likewise, they should practice generosity without abiding in sound, smell, taste, tangible objects, or phenomena.",
+  "gm": "Likewise, without abiding in sounds, smells, tastes, tactile objects, or mental phenomena, they should give gifts."
+ },
+ {
+  "id": "4-9",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ཅི་ནས་ཀྱང་མཚན་མར་འདུ་ཤེས་པ་ལ་ཡང་མི་གནས་པར་དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔས་སྦྱིན་པ་སྦྱིན་ནོ། །",
+  "dm": "Subhūti, in this way a bodhisattva should practice generosity without abiding in the perception of characteristics.",
+  "gm": "Subhūti, a bodhisattva should give gifts in such a way that they do not abide even in the notion of a sign."
+ },
+ {
+  "id": "4-10",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན།",
+  "dm": "Why is that?",
+  "gm": "Why is that?"
+ }
+]

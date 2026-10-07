@@ -1,0 +1,225 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "11-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-8",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྣམ་པར་བཤིག་པ",
+      "reason": "vināśa (destruction), a philosophical extreme often paired with annihilation (uccheda)",
+      "dm": "destroyed",
+      "gm": "destroyed"
+     }
+    ]
+   },
+   {
+    "id": "11-9",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྣམ་པར་བཤིག་པ",
+      "reason": "vināśa (destruction), a philosophical extreme often paired with annihilation (uccheda)",
+      "dm": "destroyed",
+      "gm": "destroyed"
+     }
+    ]
+   },
+   {
+    "id": "11-10",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Includes conjunction particle 'am (or). Should be two separate terms."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རིགས་ཀྱི་བུ",
+      "reason": "kulaputra (son of noble family), standard technical designation",
+      "dm": "son",
+      "gm": "son of good family"
+     },
+     {
+      "bo": "རིགས་ཀྱི་བུ་མོ",
+      "reason": "kuladuhitṛ (daughter of noble family), standard technical designation",
+      "dm": "daughter of noble family",
+      "gm": "daughter of good family"
+     },
+     {
+      "bo": "སྦྱིན་པ",
+      "reason": "dāna (generosity/gift), a central Buddhist concept and practice",
+      "dm": "gift",
+      "gm": "gift"
+     },
+     {
+      "bo": "གྲངས་མེད",
+      "reason": "asaṃkhyeya (incalculable), a technical numerical measure",
+      "dm": "incalculable",
+      "gm": "incalculable"
+     },
+     {
+      "bo": "དཔག་ཏུ་མེད་པ",
+      "reason": "aprameya (immeasurable), a technical numerical measure",
+      "dm": "immeasurable",
+      "gm": "immeasurable"
+     }
+    ]
+   },
+   {
+    "id": "11-11",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-14",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "11-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "11-10",
+    "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+    "reason": "Includes conjunction particle 'am (or). Should be two separate terms."
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "11-8",
+    "bo": "རྣམ་པར་བཤིག་པ",
+    "dm": "destroyed",
+    "gm": "destroyed",
+    "reason": "vināśa (destruction), a philosophical extreme often paired with annihilation (uccheda)"
+   },
+   {
+    "id": "11-9",
+    "bo": "རྣམ་པར་བཤིག་པ",
+    "dm": "destroyed",
+    "gm": "destroyed",
+    "reason": "vināśa (destruction), a philosophical extreme often paired with annihilation (uccheda)"
+   },
+   {
+    "id": "11-10",
+    "bo": "རིགས་ཀྱི་བུ",
+    "dm": "son",
+    "gm": "son of good family",
+    "reason": "kulaputra (son of noble family), standard technical designation"
+   },
+   {
+    "id": "11-10",
+    "bo": "རིགས་ཀྱི་བུ་མོ",
+    "dm": "daughter of noble family",
+    "gm": "daughter of good family",
+    "reason": "kuladuhitṛ (daughter of noble family), standard technical designation"
+   },
+   {
+    "id": "11-10",
+    "bo": "སྦྱིན་པ",
+    "dm": "gift",
+    "gm": "gift",
+    "reason": "dāna (generosity/gift), a central Buddhist concept and practice"
+   },
+   {
+    "id": "11-10",
+    "bo": "གྲངས་མེད",
+    "dm": "incalculable",
+    "gm": "incalculable",
+    "reason": "asaṃkhyeya (incalculable), a technical numerical measure"
+   },
+   {
+    "id": "11-10",
+    "bo": "དཔག་ཏུ་མེད་པ",
+    "dm": "immeasurable",
+    "gm": "immeasurable",
+    "reason": "aprameya (immeasurable), a technical numerical measure"
+   }
+  ]
+ }
+}

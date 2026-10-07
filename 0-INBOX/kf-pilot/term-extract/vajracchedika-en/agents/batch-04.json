@@ -1,0 +1,825 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "7-0",
+   "terms": [
+    {
+     "bo": "ཞུགས་གནས་བརྒྱད",
+     "dm": "The Eight Types of Noble Beings",
+     "gm": "The Eight Stages of Entering and Abiding"
+    }
+   ]
+  },
+  {
+   "id": "7-1",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-2",
+   "terms": [
+    {
+     "bo": "རྒྱུན་དུ་ཞུགས་པ",
+     "dm": "stream-enterer",
+     "gm": "Stream-Enterer"
+    },
+    {
+     "bo": "རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ",
+     "dm": "fruit of a stream-enterer",
+     "gm": "fruit of a Stream-Enterer"
+    }
+   ]
+  },
+  {
+   "id": "7-3",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "7-4",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "7-5",
+   "terms": [
+    {
+     "bo": "རྒྱུན་དུ་ཞུགས་པ",
+     "dm": "stream-enterer",
+     "gm": "Stream-Enterer"
+    }
+   ]
+  },
+  {
+   "id": "7-6",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "forms",
+     "gm": "forms"
+    },
+    {
+     "bo": "སྒྲ",
+     "dm": "sounds",
+     "gm": "sounds"
+    },
+    {
+     "bo": "དྲི",
+     "dm": "odors",
+     "gm": "smells"
+    },
+    {
+     "bo": "རོ",
+     "dm": "tastes",
+     "gm": "tastes"
+    },
+    {
+     "bo": "རེག་བྱ",
+     "dm": "tangibles",
+     "gm": "tangible objects"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "mental phenomena",
+     "gm": "dharmas"
+    }
+   ]
+  },
+  {
+   "id": "7-7",
+   "terms": [
+    {
+     "bo": "རྒྱུན་དུ་ཞུགས་པ",
+     "dm": "stream-enterer",
+     "gm": "Stream-Enterer"
+    }
+   ]
+  },
+  {
+   "id": "7-8",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རྒྱུན་དུ་ཞུགས་པ",
+     "dm": "stream-enterer",
+     "gm": "Stream-Enterer"
+    },
+    {
+     "bo": "རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ",
+     "dm": "fruit of a stream-enterer",
+     "gm": "fruit of a Stream-Enterer"
+    },
+    {
+     "bo": "བདག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a self",
+     "gm": "grasping at a self"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "7-9",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན་དུ་འཛིན་པ",
+     "dm": "grasping at a sentient being",
+     "gm": "grasping at a living being"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "living being"
+    },
+    {
+     "bo": "སྲོག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a life force",
+     "gm": "grasping at a life"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life force",
+     "gm": "life"
+    },
+    {
+     "bo": "གང་ཟག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a person",
+     "gm": "grasping at a person"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    }
+   ]
+  },
+  {
+   "id": "7-10",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-11",
+   "terms": [
+    {
+     "bo": "ལན་ཅིག་ཕྱིར་འོང་བ",
+     "dm": "once-returner",
+     "gm": "Once-Returner"
+    },
+    {
+     "bo": "ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ",
+     "dm": "fruit of a once-returner",
+     "gm": "fruit of a Once-Returner"
+    }
+   ]
+  },
+  {
+   "id": "7-12",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "7-13",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    },
+    {
+     "bo": "ལན་ཅིག་ཕྱིར་འོང་བ",
+     "dm": "once-returner",
+     "gm": "Once-Returner"
+    }
+   ]
+  },
+  {
+   "id": "7-14",
+   "terms": [
+    {
+     "bo": "ལན་ཅིག་ཕྱིར་འོང་བ",
+     "dm": "once-returner",
+     "gm": "Once-Returner"
+    }
+   ]
+  },
+  {
+   "id": "7-15",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ལན་ཅིག་ཕྱིར་འོང་བ",
+     "dm": "once-returner",
+     "gm": "Once-Returner"
+    },
+    {
+     "bo": "ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ",
+     "dm": "fruit of a once-returner",
+     "gm": "fruit of a Once-Returner"
+    },
+    {
+     "bo": "བདག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a self",
+     "gm": "grasping at a self"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "7-16",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན་དུ་འཛིན་པ",
+     "dm": "grasping at a sentient being",
+     "gm": "grasping at a living being"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "living being"
+    },
+    {
+     "bo": "སྲོག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a life-force",
+     "gm": "grasping at a life"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "life"
+    },
+    {
+     "bo": "གང་ཟག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a person",
+     "gm": "grasping at a person"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    }
+   ]
+  },
+  {
+   "id": "7-17",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-18",
+   "terms": [
+    {
+     "bo": "ཕྱིར་མི་འོང་བ",
+     "dm": "non-returner",
+     "gm": "Non-Returner"
+    },
+    {
+     "bo": "ཕྱིར་མི་འོང་བའི་འབྲས་བུ",
+     "dm": "fruit of a non-returner",
+     "gm": "fruit of a Non-Returner"
+    }
+   ]
+  },
+  {
+   "id": "7-19",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "7-20",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    },
+    {
+     "bo": "ཕྱིར་མི་འོང་བ",
+     "dm": "non-returner",
+     "gm": "Non-Returner"
+    }
+   ]
+  },
+  {
+   "id": "7-21",
+   "terms": [
+    {
+     "bo": "ཕྱིར་མི་འོང་བ",
+     "dm": "non-returner",
+     "gm": "Non-Returner"
+    }
+   ]
+  },
+  {
+   "id": "7-22",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-23",
+   "terms": [
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ་ཉིད",
+     "dm": "state of an arhat",
+     "gm": "Arhatship"
+    }
+   ]
+  },
+  {
+   "id": "7-24",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "7-25",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "phenomenon",
+     "gm": "dharma"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "arhat",
+     "gm": "Arhat"
+    }
+   ]
+  },
+  {
+   "id": "7-26",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ་ཉིད",
+     "dm": "state of an arhat",
+     "gm": "Arhatship"
+    },
+    {
+     "bo": "བདག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a self",
+     "gm": "grasping at a self"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "7-27",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན་དུ་འཛིན་པ",
+     "dm": "grasping at a sentient being",
+     "gm": "grasping at a sentient being"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a life force",
+     "gm": "grasping at a life"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life force",
+     "gm": "life"
+    },
+    {
+     "bo": "གང་ཟག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a person",
+     "gm": "grasping at a person"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    }
+   ]
+  },
+  {
+   "id": "7-28",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "Perfectly Complete Buddha",
+     "gm": "perfectly and fully awakened Buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "ཉོན་མོངས་པ་མེད་པར་གནས་པ",
+     "dm": "dwell in the state of being without defilement",
+     "gm": "dwell without afflictions"
+    },
+    {
+     "bo": "ཉོན་མོངས་པ",
+     "dm": "defilement",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "7-29",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "འདོད་ཆགས",
+     "dm": "desire",
+     "gm": "desire"
+    }
+   ]
+  },
+  {
+   "id": "7-30",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ་ཉིད",
+     "dm": "state of an arhat",
+     "gm": "Arhatship"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ",
+     "dm": "son of good family",
+     "gm": "son of noble family"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཉོན་མོངས་པ་མེད་པར་གནས་པ",
+     "dm": "dwell in the state of being without defilement",
+     "gm": "dwell without afflictions"
+    },
+    {
+     "bo": "ཉོན་མོངས་པ",
+     "dm": "defilement",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "7-31",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས་པ་མེད་པར་གནས་པ",
+     "dm": "dwells in the state of being without defilement",
+     "gm": "dweller without afflictions"
+    },
+    {
+     "bo": "ཉོན་མོངས་པ",
+     "dm": "defilement",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "7-32",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-33",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "Perfectly Complete Buddha",
+     "gm": "perfectly and fully awakened Buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "མར་མེ་མཛད",
+     "dm": "Dīpaṃkara",
+     "gm": "Dīpaṃkara"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "7-34",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "7-35",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "Perfectly Complete Buddha",
+     "gm": "perfectly and fully awakened Buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "མར་མེ་མཛད",
+     "dm": "Dīpaṃkara",
+     "gm": "Dīpaṃkara"
+    }
+   ]
+  },
+  {
+   "id": "7-36",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཞིང་བཀོད་པ",
+     "dm": "adornment of the buddha-fields",
+     "gm": "array of the fields"
+    }
+   ]
+  },
+  {
+   "id": "7-37",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཞིང་བཀོད་པ",
+     "dm": "adornment of the buddha-fields",
+     "gm": "array of the fields"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "7-38",
+   "terms": [
+    {
+     "bo": "ཞིང་བཀོད་པ",
+     "dm": "adornment of the buddha-fields",
+     "gm": "array of the fields"
+    }
+   ]
+  },
+  {
+   "id": "7-39",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattva",
+     "gm": "bodhisattva, a great being"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་པ་བསྐྱེད་པ",
+     "dm": "generate the mind",
+     "gm": "produce the mind"
+    }
+   ]
+  },
+  {
+   "id": "7-40",
+   "terms": [
+    {
+     "bo": "སེམས་བསྐྱེད་པ",
+     "dm": "generate the mind",
+     "gm": "produce the mind"
+    }
+   ]
+  }
+ ]
+}

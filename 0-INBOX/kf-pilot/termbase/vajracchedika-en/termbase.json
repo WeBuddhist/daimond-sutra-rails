@@ -1,0 +1,8700 @@
+[
+ {
+  "term_id": "T001",
+  "bo": "རབ་འབྱོར",
+  "sanskrit": "Subhūti",
+  "count": 192,
+  "dm": {
+   "Subhūti": 192
+  },
+  "gm": {
+   "Subhūti": 192
+  },
+  "occurrences": [
+   "1-8",
+   "2-0",
+   "2-1",
+   "3-1",
+   "3-2",
+   "3-3",
+   "3-6",
+   "3-9",
+   "4-1",
+   "4-4",
+   "4-5",
+   "4-9",
+   "5-1",
+   "5-2",
+   "5-3",
+   "5-4",
+   "5-5",
+   "5-6",
+   "6-1",
+   "6-2",
+   "6-5",
+   "6-6",
+   "6-9",
+   "6-11",
+   "6-12",
+   "6-13",
+   "6-15",
+   "6-16",
+   "6-17",
+   "6-18",
+   "6-19",
+   "6-21",
+   "6-23",
+   "6-27",
+   "6-29",
+   "6-30",
+   "6-33",
+   "6-39",
+   "6-41",
+   "6-46",
+   "6-47",
+   "6-49",
+   "7-1",
+   "7-3",
+   "7-10",
+   "7-12",
+   "7-17",
+   "7-19",
+   "7-22",
+   "7-24",
+   "7-30",
+   "7-32",
+   "7-34",
+   "7-36",
+   "7-37",
+   "7-39",
+   "7-43",
+   "7-44",
+   "7-49",
+   "7-51",
+   "7-52",
+   "7-55",
+   "7-56",
+   "7-59",
+   "7-61",
+   "7-63",
+   "7-66",
+   "7-67",
+   "7-69",
+   "7-71",
+   "7-73",
+   "7-74",
+   "7-76",
+   "8-1",
+   "8-3",
+   "8-6",
+   "8-7",
+   "8-20",
+   "8-21",
+   "8-23",
+   "8-26",
+   "8-27",
+   "8-29",
+   "8-31",
+   "8-33",
+   "8-42",
+   "8-45",
+   "8-47",
+   "8-48",
+   "8-49",
+   "8-50",
+   "8-52",
+   "8-54",
+   "8-61",
+   "8-65",
+   "8-68",
+   "8-70",
+   "8-72",
+   "8-74",
+   "8-76",
+   "8-77",
+   "8-79",
+   "8-83",
+   "8-84",
+   "8-86",
+   "8-88",
+   "8-89",
+   "8-91",
+   "8-93",
+   "8-94",
+   "8-96",
+   "8-97",
+   "8-99",
+   "8-100",
+   "8-102",
+   "8-103",
+   "8-105",
+   "8-107",
+   "8-108",
+   "8-110",
+   "8-112",
+   "8-113",
+   "8-114",
+   "8-115",
+   "8-116",
+   "8-118",
+   "9-1",
+   "9-2",
+   "9-3",
+   "9-5",
+   "9-6",
+   "9-8",
+   "9-10",
+   "9-12",
+   "9-14",
+   "9-16",
+   "9-18",
+   "9-20",
+   "9-22",
+   "9-23",
+   "10-1",
+   "10-4",
+   "10-6",
+   "10-8",
+   "10-10",
+   "10-11",
+   "10-13",
+   "10-17",
+   "10-19",
+   "10-23",
+   "10-24",
+   "10-26",
+   "10-27",
+   "10-28",
+   "10-30",
+   "10-31",
+   "10-33",
+   "10-35",
+   "10-36",
+   "10-39",
+   "10-43",
+   "10-45",
+   "10-46",
+   "10-47",
+   "10-48",
+   "10-49",
+   "10-51",
+   "10-52",
+   "10-54",
+   "10-56",
+   "10-58",
+   "10-60",
+   "10-62",
+   "11-5",
+   "11-6",
+   "11-7",
+   "11-8",
+   "11-10",
+   "11-11",
+   "11-12",
+   "11-13",
+   "11-15",
+   "11-16",
+   "12-1",
+   "12-2",
+   "12-12",
+   "12-14",
+   "12-16",
+   "12-20",
+   "12-22",
+   "12-24",
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "name of the disciple",
+    "occurrences": "all",
+    "academic": "Subhūti",
+    "children": "Subhuti",
+    "basis": "style-sheet",
+    "reason": "Core term: name; both attest Subhūti (192 each); children's drops the diacritic."
+   }
+  ]
+ },
+ {
+  "term_id": "T002",
+  "bo": "བཅོམ་ལྡན་འདས",
+  "sanskrit": "bhagavat",
+  "count": 126,
+  "dm": {
+   "Blessed One": 115,
+   "Bhagavan": 5,
+   "Blessed Ones": 4,
+   "Bhagavān": 2
+  },
+  "gm": {
+   "Blessed One": 102,
+   "Bhagavān": 17,
+   "Blessed Ones": 2,
+   "Bhagavāns": 2,
+   "Bhagavan": 2,
+   "Bhagavat": 1
+  },
+  "occurrences": [
+   "1-2",
+   "1-3",
+   "1-4",
+   "1-6",
+   "1-7",
+   "2-1",
+   "2-2",
+   "2-3",
+   "2-4",
+   "3-0",
+   "3-1",
+   "3-8",
+   "3-9",
+   "5-3",
+   "5-4",
+   "5-5",
+   "5-6",
+   "6-2",
+   "6-5",
+   "6-9",
+   "6-10",
+   "6-11",
+   "6-29",
+   "6-33",
+   "6-34",
+   "6-39",
+   "6-41",
+   "6-46",
+   "6-48",
+   "7-3",
+   "7-4",
+   "7-8",
+   "7-10",
+   "7-12",
+   "7-15",
+   "7-17",
+   "7-19",
+   "7-22",
+   "7-24",
+   "7-26",
+   "7-28",
+   "7-29",
+   "7-30",
+   "7-32",
+   "7-34",
+   "7-36",
+   "7-44",
+   "7-49",
+   "7-51",
+   "7-52",
+   "7-56",
+   "7-59",
+   "7-63",
+   "7-64",
+   "7-66",
+   "7-73",
+   "7-74",
+   "7-76",
+   "7-78",
+   "8-1",
+   "8-3",
+   "8-6",
+   "8-8",
+   "8-9",
+   "8-10",
+   "8-11",
+   "8-12",
+   "8-14",
+   "8-15",
+   "8-16",
+   "8-18",
+   "8-19",
+   "8-20",
+   "8-24",
+   "8-74",
+   "8-79",
+   "8-80",
+   "8-83",
+   "8-91",
+   "8-92",
+   "8-93",
+   "8-108",
+   "8-110",
+   "8-113",
+   "8-114",
+   "9-2",
+   "9-3",
+   "9-5",
+   "9-6",
+   "9-8",
+   "9-10",
+   "9-12",
+   "9-14",
+   "9-16",
+   "9-18",
+   "9-20",
+   "9-22",
+   "10-6",
+   "10-8",
+   "10-13",
+   "10-15",
+   "10-17",
+   "10-19",
+   "10-23",
+   "10-28",
+   "10-29",
+   "10-30",
+   "10-35",
+   "10-36",
+   "10-56",
+   "10-58",
+   "10-62",
+   "10-63",
+   "10-64",
+   "11-12",
+   "11-13",
+   "12-2",
+   "12-4",
+   "12-5",
+   "12-9",
+   "12-12",
+   "12-16",
+   "12-18",
+   "12-20",
+   "13-1",
+   "13-2"
+  ],
+  "senses": [
+   {
+    "sense": "epithet of the Buddha",
+    "occurrences": "all",
+    "academic": "Blessed One",
+    "children": "Blessed One",
+    "basis": "style-sheet",
+    "reason": "Core term; both lead with Blessed One; Bhagavān not kept (policy 7)."
+   }
+  ]
+ },
+ {
+  "term_id": "T003",
+  "bo": "དེ་བཞིན་གཤེགས་པ",
+  "sanskrit": "tathāgata",
+  "count": 112,
+  "dm": {
+   "Tathāgata": 112
+  },
+  "gm": {
+   "Tathāgata": 112
+  },
+  "occurrences": [
+   "2-3",
+   "3-4",
+   "3-5",
+   "6-1",
+   "6-3",
+   "6-4",
+   "6-8",
+   "6-16",
+   "6-17",
+   "6-28",
+   "6-31",
+   "6-32",
+   "6-34",
+   "6-35",
+   "6-36",
+   "6-45",
+   "6-47",
+   "6-49",
+   "7-28",
+   "7-30",
+   "7-33",
+   "7-35",
+   "7-37",
+   "7-46",
+   "7-55",
+   "7-60",
+   "7-69",
+   "7-72",
+   "7-73",
+   "7-78",
+   "7-80",
+   "8-2",
+   "8-4",
+   "8-9",
+   "8-13",
+   "8-23",
+   "8-24",
+   "8-26",
+   "8-41",
+   "8-44",
+   "8-45",
+   "8-46",
+   "8-47",
+   "8-50",
+   "8-56",
+   "8-57",
+   "8-72",
+   "8-90",
+   "8-92",
+   "8-95",
+   "8-96",
+   "8-97",
+   "8-98",
+   "8-99",
+   "8-100",
+   "8-101",
+   "8-102",
+   "8-103",
+   "8-104",
+   "8-108",
+   "8-114",
+   "8-116",
+   "8-118",
+   "9-0",
+   "9-1",
+   "9-2",
+   "9-4",
+   "9-5",
+   "9-7",
+   "9-9",
+   "9-11",
+   "9-13",
+   "9-15",
+   "9-17",
+   "9-23",
+   "10-10",
+   "10-12",
+   "10-14",
+   "10-15",
+   "10-18",
+   "10-20",
+   "10-21",
+   "10-24",
+   "10-25",
+   "10-26",
+   "10-31",
+   "10-34",
+   "10-35",
+   "10-43",
+   "10-47",
+   "10-48",
+   "10-49",
+   "10-51",
+   "10-52",
+   "10-55",
+   "10-57",
+   "10-59",
+   "10-60",
+   "10-61",
+   "10-63",
+   "11-6",
+   "11-7",
+   "11-15",
+   "11-16",
+   "11-17",
+   "12-5",
+   "12-7",
+   "12-10",
+   "12-14",
+   "12-15",
+   "12-18",
+   "12-22"
+  ],
+  "senses": [
+   {
+    "sense": "epithet of the Buddha",
+    "occurrences": "all",
+    "academic": "Tathāgata",
+    "children": "Thus-Gone One",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest Tathāgata; children's calque of the Tibetan."
+   }
+  ]
+ },
+ {
+  "term_id": "T004",
+  "bo": "ཆོས",
+  "sanskrit": "dharma",
+  "count": 72,
+  "dm": {
+   "phenomenon": 21,
+   "Dharma": 21,
+   "phenomena": 18,
+   "dharma": 6,
+   "dharmas": 3,
+   "qualities": 2,
+   "mental phenomena": 1
+  },
+  "gm": {
+   "dharma": 36,
+   "Dharma": 17,
+   "dharmas": 13,
+   "phenomena": 3,
+   "phenomenon": 2,
+   "mental phenomena": 1
+  },
+  "occurrences": [
+   "4-8",
+   "6-21",
+   "6-23",
+   "6-25",
+   "6-27",
+   "6-28",
+   "6-31",
+   "6-32",
+   "6-34",
+   "6-35",
+   "6-36",
+   "6-37",
+   "6-46",
+   "6-49",
+   "6-50",
+   "7-6",
+   "7-13",
+   "7-20",
+   "7-25",
+   "7-33",
+   "7-35",
+   "7-42",
+   "7-72",
+   "7-73",
+   "8-6",
+   "8-7",
+   "8-9",
+   "8-10",
+   "8-14",
+   "8-15",
+   "8-37",
+   "8-38",
+   "8-47",
+   "8-50",
+   "8-53",
+   "8-54",
+   "8-56",
+   "8-57",
+   "8-61",
+   "8-77",
+   "8-88",
+   "8-90",
+   "8-92",
+   "8-95",
+   "8-96",
+   "8-97",
+   "8-102",
+   "8-103",
+   "8-104",
+   "8-105",
+   "8-106",
+   "8-112",
+   "8-114",
+   "8-118",
+   "9-11",
+   "9-13",
+   "10-24",
+   "10-25",
+   "10-26",
+   "10-27",
+   "10-29",
+   "10-34",
+   "10-35",
+   "10-37",
+   "10-39",
+   "10-42",
+   "10-43",
+   "10-44",
+   "11-8",
+   "11-9",
+   "12-13",
+   "12-21"
+  ],
+  "senses": [
+   {
+    "sense": "teaching",
+    "occurrences": [
+     "6-46",
+     "8-6",
+     "8-7",
+     "8-9",
+     "8-10",
+     "8-14",
+     "8-15",
+     "8-50",
+     "8-53",
+     "8-54",
+     "8-56",
+     "8-57",
+     "8-61",
+     "8-77",
+     "9-11",
+     "9-13",
+     "10-24",
+     "10-26",
+     "10-27",
+     "10-29"
+    ],
+    "academic": "Dharma",
+    "children": "teaching",
+    "basis": "style-sheet",
+    "reason": "Policy 3: ཆོས་ཀྱི་རྣམ་གྲངས, ཆོས་བསྟན, Dharma eye, power of the Dharma; capital Dharma."
+   },
+   {
+    "sense": "phenomena",
+    "occurrences": [
+     "4-8",
+     "6-21",
+     "6-23",
+     "6-25",
+     "6-27",
+     "6-28",
+     "6-31",
+     "6-32",
+     "6-34",
+     "6-35",
+     "6-36",
+     "6-37",
+     "7-6",
+     "7-13",
+     "7-20",
+     "7-25",
+     "7-33",
+     "7-35",
+     "7-42",
+     "7-72",
+     "7-73",
+     "8-37",
+     "8-38",
+     "8-47",
+     "8-88",
+     "8-90",
+     "8-92",
+     "8-95",
+     "8-96",
+     "8-97",
+     "8-102",
+     "8-103",
+     "8-104",
+     "8-105",
+     "8-106",
+     "8-112",
+     "8-114",
+     "8-118",
+     "10-25",
+     "10-34",
+     "10-35",
+     "10-37",
+     "10-39",
+     "10-42",
+     "10-43",
+     "10-44",
+     "11-8",
+     "11-9",
+     "12-13",
+     "12-21"
+    ],
+    "academic": "phenomenon",
+    "children": "thing",
+    "basis": "style-sheet",
+    "reason": "Policy 3: objects of mind, any/no dharma, non-dharma; mixed segments 6-28, 8-104, 8-106 placed here."
+   },
+   {
+    "sense": "quality (of a Buddha)",
+    "occurrences": [
+     "6-49",
+     "6-50"
+    ],
+    "academic": "quality",
+    "children": "quality",
+    "basis": "style-sheet",
+    "reason": "Policy 4: སངས་རྒྱས་ཀྱི་ཆོས is 'qualities of a Buddha'; head form 'quality', distinct from 'good quality'."
+   }
+  ]
+ },
+ {
+  "term_id": "T005",
+  "bo": "སེམས་ཅན",
+  "sanskrit": "sattva",
+  "count": 46,
+  "dm": {
+   "sentient beings": 26,
+   "sentient being": 20
+  },
+  "gm": {
+   "sentient beings": 23,
+   "sentient being": 18,
+   "being": 2,
+   "living being": 2,
+   "beings": 1
+  },
+  "occurrences": [
+   "4-1",
+   "4-2",
+   "4-4",
+   "6-10",
+   "6-11",
+   "6-18",
+   "6-20",
+   "6-24",
+   "6-26",
+   "7-9",
+   "7-16",
+   "7-27",
+   "8-11",
+   "8-15",
+   "8-17",
+   "8-18",
+   "8-22",
+   "8-27",
+   "8-30",
+   "8-32",
+   "8-42",
+   "8-43",
+   "8-44",
+   "8-51",
+   "8-56",
+   "8-58",
+   "8-60",
+   "8-62",
+   "8-70",
+   "8-76",
+   "8-84",
+   "8-85",
+   "8-86",
+   "8-111",
+   "8-114",
+   "9-22",
+   "10-29",
+   "10-30",
+   "10-31",
+   "10-32",
+   "10-41",
+   "10-47",
+   "10-48",
+   "10-49",
+   "10-50",
+   "12-15"
+  ],
+  "senses": [
+   {
+    "sense": "sentient being",
+    "occurrences": "all",
+    "academic": "sentient being",
+    "children": "living being",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest sentient being; living being plainer for children."
+   }
+  ]
+ },
+ {
+  "term_id": "T006",
+  "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+  "sanskrit": "bodhisattva",
+  "count": 39,
+  "dm": {
+   "bodhisattva": 34,
+   "Bodhisattva": 3,
+   "Bodhisattvas": 1,
+   "bodhisattvas": 1
+  },
+  "gm": {
+   "bodhisattva": 36,
+   "bodhisattvas": 2,
+   "Bodhisattvas": 1
+  },
+  "occurrences": [
+   "0-4",
+   "1-2",
+   "2-3",
+   "2-4",
+   "3-4",
+   "3-5",
+   "3-7",
+   "4-1",
+   "4-3",
+   "4-4",
+   "4-5",
+   "5-1",
+   "5-6",
+   "6-12",
+   "6-13",
+   "6-15",
+   "6-19",
+   "6-21",
+   "6-23",
+   "7-36",
+   "7-39",
+   "8-33",
+   "8-41",
+   "8-42",
+   "8-48",
+   "8-49",
+   "8-80",
+   "8-84",
+   "8-86",
+   "8-87",
+   "8-88",
+   "8-101",
+   "8-111",
+   "8-112",
+   "8-115",
+   "8-118",
+   "12-20",
+   "12-24",
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "bodhisattva",
+    "occurrences": "all",
+    "academic": "bodhisattva",
+    "children": "awakening hero",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest bodhisattva; children's is the calque built on awakening."
+   }
+  ]
+ },
+ {
+  "term_id": "T007",
+  "bo": "སངས་རྒྱས",
+  "sanskrit": "buddha",
+  "count": 30,
+  "dm": {
+   "Buddha": 19,
+   "Buddhas": 11
+  },
+  "gm": {
+   "Buddha": 15,
+   "Buddhas": 9,
+   "buddha": 4,
+   "buddhas": 2
+  },
+  "occurrences": [
+   "0-4",
+   "2-3",
+   "6-13",
+   "6-14",
+   "6-15",
+   "6-47",
+   "6-48",
+   "6-49",
+   "6-50",
+   "7-28",
+   "7-33",
+   "7-35",
+   "7-55",
+   "7-60",
+   "8-2",
+   "8-19",
+   "8-24",
+   "8-71",
+   "8-72",
+   "8-74",
+   "8-96",
+   "8-98",
+   "8-100",
+   "8-104",
+   "8-106",
+   "8-118",
+   "9-15",
+   "9-17",
+   "11-3",
+   "11-17"
+  ],
+  "senses": [
+   {
+    "sense": "Buddha",
+    "occurrences": "all",
+    "academic": "Buddha",
+    "children": "Buddha",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest it; always capital (policy 10); stays \"Buddha\" in children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T008",
+  "bo": "འདུ་ཤེས",
+  "sanskrit": "saṃjñā",
+  "count": 27,
+  "dm": {
+   "perception": 20,
+   "notion": 6,
+   "notions": 1
+  },
+  "gm": {
+   "perception": 24,
+   "notion": 2,
+   "perceptions": 1
+  },
+  "occurrences": [
+   "4-4",
+   "4-9",
+   "6-10",
+   "6-11",
+   "6-19",
+   "6-20",
+   "6-21",
+   "6-22",
+   "6-23",
+   "6-25",
+   "8-11",
+   "8-12",
+   "8-16",
+   "8-17",
+   "8-18",
+   "8-19",
+   "8-27",
+   "8-28",
+   "8-29",
+   "8-30",
+   "8-31",
+   "8-32",
+   "8-33",
+   "8-43",
+   "8-86",
+   "8-87",
+   "12-22"
+  ],
+  "senses": [
+   {
+    "sense": "perception (one of the aggregates; in the four graspings)",
+    "occurrences": "all",
+    "academic": "perception",
+    "children": "idea",
+    "basis": "style-sheet",
+    "reason": "Core term; policy 16: perception everywhere, notion dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T009",
+  "bo": "བསོད་ནམས",
+  "sanskrit": "puṇya",
+  "count": 24,
+  "dm": {
+   "merit": 24
+  },
+  "gm": {
+   "merit": 24
+  },
+  "occurrences": [
+   "5-1",
+   "5-6",
+   "6-18",
+   "6-40",
+   "6-43",
+   "6-44",
+   "6-45",
+   "6-46",
+   "7-55",
+   "7-58",
+   "7-60",
+   "8-6",
+   "8-51",
+   "8-53",
+   "8-58",
+   "8-59",
+   "10-5",
+   "10-9",
+   "10-10",
+   "10-45",
+   "11-10",
+   "11-11",
+   "11-12",
+   "12-24"
+  ],
+  "senses": [
+   {
+    "sense": "merit",
+    "occurrences": "all",
+    "academic": "merit",
+    "children": "stored-up goodness",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest \"merit\" (24 each); children's plain phrase."
+   }
+  ]
+ },
+ {
+  "term_id": "T010",
+  "bo": "ཚེ་དང་ལྡན་པ",
+  "sanskrit": "āyuṣmat",
+  "count": 21,
+  "dm": {
+   "venerable": 18,
+   "Venerable": 3
+  },
+  "gm": {
+   "venerable": 13,
+   "Venerable": 8
+  },
+  "occurrences": [
+   "1-8",
+   "2-0",
+   "2-1",
+   "3-1",
+   "3-9",
+   "6-5",
+   "6-9",
+   "6-29",
+   "6-33",
+   "7-63",
+   "7-66",
+   "8-7",
+   "8-20",
+   "8-79",
+   "8-83",
+   "8-93",
+   "8-108",
+   "10-28",
+   "10-35",
+   "10-62",
+   "11-12"
+  ],
+  "senses": [
+   {
+    "sense": "honorific before a name",
+    "occurrences": "all",
+    "academic": "venerable",
+    "children": "honored",
+    "basis": "style-sheet",
+    "reason": "Core term; both translations attest venerable."
+   }
+  ]
+ },
+ {
+  "term_id": "T011",
+  "bo": "དགྲ་བཅོམ་པ",
+  "sanskrit": "arhat",
+  "count": 21,
+  "dm": {
+   "Arhat": 13,
+   "arhat": 5,
+   "Arhats": 3
+  },
+  "gm": {
+   "Arhat": 15,
+   "Arhats": 3,
+   "arhat": 3
+  },
+  "occurrences": [
+   "2-3",
+   "6-47",
+   "7-23",
+   "7-25",
+   "7-26",
+   "7-28",
+   "7-29",
+   "7-30",
+   "7-33",
+   "7-35",
+   "7-55",
+   "7-60",
+   "8-2",
+   "8-72",
+   "8-96",
+   "8-98",
+   "8-100",
+   "8-118",
+   "11-6",
+   "11-7",
+   "11-17"
+  ],
+  "senses": [
+   {
+    "sense": "arhat",
+    "occurrences": "all",
+    "academic": "arhat",
+    "children": "worthy one",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest arhat; children's worthy one."
+   }
+  ]
+ },
+ {
+  "term_id": "T012",
+  "bo": "གང་ཟག",
+  "sanskrit": "pudgala",
+  "count": 19,
+  "dm": {
+   "person": 18,
+   "individuals": 1
+  },
+  "gm": {
+   "person": 18,
+   "beings": 1
+  },
+  "occurrences": [
+   "4-4",
+   "6-20",
+   "6-24",
+   "6-26",
+   "6-38",
+   "7-9",
+   "7-16",
+   "7-27",
+   "8-17",
+   "8-18",
+   "8-27",
+   "8-30",
+   "8-32",
+   "8-63",
+   "8-87",
+   "8-114",
+   "10-41",
+   "10-50",
+   "12-15"
+  ],
+  "senses": [
+   {
+    "sense": "person",
+    "occurrences": "all",
+    "academic": "person",
+    "children": "person",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest \"person\" (18 each); \"individuals\"/\"beings\" are one-offs."
+   }
+  ]
+ },
+ {
+  "term_id": "T013",
+  "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+  "sanskrit": "puṇyaskandha",
+  "count": 19,
+  "dm": {
+   "mass of merit": 16,
+   "heap of merit": 2
+  },
+  "gm": {
+   "heap of merit": 10,
+   "mass of merit": 8,
+   "aggregate of merit": 1
+  },
+  "occurrences": [
+   "5-1",
+   "5-6",
+   "6-18",
+   "6-40",
+   "6-43",
+   "6-44",
+   "6-45",
+   "6-46",
+   "8-51",
+   "8-58",
+   "8-59",
+   "8-74",
+   "8-76",
+   "10-9",
+   "10-10",
+   "10-45",
+   "11-10",
+   "11-11",
+   "11-12"
+  ],
+  "senses": [
+   {
+    "sense": "accumulation of merit",
+    "occurrences": "all",
+    "academic": "mass of merit",
+    "children": "pile of stored-up goodness",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest \"mass of merit\"; matches skandha; Gemini's \"heap\" not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T014",
+  "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+  "sanskrit": "dharmaparyāya",
+  "count": 19,
+  "dm": {
+   "Dharma discourse": 12,
+   "discourse on Dharma": 4,
+   "discourse on the Dharma": 2,
+   "phenomena": 1
+  },
+  "gm": {
+   "dharma discourse": 8,
+   "discourse on Dharma": 5,
+   "discourse on the Dharma": 4,
+   "discourse on dharma": 1,
+   "Dharma-discourse": 1
+  },
+  "occurrences": [
+   "6-28",
+   "6-46",
+   "7-60",
+   "7-61",
+   "7-64",
+   "7-67",
+   "8-6",
+   "8-9",
+   "8-10",
+   "8-14",
+   "8-15",
+   "8-50",
+   "8-53",
+   "8-54",
+   "8-56",
+   "8-57",
+   "8-61",
+   "8-77",
+   "11-10"
+  ],
+  "senses": [
+   {
+    "sense": "discourse on the teaching",
+    "occurrences": "all",
+    "academic": "Dharma discourse",
+    "children": "lesson on the teaching",
+    "basis": "style-sheet",
+    "reason": "Core term; teaching sense of ཆོས (policy 3); Sanskrit dharmaparyāya."
+   }
+  ]
+ },
+ {
+  "term_id": "T015",
+  "bo": "སྦྱིན་པ",
+  "sanskrit": "dāna",
+  "count": 18,
+  "dm": {
+   "generosity": 11,
+   "gift": 5,
+   "gifts": 2
+  },
+  "gm": {
+   "gifts": 9,
+   "gift": 7,
+   "gives gifts": 2
+  },
+  "occurrences": [
+   "4-5",
+   "4-6",
+   "4-7",
+   "4-8",
+   "4-9",
+   "5-1",
+   "5-6",
+   "6-40",
+   "6-46",
+   "7-55",
+   "7-60",
+   "8-41",
+   "8-42",
+   "8-48",
+   "8-49",
+   "10-5",
+   "11-10",
+   "12-24"
+  ],
+  "senses": [
+   {
+    "sense": "generosity (virtue, practice of giving)",
+    "occurrences": [
+     "4-5",
+     "4-6",
+     "4-7",
+     "4-8",
+     "4-9",
+     "5-1",
+     "5-6",
+     "8-41",
+     "8-42",
+     "8-48",
+     "8-49"
+    ],
+    "academic": "generosity",
+    "children": "giving",
+    "basis": "style-sheet",
+    "reason": "Style sheet splits སྦྱིན་པ; DharmaMitra's 11 \"generosity\" match the practising bodhisattva passages."
+   },
+   {
+    "sense": "gift (what is given)",
+    "occurrences": [
+     "6-40",
+     "6-46",
+     "7-55",
+     "7-60",
+     "10-5",
+     "11-10",
+     "12-24"
+    ],
+    "academic": "gift",
+    "children": "gift",
+    "basis": "style-sheet",
+    "reason": "Style sheet: gift; the seven offerings of precious substances to Tathāgatas (DM \"gift\" 7, GM \"gift\")."
+   }
+  ]
+ },
+ {
+  "term_id": "T016",
+  "bo": "སྲོག",
+  "sanskrit": "jīva",
+  "count": 17,
+  "dm": {
+   "life-force": 14,
+   "life force": 2,
+   "life": 1
+  },
+  "gm": {
+   "living soul": 7,
+   "life": 5,
+   "life force": 3,
+   "living being": 1,
+   "soul": 1
+  },
+  "occurrences": [
+   "4-4",
+   "6-20",
+   "6-24",
+   "6-26",
+   "7-9",
+   "7-16",
+   "7-27",
+   "8-17",
+   "8-18",
+   "8-27",
+   "8-30",
+   "8-32",
+   "8-62",
+   "8-114",
+   "10-41",
+   "10-50",
+   "12-15"
+  ],
+  "senses": [
+   {
+    "sense": "life-force (one of four bases of grasping)",
+    "occurrences": "all",
+    "academic": "life-force",
+    "children": "life",
+    "basis": "style-sheet",
+    "reason": "Policy 15; GM's 'living soul' dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T017",
+  "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+  "sanskrit": "lakṣaṇasaṃpad",
+  "count": 17,
+  "dm": {
+   "perfect marks": 10,
+   "perfection of marks": 5,
+   "perfection of his marks": 2
+  },
+  "gm": {
+   "perfection of his marks": 10,
+   "perfection of marks": 7
+  },
+  "occurrences": [
+   "6-1",
+   "6-3",
+   "6-4",
+   "6-6",
+   "6-7",
+   "10-18",
+   "10-20",
+   "10-21",
+   "10-22",
+   "10-55",
+   "10-57",
+   "10-59",
+   "10-60",
+   "10-61",
+   "10-63",
+   "11-6",
+   "11-7"
+  ],
+  "senses": [
+   {
+    "sense": "perfection of marks",
+    "occurrences": "all",
+    "academic": "perfection of marks",
+    "children": "perfect marks",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest perfection of marks; DharmaMitra's perfect marks for children."
+   }
+  ]
+ },
+ {
+  "term_id": "T018",
+  "bo": "བདག",
+  "sanskrit": "ātman",
+  "count": 16,
+  "dm": {
+   "self": 16
+  },
+  "gm": {
+   "self": 16
+  },
+  "occurrences": [
+   "6-19",
+   "6-23",
+   "6-25",
+   "7-8",
+   "7-15",
+   "7-26",
+   "8-16",
+   "8-18",
+   "8-27",
+   "8-29",
+   "8-31",
+   "8-62",
+   "10-41",
+   "10-49",
+   "10-51",
+   "12-14"
+  ],
+  "senses": [
+   {
+    "sense": "self",
+    "occurrences": "all",
+    "academic": "self",
+    "children": "self",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest \"self\" (16 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T019",
+  "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+  "sanskrit": "lokadhātu",
+  "count": 16,
+  "dm": {
+   "world systems": 9,
+   "world system": 5,
+   "world-system": 1
+  },
+  "gm": {
+   "world system": 8,
+   "world systems": 5,
+   "world realms": 3
+  },
+  "occurrences": [
+   "6-40",
+   "6-46",
+   "7-54",
+   "7-75",
+   "7-80",
+   "7-81",
+   "9-19",
+   "9-21",
+   "9-22",
+   "10-45",
+   "11-10",
+   "12-1",
+   "12-7",
+   "12-8",
+   "12-9",
+   "12-24"
+  ],
+  "senses": [
+   {
+    "sense": "world system",
+    "occurrences": "all",
+    "academic": "world system",
+    "children": "world realm",
+    "basis": "style-sheet",
+    "reason": "Core term and policy 13: both attest \"world system\"; Gemini attests \"world realms\" for children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T020",
+  "bo": "མཚན",
+  "sanskrit": "lakṣaṇa",
+  "count": 15,
+  "dm": {
+   "marks": 14,
+   "Major Marks": 1
+  },
+  "gm": {
+   "marks": 14,
+   "Major": 1
+  },
+  "occurrences": [
+   "6-8",
+   "8-0",
+   "8-2",
+   "8-4",
+   "8-5",
+   "10-18",
+   "10-20",
+   "10-21",
+   "10-22",
+   "10-55",
+   "10-57",
+   "10-59",
+   "10-60",
+   "10-61",
+   "10-63"
+  ],
+  "senses": [
+   {
+    "sense": "mark of a Buddha",
+    "occurrences": "all",
+    "academic": "mark",
+    "children": "mark",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest marks; distinct from སྐྱེས་བུ and མཚན་མ sign (policy 20)."
+   }
+  ]
+ },
+ {
+  "term_id": "T021",
+  "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+  "sanskrit": "anuttarā samyaksaṃbodhi",
+  "count": 15,
+  "dm": {
+   "unsurpassed, perfect, and complete enlightenment": 8,
+   "unsurpassed, perfectly complete enlightenment": 7
+  },
+  "gm": {
+   "unexcelled, perfectly complete awakening": 6,
+   "unsurpassable, perfectly complete awakening": 6,
+   "unsurpassed, perfectly complete awakening": 2,
+   "unsurpassed, perfectly complete enlightenment": 1
+  },
+  "occurrences": [
+   "6-31",
+   "6-34",
+   "6-47",
+   "8-34",
+   "8-90",
+   "8-92",
+   "8-95",
+   "8-97",
+   "8-100",
+   "8-102",
+   "10-34",
+   "10-35",
+   "10-38",
+   "10-40",
+   "10-41"
+  ],
+  "senses": [
+   {
+    "sense": "unsurpassed perfect awakening",
+    "occurrences": "all",
+    "academic": "unsurpassed, perfectly complete awakening",
+    "children": "highest, complete awakening",
+    "basis": "style-sheet",
+    "reason": "Core term; Gemini attests it, DharmaMitra's \"enlightenment\" replaced by awakening (policy 1)."
+   }
+  ]
+ },
+ {
+  "term_id": "T022",
+  "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+  "sanskrit": "bodhisattva mahāsattva",
+  "count": 14,
+  "dm": {
+   "bodhisattva mahāsattvas": 7,
+   "bodhisattva mahāsattva": 4,
+   "Bodhisattva Mahāsattvas": 3
+  },
+  "gm": {
+   "bodhisattva great beings": 9,
+   "bodhisattva, a great being": 3,
+   "bodhisattvas, great beings": 1,
+   "bodhisattva great being": 1
+  },
+  "occurrences": [
+   "1-2",
+   "2-3",
+   "3-4",
+   "3-5",
+   "6-12",
+   "6-13",
+   "6-15",
+   "6-19",
+   "6-21",
+   "6-23",
+   "7-39",
+   "8-33",
+   "8-118",
+   "12-24"
+  ],
+  "senses": [
+   {
+    "sense": "bodhisattva great being",
+    "occurrences": "all",
+    "academic": "bodhisattva great being",
+    "children": "great awakening hero",
+    "basis": "style-sheet",
+    "reason": "Core term; policy 5, GM attests it."
+   }
+  ]
+ },
+ {
+  "term_id": "T023",
+  "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+  "sanskrit": "samyaksaṃbuddha",
+  "count": 14,
+  "dm": {
+   "Perfectly Complete Buddha": 6,
+   "perfectly complete Buddha": 4,
+   "perfectly complete Buddhas": 3,
+   "Perfectly Enlightened Buddha": 1
+  },
+  "gm": {
+   "perfectly and fully awakened Buddha": 5,
+   "perfectly complete buddha": 3,
+   "perfectly and fully awakened Buddhas": 2,
+   "Perfectly Awakened Buddha": 1,
+   "perfectly complete Buddhas": 1,
+   "fully awakened Buddha": 1,
+   "Perfectly Complete Buddha": 1
+  },
+  "occurrences": [
+   "2-3",
+   "6-47",
+   "7-28",
+   "7-33",
+   "7-35",
+   "7-55",
+   "7-60",
+   "8-2",
+   "8-72",
+   "8-96",
+   "8-98",
+   "8-100",
+   "8-118",
+   "11-17"
+  ],
+  "senses": [
+   {
+    "sense": "epithet of the Buddha",
+    "occurrences": "all",
+    "academic": "perfectly complete Buddha",
+    "children": "complete Buddha",
+    "basis": "style-sheet",
+    "reason": "Core term; DharmaMitra attests it; Gemini's 'perfectly and fully awakened' is not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T024",
+  "bo": "མི་གནས་པ",
+  "sanskrit": "apratiṣṭhita",
+  "count": 14,
+  "dm": {
+   "without abiding": 13,
+   "non-abiding": 1
+  },
+  "gm": {
+   "without abiding": 12,
+   "do not abide": 1,
+   "non-abiding": 1
+  },
+  "occurrences": [
+   "4-5",
+   "4-6",
+   "4-7",
+   "4-8",
+   "4-9",
+   "5-1",
+   "5-6",
+   "8-35",
+   "8-36",
+   "8-37",
+   "8-38",
+   "8-39",
+   "8-40",
+   "8-41"
+  ],
+  "senses": [
+   {
+    "sense": "not abiding",
+    "occurrences": "all",
+    "academic": "without abiding",
+    "children": "without staying",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest \"without abiding\" (13 and 12); children's plainer."
+   }
+  ]
+ },
+ {
+  "term_id": "T025",
+  "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+  "sanskrit": "abhisaṃbuddha",
+  "count": 13,
+  "dm": {
+   "fully awakened": 7,
+   "fully realized": 5,
+   "perfectly awakened": 1
+  },
+  "gm": {
+   "fully awakened": 10,
+   "manifestly and completely awakened": 3
+  },
+  "occurrences": [
+   "6-31",
+   "6-34",
+   "6-36",
+   "8-47",
+   "8-90",
+   "8-92",
+   "8-95",
+   "8-96",
+   "8-97",
+   "8-102",
+   "8-103",
+   "10-34",
+   "10-35"
+  ],
+  "senses": [
+   {
+    "sense": "fully awakened (of a Buddha's realization)",
+    "occurrences": "all",
+    "academic": "fully awakened",
+    "children": "fully awake",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest \"fully awakened\"; awakening per policy 1."
+   }
+  ]
+ },
+ {
+  "term_id": "T026",
+  "bo": "བྱང་ཆུབ",
+  "sanskrit": "bodhi",
+  "count": 12,
+  "dm": {
+   "enlightenment": 11,
+   "awakening": 1
+  },
+  "gm": {
+   "awakening": 11,
+   "enlightenment": 1
+  },
+  "occurrences": [
+   "6-31",
+   "6-34",
+   "6-47",
+   "8-34",
+   "8-60",
+   "8-71",
+   "8-90",
+   "8-92",
+   "8-95",
+   "8-97",
+   "8-100",
+   "8-102"
+  ],
+  "senses": [
+   {
+    "sense": "awakening",
+    "occurrences": "all",
+    "academic": "awakening",
+    "children": "awakening",
+    "basis": "style-sheet",
+    "reason": "Core term; policy 1 awakening, not enlightenment; Sanskrit (saṃ)bodhi."
+   }
+  ]
+ },
+ {
+  "term_id": "T027",
+  "bo": "རིགས་ཀྱི་བུ་མོ",
+  "sanskrit": "kuladuhitṛ",
+  "count": 12,
+  "dm": {
+   "daughter of noble family": 5,
+   "daughters of noble family": 2,
+   "daughter of good family": 2,
+   "noble daughters": 1,
+   "noble daughter": 1
+  },
+  "gm": {
+   "daughter of noble family": 7,
+   "daughters of noble family": 3,
+   "daughter of good family": 2
+  },
+  "occurrences": [
+   "6-40",
+   "6-43",
+   "6-46",
+   "8-50",
+   "8-68",
+   "8-76",
+   "10-5",
+   "10-9",
+   "10-45",
+   "11-10",
+   "12-1",
+   "12-24"
+  ],
+  "senses": [
+   {
+    "sense": "daughter of a good family",
+    "occurrences": "all",
+    "academic": "daughter of noble family",
+    "children": "daughter of a good family",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest \"daughter of noble family\"; \"good family\" attested for children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T028",
+  "bo": "སྤྱན",
+  "sanskrit": "cakṣus",
+  "count": 11,
+  "dm": {
+   "eye": 10,
+   "Eyes": 1
+  },
+  "gm": {
+   "eye": 10,
+   "Eyes": 1
+  },
+  "occurrences": [
+   "9-0",
+   "9-1",
+   "9-2",
+   "9-4",
+   "9-5",
+   "9-7",
+   "9-9",
+   "9-11",
+   "9-13",
+   "9-15",
+   "9-17"
+  ],
+  "senses": [
+   {
+    "sense": "eye",
+    "occurrences": "all",
+    "academic": "eye",
+    "children": "eye",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest eye (10 each); base of the five eyes."
+   }
+  ]
+ },
+ {
+  "term_id": "T029",
+  "bo": "རིགས་ཀྱི་བུ",
+  "sanskrit": "kulaputra",
+  "count": 10,
+  "dm": {
+   "son": 4,
+   "sons": 2,
+   "son of good family": 1,
+   "noble sons": 1,
+   "noble son": 1
+  },
+  "gm": {
+   "son of noble family": 5,
+   "sons of noble family": 3,
+   "son of good family": 2
+  },
+  "occurrences": [
+   "7-30",
+   "8-50",
+   "8-68",
+   "8-76",
+   "10-5",
+   "10-9",
+   "10-45",
+   "11-10",
+   "12-1",
+   "12-24"
+  ],
+  "senses": [
+   {
+    "sense": "son of noble family",
+    "occurrences": "all",
+    "academic": "son of noble family",
+    "children": "son of a good family",
+    "basis": "style-sheet",
+    "reason": "Core term: Gemini attests noble family; both attest good family for children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T030",
+  "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+  "sanskrit": "prajñāpāramitā",
+  "count": 9,
+  "dm": {
+   "Perfection of Wisdom": 8,
+   "perfection of wisdom": 1
+  },
+  "gm": {
+   "Perfection of Wisdom": 4,
+   "perfection of wisdom": 4,
+   "Prajñāpāramitā": 1
+  },
+  "occurrences": [
+   "0",
+   "0-1",
+   "0-3",
+   "7-67",
+   "7-69",
+   "7-70",
+   "10-45",
+   "12-24",
+   "13-3"
+  ],
+  "senses": [
+   {
+    "sense": "perfection of wisdom (title)",
+    "occurrences": "all",
+    "academic": "perfection of wisdom",
+    "children": "perfect wisdom",
+    "basis": "style-sheet",
+    "reason": "Core term; capital only as text name (policy 10); head form lower case.",
+    "draft": {
+     "academic": "perfection of wisdom"
+    },
+    "review": [
+     "academic: minor — Policy 10 dictates capitalization when referring to the name of the text or class of texts.",
+     "academic: editor override — user 2026-10-07: style sheet capitalises it only as a text title"
+    ],
+    "override": {
+     "academic": true
+    }
+   }
+  ]
+ },
+ {
+  "term_id": "T031",
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+  "sanskrit": "bodhisattvayāna",
+  "count": 9,
+  "dm": {
+   "bodhisattva vehicle": 8,
+   "path of the bodhisattva": 1
+  },
+  "gm": {
+   "bodhisattva vehicle": 7,
+   "Bodhisattva vehicle": 2
+  },
+  "occurrences": [
+   "2-4",
+   "3-7",
+   "4-1",
+   "8-80",
+   "8-84",
+   "8-88",
+   "11-8",
+   "11-9",
+   "12-20"
+  ],
+  "senses": [
+   {
+    "sense": "vehicle of the bodhisattva",
+    "occurrences": "all",
+    "academic": "bodhisattva vehicle",
+    "children": "awakening hero's vehicle",
+    "basis": "both",
+    "reason": "Both attest \"bodhisattva vehicle\"; parts bodhisattva and vehicle from the core terms; children's built from \"awakening hero\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T032",
+  "bo": "འཛིན་པ",
+  "sanskrit": "grāha",
+  "count": 9,
+  "dm": {
+   "grasping": 9
+  },
+  "gm": {
+   "grasping": 7,
+   "grasp": 2
+  },
+  "occurrences": [
+   "6-24",
+   "6-26",
+   "7-8",
+   "7-9",
+   "7-15",
+   "7-16",
+   "7-26",
+   "7-27",
+   "12-10"
+  ],
+  "senses": [
+   {
+    "sense": "grasping",
+    "occurrences": "all",
+    "academic": "grasping",
+    "children": "clinging",
+    "basis": "style-sheet",
+    "reason": "Core term; policy 17; Sanskrit grāha as in sattvagrāha."
+   }
+  ]
+ },
+ {
+  "term_id": "T033",
+  "bo": "སེམས",
+  "sanskrit": "citta",
+  "count": 9,
+  "dm": {
+   "mind": 6,
+   "thought": 3
+  },
+  "gm": {
+   "mind": 8,
+   "minds": 1
+  },
+  "occurrences": [
+   "7-39",
+   "7-40",
+   "8-82",
+   "9-22",
+   "9-23",
+   "9-24",
+   "10-1",
+   "10-2",
+   "10-3"
+  ],
+  "senses": [
+   {
+    "sense": "mind",
+    "occurrences": "all",
+    "academic": "mind",
+    "children": "mind",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest \"mind\" (6 and 8); \"thought\" not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T034",
+  "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+  "sanskrit": "pāramitā",
+  "count": 9,
+  "dm": {
+   "perfection": 5,
+   "Perfection": 3,
+   "perfections": 1
+  },
+  "gm": {
+   "perfection": 7,
+   "Perfection": 1,
+   "pāramitā": 1
+  },
+  "occurrences": [
+   "7-67",
+   "7-69",
+   "7-70",
+   "8-23",
+   "8-24",
+   "8-25",
+   "8-26",
+   "12-24",
+   "13-3"
+  ],
+  "senses": [
+   {
+    "sense": "perfection",
+    "occurrences": "all",
+    "academic": "perfection",
+    "children": "perfection",
+    "basis": "style-sheet",
+    "reason": "Core term; policy 18; pāramitā not kept."
+   }
+  ]
+ },
+ {
+  "term_id": "T035",
+  "bo": "སེམས་དཔའ་ཆེན་པོ",
+  "sanskrit": "mahāsattva",
+  "count": 8,
+  "dm": {
+   "mahāsattvas": 4,
+   "mahāsattva": 4
+  },
+  "gm": {
+   "great beings": 4,
+   "great being": 4
+  },
+  "occurrences": [
+   "1-2",
+   "2-3",
+   "3-4",
+   "3-5",
+   "7-39",
+   "8-33",
+   "8-118",
+   "12-24"
+  ],
+  "senses": [
+   {
+    "sense": "great being",
+    "occurrences": "all",
+    "academic": "great being",
+    "children": "great hero",
+    "basis": "style-sheet",
+    "reason": "Core term per policy 5; DharmaMitra's mahāsattva not kept."
+   }
+  ]
+ },
+ {
+  "term_id": "T036",
+  "bo": "བདེ་བར་གཤེགས་པ",
+  "sanskrit": "sugata",
+  "count": 8,
+  "dm": {
+   "Sugata": 8
+  },
+  "gm": {
+   "Sugata": 8
+  },
+  "occurrences": [
+   "2-3",
+   "6-42",
+   "7-45",
+   "7-57",
+   "7-77",
+   "8-9",
+   "10-7",
+   "12-17"
+  ],
+  "senses": [
+   {
+    "sense": "epithet of the Buddha",
+    "occurrences": "all",
+    "academic": "Sugata",
+    "children": "Well-Gone One",
+    "basis": "both",
+    "reason": "Both keep Sugata (8 each); policy 7 keeps it; policy 8 gives Well-Gone One for children."
+   }
+  ]
+ },
+ {
+  "term_id": "T037",
+  "bo": "མདོ་སྡེ",
+  "sanskrit": "sūtra",
+  "count": 8,
+  "dm": {
+   "sūtra": 5,
+   "sutra": 3
+  },
+  "gm": {
+   "sūtra": 8
+  },
+  "occurrences": [
+   "6-10",
+   "6-11",
+   "6-16",
+   "8-11",
+   "8-22",
+   "8-65",
+   "8-68",
+   "8-74"
+  ],
+  "senses": [
+   {
+    "sense": "sūtra",
+    "occurrences": "all",
+    "academic": "sūtra",
+    "children": "sacred text",
+    "basis": "style-sheet",
+    "reason": "Policy 21: \"sūtra\" for མདོ and མདོ་སྡེ; children's has no Sanskrit, so \"sacred text\" (new)."
+   }
+  ]
+ },
+ {
+  "term_id": "T038",
+  "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+  "sanskrit": "trisāhasramahāsāhasralokadhātu",
+  "count": 8,
+  "dm": {
+   "trichiliocosm world system": 2,
+   "three-thousandfold great thousand world system": 2,
+   "trichiliocosm of great thousand-fold world systems": 1,
+   "great trichiliocosm world system": 1,
+   "trichiliocosm": 1,
+   "trichiliocosm world-system": 1
+  },
+  "gm": {
+   "three-thousandfold great thousandfold world system": 3,
+   "trichiliocosm, the great thousandfold world system": 3,
+   "three-thousandfold great thousandfold world realm": 1,
+   "three thousand grand thousand world systems": 1
+  },
+  "occurrences": [
+   "6-40",
+   "6-46",
+   "7-75",
+   "10-5",
+   "10-45",
+   "12-1",
+   "12-7",
+   "12-8"
+  ],
+  "senses": [
+   {
+    "sense": "cosmological measure",
+    "occurrences": "all",
+    "academic": "three-thousandfold great thousandfold world system",
+    "children": "universe of a billion worlds",
+    "basis": "style-sheet",
+    "reason": "Policy 12; Gemini's main form; trichiliocosm not used; children's needs specialist check."
+   }
+  ]
+ },
+ {
+  "term_id": "T039",
+  "bo": "རིན་པོ་ཆེ་སྣ་བདུན",
+  "sanskrit": "saptaratna",
+  "count": 8,
+  "dm": {
+   "seven types of precious jewels": 3,
+   "seven types of precious substances": 2,
+   "seven kinds of precious substances": 1,
+   "seven kinds of precious jewels": 1,
+   "seven precious substances": 1
+  },
+  "gm": {
+   "seven precious substances": 6,
+   "seven precious things": 2
+  },
+  "occurrences": [
+   "6-40",
+   "6-46",
+   "7-54",
+   "7-59",
+   "10-5",
+   "10-45",
+   "11-10",
+   "12-24"
+  ],
+  "senses": [
+   {
+    "sense": "the seven precious things",
+    "occurrences": "all",
+    "academic": "seven precious substances",
+    "children": "seven precious things",
+    "basis": "gm",
+    "reason": "Gemini attests both forms (6 and 2); DharmaMitra varies between jewels and substances."
+   }
+  ]
+ },
+ {
+  "term_id": "T040",
+  "bo": "མར་མེ་མཛད",
+  "sanskrit": "dīpaṃkara",
+  "count": 8,
+  "dm": {
+   "Dīpaṃkara": 8
+  },
+  "gm": {
+   "Dīpaṃkara": 8
+  },
+  "occurrences": [
+   "7-33",
+   "7-35",
+   "8-72",
+   "8-90",
+   "8-92",
+   "8-95",
+   "8-96",
+   "8-98"
+  ],
+  "senses": [
+   {
+    "sense": "name of a past Buddha",
+    "occurrences": "all",
+    "academic": "Dīpaṃkara",
+    "children": "Dipankara",
+    "basis": "both",
+    "reason": "Both attest Dīpaṃkara (8 each); children's drops diacritics (policy 8)."
+   }
+  ]
+ },
+ {
+  "term_id": "T041",
+  "bo": "སེམས་བསྐྱེད",
+  "sanskrit": "cittam utpādayati",
+  "count": 8,
+  "dm": {
+   "generate the mind": 8
+  },
+  "gm": {
+   "give rise to the mind": 6,
+   "produce the mind": 2
+  },
+  "occurrences": [
+   "7-41",
+   "7-42",
+   "8-34",
+   "8-35",
+   "8-36",
+   "8-37",
+   "8-38",
+   "8-39"
+  ],
+  "senses": [
+   {
+    "sense": "generate the mind",
+    "occurrences": "all",
+    "academic": "generate the mind",
+    "children": "set the mind",
+    "basis": "style-sheet",
+    "reason": "Policy 19: DharmaMitra's uniform verb; Gemini's give rise/produce dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T042",
+  "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+  "sanskrit": "samyaksaṃbodhi",
+  "count": 8,
+  "dm": {
+   "perfectly complete enlightenment": 6,
+   "perfect enlightenment": 2
+  },
+  "gm": {
+   "perfectly complete awakening": 6,
+   "perfect and full awakening": 2
+  },
+  "occurrences": [
+   "8-90",
+   "8-92",
+   "8-95",
+   "8-97",
+   "8-100",
+   "8-102",
+   "11-6",
+   "11-7"
+  ],
+  "senses": [
+   {
+    "sense": "perfect awakening",
+    "occurrences": "all",
+    "academic": "perfectly complete awakening",
+    "children": "complete awakening",
+    "basis": "gm",
+    "reason": "Gemini's majority (6); awakening per policy 1; core term form without \"unsurpassed\"; children's is new."
+   }
+  ]
+ },
+ {
+  "term_id": "T043",
+  "bo": "ཕུང་པོ",
+  "sanskrit": "skandha",
+  "count": 7,
+  "dm": {
+   "mass": 4,
+   "aggregates": 1
+  },
+  "gm": {
+   "mass": 5,
+   "aggregates": 2
+  },
+  "occurrences": [
+   "4-1",
+   "6-40",
+   "6-43",
+   "6-44",
+   "6-45",
+   "6-46",
+   "8-84"
+  ],
+  "senses": [
+   {
+    "sense": "heap (as in the mass of merit)",
+    "occurrences": [
+     "6-40",
+     "6-43",
+     "6-44",
+     "6-45",
+     "6-46"
+    ],
+    "academic": "mass",
+    "children": "pile",
+    "basis": "style-sheet",
+    "reason": "Core term, sense heap: both attest \"mass\"; children's \"pile\"."
+   },
+   {
+    "sense": "skandha (as in nirvāṇa without remainder of the aggregates)",
+    "occurrences": [
+     "4-1",
+     "8-84"
+    ],
+    "academic": "aggregate",
+    "children": "group",
+    "basis": "style-sheet",
+    "reason": "Core term, sense skandha: both attest \"aggregates\"; occurrences 4-1 and 8-84 read \"without remainder of the aggregates\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T044",
+  "bo": "བྱང་ཆུབ་སེམས་དཔ",
+  "sanskrit": "bodhisattva",
+  "count": 7,
+  "dm": {
+   "bodhisattva": 7
+  },
+  "gm": {
+   "Bodhisattva": 5,
+   "bodhisattva": 2
+  },
+  "occurrences": [
+   "4-9",
+   "6-27",
+   "11-8",
+   "11-9",
+   "11-10",
+   "11-11",
+   "11-12"
+  ],
+  "senses": [
+   {
+    "sense": "bodhisattva (variant spelling)",
+    "occurrences": "all",
+    "academic": "bodhisattva",
+    "children": "awakening hero",
+    "basis": "style-sheet",
+    "reason": "Variant spelling of བྱང་ཆུབ་སེམས་དཔའ; policy 21 shares one rendering."
+   }
+  ]
+ },
+ {
+  "term_id": "T045",
+  "bo": "ཤེས་རབ",
+  "sanskrit": "prajñā",
+  "count": 6,
+  "dm": {
+   "wisdom": 3,
+   "Wisdom": 3
+  },
+  "gm": {
+   "wisdom": 5,
+   "Wisdom": 1
+  },
+  "occurrences": [
+   "6-12",
+   "7-67",
+   "7-69",
+   "7-70",
+   "9-7",
+   "9-9"
+  ],
+  "senses": [
+   {
+    "sense": "wisdom",
+    "occurrences": "all",
+    "academic": "wisdom",
+    "children": "wisdom",
+    "basis": "both",
+    "reason": "Both attest \"wisdom\"; capital only in text titles (policy 10); one rendering for ཤེས་རབ."
+   }
+  ]
+ },
+ {
+  "term_id": "T046",
+  "bo": "བདག་ཏུ་འཛིན་པ",
+  "sanskrit": "ātmagrāha",
+  "count": 6,
+  "dm": {
+   "grasping at a self": 6
+  },
+  "gm": {
+   "grasping at a self": 3,
+   "grasp at a self": 2,
+   "apprehension of a self": 1
+  },
+  "occurrences": [
+   "6-23",
+   "6-25",
+   "7-8",
+   "7-15",
+   "7-26",
+   "10-49"
+  ],
+  "senses": [
+   {
+    "sense": "grasping at a self",
+    "occurrences": "all",
+    "academic": "grasping at a self",
+    "children": "clinging to a self",
+    "basis": "style-sheet",
+    "reason": "Core term; DM and GM attest it; policy 15 and 17."
+   }
+  ]
+ },
+ {
+  "term_id": "T047",
+  "bo": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+  "sanskrit": "catuṣpādikā gāthā",
+  "count": 6,
+  "dm": {
+   "four-line stanza": 4,
+   "four-line verse": 2
+  },
+  "gm": {
+   "four-line verse": 5,
+   "four-line stanza": 1
+  },
+  "occurrences": [
+   "6-46",
+   "7-60",
+   "7-61",
+   "8-6",
+   "10-45",
+   "12-24"
+  ],
+  "senses": [
+   {
+    "sense": "four-line verse",
+    "occurrences": "all",
+    "academic": "four-line verse",
+    "children": "four-line verse",
+    "basis": "both",
+    "reason": "Combined count favours verse (7 vs 5); policy 22 hyphenates it."
+   }
+  ]
+ },
+ {
+  "term_id": "T048",
+  "bo": "འབྲས་བུ",
+  "sanskrit": "phala",
+  "count": 6,
+  "dm": {
+   "fruit": 5,
+   "Fruition": 1
+  },
+  "gm": {
+   "fruit": 5,
+   "Resultant": 1
+  },
+  "occurrences": [
+   "7-2",
+   "7-8",
+   "7-11",
+   "7-15",
+   "7-18",
+   "11-0"
+  ],
+  "senses": [
+   {
+    "sense": "result of practice",
+    "occurrences": "all",
+    "academic": "fruit",
+    "children": "fruit",
+    "basis": "style-sheet",
+    "reason": "Core term: both attest \"fruit\" (5 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T049",
+  "bo": "ཞིང་བཀོད་པ",
+  "sanskrit": "kṣetravyūha",
+  "count": 6,
+  "dm": {
+   "adornment of the buddha-fields": 3,
+   "arrays of buddhafields": 3
+  },
+  "gm": {
+   "array of the fields": 3,
+   "arrays of the fields": 3
+  },
+  "occurrences": [
+   "7-36",
+   "7-37",
+   "7-38",
+   "8-115",
+   "8-116",
+   "8-117"
+  ],
+  "senses": [
+   {
+    "sense": "array of Buddha-fields",
+    "occurrences": "all",
+    "academic": "array of Buddha-fields",
+    "children": "arrangement of Buddha-lands",
+    "basis": "both",
+    "reason": "Both attest \"array\" and \"fields\"; ཞིང is Buddha-field (core term); DharmaMitra's \"adornment\" not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T050",
+  "bo": "ཞིང",
+  "sanskrit": "kṣetra",
+  "count": 6,
+  "dm": {
+   "buddha-fields": 3,
+   "buddhafields": 3
+  },
+  "gm": {
+   "fields": 6
+  },
+  "occurrences": [
+   "7-36",
+   "7-37",
+   "7-38",
+   "8-115",
+   "8-116",
+   "8-117"
+  ],
+  "senses": [
+   {
+    "sense": "Buddha-field",
+    "occurrences": "all",
+    "academic": "Buddha-field",
+    "children": "Buddha-land",
+    "basis": "style-sheet",
+    "reason": "Core term ཞིང; DharmaMitra's buddha-fields, capitalised per policy 10; Gemini's bare fields not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T051",
+  "bo": "འཇིག་རྟེན",
+  "sanskrit": "loka",
+  "count": 6,
+  "dm": {
+   "world": 6
+  },
+  "gm": {
+   "world": 6
+  },
+  "occurrences": [
+   "7-61",
+   "8-65",
+   "9-19",
+   "9-21",
+   "9-22",
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "world",
+    "occurrences": "all",
+    "academic": "world",
+    "children": "world",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest \"world\" (6 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T052",
+  "bo": "འཕགས་པ",
+  "sanskrit": "ārya",
+  "count": 5,
+  "dm": {
+   "Noble": 4,
+   "noble": 1
+  },
+  "gm": {
+   "Noble": 3,
+   "noble": 2
+  },
+  "occurrences": [
+   "0",
+   "0-1",
+   "0-3",
+   "6-38",
+   "13-3"
+  ],
+  "senses": [
+   {
+    "sense": "noble",
+    "occurrences": "all",
+    "academic": "noble",
+    "children": "noble",
+    "basis": "both",
+    "reason": "Both attest noble (policy 21: one rendering in all uses); lower-case head, capital in titles."
+   }
+  ]
+ },
+ {
+  "term_id": "T053",
+  "bo": "རྡོ་རྗེ་གཅོད་པ",
+  "sanskrit": "vajracchedikā",
+  "count": 5,
+  "dm": {
+   "Diamond Cutter": 3,
+   "Diamond-Cutter": 1,
+   "Cuts Like a Diamond": 1
+  },
+  "gm": {
+   "Diamond Cutter": 3,
+   "Vajracchedikā": 2
+  },
+  "occurrences": [
+   "0",
+   "0-1",
+   "0-3",
+   "13-3",
+   "13-5"
+  ],
+  "senses": [
+   {
+    "sense": "title of the sutra",
+    "occurrences": "all",
+    "academic": "Diamond Cutter",
+    "children": "Diamond Cutter",
+    "basis": "both",
+    "reason": "Both use Diamond Cutter; Tibetan titles translated (policy 24), capitalised as a title."
+   }
+  ]
+ },
+ {
+  "term_id": "T054",
+  "bo": "གཟུགས",
+  "sanskrit": "rūpa",
+  "count": 5,
+  "dm": {
+   "form": 3,
+   "forms": 1,
+   "visible forms": 1
+  },
+  "gm": {
+   "form": 4,
+   "forms": 1
+  },
+  "occurrences": [
+   "4-7",
+   "7-6",
+   "7-41",
+   "8-35",
+   "11-1"
+  ],
+  "senses": [
+   {
+    "sense": "form (sense object)",
+    "occurrences": "all",
+    "academic": "form",
+    "children": "shape",
+    "basis": "both",
+    "reason": "Both attest \"form\" (3 and 4); children's \"shape\" is new and plain."
+   }
+  ]
+ },
+ {
+  "term_id": "T055",
+  "bo": "སྒྲ",
+  "sanskrit": "śabda",
+  "count": 5,
+  "dm": {
+   "sound": 3,
+   "sounds": 2
+  },
+  "gm": {
+   "sounds": 3,
+   "sound": 2
+  },
+  "occurrences": [
+   "4-8",
+   "7-6",
+   "7-42",
+   "8-36",
+   "11-1"
+  ],
+  "senses": [
+   {
+    "sense": "sound as object of the senses",
+    "occurrences": "all",
+    "academic": "sound",
+    "children": "sound",
+    "basis": "both",
+    "reason": "Both attest \"sound\"; plain enough for children."
+   }
+  ]
+ },
+ {
+  "term_id": "T056",
+  "bo": "ཡང་དག་པར་འདུ་ཤེས",
+  "sanskrit": "bhūtasaṃjñā",
+  "count": 5,
+  "dm": {
+   "correct perception": 5
+  },
+  "gm": {
+   "true perception": 5
+  },
+  "occurrences": [
+   "6-10",
+   "6-11",
+   "8-11",
+   "8-12",
+   "8-13"
+  ],
+  "senses": [
+   {
+    "sense": "true perception",
+    "occurrences": "all",
+    "academic": "true perception",
+    "children": "true idea",
+    "basis": "gm",
+    "reason": "Gemini's true; Sanskrit bhūta is real/true; correct kept for ཡང་དག་པར་ཞུགས་པ; builds on perception."
+   }
+  ]
+ },
+ {
+  "term_id": "T057",
+  "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+  "sanskrit": "kulaputra vā kuladuhitā vā",
+  "count": 5,
+  "dm": {
+   "son or daughter of noble family": 3,
+   "sons or daughters of noble family": 1,
+   "noble sons or noble daughters": 1
+  },
+  "gm": {
+   "son of noble family or daughter of noble family": 3,
+   "sons of noble family or daughters of noble family": 2
+  },
+  "occurrences": [
+   "6-40",
+   "6-43",
+   "6-46",
+   "8-50",
+   "8-76"
+  ],
+  "senses": [
+   {
+    "sense": "son or daughter of noble family",
+    "occurrences": "all",
+    "academic": "son of noble family or daughter of noble family",
+    "children": "son of a good family or daughter of a good family",
+    "basis": "gm",
+    "reason": "Built from the two parts in order (policy 14); Gemini attests the full form (5)."
+   }
+  ]
+ },
+ {
+  "term_id": "T058",
+  "bo": "ཐེག་པ",
+  "sanskrit": "yāna",
+  "count": 5,
+  "dm": {
+   "vehicle": 4,
+   "path": 1
+  },
+  "gm": {
+   "vehicle": 5
+  },
+  "occurrences": [
+   "8-56",
+   "8-80",
+   "8-84",
+   "8-88",
+   "12-20"
+  ],
+  "senses": [
+   {
+    "sense": "vehicle",
+    "occurrences": "all",
+    "academic": "vehicle",
+    "children": "vehicle",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest vehicle; DM's 'path' dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T059",
+  "bo": "ཆོས་ཐམས་ཅད",
+  "sanskrit": "sarvadharma",
+  "count": 5,
+  "dm": {
+   "all phenomena": 5
+  },
+  "gm": {
+   "all dharmas": 5
+  },
+  "occurrences": [
+   "8-104",
+   "8-105",
+   "8-106",
+   "8-114",
+   "12-20"
+  ],
+  "senses": [
+   {
+    "sense": "all phenomena (sense: phenomena)",
+    "occurrences": "all",
+    "academic": "all phenomena",
+    "children": "all things",
+    "basis": "dm",
+    "reason": "Sense phenomena per policy 3; DharmaMitra's all phenomena; Gemini's dharmas not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T060",
+  "bo": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+  "sanskrit": "paramāṇusaṃcaya",
+  "count": 5,
+  "dm": {
+   "collection of the finest atoms": 5
+  },
+  "gm": {
+   "mass of fine atoms": 5
+  },
+  "occurrences": [
+   "12-1",
+   "12-3",
+   "12-4",
+   "12-5",
+   "12-6"
+  ],
+  "senses": [
+   {
+    "sense": "collection of fine atoms",
+    "occurrences": "all",
+    "academic": "collection of subtle particles",
+    "children": "bunch of tiny specks",
+    "basis": "dm",
+    "reason": "DharmaMitra's \"collection\" (5); \"mass\" is reserved for ཕུང་པོ (policy 20); children's is new.",
+    "draft": {
+     "academic": "collection of finest atoms"
+    },
+    "review": [
+     "academic: major — Policy 14 requires matching parts; T147 is 'subtle particle'."
+    ]
+   }
+  ]
+ },
+ {
+  "term_id": "T061",
+  "bo": "དངོས་པོ",
+  "sanskrit": "vastu",
+  "count": 4,
+  "dm": {
+   "real entity": 2,
+   "phenomena": 1,
+   "entities": 1
+  },
+  "gm": {
+   "objects": 2,
+   "entity": 2
+  },
+  "occurrences": [
+   "4-5",
+   "7-46",
+   "7-48",
+   "8-48"
+  ],
+  "senses": [
+   {
+    "sense": "entity, basis for attachment",
+    "occurrences": "all",
+    "academic": "entity",
+    "children": "real object",
+    "basis": "both",
+    "reason": "Both attest \"entity\"; \"phenomenon\" and \"thing\" are kept for ཆོས; children's is new."
+   }
+  ]
+ },
+ {
+  "term_id": "T062",
+  "bo": "དྲི",
+  "sanskrit": "gandha",
+  "count": 4,
+  "dm": {
+   "smell": 2,
+   "odors": 2
+  },
+  "gm": {
+   "smells": 3,
+   "smell": 1
+  },
+  "occurrences": [
+   "4-8",
+   "7-6",
+   "7-42",
+   "8-36"
+  ],
+  "senses": [
+   {
+    "sense": "smell, one of the sense objects",
+    "occurrences": "all",
+    "academic": "smell",
+    "children": "smell",
+    "basis": "both",
+    "reason": "Both attest smell as head form (dm 2, gm 4 with plurals); odors not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T063",
+  "bo": "རོ",
+  "sanskrit": "rasa",
+  "count": 4,
+  "dm": {
+   "taste": 2,
+   "tastes": 2
+  },
+  "gm": {
+   "tastes": 3,
+   "taste": 1
+  },
+  "occurrences": [
+   "4-8",
+   "7-6",
+   "7-42",
+   "8-36"
+  ],
+  "senses": [
+   {
+    "sense": "taste (object of the tongue)",
+    "occurrences": "all",
+    "academic": "taste",
+    "children": "taste",
+    "basis": "both",
+    "reason": "Both attest \"taste\"; head form singular lower case (policy 25)."
+   }
+  ]
+ },
+ {
+  "term_id": "T064",
+  "bo": "རེག་བྱ",
+  "sanskrit": "spraṣṭavya",
+  "count": 4,
+  "dm": {
+   "tangible objects": 3,
+   "tangibles": 1
+  },
+  "gm": {
+   "tactile objects": 2,
+   "tangible objects": 2
+  },
+  "occurrences": [
+   "4-8",
+   "7-6",
+   "7-42",
+   "8-36"
+  ],
+  "senses": [
+   {
+    "sense": "object of touch (sense object)",
+    "occurrences": "all",
+    "academic": "tangible object",
+    "children": "thing that is touched",
+    "basis": "both",
+    "reason": "Both attest 'tangible objects'; children's is new plain phrase."
+   }
+  ]
+ },
+ {
+  "term_id": "T065",
+  "bo": "སངས་རྒྱས་ཀྱི་ཆོས",
+  "sanskrit": "buddhadharma",
+  "count": 4,
+  "dm": {
+   "Buddha-qualities": 2,
+   "qualities of a Buddha": 2
+  },
+  "gm": {
+   "the dharmas of a Buddha": 2,
+   "Buddha's dharmas": 2
+  },
+  "occurrences": [
+   "6-49",
+   "6-50",
+   "8-104",
+   "8-106"
+  ],
+  "senses": [
+   {
+    "sense": "qualities of a Buddha",
+    "occurrences": "all",
+    "academic": "qualities of a Buddha",
+    "children": "qualities of a Buddha",
+    "basis": "style-sheet",
+    "reason": "Policy 4: third use of ཆོས is qualities of a Buddha; DharmaMitra attests it."
+   }
+  ]
+ },
+ {
+  "term_id": "T066",
+  "bo": "རྒྱུན་དུ་ཞུགས་པ",
+  "sanskrit": "srotaāpanna",
+  "count": 4,
+  "dm": {
+   "stream-enterer": 4
+  },
+  "gm": {
+   "Stream-Enterer": 4
+  },
+  "occurrences": [
+   "7-2",
+   "7-5",
+   "7-7",
+   "7-8"
+  ],
+  "senses": [
+   {
+    "sense": "first fruit-bearer",
+    "occurrences": "all",
+    "academic": "stream-enterer",
+    "children": "stream-enterer",
+    "basis": "both",
+    "reason": "Both attest it (4 each); hyphenated lower case per policy 22 and 23."
+   }
+  ]
+ },
+ {
+  "term_id": "T067",
+  "bo": "སེམས་ཅན་དུ་འཛིན་པ",
+  "sanskrit": "sattvagrāha",
+  "count": 4,
+  "dm": {
+   "grasping at a sentient being": 4
+  },
+  "gm": {
+   "grasping at a living being": 2,
+   "grasping at a sentient being": 1,
+   "apprehension of a sentient being": 1
+  },
+  "occurrences": [
+   "7-9",
+   "7-16",
+   "7-27",
+   "10-50"
+  ],
+  "senses": [
+   {
+    "sense": "grasping at a sentient being",
+    "occurrences": "all",
+    "academic": "grasping at a sentient being",
+    "children": "clinging to a living being",
+    "basis": "style-sheet",
+    "reason": "Policy 15 and 17; DharmaMitra attests it; built from sentient being and grasping."
+   }
+  ]
+ },
+ {
+  "term_id": "T068",
+  "bo": "སྲོག་ཏུ་འཛིན་པ",
+  "sanskrit": "jīvagrāha",
+  "count": 4,
+  "dm": {
+   "grasping at a life force": 2,
+   "grasping at a life-force": 2
+  },
+  "gm": {
+   "grasping at a life": 3,
+   "apprehension of a living soul": 1
+  },
+  "occurrences": [
+   "7-9",
+   "7-16",
+   "7-27",
+   "10-50"
+  ],
+  "senses": [
+   {
+    "sense": "grasping at a life-force",
+    "occurrences": "all",
+    "academic": "grasping at a life-force",
+    "children": "clinging to a life",
+    "basis": "style-sheet",
+    "reason": "Policy 15 builds the four-base formula; DharmaMitra's life-force; Gemini's living soul not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T069",
+  "bo": "གང་ཟག་ཏུ་འཛིན་པ",
+  "sanskrit": "pudgalagrāha",
+  "count": 4,
+  "dm": {
+   "grasping at a person": 4
+  },
+  "gm": {
+   "grasping at a person": 3,
+   "apprehension of a person": 1
+  },
+  "occurrences": [
+   "7-9",
+   "7-16",
+   "7-27",
+   "10-50"
+  ],
+  "senses": [
+   {
+    "sense": "grasping at a person",
+    "occurrences": "all",
+    "academic": "grasping at a person",
+    "children": "clinging to a person",
+    "basis": "both",
+    "reason": "Built from parts per policy 15; both attest \"grasping at a person\" (4 and 3)."
+   }
+  ]
+ },
+ {
+  "term_id": "T070",
+  "bo": "ལན་ཅིག་ཕྱིར་འོང་བ",
+  "sanskrit": "sakṛdāgāmin",
+  "count": 4,
+  "dm": {
+   "once-returner": 4
+  },
+  "gm": {
+   "Once-Returner": 4
+  },
+  "occurrences": [
+   "7-11",
+   "7-13",
+   "7-14",
+   "7-15"
+  ],
+  "senses": [
+   {
+    "sense": "once-returner",
+    "occurrences": "all",
+    "academic": "once-returner",
+    "children": "once-returner",
+    "basis": "style-sheet",
+    "reason": "Policy 23; both attest it, hyphenated (policy 22)."
+   }
+  ]
+ },
+ {
+  "term_id": "T071",
+  "bo": "བཀོད་པ",
+  "sanskrit": "vyūha",
+  "count": 4,
+  "dm": {
+   "arrays": 3,
+   "adornment": 1
+  },
+  "gm": {
+   "arrays": 3,
+   "array": 1
+  },
+  "occurrences": [
+   "7-37",
+   "8-115",
+   "8-116",
+   "8-117"
+  ],
+  "senses": [
+   {
+    "sense": "array of Buddha-fields",
+    "occurrences": "all",
+    "academic": "array",
+    "children": "arrangement",
+    "basis": "both",
+    "reason": "Both attest array (6 of 8); adornment rarer; children's plainer phrase is new.",
+    "draft": {
+     "children": "beautiful arrangement"
+    },
+    "review": [
+     "children: minor — Consistency with T049 where བཀོད་པ is rendered as 'arrangement' in children's."
+    ]
+   }
+  ]
+ },
+ {
+  "term_id": "T072",
+  "bo": "གང་གཱའི་ཀླུང",
+  "sanskrit": "gaṅgā",
+  "count": 4,
+  "dm": {
+   "Ganges Rivers": 2,
+   "Ganges River": 1,
+   "Ganges river": 1
+  },
+  "gm": {
+   "Gaṅgā rivers": 2,
+   "Gaṅgā river": 1,
+   "river Gaṅgā": 1
+  },
+  "occurrences": [
+   "7-50",
+   "7-51",
+   "7-54",
+   "8-6"
+  ],
+  "senses": [
+   {
+    "sense": "river",
+    "occurrences": "all",
+    "academic": "Gaṅgā river",
+    "children": "Ganges River",
+    "basis": "style-sheet",
+    "reason": "Core term: policy 11 (Gemini attests Gaṅgā; DharmaMitra Ganges River for children's)."
+   }
+  ]
+ },
+ {
+  "term_id": "T073",
+  "bo": "སའི་རྡུལ",
+  "sanskrit": "pṛthivīrajas",
+  "count": 4,
+  "dm": {
+   "dust motes": 4
+  },
+  "gm": {
+   "particles of earth": 2,
+   "particle of earth": 2
+  },
+  "occurrences": [
+   "7-75",
+   "7-76",
+   "7-78",
+   "7-79"
+  ],
+  "senses": [
+   {
+    "sense": "particle of earth",
+    "occurrences": "all",
+    "academic": "particle of earth",
+    "children": "speck of earth",
+    "basis": "gm",
+    "reason": "Gemini literal \"particle of earth\" (sa earth + dust); DharmaMitra's \"dust motes\" not used; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T074",
+  "bo": "བདག་ཏུ་ལྟ་བ",
+  "sanskrit": "ātmadṛṣṭi",
+  "count": 4,
+  "dm": {
+   "view of a self": 4
+  },
+  "gm": {
+   "view of a self": 4
+  },
+  "occurrences": [
+   "8-62",
+   "12-14",
+   "12-18",
+   "12-19"
+  ],
+  "senses": [
+   {
+    "sense": "view of a self",
+    "occurrences": "all",
+    "academic": "view of a self",
+    "children": "view of a self",
+    "basis": "both",
+    "reason": "Both give view of a self (4 each); matches policy 15 pattern and བདག self."
+   }
+  ]
+ },
+ {
+  "term_id": "T075",
+  "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས",
+  "sanskrit": "abhisaṃbuddha",
+  "count": 4,
+  "dm": {
+   "fully awakened": 3,
+   "perfectly and completely awakened": 1
+  },
+  "gm": {
+   "fully awakened": 4
+  },
+  "occurrences": [
+   "8-100",
+   "10-42",
+   "11-6",
+   "11-7"
+  ],
+  "senses": [
+   {
+    "sense": "fully awakened",
+    "occurrences": "all",
+    "academic": "fully awakened",
+    "children": "fully awake",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest \"fully awakened\" (3 and 4)."
+   }
+  ]
+ },
+ {
+  "term_id": "T076",
+  "bo": "གཟུགས་ཀྱི་སྐུ",
+  "sanskrit": "rūpakāya",
+  "count": 4,
+  "dm": {
+   "form body": 4
+  },
+  "gm": {
+   "form body": 4
+  },
+  "occurrences": [
+   "10-12",
+   "10-14",
+   "10-15",
+   "10-16"
+  ],
+  "senses": [
+   {
+    "sense": "form body",
+    "occurrences": "all",
+    "academic": "form body",
+    "children": "form body",
+    "basis": "style-sheet",
+    "reason": "Policy 7: form body, not Rūpakāya; children's new plain phrase.",
+    "draft": {
+     "children": "visible body"
+    },
+    "review": [
+     "children: major — Policy 7 dictates 'form body' for གཟུགས་ཀྱི་སྐུ, matching T189 children's."
+    ]
+   }
+  ]
+ },
+ {
+  "term_id": "T077",
+  "bo": "ཡོངས་སུ་གྲུབ་པ",
+  "sanskrit": "pariniṣpatti",
+  "count": 4,
+  "dm": {
+   "perfection": 4
+  },
+  "gm": {
+   "perfect accomplishment": 4
+  },
+  "occurrences": [
+   "10-12",
+   "10-14",
+   "10-15",
+   "10-16"
+  ],
+  "senses": [
+   {
+    "sense": "perfect accomplishment",
+    "occurrences": "all",
+    "academic": "perfect accomplishment",
+    "children": "full accomplishment",
+    "basis": "style-sheet",
+    "reason": "Policy 20: Gemini's perfect accomplishment, so perfection stays free; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T078",
+  "bo": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+  "sanskrit": "bālapṛthagjana",
+  "count": 4,
+  "dm": {
+   "immature ordinary beings": 4
+  },
+  "gm": {
+   "childish ordinary beings": 3,
+   "ordinary childish beings": 1
+  },
+  "occurrences": [
+   "10-51",
+   "10-52",
+   "10-53",
+   "12-13"
+  ],
+  "senses": [
+   {
+    "sense": "ordinary unawakened being",
+    "occurrences": "all",
+    "academic": "childish ordinary being",
+    "children": "naive ordinary being",
+    "basis": "gm",
+    "reason": "Gemini \"childish ordinary being\" (4) matches bāla and the Tibetan; \"immature\" not used; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T079",
+  "bo": "རིལ་པོར་འཛིན་པ",
+  "sanskrit": "piṇḍagrāha",
+  "count": 4,
+  "dm": {
+   "grasping at a totality": 4
+  },
+  "gm": {
+   "grasping at a solid mass": 4
+  },
+  "occurrences": [
+   "12-9",
+   "12-10",
+   "12-11",
+   "12-12"
+  ],
+  "senses": [
+   {
+    "sense": "grasping at a totality",
+    "occurrences": "all",
+    "academic": "grasping at a totality",
+    "children": "clinging to a lump",
+    "basis": "dm",
+    "reason": "DharmaMitra \"totality\"; Gemini's \"mass\" would clash with ཕུང་པོ \"mass\"; parts per policy 17."
+   }
+  ]
+ },
+ {
+  "term_id": "T080",
+  "bo": "ལྟ་བ",
+  "sanskrit": "dṛṣṭi",
+  "count": 4,
+  "dm": {
+   "view": 4
+  },
+  "gm": {
+   "view": 4
+  },
+  "occurrences": [
+   "12-14",
+   "12-15",
+   "12-18",
+   "12-19"
+  ],
+  "senses": [
+   {
+    "sense": "view",
+    "occurrences": "all",
+    "academic": "view",
+    "children": "view",
+    "basis": "both",
+    "reason": "Both give view (4 each); head of the view-of-self compounds."
+   }
+  ]
+ },
+ {
+  "term_id": "T081",
+  "bo": "ཐེག་པ་ཆེན་པོ",
+  "sanskrit": "mahāyāna",
+  "count": 3,
+  "dm": {
+   "Mahāyāna": 3
+  },
+  "gm": {
+   "Mahāyāna": 2,
+   "Mahayana": 1
+  },
+  "occurrences": [
+   "0",
+   "0-3",
+   "13-3"
+  ],
+  "senses": [
+   {
+    "sense": "Great Vehicle (Mahāyāna)",
+    "occurrences": "all",
+    "academic": "Mahāyāna",
+    "children": "Great Vehicle",
+    "basis": "both",
+    "reason": "Both attest Mahāyāna; kept in academic (policy 7); children's calque of the Tibetan, new."
+   }
+  ]
+ },
+ {
+  "term_id": "T082",
+  "bo": "མདོ",
+  "sanskrit": "sūtra",
+  "count": 3,
+  "dm": {
+   "Sūtra": 2,
+   "sūtra": 1
+  },
+  "gm": {
+   "sūtra": 2,
+   "Sutra": 1
+  },
+  "occurrences": [
+   "0",
+   "0-3",
+   "13-3"
+  ],
+  "senses": [
+   {
+    "sense": "sūtra",
+    "occurrences": "all",
+    "academic": "sūtra",
+    "children": "sacred text",
+    "basis": "style-sheet",
+    "reason": "Policy 7 and 21: sūtra kept in academic; children's has no Sanskrit, new."
+   }
+  ]
+ },
+ {
+  "term_id": "T083",
+  "bo": "མཉན་ཡོད",
+  "sanskrit": "śrāvastī",
+  "count": 3,
+  "dm": {
+   "Śrāvastī": 3
+  },
+  "gm": {
+   "Śrāvastī": 3
+  },
+  "occurrences": [
+   "1-2",
+   "1-3",
+   "1-4"
+  ],
+  "senses": [
+   {
+    "sense": "place name",
+    "occurrences": "all",
+    "academic": "Śrāvastī",
+    "children": "Shravasti",
+    "basis": "both",
+    "reason": "Both attest Śrāvastī; diacritics dropped for children's (policies 8, 9, 11)."
+   }
+  ]
+ },
+ {
+  "term_id": "T084",
+  "bo": "དགེ་སློང",
+  "sanskrit": "bhikṣu",
+  "count": 3,
+  "dm": {
+   "monks": 3
+  },
+  "gm": {
+   "monks": 3
+  },
+  "occurrences": [
+   "1-2",
+   "1-6",
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "monk",
+    "occurrences": "all",
+    "academic": "monk",
+    "children": "monk",
+    "basis": "both",
+    "reason": "Both attest \"monks\" (3 each); singular head form."
+   }
+  ]
+ },
+ {
+  "term_id": "T085",
+  "bo": "བསོད་སྙོམས",
+  "sanskrit": "piṇḍa",
+  "count": 3,
+  "dm": {
+   "alms": 3
+  },
+  "gm": {
+   "alms": 2,
+   "alms-food": 1
+  },
+  "occurrences": [
+   "1-3",
+   "1-4",
+   "1-5"
+  ],
+  "senses": [
+   {
+    "sense": "alms collected on the almsround",
+    "occurrences": "all",
+    "academic": "alms",
+    "children": "alms food",
+    "basis": "both",
+    "reason": "Both attest \"alms\"; children's adds \"food\" to make the meaning plain (new)."
+   }
+  ]
+ },
+ {
+  "term_id": "T086",
+  "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདའ",
+  "sanskrit": "parinirvā",
+  "count": 3,
+  "dm": {
+   "complete nirvāṇa": 1,
+   "final nirvāṇa": 1,
+   "complete nirvana": 1
+  },
+  "gm": {
+   "complete nirvāṇa": 2,
+   "completely pass into nirvāṇa": 1
+  },
+  "occurrences": [
+   "4-1",
+   "8-84",
+   "8-111"
+  ],
+  "senses": [
+   {
+    "sense": "complete passing into nirvāṇa",
+    "occurrences": "all",
+    "academic": "complete nirvāṇa",
+    "children": "complete freedom from sorrow",
+    "basis": "both",
+    "reason": "Both attest complete nirvāṇa; builds on nirvāṇa core term; children's built from freedom from sorrow."
+   }
+  ]
+ },
+ {
+  "term_id": "T087",
+  "bo": "སེམས་བསྐྱེད་པ",
+  "sanskrit": "cittam utpādayitavyam",
+  "count": 3,
+  "dm": {
+   "generate the mind": 3
+  },
+  "gm": {
+   "generate the mind": 2,
+   "produce the mind": 1
+  },
+  "occurrences": [
+   "4-2",
+   "7-40",
+   "8-85"
+  ],
+  "senses": [
+   {
+    "sense": "generate the mind",
+    "occurrences": "all",
+    "academic": "generate the mind",
+    "children": "set the mind",
+    "basis": "style-sheet",
+    "reason": "Policy 19; DharmaMitra attests it (3), Gemini's \"produce\" dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T088",
+  "bo": "མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+  "sanskrit": "pañcaśatī (paścima)",
+  "count": 3,
+  "dm": {
+   "final five-hundred-year period": 3
+  },
+  "gm": {
+   "last five hundred years": 3
+  },
+  "occurrences": [
+   "6-10",
+   "6-11",
+   "6-12"
+  ],
+  "senses": [
+   {
+    "sense": "last five hundred years",
+    "occurrences": "all",
+    "academic": "last five hundred years",
+    "children": "last five hundred years",
+    "basis": "gm",
+    "reason": "GM's form; DM's hyphenated period is stiffer; plain enough for children."
+   }
+  ]
+ },
+ {
+  "term_id": "T089",
+  "bo": "དམ་པའི་ཆོས",
+  "sanskrit": "saddharma",
+  "count": 3,
+  "dm": {
+   "holy Dharma": 3
+  },
+  "gm": {
+   "true Dharma": 3
+  },
+  "occurrences": [
+   "6-10",
+   "6-11",
+   "6-12"
+  ],
+  "senses": [
+   {
+    "sense": "true Dharma",
+    "occurrences": "all",
+    "academic": "true Dharma",
+    "children": "true teaching",
+    "basis": "gm",
+    "reason": "Counts tie (3 each); Gemini's true matches sat; Dharma as in teaching sense (policy 3)."
+   }
+  ]
+ },
+ {
+  "term_id": "T090",
+  "bo": "ཆོས་མེད་པ",
+  "sanskrit": "adharma",
+  "count": 3,
+  "dm": {
+   "non-existence of phenomena": 2,
+   "non-phenomena": 1
+  },
+  "gm": {
+   "non-dharma": 1,
+   "non-phenomena": 1,
+   "non-dharmas": 1
+  },
+  "occurrences": [
+   "6-21",
+   "8-38",
+   "8-105"
+  ],
+  "senses": [
+   {
+    "sense": "non-phenomenon",
+    "occurrences": "all",
+    "academic": "non-phenomenon",
+    "children": "non-thing",
+    "basis": "both",
+    "reason": "ཆོས phenomena sense (policy 3); both attest \"non-phenomena\"; \"non-dharma\" and \"non-existence\" not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T091",
+  "bo": "ཕྱིར་མི་འོང་བ",
+  "sanskrit": "anāgāmin",
+  "count": 3,
+  "dm": {
+   "non-returner": 3
+  },
+  "gm": {
+   "Non-Returner": 3
+  },
+  "occurrences": [
+   "7-18",
+   "7-20",
+   "7-21"
+  ],
+  "senses": [
+   {
+    "sense": "non-returner",
+    "occurrences": "all",
+    "academic": "non-returner",
+    "children": "non-returner",
+    "basis": "style-sheet",
+    "reason": "Policy 23: both attest it; hyphenated lower case per policy 22."
+   }
+  ]
+ },
+ {
+  "term_id": "T092",
+  "bo": "དགྲ་བཅོམ་པ་ཉིད",
+  "sanskrit": "arhattva",
+  "count": 3,
+  "dm": {
+   "state of an arhat": 3
+  },
+  "gm": {
+   "Arhatship": 3
+  },
+  "occurrences": [
+   "7-23",
+   "7-26",
+   "7-30"
+  ],
+  "senses": [
+   {
+    "sense": "state of being an arhat",
+    "occurrences": "all",
+    "academic": "arhatship",
+    "children": "state of a worthy one",
+    "basis": "gm",
+    "reason": "Gemini's Arhatship, lower-cased, builds on arhat; children's built on worthy one."
+   }
+  ]
+ },
+ {
+  "term_id": "T093",
+  "bo": "ཉོན་མོངས་པ་མེད་པར་གནས་པ",
+  "sanskrit": "araṇāvihārin",
+  "count": 3,
+  "dm": {
+   "dwell in the state of being without defilement": 2,
+   "dwells in the state of being without defilement": 1
+  },
+  "gm": {
+   "dwell without afflictions": 2,
+   "dweller without afflictions": 1
+  },
+  "occurrences": [
+   "7-28",
+   "7-30",
+   "7-31"
+  ],
+  "senses": [
+   {
+    "sense": "dwelling without affliction",
+    "occurrences": "all",
+    "academic": "abiding without affliction",
+    "children": "staying without troubling feeling",
+    "basis": "style-sheet",
+    "reason": "Built from ཉོན་མོངས་པ, མེད་པ and གནས་པ \"abiding\"; Gemini has \"afflictions\" not \"defilement\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T094",
+  "bo": "ཉོན་མོངས་པ",
+  "sanskrit": "kleśa (aranā)",
+  "count": 3,
+  "dm": {
+   "defilement": 3
+  },
+  "gm": {
+   "afflictions": 3
+  },
+  "occurrences": [
+   "7-28",
+   "7-30",
+   "7-31"
+  ],
+  "senses": [
+   {
+    "sense": "affliction",
+    "occurrences": "all",
+    "academic": "affliction",
+    "children": "troubling feeling",
+    "basis": "style-sheet",
+    "reason": "Core term; policy 2; DM's 'defilement' not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T095",
+  "bo": "ལྷ",
+  "sanskrit": "deva",
+  "count": 3,
+  "dm": {
+   "gods": 3
+  },
+  "gm": {
+   "gods": 3
+  },
+  "occurrences": [
+   "7-61",
+   "8-65",
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "god",
+    "occurrences": "all",
+    "academic": "god",
+    "children": "god",
+    "basis": "both",
+    "reason": "Both attest gods; plain word, singular head form."
+   }
+  ]
+ },
+ {
+  "term_id": "T096",
+  "bo": "མི",
+  "sanskrit": "mānuṣa",
+  "count": 3,
+  "dm": {
+   "humans": 3
+  },
+  "gm": {
+   "humans": 3
+  },
+  "occurrences": [
+   "7-61",
+   "8-65",
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "human",
+    "occurrences": "all",
+    "academic": "human",
+    "children": "human",
+    "basis": "both",
+    "reason": "Both attest \"humans\" (3 each); singular head form."
+   }
+  ]
+ },
+ {
+  "term_id": "T097",
+  "bo": "ལྷ་མ་ཡིན",
+  "sanskrit": "asura",
+  "count": 3,
+  "dm": {
+   "asuras": 3
+  },
+  "gm": {
+   "asuras": 3
+  },
+  "occurrences": [
+   "7-61",
+   "8-65",
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "asura, class of beings",
+    "occurrences": "all",
+    "academic": "demigod",
+    "children": "jealous god",
+    "basis": "new",
+    "reason": "Both attest asura but policy 7 translates it; \"demigod\" is the standard English; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T098",
+  "bo": "སྐྱེས་བུ་ཆེན་པོ",
+  "sanskrit": "mahāpuruṣa",
+  "count": 3,
+  "dm": {
+   "great being": 3
+  },
+  "gm": {
+   "great man": 3
+  },
+  "occurrences": [
+   "8-2",
+   "8-4",
+   "8-5"
+  ],
+  "senses": [
+   {
+    "sense": "great man (as in thirty-two marks)",
+    "occurrences": "all",
+    "academic": "great man",
+    "children": "great person",
+    "basis": "style-sheet",
+    "reason": "Policy 6: great man, never great being; Gemini attests great man."
+   }
+  ]
+ },
+ {
+  "term_id": "T099",
+  "bo": "མཚན་སུམ་ཅུ་རྩ་གཉིས",
+  "sanskrit": "dvātriṃśan mahāpuruṣalakṣaṇa",
+  "count": 3,
+  "dm": {
+   "thirty-two marks": 3
+  },
+  "gm": {
+   "thirty-two marks": 3
+  },
+  "occurrences": [
+   "8-2",
+   "8-4",
+   "8-5"
+  ],
+  "senses": [
+   {
+    "sense": "thirty-two marks of a great man",
+    "occurrences": "all",
+    "academic": "thirty-two marks",
+    "children": "thirty-two marks",
+    "basis": "both",
+    "reason": "Both attest \"thirty-two marks\" (3 each); མཚན is \"mark\" (policy 20)."
+   }
+  ]
+ },
+ {
+  "term_id": "T100",
+  "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ",
+  "sanskrit": "paramapāramitā",
+  "count": 3,
+  "dm": {
+   "supreme perfection": 2,
+   "supreme perfections": 1
+  },
+  "gm": {
+   "supreme perfection": 3
+  },
+  "occurrences": [
+   "8-23",
+   "8-24",
+   "8-25"
+  ],
+  "senses": [
+   {
+    "sense": "supreme perfection",
+    "occurrences": "all",
+    "academic": "supreme perfection",
+    "children": "highest perfection",
+    "basis": "both",
+    "reason": "Both attest 'supreme perfection'; builds on perfection (policy 18); children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T101",
+  "bo": "གངྒཱའི་ཀླུང",
+  "sanskrit": "gaṅgānadī",
+  "count": 3,
+  "dm": {
+   "Ganges River": 2,
+   "river Ganges": 1
+  },
+  "gm": {
+   "river Gaṅgā": 2,
+   "river Ganges": 1
+  },
+  "occurrences": [
+   "8-52",
+   "9-19",
+   "11-10"
+  ],
+  "senses": [
+   {
+    "sense": "Gaṅgā river",
+    "occurrences": "all",
+    "academic": "Gaṅgā river",
+    "children": "Ganges River",
+    "basis": "style-sheet",
+    "reason": "Policy 11: Gaṅgā river for academic, Ganges River for children's; spelling variant of T-core term."
+   }
+  ]
+ },
+ {
+  "term_id": "T102",
+  "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར",
+  "sanskrit": "āyuṣmant subhūti",
+  "count": 3,
+  "dm": {
+   "venerable Subhūti": 3
+  },
+  "gm": {
+   "venerable Subhūti": 2,
+   "Venerable Subhūti": 1
+  },
+  "occurrences": [
+   "8-83",
+   "8-93",
+   "8-108"
+  ],
+  "senses": [
+   {
+    "sense": "venerable Subhūti",
+    "occurrences": "all",
+    "academic": "venerable Subhūti",
+    "children": "honored Subhuti",
+    "basis": "style-sheet",
+    "reason": "Built from ཚེ་དང་ལྡན་པ and རབ་འབྱོར; honorific lower case before a name (policy 10)."
+   }
+  ]
+ },
+ {
+  "term_id": "T103",
+  "bo": "སེམས་ཀྱི་རྒྱུན",
+  "sanskrit": "cittadhārā",
+  "count": 3,
+  "dm": {
+   "stream of thought": 2,
+   "streams of thought": 1
+  },
+  "gm": {
+   "stream of mind": 2,
+   "streams of mind": 1
+  },
+  "occurrences": [
+   "9-22",
+   "9-23",
+   "9-24"
+  ],
+  "senses": [
+   {
+    "sense": "stream of mind",
+    "occurrences": "all",
+    "academic": "stream of mind",
+    "children": "stream of mind",
+    "basis": "gm",
+    "reason": "Gemini \"stream of mind\"; core སེམས is \"mind\", DharmaMitra's \"thought\" not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T104",
+  "bo": "རྒྱུན",
+  "sanskrit": "dhārā",
+  "count": 3,
+  "dm": {
+   "stream": 2,
+   "streams": 1
+  },
+  "gm": {
+   "stream": 2,
+   "streams": 1
+  },
+  "occurrences": [
+   "9-22",
+   "9-23",
+   "9-24"
+  ],
+  "senses": [
+   {
+    "sense": "stream (of mind)",
+    "occurrences": "all",
+    "academic": "stream",
+    "children": "stream",
+    "basis": "both",
+    "reason": "Both give stream (2 each plus plural); as in stream of mind (cittadhārā)."
+   }
+  ]
+ },
+ {
+  "term_id": "T105",
+  "bo": "དམིགས་སུ་མེད",
+  "sanskrit": "nopalabhyate",
+  "count": 3,
+  "dm": {
+   "unapprehendable": 3
+  },
+  "gm": {
+   "cannot be apprehended": 3
+  },
+  "occurrences": [
+   "10-1",
+   "10-2",
+   "10-3"
+  ],
+  "senses": [
+   {
+    "sense": "not apprehensible (of past, future, present mind)",
+    "occurrences": "all",
+    "academic": "unapprehendable",
+    "children": "cannot be found",
+    "basis": "dm",
+    "reason": "DharmaMitra attests \"unapprehendable\" (3); Gemini's verb form is the same idea; children's plain, new."
+   }
+  ]
+ },
+ {
+  "term_id": "T106",
+  "bo": "དགེ་བའི་ཆོས",
+  "sanskrit": "kuśala dharma",
+  "count": 3,
+  "dm": {
+   "wholesome dharmas": 3
+  },
+  "gm": {
+   "wholesome dharmas": 3
+  },
+  "occurrences": [
+   "10-42",
+   "10-43",
+   "10-44"
+  ],
+  "senses": [
+   {
+    "sense": "virtuous phenomenon",
+    "occurrences": "all",
+    "academic": "virtuous phenomenon",
+    "children": "good thing",
+    "basis": "new",
+    "reason": "Parts: དགེ་བ virtue (policy 22 'non-virtuous') plus ཆོས phenomenon (policy 3); both MTs' 'wholesome dharmas' not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T107",
+  "bo": "ཡོངས་སུ་གཟུང",
+  "sanskrit": "parigrah",
+  "count": 3,
+  "dm": {
+   "take hold of": 3
+  },
+  "gm": {
+   "fully acquire": 3
+  },
+  "occurrences": [
+   "11-11",
+   "11-12",
+   "11-13"
+  ],
+  "senses": [
+   {
+    "sense": "take hold of",
+    "occurrences": "all",
+    "academic": "take hold of",
+    "children": "take hold of",
+    "basis": "dm",
+    "reason": "DharmaMitra's take hold of is plain and keeps acquire free; no clash with grasp/hold terms."
+   }
+  ]
+ },
+ {
+  "term_id": "T108",
+  "bo": "ཆོས་སུ་འདུ་ཤེས",
+  "sanskrit": "dharmasaṃjñā",
+  "count": 3,
+  "dm": {
+   "perception of phenomena": 3
+  },
+  "gm": {
+   "perception of a dharma": 3
+  },
+  "occurrences": [
+   "12-21",
+   "12-22",
+   "12-23"
+  ],
+  "senses": [
+   {
+    "sense": "perception of a phenomenon",
+    "occurrences": "all",
+    "academic": "perception of a phenomenon",
+    "children": "idea of a thing",
+    "basis": "dm",
+    "reason": "ཆོས phenomena sense plus perception (policies 3, 16); DharmaMitra's form; Gemini's \"dharma\" is dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T109",
+  "bo": "ཆོས་གོས",
+  "sanskrit": "cīvara",
+  "count": 2,
+  "dm": {
+   "Dharma robes": 2
+  },
+  "gm": {
+   "dharma-robe": 2
+  },
+  "occurrences": [
+   "1-3",
+   "1-5"
+  ],
+  "senses": [
+   {
+    "sense": "monastic robe",
+    "occurrences": "all",
+    "academic": "Dharma robe",
+    "children": "teaching robe",
+    "basis": "style-sheet",
+    "reason": "Policy 10 names \"Dharma robe\"; DharmaMitra and Gemini attest it; ཆོས is the teaching sense; children's built from \"teaching\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T110",
+  "bo": "ལྷུང་བཟེད",
+  "sanskrit": "pātra",
+  "count": 2,
+  "dm": {
+   "alms bowl": 2
+  },
+  "gm": {
+   "alms bowl": 2
+  },
+  "occurrences": [
+   "1-3",
+   "1-5"
+  ],
+  "senses": [
+   {
+    "sense": "alms bowl",
+    "occurrences": "all",
+    "academic": "alms bowl",
+    "children": "alms bowl",
+    "basis": "both",
+    "reason": "Both give alms bowl (2 each); plain and familiar enough for children."
+   }
+  ]
+ },
+ {
+  "term_id": "T111",
+  "bo": "སེམས་རབ་ཏུ་གཟུང་བ",
+  "sanskrit": "cittaṃ pragrahītavyam",
+  "count": 2,
+  "dm": {
+   "hold the mind": 1,
+   "hold their minds": 1
+  },
+  "gm": {
+   "control their mind": 2
+  },
+  "occurrences": [
+   "2-6",
+   "3-7"
+  ],
+  "senses": [
+   {
+    "sense": "holding the mind in practice",
+    "occurrences": "all",
+    "academic": "hold the mind",
+    "children": "keep the mind steady",
+    "basis": "dm",
+    "reason": "DharmaMitra's \"hold the mind\" builds on སེམས \"mind\"; Gemini's \"control\" not used; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T112",
+  "bo": "མྱ་ངན་ལས་འདས་པ",
+  "sanskrit": "nirvāṇa",
+  "count": 2,
+  "dm": {
+   "nirvāṇa": 2
+  },
+  "gm": {
+   "nirvāṇa": 2
+  },
+  "occurrences": [
+   "4-1",
+   "8-84"
+  ],
+  "senses": [
+   {
+    "sense": "nirvāṇa",
+    "occurrences": "all",
+    "academic": "nirvāṇa",
+    "children": "freedom from sorrow",
+    "basis": "style-sheet",
+    "reason": "Core term; both attest nirvāṇa (2 each); children's per style sheet."
+   }
+  ]
+ },
+ {
+  "term_id": "T113",
+  "bo": "མཚན་མ",
+  "sanskrit": "nimitta",
+  "count": 2,
+  "dm": {
+   "characteristics": 1,
+   "signs": 1
+  },
+  "gm": {
+   "sign": 1,
+   "no-marks": 1
+  },
+  "occurrences": [
+   "4-9",
+   "6-8"
+  ],
+  "senses": [
+   {
+    "sense": "sign",
+    "occurrences": "all",
+    "academic": "sign",
+    "children": "sign",
+    "basis": "style-sheet",
+    "reason": "Policy 20: མཚན་མ is sign, distinct from མཚན mark; Gemini attests sign."
+   }
+  ]
+ },
+ {
+  "term_id": "T114",
+  "bo": "ནམ་མཁའ",
+  "sanskrit": "ākāśa",
+  "count": 2,
+  "dm": {
+   "space": 2
+  },
+  "gm": {
+   "space": 2
+  },
+  "occurrences": [
+   "5-2",
+   "5-4"
+  ],
+  "senses": [
+   {
+    "sense": "space",
+    "occurrences": "all",
+    "academic": "space",
+    "children": "space",
+    "basis": "both",
+    "reason": "Both attest \"space\" (2 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T115",
+  "bo": "དགེ་བའི་རྩ་བ",
+  "sanskrit": "kuśalamūla",
+  "count": 2,
+  "dm": {
+   "roots of virtue": 2
+  },
+  "gm": {
+   "roots of virtue": 2
+  },
+  "occurrences": [
+   "6-14",
+   "6-15"
+  ],
+  "senses": [
+   {
+    "sense": "root of virtue",
+    "occurrences": "all",
+    "academic": "root of virtue",
+    "children": "root of goodness",
+    "basis": "both",
+    "reason": "Both attest \"roots of virtue\"; children's \"goodness\" matches the idea in stored-up goodness."
+   }
+  ]
+ },
+ {
+  "term_id": "T116",
+  "bo": "འདུ་ཤེས་མེད་པ",
+  "sanskrit": "asaṃjñā",
+  "count": 2,
+  "dm": {
+   "non-perception": 1,
+   "devoid of perception": 1
+  },
+  "gm": {
+   "non-perception": 2
+  },
+  "occurrences": [
+   "6-22",
+   "8-43"
+  ],
+  "senses": [
+   {
+    "sense": "absence of perception",
+    "occurrences": "all",
+    "academic": "non-perception",
+    "children": "absence of ideas",
+    "basis": "both",
+    "reason": "Both attest non-perception; builds on perception/idea; children's avoids idiom no idea."
+   }
+  ]
+ },
+ {
+  "term_id": "T117",
+  "bo": "བདག་མེད་པ",
+  "sanskrit": "nirātman",
+  "count": 2,
+  "dm": {
+   "devoid of a self": 1,
+   "selfless": 1
+  },
+  "gm": {
+   "selfless": 1,
+   "without self": 1
+  },
+  "occurrences": [
+   "6-25",
+   "8-118"
+  ],
+  "senses": [
+   {
+    "sense": "selfless",
+    "occurrences": "all",
+    "academic": "selfless",
+    "children": "without a self",
+    "basis": "both",
+    "reason": "Both attest \"selfless\" (1 each); children's plain phrase on བདག \"self\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T118",
+  "bo": "ཆོས་མ་ཡིན་པ",
+  "sanskrit": "adharma",
+  "count": 2,
+  "dm": {
+   "what is not a phenomenon": 1,
+   "what are not phenomena": 1
+  },
+  "gm": {
+   "non-dharma": 1,
+   "non-dharmas": 1
+  },
+  "occurrences": [
+   "6-27",
+   "6-28"
+  ],
+  "senses": [
+   {
+    "sense": "non-phenomenon",
+    "occurrences": "all",
+    "academic": "non-phenomenon",
+    "children": "what is not a thing",
+    "basis": "new",
+    "reason": "Builds on ཆོས phenomenon (policy 3) with the negation; hyphenated like non-virtuous; GM's 'non-dharma' not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T119",
+  "bo": "རིན་པོ་ཆེ",
+  "sanskrit": "ratna",
+  "count": 2,
+  "dm": {
+   "precious substances": 2
+  },
+  "gm": {
+   "precious substances": 2
+  },
+  "occurrences": [
+   "6-40",
+   "6-46"
+  ],
+  "senses": [
+   {
+    "sense": "precious substance",
+    "occurrences": "all",
+    "academic": "precious substance",
+    "children": "precious thing",
+    "basis": "both",
+    "reason": "Both attest precious substances; head form singular; children's plainer word is new.",
+    "draft": {
+     "children": "treasure"
+    },
+    "review": [
+     "children: minor — Consistency with T039 which uses 'precious things' for རིན་པོ་ཆེ."
+    ]
+   }
+  ]
+ },
+ {
+  "term_id": "T120",
+  "bo": "ཚིགས་སུ་བཅད་པ",
+  "sanskrit": "gāthā",
+  "count": 2,
+  "dm": {
+   "verse": 1,
+   "verses": 1
+  },
+  "gm": {
+   "verse": 1,
+   "verses": 1
+  },
+  "occurrences": [
+   "6-46",
+   "10-64"
+  ],
+  "senses": [
+   {
+    "sense": "verse",
+    "occurrences": "all",
+    "academic": "verse",
+    "children": "verse",
+    "basis": "both",
+    "reason": "Both attest \"verse\" (2 each); matches \"four-line verse\" (policy 22)."
+   }
+  ]
+ },
+ {
+  "term_id": "T121",
+  "bo": "སངས་རྒྱས་བཅོམ་ལྡན་འདས",
+  "sanskrit": "buddhabhagavat",
+  "count": 2,
+  "dm": {
+   "Buddhas, the Blessed Ones": 2
+  },
+  "gm": {
+   "Buddhas, the Blessed Ones": 1,
+   "buddhas, the Blessed Ones": 1
+  },
+  "occurrences": [
+   "6-48",
+   "8-74"
+  ],
+  "senses": [
+   {
+    "sense": "the Buddhas and Blessed Ones",
+    "occurrences": "all",
+    "academic": "Buddha, the Blessed One",
+    "children": "Buddha, the Blessed One",
+    "basis": "both",
+    "reason": "Both attest \"Buddhas, the Blessed Ones\"; head form singular (policy 22); parts per core terms."
+   }
+  ]
+ },
+ {
+  "term_id": "T122",
+  "bo": "རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ",
+  "sanskrit": "srotaāpattiphala",
+  "count": 2,
+  "dm": {
+   "fruit of a stream-enterer": 2
+  },
+  "gm": {
+   "fruit of a Stream-Enterer": 2
+  },
+  "occurrences": [
+   "7-2",
+   "7-8"
+  ],
+  "senses": [
+   {
+    "sense": "fruit of a stream-enterer",
+    "occurrences": "all",
+    "academic": "fruit of a stream-enterer",
+    "children": "fruit of a stream-enterer",
+    "basis": "both",
+    "reason": "Both attest it (2 each); policy 23 keeps the same English for children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T123",
+  "bo": "ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ",
+  "sanskrit": "sakṛdāgāmiphala",
+  "count": 2,
+  "dm": {
+   "fruit of a once-returner": 2
+  },
+  "gm": {
+   "fruit of a Once-Returner": 2
+  },
+  "occurrences": [
+   "7-11",
+   "7-15"
+  ],
+  "senses": [
+   {
+    "sense": "fruit of a once-returner",
+    "occurrences": "all",
+    "academic": "fruit of a once-returner",
+    "children": "fruit of a once-returner",
+    "basis": "style-sheet",
+    "reason": "Policy 23; both attest it (2 each), lower case per policy 22."
+   }
+  ]
+ },
+ {
+  "term_id": "T124",
+  "bo": "མཆོག",
+  "sanskrit": "agra",
+  "count": 2,
+  "dm": {
+   "foremost": 2
+  },
+  "gm": {
+   "foremost": 2
+  },
+  "occurrences": [
+   "7-28",
+   "7-30"
+  ],
+  "senses": [
+   {
+    "sense": "foremost",
+    "occurrences": "all",
+    "academic": "foremost",
+    "children": "best",
+    "basis": "both",
+    "reason": "Both attest foremost (2 each); children's plainer."
+   }
+  ]
+ },
+ {
+  "term_id": "T125",
+  "bo": "རི་རབ",
+  "sanskrit": "sumeru",
+  "count": 2,
+  "dm": {
+   "Mount Sumeru": 1,
+   "Mount Merus": 1
+  },
+  "gm": {
+   "Sumeru": 1,
+   "Sumerus": 1
+  },
+  "occurrences": [
+   "7-43",
+   "10-45"
+  ],
+  "senses": [
+   {
+    "sense": "Mount Sumeru",
+    "occurrences": "all",
+    "academic": "Mount Sumeru",
+    "children": "Mount Sumeru",
+    "basis": "style-sheet",
+    "reason": "Policy 11: Mount Sumeru; Merus is the plural in context."
+   }
+  ]
+ },
+ {
+  "term_id": "T126",
+  "bo": "མཆོད་རྟེན",
+  "sanskrit": "caitya",
+  "count": 2,
+  "dm": {
+   "shrine": 1,
+   "reliquary": 1
+  },
+  "gm": {
+   "stūpa": 2
+  },
+  "occurrences": [
+   "7-61",
+   "8-67"
+  ],
+  "senses": [
+   {
+    "sense": "stūpa",
+    "occurrences": "all",
+    "academic": "stūpa",
+    "children": "shrine",
+    "basis": "gm",
+    "reason": "Gemini's \"stūpa\" (2) is standard academic English; DharmaMitra \"shrine\" for children's; \"reliquary\" dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T127",
+  "bo": "བཟོད་པ",
+  "sanskrit": "kṣānti",
+  "count": 2,
+  "dm": {
+   "patience": 2
+  },
+  "gm": {
+   "patience": 2
+  },
+  "occurrences": [
+   "8-26",
+   "11-10"
+  ],
+  "senses": [
+   {
+    "sense": "patience",
+    "occurrences": "all",
+    "academic": "patience",
+    "children": "patience",
+    "basis": "both",
+    "reason": "Both attest \"patience\"; plain enough for children."
+   }
+  ]
+ },
+ {
+  "term_id": "T128",
+  "bo": "གནོད་སེམས",
+  "sanskrit": "vyāpāda",
+  "count": 2,
+  "dm": {
+   "malice": 2
+  },
+  "gm": {
+   "malice": 2
+  },
+  "occurrences": [
+   "8-29",
+   "8-30"
+  ],
+  "senses": [
+   {
+    "sense": "malice",
+    "occurrences": "all",
+    "academic": "malice",
+    "children": "wish to harm",
+    "basis": "both",
+    "reason": "Both give malice (2 each); children's plain phrase keeping the meaning."
+   }
+  ]
+ },
+ {
+  "term_id": "T129",
+  "bo": "སེམས་ཅན་ཐམས་ཅད",
+  "sanskrit": "sarvasattva",
+  "count": 2,
+  "dm": {
+   "all sentient beings": 2
+  },
+  "gm": {
+   "all sentient beings": 2
+  },
+  "occurrences": [
+   "8-42",
+   "8-44"
+  ],
+  "senses": [
+   {
+    "sense": "all sentient beings",
+    "occurrences": "all",
+    "academic": "all sentient beings",
+    "children": "all living beings",
+    "basis": "style-sheet",
+    "reason": "Built from ཐམས་ཅད \"all\" and སེམས་ཅན \"sentient being\"; both attest it (2 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T130",
+  "bo": "དེ་བཞིན་ཉིད",
+  "sanskrit": "tathatā",
+  "count": 2,
+  "dm": {
+   "suchness": 2
+  },
+  "gm": {
+   "suchness": 2
+  },
+  "occurrences": [
+   "8-45",
+   "8-99"
+  ],
+  "senses": [
+   {
+    "sense": "suchness",
+    "occurrences": "all",
+    "academic": "suchness",
+    "children": "the way things are",
+    "basis": "both",
+    "reason": "Both attest suchness (2 each); children's new, avoids an abstract English term."
+   }
+  ]
+ },
+ {
+  "term_id": "T131",
+  "bo": "བསྐལ་པ",
+  "sanskrit": "kalpa",
+  "count": 2,
+  "dm": {
+   "eons": 2
+  },
+  "gm": {
+   "eons": 2
+  },
+  "occurrences": [
+   "8-52",
+   "8-72"
+  ],
+  "senses": [
+   {
+    "sense": "eon",
+    "occurrences": "all",
+    "academic": "eon",
+    "children": "long age",
+    "basis": "both",
+    "reason": "Both attest eons; children's long age is new, plain."
+   }
+  ]
+ },
+ {
+  "term_id": "T132",
+  "bo": "རྣམ་པར་སྨིན་པ",
+  "sanskrit": "vipāka",
+  "count": 2,
+  "dm": {
+   "ripening": 2
+  },
+  "gm": {
+   "ripening": 2
+  },
+  "occurrences": [
+   "8-55",
+   "8-78"
+  ],
+  "senses": [
+   {
+    "sense": "ripening",
+    "occurrences": "all",
+    "academic": "ripening",
+    "children": "ripening",
+    "basis": "both",
+    "reason": "Both attest \"ripening\" (2 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T133",
+  "bo": "སེམས་ཅན་དུ་ལྟ་བ",
+  "sanskrit": "sattvadṛṣṭi",
+  "count": 2,
+  "dm": {
+   "view of a sentient being": 2
+  },
+  "gm": {
+   "view of a sentient being": 2
+  },
+  "occurrences": [
+   "8-62",
+   "12-15"
+  ],
+  "senses": [
+   {
+    "sense": "view of a sentient being",
+    "occurrences": "all",
+    "academic": "view of a sentient being",
+    "children": "view of a living being",
+    "basis": "style-sheet",
+    "reason": "Policy 15: both attest \"view of a sentient being\"; children's uses living being."
+   }
+  ]
+ },
+ {
+  "term_id": "T134",
+  "bo": "སྲོག་ཏུ་ལྟ་བ",
+  "sanskrit": "jīvadṛṣṭi",
+  "count": 2,
+  "dm": {
+   "view of a life-force": 2
+  },
+  "gm": {
+   "view of a living being": 1,
+   "view of a living soul": 1
+  },
+  "occurrences": [
+   "8-62",
+   "12-15"
+  ],
+  "senses": [
+   {
+    "sense": "view of a life-force",
+    "occurrences": "all",
+    "academic": "view of a life-force",
+    "children": "view of a life",
+    "basis": "style-sheet",
+    "reason": "Policy 15 four-base formula; academic view of a life-force; DharmaMitra's life-force.",
+    "draft": {
+     "academic": "view of a life"
+    },
+    "review": [
+     "academic: major — Policy 15 dictates 'life-force' must carry through every compound."
+    ]
+   }
+  ]
+ },
+ {
+  "term_id": "T135",
+  "bo": "གང་ཟག་ཏུ་ལྟ་བ",
+  "sanskrit": "pudgaladṛṣṭi",
+  "count": 2,
+  "dm": {
+   "view of a person": 2
+  },
+  "gm": {
+   "view of a person": 2
+  },
+  "occurrences": [
+   "8-63",
+   "12-15"
+  ],
+  "senses": [
+   {
+    "sense": "view of a person",
+    "occurrences": "all",
+    "academic": "view of a person",
+    "children": "view of a person",
+    "basis": "style-sheet",
+    "reason": "Policy 15; both attest \"view of a person\" (2 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T136",
+  "bo": "བྲམ་ཟེའི་ཁྱེའུ",
+  "sanskrit": "māṇava",
+  "count": 2,
+  "dm": {
+   "Young Brahmin": 2
+  },
+  "gm": {
+   "Brahmin boy": 2
+  },
+  "occurrences": [
+   "8-96",
+   "8-98"
+  ],
+  "senses": [
+   {
+    "sense": "young Brahmin",
+    "occurrences": "all",
+    "academic": "young Brahmin",
+    "children": "Brahmin boy",
+    "basis": "dm",
+    "reason": "Academic from DM, standard for māṇava; children's from GM; Brahmin capitalised."
+   }
+  ]
+ },
+ {
+  "term_id": "T137",
+  "bo": "ཤཱཀྱ་ཐུབ་པ",
+  "sanskrit": "śākyamuni",
+  "count": 2,
+  "dm": {
+   "Śākyamuni": 2
+  },
+  "gm": {
+   "Śākyamuni": 2
+  },
+  "occurrences": [
+   "8-96",
+   "8-98"
+  ],
+  "senses": [
+   {
+    "sense": "name of the Buddha",
+    "occurrences": "all",
+    "academic": "Śākyamuni",
+    "children": "Shakyamuni",
+    "basis": "both",
+    "reason": "Both attest Śākyamuni; proper name, diacritics dropped for children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T138",
+  "bo": "བྲམ་ཟེ",
+  "sanskrit": null,
+  "count": 2,
+  "dm": {
+   "Brahmin": 2
+  },
+  "gm": {
+   "Brahmin": 2
+  },
+  "occurrences": [
+   "8-96",
+   "8-98"
+  ],
+  "senses": [
+   {
+    "sense": "Brahmin",
+    "occurrences": "all",
+    "academic": "Brahmin",
+    "children": "Brahmin",
+    "basis": "both",
+    "reason": "Both attest \"Brahmin\" (2 each); the Sanskrit shown (māṇava) renders the following word \"boy\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T139",
+  "bo": "ཤའི་སྤྱན",
+  "sanskrit": "māṃsacakṣus",
+  "count": 2,
+  "dm": {
+   "fleshly eye": 2
+  },
+  "gm": {
+   "physical eye": 2
+  },
+  "occurrences": [
+   "9-1",
+   "9-2"
+  ],
+  "senses": [
+   {
+    "sense": "fleshly eye, one of the five eyes",
+    "occurrences": "all",
+    "academic": "fleshly eye",
+    "children": "eye of flesh",
+    "basis": "dm",
+    "reason": "Core terms list \"fleshly eye\"; DharmaMitra attests it; children's new, built on \"eye\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T140",
+  "bo": "ལྷའི་སྤྱན",
+  "sanskrit": "divya cakṣus",
+  "count": 2,
+  "dm": {
+   "divine eye": 2
+  },
+  "gm": {
+   "divine eye": 2
+  },
+  "occurrences": [
+   "9-4",
+   "9-5"
+  ],
+  "senses": [
+   {
+    "sense": "divine eye, one of the five eyes",
+    "occurrences": "all",
+    "academic": "divine eye",
+    "children": "heavenly eye",
+    "basis": "both",
+    "reason": "Both give divine eye (2 each); builds on eye; children's heavenly is plainer."
+   }
+  ]
+ },
+ {
+  "term_id": "T141",
+  "bo": "ཤེས་རབ་ཀྱི་སྤྱན",
+  "sanskrit": "prajñācakṣus",
+  "count": 2,
+  "dm": {
+   "eye of wisdom": 2
+  },
+  "gm": {
+   "eye of wisdom": 2
+  },
+  "occurrences": [
+   "9-7",
+   "9-9"
+  ],
+  "senses": [
+   {
+    "sense": "eye of wisdom",
+    "occurrences": "all",
+    "academic": "eye of wisdom",
+    "children": "eye of wisdom",
+    "basis": "style-sheet",
+    "reason": "Style sheet lists the five eyes on སྤྱན; both attest it (2 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T142",
+  "bo": "ཆོས་ཀྱི་སྤྱན",
+  "sanskrit": "dharmacakṣus",
+  "count": 2,
+  "dm": {
+   "Dharma eye": 2
+  },
+  "gm": {
+   "Dharma eye": 2
+  },
+  "occurrences": [
+   "9-11",
+   "9-13"
+  ],
+  "senses": [
+   {
+    "sense": "Dharma eye",
+    "occurrences": "all",
+    "academic": "Dharma eye",
+    "children": "teaching eye",
+    "basis": "style-sheet",
+    "reason": "Core eye list: Dharma eye (both attest); children's builds on eye and teaching."
+   }
+  ]
+ },
+ {
+  "term_id": "T143",
+  "bo": "སངས་རྒྱས་ཀྱི་སྤྱན",
+  "sanskrit": "buddhacakṣus",
+  "count": 2,
+  "dm": {
+   "Buddha eye": 2
+  },
+  "gm": {
+   "Buddha eye": 2
+  },
+  "occurrences": [
+   "9-15",
+   "9-17"
+  ],
+  "senses": [
+   {
+    "sense": "Buddha eye",
+    "occurrences": "all",
+    "academic": "Buddha eye",
+    "children": "Buddha eye",
+    "basis": "style-sheet",
+    "reason": "Both attest Buddha eye (4); builds on སྤྱན eye and སངས་རྒྱས Buddha (policy 14)."
+   }
+  ]
+ },
+ {
+  "term_id": "T144",
+  "bo": "ཆོས་ཉིད",
+  "sanskrit": "dharmatā",
+  "count": 2,
+  "dm": {
+   "nature of reality": 2
+  },
+  "gm": {
+   "nature of phenomena": 2
+  },
+  "occurrences": [
+   "11-3",
+   "11-4"
+  ],
+  "senses": [
+   {
+    "sense": "nature of phenomena",
+    "occurrences": "all",
+    "academic": "nature of phenomena",
+    "children": "true nature of things",
+    "basis": "gm",
+    "reason": "Policy 14 (Gemini, built from ཆོས phenomena + ཉིད); children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T145",
+  "bo": "ཆད་པ",
+  "sanskrit": "uccheda",
+  "count": 2,
+  "dm": {
+   "cut off": 2
+  },
+  "gm": {
+   "annihilated": 2
+  },
+  "occurrences": [
+   "11-8",
+   "11-9"
+  ],
+  "senses": [
+   {
+    "sense": "annihilation",
+    "occurrences": "all",
+    "academic": "annihilation",
+    "children": "cutting off",
+    "basis": "gm",
+    "reason": "Gemini \"annihilated\" gives the doctrinal sense; DharmaMitra's \"cut off\" is plainer, used for children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T146",
+  "bo": "རྣམ་པར་བཤིག་པ",
+  "sanskrit": "vināśa",
+  "count": 2,
+  "dm": {
+   "destroyed": 2
+  },
+  "gm": {
+   "destroyed": 2
+  },
+  "occurrences": [
+   "11-8",
+   "11-9"
+  ],
+  "senses": [
+   {
+    "sense": "destroyed",
+    "occurrences": "all",
+    "academic": "destroyed",
+    "children": "destroyed",
+    "basis": "both",
+    "reason": "Both give destroyed (2 each); head left as the attested participle."
+   }
+  ]
+ },
+ {
+  "term_id": "T147",
+  "bo": "རྡུལ་ཕྲ་རབ",
+  "sanskrit": null,
+  "count": 2,
+  "dm": {
+   "Most Minute Particles": 1,
+   "finest atoms": 1
+  },
+  "gm": {
+   "Subtle Particles": 1,
+   "fine atoms": 1
+  },
+  "occurrences": [
+   "12-0",
+   "12-1"
+  ],
+  "senses": [
+   {
+    "sense": "subtle particle (title and dust particle)",
+    "occurrences": "all",
+    "academic": "subtle particle",
+    "children": "tiny speck",
+    "basis": "gm",
+    "reason": "Gemini's \"Subtle Particles\"/\"fine atoms\"; DharmaMitra's \"most minute\" is a superlative; children's plain, new."
+   }
+  ]
+ },
+ {
+  "term_id": "T148",
+  "bo": "ཨརྱཱ་བཛྲ་ཙྪེད་ཀ་པྲཛྙཱ་པ་ར་མི་ཏཱ་ནཱ་མ་མ་ཧཱ་ཡ་ན་སཱུ་ཏྲ",
+  "sanskrit": "āryavajracchedikāprajñāpāramitānāmamahāyānasūtra",
+  "count": 1,
+  "dm": {
+   "Āryavajracchedikāprajñāpāramitānāmamahāyānasūtra": 1
+  },
+  "gm": {
+   "Ārya vajracchedikā prajñāpāramitā nāma mahāyāna sūtra": 1
+  },
+  "occurrences": [
+   "0-2"
+  ],
+  "senses": [
+   {
+    "sense": "Sanskrit title of the sūtra",
+    "occurrences": "all",
+    "academic": "Ārya Vajracchedikā Prajñāpāramitā Nāma Mahāyāna Sūtra",
+    "children": "Diamond Cutter",
+    "basis": "gm",
+    "reason": "Policy 24: Sanskrit title in IAST, untranslated; GM's word-divided form is readable; children's uses the plain title."
+   }
+  ]
+ },
+ {
+  "term_id": "T149",
+  "bo": "རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ",
+  "sanskrit": "jetavana",
+  "count": 1,
+  "dm": {
+   "Jeta Grove": 1
+  },
+  "gm": {
+   "Jetavana": 1
+  },
+  "occurrences": [
+   "1-2"
+  ],
+  "senses": [
+   {
+    "sense": "place name",
+    "occurrences": "all",
+    "academic": "Jetavana",
+    "children": "Jeta Grove",
+    "basis": "style-sheet",
+    "reason": "Policy 11: Jetavana for academic, Jeta Grove for children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T150",
+  "bo": "མགོན་མེད་ཟས་སྦྱིན",
+  "sanskrit": "anāthapiṇḍada",
+  "count": 1,
+  "dm": {
+   "Anāthapiṇḍada": 1
+  },
+  "gm": {
+   "Anāthapiṇḍada": 1
+  },
+  "occurrences": [
+   "1-2"
+  ],
+  "senses": [
+   {
+    "sense": "proper name",
+    "occurrences": "all",
+    "academic": "Anāthapiṇḍada",
+    "children": "Anathapindada",
+    "basis": "both",
+    "reason": "Both attest Anāthapiṇḍada; IAST for academic, no diacritics for children's (policies 8, 9)."
+   }
+  ]
+ },
+ {
+  "term_id": "T151",
+  "bo": "དགེ་འདུན",
+  "sanskrit": "saṃgha",
+  "count": 1,
+  "dm": {
+   "community": 1
+  },
+  "gm": {
+   "saṅgha": 1
+  },
+  "occurrences": [
+   "1-2"
+  ],
+  "senses": [
+   {
+    "sense": "community of monks",
+    "occurrences": "all",
+    "academic": "community",
+    "children": "community",
+    "basis": "dm",
+    "reason": "DharmaMitra \"community\"; saṅgha is not on the policy 7 keep list."
+   }
+  ]
+ },
+ {
+  "term_id": "T152",
+  "bo": "ཤམ་ཐབས",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "lower robe": 1
+  },
+  "gm": {
+   "lower garment": 1
+  },
+  "occurrences": [
+   "1-3"
+  ],
+  "senses": [
+   {
+    "sense": "lower robe, garment worn on the lower body",
+    "occurrences": "all",
+    "academic": "lower robe",
+    "children": "lower robe",
+    "basis": "dm",
+    "reason": "DharmaMitra's lower robe pairs with upper robe (T158); Gemini's garment not matched."
+   }
+  ]
+ },
+ {
+  "term_id": "T153",
+  "bo": "སྐྱིལ་མོ་ཀྲུང་བཅས",
+  "sanskrit": "paryaṅkam ābhujya",
+  "count": 1,
+  "dm": {
+   "cross-legged": 1
+  },
+  "gm": {
+   "crossing his legs": 1
+  },
+  "occurrences": [
+   "1-5"
+  ],
+  "senses": [
+   {
+    "sense": "sitting posture",
+    "occurrences": "all",
+    "academic": "cross-legged",
+    "children": "cross-legged",
+    "basis": "dm",
+    "reason": "DharmaMitra's \"cross-legged\" is the compact head form; Gemini's verb phrase inflected from it."
+   }
+  ]
+ },
+ {
+  "term_id": "T154",
+  "bo": "དྲན་པ་མངོན་དུ་བཞག",
+  "sanskrit": "pratimukhīṃ smṛtim upasthāpya",
+  "count": 1,
+  "dm": {
+   "mindfulness established before him": 1
+  },
+  "gm": {
+   "establishing mindfulness to the fore": 1
+  },
+  "occurrences": [
+   "1-5"
+  ],
+  "senses": [
+   {
+    "sense": "establish mindfulness before oneself (meditative posture)",
+    "occurrences": "all",
+    "academic": "establish mindfulness to the fore",
+    "children": "pay full attention",
+    "basis": "gm",
+    "reason": "GM's form is idiomatic and matches དྲན་པ mindfulness; children's plain phrase is new."
+   }
+  ]
+ },
+ {
+  "term_id": "T155",
+  "bo": "དྲན་པ",
+  "sanskrit": "smṛti",
+  "count": 1,
+  "dm": {
+   "mindfulness": 1
+  },
+  "gm": {
+   "mindfulness": 1
+  },
+  "occurrences": [
+   "1-5"
+  ],
+  "senses": [
+   {
+    "sense": "mindfulness",
+    "occurrences": "all",
+    "academic": "mindfulness",
+    "children": "careful attention",
+    "basis": "both",
+    "reason": "Both attest mindfulness; children's plainer phrase is new."
+   }
+  ]
+ },
+ {
+  "term_id": "T156",
+  "bo": "བསྐོར་བ",
+  "sanskrit": "pradakṣiṇa",
+  "count": 1,
+  "dm": {
+   "circumambulated": 1
+  },
+  "gm": {
+   "circumambulated": 1
+  },
+  "occurrences": [
+   "1-7"
+  ],
+  "senses": [
+   {
+    "sense": "circumambulate",
+    "occurrences": "all",
+    "academic": "circumambulate",
+    "children": "walk around",
+    "basis": "both",
+    "reason": "Both attest \"circumambulated\"; head form is the verb; children's plain phrase new."
+   }
+  ]
+ },
+ {
+  "term_id": "T157",
+  "bo": "འཁོར",
+  "sanskrit": "parṣad",
+  "count": 1,
+  "dm": {
+   "assembly": 1
+  },
+  "gm": {
+   "retinue": 1
+  },
+  "occurrences": [
+   "1-8"
+  ],
+  "senses": [
+   {
+    "sense": "assembly",
+    "occurrences": "all",
+    "academic": "assembly",
+    "children": "assembly",
+    "basis": "dm",
+    "reason": "DharmaMitra \"assembly\"; Gemini's \"retinue\" sounds like attendants; Sanskrit parṣad is a gathering."
+   }
+  ]
+ },
+ {
+  "term_id": "T158",
+  "bo": "བླ་གོས",
+  "sanskrit": "uttarāsaṅga",
+  "count": 1,
+  "dm": {
+   "upper robe": 1
+  },
+  "gm": {
+   "upper robe": 1
+  },
+  "occurrences": [
+   "2-1"
+  ],
+  "senses": [
+   {
+    "sense": "upper robe",
+    "occurrences": "all",
+    "academic": "upper robe",
+    "children": "upper robe",
+    "basis": "both",
+    "reason": "Both give upper robe; pairs with lower robe (T152)."
+   }
+  ]
+ },
+ {
+  "term_id": "T159",
+  "bo": "ཐལ་མོ་སྦྱར་བ",
+  "sanskrit": "añjaliṃ praṇamya",
+  "count": 1,
+  "dm": {
+   "palms joined": 1
+  },
+  "gm": {
+   "joined palms": 1
+  },
+  "occurrences": [
+   "2-1"
+  ],
+  "senses": [
+   {
+    "sense": "gesture of reverence",
+    "occurrences": "all",
+    "academic": "joined palms",
+    "children": "palms together",
+    "basis": "gm",
+    "reason": "Gemini's noun-phrase form; DharmaMitra's \"palms joined\" is the same idea; children's plain."
+   }
+  ]
+ },
+ {
+  "term_id": "T160",
+  "bo": "བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པ",
+  "sanskrit": "bodhicittotpāda",
+  "count": 1,
+  "dm": {
+   "Generating the Mind of Enlightenment": 1
+  },
+  "gm": {
+   "Generating Bodhicitta": 1
+  },
+  "occurrences": [
+   "4-0"
+  ],
+  "senses": [
+   {
+    "sense": "generate the mind of awakening (chapter title)",
+    "occurrences": "all",
+    "academic": "generate the mind of awakening",
+    "children": "set the mind on awakening",
+    "basis": "dm",
+    "reason": "DM's structure, 'enlightenment' replaced by awakening (policy 1) and generate the mind (policy 19); children's per policy 19."
+   }
+  ]
+ },
+ {
+  "term_id": "T161",
+  "bo": "སྒོ་ང་ལས་སྐྱེས་པ",
+  "sanskrit": "aṇḍaja",
+  "count": 1,
+  "dm": {
+   "born from eggs": 1
+  },
+  "gm": {
+   "born from eggs": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "born from eggs",
+    "occurrences": "all",
+    "academic": "born from eggs",
+    "children": "born from eggs",
+    "basis": "both",
+    "reason": "Both translations agree; already plain."
+   }
+  ]
+ },
+ {
+  "term_id": "T162",
+  "bo": "མངལ་ལས་སྐྱེས་པ",
+  "sanskrit": "jarāyuja",
+  "count": 1,
+  "dm": {
+   "born from wombs": 1
+  },
+  "gm": {
+   "born from wombs": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "born from a womb",
+    "occurrences": "all",
+    "academic": "born from a womb",
+    "children": "born from a womb",
+    "basis": "both",
+    "reason": "Both attest \"born from wombs\" (1 each); singular head form."
+   }
+  ]
+ },
+ {
+  "term_id": "T163",
+  "bo": "དྲོད་གཤེར་ལས་སྐྱེས་པ",
+  "sanskrit": "saṃsvedaja",
+  "count": 1,
+  "dm": {
+   "born from warmth and moisture": 1
+  },
+  "gm": {
+   "born from heat and moisture": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "one of the four modes of birth",
+    "occurrences": "all",
+    "academic": "born from warmth and moisture",
+    "children": "born from warmth and moisture",
+    "basis": "dm",
+    "reason": "DharmaMitra \"warmth and moisture\" follows དྲོད \"warmth\"; Gemini \"heat and moisture\" is a variant."
+   }
+  ]
+ },
+ {
+  "term_id": "T164",
+  "bo": "རྫུས་ཏེ་སྐྱེས་པ",
+  "sanskrit": "aupapāduka",
+  "count": 1,
+  "dm": {
+   "born miraculously": 1
+  },
+  "gm": {
+   "miraculously born": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "miraculously born, one of the four kinds of birth",
+    "occurrences": "all",
+    "academic": "miraculously born",
+    "children": "miraculously born",
+    "basis": "gm",
+    "reason": "Gemini's order follows the Tibetan adverb plus participle; DharmaMitra's born miraculously same meaning."
+   }
+  ]
+ },
+ {
+  "term_id": "T165",
+  "bo": "གཟུགས་ཅན",
+  "sanskrit": "rūpin",
+  "count": 1,
+  "dm": {
+   "having form": 1
+  },
+  "gm": {
+   "having form": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "having form",
+    "occurrences": "all",
+    "academic": "having form",
+    "children": "having a shape",
+    "basis": "both",
+    "reason": "Both attest \"having form\"; children's plain wording."
+   }
+  ]
+ },
+ {
+  "term_id": "T166",
+  "bo": "གཟུགས་ཅན་མ་ཡིན་པ",
+  "sanskrit": "arūpin",
+  "count": 1,
+  "dm": {
+   "without form": 1
+  },
+  "gm": {
+   "formless": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "without form",
+    "occurrences": "all",
+    "academic": "without form",
+    "children": "without form",
+    "basis": "dm",
+    "reason": "DM's form parallels གཟུགས་ཅན 'having form' in the same list."
+   }
+  ]
+ },
+ {
+  "term_id": "T167",
+  "bo": "འདུ་ཤེས་ཅན",
+  "sanskrit": "saṃjñin",
+  "count": 1,
+  "dm": {
+   "having perception": 1
+  },
+  "gm": {
+   "having perception": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "having perception",
+    "occurrences": "all",
+    "academic": "having perception",
+    "children": "having ideas",
+    "basis": "both",
+    "reason": "Both agree; builds on perception (policy 16); children's idea."
+   }
+  ]
+ },
+ {
+  "term_id": "T168",
+  "bo": "འདུ་ཤེས་མེད",
+  "sanskrit": "asaṃjñin",
+  "count": 1,
+  "dm": {
+   "without perception": 1
+  },
+  "gm": {
+   "having no perception": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "without perception",
+    "occurrences": "all",
+    "academic": "without perception",
+    "children": "without ideas",
+    "basis": "dm",
+    "reason": "Perception per policy 16; DharmaMitra's form; Gemini's \"having no perception\" is a paraphrase."
+   }
+  ]
+ },
+ {
+  "term_id": "T169",
+  "bo": "འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན",
+  "sanskrit": "naivasaṃjñināsaṃjñin",
+  "count": 1,
+  "dm": {
+   "neither with perception nor without perception": 1
+  },
+  "gm": {
+   "neither having nor lacking perception": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "neither with perception nor without perception",
+    "occurrences": "all",
+    "academic": "neither with perception nor without perception",
+    "children": "neither with ideas nor without ideas",
+    "basis": "dm",
+    "reason": "Policy 16 fixes \"perception\" (children's \"idea\"); DharmaMitra's form matches that pattern."
+   }
+  ]
+ },
+ {
+  "term_id": "T170",
+  "bo": "སེམས་ཅན་གྱི་ཁམས",
+  "sanskrit": "sattvadhātu",
+  "count": 1,
+  "dm": {},
+  "gm": {
+   "realm of beings": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "realm of sentient beings",
+    "occurrences": "all",
+    "academic": "realm of sentient beings",
+    "children": "realm of living beings",
+    "basis": "style-sheet",
+    "reason": "Built from སེམས་ཅན sentient being and ཁམས realm (policies 13, 14); Gemini's realm of beings."
+   }
+  ]
+ },
+ {
+  "term_id": "T171",
+  "bo": "ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས",
+  "sanskrit": "anupadhiśeṣa nirvāṇadhātu",
+  "count": 1,
+  "dm": {
+   "realm of nirvāṇa that leaves no remainder of the aggregates": 1
+  },
+  "gm": {
+   "realm of nirvāṇa without remainder of aggregates": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "nirvāṇa without remainder",
+    "occurrences": "all",
+    "academic": "expanse of nirvāṇa without remainder of the aggregates",
+    "children": "expanse of freedom from sorrow with no group left over",
+    "basis": "new",
+    "reason": "Both say \"realm\", reserved for ཁམས (policy 13/20); \"expanse\" for དབྱིངས is new; parts from style sheet."
+   }
+  ]
+ },
+ {
+  "term_id": "T172",
+  "bo": "ཕུང་པོ་ལྷག་མ་མེད་པ",
+  "sanskrit": "anupadhiśeṣa",
+  "count": 1,
+  "dm": {
+   "leaves no remainder of the aggregates": 1
+  },
+  "gm": {
+   "without remainder of aggregates": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "without remainder of the aggregates",
+    "occurrences": "all",
+    "academic": "without remainder of the aggregates",
+    "children": "with no group left over",
+    "basis": "gm",
+    "reason": "GM's form; ཕུང་པོ aggregate per style sheet; children's builds on 'group'."
+   }
+  ]
+ },
+ {
+  "term_id": "T173",
+  "bo": "མྱ་ངན་ལས་འདས་པའི་དབྱིངས",
+  "sanskrit": "nirvāṇadhātu",
+  "count": 1,
+  "dm": {
+   "realm of nirvāṇa": 1
+  },
+  "gm": {
+   "realm of nirvāṇa": 1
+  },
+  "occurrences": [
+   "4-1"
+  ],
+  "senses": [
+   {
+    "sense": "expanse of nirvāṇa",
+    "occurrences": "all",
+    "academic": "expanse of nirvāṇa",
+    "children": "expanse of freedom from sorrow",
+    "basis": "new",
+    "reason": "Policy 20: realm is ཁམས; དབྱིངས gets expanse; nirvāṇa per core term."
+   }
+  ]
+ },
+ {
+  "term_id": "T174",
+  "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདས",
+  "sanskrit": "parinirvāṇa",
+  "count": 1,
+  "dm": {
+   "complete nirvāṇa": 1
+  },
+  "gm": {
+   "complete nirvāṇa": 1
+  },
+  "occurrences": [
+   "4-2"
+  ],
+  "senses": [
+   {
+    "sense": "complete nirvāṇa",
+    "occurrences": "all",
+    "academic": "complete nirvāṇa",
+    "children": "complete freedom from sorrow",
+    "basis": "both",
+    "reason": "Both attest \"complete nirvāṇa\"; same rendering as T234; children's built on the nirvāṇa core term."
+   }
+  ]
+ },
+ {
+  "term_id": "T175",
+  "bo": "མྱ་ངན་ལས་འདས",
+  "sanskrit": "nirvāṇa",
+  "count": 1,
+  "dm": {
+   "nirvāṇa": 1
+  },
+  "gm": {
+   "nirvāṇa": 1
+  },
+  "occurrences": [
+   "4-2"
+  ],
+  "senses": [
+   {
+    "sense": "nirvāṇa",
+    "occurrences": "all",
+    "academic": "nirvāṇa",
+    "children": "freedom from sorrow",
+    "basis": "style-sheet",
+    "reason": "Core term variant spelling (policy 21); both attest nirvāṇa; children's as core term."
+   }
+  ]
+ },
+ {
+  "term_id": "T176",
+  "bo": "སེམས་ཅན་དུ་འདུ་ཤེས",
+  "sanskrit": "sattvasaṃjñā",
+  "count": 1,
+  "dm": {
+   "perception of a sentient being": 1
+  },
+  "gm": {
+   "notion of a being": 1
+  },
+  "occurrences": [
+   "4-4"
+  ],
+  "senses": [
+   {
+    "sense": "perception of a sentient being",
+    "occurrences": "all",
+    "academic": "perception of a sentient being",
+    "children": "idea of a living being",
+    "basis": "style-sheet",
+    "reason": "Policy 15 and 16 pattern; DharmaMitra attests perception of a sentient being."
+   }
+  ]
+ },
+ {
+  "term_id": "T177",
+  "bo": "སྲོག་ཏུ་འདུ་ཤེས",
+  "sanskrit": "jīvasaṃjñā",
+  "count": 1,
+  "dm": {
+   "perception of a life-force": 1
+  },
+  "gm": {
+   "notion of a living soul": 1
+  },
+  "occurrences": [
+   "4-4"
+  ],
+  "senses": [
+   {
+    "sense": "perception of a life-force",
+    "occurrences": "all",
+    "academic": "perception of a life-force",
+    "children": "idea of a life",
+    "basis": "style-sheet",
+    "reason": "Policy 15 and 16; DharmaMitra attests \"perception of a life-force\"; \"living soul\" dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T178",
+  "bo": "གང་ཟག་ཏུ་འདུ་ཤེས",
+  "sanskrit": "pudgalasaṃjñā",
+  "count": 1,
+  "dm": {
+   "perception of a person": 1
+  },
+  "gm": {
+   "notion of a person": 1
+  },
+  "occurrences": [
+   "4-4"
+  ],
+  "senses": [
+   {
+    "sense": "perception of a person",
+    "occurrences": "all",
+    "academic": "perception of a person",
+    "children": "idea of a person",
+    "basis": "style-sheet",
+    "reason": "Policy 15 and 16; DM attests it, GM's 'notion' dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T179",
+  "bo": "མཚན་མར་འདུ་ཤེས་པ",
+  "sanskrit": "nimittasaṃjñā",
+  "count": 1,
+  "dm": {
+   "perception of characteristics": 1
+  },
+  "gm": {
+   "notion of a sign": 1
+  },
+  "occurrences": [
+   "4-9"
+  ],
+  "senses": [
+   {
+    "sense": "perception of a sign",
+    "occurrences": "all",
+    "academic": "perception of a sign",
+    "children": "idea of a sign",
+    "basis": "style-sheet",
+    "reason": "Builds on perception and sign (policies 14, 16, 20); Gemini's notion dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T180",
+  "bo": "ཕར་ཕྱིན་དྲུག",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "Six Perfections": 1
+  },
+  "gm": {
+   "Six Pāramitās": 1
+  },
+  "occurrences": [
+   "5-0"
+  ],
+  "senses": [
+   {
+    "sense": "six perfections",
+    "occurrences": "all",
+    "academic": "six perfections",
+    "children": "six perfections",
+    "basis": "style-sheet",
+    "reason": "Policy 18: ཕར་ཕྱིན་དྲུག is \"six perfections\"; pāramitā not kept."
+   }
+  ]
+ },
+ {
+  "term_id": "T181",
+  "bo": "ཤར་ཕྱོགས",
+  "sanskrit": "pūrvā diś",
+  "count": 1,
+  "dm": {
+   "eastern direction": 1
+  },
+  "gm": {
+   "eastern direction": 1
+  },
+  "occurrences": [
+   "5-2"
+  ],
+  "senses": [
+   {
+    "sense": "east",
+    "occurrences": "all",
+    "academic": "eastern direction",
+    "children": "east",
+    "basis": "both",
+    "reason": "Both attest \"eastern direction\"; children's \"east\" is shorter and plain."
+   }
+  ]
+ },
+ {
+  "term_id": "T182",
+  "bo": "ལྷོ",
+  "sanskrit": "dakṣiṇa",
+  "count": 1,
+  "dm": {
+   "south": 1
+  },
+  "gm": {
+   "south": 1
+  },
+  "occurrences": [
+   "5-4"
+  ],
+  "senses": [
+   {
+    "sense": "south",
+    "occurrences": "all",
+    "academic": "south",
+    "children": "south",
+    "basis": "both",
+    "reason": "Both give south."
+   }
+  ]
+ },
+ {
+  "term_id": "T183",
+  "bo": "ནུབ",
+  "sanskrit": "paścima",
+  "count": 1,
+  "dm": {
+   "west": 1
+  },
+  "gm": {
+   "west": 1
+  },
+  "occurrences": [
+   "5-4"
+  ],
+  "senses": [
+   {
+    "sense": "west (direction)",
+    "occurrences": "all",
+    "academic": "west",
+    "children": "west",
+    "basis": "both",
+    "reason": "Both attest \"west\" (1 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T184",
+  "bo": "བྱང",
+  "sanskrit": "uttara",
+  "count": 1,
+  "dm": {
+   "north": 1
+  },
+  "gm": {
+   "north": 1
+  },
+  "occurrences": [
+   "5-4"
+  ],
+  "senses": [
+   {
+    "sense": "north",
+    "occurrences": "all",
+    "academic": "north",
+    "children": "north",
+    "basis": "both",
+    "reason": "Both attest north."
+   }
+  ]
+ },
+ {
+  "term_id": "T185",
+  "bo": "སྟེང",
+  "sanskrit": "ūrdhva",
+  "count": 1,
+  "dm": {
+   "zenith": 1
+  },
+  "gm": {
+   "directions above and below": 1
+  },
+  "occurrences": [
+   "5-4"
+  ],
+  "senses": [
+   {
+    "sense": "zenith",
+    "occurrences": "all",
+    "academic": "zenith",
+    "children": "above",
+    "basis": "dm",
+    "reason": "DharmaMitra's zenith pairs with nadir for the directions; children's above is new."
+   }
+  ]
+ },
+ {
+  "term_id": "T186",
+  "bo": "འོག",
+  "sanskrit": "adhas",
+  "count": 1,
+  "dm": {
+   "nadir": 1
+  },
+  "gm": {
+   "directions above and below": 1
+  },
+  "occurrences": [
+   "5-4"
+  ],
+  "senses": [
+   {
+    "sense": "below",
+    "occurrences": "all",
+    "academic": "below",
+    "children": "below",
+    "basis": "new",
+    "reason": "Neither \"nadir\" nor \"directions above and below\" fits the one word འོག; \"below\" is plain.",
+    "draft": {
+     "academic": "below"
+    },
+    "review": [
+     "academic: minor — Policy 25: choice must follow attested renderings; 'nadir' is attested by dm.",
+     "academic: editor override — user 2026-10-07: plain direction word; 'nadir' rejected"
+    ],
+    "override": {
+     "academic": true
+    }
+   }
+  ]
+ },
+ {
+  "term_id": "T187",
+  "bo": "ཕྱོགས་མཚམས",
+  "sanskrit": "vidiś",
+  "count": 1,
+  "dm": {
+   "intermediate directions": 1
+  },
+  "gm": {
+   "intermediate directions": 1
+  },
+  "occurrences": [
+   "5-4"
+  ],
+  "senses": [
+   {
+    "sense": "intermediate directions",
+    "occurrences": "all",
+    "academic": "intermediate direction",
+    "children": "in-between direction",
+    "basis": "both",
+    "reason": "Both attest \"intermediate directions\"; singular head form (policy 22); children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T188",
+  "bo": "ཕྱོགས་བཅུ",
+  "sanskrit": "daśadiś",
+  "count": 1,
+  "dm": {
+   "ten directions": 1
+  },
+  "gm": {
+   "ten directions": 1
+  },
+  "occurrences": [
+   "5-4"
+  ],
+  "senses": [
+   {
+    "sense": "ten directions",
+    "occurrences": "all",
+    "academic": "ten directions",
+    "children": "ten directions",
+    "basis": "both",
+    "reason": "Both give ten directions."
+   }
+  ]
+ },
+ {
+  "term_id": "T189",
+  "bo": "གཟུགས་སྐུ",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "Rūpakāya": 1
+  },
+  "gm": {
+   "Rūpakāya": 1
+  },
+  "occurrences": [
+   "6-0"
+  ],
+  "senses": [
+   {
+    "sense": "form body of a Buddha",
+    "occurrences": "all",
+    "academic": "form body",
+    "children": "form body",
+    "basis": "style-sheet",
+    "reason": "Policy 7: \"form body\", not Rūpakāya; same in children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T190",
+  "bo": "ཚུལ་ཁྲིམས",
+  "sanskrit": "śīla",
+  "count": 1,
+  "dm": {
+   "morality": 1
+  },
+  "gm": {
+   "ethical discipline": 1
+  },
+  "occurrences": [
+   "6-12"
+  ],
+  "senses": [
+   {
+    "sense": "ethical discipline",
+    "occurrences": "all",
+    "academic": "ethical discipline",
+    "children": "good conduct",
+    "basis": "gm",
+    "reason": "GM's form is the standard equivalent of śīla; DM's 'morality' not used; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T191",
+  "bo": "ཡོན་ཏན",
+  "sanskrit": "guṇa",
+  "count": 1,
+  "dm": {
+   "qualities": 1
+  },
+  "gm": {
+   "good qualities": 1
+  },
+  "occurrences": [
+   "6-12"
+  ],
+  "senses": [
+   {
+    "sense": "good quality",
+    "occurrences": "all",
+    "academic": "good quality",
+    "children": "good quality",
+    "basis": "style-sheet",
+    "reason": "Policy 4: ཡོན་ཏན 'good quality'; Gemini attests good qualities."
+   }
+  ]
+ },
+ {
+  "term_id": "T192",
+  "bo": "དད་པ",
+  "sanskrit": "prasāda",
+  "count": 1,
+  "dm": {
+   "faith": 1
+  },
+  "gm": {
+   "faith": 1
+  },
+  "occurrences": [
+   "6-16"
+  ],
+  "senses": [
+   {
+    "sense": "faith",
+    "occurrences": "all",
+    "academic": "faith",
+    "children": "trust",
+    "basis": "both",
+    "reason": "Both attest \"faith\" (1 each); children's \"trust\" is new and plainer."
+   }
+  ]
+ },
+ {
+  "term_id": "T193",
+  "bo": "བདག་ཏུ་འདུ་ཤེས",
+  "sanskrit": "ātmasaṃjñā",
+  "count": 1,
+  "dm": {
+   "perception of a self": 1
+  },
+  "gm": {
+   "perception of a self": 1
+  },
+  "occurrences": [
+   "6-19"
+  ],
+  "senses": [
+   {
+    "sense": "perception of a self",
+    "occurrences": "all",
+    "academic": "perception of a self",
+    "children": "idea of a self",
+    "basis": "style-sheet",
+    "reason": "Policy 15 and 16: both attest \"perception of a self\"; children's \"idea\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T194",
+  "bo": "གཟིངས",
+  "sanskrit": "kola",
+  "count": 1,
+  "dm": {
+   "raft": 1
+  },
+  "gm": {
+   "raft": 1
+  },
+  "occurrences": [
+   "6-28"
+  ],
+  "senses": [
+   {
+    "sense": "raft",
+    "occurrences": "all",
+    "academic": "raft",
+    "children": "raft",
+    "basis": "both",
+    "reason": "Both give raft."
+   }
+  ]
+ },
+ {
+  "term_id": "T195",
+  "bo": "ཆོས་མ་མཆིས་པ",
+  "sanskrit": "adharma",
+  "count": 1,
+  "dm": {
+   "the absence of a phenomenon": 1
+  },
+  "gm": {
+   "non-dharma": 1
+  },
+  "occurrences": [
+   "6-37"
+  ],
+  "senses": [
+   {
+    "sense": "absence of a phenomenon",
+    "occurrences": "all",
+    "academic": "absence of a phenomenon",
+    "children": "absence of a thing",
+    "basis": "dm",
+    "reason": "Sense: phenomena; DharmaMitra's \"phenomenon\" fits; Gemini's \"non-dharma\" avoided (policy 3)."
+   }
+  ]
+ },
+ {
+  "term_id": "T196",
+  "bo": "འཕགས་པའི་གང་ཟག",
+  "sanskrit": "āryapudgala",
+  "count": 1,
+  "dm": {
+   "noble individuals": 1
+  },
+  "gm": {
+   "noble beings": 1
+  },
+  "occurrences": [
+   "6-38"
+  ],
+  "senses": [
+   {
+    "sense": "noble person",
+    "occurrences": "all",
+    "academic": "noble person",
+    "children": "noble person",
+    "basis": "new",
+    "reason": "Built from noble (T052) and person (གང་ཟག); neither MT matches the parts (policy 14)."
+   }
+  ]
+ },
+ {
+  "term_id": "T197",
+  "bo": "འདུས་མ་བྱས",
+  "sanskrit": "asaṃskṛta",
+  "count": 1,
+  "dm": {
+   "unconditioned": 1
+  },
+  "gm": {
+   "unconditioned": 1
+  },
+  "occurrences": [
+   "6-38"
+  ],
+  "senses": [
+   {
+    "sense": "unconditioned",
+    "occurrences": "all",
+    "academic": "unconditioned",
+    "children": "not made by causes",
+    "basis": "both",
+    "reason": "Both attest unconditioned; children's is new, plain."
+   }
+  ]
+ },
+ {
+  "term_id": "T198",
+  "bo": "ཞུགས་གནས་བརྒྱད",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "The Eight Types of Noble Beings": 1
+  },
+  "gm": {
+   "The Eight Stages of Entering and Abiding": 1
+  },
+  "occurrences": [
+   "7-0"
+  ],
+  "senses": [
+   {
+    "sense": "eight entrants and abiders",
+    "occurrences": "all",
+    "academic": "eight entrants and abiders",
+    "children": "eight who enter and stay",
+    "basis": "new",
+    "reason": "Built from ཞུགས \"enter\" and གནས \"abide\"; both translations paraphrase or give titles."
+   }
+  ]
+ },
+ {
+  "term_id": "T199",
+  "bo": "ལན་ཅིག་ཕྱིར་འོང་བ་ཉིད",
+  "sanskrit": "sakṛdāgāmitva",
+  "count": 1,
+  "dm": {
+   "state of being a once-returner": 1
+  },
+  "gm": {
+   "state of a Once-Returner": 1
+  },
+  "occurrences": [
+   "7-13"
+  ],
+  "senses": [
+   {
+    "sense": "state of being a once-returner",
+    "occurrences": "all",
+    "academic": "state of a once-returner",
+    "children": "state of a once-returner",
+    "basis": "gm",
+    "reason": "Policy 23 fixes once-returner; Gemini's shorter \"state of a once-returner\" over DharmaMitra's \"state of being\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T200",
+  "bo": "ཕྱིར་མི་འོང་བའི་འབྲས་བུ",
+  "sanskrit": "anāgāmiphala",
+  "count": 1,
+  "dm": {
+   "fruit of a non-returner": 1
+  },
+  "gm": {
+   "fruit of a Non-Returner": 1
+  },
+  "occurrences": [
+   "7-18"
+  ],
+  "senses": [
+   {
+    "sense": "fruit of a non-returner",
+    "occurrences": "all",
+    "academic": "fruit of a non-returner",
+    "children": "fruit of a non-returner",
+    "basis": "both",
+    "reason": "Both attest it; policy 23; capital N is lower-cased per policy 22."
+   }
+  ]
+ },
+ {
+  "term_id": "T201",
+  "bo": "ཕྱིར་མི་འོང་བ་ཉིད",
+  "sanskrit": "anāgāmitva",
+  "count": 1,
+  "dm": {
+   "state of a non-returner": 1
+  },
+  "gm": {
+   "state of a Non-Returner": 1
+  },
+  "occurrences": [
+   "7-20"
+  ],
+  "senses": [
+   {
+    "sense": "state of a non-returner",
+    "occurrences": "all",
+    "academic": "state of a non-returner",
+    "children": "state of a non-returner",
+    "basis": "dm",
+    "reason": "Policy 23; DharmaMitra's lower-case form (policy 22); Gemini capitalises."
+   }
+  ]
+ },
+ {
+  "term_id": "T202",
+  "bo": "འདོད་ཆགས",
+  "sanskrit": "rāga",
+  "count": 1,
+  "dm": {
+   "desire": 1
+  },
+  "gm": {
+   "desire": 1
+  },
+  "occurrences": [
+   "7-29"
+  ],
+  "senses": [
+   {
+    "sense": "desire",
+    "occurrences": "all",
+    "academic": "desire",
+    "children": "wanting",
+    "basis": "both",
+    "reason": "Both attest desire; children's plain word."
+   }
+  ]
+ },
+ {
+  "term_id": "T203",
+  "bo": "འདོད་ཆགས་དང་བྲལ་བ",
+  "sanskrit": "vītarāga",
+  "count": 1,
+  "dm": {
+   "free from desire": 1
+  },
+  "gm": {
+   "free from desire": 1
+  },
+  "occurrences": [
+   "7-29"
+  ],
+  "senses": [
+   {
+    "sense": "free from desire",
+    "occurrences": "all",
+    "academic": "free from desire",
+    "children": "free from wanting",
+    "basis": "both",
+    "reason": "Both agree on free from desire; children's wanting is plainer."
+   }
+  ]
+ },
+ {
+  "term_id": "T204",
+  "bo": "སེམས་པ་བསྐྱེད་པ",
+  "sanskrit": "cittam utpādayati",
+  "count": 1,
+  "dm": {
+   "generate the mind": 1
+  },
+  "gm": {
+   "produce the mind": 1
+  },
+  "occurrences": [
+   "7-39"
+  ],
+  "senses": [
+   {
+    "sense": "generate the mind",
+    "occurrences": "all",
+    "academic": "generate the mind",
+    "children": "set the mind",
+    "basis": "style-sheet",
+    "reason": "Policy 19: one rendering for all spellings of སེམས་བསྐྱེད."
+   }
+  ]
+ },
+ {
+  "term_id": "T205",
+  "bo": "རིའི་རྒྱལ་པོ་རི་རབ",
+  "sanskrit": "Sumeru",
+  "count": 1,
+  "dm": {
+   "Mount Sumeru, the king of mountains": 1
+  },
+  "gm": {
+   "Sumeru, the king of mountains": 1
+  },
+  "occurrences": [
+   "7-43"
+  ],
+  "senses": [
+   {
+    "sense": "Mount Sumeru",
+    "occurrences": "all",
+    "academic": "Mount Sumeru, the king of mountains",
+    "children": "Mount Sumeru, the king of mountains",
+    "basis": "dm",
+    "reason": "Policy 11 gives \"Mount Sumeru\"; DharmaMitra attests the full phrase; Sanskrit parvatarāja."
+   }
+  ]
+ },
+ {
+  "term_id": "T206",
+  "bo": "འཇིག་རྟེན་གྱིས་ཁམས",
+  "sanskrit": "lokadhātu",
+  "count": 1,
+  "dm": {
+   "world systems": 1
+  },
+  "gm": {
+   "world systems": 1
+  },
+  "occurrences": [
+   "7-59"
+  ],
+  "senses": [
+   {
+    "sense": "world system (variant spelling)",
+    "occurrences": "all",
+    "academic": "world system",
+    "children": "world realm",
+    "basis": "style-sheet",
+    "reason": "Spelling variant of འཇིག་རྟེན་གྱི་ཁམས; policies 13, 21; both attest world systems."
+   }
+  ]
+ },
+ {
+  "term_id": "T207",
+  "bo": "ལྷ་དང་མི་དང་ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན",
+  "sanskrit": "sadevamānuṣāsura loka",
+  "count": 1,
+  "dm": {
+   "world including gods, humans, and asuras": 1
+  },
+  "gm": {
+   "world with its gods, humans, and asuras": 1
+  },
+  "occurrences": [
+   "7-61"
+  ],
+  "senses": [
+   {
+    "sense": "the world with its gods, humans and asuras",
+    "occurrences": "all",
+    "academic": "world with its gods, humans, and demigods",
+    "children": "world with its gods, people, and jealous gods",
+    "basis": "gm",
+    "reason": "Gemini's \"with its\" follows བཅས་པ; children's avoids Sanskrit asura, new.",
+    "draft": {
+     "academic": "world with its gods, humans, and asuras",
+     "children": "world with its gods, people, and demigods"
+    },
+    "review": [
+     "academic: major — Policy 7 dictates translating non-list Sanskrit; T097 uses 'demigod'.",
+     "children: major — Consistency with T097 where children's rendering for asura is 'jealous god'."
+    ]
+   }
+  ]
+ },
+ {
+  "term_id": "T208",
+  "bo": "སྟོན་པ",
+  "sanskrit": "śāstṛ",
+  "count": 1,
+  "dm": {
+   "Teacher": 1
+  },
+  "gm": {
+   "Teacher": 1
+  },
+  "occurrences": [
+   "7-62"
+  ],
+  "senses": [
+   {
+    "sense": "Teacher",
+    "occurrences": "all",
+    "academic": "Teacher",
+    "children": "Teacher",
+    "basis": "both",
+    "reason": "Both attest Teacher; capital as an epithet (policy 10)."
+   }
+  ]
+ },
+ {
+  "term_id": "T209",
+  "bo": "བླ་མ",
+  "sanskrit": "guru",
+  "count": 1,
+  "dm": {
+   "guru": 1
+  },
+  "gm": {
+   "guru": 1
+  },
+  "occurrences": [
+   "7-62"
+  ],
+  "senses": [
+   {
+    "sense": "guru",
+    "occurrences": "all",
+    "academic": "guru",
+    "children": "master",
+    "basis": "both",
+    "reason": "Both attest guru, an English word; children's master is new (teacher kept for ston pa).",
+    "draft": {
+     "academic": "guru"
+    },
+    "review": [
+     "academic: minor — Policy 7 lists specific Sanskrit words to keep; 'guru' is not listed and should be translated.",
+     "academic: editor override — user 2026-10-07: revert reviewer's 'master'"
+    ],
+    "override": {
+     "academic": true
+    }
+   }
+  ]
+ },
+ {
+  "term_id": "T210",
+  "bo": "དཔེ་བྱད",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "Minor Signs": 1
+  },
+  "gm": {
+   "Minor": 1
+  },
+  "occurrences": [
+   "8-0"
+  ],
+  "senses": [
+   {
+    "sense": "minor mark",
+    "occurrences": "all",
+    "academic": "minor mark",
+    "children": "small mark",
+    "basis": "style-sheet",
+    "reason": "Policy 14: \"minor mark\" pairs with \"mark\" (མཚན)."
+   }
+  ]
+ },
+ {
+  "term_id": "T211",
+  "bo": "ཡེ་ཤེས",
+  "sanskrit": "jñāna",
+  "count": 1,
+  "dm": {
+   "wisdom": 1
+  },
+  "gm": {
+   "wisdom": 1
+  },
+  "occurrences": [
+   "8-10"
+  ],
+  "senses": [
+   {
+    "sense": "pristine wisdom",
+    "occurrences": "all",
+    "academic": "pristine wisdom",
+    "children": "deep knowing",
+    "basis": "style-sheet",
+    "reason": "Policy 20: ཡེ་ཤེས is \"pristine wisdom\" so ཤེས་རབ stays \"wisdom\"; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T212",
+  "bo": "འདུ་ཤེས་མ་མཆིས་པ",
+  "sanskrit": "abhūtasaṃjñā",
+  "count": 1,
+  "dm": {
+   "non-perception": 1
+  },
+  "gm": {
+   "no perception": 1
+  },
+  "occurrences": [
+   "8-12"
+  ],
+  "senses": [
+   {
+    "sense": "absence of perception",
+    "occurrences": "all",
+    "academic": "non-perception",
+    "children": "absence of ideas",
+    "basis": "both",
+    "reason": "DharmaMitra's non-perception; same lemma pattern as T116; Gemini's no perception not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T213",
+  "bo": "སླད་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+  "sanskrit": "paścimāyāṃ pañcaśatyām",
+  "count": 1,
+  "dm": {
+   "last five hundred years": 1
+  },
+  "gm": {
+   "final five hundred years": 1
+  },
+  "occurrences": [
+   "8-15"
+  ],
+  "senses": [
+   {
+    "sense": "last five hundred years of the Dharma's decline",
+    "occurrences": "all",
+    "academic": "last five hundred years",
+    "children": "last five hundred years",
+    "basis": "dm",
+    "reason": "DharmaMitra attests \"last\"; matches T231 (variant spelling, policy 21)."
+   }
+  ]
+ },
+ {
+  "term_id": "T214",
+  "bo": "བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+  "sanskrit": "kṣāntipāramitā",
+  "count": 1,
+  "dm": {
+   "perfection of patience": 1
+  },
+  "gm": {
+   "perfection of patience": 1
+  },
+  "occurrences": [
+   "8-26"
+  ],
+  "senses": [
+   {
+    "sense": "perfection of patience",
+    "occurrences": "all",
+    "academic": "perfection of patience",
+    "children": "perfect patience",
+    "basis": "style-sheet",
+    "reason": "Policy 18; both attest it; children's per policy 18."
+   }
+  ]
+ },
+ {
+  "term_id": "T215",
+  "bo": "ཀ་ལིང་ཀའི་རྒྱལ་པོ",
+  "sanskrit": "kalirāja",
+  "count": 1,
+  "dm": {
+   "King of Kaliṅga": 1
+  },
+  "gm": {
+   "king of Kaliṅga": 1
+  },
+  "occurrences": [
+   "8-27"
+  ],
+  "senses": [
+   {
+    "sense": "king of Kaliṅga",
+    "occurrences": "all",
+    "academic": "king of Kaliṅga",
+    "children": "king of Kalinga",
+    "basis": "style-sheet",
+    "reason": "Policy 11: Kaliṅga; lower-case king as a title in head form (Gemini)."
+   }
+  ]
+ },
+ {
+  "term_id": "T216",
+  "bo": "ཀ་ལིང་ཀ",
+  "sanskrit": "kali",
+  "count": 1,
+  "dm": {
+   "Kaliṅga": 1
+  },
+  "gm": {
+   "Kaliṅga": 1
+  },
+  "occurrences": [
+   "8-27"
+  ],
+  "senses": [
+   {
+    "sense": "place name (king of Kaliṅga)",
+    "occurrences": "all",
+    "academic": "Kaliṅga",
+    "children": "Kalinga",
+    "basis": "both",
+    "reason": "Both attest Kaliṅga (1 each); the Sanskrit shown reads kali(rāja); policy 11."
+   }
+  ]
+ },
+ {
+  "term_id": "T217",
+  "bo": "བཟོད་པ་སྨྲ་བ",
+  "sanskrit": "kṣāntivādin",
+  "count": 1,
+  "dm": {
+   "Speaker of Patience": 1
+  },
+  "gm": {
+   "Kṣāntivādin": 1
+  },
+  "occurrences": [
+   "8-31"
+  ],
+  "senses": [
+   {
+    "sense": "name of the sage in a former life",
+    "occurrences": "all",
+    "academic": "Kṣāntivādin",
+    "children": "Speaker of Patience",
+    "basis": "gm",
+    "reason": "Gemini keeps the Sanskrit name (policy 9); children's translates it with \"patience\" from DharmaMitra."
+   }
+  ]
+ },
+ {
+  "term_id": "T218",
+  "bo": "དྲང་སྲོང",
+  "sanskrit": "ṛṣi",
+  "count": 1,
+  "dm": {
+   "sage": 1
+  },
+  "gm": {
+   "sage": 1
+  },
+  "occurrences": [
+   "8-31"
+  ],
+  "senses": [
+   {
+    "sense": "sage",
+    "occurrences": "all",
+    "academic": "sage",
+    "children": "sage",
+    "basis": "both",
+    "reason": "Both give sage."
+   }
+  ]
+ },
+ {
+  "term_id": "T219",
+  "bo": "གནས་པ",
+  "sanskrit": "pratiṣṭhita",
+  "count": 1,
+  "dm": {
+   "abides": 1
+  },
+  "gm": {
+   "abiding": 1
+  },
+  "occurrences": [
+   "8-40"
+  ],
+  "senses": [
+   {
+    "sense": "abiding",
+    "occurrences": "all",
+    "academic": "abiding",
+    "children": "staying",
+    "basis": "style-sheet",
+    "reason": "Base of མི་གནས་པ \"without abiding\" (style sheet); both attest it."
+   }
+  ]
+ },
+ {
+  "term_id": "T220",
+  "bo": "བདེན་པ",
+  "sanskrit": "satya",
+  "count": 1,
+  "dm": {
+   "truth": 1
+  },
+  "gm": {
+   "truth": 1
+  },
+  "occurrences": [
+   "8-47"
+  ],
+  "senses": [
+   {
+    "sense": "truth",
+    "occurrences": "all",
+    "academic": "truth",
+    "children": "truth",
+    "basis": "both",
+    "reason": "Both attest truth."
+   }
+  ]
+ },
+ {
+  "term_id": "T221",
+  "bo": "རྫུན་པ",
+  "sanskrit": "mṛṣā",
+  "count": 1,
+  "dm": {
+   "falsehood": 1
+  },
+  "gm": {
+   "falsehood": 1
+  },
+  "occurrences": [
+   "8-47"
+  ],
+  "senses": [
+   {
+    "sense": "falsehood",
+    "occurrences": "all",
+    "academic": "falsehood",
+    "children": "lie",
+    "basis": "both",
+    "reason": "Both agree on falsehood; children's lie is plainer."
+   }
+  ]
+ },
+ {
+  "term_id": "T222",
+  "bo": "དངོས༌པོ",
+  "sanskrit": "vastu",
+  "count": 1,
+  "dm": {
+   "entities": 1
+  },
+  "gm": {
+   "objects": 1
+  },
+  "occurrences": [
+   "8-49"
+  ],
+  "senses": [
+   {
+    "sense": "entity",
+    "occurrences": "all",
+    "academic": "entity",
+    "children": "object",
+    "basis": "dm",
+    "reason": "DharmaMitra's \"entities\"; Gemini's \"objects\" is kept free for other lemmas; children's \"object\" is plain."
+   }
+  ]
+ },
+ {
+  "term_id": "T223",
+  "bo": "ཐེག་པ་མཆོག",
+  "sanskrit": "śreṣṭhayāna",
+  "count": 1,
+  "dm": {
+   "supreme vehicle": 1
+  },
+  "gm": {
+   "supreme vehicle": 1
+  },
+  "occurrences": [
+   "8-56"
+  ],
+  "senses": [
+   {
+    "sense": "supreme vehicle",
+    "occurrences": "all",
+    "academic": "supreme vehicle",
+    "children": "best vehicle",
+    "basis": "both",
+    "reason": "Both attest \"supreme vehicle\"; vehicle is the core term; children's plainer \"best\"."
+   }
+  ]
+ },
+ {
+  "term_id": "T224",
+  "bo": "ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ",
+  "sanskrit": "agrayāna",
+  "count": 1,
+  "dm": {
+   "unsurpassed vehicle": 1
+  },
+  "gm": {
+   "foremost vehicle": 1
+  },
+  "occurrences": [
+   "8-56"
+  ],
+  "senses": [
+   {
+    "sense": "foremost vehicle",
+    "occurrences": "all",
+    "academic": "foremost vehicle",
+    "children": "best vehicle",
+    "basis": "gm",
+    "reason": "Gemini's foremost; unsurpassed is reserved for བླ་ན་མེད་པ (policy 20); children's built on vehicle."
+   }
+  ]
+ },
+ {
+  "term_id": "T225",
+  "bo": "དམན་པ་ལ་མོས་པ",
+  "sanskrit": "hīnādhimuktika",
+  "count": 1,
+  "dm": {
+   "intent upon the inferior": 1
+  },
+  "gm": {
+   "inclined toward the inferior": 1
+  },
+  "occurrences": [
+   "8-61"
+  ],
+  "senses": [
+   {
+    "sense": "inclined toward the inferior",
+    "occurrences": "all",
+    "academic": "inclined toward the inferior",
+    "children": "drawn to the lesser",
+    "basis": "gm",
+    "reason": "Gemini's \"inclined toward\" fits མོས་པ \"inclination\"; children's plain, new."
+   }
+  ]
+ },
+ {
+  "term_id": "T226",
+  "bo": "ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན",
+  "sanskrit": "sadevamānuṣāsura loka",
+  "count": 1,
+  "dm": {
+   "world, including its gods, humans, and asuras": 1
+  },
+  "gm": {
+   "world with its gods, humans, and asuras": 1
+  },
+  "occurrences": [
+   "8-65"
+  ],
+  "senses": [
+   {
+    "sense": "the world with its gods, humans and asuras",
+    "occurrences": "all",
+    "academic": "world with its gods, humans, and demigods",
+    "children": "world with its gods, people, and jealous gods",
+    "basis": "gm",
+    "reason": "GM's 'with' matches བཅས་པ; asura kept as normal English; children's no Sanskrit (new).",
+    "draft": {
+     "academic": "world with its gods, humans, and asuras",
+     "children": "world with its gods, people, and demigods"
+    },
+    "review": [
+     "academic: major — Consistency with T097 ('demigod') and Policy 7.",
+     "children: major — Consistency with T097 ('jealous god')."
+    ]
+   }
+  ]
+ },
+ {
+  "term_id": "T227",
+  "bo": "རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ",
+  "sanskrit": "kulaputra vā kuladuhitā vā",
+  "count": 1,
+  "dm": {
+   "sons or daughters of noble family": 1
+  },
+  "gm": {
+   "sons of noble family or daughters of noble family": 1
+  },
+  "occurrences": [
+   "8-68"
+  ],
+  "senses": [
+   {
+    "sense": "son or daughter of noble family",
+    "occurrences": "all",
+    "academic": "son or daughter of noble family",
+    "children": "son or daughter of a good family",
+    "basis": "style-sheet",
+    "reason": "Built from the two core terms; both attest noble family."
+   }
+  ]
+ },
+ {
+  "term_id": "T228",
+  "bo": "མི་དགེ་བའི་ལས",
+  "sanskrit": "aśubhaṃ karma",
+  "count": 1,
+  "dm": {
+   "non-virtuous actions": 1
+  },
+  "gm": {
+   "nonvirtuous actions": 1
+  },
+  "occurrences": [
+   "8-70"
+  ],
+  "senses": [
+   {
+    "sense": "non-virtuous action",
+    "occurrences": "all",
+    "academic": "non-virtuous action",
+    "children": "bad action",
+    "basis": "both",
+    "reason": "Both attest \"non-virtuous actions\" (hyphen per policy 22); children's \"bad action\" is new."
+   }
+  ]
+ },
+ {
+  "term_id": "T229",
+  "bo": "ངན་སོང",
+  "sanskrit": "apāya",
+  "count": 1,
+  "dm": {
+   "lower realms": 1
+  },
+  "gm": {
+   "lower realms": 1
+  },
+  "occurrences": [
+   "8-70"
+  ],
+  "senses": [
+   {
+    "sense": "lower realms of rebirth",
+    "occurrences": "all",
+    "academic": "lower realm",
+    "children": "unhappy rebirth",
+    "basis": "both",
+    "reason": "Both attest \"lower realms\"; singular head form; children's new, plain words for the sense of bad rebirth."
+   }
+  ]
+ },
+ {
+  "term_id": "T230",
+  "bo": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ",
+  "sanskrit": "buddhabodhi",
+  "count": 1,
+  "dm": {
+   "enlightenment of a Buddha": 1
+  },
+  "gm": {
+   "awakening of a buddha": 1
+  },
+  "occurrences": [
+   "8-71"
+  ],
+  "senses": [
+   {
+    "sense": "awakening of a Buddha",
+    "occurrences": "all",
+    "academic": "awakening of a Buddha",
+    "children": "awakening of a Buddha",
+    "basis": "style-sheet",
+    "reason": "Built from སངས་རྒྱས Buddha and བྱང་ཆུབ awakening (policies 1, 14); Gemini's awakening."
+   }
+  ]
+ },
+ {
+  "term_id": "T231",
+  "bo": "ཕྱི་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+  "sanskrit": "paścimāyāṃ pañcaśatyām",
+  "count": 1,
+  "dm": {
+   "last five hundred years": 1
+  },
+  "gm": {
+   "last five hundred years": 1
+  },
+  "occurrences": [
+   "8-74"
+  ],
+  "senses": [
+   {
+    "sense": "last five hundred years of the Dharma's decline",
+    "occurrences": "all",
+    "academic": "last five hundred years",
+    "children": "last five hundred years",
+    "basis": "both",
+    "reason": "Both say \"last\" (1 each); same rendering as T213."
+   }
+  ]
+ },
+ {
+  "term_id": "T232",
+  "bo": "ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པ",
+  "sanskrit": "anupadhiśeṣa nirvāṇadhātu",
+  "count": 1,
+  "dm": {
+   "nirvāṇa without remainder": 1
+  },
+  "gm": {
+   "nirvāṇa without remainder of the aggregates": 1
+  },
+  "occurrences": [
+   "8-84"
+  ],
+  "senses": [
+   {
+    "sense": "nirvāṇa without remainder of the aggregates",
+    "occurrences": "all",
+    "academic": "nirvāṇa without remainder of the aggregates",
+    "children": "freedom from sorrow with no group left over",
+    "basis": "gm",
+    "reason": "GM's form builds on T172 and nirvāṇa (policy 14); children's built from parts."
+   }
+  ]
+ },
+ {
+  "term_id": "T233",
+  "bo": "དབྱིངས",
+  "sanskrit": "dhātu",
+  "count": 1,
+  "dm": {
+   "realm": 1
+  },
+  "gm": {
+   "realm": 1
+  },
+  "occurrences": [
+   "8-84"
+  ],
+  "senses": [
+   {
+    "sense": "expanse",
+    "occurrences": "all",
+    "academic": "expanse",
+    "children": "expanse",
+    "basis": "new",
+    "reason": "Policy 20: realm already used for ཁམས; expanse is the usual equivalent of དབྱིངས."
+   }
+  ]
+ },
+ {
+  "term_id": "T234",
+  "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ",
+  "sanskrit": "parinirvāṇa",
+  "count": 1,
+  "dm": {
+   "final nirvāṇa": 1
+  },
+  "gm": {
+   "complete nirvāṇa": 1
+  },
+  "occurrences": [
+   "8-85"
+  ],
+  "senses": [
+   {
+    "sense": "complete nirvāṇa",
+    "occurrences": "all",
+    "academic": "complete nirvāṇa",
+    "children": "complete freedom from sorrow",
+    "basis": "gm",
+    "reason": "Gemini's \"complete nirvāṇa\" (1); same rendering as T174; DharmaMitra's \"final\" dropped."
+   }
+  ]
+ },
+ {
+  "term_id": "T235",
+  "bo": "ཚེ་དང༌ལྡན་པ་རབ་འབྱོར",
+  "sanskrit": "āyuṣmān Subhūti",
+  "count": 1,
+  "dm": {
+   "venerable Subhūti": 1
+  },
+  "gm": {
+   "venerable Subhūti": 1
+  },
+  "occurrences": [
+   "8-91"
+  ],
+  "senses": [
+   {
+    "sense": "venerable Subhūti",
+    "occurrences": "all",
+    "academic": "venerable Subhūti",
+    "children": "honored Subhuti",
+    "basis": "style-sheet",
+    "reason": "Core terms: venerable (policy 10 lower case) plus Subhūti; spelling variant of ཚེ་དང་ལྡན་པ (policy 21)."
+   }
+  ]
+ },
+ {
+  "term_id": "T236",
+  "bo": "ཚེ་དང༌ལྡན་པ",
+  "sanskrit": "āyuṣmat",
+  "count": 1,
+  "dm": {
+   "venerable": 1
+  },
+  "gm": {
+   "venerable": 1
+  },
+  "occurrences": [
+   "8-91"
+  ],
+  "senses": [
+   {
+    "sense": "venerable (variant spelling)",
+    "occurrences": "all",
+    "academic": "venerable",
+    "children": "honored",
+    "basis": "style-sheet",
+    "reason": "Spelling variant of ཚེ་དང་ལྡན་པ; policy 21; both give venerable."
+   }
+  ]
+ },
+ {
+  "term_id": "T237",
+  "bo": "ལུང་བསྟན",
+  "sanskrit": "vyākṛta",
+  "count": 1,
+  "dm": {
+   "prophesied": 1
+  },
+  "gm": {
+   "prophesied": 1
+  },
+  "occurrences": [
+   "8-98"
+  ],
+  "senses": [
+   {
+    "sense": "prophesy",
+    "occurrences": "all",
+    "academic": "prophesy",
+    "children": "foretell",
+    "basis": "both",
+    "reason": "Both attest \"prophesied\"; head form is the verb stem; children's plain."
+   }
+  ]
+ },
+ {
+  "term_id": "T238",
+  "bo": "ཡང་དག་པའི་དེ་བཞིན་ཉིད",
+  "sanskrit": "bhūtatathatā",
+  "count": 1,
+  "dm": {
+   "true suchness": 1
+  },
+  "gm": {
+   "true suchness": 1
+  },
+  "occurrences": [
+   "8-99"
+  ],
+  "senses": [
+   {
+    "sense": "true suchness",
+    "occurrences": "all",
+    "academic": "true suchness",
+    "children": "the true way things are",
+    "basis": "both",
+    "reason": "Both attest true suchness; children's builds on T130."
+   }
+  ]
+ },
+ {
+  "term_id": "T239",
+  "bo": "ཚིག་བླ་དྭགས",
+  "sanskrit": "adhivacana",
+  "count": 1,
+  "dm": {
+   "designation": 1
+  },
+  "gm": {
+   "designation": 1
+  },
+  "occurrences": [
+   "8-99"
+  ],
+  "senses": [
+   {
+    "sense": "designation",
+    "occurrences": "all",
+    "academic": "designation",
+    "children": "name",
+    "basis": "both",
+    "reason": "Both attest designation; children's name is plainer."
+   }
+  ]
+ },
+ {
+  "term_id": "T240",
+  "bo": "སྤྱན་ལྔ",
+  "sanskrit": "pañcacakṣus",
+  "count": 1,
+  "dm": {
+   "Five Extraordinary Eyes": 1
+  },
+  "gm": {
+   "Five Extraordinary Eyes": 1
+  },
+  "occurrences": [
+   "9-0"
+  ],
+  "senses": [
+   {
+    "sense": "five eyes",
+    "occurrences": "all",
+    "academic": "five eyes",
+    "children": "five eyes",
+    "basis": "style-sheet",
+    "reason": "Built on the core term སྤྱན \"eye\"; \"Extraordinary\" in both is added, not in the Tibetan."
+   }
+  ]
+ },
+ {
+  "term_id": "T241",
+  "bo": "སེམས་སེམས་བྱུང",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "Mind and Mental Factors": 1
+  },
+  "gm": {
+   "Mind and Mental Factors": 1
+  },
+  "occurrences": [
+   "10-0"
+  ],
+  "senses": [
+   {
+    "sense": "chapter heading",
+    "occurrences": "all",
+    "academic": "mind and mental factors",
+    "children": "mind and mental events",
+    "basis": "both",
+    "reason": "Both give \"Mind and Mental Factors\" (a heading); mind per core term; head form lower case (policy 22); children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T242",
+  "bo": "ཆོས་བསྟན་པ",
+  "sanskrit": "dharmadeśanā",
+  "count": 1,
+  "dm": {
+   "teaching the Dharma": 1
+  },
+  "gm": {
+   "teaching the Dharma": 1
+  },
+  "occurrences": [
+   "10-27"
+  ],
+  "senses": [
+   {
+    "sense": "teaching the Dharma",
+    "occurrences": "all",
+    "academic": "teaching the Dharma",
+    "children": "explaining the teaching",
+    "basis": "both",
+    "reason": "Both give teaching the Dharma; teaching sense of ཆོས; children's avoids repeating teaching."
+   }
+  ]
+ },
+ {
+  "term_id": "T243",
+  "bo": "མངོན་པར་ཡིད་ཆེས",
+  "sanskrit": "abhiśraddhā",
+  "count": 1,
+  "dm": {
+   "true faith": 1
+  },
+  "gm": {
+   "truly believe": 1
+  },
+  "occurrences": [
+   "10-29"
+  ],
+  "senses": [
+   {
+    "sense": "truly believe",
+    "occurrences": "all",
+    "academic": "truly believe",
+    "children": "truly believe",
+    "basis": "gm",
+    "reason": "Gemini's \"truly believe\" is plain; DharmaMitra's \"true faith\" is the noun form."
+   }
+  ]
+ },
+ {
+  "term_id": "T244",
+  "bo": "རིའི་རྒྱལ་པོ",
+  "sanskrit": "parvatarāja",
+  "count": 1,
+  "dm": {
+   "kings of mountains": 1
+  },
+  "gm": {
+   "kings of mountains": 1
+  },
+  "occurrences": [
+   "10-45"
+  ],
+  "senses": [
+   {
+    "sense": "king of mountains",
+    "occurrences": "all",
+    "academic": "king of mountains",
+    "children": "king of mountains",
+    "basis": "both",
+    "reason": "Both attest 'kings of mountains'; head form singular (policy 22)."
+   }
+  ]
+ },
+ {
+  "term_id": "T245",
+  "bo": "བདག་ཏུ་འཛིན",
+  "sanskrit": "ātmagrāha",
+  "count": 1,
+  "dm": {
+   "grasping at a self": 1
+  },
+  "gm": {
+   "apprehension of a self": 1
+  },
+  "occurrences": [
+   "10-51"
+  ],
+  "senses": [
+   {
+    "sense": "grasping at a self",
+    "occurrences": "all",
+    "academic": "grasping at a self",
+    "children": "clinging to a self",
+    "basis": "style-sheet",
+    "reason": "Same as བདག་ཏུ་འཛིན་པ (policy 15); Gemini's apprehension dropped (policy 17)."
+   }
+  ]
+ },
+ {
+  "term_id": "T246",
+  "bo": "འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ",
+  "sanskrit": "cakravartin",
+  "count": 1,
+  "dm": {
+   "wheel-turning monarch": 1
+  },
+  "gm": {
+   "wheel-turning king": 1
+  },
+  "occurrences": [
+   "10-60"
+  ],
+  "senses": [
+   {
+    "sense": "wheel-turning monarch",
+    "occurrences": "all",
+    "academic": "wheel-turning monarch",
+    "children": "wheel-turning king",
+    "basis": "dm",
+    "reason": "Policy 22 gives \"wheel-turning monarch\" (DharmaMitra); Gemini's \"king\" suits children's."
+   }
+  ]
+ },
+ {
+  "term_id": "T247",
+  "bo": "ཆོས་སྐུ",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "Dharmakāya": 1
+  },
+  "gm": {
+   "Dharmakāya": 1
+  },
+  "occurrences": [
+   "11-0"
+  ],
+  "senses": [
+   {
+    "sense": "body of the Dharma",
+    "occurrences": "all",
+    "academic": "Dharmakāya",
+    "children": "teaching body",
+    "basis": "both",
+    "reason": "Both keep Dharmakāya (policy 7); children's built from ཆོས \"teaching\" and body (new)."
+   }
+  ]
+ },
+ {
+  "term_id": "T248",
+  "bo": "ལོག་པའི་ལམ",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "mistaken path": 1
+  },
+  "gm": {
+   "wrong path": 1
+  },
+  "occurrences": [
+   "11-1"
+  ],
+  "senses": [
+   {
+    "sense": "wrong path",
+    "occurrences": "all",
+    "academic": "wrong path",
+    "children": "wrong path",
+    "basis": "gm",
+    "reason": "Gemini's wrong; mistaken is kept free for other terms; Sanskrit verse does not show a clear equivalent."
+   }
+  ]
+ },
+ {
+  "term_id": "T249",
+  "bo": "འདྲེན་པ",
+  "sanskrit": "nāyaka",
+  "count": 1,
+  "dm": {
+   "guides": 1
+  },
+  "gm": {
+   "guides": 1
+  },
+  "occurrences": [
+   "11-4"
+  ],
+  "senses": [
+   {
+    "sense": "guide",
+    "occurrences": "all",
+    "academic": "guide",
+    "children": "guide",
+    "basis": "both",
+    "reason": "Both attest \"guides\" (1 each); head form singular."
+   }
+  ]
+ },
+ {
+  "term_id": "T250",
+  "bo": "ཆོས་ཀྱི་སྐུ",
+  "sanskrit": "dharmakāya",
+  "count": 1,
+  "dm": {
+   "Dharmakāya": 1
+  },
+  "gm": {
+   "body of Dharma": 1
+  },
+  "occurrences": [
+   "11-4"
+  ],
+  "senses": [
+   {
+    "sense": "Dharmakāya",
+    "occurrences": "all",
+    "academic": "Dharmakāya",
+    "children": "body of the teaching",
+    "basis": "dm",
+    "reason": "Policy 7 keeps Dharmakāya (DM); children's no Sanskrit, builds on teaching."
+   }
+  ]
+ },
+ {
+  "term_id": "T251",
+  "bo": "བདག་མེད",
+  "sanskrit": "nirātmaka",
+  "count": 1,
+  "dm": {
+   "without self": 1
+  },
+  "gm": {
+   "selfless": 1
+  },
+  "occurrences": [
+   "11-10"
+  ],
+  "senses": [
+   {
+    "sense": "without self",
+    "occurrences": "all",
+    "academic": "without self",
+    "children": "without a self",
+    "basis": "dm",
+    "reason": "Builds on self; DharmaMitra's without self; Gemini's selfless is a single word."
+   }
+  ]
+ },
+ {
+  "term_id": "T252",
+  "bo": "སྐྱེ་བ་མེད་པ",
+  "sanskrit": "anutpattika",
+  "count": 1,
+  "dm": {
+   "unborn": 1
+  },
+  "gm": {
+   "unproduced": 1
+  },
+  "occurrences": [
+   "11-10"
+  ],
+  "senses": [
+   {
+    "sense": "unborn",
+    "occurrences": "all",
+    "academic": "unborn",
+    "children": "not born",
+    "basis": "dm",
+    "reason": "DharmaMitra's \"unborn\"; Gemini's \"unproduced\" is dropped; children's is plain new."
+   }
+  ]
+ },
+ {
+  "term_id": "T253",
+  "bo": "གྲངས་མེད",
+  "sanskrit": "asaṃkhyeya",
+  "count": 1,
+  "dm": {
+   "incalculable": 1
+  },
+  "gm": {
+   "incalculable": 1
+  },
+  "occurrences": [
+   "11-10"
+  ],
+  "senses": [
+   {
+    "sense": "incalculable",
+    "occurrences": "all",
+    "academic": "incalculable",
+    "children": "countless",
+    "basis": "both",
+    "reason": "Both attest \"incalculable\"; children's \"countless\" is plainer."
+   }
+  ]
+ },
+ {
+  "term_id": "T254",
+  "bo": "དཔག་ཏུ་མེད་པ",
+  "sanskrit": "aprameya",
+  "count": 1,
+  "dm": {
+   "immeasurable": 1
+  },
+  "gm": {
+   "immeasurable": 1
+  },
+  "occurrences": [
+   "11-10"
+  ],
+  "senses": [
+   {
+    "sense": "immeasurable",
+    "occurrences": "all",
+    "academic": "immeasurable",
+    "children": "beyond measure",
+    "basis": "both",
+    "reason": "Both give immeasurable; children's is a plain phrase keeping the meaning."
+   }
+  ]
+ },
+ {
+  "term_id": "T255",
+  "bo": "ཡོངས་སུ་གཟུང་བ",
+  "sanskrit": "parigrahītavya",
+  "count": 1,
+  "dm": {
+   "taking hold": 1
+  },
+  "gm": {
+   "fully acquiring": 1
+  },
+  "occurrences": [
+   "11-14"
+  ],
+  "senses": [
+   {
+    "sense": "taking hold",
+    "occurrences": "all",
+    "academic": "taking hold",
+    "children": "taking hold",
+    "basis": "dm",
+    "reason": "DharmaMitra's \"taking hold\" keeps གཟུང་བ close to \"hold\"; Gemini's \"fully acquiring\" not used."
+   }
+  ]
+ },
+ {
+  "term_id": "T256",
+  "bo": "ཐ་སྙད",
+  "sanskrit": "vyavahāra",
+  "count": 1,
+  "dm": {
+   "conventional designation": 1
+  },
+  "gm": {
+   "convention": 1
+  },
+  "occurrences": [
+   "12-12"
+  ],
+  "senses": [
+   {
+    "sense": "conventional designation",
+    "occurrences": "all",
+    "academic": "conventional designation",
+    "children": "everyday name",
+    "basis": "dm",
+    "reason": "DM's form is more exact than 'convention'; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T257",
+  "bo": "བརྗོད་དུ་མེད་པ",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "inexpressible": 1
+  },
+  "gm": {
+   "inexpressible": 1
+  },
+  "occurrences": [
+   "12-13"
+  ],
+  "senses": [
+   {
+    "sense": "inexpressible",
+    "occurrences": "all",
+    "academic": "inexpressible",
+    "children": "cannot be put into words",
+    "basis": "both",
+    "reason": "Both agree inexpressible; children's plain phrase is new."
+   }
+  ]
+ },
+ {
+  "term_id": "T258",
+  "bo": "སྐར་མ",
+  "sanskrit": "tārakā",
+  "count": 1,
+  "dm": {
+   "star": 1
+  },
+  "gm": {
+   "star": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "star",
+    "occurrences": "all",
+    "academic": "star",
+    "children": "star",
+    "basis": "both",
+    "reason": "Both attest \"star\" (1 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T259",
+  "bo": "རབ་རིབ",
+  "sanskrit": "timira",
+  "count": 1,
+  "dm": {
+   "visual fault": 1
+  },
+  "gm": {
+   "visual aberration": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "visual aberration (eye disorder)",
+    "occurrences": "all",
+    "academic": "visual aberration",
+    "children": "blurred sight",
+    "basis": "gm",
+    "reason": "Gemini \"visual aberration\" is the established equivalent; DharmaMitra \"visual fault\" not used; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T260",
+  "bo": "མར་མེ",
+  "sanskrit": "dīpa",
+  "count": 1,
+  "dm": {
+   "lamp": 1
+  },
+  "gm": {
+   "lamp": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "lamp",
+    "occurrences": "all",
+    "academic": "lamp",
+    "children": "lamp",
+    "basis": "both",
+    "reason": "Both give lamp."
+   }
+  ]
+ },
+ {
+  "term_id": "T261",
+  "bo": "སྒྱུ་མ",
+  "sanskrit": "māyā",
+  "count": 1,
+  "dm": {
+   "magical illusion": 1
+  },
+  "gm": {
+   "illusion": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "illusion",
+    "occurrences": "all",
+    "academic": "illusion",
+    "children": "illusion",
+    "basis": "gm",
+    "reason": "Gemini's plain \"illusion\" over DharmaMitra's \"magical illusion\"; same word works for children."
+   }
+  ]
+ },
+ {
+  "term_id": "T262",
+  "bo": "ཟིལ་བ",
+  "sanskrit": "avaśyāya",
+  "count": 1,
+  "dm": {
+   "dewdrop": 1
+  },
+  "gm": {
+   "dewdrop": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "dewdrop",
+    "occurrences": "all",
+    "academic": "dewdrop",
+    "children": "dewdrop",
+    "basis": "both",
+    "reason": "Both attest dewdrop."
+   }
+  ]
+ },
+ {
+  "term_id": "T263",
+  "bo": "ཆུ་བུར",
+  "sanskrit": "budbuda",
+  "count": 1,
+  "dm": {
+   "bubble": 1
+  },
+  "gm": {
+   "bubble": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "bubble",
+    "occurrences": "all",
+    "academic": "bubble",
+    "children": "bubble",
+    "basis": "both",
+    "reason": "Both agree; plain word."
+   }
+  ]
+ },
+ {
+  "term_id": "T264",
+  "bo": "རྨི་ལམ",
+  "sanskrit": "svapna",
+  "count": 1,
+  "dm": {
+   "dream": 1
+  },
+  "gm": {
+   "dream": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "dream",
+    "occurrences": "all",
+    "academic": "dream",
+    "children": "dream",
+    "basis": "both",
+    "reason": "Both attest \"dream\" (1 each)."
+   }
+  ]
+ },
+ {
+  "term_id": "T265",
+  "bo": "གློག",
+  "sanskrit": "vidyut",
+  "count": 1,
+  "dm": {
+   "flash of lightning": 1
+  },
+  "gm": {
+   "lightning": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "lightning",
+    "occurrences": "all",
+    "academic": "lightning",
+    "children": "lightning",
+    "basis": "gm",
+    "reason": "Gemini \"lightning\" is the head noun; DharmaMitra's \"flash of\" is a modifier; plain for children."
+   }
+  ]
+ },
+ {
+  "term_id": "T266",
+  "bo": "སྤྲིན",
+  "sanskrit": "abhra",
+  "count": 1,
+  "dm": {
+   "cloud": 1
+  },
+  "gm": {
+   "cloud": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "cloud",
+    "occurrences": "all",
+    "academic": "cloud",
+    "children": "cloud",
+    "basis": "both",
+    "reason": "Both give cloud."
+   }
+  ]
+ },
+ {
+  "term_id": "T267",
+  "bo": "འདུས་བྱས་ཐམས་ཅད",
+  "sanskrit": "saṃskṛta",
+  "count": 1,
+  "dm": {
+   "all conditioned phenomena": 1
+  },
+  "gm": {
+   "all conditioned things": 1
+  },
+  "occurrences": [
+   "12-27"
+  ],
+  "senses": [
+   {
+    "sense": "all conditioned things",
+    "occurrences": "all",
+    "academic": "all conditioned phenomena",
+    "children": "everything that is put together",
+    "basis": "gm",
+    "reason": "Gemini's \"things\" keeps \"phenomenon\" for ཆོས (policy 3); children's \"thing\" is taken, so a new phrase.",
+    "draft": {
+     "academic": "all conditioned things"
+    },
+    "review": [
+     "academic: major — Academic register avoids 'thing' (which is the children's equivalent); use 'phenomena'."
+    ]
+   }
+  ]
+ },
+ {
+  "term_id": "T268",
+  "bo": "གནས་བརྟན་རབ་འབྱོར",
+  "sanskrit": "sthavira subhūti",
+  "count": 1,
+  "dm": {
+   "elder Subhūti": 1
+  },
+  "gm": {
+   "elder Subhūti": 1
+  },
+  "occurrences": [
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "elder Subhūti",
+    "occurrences": "all",
+    "academic": "elder Subhūti",
+    "children": "elder Subhuti",
+    "basis": "both",
+    "reason": "Both attest 'elder Subhūti'; honorific lower case (policy 10); name per core term."
+   }
+  ]
+ },
+ {
+  "term_id": "T269",
+  "bo": "འཁོར་བཞི་པོ",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "fourfold assembly": 1
+  },
+  "gm": {
+   "fourfold assembly": 1
+  },
+  "occurrences": [
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "fourfold assembly",
+    "occurrences": "all",
+    "academic": "fourfold assembly",
+    "children": "four groups of followers",
+    "basis": "both",
+    "reason": "Both agree fourfold assembly; children's plain phrase is new."
+   }
+  ]
+ },
+ {
+  "term_id": "T270",
+  "bo": "དགེ་སློང་མ",
+  "sanskrit": "bhikṣuṇī",
+  "count": 1,
+  "dm": {
+   "nuns": 1
+  },
+  "gm": {
+   "nuns": 1
+  },
+  "occurrences": [
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "nun",
+    "occurrences": "all",
+    "academic": "nun",
+    "children": "nun",
+    "basis": "both",
+    "reason": "Both attest \"nuns\" (1 each); singular head form."
+   }
+  ]
+ },
+ {
+  "term_id": "T271",
+  "bo": "དགེ་བསྙེན",
+  "sanskrit": "upāsaka",
+  "count": 1,
+  "dm": {
+   "laymen": 1
+  },
+  "gm": {
+   "laymen": 1
+  },
+  "occurrences": [
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "male lay follower",
+    "occurrences": "all",
+    "academic": "layman",
+    "children": "lay follower",
+    "basis": "both",
+    "reason": "Both attest \"laymen\"; singular head form (policy 22); children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T272",
+  "bo": "དགེ་བསྙེན་མ",
+  "sanskrit": "upāsikā",
+  "count": 1,
+  "dm": {
+   "laywomen": 1
+  },
+  "gm": {
+   "laywomen": 1
+  },
+  "occurrences": [
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "laywoman",
+    "occurrences": "all",
+    "academic": "laywoman",
+    "children": "laywoman",
+    "basis": "both",
+    "reason": "Both give laywomen; head form singular per policies 22, 25."
+   }
+  ]
+ },
+ {
+  "term_id": "T273",
+  "bo": "དྲི་ཟ",
+  "sanskrit": "gandharva",
+  "count": 1,
+  "dm": {
+   "gandharvas": 1
+  },
+  "gm": {
+   "gandharvas": 1
+  },
+  "occurrences": [
+   "13-1"
+  ],
+  "senses": [
+   {
+    "sense": "gandharva",
+    "occurrences": "all",
+    "academic": "gandharva",
+    "children": "scent-eater",
+    "basis": "both",
+    "reason": "Both attest \"gandharva\", kept in English; children's new calque of དྲི་ཟ, no Sanskrit.",
+    "draft": {
+     "academic": "gandharva"
+    },
+    "review": [
+     "academic: major — Policy 7 requires translating Sanskrit words not on the exceptions list; gandharva must be translated.",
+     "academic: editor override — user 2026-10-07: academic English keeps gandharva"
+    ],
+    "override": {
+     "academic": true
+    }
+   }
+  ]
+ },
+ {
+  "term_id": "T274",
+  "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ",
+  "sanskrit": "vajracchedikā prajñāpāramitā",
+  "count": 1,
+  "dm": {
+   "The Perfection of Wisdom that Cuts Like a Diamond": 1
+  },
+  "gm": {
+   "Vajracchedikā Prajñāpāramitā": 1
+  },
+  "occurrences": [
+   "13-3"
+  ],
+  "senses": [
+   {
+    "sense": "title of the sūtra",
+    "occurrences": "all",
+    "academic": "The Perfection of Wisdom that Cuts Like a Diamond",
+    "children": "Perfect Wisdom that Cuts Like a Diamond",
+    "basis": "dm",
+    "reason": "Policy 24: Tibetan title translated; DM's form; children's builds on perfect wisdom."
+   }
+  ]
+ },
+ {
+  "term_id": "T275",
+  "bo": "ན་མོ་བྷ་ག་ཝ་ཏེ། པྲཛྙཱ་པ་ར་མི་ཏ་ཡེ། ཨོཾ་ན་ཏ་ད་ཏི་ཏ། ཨི་ལི་ཤི །ཨི་ལི་ཤི །མི་ལི་ཤི །མི་ལི་ཤི །བྷི་ན་ཡན་བྷི་ན་ཡན། ན་མོ་བྷ་ག་ཝ་ཏེ། པྲད་ཏྱཾ་པྲ་ཏེ། ཨི་རི་ཏི། ཨི་རི་ཏི། མི་ར་ཏི། མི་རི་ཏི། ཤུ་རི་ཏི། ཤུ་རི་ཏི། ཨུ་ཤུ་རི་ཨུ་ཤུ་རི། བྷུ་ཡུ་ཡེ་བྷུ་ཡུ་ཡེ་སྭཱཧཱ",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "Namo bhagavate prajñāpāramitāye. Oṃ natadatita iliśi iliśi miliśi miliśi bhinayan bhinayan. Namo bhagavate pratyampate iriti iriti miriti miriti śuriti śuriti uśuri uśuri bhuyuye bhuyuye svāhā": 1
+  },
+  "gm": {
+   "namo bhagavate prajñāpāramitāye oṃ natadatita iliśi iliśi miliśi miliśi bhinayan bhinayan namo bhagavate pratyaṃprate iriti iriti mirati miriti śuriti śuriti uśuri uśuri bhuyuye bhuyuye svāhā": 1
+  },
+  "occurrences": [
+   "13-4"
+  ],
+  "senses": [
+   {
+    "sense": "mantra",
+    "occurrences": "all",
+    "academic": "namo bhagavate prajñāpāramitāye oṃ natadatita iliśi iliśi miliśi miliśi bhinayan bhinayan namo bhagavate pratyaṃprate iriti iriti mirati miriti śuriti śuriti uśuri uśuri bhuyuye bhuyuye svāhā",
+    "children": "a sacred chant",
+    "basis": "gm",
+    "reason": "Policy 24: IAST not translated; Gemini's form follows the Tibetan syllables; children's per policy 8."
+   }
+  ]
+ },
+ {
+  "term_id": "T276",
+  "bo": "རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "essence of the Diamond Cutter": 1
+  },
+  "gm": {
+   "essence of the Vajracchedikā": 1
+  },
+  "occurrences": [
+   "13-5"
+  ],
+  "senses": [
+   {
+    "sense": "essence of the Diamond Cutter",
+    "occurrences": "all",
+    "academic": "essence of the Diamond Cutter",
+    "children": "heart of the Diamond Cutter",
+    "basis": "dm",
+    "reason": "Title translated (policy 24); DharmaMitra's form; Gemini's Vajracchedikā is not translated; children's new."
+   }
+  ]
+ },
+ {
+  "term_id": "T277",
+  "bo": "སྙིང་པོ",
+  "sanskrit": null,
+  "count": 1,
+  "dm": {
+   "essence": 1
+  },
+  "gm": {
+   "essence": 1
+  },
+  "occurrences": [
+   "13-5"
+  ],
+  "senses": [
+   {
+    "sense": "essence of the text",
+    "occurrences": "all",
+    "academic": "essence",
+    "children": "core",
+    "basis": "both",
+    "reason": "Both attest \"essence\"; children's \"core\" is plainer (new)."
+   }
+  ]
+ },
+ {
+  "term_id": "T278",
+  "bo": "ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ",
+  "sanskrit": "ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā",
+  "count": 1,
+  "dm": {
+   "Ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat | teṣāñca yo nirodha evaṃvādī mahāśramaṇaye svāhā": 1
+  },
+  "gm": {
+   "ye dharma hetuprabhava hetunteṣāntathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā": 1
+  },
+  "occurrences": [
+   "13-6"
+  ],
+  "senses": [
+   {
+    "sense": "mantra (ye dharmā verse)",
+    "occurrences": "all",
+    "academic": "ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā",
+    "children": "a sacred chant",
+    "basis": "new",
+    "reason": "Policies 8, 24: IAST untranslated in academic; mihā follows the Tibetan, dm normalises to mahā; children's chant."
+   }
+  ]
+ }
+]

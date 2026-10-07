@@ -1,0 +1,155 @@
+{
+ "terms": [
+  {
+   "term_id": "T004",
+   "sense": "quality (of a Buddha)",
+   "field": "sense_split",
+   "current": "quality",
+   "suggested": "Merge into phenomena or remove (leave only teaching and phenomena).",
+   "severity": "major",
+   "reason": "Policy 3 mandates exactly two sense entries for ཆོས. The compound 'qualities of a Buddha' is handled in T065.",
+   "applied": false
+  },
+  {
+   "term_id": "T030",
+   "sense": "perfection of wisdom (title)",
+   "field": "academic",
+   "current": "perfection of wisdom",
+   "suggested": "Perfection of Wisdom",
+   "severity": "minor",
+   "reason": "Policy 10 dictates capitalization when referring to the name of the text or class of texts.",
+   "applied": true
+  },
+  {
+   "term_id": "T060",
+   "sense": "collection of fine atoms",
+   "field": "academic",
+   "current": "collection of finest atoms",
+   "suggested": "collection of subtle particles",
+   "severity": "major",
+   "reason": "Policy 14 requires matching parts; T147 is 'subtle particle'.",
+   "applied": true
+  },
+  {
+   "term_id": "T071",
+   "sense": "array of Buddha-fields",
+   "field": "children",
+   "current": "beautiful arrangement",
+   "suggested": "arrangement",
+   "severity": "minor",
+   "reason": "Consistency with T049 where བཀོད་པ is rendered as 'arrangement' in children's.",
+   "applied": true
+  },
+  {
+   "term_id": "T076",
+   "sense": "form body",
+   "field": "children",
+   "current": "visible body",
+   "suggested": "form body",
+   "severity": "major",
+   "reason": "Policy 7 dictates 'form body' for གཟུགས་ཀྱི་སྐུ, matching T189 children's.",
+   "applied": true
+  },
+  {
+   "term_id": "T119",
+   "sense": "precious substance",
+   "field": "children",
+   "current": "treasure",
+   "suggested": "precious thing",
+   "severity": "minor",
+   "reason": "Consistency with T039 which uses 'precious things' for རིན་པོ་ཆེ.",
+   "applied": true
+  },
+  {
+   "term_id": "T134",
+   "sense": "view of a life-force",
+   "field": "academic",
+   "current": "view of a life",
+   "suggested": "view of a life-force",
+   "severity": "major",
+   "reason": "Policy 15 dictates 'life-force' must carry through every compound.",
+   "applied": true
+  },
+  {
+   "term_id": "T186",
+   "sense": "below",
+   "field": "academic",
+   "current": "below",
+   "suggested": "nadir",
+   "severity": "minor",
+   "reason": "Policy 25: choice must follow attested renderings; 'nadir' is attested by dm.",
+   "applied": true
+  },
+  {
+   "term_id": "T207",
+   "sense": "the world with its gods, humans and asuras",
+   "field": "academic",
+   "current": "world with its gods, humans, and asuras",
+   "suggested": "world with its gods, humans, and demigods",
+   "severity": "major",
+   "reason": "Policy 7 dictates translating non-list Sanskrit; T097 uses 'demigod'.",
+   "applied": true
+  },
+  {
+   "term_id": "T207",
+   "sense": "the world with its gods, humans and asuras",
+   "field": "children",
+   "current": "world with its gods, people, and demigods",
+   "suggested": "world with its gods, people, and jealous gods",
+   "severity": "major",
+   "reason": "Consistency with T097 where children's rendering for asura is 'jealous god'.",
+   "applied": true
+  },
+  {
+   "term_id": "T209",
+   "sense": "guru",
+   "field": "academic",
+   "current": "guru",
+   "suggested": "master",
+   "severity": "minor",
+   "reason": "Policy 7 lists specific Sanskrit words to keep; 'guru' is not listed and should be translated.",
+   "applied": true
+  },
+  {
+   "term_id": "T226",
+   "sense": "the world with its gods, humans and asuras",
+   "field": "academic",
+   "current": "world with its gods, humans, and asuras",
+   "suggested": "world with its gods, humans, and demigods",
+   "severity": "major",
+   "reason": "Consistency with T097 ('demigod') and Policy 7.",
+   "applied": true
+  },
+  {
+   "term_id": "T226",
+   "sense": "the world with its gods, humans and asuras",
+   "field": "children",
+   "current": "world with its gods, people, and demigods",
+   "suggested": "world with its gods, people, and jealous gods",
+   "severity": "major",
+   "reason": "Consistency with T097 ('jealous god').",
+   "applied": true
+  },
+  {
+   "term_id": "T267",
+   "sense": "all conditioned things",
+   "field": "academic",
+   "current": "all conditioned things",
+   "suggested": "all conditioned phenomena",
+   "severity": "major",
+   "reason": "Academic register avoids 'thing' (which is the children's equivalent); use 'phenomena'.",
+   "applied": true
+  },
+  {
+   "term_id": "T273",
+   "sense": "gandharva",
+   "field": "academic",
+   "current": "gandharva",
+   "suggested": "scent-eater",
+   "severity": "major",
+   "reason": "Policy 7 requires translating Sanskrit words not on the exceptions list; gandharva must be translated.",
+   "applied": true
+  }
+ ],
+ "policies": []
+}

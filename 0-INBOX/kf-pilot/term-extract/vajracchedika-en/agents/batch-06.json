@@ -1,0 +1,950 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "8-0",
+   "terms": [
+    {
+     "bo": "མཚན",
+     "dm": "Major Marks",
+     "gm": "Major"
+    },
+    {
+     "bo": "དཔེ་བྱད",
+     "dm": "Minor Signs",
+     "gm": "Minor"
+    }
+   ]
+  },
+  {
+   "id": "8-1",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "8-2",
+   "terms": [
+    {
+     "bo": "སྐྱེས་བུ་ཆེན་པོ",
+     "dm": "great being",
+     "gm": "great man"
+    },
+    {
+     "bo": "མཚན་སུམ་ཅུ་རྩ་གཉིས",
+     "dm": "thirty-two marks",
+     "gm": "thirty-two marks"
+    },
+    {
+     "bo": "མཚན",
+     "dm": "marks",
+     "gm": "marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "Perfectly Enlightened Buddha",
+     "gm": "fully awakened Buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    }
+   ]
+  },
+  {
+   "id": "8-3",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    }
+   ]
+  },
+  {
+   "id": "8-4",
+   "terms": [
+    {
+     "bo": "སྐྱེས་བུ་ཆེན་པོ",
+     "dm": "great being",
+     "gm": "great man"
+    },
+    {
+     "bo": "མཚན་སུམ་ཅུ་རྩ་གཉིས",
+     "dm": "thirty-two marks",
+     "gm": "thirty-two marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མཚན་མ",
+     "dm": "marks",
+     "gm": "marks"
+    }
+   ]
+  },
+  {
+   "id": "8-5",
+   "terms": [
+    {
+     "bo": "སྐྱེས་བུ་ཆེན་པོ",
+     "dm": "great being",
+     "gm": "great man"
+    },
+    {
+     "bo": "མཚན་སུམ་ཅུ་རྩ་གཉིས",
+     "dm": "thirty-two marks",
+     "gm": "thirty-two marks"
+    }
+   ]
+  },
+  {
+   "id": "8-6",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "གང་གཱའི་ཀླུང",
+     "dm": "Ganges river",
+     "gm": "river Gaṅgā"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "discourse on Dharma",
+     "gm": "discourse on Dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+     "dm": "four-line stanza",
+     "gm": "four-line verse"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "8-7",
+   "terms": [
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-8",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    }
+   ]
+  },
+  {
+   "id": "8-9",
+   "terms": [
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "discourse on Dharma",
+     "gm": "discourse on Dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "བདེ་བར་གཤེགས་པ",
+     "dm": "Sugata",
+     "gm": "Sugata"
+    }
+   ]
+  },
+  {
+   "id": "8-10",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "ཡེ་ཤེས",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "discourse on Dharma",
+     "gm": "discourse on Dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-11",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sutra",
+     "gm": "sūtra"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཡང་དག་པར་འདུ་ཤེས",
+     "dm": "correct perception",
+     "gm": "true perception"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-12",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "ཡང་དག་པར་འདུ་ཤེས",
+     "dm": "correct perception",
+     "gm": "true perception"
+    },
+    {
+     "bo": "འདུ་ཤེས་མ་མཆིས་པ",
+     "dm": "non-perception",
+     "gm": "no perception"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-13",
+   "terms": [
+    {
+     "bo": "ཡང་དག་པར་འདུ་ཤེས",
+     "dm": "correct perception",
+     "gm": "true perception"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "8-14",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "discourse on Dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-15",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "སླད་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+     "dm": "last five hundred years",
+     "gm": "final five hundred years"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "discourse on Dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-16",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-17",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "life"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-18",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "life"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-19",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed Ones",
+     "gm": "Bhagavāns"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-20",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "8-21",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "8-22",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sūtra",
+     "gm": "sūtra"
+    }
+   ]
+  },
+  {
+   "id": "8-23",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ",
+     "dm": "supreme perfection",
+     "gm": "supreme perfection"
+    },
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "perfection",
+     "gm": "perfection"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "8-24",
+   "terms": [
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ",
+     "dm": "supreme perfections",
+     "gm": "supreme perfection"
+    },
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "perfections",
+     "gm": "perfection"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed Ones",
+     "gm": "Bhagavāns"
+    }
+   ]
+  },
+  {
+   "id": "8-25",
+   "terms": [
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ",
+     "dm": "supreme perfection",
+     "gm": "supreme perfection"
+    },
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "perfection",
+     "gm": "perfection"
+    }
+   ]
+  },
+  {
+   "id": "8-26",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "perfection of patience",
+     "gm": "perfection of patience"
+    },
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "perfection",
+     "gm": "perfection"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    }
+   ]
+  },
+  {
+   "id": "8-27",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཀ་ལིང་ཀའི་རྒྱལ་པོ",
+     "dm": "King of Kaliṅga",
+     "gm": "king of Kaliṅga"
+    },
+    {
+     "bo": "ཀ་ལིང་ཀ",
+     "dm": "Kaliṅga",
+     "gm": "Kaliṅga"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "life force"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "notion",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-28",
+   "terms": [
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "notion",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-29",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "notion",
+     "gm": "perception"
+    },
+    {
+     "bo": "གནོད་སེམས",
+     "dm": "malice",
+     "gm": "malice"
+    }
+   ]
+  },
+  {
+   "id": "8-30",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "life force"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "notion",
+     "gm": "perception"
+    },
+    {
+     "bo": "གནོད་སེམས",
+     "dm": "malice",
+     "gm": "malice"
+    }
+   ]
+  },
+  {
+   "id": "8-31",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཟོད་པ་སྨྲ་བ",
+     "dm": "Speaker of Patience",
+     "gm": "Kṣāntivādin"
+    },
+    {
+     "bo": "དྲང་སྲོང",
+     "dm": "sage",
+     "gm": "sage"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "notion",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-32",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "life force"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "notion",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "8-33",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattva",
+     "gm": "bodhisattva great being"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་དཔའ་ཆེན་པོ",
+     "dm": "mahāsattva",
+     "gm": "great being"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "notions",
+     "gm": "perceptions"
+    }
+   ]
+  },
+  {
+   "id": "8-34",
+   "terms": [
+    {
+     "bo": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+     "dm": "unsurpassed, perfectly complete enlightenment",
+     "gm": "unsurpassed, perfectly complete enlightenment"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "enlightenment"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generate the mind",
+     "gm": "give rise to the mind"
+    }
+   ]
+  },
+  {
+   "id": "8-35",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generate the mind",
+     "gm": "give rise to the mind"
+    }
+   ]
+  },
+  {
+   "id": "8-36",
+   "terms": [
+    {
+     "bo": "སྒྲ",
+     "dm": "sound",
+     "gm": "sound"
+    },
+    {
+     "bo": "དྲི",
+     "dm": "smell",
+     "gm": "smell"
+    },
+    {
+     "bo": "རོ",
+     "dm": "taste",
+     "gm": "taste"
+    },
+    {
+     "bo": "རེག་བྱ",
+     "dm": "tangible objects",
+     "gm": "tactile objects"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generate the mind",
+     "gm": "give rise to the mind"
+    }
+   ]
+  },
+  {
+   "id": "8-37",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generate the mind",
+     "gm": "give rise to the mind"
+    }
+   ]
+  },
+  {
+   "id": "8-38",
+   "terms": [
+    {
+     "bo": "ཆོས་མེད་པ",
+     "dm": "non-existence of phenomena",
+     "gm": "non-phenomena"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generate the mind",
+     "gm": "give rise to the mind"
+    }
+   ]
+  },
+  {
+   "id": "8-39",
+   "terms": [
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generate the mind",
+     "gm": "give rise to the mind"
+    }
+   ]
+  }
+ ]
+}

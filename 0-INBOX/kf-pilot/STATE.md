@@ -1,0 +1,33 @@
+# KF pilot — Diamond Sutra pipeline state
+
+Working area for the KF AI-translation pilot report (Diamond Sutra first, then Ratnaguṇa and BCA).
+Scripts here are drafts; they become registered skills (via `create-skill`) once the whole flow works.
+
+## Decisions (user, 2026-10-07)
+- Gemini translates; Claude checks. Anything Claude produces is reviewed by Gemini, and vice versa. No human reviewer: the cross-model review approves.
+- Agents orchestrate and run in parallel; scripts where needed (all Gemini calls are scripts).
+- Versions: academic + children's (new); zero-shot (DharmaMitra/Gemini, exists) and commentary translations (exist). Word-by-word deferred.
+- Build in this vault; sync the finished skills to the other vaults afterwards.
+
+## Pipeline status (English)
+| Step | Status | Where |
+|---|---|---|
+| 0 Setup: venv, usage ledger, Gemini key | done | `KF-project/.venv`; `4-SYSTEM/scripts/usage-ledger/`; key in ~/.zshrc (run Gemini scripts via `zsh -ic`) |
+| 1 Term extraction (Claude, 13 agents) + Gemini review | done — 278 terms | `term-extract/vajracchedika-en/term-list.md` |
+| 2 Termbase (style sheet + 6 agents) + Gemini review | done — draft | `termbase/vajracchedika-en/termbase-{academic,children}.md`, `style-sheet.md`, `review.json` |
+| 3 Segment context (Tibetan + Sanskrit + 3 commentaries) | built | `context/segment_context.py` |
+| 4 Academic translation (Gemini) | next | extend `machine-translate/gm_translate.py` |
+| 5 Fact-check (Claude) + regenerate | todo | |
+| 6 Children's version | todo | |
+| 7 zh, hi | todo | |
+
+## Usage ledger
+`usage-ledger.jsonl` — every model call. Gemini rows are exact (API usage). Claude agent rows: input/cache exact
+from transcripts, output ESTIMATED (transcripts keep only the start-of-response usage; thinking is redacted).
+Exact Claude usage needs the `claude` CLI logged in (`claude -p --output-format json`).
+
+## Open items
+- Termbase review applied some questionable Gemini changes (gandharva → scent-eater, guru → master, below → nadir,
+  Perfection of Wisdom capitalised as a practice). Revisit before translation.
+- ཆོས has a third sense (quality of a Buddha) that the reviewer wanted merged; recorded, not applied.
+- Term-agent prompt gives 3 examples per term; multi-sense terms need all occurrences (batch-04 read segments.json itself).

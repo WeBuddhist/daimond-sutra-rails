@@ -1,0 +1,128 @@
+[
+ {
+  "id": "11-0",
+  "heading": true,
+  "bo": "འབྲས་བུ་ཆོས་སྐུ།",
+  "dm": "The Fruition of the Dharmakāya",
+  "gm": "The Resultant Dharmakāya"
+ },
+ {
+  "id": "11-1",
+  "heading": false,
+  "bo": "གང་དག་ང་ལ་གཟུགས་སུ་མཐོང༌། །གང་དག་ང་ལ་སྒྲར་ཤེས་པ། །ལོག་པའི་ལམ་དུ་ཞུགས་པ་སྟེ། །",
+  "dm": "Those who see me as form, those who perceive me as sound, have entered upon a mistaken path;",
+  "gm": "'Those who see me by form, those who know me by sound, have set out on a wrong path;"
+ },
+ {
+  "id": "11-2",
+  "heading": false,
+  "bo": "སྐྱེ་བོ་དེ་དག་ང་མི་མཐོང༌། །",
+  "dm": "Those people do not see me.",
+  "gm": "those people do not see me."
+ },
+ {
+  "id": "11-3",
+  "heading": false,
+  "bo": "སངས་རྒྱས་རྣམས་ནི་ཆོས་ཉིད་ལྟ། །",
+  "dm": "The Buddhas are to be seen as the nature of reality.",
+  "gm": "The Buddhas are to be seen as the nature of phenomena."
+ },
+ {
+  "id": "11-4",
+  "heading": false,
+  "bo": "འདྲེན་པ་རྣམས་ནི་ཆོས་ཀྱི་སྐུ། །ཆོས་ཉིད་ཤེས་པར་བྱ་མིན་པས། །དེ་ནི་རྣམ་པར་ཤེས་མི་ནུས། །",
+  "dm": "The guides are the Dharmakāya; since the nature of reality is not an object to be known, it cannot be cognized.",
+  "gm": "The guides are the body of Dharma. Since the nature of phenomena is not an object of knowledge, it cannot be cognized.'"
+ },
+ {
+  "id": "11-5",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "Subhūti, what do you think?",
+  "gm": "'Subhūti, what do you think?"
+ },
+ {
+  "id": "11-6",
+  "heading": false,
+  "bo": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་ཁྱོད་ཀྱིས་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ།",
+  "dm": "If you think that the Tathāgata, the Arhat, the perfectly complete Buddha, has fully awakened to perfect enlightenment by means of the perfection of marks, Subhūti, you should not view it in that way.",
+  "gm": "If you think that the Tathāgata, the Arhat, became fully awakened to perfect and full awakening by the perfection of his marks, Subhūti, you should not see it like that."
+ },
+ {
+  "id": "11-7",
+  "heading": false,
+  "bo": "རབ་འབྱོར་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་མེད་དོ། །",
+  "dm": "Subhūti, there is no Tathāgata, Arhat, perfectly complete Buddha who has fully awakened to perfect enlightenment by means of the perfection of marks.",
+  "gm": "Subhūti, the Tathāgata, the Arhat, did not become fully awakened to perfect and full awakening by the perfection of his marks."
+ },
+ {
+  "id": "11-8",
+  "heading": false,
+  "bo": "རབ་འབྱོར་ཁྱོད་འདི་སྙམ་དུ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ལ་ལ་ཞིག་རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པའོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་དེ་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ།",
+  "dm": "Subhūti, if you think that those who have correctly entered the bodhisattva vehicle hold the view that any phenomenon is destroyed or designated as cut off, Subhūti, you should not view it in that way.",
+  "gm": "Subhūti, if you think that those who have genuinely set out in the Bodhisattva vehicle have destroyed some phenomenon or designated it as annihilated, Subhūti, it should not be seen like that."
+ },
+ {
+  "id": "11-9",
+  "heading": false,
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ། །",
+  "dm": "Those who have correctly entered the bodhisattva vehicle do not hold that any phenomenon is destroyed or designated as cut off.",
+  "gm": "Those who have genuinely set out in the Bodhisattva vehicle have not destroyed any phenomenon or designated it as annihilated."
+ },
+ {
+  "id": "11-10",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། བྱང་ཆུབ་སེམས་དཔའ་གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བདག་མེད་ཅིང་སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆོས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "dm": "Furthermore, Subhūti, if a son or daughter of noble family were to fill as many world systems as there are grains of sand in the river Ganges with the seven types of precious jewels and give them as a gift, and if a bodhisattva were to gain patience in the realization that phenomena are without self and unborn, then that bodhisattva would generate a mass of merit far greater, immeasurable, and incalculable than that.",
+  "gm": "Moreover, Subhūti, if a son of good family or a daughter of good family were to fill as many world systems as there are grains of sand in the river Ganges with the seven precious things and give them as a gift, and if a Bodhisattva were to attain the patience that this Dharma-discourse is selfless and unproduced, he would produce from that basis a mass of merit vastly greater, incalculable and immeasurable."
+ },
+ {
+  "id": "11-11",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བྱའོ། །",
+  "dm": "Furthermore, Subhūti, a bodhisattva should not take hold of a mass of merit.",
+  "gm": "Moreover, Subhūti, a Bodhisattva should not fully acquire a mass of merit."
+ },
+ {
+  "id": "11-12",
+  "heading": false,
+  "bo": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བགྱི་ལགས་སམ།",
+  "dm": "The venerable Subhūti asked, \"Blessed One, should a bodhisattva not take hold of a mass of merit?\"",
+  "gm": "Venerable Subhūti asked, 'Blessed One, should a Bodhisattva not fully acquire a mass of merit?'"
+ },
+ {
+  "id": "11-13",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་ཡོངས་སུ་གཟུང་མོད་ཀྱིས། ལོག་པར་མི་བཟུང་སྟེ་",
+  "dm": "The Blessed One replied, \"Subhūti, one may indeed take hold of it, but one should not take hold of it wrongly.",
+  "gm": "The Blessed One said, 'Subhūti, he does fully acquire it, but he does not acquire it erroneously;"
+ },
+ {
+  "id": "11-14",
+  "heading": false,
+  "bo": "དེས་ན་ཡོངས་སུ་གཟུང་བ་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called 'taking hold'.\"",
+  "gm": "therefore it is called \"fully acquiring\".'"
+ },
+ {
+  "id": "11-15",
+  "heading": false,
+  "bo": "ཡང་རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པ་བཞུད་དམ་བྱོན་ཏམ། བཞེངས་སམ། བཞུགས་སམ། མནལ་བར་མཛད་དོ་ཞེས་ཟེར་ན། དེས་ངས་བཤད་པའི་དོན་མི་ཤེས་སོ། །",
+  "dm": "Furthermore, Subhūti, if anyone were to say that the Tathāgata comes or goes, stands, sits, or lies down, that person does not understand the meaning of what I have taught.",
+  "gm": "Moreover, Subhūti, if anyone were to say that the Tathāgata goes, or comes, or stands, or sits, or lies down, he does not understand the meaning of what I have taught."
+ },
+ {
+  "id": "11-16",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་ནི། གར་ཡང་མ་བཞུད། གང་ནས་ཀྱང་མ་བྱོན་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, the one called Tathāgata does not go anywhere, nor does he come from anywhere.",
+  "gm": "Why is that? Subhūti, the one called \"the Tathāgata\" has not gone anywhere and has not come from anywhere."
+ },
+ {
+  "id": "11-17",
+  "heading": false,
+  "bo": "དེས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཞེས་བྱའོ། །",
+  "dm": "Therefore, he is called the Tathāgata, the Arhat, the Perfectly Complete Buddha.",
+  "gm": "Therefore he is called the Tathāgata, the Arhat, the perfectly and fully awakened Buddha."
+ }
+]

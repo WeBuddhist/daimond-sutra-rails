@@ -1,0 +1,950 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0",
+   "terms": [
+    {
+     "bo": "འཕགས་པ",
+     "dm": "Noble",
+     "gm": "Noble"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Perfection of Wisdom"
+    },
+    {
+     "bo": "རྡོ་རྗེ་གཅོད་པ",
+     "dm": "Diamond-Cutter",
+     "gm": "Diamond Cutter"
+    },
+    {
+     "bo": "ཐེག་པ་ཆེན་པོ",
+     "dm": "Mahāyāna",
+     "gm": "Mahayana"
+    },
+    {
+     "bo": "མདོ",
+     "dm": "Sūtra",
+     "gm": "Sutra"
+    }
+   ]
+  },
+  {
+   "id": "0-1",
+   "terms": [
+    {
+     "bo": "འཕགས་པ",
+     "dm": "Noble",
+     "gm": "Noble"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Perfection of Wisdom"
+    },
+    {
+     "bo": "རྡོ་རྗེ་གཅོད་པ",
+     "dm": "Diamond Cutter",
+     "gm": "Diamond Cutter"
+    }
+   ]
+  },
+  {
+   "id": "0-2",
+   "terms": [
+    {
+     "bo": "ཨརྱཱ་བཛྲ་ཙྪེད་ཀ་པྲཛྙཱ་པ་ར་མི་ཏཱ་ནཱ་མ་མ་ཧཱ་ཡ་ན་སཱུ་ཏྲ",
+     "dm": "Āryavajracchedikāprajñāpāramitānāmamahāyānasūtra",
+     "gm": "Ārya vajracchedikā prajñāpāramitā nāma mahāyāna sūtra"
+    }
+   ]
+  },
+  {
+   "id": "0-3",
+   "terms": [
+    {
+     "bo": "འཕགས་པ",
+     "dm": "Noble",
+     "gm": "Noble"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Perfection of Wisdom"
+    },
+    {
+     "bo": "རྡོ་རྗེ་གཅོད་པ",
+     "dm": "Diamond Cutter",
+     "gm": "Diamond Cutter"
+    },
+    {
+     "bo": "ཐེག་པ་ཆེན་པོ",
+     "dm": "Mahāyāna",
+     "gm": "Mahāyāna"
+    },
+    {
+     "bo": "མདོ",
+     "dm": "sūtra",
+     "gm": "sūtra"
+    }
+   ]
+  },
+  {
+   "id": "0-4",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "Bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "1-0",
+   "terms": []
+  },
+  {
+   "id": "1-1",
+   "terms": []
+  },
+  {
+   "id": "1-2",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "མཉན་ཡོད",
+     "dm": "Śrāvastī",
+     "gm": "Śrāvastī"
+    },
+    {
+     "bo": "རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ",
+     "dm": "Jeta Grove",
+     "gm": "Jetavana"
+    },
+    {
+     "bo": "མགོན་མེད་ཟས་སྦྱིན",
+     "dm": "Anāthapiṇḍada",
+     "gm": "Anāthapiṇḍada"
+    },
+    {
+     "bo": "དགེ་སློང",
+     "dm": "monks",
+     "gm": "monks"
+    },
+    {
+     "bo": "དགེ་འདུན",
+     "dm": "community",
+     "gm": "saṅgha"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattvas",
+     "gm": "bodhisattvas, great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattvas"
+    },
+    {
+     "bo": "སེམས་དཔའ་ཆེན་པོ",
+     "dm": "mahāsattvas",
+     "gm": "great beings"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཤམ་ཐབས",
+     "dm": "lower robe",
+     "gm": "lower garment"
+    },
+    {
+     "bo": "ཆོས་གོས",
+     "dm": "Dharma robes",
+     "gm": "dharma-robe"
+    },
+    {
+     "bo": "ལྷུང་བཟེད",
+     "dm": "alms bowl",
+     "gm": "alms bowl"
+    },
+    {
+     "bo": "མཉན་ཡོད",
+     "dm": "Śrāvastī",
+     "gm": "Śrāvastī"
+    },
+    {
+     "bo": "བསོད་སྙོམས",
+     "dm": "alms",
+     "gm": "alms"
+    }
+   ]
+  },
+  {
+   "id": "1-4",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "མཉན་ཡོད",
+     "dm": "Śrāvastī",
+     "gm": "Śrāvastī"
+    },
+    {
+     "bo": "བསོད་སྙོམས",
+     "dm": "alms",
+     "gm": "alms"
+    }
+   ]
+  },
+  {
+   "id": "1-5",
+   "terms": [
+    {
+     "bo": "བསོད་སྙོམས",
+     "dm": "alms",
+     "gm": "alms-food"
+    },
+    {
+     "bo": "ལྷུང་བཟེད",
+     "dm": "alms bowl",
+     "gm": "alms bowl"
+    },
+    {
+     "bo": "ཆོས་གོས",
+     "dm": "Dharma robes",
+     "gm": "dharma-robe"
+    },
+    {
+     "bo": "སྐྱིལ་མོ་ཀྲུང་བཅས",
+     "dm": "cross-legged",
+     "gm": "crossing his legs"
+    },
+    {
+     "bo": "དྲན་པ་མངོན་དུ་བཞག",
+     "dm": "mindfulness established before him",
+     "gm": "establishing mindfulness to the fore"
+    },
+    {
+     "bo": "དྲན་པ",
+     "dm": "mindfulness",
+     "gm": "mindfulness"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "terms": [
+    {
+     "bo": "དགེ་སློང",
+     "dm": "monks",
+     "gm": "monks"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "1-7",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ལན་གསུམ་བསྐོར་བ",
+     "dm": "circumambulated him three times",
+     "gm": "circumambulated him three times"
+    }
+   ]
+  },
+  {
+   "id": "1-8",
+   "terms": [
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "Venerable",
+     "gm": "Venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "འཁོར",
+     "dm": "assembly",
+     "gm": "retinue"
+    }
+   ]
+  },
+  {
+   "id": "2-0",
+   "terms": [
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "Venerable",
+     "gm": "Venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "2-1",
+   "terms": [
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "Venerable",
+     "gm": "Venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བླ་གོས",
+     "dm": "upper robe",
+     "gm": "upper robe"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཐལ་མོ་སྦྱར་བ",
+     "dm": "palms joined",
+     "gm": "joined palms"
+    }
+   ]
+  },
+  {
+   "id": "2-2",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "2-3",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "perfectly complete Buddha",
+     "gm": "Perfectly Awakened Buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattvas",
+     "gm": "bodhisattva great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་དཔའ་ཆེན་པོ",
+     "dm": "mahāsattvas",
+     "gm": "great beings"
+    },
+    {
+     "bo": "བདེ་བར་གཤེགས་པ",
+     "dm": "Sugata",
+     "gm": "Sugata"
+    }
+   ]
+  },
+  {
+   "id": "2-4",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+     "dm": "bodhisattva vehicle",
+     "gm": "bodhisattva vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "terms": []
+  },
+  {
+   "id": "2-6",
+   "terms": [
+    {
+     "bo": "སེམས་རབ་ཏུ་གཟུང་བ",
+     "dm": "hold the mind",
+     "gm": "control their mind"
+    }
+   ]
+  },
+  {
+   "id": "2-7",
+   "terms": []
+  },
+  {
+   "id": "3-0",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Bhagavan",
+     "gm": "Bhagavat"
+    }
+   ]
+  },
+  {
+   "id": "3-1",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "3-2",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "3-3",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "3-4",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattvas",
+     "gm": "bodhisattva great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་དཔའ་ཆེན་པོ",
+     "dm": "mahāsattvas",
+     "gm": "great beings"
+    }
+   ]
+  },
+  {
+   "id": "3-5",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattvas",
+     "gm": "bodhisattva great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་དཔའ་ཆེན་པོ",
+     "dm": "mahāsattvas",
+     "gm": "great beings"
+    }
+   ]
+  },
+  {
+   "id": "3-6",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "3-7",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+     "dm": "bodhisattva vehicle",
+     "gm": "bodhisattva vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་རབ་ཏུ་གཟུང་བ",
+     "dm": "hold their minds",
+     "gm": "control their mind"
+    }
+   ]
+  },
+  {
+   "id": "3-8",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "3-9",
+   "terms": [
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "Venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "4-0",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པ",
+     "dm": "Generating the Mind of Enlightenment",
+     "gm": "Generating Bodhicitta"
+    }
+   ]
+  },
+  {
+   "id": "4-1",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+     "dm": "bodhisattva vehicle",
+     "gm": "bodhisattva vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "སྒོ་ང་ལས་སྐྱེས་པ",
+     "dm": "born from eggs",
+     "gm": "born from eggs"
+    },
+    {
+     "bo": "མངལ་ལས་སྐྱེས་པ",
+     "dm": "born from wombs",
+     "gm": "born from wombs"
+    },
+    {
+     "bo": "དྲོད་གཤེར་ལས་སྐྱེས་པ",
+     "dm": "born from warmth and moisture",
+     "gm": "born from heat and moisture"
+    },
+    {
+     "bo": "རྫུས་ཏེ་སྐྱེས་པ",
+     "dm": "born miraculously",
+     "gm": "miraculously born"
+    },
+    {
+     "bo": "གཟུགས་ཅན",
+     "dm": "having form",
+     "gm": "having form"
+    },
+    {
+     "bo": "གཟུགས་ཅན་མ་ཡིན་པ",
+     "dm": "without form",
+     "gm": "formless"
+    },
+    {
+     "bo": "འདུ་ཤེས་ཅན",
+     "dm": "having perception",
+     "gm": "having perception"
+    },
+    {
+     "bo": "འདུ་ཤེས་མེད",
+     "dm": "without perception",
+     "gm": "having no perception"
+    },
+    {
+     "bo": "འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན",
+     "dm": "neither with perception nor without perception",
+     "gm": "neither having nor lacking perception"
+    },
+    {
+     "bo": "སེམས་ཅན་གྱི་ཁམས",
+     "dm": null,
+     "gm": "realm of beings"
+    },
+    {
+     "bo": "ཕུང་པོ",
+     "dm": "aggregates",
+     "gm": "aggregates"
+    },
+    {
+     "bo": "ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས",
+     "dm": "realm of nirvāṇa that leaves no remainder of the aggregates",
+     "gm": "realm of nirvāṇa without remainder of aggregates"
+    },
+    {
+     "bo": "མྱ་ངན་ལས་འདས་པ",
+     "dm": "nirvāṇa",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདའ",
+     "dm": "complete nirvāṇa",
+     "gm": "complete nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "4-2",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "being"
+    },
+    {
+     "bo": "ཡོངས་སུ་མྱ་ངན་ལས་འདས",
+     "dm": "complete nirvāṇa",
+     "gm": "complete nirvāṇa"
+    },
+    {
+     "bo": "མྱ་ངན་ལས་འདས",
+     "dm": "nirvāṇa",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད་པ",
+     "dm": "generate the mind",
+     "gm": "generate the mind"
+    }
+   ]
+  },
+  {
+   "id": "4-3",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "4-4",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སེམས་ཅན་དུ་འདུ་ཤེས",
+     "dm": "perception of a sentient being",
+     "gm": "notion of a being"
+    },
+    {
+     "bo": "སྲོག་ཏུ་འདུ་ཤེས",
+     "dm": "perception of a life-force",
+     "gm": "notion of a living soul"
+    },
+    {
+     "bo": "གང་ཟག་ཏུ་འདུ་ཤེས",
+     "dm": "perception of a person",
+     "gm": "notion of a person"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "living soul"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "notion"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "4-5",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "phenomena",
+     "gm": "objects"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gifts"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    }
+   ]
+  },
+  {
+   "id": "4-6",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gifts"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    }
+   ]
+  },
+  {
+   "id": "4-7",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gifts"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    }
+   ]
+  },
+  {
+   "id": "4-8",
+   "terms": [
+    {
+     "bo": "སྒྲ",
+     "dm": "sound",
+     "gm": "sounds"
+    },
+    {
+     "bo": "དྲི",
+     "dm": "smell",
+     "gm": "smells"
+    },
+    {
+     "bo": "རོ",
+     "dm": "taste",
+     "gm": "tastes"
+    },
+    {
+     "bo": "རེག་བྱ",
+     "dm": "tangible objects",
+     "gm": "tactile objects"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "mental phenomena"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gifts"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    }
+   ]
+  },
+  {
+   "id": "4-9",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "མཚན་མ",
+     "dm": "characteristics",
+     "gm": "sign"
+    },
+    {
+     "bo": "མཚན་མར་འདུ་ཤེས་པ",
+     "dm": "perception of characteristics",
+     "gm": "notion of a sign"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "notion"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gifts"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "do not abide"
+    }
+   ]
+  },
+  {
+   "id": "4-10",
+   "terms": []
+  }
+ ]
+}

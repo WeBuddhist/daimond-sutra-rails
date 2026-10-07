@@ -1,0 +1,757 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "7-41",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "visible forms",
+     "gm": "form"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generate the mind",
+     "gm": "produce the mind"
+    }
+   ]
+  },
+  {
+   "id": "7-42",
+   "terms": [
+    {
+     "bo": "སྒྲ",
+     "dm": "sounds",
+     "gm": "sounds"
+    },
+    {
+     "bo": "དྲི",
+     "dm": "odors",
+     "gm": "smells"
+    },
+    {
+     "bo": "རོ",
+     "dm": "tastes",
+     "gm": "tastes"
+    },
+    {
+     "bo": "རེག་བྱ",
+     "dm": "tangible objects",
+     "gm": "tangible objects"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generate the mind",
+     "gm": "produce the mind"
+    }
+   ]
+  },
+  {
+   "id": "7-43",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "རིའི་རྒྱལ་པོ་རི་རབ",
+     "dm": "Mount Sumeru, the king of mountains",
+     "gm": "Sumeru, the king of mountains"
+    },
+    {
+     "bo": "རི་རབ",
+     "dm": "Mount Sumeru",
+     "gm": "Sumeru"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "7-44",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "7-45",
+   "terms": [
+    {
+     "bo": "བདེ་བར་གཤེགས་པ",
+     "dm": "Sugata",
+     "gm": "Sugata"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "7-46",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "real entity",
+     "gm": "entity"
+    }
+   ]
+  },
+  {
+   "id": "7-47",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "7-48",
+   "terms": [
+    {
+     "bo": "དངོས་པོ",
+     "dm": "real entity",
+     "gm": "entity"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "7-49",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-50",
+   "terms": [
+    {
+     "bo": "གང་གཱའི་ཀླུང",
+     "dm": "Ganges River",
+     "gm": "Gaṅgā river"
+    }
+   ]
+  },
+  {
+   "id": "7-51",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "གང་གཱའི་ཀླུང",
+     "dm": "Ganges Rivers",
+     "gm": "Gaṅgā rivers"
+    }
+   ]
+  },
+  {
+   "id": "7-52",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-53",
+   "terms": []
+  },
+  {
+   "id": "7-54",
+   "terms": [
+    {
+     "bo": "གང་གཱའི་ཀླུང",
+     "dm": "Ganges Rivers",
+     "gm": "Gaṅgā rivers"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world systems",
+     "gm": "world systems"
+    },
+    {
+     "bo": "རིན་པོ་ཆེ་སྣ་བདུན",
+     "dm": "seven types of precious jewels",
+     "gm": "seven precious substances"
+    }
+   ]
+  },
+  {
+   "id": "7-55",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhats",
+     "gm": "Arhats"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "perfectly complete Buddhas",
+     "gm": "perfectly and fully awakened Buddhas"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "gifts",
+     "gm": "gift"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "7-56",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "7-57",
+   "terms": [
+    {
+     "bo": "བདེ་བར་གཤེགས་པ",
+     "dm": "Sugata",
+     "gm": "Sugata"
+    }
+   ]
+  },
+  {
+   "id": "7-58",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "7-59",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གྱིས་ཁམས",
+     "dm": "world systems",
+     "gm": "world systems"
+    },
+    {
+     "bo": "རིན་པོ་ཆེ་སྣ་བདུན",
+     "dm": "seven kinds of precious jewels",
+     "gm": "seven precious substances"
+    }
+   ]
+  },
+  {
+   "id": "7-60",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhats",
+     "gm": "Arhats"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "perfectly complete Buddhas",
+     "gm": "perfectly and fully awakened Buddhas"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "gifts",
+     "gm": "gift"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "discourse on the Dharma"
+    },
+    {
+     "bo": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+     "dm": "four-line stanza",
+     "gm": "four-line verse"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "7-61",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+     "dm": "four-line stanza",
+     "gm": "four-line verse"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "discourse on the Dharma"
+    },
+    {
+     "bo": "མཆོད་རྟེན",
+     "dm": "shrine",
+     "gm": "stūpa"
+    },
+    {
+     "bo": "ལྷ་དང་མི་དང་ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན",
+     "dm": "world including gods, humans, and asuras",
+     "gm": "world with its gods, humans, and asuras"
+    },
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    },
+    {
+     "bo": "མི",
+     "dm": "humans",
+     "gm": "humans"
+    },
+    {
+     "bo": "ལྷ་མ་ཡིན",
+     "dm": "asuras",
+     "gm": "asuras"
+    }
+   ]
+  },
+  {
+   "id": "7-62",
+   "terms": [
+    {
+     "bo": "སྟོན་པ",
+     "dm": "Teacher",
+     "gm": "Teacher"
+    },
+    {
+     "bo": "བླ་མ",
+     "dm": "guru",
+     "gm": "guru"
+    }
+   ]
+  },
+  {
+   "id": "7-63",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-64",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "discourse on the Dharma"
+    }
+   ]
+  },
+  {
+   "id": "7-65",
+   "terms": []
+  },
+  {
+   "id": "7-66",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-67",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "discourse on the Dharma"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Perfection of Wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "Wisdom",
+     "gm": "Wisdom"
+    },
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection",
+     "gm": "Perfection"
+    }
+   ]
+  },
+  {
+   "id": "7-68",
+   "terms": []
+  },
+  {
+   "id": "7-69",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "Wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "perfection",
+     "gm": "perfection"
+    }
+   ]
+  },
+  {
+   "id": "7-70",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "Wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection",
+     "gm": "perfection"
+    }
+   ]
+  },
+  {
+   "id": "7-71",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-72",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "7-73",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "7-74",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "7-75",
+   "terms": [
+    {
+     "bo": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "great trichiliocosm world system",
+     "gm": "three-thousandfold great thousandfold world system"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world system",
+     "gm": "world system"
+    },
+    {
+     "bo": "སའི་རྡུལ",
+     "dm": "dust motes",
+     "gm": "particles of earth"
+    }
+   ]
+  },
+  {
+   "id": "7-76",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "སའི་རྡུལ",
+     "dm": "dust motes",
+     "gm": "particles of earth"
+    }
+   ]
+  },
+  {
+   "id": "7-77",
+   "terms": [
+    {
+     "bo": "བདེ་བར་གཤེགས་པ",
+     "dm": "Sugata",
+     "gm": "Sugata"
+    }
+   ]
+  },
+  {
+   "id": "7-78",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Bhagavān"
+    },
+    {
+     "bo": "སའི་རྡུལ",
+     "dm": "dust motes",
+     "gm": "particle of earth"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "7-79",
+   "terms": [
+    {
+     "bo": "སའི་རྡུལ",
+     "dm": "dust motes",
+     "gm": "particle of earth"
+    }
+   ]
+  },
+  {
+   "id": "7-80",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world systems",
+     "gm": "world systems"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "7-81",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world systems",
+     "gm": "world system"
+    }
+   ]
+  }
+ ]
+}

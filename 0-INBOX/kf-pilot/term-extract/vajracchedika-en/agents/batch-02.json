@@ -1,0 +1,845 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "5-0",
+   "terms": [
+    {
+     "bo": "ཕར་ཕྱིན་དྲུག",
+     "dm": "Six Perfections",
+     "gm": "Six Pāramitās"
+    }
+   ]
+  },
+  {
+   "id": "5-1",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "heap of merit"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gives gifts"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    }
+   ]
+  },
+  {
+   "id": "5-2",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ནམ་མཁའ",
+     "dm": "space",
+     "gm": "space"
+    },
+    {
+     "bo": "ཤར་ཕྱོགས",
+     "dm": "eastern direction",
+     "gm": "eastern direction"
+    }
+   ]
+  },
+  {
+   "id": "5-3",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ལྷོ",
+     "dm": "south",
+     "gm": "south"
+    },
+    {
+     "bo": "ནུབ",
+     "dm": "west",
+     "gm": "west"
+    },
+    {
+     "bo": "བྱང",
+     "dm": "north",
+     "gm": "north"
+    },
+    {
+     "bo": "སྟེང",
+     "dm": "zenith",
+     "gm": "directions above and below"
+    },
+    {
+     "bo": "འོག",
+     "dm": "nadir",
+     "gm": "directions above and below"
+    },
+    {
+     "bo": "ཕྱོགས་མཚམས",
+     "dm": "intermediate directions",
+     "gm": "intermediate directions"
+    },
+    {
+     "bo": "ཕྱོགས་བཅུ",
+     "dm": "ten directions",
+     "gm": "ten directions"
+    },
+    {
+     "bo": "ནམ་མཁའ",
+     "dm": "space",
+     "gm": "space"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "5-6",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gives gifts"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "heap of merit"
+    }
+   ]
+  },
+  {
+   "id": "6-0",
+   "terms": [
+    {
+     "bo": "གཟུགས་སྐུ",
+     "dm": "Rūpakāya",
+     "gm": "Rūpakāya"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of his marks"
+    }
+   ]
+  },
+  {
+   "id": "6-2",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "6-3",
+   "terms": [
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of his marks"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "6-4",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of marks"
+    }
+   ]
+  },
+  {
+   "id": "6-5",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "6-6",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfect marks",
+     "gm": "perfection of marks"
+    },
+    {
+     "bo": "བརྫུན",
+     "dm": "falsehood",
+     "gm": "falsehood"
+    }
+   ]
+  },
+  {
+   "id": "6-7",
+   "terms": [
+    {
+     "bo": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+     "dm": "perfection of marks",
+     "gm": "perfection of marks"
+    },
+    {
+     "bo": "བརྫུན",
+     "dm": "falsehood",
+     "gm": "falsehood"
+    }
+   ]
+  },
+  {
+   "id": "6-8",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "མཚན",
+     "dm": "marks",
+     "gm": "marks"
+    },
+    {
+     "bo": "མཚན་མ",
+     "dm": "signs",
+     "gm": "no-marks"
+    }
+   ]
+  },
+  {
+   "id": "6-9",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "6-10",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+     "dm": "final five-hundred-year period",
+     "gm": "last five hundred years"
+    },
+    {
+     "bo": "དམ་པའི་ཆོས",
+     "dm": "holy Dharma",
+     "gm": "true Dharma"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sutra",
+     "gm": "sūtra"
+    },
+    {
+     "bo": "ཡང་དག་པར་འདུ་ཤེས",
+     "dm": "correct perception",
+     "gm": "true perception"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "6-11",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+     "dm": "final five-hundred-year period",
+     "gm": "last five hundred years"
+    },
+    {
+     "bo": "དམ་པའི་ཆོས",
+     "dm": "holy Dharma",
+     "gm": "true Dharma"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sutra",
+     "gm": "sūtra"
+    },
+    {
+     "bo": "ཡང་དག་པར་འདུ་ཤེས",
+     "dm": "correct perception",
+     "gm": "true perception"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "6-12",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+     "dm": "final five-hundred-year period",
+     "gm": "last five hundred years"
+    },
+    {
+     "bo": "དམ་པའི་ཆོས",
+     "dm": "holy Dharma",
+     "gm": "true Dharma"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "Bodhisattva Mahāsattvas",
+     "gm": "bodhisattva great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "morality",
+     "gm": "ethical discipline"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "good qualities"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    }
+   ]
+  },
+  {
+   "id": "6-13",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "Bodhisattva Mahāsattvas",
+     "gm": "bodhisattva great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བསྙེན་བཀུར་བྱ",
+     "dm": "rendered service",
+     "gm": "served"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    }
+   ]
+  },
+  {
+   "id": "6-14",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "དགེ་བའི་རྩ་བ",
+     "dm": "roots of virtue",
+     "gm": "roots of virtue"
+    }
+   ]
+  },
+  {
+   "id": "6-15",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "བསྙེན་བཀུར་བྱ",
+     "dm": "rendered service",
+     "gm": "served"
+    },
+    {
+     "bo": "དགེ་བའི་རྩ་བ",
+     "dm": "roots of virtue",
+     "gm": "roots of virtue"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "Bodhisattva Mahāsattvas",
+     "gm": "bodhisattva great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "6-16",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sūtra",
+     "gm": "sūtra"
+    },
+    {
+     "bo": "སེམས་དད་པ",
+     "dm": "faith of mind",
+     "gm": "faith"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "6-17",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "6-18",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "aggregate of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "6-19",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattvas",
+     "gm": "bodhisattva great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "བདག་ཏུ་འདུ་ཤེས",
+     "dm": "perception of a self",
+     "gm": "perception of a self"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "6-20",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "living soul"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "6-21",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattvas",
+     "gm": "bodhisattva great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharma"
+    },
+    {
+     "bo": "ཆོས་མེད་པ",
+     "dm": "non-existence of phenomena",
+     "gm": "non-dharma"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "6-22",
+   "terms": [
+    {
+     "bo": "འདུ་ཤེས་མེད་པ",
+     "dm": "non-perception",
+     "gm": "non-perception"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    }
+   ]
+  },
+  {
+   "id": "6-23",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+     "dm": "bodhisattva mahāsattvas",
+     "gm": "bodhisattva great beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharma"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "བདག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a self",
+     "gm": "grasp at a self"
+    }
+   ]
+  },
+  {
+   "id": "6-24",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "living soul"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    },
+    {
+     "bo": "འཛིན་པ",
+     "dm": "grasping",
+     "gm": "grasp"
+    }
+   ]
+  },
+  {
+   "id": "6-25",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharma"
+    },
+    {
+     "bo": "བདག་མེད་པ",
+     "dm": "devoid of a self",
+     "gm": "selfless"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "བདག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a self",
+     "gm": "grasp at a self"
+    }
+   ]
+  }
+ ]
+}

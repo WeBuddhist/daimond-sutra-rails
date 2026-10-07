@@ -1,0 +1,455 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "6-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-28",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-29",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-33",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-38",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཕགས་པ",
+      "reason": "part of noble individual",
+      "dm": "noble",
+      "gm": "noble"
+     },
+     {
+      "bo": "གང་ཟག",
+      "reason": "part of noble individual",
+      "dm": "individuals",
+      "gm": "beings"
+     }
+    ]
+   },
+   {
+    "id": "6-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-40",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རིགས་ཀྱི་བུ",
+      "reason": "part of son or daughter of noble family",
+      "dm": "son of noble family",
+      "gm": "son of noble family"
+     },
+     {
+      "bo": "རིགས་ཀྱི་བུ་མོ",
+      "reason": "part of son or daughter of noble family",
+      "dm": "daughter of noble family",
+      "gm": "daughter of noble family"
+     },
+     {
+      "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+      "reason": "part of trichiliocosm world system",
+      "dm": "world system",
+      "gm": "world system"
+     },
+     {
+      "bo": "རིན་པོ་ཆེ",
+      "reason": "part of seven kinds of precious substances",
+      "dm": "precious substances",
+      "gm": "precious substances"
+     },
+     {
+      "bo": "ཕུང་པོ",
+      "reason": "part of mass of merit",
+      "dm": null,
+      "gm": "mass"
+     }
+    ]
+   },
+   {
+    "id": "6-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-43",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རིགས་ཀྱི་བུ",
+      "reason": "part of son or daughter of noble family",
+      "dm": "son of noble family",
+      "gm": "son of noble family"
+     },
+     {
+      "bo": "རིགས་ཀྱི་བུ་མོ",
+      "reason": "part of son or daughter of noble family",
+      "dm": "daughter of noble family",
+      "gm": "daughter of noble family"
+     },
+     {
+      "bo": "ཕུང་པོ",
+      "reason": "part of mass of merit",
+      "dm": "mass",
+      "gm": "mass"
+     }
+    ]
+   },
+   {
+    "id": "6-44",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-45",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཕུང་པོ",
+      "reason": "part of mass of merit",
+      "dm": "mass",
+      "gm": "mass"
+     }
+    ]
+   },
+   {
+    "id": "6-46",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རིགས་ཀྱི་བུ",
+      "reason": "part of son or daughter of noble family",
+      "dm": "son of noble family",
+      "gm": "son of noble family"
+     },
+     {
+      "bo": "རིགས་ཀྱི་བུ་མོ",
+      "reason": "part of son or daughter of noble family",
+      "dm": "daughter of noble family",
+      "gm": "daughter of noble family"
+     },
+     {
+      "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+      "reason": "part of trichiliocosm world systems",
+      "dm": "world systems",
+      "gm": "world system"
+     },
+     {
+      "bo": "རིན་པོ་ཆེ",
+      "reason": "part of seven types of precious substances",
+      "dm": "precious substances",
+      "gm": "precious substances"
+     },
+     {
+      "bo": "ཆོས",
+      "reason": "part of discourse on Dharma",
+      "dm": "Dharma",
+      "gm": "dharma"
+     },
+     {
+      "bo": "ཚིགས་སུ་བཅད་པ",
+      "reason": "part of four-line verse",
+      "dm": "verse",
+      "gm": "verse"
+     },
+     {
+      "bo": "ཕུང་པོ",
+      "reason": "part of mass of merit",
+      "dm": "mass",
+      "gm": "mass"
+     }
+    ]
+   },
+   {
+    "id": "6-47",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-49",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "part of Buddha-qualities",
+      "dm": "Buddha",
+      "gm": "Buddha"
+     },
+     {
+      "bo": "ཆོས",
+      "reason": "part of Buddha-qualities",
+      "dm": "qualities",
+      "gm": "dharmas"
+     }
+    ]
+   },
+   {
+    "id": "6-50",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "part of Buddha-qualities",
+      "dm": "Buddha",
+      "gm": "Buddha"
+     },
+     {
+      "bo": "ཆོས",
+      "reason": "part of Buddha-qualities",
+      "dm": "qualities",
+      "gm": "dharmas"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "6-38",
+    "bo": "འཕགས་པ",
+    "dm": "noble",
+    "gm": "noble",
+    "reason": "part of noble individual"
+   },
+   {
+    "id": "6-38",
+    "bo": "གང་ཟག",
+    "dm": "individuals",
+    "gm": "beings",
+    "reason": "part of noble individual"
+   },
+   {
+    "id": "6-40",
+    "bo": "རིགས་ཀྱི་བུ",
+    "dm": "son of noble family",
+    "gm": "son of noble family",
+    "reason": "part of son or daughter of noble family"
+   },
+   {
+    "id": "6-40",
+    "bo": "རིགས་ཀྱི་བུ་མོ",
+    "dm": "daughter of noble family",
+    "gm": "daughter of noble family",
+    "reason": "part of son or daughter of noble family"
+   },
+   {
+    "id": "6-40",
+    "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+    "dm": "world system",
+    "gm": "world system",
+    "reason": "part of trichiliocosm world system"
+   },
+   {
+    "id": "6-40",
+    "bo": "རིན་པོ་ཆེ",
+    "dm": "precious substances",
+    "gm": "precious substances",
+    "reason": "part of seven kinds of precious substances"
+   },
+   {
+    "id": "6-40",
+    "bo": "ཕུང་པོ",
+    "dm": null,
+    "gm": "mass",
+    "reason": "part of mass of merit"
+   },
+   {
+    "id": "6-43",
+    "bo": "རིགས་ཀྱི་བུ",
+    "dm": "son of noble family",
+    "gm": "son of noble family",
+    "reason": "part of son or daughter of noble family"
+   },
+   {
+    "id": "6-43",
+    "bo": "རིགས་ཀྱི་བུ་མོ",
+    "dm": "daughter of noble family",
+    "gm": "daughter of noble family",
+    "reason": "part of son or daughter of noble family"
+   },
+   {
+    "id": "6-43",
+    "bo": "ཕུང་པོ",
+    "dm": "mass",
+    "gm": "mass",
+    "reason": "part of mass of merit"
+   },
+   {
+    "id": "6-45",
+    "bo": "ཕུང་པོ",
+    "dm": "mass",
+    "gm": "mass",
+    "reason": "part of mass of merit"
+   },
+   {
+    "id": "6-46",
+    "bo": "རིགས་ཀྱི་བུ",
+    "dm": "son of noble family",
+    "gm": "son of noble family",
+    "reason": "part of son or daughter of noble family"
+   },
+   {
+    "id": "6-46",
+    "bo": "རིགས་ཀྱི་བུ་མོ",
+    "dm": "daughter of noble family",
+    "gm": "daughter of noble family",
+    "reason": "part of son or daughter of noble family"
+   },
+   {
+    "id": "6-46",
+    "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+    "dm": "world systems",
+    "gm": "world system",
+    "reason": "part of trichiliocosm world systems"
+   },
+   {
+    "id": "6-46",
+    "bo": "རིན་པོ་ཆེ",
+    "dm": "precious substances",
+    "gm": "precious substances",
+    "reason": "part of seven types of precious substances"
+   },
+   {
+    "id": "6-46",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": "dharma",
+    "reason": "part of discourse on Dharma"
+   },
+   {
+    "id": "6-46",
+    "bo": "ཚིགས་སུ་བཅད་པ",
+    "dm": "verse",
+    "gm": "verse",
+    "reason": "part of four-line verse"
+   },
+   {
+    "id": "6-46",
+    "bo": "ཕུང་པོ",
+    "dm": "mass",
+    "gm": "mass",
+    "reason": "part of mass of merit"
+   },
+   {
+    "id": "6-49",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "Buddha",
+    "reason": "part of Buddha-qualities"
+   },
+   {
+    "id": "6-49",
+    "bo": "ཆོས",
+    "dm": "qualities",
+    "gm": "dharmas",
+    "reason": "part of Buddha-qualities"
+   },
+   {
+    "id": "6-50",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "Buddha",
+    "reason": "part of Buddha-qualities"
+   },
+   {
+    "id": "6-50",
+    "bo": "ཆོས",
+    "dm": "qualities",
+    "gm": "dharmas",
+    "reason": "part of Buddha-qualities"
+   }
+  ]
+ }
+}

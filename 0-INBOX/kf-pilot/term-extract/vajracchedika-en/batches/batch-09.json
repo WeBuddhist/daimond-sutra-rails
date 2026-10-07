@@ -1,0 +1,184 @@
+[
+ {
+  "id": "9-0",
+  "heading": true,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་སྤྱན་ལྔ་ཁྱད་པར་ཅན་མངའ་བ།",
+  "dm": "The Tathāgata’s Possession of the Five Extraordinary Eyes",
+  "gm": "The Tathāgata Possessing the Five Extraordinary Eyes"
+ },
+ {
+  "id": "9-1",
+  "heading": false,
+  "bo": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། དེ་བཞིན་གཤེགས་པ་ལ་ཤའི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Subhūti, what do you think? Do you think that the Tathāgata possesses the fleshly eye?",
+  "gm": "\"Subhūti, what do you think? Does the Tathāgata possess the physical eye?\""
+ },
+ {
+  "id": "9-2",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ཤའི་སྤྱན་མངའོ། །",
+  "dm": "Subhūti replied, \"It is so, Blessed One. The Tathāgata possesses the fleshly eye.\"",
+  "gm": "Subhūti said, \"Blessed One, it is so; the Tathāgata possesses the physical eye.\""
+ },
+ {
+  "id": "9-3",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?\"",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-4",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata possesses the divine eye?",
+  "gm": "\"Does the Tathāgata possess the divine eye?\""
+ },
+ {
+  "id": "9-5",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་སྤྱན་མངའོ། །",
+  "dm": "Subhūti replied, \"It is so, Blessed One. The Tathāgata possesses the divine eye.\"",
+  "gm": "Subhūti said, \"Blessed One, it is so; the Tathāgata possesses the divine eye.\""
+ },
+ {
+  "id": "9-6",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?\"",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-7",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ཤེས་རབ་ཀྱི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata possesses the eye of wisdom?",
+  "gm": "\"Does the Tathāgata possess the eye of wisdom?\""
+ },
+ {
+  "id": "9-8",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "dm": "Subhūti replied, \"It is so, Blessed One.",
+  "gm": "Subhūti said, \"Blessed One, it is so;\""
+ },
+ {
+  "id": "9-9",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ཤེས་རབ་ཀྱི་སྤྱན་མངའོ། །",
+  "dm": "The Tathāgata possesses the eye of wisdom.\"",
+  "gm": "\"the Tathāgata possesses the eye of wisdom.\""
+ },
+ {
+  "id": "9-10",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-11",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཀྱི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata possesses the Dharma eye?\"",
+  "gm": "\"Does the Tathāgata possess the Dharma eye?\""
+ },
+ {
+  "id": "9-12",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "dm": "Subhūti replied, \"It is so, Blessed One.",
+  "gm": "Subhūti said, \"Blessed One, it is so;\""
+ },
+ {
+  "id": "9-13",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཀྱི་སྤྱན་མངའོ། །",
+  "dm": "The Tathāgata possesses the Dharma eye.\"",
+  "gm": "\"the Tathāgata possesses the Dharma eye.\""
+ },
+ {
+  "id": "9-14",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-15",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་སངས་རྒྱས་ཀྱི་སྤྱན་མངའ་སྙམ་མམ།",
+  "dm": "Do you think that the Tathāgata possesses the Buddha eye?\"",
+  "gm": "\"Does the Tathāgata possess the Buddha eye?\""
+ },
+ {
+  "id": "9-16",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "dm": "Subhūti replied, \"It is so, Blessed One. It is so.",
+  "gm": "Subhūti said, \"Blessed One, it is so;\""
+ },
+ {
+  "id": "9-17",
+  "heading": false,
+  "bo": "དེ་བཞིན་གཤེགས་པ་ལ་སངས་རྒྱས་ཀྱི་སྤྱན་མངའོ། །",
+  "dm": "The Tathāgata possesses the Buddha eye.\"",
+  "gm": "\"the Tathāgata possesses the Buddha eye.\""
+ },
+ {
+  "id": "9-18",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱི་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "dm": "The Blessed One said, \"Subhūti, what do you think?",
+  "gm": "The Blessed One said, \"Subhūti, what do you think?\""
+ },
+ {
+  "id": "9-19",
+  "heading": false,
+  "bo": "གངྒཱའི་ཀླུང་གི་བྱེ་མ་ཇི་སྙེད་པ་གངྒཱའི་ཀླུང་ཡང་དེ་སྙེད་ཁོ་ནར་གྱུར་ལ། དེ་དག་གི་བྱེ་མ་དེ་སྙེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་གྱུར་ན། འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མང་བ་ཡིན་སྙམ་མམ།",
+  "dm": "If there were as many Ganges Rivers as there are grains of sand in the Ganges River, and if there were as many world systems as there are grains of sand in all those rivers, would those world systems be numerous?",
+  "gm": "\"If there were just as many river Gaṅgās as there are grains of sand in the river Gaṅgā, and if there were as many world realms as there are grains of sand in those, do you think those world realms would be many?\""
+ },
+ {
+  "id": "9-20",
+  "heading": false,
+  "bo": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "dm": "Subhūti replied, \"It is so, Blessed One. It is so.",
+  "gm": "Subhūti said, \"Blessed One, it is so;\""
+ },
+ {
+  "id": "9-21",
+  "heading": false,
+  "bo": "འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མང་ལགས་སོ། །",
+  "dm": "Those world systems would be numerous.\"",
+  "gm": "\"those world realms are many.\""
+ },
+ {
+  "id": "9-22",
+  "heading": false,
+  "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་ན་སེམས་ཅན་ཇི་སྙེད་ཡོད་པ་དེ་དག་གི་བསམ་པ་ཐ་དད་པའི་སེམས་ཀྱི་རྒྱུན་ངས་རབ་ཏུ་ཤེས་སོ། །",
+  "dm": "The Blessed One said: Subhūti, I fully know the streams of thought of all the sentient beings that exist in those world systems, with their various and diverse intentions.",
+  "gm": "The Blessed One said, \"Subhūti, I fully know the streams of mind of various dispositions of however many sentient beings there are in those world realms.\""
+ },
+ {
+  "id": "9-23",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཀྱི་རྒྱུན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱ་བ་ནི། དེ་རྒྱུན་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "dm": "Why is that? Subhūti, the so-called \"stream of thought\" is spoken of by the Tathāgata as being without a stream.",
+  "gm": "\"Why is that? Subhūti, as for what is called 'stream of mind, stream of mind', the Tathāgata has taught it to be no stream.\""
+ },
+ {
+  "id": "9-24",
+  "heading": false,
+  "bo": "དེས་ན་སེམས་ཀྱི་རྒྱུན་ཞེས་བྱའོ། །",
+  "dm": "Therefore, it is called a \"stream of thought.\"",
+  "gm": "\"Therefore it is called 'stream of mind'.\""
+ },
+ {
+  "id": "9-25",
+  "heading": false,
+  "bo": "དེ་ཅིའི་ཕྱིར་ཞེ་ན།",
+  "dm": "Why is that?",
+  "gm": "Why is that?"
+ }
+]

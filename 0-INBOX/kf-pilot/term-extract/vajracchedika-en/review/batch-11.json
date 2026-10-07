@@ -1,0 +1,447 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "10-33",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-37",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-43",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-44",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-45",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "compound of two terms connected by 'or'"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+      "reason": "part of trichiliocosm, term on its own",
+      "dm": null,
+      "gm": "world systems"
+     },
+     {
+      "bo": "རིའི་རྒྱལ་པོ",
+      "reason": "epithet for Mount Meru",
+      "dm": "kings of mountains",
+      "gm": "kings of mountains"
+     },
+     {
+      "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+      "reason": "fixed technical phrase",
+      "dm": "heap of merit",
+      "gm": "heap of merit"
+     }
+    ]
+   },
+   {
+    "id": "10-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-47",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-48",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-49",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-50",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས་ཅན་དུ་འཛིན་པ",
+      "reason": "technical doctrinal concept (sattvagrāha)",
+      "dm": "grasping at a sentient being",
+      "gm": "apprehension of a sentient being"
+     },
+     {
+      "bo": "སྲོག་ཏུ་འཛིན་པ",
+      "reason": "technical doctrinal concept (jīvagrāha)",
+      "dm": "grasping at a life-force",
+      "gm": "apprehension of a living soul"
+     },
+     {
+      "bo": "གང་ཟག་ཏུ་འཛིན་པ",
+      "reason": "technical doctrinal concept (pudgalagrāha)",
+      "dm": "grasping at a person",
+      "gm": "apprehension of a person"
+     }
+    ]
+   },
+   {
+    "id": "10-51",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདག་ཏུ་འཛིན",
+      "reason": "key doctrinal concept (ātmagrāha)",
+      "dm": "grasping at a self",
+      "gm": "apprehension of a self"
+     }
+    ]
+   },
+   {
+    "id": "10-52",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-53",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-54",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-55",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཚན",
+      "reason": "component of lakṣaṇasampad and term on its own",
+      "dm": "marks",
+      "gm": "marks"
+     }
+    ]
+   },
+   {
+    "id": "10-56",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-57",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཚན",
+      "reason": "component of lakṣaṇasampad and term on its own",
+      "dm": "marks",
+      "gm": "marks"
+     }
+    ]
+   },
+   {
+    "id": "10-58",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-59",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཚན",
+      "reason": "component of lakṣaṇasampad and term on its own",
+      "dm": "marks",
+      "gm": "marks"
+     }
+    ]
+   },
+   {
+    "id": "10-60",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཚན",
+      "reason": "component of lakṣaṇasampad and term on its own",
+      "dm": "marks",
+      "gm": "marks"
+     }
+    ]
+   },
+   {
+    "id": "10-61",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཚན",
+      "reason": "component of lakṣaṇasampad and term on its own",
+      "dm": "marks",
+      "gm": "marks"
+     }
+    ]
+   },
+   {
+    "id": "10-62",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-63",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཚན",
+      "reason": "component of lakṣaṇasampad and term on its own",
+      "dm": "marks",
+      "gm": "marks"
+     }
+    ]
+   },
+   {
+    "id": "10-64",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཚིགས་སུ་བཅད་པ",
+      "reason": "term for stanza/verse (gāthā)",
+      "dm": "verses",
+      "gm": "verses"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "10-37",
+    "bo": "མི་དམིགས",
+    "reason": "ordinary verb"
+   },
+   {
+    "id": "10-45",
+    "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+    "reason": "compound of two terms connected by 'or'"
+   },
+   {
+    "id": "10-47",
+    "bo": "བཀྲོལ",
+    "reason": "ordinary verb"
+   },
+   {
+    "id": "10-48",
+    "bo": "བཀྲོལ",
+    "reason": "ordinary verb"
+   },
+   {
+    "id": "10-49",
+    "bo": "བཀྲོལ",
+    "reason": "ordinary verb"
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "10-45",
+    "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+    "dm": null,
+    "gm": "world systems",
+    "reason": "part of trichiliocosm, term on its own"
+   },
+   {
+    "id": "10-45",
+    "bo": "རིའི་རྒྱལ་པོ",
+    "dm": "kings of mountains",
+    "gm": "kings of mountains",
+    "reason": "epithet for Mount Meru"
+   },
+   {
+    "id": "10-45",
+    "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "dm": "heap of merit",
+    "gm": "heap of merit",
+    "reason": "fixed technical phrase"
+   },
+   {
+    "id": "10-50",
+    "bo": "སེམས་ཅན་དུ་འཛིན་པ",
+    "dm": "grasping at a sentient being",
+    "gm": "apprehension of a sentient being",
+    "reason": "technical doctrinal concept (sattvagrāha)"
+   },
+   {
+    "id": "10-50",
+    "bo": "སྲོག་ཏུ་འཛིན་པ",
+    "dm": "grasping at a life-force",
+    "gm": "apprehension of a living soul",
+    "reason": "technical doctrinal concept (jīvagrāha)"
+   },
+   {
+    "id": "10-50",
+    "bo": "གང་ཟག་ཏུ་འཛིན་པ",
+    "dm": "grasping at a person",
+    "gm": "apprehension of a person",
+    "reason": "technical doctrinal concept (pudgalagrāha)"
+   },
+   {
+    "id": "10-51",
+    "bo": "བདག་ཏུ་འཛིན",
+    "dm": "grasping at a self",
+    "gm": "apprehension of a self",
+    "reason": "key doctrinal concept (ātmagrāha)"
+   },
+   {
+    "id": "10-55",
+    "bo": "མཚན",
+    "dm": "marks",
+    "gm": "marks",
+    "reason": "component of lakṣaṇasampad and term on its own"
+   },
+   {
+    "id": "10-57",
+    "bo": "མཚན",
+    "dm": "marks",
+    "gm": "marks",
+    "reason": "component of lakṣaṇasampad and term on its own"
+   },
+   {
+    "id": "10-59",
+    "bo": "མཚན",
+    "dm": "marks",
+    "gm": "marks",
+    "reason": "component of lakṣaṇasampad and term on its own"
+   },
+   {
+    "id": "10-60",
+    "bo": "མཚན",
+    "dm": "marks",
+    "gm": "marks",
+    "reason": "component of lakṣaṇasampad and term on its own"
+   },
+   {
+    "id": "10-61",
+    "bo": "མཚན",
+    "dm": "marks",
+    "gm": "marks",
+    "reason": "component of lakṣaṇasampad and term on its own"
+   },
+   {
+    "id": "10-63",
+    "bo": "མཚན",
+    "dm": "marks",
+    "gm": "marks",
+    "reason": "component of lakṣaṇasampad and term on its own"
+   },
+   {
+    "id": "10-64",
+    "bo": "ཚིགས་སུ་བཅད་པ",
+    "dm": "verses",
+    "gm": "verses",
+    "reason": "term for stanza/verse (gāthā)"
+   }
+  ]
+ }
+}

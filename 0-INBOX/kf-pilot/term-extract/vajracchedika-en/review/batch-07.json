@@ -1,0 +1,318 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "8-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-43",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-44",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-45",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-47",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-49",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-50",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-51",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-52",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-53",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-54",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-55",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-56",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-57",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-58",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-59",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-60",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-61",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-62",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-63",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-64",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-65",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལྷ",
+      "reason": "Class of beings (deva), parallel to asuras.",
+      "dm": "gods",
+      "gm": "gods"
+     },
+     {
+      "bo": "མི",
+      "reason": "Class of beings (manuṣya), parallel to asuras.",
+      "dm": "humans",
+      "gm": "humans"
+     }
+    ]
+   },
+   {
+    "id": "8-66",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary verb/stock act of reverence."
+     },
+     {
+      "n": 2,
+      "reason": "Ordinary verb/stock act of reverence."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-67",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-68",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-69",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-70",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary phrase."
+     },
+     {
+      "n": 6,
+      "reason": "Ordinary verb."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-71",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-72",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-73",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-74",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-75",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-76",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-77",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-78",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-79",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "8-66",
+    "bo": "ཕྱག་བྱ་བ",
+    "reason": "Ordinary verb/stock act of reverence."
+   },
+   {
+    "id": "8-66",
+    "bo": "བསྐོར་བ",
+    "reason": "Ordinary verb/stock act of reverence."
+   },
+   {
+    "id": "8-70",
+    "bo": "ཚེ་རབས་སྔ་མ",
+    "reason": "Ordinary phrase."
+   },
+   {
+    "id": "8-70",
+    "bo": "བྱང་བ",
+    "reason": "Ordinary verb."
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "8-65",
+    "bo": "ལྷ",
+    "dm": "gods",
+    "gm": "gods",
+    "reason": "Class of beings (deva), parallel to asuras."
+   },
+   {
+    "id": "8-65",
+    "bo": "མི",
+    "dm": "humans",
+    "gm": "humans",
+    "reason": "Class of beings (manuṣya), parallel to asuras."
+   }
+  ]
+ }
+}

@@ -1,0 +1,419 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "9-0",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སྤྱན་ལྔ་ཁྱད་པར་ཅན",
+     "dm": "Five Extraordinary Eyes",
+     "gm": "Five Extraordinary Eyes"
+    }
+   ]
+  },
+  {
+   "id": "9-1",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཤའི་སྤྱན",
+     "dm": "fleshly eye",
+     "gm": "physical eye"
+    }
+   ]
+  },
+  {
+   "id": "9-2",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཤའི་སྤྱན",
+     "dm": "fleshly eye",
+     "gm": "physical eye"
+    }
+   ]
+  },
+  {
+   "id": "9-3",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "9-4",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ལྷའི་སྤྱན",
+     "dm": "divine eye",
+     "gm": "divine eye"
+    }
+   ]
+  },
+  {
+   "id": "9-5",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ལྷའི་སྤྱན",
+     "dm": "divine eye",
+     "gm": "divine eye"
+    }
+   ]
+  },
+  {
+   "id": "9-6",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "9-7",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་སྤྱན",
+     "dm": "eye of wisdom",
+     "gm": "eye of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "9-8",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "9-9",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་སྤྱན",
+     "dm": "eye of wisdom",
+     "gm": "eye of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "9-10",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "9-11",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་སྤྱན",
+     "dm": "Dharma eye",
+     "gm": "Dharma eye"
+    }
+   ]
+  },
+  {
+   "id": "9-12",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "9-13",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་སྤྱན",
+     "dm": "Dharma eye",
+     "gm": "Dharma eye"
+    }
+   ]
+  },
+  {
+   "id": "9-14",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "9-15",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཀྱི་སྤྱན",
+     "dm": "Buddha eye",
+     "gm": "Buddha eye"
+    }
+   ]
+  },
+  {
+   "id": "9-16",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "9-17",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཀྱི་སྤྱན",
+     "dm": "Buddha eye",
+     "gm": "Buddha eye"
+    }
+   ]
+  },
+  {
+   "id": "9-18",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  },
+  {
+   "id": "9-19",
+   "terms": [
+    {
+     "bo": "གངྒཱའི་ཀླུང",
+     "dm": "Ganges River",
+     "gm": "river Gaṅgā"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world systems",
+     "gm": "world realms"
+    }
+   ]
+  },
+  {
+   "id": "9-20",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    }
+   ]
+  },
+  {
+   "id": "9-21",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world systems",
+     "gm": "world realms"
+    }
+   ]
+  },
+  {
+   "id": "9-22",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+     "dm": "world systems",
+     "gm": "world realms"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སེམས་ཀྱི་རྒྱུན",
+     "dm": "streams of thought",
+     "gm": "streams of mind"
+    }
+   ]
+  },
+  {
+   "id": "9-23",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སེམས་ཀྱི་རྒྱུན",
+     "dm": "stream of thought",
+     "gm": "stream of mind"
+    }
+   ]
+  },
+  {
+   "id": "9-24",
+   "terms": [
+    {
+     "bo": "སེམས་ཀྱི་རྒྱུན",
+     "dm": "stream of thought",
+     "gm": "stream of mind"
+    }
+   ]
+  },
+  {
+   "id": "9-25",
+   "terms": []
+  }
+ ]
+}

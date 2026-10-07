@@ -1,0 +1,866 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "8-40",
+   "terms": [
+    {
+     "bo": "གནས་པ",
+     "dm": "abides",
+     "gm": "abiding"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "non-abiding",
+     "gm": "non-abiding"
+    }
+   ]
+  },
+  {
+   "id": "8-41",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gifts"
+    },
+    {
+     "bo": "མི་གནས་པ",
+     "dm": "without abiding",
+     "gm": "without abiding"
+    }
+   ]
+  },
+  {
+   "id": "8-42",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gifts"
+    },
+    {
+     "bo": "སེམས་ཅན་ཐམས་ཅད",
+     "dm": "all sentient beings",
+     "gm": "all sentient beings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "8-43",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "འདུ་ཤེས་མེད་པ",
+     "dm": "devoid of perception",
+     "gm": "non-perception"
+    }
+   ]
+  },
+  {
+   "id": "8-44",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སེམས་ཅན་ཐམས་ཅད",
+     "dm": "all sentient beings",
+     "gm": "all sentient beings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "8-45",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དེ་བཞིན་ཉིད",
+     "dm": "suchness",
+     "gm": "suchness"
+    }
+   ]
+  },
+  {
+   "id": "8-46",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "8-47",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+     "dm": "perfectly awakened",
+     "gm": "fully awakened"
+    },
+    {
+     "bo": "བདེན་པ",
+     "dm": "truth",
+     "gm": "truth"
+    },
+    {
+     "bo": "རྫུན་པ",
+     "dm": "falsehood",
+     "gm": "falsehood"
+    }
+   ]
+  },
+  {
+   "id": "8-48",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gifts"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "entities",
+     "gm": "objects"
+    }
+   ]
+  },
+  {
+   "id": "8-49",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "དངོས༌པོ",
+     "dm": "entities",
+     "gm": "objects"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "gifts"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "8-50",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+     "dm": "sons or daughters of noble family",
+     "gm": "sons of noble family or daughters of noble family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ",
+     "dm": "sons",
+     "gm": "sons of noble family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ་མོ",
+     "dm": "daughters of noble family",
+     "gm": "daughters of noble family"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "dharma discourse"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "dharma"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "8-51",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "heap of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "8-52",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "གངྒཱའི་ཀླུང",
+     "dm": "Ganges River",
+     "gm": "river Gaṅgā"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    }
+   ]
+  },
+  {
+   "id": "8-53",
+   "terms": [
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "dharma discourse"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "dharma"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "8-54",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "dharma discourse"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-55",
+   "terms": [
+    {
+     "bo": "རྣམ་པར་སྨིན་པ",
+     "dm": "ripening",
+     "gm": "ripening"
+    }
+   ]
+  },
+  {
+   "id": "8-56",
+   "terms": [
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "dharma discourse"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "dharma"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཐེག་པ་མཆོག",
+     "dm": "supreme vehicle",
+     "gm": "supreme vehicle"
+    },
+    {
+     "bo": "ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ",
+     "dm": "unsurpassed vehicle",
+     "gm": "foremost vehicle"
+    },
+    {
+     "bo": "ཐེག་པ",
+     "dm": "vehicle",
+     "gm": "vehicle"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "8-57",
+   "terms": [
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "dharma discourse"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "dharma"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "8-58",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "heap of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "8-59",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "heap of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "8-60",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    }
+   ]
+  },
+  {
+   "id": "8-61",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "discourse on the Dharma",
+     "gm": "dharma discourse"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "dharma"
+    },
+    {
+     "bo": "དམན་པ་ལ་མོས་པ",
+     "dm": "intent upon the inferior",
+     "gm": "inclined toward the inferior"
+    }
+   ]
+  },
+  {
+   "id": "8-62",
+   "terms": [
+    {
+     "bo": "བདག་ཏུ་ལྟ་བ",
+     "dm": "view of a self",
+     "gm": "view of a self"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "སེམས་ཅན་དུ་ལྟ་བ",
+     "dm": "view of a sentient being",
+     "gm": "view of a sentient being"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "སྲོག་ཏུ་ལྟ་བ",
+     "dm": "view of a life-force",
+     "gm": "view of a living being"
+    },
+    {
+     "bo": "སྲོག",
+     "dm": "life-force",
+     "gm": "living being"
+    }
+   ]
+  },
+  {
+   "id": "8-63",
+   "terms": [
+    {
+     "bo": "གང་ཟག་ཏུ་ལྟ་བ",
+     "dm": "view of a person",
+     "gm": "view of a person"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "person",
+     "gm": "person"
+    }
+   ]
+  },
+  {
+   "id": "8-64",
+   "terms": []
+  },
+  {
+   "id": "8-65",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sūtra",
+     "gm": "sūtra"
+    },
+    {
+     "bo": "ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན",
+     "dm": "world, including its gods, humans, and asuras",
+     "gm": "world with its gods, humans, and asuras"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    },
+    {
+     "bo": "ལྷ་མ་ཡིན",
+     "dm": "asuras",
+     "gm": "asuras"
+    }
+   ]
+  },
+  {
+   "id": "8-66",
+   "terms": [
+    {
+     "bo": "ཕྱག་བྱ་བ",
+     "dm": "prostrated to",
+     "gm": "bowed to"
+    },
+    {
+     "bo": "བསྐོར་བ",
+     "dm": "circumambulated",
+     "gm": "circumambulated"
+    }
+   ]
+  },
+  {
+   "id": "8-67",
+   "terms": [
+    {
+     "bo": "མཆོད་རྟེན",
+     "dm": "reliquary",
+     "gm": "stūpa"
+    }
+   ]
+  },
+  {
+   "id": "8-68",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ",
+     "dm": "sons or daughters of noble family",
+     "gm": "sons of noble family or daughters of noble family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ",
+     "dm": "sons",
+     "gm": "sons of noble family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ་མོ",
+     "dm": "daughters of noble family",
+     "gm": "daughters of noble family"
+    },
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sūtra",
+     "gm": "sūtra"
+    }
+   ]
+  },
+  {
+   "id": "8-69",
+   "terms": []
+  },
+  {
+   "id": "8-70",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "མི་དགེ་བའི་ལས",
+     "dm": "non-virtuous actions",
+     "gm": "nonvirtuous actions"
+    },
+    {
+     "bo": "ངན་སོང",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    },
+    {
+     "bo": "ཚེ་རབས་སྔ་མ",
+     "dm": "previous lives",
+     "gm": "past lives"
+    },
+    {
+     "bo": "བྱང་བ",
+     "dm": "purified",
+     "gm": "purified"
+    }
+   ]
+  },
+  {
+   "id": "8-71",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ",
+     "dm": "enlightenment of a Buddha",
+     "gm": "awakening of a buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "buddha"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    }
+   ]
+  },
+  {
+   "id": "8-72",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་པ",
+     "dm": "Arhat",
+     "gm": "Arhat"
+    },
+    {
+     "bo": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+     "dm": "perfectly complete Buddha",
+     "gm": "perfectly and fully awakened Buddha"
+    },
+    {
+     "bo": "མར་མེ་མཛད",
+     "dm": "Dīpaṃkara",
+     "gm": "Dīpaṃkara"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "buddhas"
+    }
+   ]
+  },
+  {
+   "id": "8-73",
+   "terms": []
+  },
+  {
+   "id": "8-74",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "སངས་རྒྱས་བཅོམ་ལྡན་འདས",
+     "dm": "Buddhas, the Blessed Ones",
+     "gm": "buddhas, the Blessed Ones"
+    },
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed Ones",
+     "gm": "Blessed Ones"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "buddhas"
+    },
+    {
+     "bo": "ཕྱི་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+     "dm": "last five hundred years",
+     "gm": "last five hundred years"
+    },
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sūtra",
+     "gm": "sūtra"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "heap of merit"
+    }
+   ]
+  },
+  {
+   "id": "8-75",
+   "terms": []
+  },
+  {
+   "id": "8-76",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+     "dm": "noble sons or noble daughters",
+     "gm": "sons of noble family or daughters of noble family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ",
+     "dm": "noble sons",
+     "gm": "sons of noble family"
+    },
+    {
+     "bo": "རིགས་ཀྱི་བུ་མོ",
+     "dm": "noble daughters",
+     "gm": "daughters of noble family"
+    },
+    {
+     "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+     "dm": "mass of merit",
+     "gm": "heap of merit"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "8-77",
+   "terms": [
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྣམ་གྲངས",
+     "dm": "Dharma discourse",
+     "gm": "dharma discourse"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-78",
+   "terms": [
+    {
+     "bo": "རྣམ་པར་སྨིན་པ",
+     "dm": "ripening",
+     "gm": "ripening"
+    }
+   ]
+  },
+  {
+   "id": "8-79",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "ཚེ་དང་ལྡན་པ",
+     "dm": "venerable",
+     "gm": "venerable"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    }
+   ]
+  }
+ ]
+}

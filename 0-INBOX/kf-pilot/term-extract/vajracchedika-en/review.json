@@ -1,0 +1,1231 @@
+{
+ "drop": [
+  {
+   "id": "1-7",
+   "bo": "ལན་གསུམ་བསྐོར་བ",
+   "reason": "Includes a plain number ('three times') and is part of a stock narrative formula."
+  },
+  {
+   "id": "6-6",
+   "bo": "བརྫུན",
+   "reason": "Ordinary noun (falsehood)."
+  },
+  {
+   "id": "6-7",
+   "bo": "བརྫུན",
+   "reason": "Ordinary noun (falsehood)."
+  },
+  {
+   "id": "6-13",
+   "bo": "བསྙེན་བཀུར་བྱ",
+   "reason": "Ordinary verb phrase (render service)."
+  },
+  {
+   "id": "6-15",
+   "bo": "བསྙེན་བཀུར་བྱ",
+   "reason": "Ordinary verb phrase (render service)."
+  },
+  {
+   "id": "6-16",
+   "bo": "སེམས་དད་པ",
+   "reason": "Not a standard technical compound; separates into 'mind' and 'faith'."
+  },
+  {
+   "id": "7-43",
+   "bo": "ལུས",
+   "reason": "An ordinary noun in this context, not used as a technical term (e.g. kāya / dharmakāya)."
+  },
+  {
+   "id": "7-44",
+   "bo": "ལུས",
+   "reason": "An ordinary noun in this context."
+  },
+  {
+   "id": "7-45",
+   "bo": "ལུས",
+   "reason": "An ordinary noun in this context."
+  },
+  {
+   "id": "7-47",
+   "bo": "ལུས",
+   "reason": "An ordinary noun in this context."
+  },
+  {
+   "id": "7-48",
+   "bo": "ལུས",
+   "reason": "An ordinary noun in this context."
+  },
+  {
+   "id": "8-66",
+   "bo": "ཕྱག་བྱ་བ",
+   "reason": "Ordinary verb/stock act of reverence."
+  },
+  {
+   "id": "8-66",
+   "bo": "བསྐོར་བ",
+   "reason": "Ordinary verb/stock act of reverence."
+  },
+  {
+   "id": "8-70",
+   "bo": "ཚེ་རབས་སྔ་མ",
+   "reason": "Ordinary phrase."
+  },
+  {
+   "id": "8-70",
+   "bo": "བྱང་བ",
+   "reason": "Ordinary verb."
+  },
+  {
+   "id": "8-96",
+   "bo": "ལུང་མི་སྟོན་པ",
+   "reason": "Includes negative particle, ordinary verb form here"
+  },
+  {
+   "id": "8-107",
+   "bo": "མིའི་ལུས",
+   "reason": "Ordinary phrase in an analogy"
+  },
+  {
+   "id": "8-107",
+   "bo": "ལུས་ཆེན་པོ",
+   "reason": "Ordinary phrase in an analogy"
+  },
+  {
+   "id": "8-108",
+   "bo": "མིའི་ལུས",
+   "reason": "Ordinary phrase in an analogy"
+  },
+  {
+   "id": "8-108",
+   "bo": "ལུས་ཆེན་པོ",
+   "reason": "Ordinary phrase in an analogy"
+  },
+  {
+   "id": "8-108",
+   "bo": "ལུས",
+   "reason": "Ordinary noun in this context"
+  },
+  {
+   "id": "8-109",
+   "bo": "ལུས་ཆེན་པོ",
+   "reason": "Ordinary phrase"
+  },
+  {
+   "id": "8-109",
+   "bo": "ལུས",
+   "reason": "Ordinary noun in this context"
+  },
+  {
+   "id": "10-5",
+   "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+   "reason": "Includes a conjunction particle ('འམ'); should be split into two separate fixed terms."
+  },
+  {
+   "id": "10-9",
+   "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+   "reason": "Includes a conjunction particle ('འམ'); should be split into two separate fixed terms."
+  },
+  {
+   "id": "10-27",
+   "bo": "དམིགས་པར་འགྱུར",
+   "reason": "Ordinary verb form with a future-tense auxiliary, not a base glossary term."
+  },
+  {
+   "id": "10-37",
+   "bo": "མི་དམིགས",
+   "reason": "ordinary verb"
+  },
+  {
+   "id": "10-45",
+   "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+   "reason": "compound of two terms connected by 'or'"
+  },
+  {
+   "id": "10-47",
+   "bo": "བཀྲོལ",
+   "reason": "ordinary verb"
+  },
+  {
+   "id": "10-48",
+   "bo": "བཀྲོལ",
+   "reason": "ordinary verb"
+  },
+  {
+   "id": "10-49",
+   "bo": "བཀྲོལ",
+   "reason": "ordinary verb"
+  },
+  {
+   "id": "11-10",
+   "bo": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+   "reason": "Includes conjunction particle 'am (or). Should be two separate terms."
+  },
+  {
+   "id": "12-25",
+   "bo": "ཡང་དག་པར་རབ་ཏུ་སྟོན",
+   "reason": "Ordinary verb phrase (perfectly teach / correctly explain)."
+  },
+  {
+   "id": "12-26",
+   "bo": "ཡང་དག་པར་རབ་ཏུ་སྟོན་པ",
+   "reason": "Ordinary verb phrase (perfectly teaching / correctly explaining)."
+  }
+ ],
+ "fix_span": [
+  {
+   "id": "8-4",
+   "bo": "མཚན་མ",
+   "bo_fixed": "མཚན"
+  },
+  {
+   "id": "9-0",
+   "bo": "སྤྱན་ལྔ་ཁྱད་པར་ཅན",
+   "bo_fixed": "སྤྱན་ལྔ"
+  }
+ ],
+ "add": [
+  {
+   "id": "1-7",
+   "bo": "བསྐོར་བ",
+   "dm": "circumambulated",
+   "gm": "circumambulated",
+   "reason": "Technical Buddhist act of devotion (pradakṣiṇā)."
+  },
+  {
+   "id": "4-1",
+   "bo": "ཕུང་པོ་ལྷག་མ་མེད་པ",
+   "dm": "leaves no remainder of the aggregates",
+   "gm": "without remainder of aggregates",
+   "reason": "Key technical concept (nirupadhiśeṣa) nested within a larger phrase."
+  },
+  {
+   "id": "4-1",
+   "bo": "མྱ་ངན་ལས་འདས་པའི་དབྱིངས",
+   "dm": "realm of nirvāṇa",
+   "gm": "realm of nirvāṇa",
+   "reason": "Core technical term (nirvāṇadhātu) nested within a larger phrase."
+  },
+  {
+   "id": "6-16",
+   "bo": "དད་པ",
+   "dm": "faith",
+   "gm": "faith",
+   "reason": "Buddhist technical term (śraddhā)."
+  },
+  {
+   "id": "6-38",
+   "bo": "འཕགས་པ",
+   "dm": "noble",
+   "gm": "noble",
+   "reason": "part of noble individual"
+  },
+  {
+   "id": "6-38",
+   "bo": "གང་ཟག",
+   "dm": "individuals",
+   "gm": "beings",
+   "reason": "part of noble individual"
+  },
+  {
+   "id": "6-40",
+   "bo": "རིགས་ཀྱི་བུ",
+   "dm": "son of noble family",
+   "gm": "son of noble family",
+   "reason": "part of son or daughter of noble family"
+  },
+  {
+   "id": "6-40",
+   "bo": "རིགས་ཀྱི་བུ་མོ",
+   "dm": "daughter of noble family",
+   "gm": "daughter of noble family",
+   "reason": "part of son or daughter of noble family"
+  },
+  {
+   "id": "6-40",
+   "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+   "dm": "world system",
+   "gm": "world system",
+   "reason": "part of trichiliocosm world system"
+  },
+  {
+   "id": "6-40",
+   "bo": "རིན་པོ་ཆེ",
+   "dm": "precious substances",
+   "gm": "precious substances",
+   "reason": "part of seven kinds of precious substances"
+  },
+  {
+   "id": "6-40",
+   "bo": "ཕུང་པོ",
+   "dm": null,
+   "gm": "mass",
+   "reason": "part of mass of merit"
+  },
+  {
+   "id": "6-43",
+   "bo": "རིགས་ཀྱི་བུ",
+   "dm": "son of noble family",
+   "gm": "son of noble family",
+   "reason": "part of son or daughter of noble family"
+  },
+  {
+   "id": "6-43",
+   "bo": "རིགས་ཀྱི་བུ་མོ",
+   "dm": "daughter of noble family",
+   "gm": "daughter of noble family",
+   "reason": "part of son or daughter of noble family"
+  },
+  {
+   "id": "6-43",
+   "bo": "ཕུང་པོ",
+   "dm": "mass",
+   "gm": "mass",
+   "reason": "part of mass of merit"
+  },
+  {
+   "id": "6-45",
+   "bo": "ཕུང་པོ",
+   "dm": "mass",
+   "gm": "mass",
+   "reason": "part of mass of merit"
+  },
+  {
+   "id": "6-46",
+   "bo": "རིགས་ཀྱི་བུ",
+   "dm": "son of noble family",
+   "gm": "son of noble family",
+   "reason": "part of son or daughter of noble family"
+  },
+  {
+   "id": "6-46",
+   "bo": "རིགས་ཀྱི་བུ་མོ",
+   "dm": "daughter of noble family",
+   "gm": "daughter of noble family",
+   "reason": "part of son or daughter of noble family"
+  },
+  {
+   "id": "6-46",
+   "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+   "dm": "world systems",
+   "gm": "world system",
+   "reason": "part of trichiliocosm world systems"
+  },
+  {
+   "id": "6-46",
+   "bo": "རིན་པོ་ཆེ",
+   "dm": "precious substances",
+   "gm": "precious substances",
+   "reason": "part of seven types of precious substances"
+  },
+  {
+   "id": "6-46",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": "dharma",
+   "reason": "part of discourse on Dharma"
+  },
+  {
+   "id": "6-46",
+   "bo": "ཚིགས་སུ་བཅད་པ",
+   "dm": "verse",
+   "gm": "verse",
+   "reason": "part of four-line verse"
+  },
+  {
+   "id": "6-46",
+   "bo": "ཕུང་པོ",
+   "dm": "mass",
+   "gm": "mass",
+   "reason": "part of mass of merit"
+  },
+  {
+   "id": "6-49",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "Buddha",
+   "reason": "part of Buddha-qualities"
+  },
+  {
+   "id": "6-49",
+   "bo": "ཆོས",
+   "dm": "qualities",
+   "gm": "dharmas",
+   "reason": "part of Buddha-qualities"
+  },
+  {
+   "id": "6-50",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "Buddha",
+   "reason": "part of Buddha-qualities"
+  },
+  {
+   "id": "6-50",
+   "bo": "ཆོས",
+   "dm": "qualities",
+   "gm": "dharmas",
+   "reason": "part of Buddha-qualities"
+  },
+  {
+   "id": "7-2",
+   "bo": "འབྲས་བུ",
+   "dm": "fruit",
+   "gm": "fruit",
+   "reason": "Technical term (fruit/phala), part of compound."
+  },
+  {
+   "id": "7-8",
+   "bo": "འབྲས་བུ",
+   "dm": "fruit",
+   "gm": "fruit",
+   "reason": "Technical term (fruit/phala), part of compound."
+  },
+  {
+   "id": "7-8",
+   "bo": "འཛིན་པ",
+   "dm": "grasping",
+   "gm": "grasping",
+   "reason": "Technical term (grasping/grāha), part of compound."
+  },
+  {
+   "id": "7-9",
+   "bo": "འཛིན་པ",
+   "dm": "grasping",
+   "gm": "grasping",
+   "reason": "Technical term (grasping/grāha), part of compound."
+  },
+  {
+   "id": "7-11",
+   "bo": "འབྲས་བུ",
+   "dm": "fruit",
+   "gm": "fruit",
+   "reason": "Technical term (fruit/phala), part of compound."
+  },
+  {
+   "id": "7-13",
+   "bo": "ལན་ཅིག་ཕྱིར་འོང་བ་ཉིད",
+   "dm": "state of being a once-returner",
+   "gm": "state of a Once-Returner",
+   "reason": "Technical term (state of a once-returner)."
+  },
+  {
+   "id": "7-15",
+   "bo": "འབྲས་བུ",
+   "dm": "fruit",
+   "gm": "fruit",
+   "reason": "Technical term (fruit/phala), part of compound."
+  },
+  {
+   "id": "7-15",
+   "bo": "འཛིན་པ",
+   "dm": "grasping",
+   "gm": "grasping",
+   "reason": "Technical term (grasping/grāha), part of compound."
+  },
+  {
+   "id": "7-16",
+   "bo": "འཛིན་པ",
+   "dm": "grasping",
+   "gm": "grasping",
+   "reason": "Technical term (grasping/grāha), part of compound."
+  },
+  {
+   "id": "7-18",
+   "bo": "འབྲས་བུ",
+   "dm": "fruit",
+   "gm": "fruit",
+   "reason": "Technical term (fruit/phala), part of compound."
+  },
+  {
+   "id": "7-20",
+   "bo": "ཕྱིར་མི་འོང་བ་ཉིད",
+   "dm": "state of a non-returner",
+   "gm": "state of a Non-Returner",
+   "reason": "Technical term (state of a non-returner)."
+  },
+  {
+   "id": "7-26",
+   "bo": "འཛིན་པ",
+   "dm": "grasping",
+   "gm": "grasping",
+   "reason": "Technical term (grasping/grāha), part of compound."
+  },
+  {
+   "id": "7-27",
+   "bo": "འཛིན་པ",
+   "dm": "grasping",
+   "gm": "grasping",
+   "reason": "Technical term (grasping/grāha), part of compound."
+  },
+  {
+   "id": "7-28",
+   "bo": "མཆོག",
+   "dm": "foremost",
+   "gm": "foremost",
+   "reason": "Technical adjective/noun (foremost/agra)."
+  },
+  {
+   "id": "7-29",
+   "bo": "འདོད་ཆགས་དང་བྲལ་བ",
+   "dm": "free from desire",
+   "gm": "free from desire",
+   "reason": "Technical epithet (vītarāga / free from desire)."
+  },
+  {
+   "id": "7-30",
+   "bo": "མཆོག",
+   "dm": "foremost",
+   "gm": "foremost",
+   "reason": "Technical adjective/noun (foremost/agra)."
+  },
+  {
+   "id": "7-36",
+   "bo": "ཞིང",
+   "dm": "buddha-fields",
+   "gm": "fields",
+   "reason": "Technical term (field/kṣetra), part of compound."
+  },
+  {
+   "id": "7-37",
+   "bo": "ཞིང",
+   "dm": "buddha-fields",
+   "gm": "fields",
+   "reason": "Technical term (field/kṣetra), part of compound."
+  },
+  {
+   "id": "7-37",
+   "bo": "བཀོད་པ",
+   "dm": "adornment",
+   "gm": "array",
+   "reason": "Technical term (adornment/vyūha), part of compound."
+  },
+  {
+   "id": "7-38",
+   "bo": "ཞིང",
+   "dm": "buddha-fields",
+   "gm": "fields",
+   "reason": "Technical term (field/kṣetra), part of compound."
+  },
+  {
+   "id": "7-39",
+   "bo": "སེམས་དཔའ་ཆེན་པོ",
+   "dm": "mahāsattva",
+   "gm": "great being",
+   "reason": "Technical term (mahāsattva), part of compound."
+  },
+  {
+   "id": "7-39",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Technical term (mind/citta), part of compound."
+  },
+  {
+   "id": "7-40",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Technical term (mind/citta), part of compound."
+  },
+  {
+   "id": "7-61",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Independent occurrence within a larger technical compound."
+  },
+  {
+   "id": "8-5",
+   "bo": "མཚན",
+   "dm": "marks",
+   "gm": "marks",
+   "reason": "component of a listed compound term"
+  },
+  {
+   "id": "8-65",
+   "bo": "ལྷ",
+   "dm": "gods",
+   "gm": "gods",
+   "reason": "Class of beings (deva), parallel to asuras."
+  },
+  {
+   "id": "8-65",
+   "bo": "མི",
+   "dm": "humans",
+   "gm": "humans",
+   "reason": "Class of beings (manuṣya), parallel to asuras."
+  },
+  {
+   "id": "8-80",
+   "bo": "ཐེག་པ",
+   "dm": "vehicle",
+   "gm": "vehicle",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-82",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "minds",
+   "reason": "Technical term (citta)"
+  },
+  {
+   "id": "8-83",
+   "bo": "ཚེ་དང་ལྡན་པ",
+   "dm": "venerable",
+   "gm": "venerable",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-84",
+   "bo": "ཐེག་པ",
+   "dm": "vehicle",
+   "gm": "vehicle",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-84",
+   "bo": "དབྱིངས",
+   "dm": "realm",
+   "gm": "realm",
+   "reason": "Technical term (dhātu)"
+  },
+  {
+   "id": "8-88",
+   "bo": "ཐེག་པ",
+   "dm": "vehicle",
+   "gm": "vehicle",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-90",
+   "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+   "dm": "perfectly complete enlightenment",
+   "gm": "perfectly complete awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-90",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-91",
+   "bo": "ཚེ་དང༌ལྡན་པ",
+   "dm": "venerable",
+   "gm": "venerable",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-92",
+   "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+   "dm": "perfectly complete enlightenment",
+   "gm": "perfectly complete awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-92",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-93",
+   "bo": "ཚེ་དང་ལྡན་པ",
+   "dm": "venerable",
+   "gm": "venerable",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-95",
+   "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+   "dm": "perfectly complete enlightenment",
+   "gm": "perfectly complete awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-95",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-96",
+   "bo": "བྲམ་ཟེ",
+   "dm": "Brahmin",
+   "gm": "Brahmin",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-97",
+   "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+   "dm": "perfectly complete enlightenment",
+   "gm": "perfectly complete awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-97",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-98",
+   "bo": "བྲམ་ཟེ",
+   "dm": "Brahmin",
+   "gm": "Brahmin",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-100",
+   "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+   "dm": "perfectly complete enlightenment",
+   "gm": "perfectly complete awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-100",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-102",
+   "bo": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+   "dm": "perfectly complete enlightenment",
+   "gm": "perfectly complete awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-102",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-108",
+   "bo": "ཚེ་དང་ལྡན་པ",
+   "dm": "venerable",
+   "gm": "Venerable",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-115",
+   "bo": "ཞིང",
+   "dm": "buddhafields",
+   "gm": "fields",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-115",
+   "bo": "བཀོད་པ",
+   "dm": "arrays",
+   "gm": "arrays",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-116",
+   "bo": "ཞིང",
+   "dm": "buddhafields",
+   "gm": "fields",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-116",
+   "bo": "བཀོད་པ",
+   "dm": "arrays",
+   "gm": "arrays",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-117",
+   "bo": "ཞིང",
+   "dm": "buddhafields",
+   "gm": "fields",
+   "reason": "Nested term"
+  },
+  {
+   "id": "8-117",
+   "bo": "བཀོད་པ",
+   "dm": "arrays",
+   "gm": "arrays",
+   "reason": "Nested term"
+  },
+  {
+   "id": "9-0",
+   "bo": "སྤྱན",
+   "dm": "Eyes",
+   "gm": "Eyes",
+   "reason": "Sub-term of Five Eyes"
+  },
+  {
+   "id": "9-1",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of fleshly eye"
+  },
+  {
+   "id": "9-2",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of fleshly eye"
+  },
+  {
+   "id": "9-4",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of divine eye"
+  },
+  {
+   "id": "9-5",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of divine eye"
+  },
+  {
+   "id": "9-7",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Sub-term of eye of wisdom"
+  },
+  {
+   "id": "9-7",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of eye of wisdom"
+  },
+  {
+   "id": "9-9",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Sub-term of eye of wisdom"
+  },
+  {
+   "id": "9-9",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of eye of wisdom"
+  },
+  {
+   "id": "9-11",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": "Dharma",
+   "reason": "Sub-term of Dharma eye"
+  },
+  {
+   "id": "9-11",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of Dharma eye"
+  },
+  {
+   "id": "9-13",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": "Dharma",
+   "reason": "Sub-term of Dharma eye"
+  },
+  {
+   "id": "9-13",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of Dharma eye"
+  },
+  {
+   "id": "9-15",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "Buddha",
+   "reason": "Sub-term of Buddha eye"
+  },
+  {
+   "id": "9-15",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of Buddha eye"
+  },
+  {
+   "id": "9-17",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "Buddha",
+   "reason": "Sub-term of Buddha eye"
+  },
+  {
+   "id": "9-17",
+   "bo": "སྤྱན",
+   "dm": "eye",
+   "gm": "eye",
+   "reason": "Sub-term of Buddha eye"
+  },
+  {
+   "id": "9-19",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Sub-term of world systems"
+  },
+  {
+   "id": "9-21",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Sub-term of world systems"
+  },
+  {
+   "id": "9-22",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Sub-term of world systems"
+  },
+  {
+   "id": "9-22",
+   "bo": "སེམས",
+   "dm": "thought",
+   "gm": "mind",
+   "reason": "Sub-term of stream of thought/mind"
+  },
+  {
+   "id": "9-22",
+   "bo": "རྒྱུན",
+   "dm": "streams",
+   "gm": "streams",
+   "reason": "Sub-term of stream of thought/mind"
+  },
+  {
+   "id": "9-23",
+   "bo": "སེམས",
+   "dm": "thought",
+   "gm": "mind",
+   "reason": "Sub-term of stream of thought/mind"
+  },
+  {
+   "id": "9-23",
+   "bo": "རྒྱུན",
+   "dm": "stream",
+   "gm": "stream",
+   "reason": "Sub-term of stream of thought/mind"
+  },
+  {
+   "id": "9-24",
+   "bo": "སེམས",
+   "dm": "thought",
+   "gm": "mind",
+   "reason": "Sub-term of stream of thought/mind"
+  },
+  {
+   "id": "9-24",
+   "bo": "རྒྱུན",
+   "dm": "stream",
+   "gm": "stream",
+   "reason": "Sub-term of stream of thought/mind"
+  },
+  {
+   "id": "10-5",
+   "bo": "རིགས་ཀྱི་བུ",
+   "dm": "son",
+   "gm": "son of noble family",
+   "reason": "Technical category (son of noble family)"
+  },
+  {
+   "id": "10-5",
+   "bo": "རིགས་ཀྱི་བུ་མོ",
+   "dm": "daughter of good family",
+   "gm": "daughter of noble family",
+   "reason": "Technical category (daughter of noble family)"
+  },
+  {
+   "id": "10-9",
+   "bo": "རིགས་ཀྱི་བུ",
+   "dm": "son",
+   "gm": "son of noble family",
+   "reason": "Technical category (son of noble family)"
+  },
+  {
+   "id": "10-9",
+   "bo": "རིགས་ཀྱི་བུ་མོ",
+   "dm": "daughter of good family",
+   "gm": "daughter of noble family",
+   "reason": "Technical category (daughter of noble family)"
+  },
+  {
+   "id": "10-45",
+   "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+   "dm": null,
+   "gm": "world systems",
+   "reason": "part of trichiliocosm, term on its own"
+  },
+  {
+   "id": "10-45",
+   "bo": "རིའི་རྒྱལ་པོ",
+   "dm": "kings of mountains",
+   "gm": "kings of mountains",
+   "reason": "epithet for Mount Meru"
+  },
+  {
+   "id": "10-45",
+   "bo": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+   "dm": "heap of merit",
+   "gm": "heap of merit",
+   "reason": "fixed technical phrase"
+  },
+  {
+   "id": "10-50",
+   "bo": "སེམས་ཅན་དུ་འཛིན་པ",
+   "dm": "grasping at a sentient being",
+   "gm": "apprehension of a sentient being",
+   "reason": "technical doctrinal concept (sattvagrāha)"
+  },
+  {
+   "id": "10-50",
+   "bo": "སྲོག་ཏུ་འཛིན་པ",
+   "dm": "grasping at a life-force",
+   "gm": "apprehension of a living soul",
+   "reason": "technical doctrinal concept (jīvagrāha)"
+  },
+  {
+   "id": "10-50",
+   "bo": "གང་ཟག་ཏུ་འཛིན་པ",
+   "dm": "grasping at a person",
+   "gm": "apprehension of a person",
+   "reason": "technical doctrinal concept (pudgalagrāha)"
+  },
+  {
+   "id": "10-51",
+   "bo": "བདག་ཏུ་འཛིན",
+   "dm": "grasping at a self",
+   "gm": "apprehension of a self",
+   "reason": "key doctrinal concept (ātmagrāha)"
+  },
+  {
+   "id": "10-55",
+   "bo": "མཚན",
+   "dm": "marks",
+   "gm": "marks",
+   "reason": "component of lakṣaṇasampad and term on its own"
+  },
+  {
+   "id": "10-57",
+   "bo": "མཚན",
+   "dm": "marks",
+   "gm": "marks",
+   "reason": "component of lakṣaṇasampad and term on its own"
+  },
+  {
+   "id": "10-59",
+   "bo": "མཚན",
+   "dm": "marks",
+   "gm": "marks",
+   "reason": "component of lakṣaṇasampad and term on its own"
+  },
+  {
+   "id": "10-60",
+   "bo": "མཚན",
+   "dm": "marks",
+   "gm": "marks",
+   "reason": "component of lakṣaṇasampad and term on its own"
+  },
+  {
+   "id": "10-61",
+   "bo": "མཚན",
+   "dm": "marks",
+   "gm": "marks",
+   "reason": "component of lakṣaṇasampad and term on its own"
+  },
+  {
+   "id": "10-63",
+   "bo": "མཚན",
+   "dm": "marks",
+   "gm": "marks",
+   "reason": "component of lakṣaṇasampad and term on its own"
+  },
+  {
+   "id": "10-64",
+   "bo": "ཚིགས་སུ་བཅད་པ",
+   "dm": "verses",
+   "gm": "verses",
+   "reason": "term for stanza/verse (gāthā)"
+  },
+  {
+   "id": "11-8",
+   "bo": "རྣམ་པར་བཤིག་པ",
+   "dm": "destroyed",
+   "gm": "destroyed",
+   "reason": "vināśa (destruction), a philosophical extreme often paired with annihilation (uccheda)"
+  },
+  {
+   "id": "11-9",
+   "bo": "རྣམ་པར་བཤིག་པ",
+   "dm": "destroyed",
+   "gm": "destroyed",
+   "reason": "vināśa (destruction), a philosophical extreme often paired with annihilation (uccheda)"
+  },
+  {
+   "id": "11-10",
+   "bo": "རིགས་ཀྱི་བུ",
+   "dm": "son",
+   "gm": "son of good family",
+   "reason": "kulaputra (son of noble family), standard technical designation"
+  },
+  {
+   "id": "11-10",
+   "bo": "རིགས་ཀྱི་བུ་མོ",
+   "dm": "daughter of noble family",
+   "gm": "daughter of good family",
+   "reason": "kuladuhitṛ (daughter of noble family), standard technical designation"
+  },
+  {
+   "id": "11-10",
+   "bo": "སྦྱིན་པ",
+   "dm": "gift",
+   "gm": "gift",
+   "reason": "dāna (generosity/gift), a central Buddhist concept and practice"
+  },
+  {
+   "id": "11-10",
+   "bo": "གྲངས་མེད",
+   "dm": "incalculable",
+   "gm": "incalculable",
+   "reason": "asaṃkhyeya (incalculable), a technical numerical measure"
+  },
+  {
+   "id": "11-10",
+   "bo": "དཔག་ཏུ་མེད་པ",
+   "dm": "immeasurable",
+   "gm": "immeasurable",
+   "reason": "aprameya (immeasurable), a technical numerical measure"
+  },
+  {
+   "id": "12-1",
+   "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+   "dm": "world-system",
+   "gm": "world system",
+   "reason": "Component of a longer fixed term that is also a term itself."
+  },
+  {
+   "id": "12-7",
+   "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+   "dm": "world system",
+   "gm": "world system",
+   "reason": "Component of a longer fixed term that is also a term itself."
+  },
+  {
+   "id": "12-8",
+   "bo": "འཇིག་རྟེན་གྱི་ཁམས",
+   "dm": "world system",
+   "gm": "world system",
+   "reason": "Component of a longer fixed term that is also a term itself."
+  },
+  {
+   "id": "12-10",
+   "bo": "འཛིན་པ",
+   "dm": "grasping",
+   "gm": "grasping",
+   "reason": "Technical term (grasping), also part of the compound present here."
+  },
+  {
+   "id": "12-14",
+   "bo": "ལྟ་བ",
+   "dm": "view",
+   "gm": "view",
+   "reason": "Technical term (view), component of a longer fixed term."
+  },
+  {
+   "id": "12-15",
+   "bo": "ལྟ་བ",
+   "dm": "view",
+   "gm": "view",
+   "reason": "Technical term (view), component of a longer fixed term."
+  },
+  {
+   "id": "12-18",
+   "bo": "ལྟ་བ",
+   "dm": "view",
+   "gm": "view",
+   "reason": "Technical term (view), component of a longer fixed term."
+  },
+  {
+   "id": "12-19",
+   "bo": "ལྟ་བ",
+   "dm": "view",
+   "gm": "view",
+   "reason": "Technical term (view), component of a longer fixed term."
+  },
+  {
+   "id": "12-20",
+   "bo": "ཐེག་པ",
+   "dm": "path",
+   "gm": "vehicle",
+   "reason": "Technical term (vehicle/path), component of a longer fixed term."
+  },
+  {
+   "id": "12-24",
+   "bo": "སེམས་དཔའ་ཆེན་པོ",
+   "dm": "mahāsattva",
+   "gm": "great being",
+   "reason": "Technical title (mahāsattva), component of a longer fixed term."
+  },
+  {
+   "id": "12-24",
+   "bo": "སྦྱིན་པ",
+   "dm": "gift",
+   "gm": "gift",
+   "reason": "Technical term (giving/gift)."
+  },
+  {
+   "id": "12-24",
+   "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Technical term (perfection)."
+  },
+  {
+   "id": "13-1",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Technical term (world)."
+  },
+  {
+   "id": "13-3",
+   "bo": "འཕགས་པ",
+   "dm": "Noble",
+   "gm": "noble",
+   "reason": "Title epithet."
+  },
+  {
+   "id": "13-3",
+   "bo": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+   "dm": "Perfection",
+   "gm": "pāramitā",
+   "reason": "Technical term."
+  },
+  {
+   "id": "13-5",
+   "bo": "སྙིང་པོ",
+   "dm": "essence",
+   "gm": "essence",
+   "reason": "Technical term (essence)."
+  }
+ ]
+}
