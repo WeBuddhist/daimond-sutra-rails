@@ -29,12 +29,12 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 | Zero-shot baseline | existed (Gemini, Traditional) | done — Gemini/hi, 63 calls |
 | Termbase | done; overrides: 相 mark / 相狀 sign; 想 kept for saṃjñā | done; overrides: धर्म for both senses of ཆོས (academic) + compounds |
 | Academic translation | FINAL — all segments pass (a1 429/432 → 60 regenerated → 7-28, 10-52 reverted; 7-30 passes at attempt 3) | FINAL — all segments pass (a1 426/432 → 41 regenerated → a2 40/41; 5-6 reverted to attempt 1) |
-| Children's | 300/446 when the session ended (`translate/zh-children-run.log`); resumable | not started |
+| Children's | translation done 446/446 — fact-check not yet run | not started |
 
 ### Resume here (next session)
 1. ~~Hindi re-check a2~~ — done (keep-best rule: a re-check failure where attempt 1 passed → append the attempt-1 row with
    `call_id: revert`; failed both times → one more retry with `--attempt 3`, re-check, then `review-flags.md`).
-2. **Chinese children's**: rerun the same command to finish (it skips done segments):
+2. **Chinese children's**: translation is complete; if anything is missing, rerun (it skips done segments):
    `zsh -ic 'cd <vault> && python3 0-INBOX/kf-pilot/translate/gm_variant_translate.py --variant children --lang zh --from-track academic --workers 6'`
    then fact-check with `prep.py --variant children --lang zh` + prompt `factcheck-children-lang.md` (lang_name "Chinese (Traditional characters)").
 3. **Hindi children's**: write `3-TRANSFORMATIONS/Translations/hi-children/requirements.md` + `audience.md` (in Hindi, mirror zh-children),
