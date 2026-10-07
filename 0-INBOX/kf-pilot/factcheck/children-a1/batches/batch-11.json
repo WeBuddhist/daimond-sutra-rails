@@ -1,0 +1,708 @@
+[
+ {
+  "id": "12-2",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དེ་ལྟར་ལགས་ཏེ།",
+  "academic_translation": "Subhūti replied, \"Blessed One, it is so.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Subhuti answered, \"Blessed One, it is so.\""
+ },
+ {
+  "id": "12-3",
+  "tibetan": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་དེ་མང་བ་ལགས་སོ། །",
+  "academic_translation": "That collection of subtle particles would be numerous.",
+  "locked_terms": [
+   {
+    "tibetan": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+    "use": "bunch of tiny specks"
+   }
+  ],
+  "translation": "That bunch of tiny specks would be very large."
+ },
+ {
+  "id": "12-4",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཤིག་མཆིས་པར་གྱུར་ན། བཅོམ་ལྡན་འདས་ཀྱིས་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་བཀའ་མི་སྩོལ་བའི་སླད་དུའོ། །",
+  "academic_translation": "Why is that? Because, Blessed One, if a collection of subtle particles existed, the Blessed One would not have spoken of a 'collection of subtle particles'.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+    "use": "bunch of tiny specks"
+   }
+  ],
+  "translation": "Why is that? Because, Blessed One, if a bunch of tiny specks really existed, the Blessed One would not have talked about a 'bunch of tiny specks'."
+ },
+ {
+  "id": "12-5",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་གང་གསུངས་པ་དེ་ཚོགས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པའི་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Why is that? It is because what the Blessed One has spoken of as a 'collection of subtle particles', the Tathāgata has spoken of as no collection.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+    "use": "bunch of tiny specks"
+   }
+  ],
+  "translation": "Why is that? Because what the Blessed One called a 'bunch of tiny specks', the Thus-Gone One said is not a bunch."
+ },
+ {
+  "id": "12-6",
+  "tibetan": "དེས་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, it is called a 'collection of subtle particles.'",
+  "locked_terms": [
+   {
+    "tibetan": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+    "use": "bunch of tiny specks"
+   }
+  ],
+  "translation": "That is why it is called a 'bunch of tiny specks'."
+ },
+ {
+  "id": "12-7",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་གང་གསུངས་པ་དེ་ཁམས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
+  "academic_translation": "What the Tathāgata has spoken of as a 'three-thousandfold great thousandfold world system,' the Tathāgata has spoken of as not being a system;",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "universe of a billion worlds"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   }
+  ],
+  "translation": "What the Thus-Gone One called a 'universe of a billion worlds', the Thus-Gone One said is not a world realm."
+ },
+ {
+  "id": "12-8",
+  "tibetan": "དེས་ན་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, it is called a 'three-thousandfold great thousandfold world system.'",
+  "locked_terms": [
+   {
+    "tibetan": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "universe of a billion worlds"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   }
+  ],
+  "translation": "That is why that world realm is called a 'universe of a billion worlds'."
+ },
+ {
+  "id": "12-9",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་འཇིག་རྟེན་གྱི་ཁམས་ཤིག་མཆིས་པར་གྱུར་ན། དེ་ཉིད་རིལ་པོར་འཛིན་པར་འགྱུར་བའི་སླད་དུའོ། །",
+  "academic_translation": "Why is that? Blessed One, because if a world system existed, that itself would be grasping at a totality.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   },
+   {
+    "tibetan": "རིལ་པོར་འཛིན་པ",
+    "use": "clinging to a lump"
+   }
+  ],
+  "translation": "Why is that? Blessed One, because if a world realm existed, that would be clinging to a lump."
+ },
+ {
+  "id": "12-10",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་རིལ་པོར་འཛིན་པར་གསུངས་པ་དེ་འཛིན་པ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Because what the Tathāgata has spoken of as grasping at a totality, the Tathāgata has spoken of as no grasping,",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "རིལ་པོར་འཛིན་པ",
+    "use": "clinging to a lump"
+   },
+   {
+    "tibetan": "འཛིན་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "Because what the Thus-Gone One called clinging to a lump, the Thus-Gone One said is no clinging."
+ },
+ {
+  "id": "12-11",
+  "tibetan": "དེས་ན་རིལ་པོར་འཛིན་པ་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, it is called \"grasping at a totality.\"",
+  "locked_terms": [
+   {
+    "tibetan": "རིལ་པོར་འཛིན་པ",
+    "use": "clinging to a lump"
+   }
+  ],
+  "translation": "That is why it is called \"clinging to a lump.\""
+ },
+ {
+  "id": "12-12",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་རིལ་པོར་འཛིན་པ་ཉིད་ནི་ཐ་སྙད་དེ།",
+  "academic_translation": "The Blessed One said: Subhūti, grasping at a totality is itself a conventional designation;",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "རིལ་པོར་འཛིན་པ",
+    "use": "clinging to a lump"
+   },
+   {
+    "tibetan": "ཐ་སྙད",
+    "use": "everyday name"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, clinging to a lump is just an everyday name."
+ },
+ {
+  "id": "12-13",
+  "tibetan": "ཆོས་དེ་ནི་བརྗོད་དུ་མེད་པ་ཡིན་ན། དེ་ཡང་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཀྱིས་གཟུང་ངོ་། །",
+  "academic_translation": "that phenomenon is inexpressible, yet it is grasped by childish ordinary beings.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "བརྗོད་དུ་མེད་པ",
+    "use": "cannot be put into words"
+   },
+   {
+    "tibetan": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+    "use": "naive ordinary being"
+   }
+  ],
+  "translation": "That thing cannot be put into words, but naive ordinary beings grasp at it.\""
+ },
+ {
+  "id": "12-14",
+  "tibetan": "རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གསུངས།",
+  "academic_translation": "Subhūti, if someone were to say: The Tathāgata has spoken of a view of a self,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བདག་ཏུ་ལྟ་བ",
+    "use": "view of a self"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "ལྟ་བ",
+    "use": "view"
+   }
+  ],
+  "translation": "\"Subhuti, if someone said, 'The Thus-Gone One spoke of a view of a self,'\""
+ },
+ {
+  "id": "12-15",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་དུ་ལྟ་བ་དང༌། སྲོག་ཏུ་ལྟ་བ་དང༌། གང་ཟག་ཏུ་ལྟ་བར་གསུངས་སོ། །ཞེས་ཟེར་ན་དེ་ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ཡིན་ནམ།",
+  "academic_translation": "If someone were to say, \"The Tathāgata has spoken of the view of a sentient being, the view of a life-force, and the view of a person,\" would they be speaking correctly?",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "སེམས་ཅན་དུ་ལྟ་བ",
+    "use": "view of a living being"
+   },
+   {
+    "tibetan": "སྲོག་ཏུ་ལྟ་བ",
+    "use": "view of a life"
+   },
+   {
+    "tibetan": "གང་ཟག་ཏུ་ལྟ་བ",
+    "use": "view of a person"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "ལྟ་བ",
+    "use": "view"
+   }
+  ],
+  "translation": "\"If someone said, 'The Thus-Gone One spoke of the view of a living being, the view of a life, and the view of a person,' would they be right?\""
+ },
+ {
+  "id": "12-16",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied, Blessed One, it is not so.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, it is not so.\""
+ },
+ {
+  "id": "12-17",
+  "tibetan": "བདེ་བར་གཤེགས་པ་དེ་ནི་མ་ལགས་སོ། །",
+  "academic_translation": "Sugata, it is not so.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་བར་གཤེགས་པ",
+    "use": "Well-Gone One"
+   }
+  ],
+  "translation": "\"Well-Gone One, it is not so.\""
+ },
+ {
+  "id": "12-18",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་ལྟ་བར་གང་གསུངས་པ་དེ་ནི་ལྟ་བ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Why is that? Because, Blessed One, what the Tathāgata has spoken of as the view of a self, the Tathāgata has spoken of as no view.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བདག་ཏུ་ལྟ་བ",
+    "use": "view of a self"
+   },
+   {
+    "tibetan": "ལྟ་བ",
+    "use": "view"
+   }
+  ],
+  "translation": "\"Why is that? Because, Blessed One, what the Thus-Gone One spoke of as the view of a self, the Thus-Gone One spoke of as no view.\""
+ },
+ {
+  "id": "12-19",
+  "tibetan": "དེས་ན་བདག་ཏུ་ལྟ་བ་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, it is called the view of a self.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག་ཏུ་ལྟ་བ",
+    "use": "view of a self"
+   },
+   {
+    "tibetan": "ལྟ་བ",
+    "use": "view"
+   }
+  ],
+  "translation": "\"That is why it is called the view of a self.\""
+ },
+ {
+  "id": "12-20",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་ལྟར་ཆོས་ཐམས་ཅད་ཤེས་པར་བྱ། བལྟ་བར་བྱ། མོས་པར་བྱ་སྟེ།",
+  "academic_translation": "The Blessed One said, Subhūti, in this regard, one who has correctly entered the bodhisattva vehicle should know, see, and resolve upon all phenomena in this way:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+    "use": "awakening hero's vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཆོས་ཐམས་ཅད",
+    "use": "all things"
+   },
+   {
+    "tibetan": "ཐེག་པ",
+    "use": "vehicle"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, anyone who has truly entered the awakening hero's vehicle should know, see, and understand all things in this way:\""
+ },
+ {
+  "id": "12-21",
+  "tibetan": "ཅི་ནས་ཆོས་སུ་འདུ་ཤེས་པ་ལ་མི་གནས་པར་ཤེས་པར་བྱའོ། །",
+  "academic_translation": "They should be known in such a way that one does not abide in the perception of a phenomenon.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས་སུ་འདུ་ཤེས",
+    "use": "idea of a thing"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "They should be known without holding onto the idea of a thing."
+ },
+ {
+  "id": "12-22",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཆོས་སུ་འདུ་ཤེས་ཆོས་སུ་འདུ་ཤེས་ཞེས་བྱ་བ་ནི། དེ་འདུ་ཤེས་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "academic_translation": "Why is that? Subhūti, as for what is called 'perception of a phenomenon, perception of a phenomenon,' the Tathāgata has spoken of it as no perception.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཆོས་སུ་འདུ་ཤེས",
+    "use": "idea of a thing"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "Why is that? Subhuti, as for what is called 'idea of a thing, idea of a thing,' the Thus-Gone One has said it is no idea."
+ },
+ {
+  "id": "12-23",
+  "tibetan": "དེས་ན་ཆོས་སུ་འདུ་ཤེས་ཆོས་སུ་འདུ་ཤེས་ཞེས་བྱའོ། །",
+  "academic_translation": "Therefore it is called 'perception of a phenomenon, perception of a phenomenon'.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས་སུ་འདུ་ཤེས",
+    "use": "idea of a thing"
+   }
+  ],
+  "translation": "That is why it is called 'idea of a thing, idea of a thing'."
+ },
+ {
+  "id": "12-24",
+  "tibetan": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་དཔག་ཏུ་མེད་ཅིང་གྲངས་མེད་པ་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བྲིས་ནས་འཛིན་ཏམ། འཆང་ངམ། ཀློག་གམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན་དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "academic_translation": "Furthermore, Subhūti, compared to a bodhisattva great being who fills immeasurable and incalculable world systems with the seven precious substances and gives them as a gift, if a son of noble family or daughter of noble family writes down, takes up, bears, reads, masters, or extensively and perfectly teaches to others even just a four-line verse from this perfection of wisdom, they will produce much more merit, incalculable and immeasurable, on that basis.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+    "use": "great awakening hero"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   },
+   {
+    "tibetan": "རིན་པོ་ཆེ་སྣ་བདུན",
+    "use": "seven precious things"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ",
+    "use": "son of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+    "use": "four-line verse"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "སེམས་དཔའ་ཆེན་པོ",
+    "use": "great hero"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "gift"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfection"
+   }
+  ],
+  "translation": "Furthermore, Subhuti, think of a great awakening hero who fills countless world realms with the seven precious things and gives them all away as a gift. Now think of a son of a good family or a daughter of a good family. They might write down, learn, keep, read, understand, or fully teach others even just a four-line verse from this perfection, perfect wisdom. This person will create much more stored-up goodness. It will be too great to count or measure."
+ },
+ {
+  "id": "12-25",
+  "tibetan": "ཇི་ལྟར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཅེ་ན། ཇི་ལྟར་ཡང་དག་པར་རབ་ཏུ་མི་སྟོན་པ་དེ་བཞིན་དུ་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་སྟེ།",
+  "academic_translation": "How does one perfectly teach it? Just as one does not perfectly teach it, in that way one perfectly teaches it.",
+  "locked_terms": [],
+  "translation": "How do you perfectly teach it? Just as you do not perfectly teach it, that is how you perfectly teach it."
+ },
+ {
+  "id": "12-26",
+  "tibetan": "དེས་ན་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་ཞེས་བྱའོ། །",
+  "academic_translation": "Therefore it is called perfectly teaching.",
+  "locked_terms": [],
+  "translation": "That is why it is called perfectly teaching."
+ },
+ {
+  "id": "12-27",
+  "tibetan": "སྐར་མ་རབ་རིབ་མར་མེ་དང༌། །སྒྱུ་མ་ཟིལ་བ་ཆུ་བུར་དང༌། །རྨི་ལམ་གློག་དང་སྤྲིན་ལྟ་བུ། །འདུས་བྱས་ཐམས་ཅད་དེ་ལྟར་ལྟ། །",
+  "academic_translation": "Like a star, a visual aberration, a lamp, an illusion, a dewdrop, a bubble, a dream, lightning, and a cloud—thus should one view all conditioned phenomena.",
+  "locked_terms": [
+   {
+    "tibetan": "སྐར་མ",
+    "use": "star"
+   },
+   {
+    "tibetan": "རབ་རིབ",
+    "use": "blurred sight"
+   },
+   {
+    "tibetan": "མར་མེ",
+    "use": "lamp"
+   },
+   {
+    "tibetan": "སྒྱུ་མ",
+    "use": "illusion"
+   },
+   {
+    "tibetan": "ཟིལ་བ",
+    "use": "dewdrop"
+   },
+   {
+    "tibetan": "ཆུ་བུར",
+    "use": "bubble"
+   },
+   {
+    "tibetan": "རྨི་ལམ",
+    "use": "dream"
+   },
+   {
+    "tibetan": "གློག",
+    "use": "lightning"
+   },
+   {
+    "tibetan": "སྤྲིན",
+    "use": "cloud"
+   },
+   {
+    "tibetan": "འདུས་བྱས་ཐམས་ཅད",
+    "use": "everything that is put together"
+   }
+  ],
+  "translation": "See everything that is put together like this: like a star, blurred sight, a lamp, an illusion, a dewdrop, a bubble, a dream, lightning, and a cloud."
+ },
+ {
+  "id": "13-1",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། གནས་བརྟན་རབ་འབྱོར་དང༌། དགེ་སློང་དེ་དག་དང༌། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང༌། འཁོར་བཞི་པོ་དགེ་སློང་དང༌། དགེ་སློང་མ་དང༌། དགེ་བསྙེན་དང༌། དགེ་བསྙེན་མ་དང༌། ལྷ་དང༌། མི་དང་ལྷ་མ་ཡིན་དང༌། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ།",
+  "academic_translation": "After the Blessed One had spoken thus, the elder Subhūti, those monks, those bodhisattvas, and the fourfold assembly of monks, nuns, laymen, and laywomen, along with the world with its gods, humans, demigods, and gandharvas, rejoiced,",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "གནས་བརྟན་རབ་འབྱོར",
+    "use": "elder Subhuti"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དགེ་སློང",
+    "use": "monk"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "འཁོར་བཞི་པོ",
+    "use": "four groups of followers"
+   },
+   {
+    "tibetan": "དགེ་སློང་མ",
+    "use": "nun"
+   },
+   {
+    "tibetan": "དགེ་བསྙེན",
+    "use": "lay follower"
+   },
+   {
+    "tibetan": "དགེ་བསྙེན་མ",
+    "use": "laywoman"
+   },
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   },
+   {
+    "tibetan": "མི",
+    "use": "human"
+   },
+   {
+    "tibetan": "ལྷ་མ་ཡིན",
+    "use": "jealous god"
+   },
+   {
+    "tibetan": "དྲི་ཟ",
+    "use": "scent-eater"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "After the Blessed One said this, everyone rejoiced. The elder Subhuti, the monks, and the awakening heroes were full of joy. The four groups of followers—the monks, nuns, lay followers, and laywomen—were very happy. The whole world rejoiced, along with its gods, humans, jealous gods, and scent-eaters."
+ },
+ {
+  "id": "13-2",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།",
+  "academic_translation": "and highly praised what the Blessed One had spoken.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "They greatly praised what the Blessed One had said."
+ },
+ {
+  "id": "13-3",
+  "tibetan": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།",
+  "academic_translation": "The noble Mahāyāna sūtra entitled the Diamond Cutter perfection of wisdom is complete.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ",
+    "use": "Perfect Wisdom that Cuts Like a Diamond"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "རྡོ་རྗེ་གཅོད་པ",
+    "use": "Diamond Cutter"
+   },
+   {
+    "tibetan": "ཐེག་པ་ཆེན་པོ",
+    "use": "Great Vehicle"
+   },
+   {
+    "tibetan": "མདོ",
+    "use": "sacred text"
+   },
+   {
+    "tibetan": "འཕགས་པ",
+    "use": "noble"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfection"
+   }
+  ],
+  "translation": "The noble Great Vehicle sacred text called Perfect Wisdom that Cuts Like a Diamond is complete. This is the Diamond Cutter perfection of perfect wisdom."
+ },
+ {
+  "id": "13-4",
+  "tibetan": "ན་མོ་བྷ་ག་ཝ་ཏེ། པྲཛྙཱ་པ་ར་མི་ཏ་ཡེ། ཨོཾ་ན་ཏ་ད་ཏི་ཏ། ཨི་ལི་ཤི །ཨི་ལི་ཤི །མི་ལི་ཤི །མི་ལི་ཤི །བྷི་ན་ཡན་བྷི་ན་ཡན། ན་མོ་བྷ་ག་ཝ་ཏེ། པྲད་ཏྱཾ་པྲ་ཏེ། ཨི་རི་ཏི། ཨི་རི་ཏི། མི་ར་ཏི། མི་རི་ཏི། ཤུ་རི་ཏི། ཤུ་རི་ཏི། ཨུ་ཤུ་རི་ཨུ་ཤུ་རི། བྷུ་ཡུ་ཡེ་བྷུ་ཡུ་ཡེ་སྭཱཧཱ།",
+  "academic_translation": "namo bhagavate prajñāpāramitāye oṃ natadatita iliśi iliśi miliśi miliśi bhinayan bhinayan namo bhagavate pratyaṃprate iriti iriti mirati miriti śuriti śuriti uśuri uśuri bhuyuye bhuyuye svāhā",
+  "locked_terms": [
+   {
+    "tibetan": "ན་མོ་བྷ་ག་ཝ་ཏེ། པྲཛྙཱ་པ་ར་མི་ཏ་ཡེ། ཨོཾ་ན་ཏ་ད་ཏི་ཏ། ཨི་ལི་ཤི །ཨི་ལི་ཤི །མི་ལི་ཤི །མི་ལི་ཤི །བྷི་ན་ཡན་བྷི་ན་ཡན། ན་མོ་བྷ་ག་ཝ་ཏེ། པྲད་ཏྱཾ་པྲ་ཏེ། ཨི་རི་ཏི། ཨི་རི་ཏི། མི་ར་ཏི། མི་རི་ཏི། ཤུ་རི་ཏི། ཤུ་རི་ཏི། ཨུ་ཤུ་རི་ཨུ་ཤུ་རི། བྷུ་ཡུ་ཡེ་བྷུ་ཡུ་ཡེ་སྭཱཧཱ",
+    "use": "a sacred chant"
+   }
+  ],
+  "translation": "A sacred chant."
+ },
+ {
+  "id": "13-5",
+  "tibetan": "རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ་འདི་ལན་གཅིག་བཟླས་པས་རྡོ་རྗེ་གཅོད་པ་ཁྲི་དགུ་སྟོང་བཀླགས་པ་དང་མཉམ་པར་འགྱུར་རོ། །",
+  "academic_translation": "By reciting this essence of the Diamond Cutter once, it becomes equal to reading the Diamond Cutter ninety million times.",
+  "locked_terms": [
+   {
+    "tibetan": "རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ",
+    "use": "heart of the Diamond Cutter"
+   },
+   {
+    "tibetan": "རྡོ་རྗེ་གཅོད་པ",
+    "use": "Diamond Cutter"
+   },
+   {
+    "tibetan": "སྙིང་པོ",
+    "use": "core"
+   }
+  ],
+  "translation": "Saying this core, the heart of the Diamond Cutter, just once is the same as reading the Diamond Cutter ninety million times."
+ },
+ {
+  "id": "13-6",
+  "tibetan": "ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ།། །།",
+  "academic_translation": "ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā",
+  "locked_terms": [
+   {
+    "tibetan": "ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ",
+    "use": "a sacred chant"
+   }
+  ],
+  "translation": "A sacred chant."
+ }
+]

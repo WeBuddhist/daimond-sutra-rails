@@ -1,0 +1,941 @@
+[
+ {
+  "id": "10-43",
+  "tibetan": "རབ་འབྱོར་དགེ་བའི་ཆོས་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་ཆོས་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
+  "academic_translation": "Subhūti, as for what are called 'virtuous phenomena', the Tathāgata has taught them to be exactly non-phenomena;",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དགེ་བའི་ཆོས",
+    "use": "good thing"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "Subhuti, the Thus-Gone One has taught that what are called 'good things' are exactly not things."
+ },
+ {
+  "id": "10-44",
+  "tibetan": "དེས་ན་དགེ་བའི་ཆོས་རྣམས་ཞེས་བྱའོ། །",
+  "academic_translation": "Therefore, they are called 'virtuous phenomena'.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བའི་ཆོས",
+    "use": "good thing"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "Therefore, they are called 'good things'."
+ },
+ {
+  "id": "10-45",
+  "tibetan": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་རིའི་རྒྱལ་པོ་རི་རབ་དག་ཇི་སྙེད་ཡོད་པ་དེ་ཙམ་གྱི་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་ཕུང་པོ་མངོན་པར་བསྡུས་ཏེ། སྦྱིན་པ་བྱིན་པ་བས་གང་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་བཟུང་ནས་གཞན་དག་ལ་ཡང་བསྟན་ན། རབ་འབྱོར་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ་དེས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ་བ་ནས་རྒྱུའི་བར་དུ་ཡང་མི་བཟོད་དོ། །",
+  "academic_translation": "Furthermore, Subhūti, suppose any son of noble family or daughter of noble family brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, and gave them as a gift; and suppose someone took up even just a single four-line verse from this perfection of wisdom and taught it to others. Subhūti, that former mass of merit does not come near even a hundredth part of the latter, up to not bearing comparison even as a cause.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ",
+    "use": "son of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "universe of a billion worlds"
+   },
+   {
+    "tibetan": "རི་རབ",
+    "use": "Mount Sumeru"
+   },
+   {
+    "tibetan": "རིན་པོ་ཆེ་སྣ་བདུན",
+    "use": "seven precious things"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+    "use": "four-line verse"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   },
+   {
+    "tibetan": "རིའི་རྒྱལ་པོ",
+    "use": "king of mountains"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   }
+  ],
+  "translation": "Subhuti, think of every world realm in the universe of a billion worlds. Think of every Mount Sumeru, the king of mountains, in those worlds. Suppose a son of a good family or a daughter of a good family gathered the seven precious things. Suppose they made a pile as big as all those mountains and gave it all away as a gift. Now suppose someone else learned just one four-line verse from this perfect wisdom. Suppose they taught it to others. Subhuti, that first pile of stored-up goodness does not come close to this new stored-up goodness. It is not even a hundredth part of it. It cannot even be compared."
+ },
+ {
+  "id": "10-46",
+  "tibetan": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Subhuti, what do you think?"
+ },
+ {
+  "id": "10-47",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་འདི་སྙམ་དུ་ངས་སེམས་ཅན་རྣམས་བཀྲོལ་ལོ་ཞེས་དགོངས་སོ་སྙམ་ན། རབ་འབྱོར་དེ་ལྟར་མི་བལྟའོ། །",
+  "academic_translation": "If you think that the Tathāgata thinks, 'I have liberated sentient beings,' Subhūti, it should not be viewed like that.",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "If you think the Thus-Gone One thinks, 'I have freed living beings,' Subhuti, you should not see it like that."
+ },
+ {
+  "id": "10-48",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་གང་བཀྲོལ་བའི་སེམས་ཅན་དེ་དག་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+  "academic_translation": "Why is that? Because, Subhūti, there are no sentient beings whatsoever who have been liberated by the Tathāgata.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "Why is that? Because, Subhuti, there are no living beings at all who have been freed by the Thus-Gone One."
+ },
+ {
+  "id": "10-49",
+  "tibetan": "རབ་འབྱོར་གལ་ཏེ་དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་གང་ལ་ལ་ཞིག་བཀྲོལ་བར་གྱུར་ན། དེ་ཉིད་དེ་བཞིན་གཤེགས་པས་བདག་ཏུ་འཛིན་པར་འགྱུར།",
+  "academic_translation": "Subhūti, if the Tathāgata were to liberate any sentient being whatsoever, that itself would be grasping at a self by the Tathāgata.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "བདག་ཏུ་འཛིན་པ",
+    "use": "clinging to a self"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   }
+  ],
+  "translation": "Subhuti, if the Thus-Gone One freed any living being at all, that would mean the Thus-Gone One was clinging to a self."
+ },
+ {
+  "id": "10-50",
+  "tibetan": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་རོ། །",
+  "academic_translation": "it would be grasping at a sentient being, grasping at a life-force, and grasping at a person.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "སེམས་ཅན་དུ་འཛིན་པ",
+    "use": "clinging to a living being"
+   },
+   {
+    "tibetan": "སྲོག་ཏུ་འཛིན་པ",
+    "use": "clinging to a life"
+   },
+   {
+    "tibetan": "གང་ཟག་ཏུ་འཛིན་པ",
+    "use": "clinging to a person"
+   }
+  ],
+  "translation": "It would be clinging to a living being, clinging to a life, and clinging to a person."
+ },
+ {
+  "id": "10-51",
+  "tibetan": "རབ་འབྱོར་བདག་ཏུ་འཛིན་ཅེས་བྱ་བ་ནི། འཛིན་པ་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་ན། དེ་ཡང་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཀྱི་བཟུང་ངོ་། །",
+  "academic_translation": "Subhūti, as for what is called grasping at a self, the Tathāgata has spoken of it as non-grasping; yet it is grasped by childish ordinary beings.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+    "use": "naive ordinary being"
+   },
+   {
+    "tibetan": "བདག་ཏུ་འཛིན",
+    "use": "clinging to a self"
+   }
+  ],
+  "translation": "Subhuti, the Thus-Gone One said that what is called clinging to a self is not clinging. Yet naive ordinary beings still cling to it."
+ },
+ {
+  "id": "10-52",
+  "tibetan": "རབ་འབྱོར་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཞེས་བྱ་བ་ནི། དེ་དག་སྐྱེ་བོ་མེད་པ་ཉིད་དུ་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
+  "academic_translation": "Subhūti, as for what are called childish ordinary beings, the Tathāgata has spoken of them as exactly non-beings;",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+    "use": "naive ordinary being"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "Subhuti, the Thus-Gone One said that what are called naive ordinary beings are not beings."
+ },
+ {
+  "id": "10-53",
+  "tibetan": "དེས་ན་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ཞེས་བྱའོ། །",
+  "academic_translation": "therefore they are called childish ordinary beings.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+    "use": "naive ordinary being"
+   }
+  ],
+  "translation": "That is why they are called naive ordinary beings."
+ },
+ {
+  "id": "10-54",
+  "tibetan": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Subhuti, what do you think?"
+ },
+ {
+  "id": "10-55",
+  "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་བྱ་སྙམ་མམ།",
+  "academic_translation": "Do you think that the Tathāgata is to be seen by the perfection of marks?",
+  "locked_terms": [
+   {
+    "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+    "use": "perfect marks"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མཚན",
+    "use": "mark"
+   }
+  ],
+  "translation": "Do you think the Thus-Gone One is to be seen by perfect marks?"
+ },
+ {
+  "id": "10-56",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied, Blessed One, it is not so.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, it is not so.\""
+ },
+ {
+  "id": "10-57",
+  "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+  "academic_translation": "The Tathāgata is not to be seen by the perfection of marks.",
+  "locked_terms": [
+   {
+    "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+    "use": "perfect marks"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མཚན",
+    "use": "mark"
+   }
+  ],
+  "translation": "\"You cannot see the Thus-Gone One by perfect marks.\""
+ },
+ {
+  "id": "10-58",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "academic_translation": "The Blessed One said, Subhūti, it is so. It is just so.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, it is so. It is just so.\""
+ },
+ {
+  "id": "10-59",
+  "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བྱ་སྟེ།",
+  "academic_translation": "The Tathāgata is not to be seen by the perfection of marks;",
+  "locked_terms": [
+   {
+    "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+    "use": "perfect marks"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མཚན",
+    "use": "mark"
+   }
+  ],
+  "translation": "\"You cannot see the Thus-Gone One by perfect marks.\""
+ },
+ {
+  "id": "10-60",
+  "tibetan": "རབ་འབྱོར་གལ་ཏེ་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་འགྱུར་ན། འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་ཡང་དེ་བཞིན་གཤེགས་པར་འགྱུར་ཏེ།",
+  "academic_translation": "Subhūti, if the Tathāgata were to be seen by the perfection of marks, a wheel-turning monarch would also be a Tathāgata.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+    "use": "perfect marks"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ",
+    "use": "wheel-turning king"
+   },
+   {
+    "tibetan": "མཚན",
+    "use": "mark"
+   }
+  ],
+  "translation": "\"Subhuti, if you could see the Thus-Gone One by perfect marks, a wheel-turning king would also be a Thus-Gone One.\""
+ },
+ {
+  "id": "10-61",
+  "tibetan": "དེ་བས་ན་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བྱའོ། །",
+  "academic_translation": "Therefore, the Tathāgata is not to be seen by the perfection of marks.",
+  "locked_terms": [
+   {
+    "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+    "use": "perfect marks"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མཚན",
+    "use": "mark"
+   }
+  ],
+  "translation": "\"Therefore, you cannot see the Thus-Gone One by perfect marks.\""
+ },
+ {
+  "id": "10-62",
+  "tibetan": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "academic_translation": "Then the venerable Subhūti spoke thus to the Blessed One:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Then honored Subhuti said to the Blessed One:"
+ },
+ {
+  "id": "10-63",
+  "tibetan": "བཅོམ་ལྡན་འདས་བདག་གིས་ཇི་ལྟར་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པའི་དོན་འཚལ་བ་ལྟར་ན། མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བགྱི་ལགས་སོ། །",
+  "academic_translation": "\"Blessed One, as I understand the meaning of what the Blessed One has spoken, the Tathāgata is not to be seen by the perfection of marks.\"",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+    "use": "perfect marks"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མཚན",
+    "use": "mark"
+   }
+  ],
+  "translation": "\"Blessed One, as I understand what the Blessed One has said, the Thus-Gone One cannot be seen by perfect marks.\""
+ },
+ {
+  "id": "10-64",
+  "tibetan": "དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །",
+  "academic_translation": "Then, at that time, the Blessed One spoke these verses:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཚིགས་སུ་བཅད་པ",
+    "use": "verse"
+   }
+  ],
+  "translation": "Then the Blessed One spoke these verses:"
+ },
+ {
+  "id": "11-1",
+  "tibetan": "གང་དག་ང་ལ་གཟུགས་སུ་མཐོང༌། །གང་དག་ང་ལ་སྒྲར་ཤེས་པ། །ལོག་པའི་ལམ་དུ་ཞུགས་པ་སྟེ། །",
+  "academic_translation": "Those who see me as form, those who know me as sound, have entered upon a wrong path;",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "shape"
+   },
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   },
+   {
+    "tibetan": "ལོག་པའི་ལམ",
+    "use": "wrong path"
+   }
+  ],
+  "translation": "Those who see me as shape and those who know me as sound have taken a wrong path."
+ },
+ {
+  "id": "11-2",
+  "tibetan": "སྐྱེ་བོ་དེ་དག་ང་མི་མཐོང༌། །",
+  "academic_translation": "Those people do not see me.",
+  "locked_terms": [],
+  "translation": "Those people do not see me."
+ },
+ {
+  "id": "11-3",
+  "tibetan": "སངས་རྒྱས་རྣམས་ནི་ཆོས་ཉིད་ལྟ། །",
+  "academic_translation": "The Buddhas are to be seen as the nature of phenomena.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཆོས་ཉིད",
+    "use": "true nature of things"
+   }
+  ],
+  "translation": "The Buddhas should be seen as the true nature of things."
+ },
+ {
+  "id": "11-4",
+  "tibetan": "འདྲེན་པ་རྣམས་ནི་ཆོས་ཀྱི་སྐུ། །ཆོས་ཉིད་ཤེས་པར་བྱ་མིན་པས། །དེ་ནི་རྣམ་པར་ཤེས་མི་ནུས། །",
+  "academic_translation": "The guides are the Dharmakāya. Since the nature of phenomena is not an object to be known, it cannot be cognized.",
+  "locked_terms": [
+   {
+    "tibetan": "འདྲེན་པ",
+    "use": "guide"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་སྐུ",
+    "use": "body of the teaching"
+   },
+   {
+    "tibetan": "ཆོས་ཉིད",
+    "use": "true nature of things"
+   }
+  ],
+  "translation": "The guides are the body of the teaching. Since the true nature of things is not an object you can know, it cannot be known."
+ },
+ {
+  "id": "11-5",
+  "tibetan": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Subhuti, what do you think?"
+ },
+ {
+  "id": "11-6",
+  "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་ཁྱོད་ཀྱིས་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ།",
+  "academic_translation": "If you think that the Tathāgata, the arhat, has fully awakened to perfectly complete awakening by means of the perfection of marks, Subhūti, you should not view it like that.",
+  "locked_terms": [
+   {
+    "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+    "use": "perfect marks"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "complete awakening"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས",
+    "use": "fully awake"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "If you think the Thus-Gone One, the worthy one, became fully awake to complete awakening through his perfect marks, Subhuti, you should not see it like that."
+ },
+ {
+  "id": "11-7",
+  "tibetan": "རབ་འབྱོར་མཚན་ཕུན་སུམ་ཚོགས་པས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་མེད་དོ། །",
+  "academic_translation": "Subhūti, the Tathāgata, the arhat, has not fully awakened to perfectly complete awakening by means of the perfection of marks.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "མཚན་ཕུན་སུམ་ཚོགས་པ",
+    "use": "perfect marks"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "complete awakening"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས",
+    "use": "fully awake"
+   }
+  ],
+  "translation": "Subhuti, the Thus-Gone One, the worthy one, did not become fully awake to complete awakening through his perfect marks."
+ },
+ {
+  "id": "11-8",
+  "tibetan": "རབ་འབྱོར་ཁྱོད་འདི་སྙམ་དུ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ལ་ལ་ཞིག་རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པའོ་སྙམ་དུ་འཛིན་ན། རབ་འབྱོར་དེ་དེ་ལྟར་བལྟ་བར་མི་བྱ་སྟེ།",
+  "academic_translation": "Subhūti, if you think that those who have correctly entered the bodhisattva vehicle have destroyed some phenomenon or designated it as an annihilation, Subhūti, you should not view it like that.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+    "use": "awakening hero's vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཆད་པ",
+    "use": "cutting off"
+   },
+   {
+    "tibetan": "རྣམ་པར་བཤིག་པ",
+    "use": "destroyed"
+   }
+  ],
+  "translation": "Subhuti, if you think that those who have truly entered the awakening hero's vehicle have destroyed some thing or called it a cutting off, Subhuti, you should not see it like that."
+ },
+ {
+  "id": "11-9",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས། ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ། །",
+  "academic_translation": "Those who have correctly entered the bodhisattva vehicle do not designate any phenomenon as destroyed or as an annihilation.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+    "use": "awakening hero's vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཆད་པ",
+    "use": "cutting off"
+   },
+   {
+    "tibetan": "རྣམ་པར་བཤིག་པ",
+    "use": "destroyed"
+   }
+  ],
+  "translation": "Those who correctly enter the awakening hero's vehicle do not call any thing destroyed or a cutting off."
+ },
+ {
+  "id": "11-10",
+  "tibetan": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་འཇིག་རྟེན་གྱི་ཁམས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། བྱང་ཆུབ་སེམས་དཔའ་གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བདག་མེད་ཅིང་སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆོས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "academic_translation": "Moreover, Subhūti, compared to a son of noble family or daughter of noble family who fills world systems as numerous as the sand grains of the Gaṅgā river with the seven precious substances and gives them as a gift, if a bodhisattva attains patience in this Dharma discourse being without self and unborn, he generates from that basis a mass of merit vastly greater, incalculable, and immeasurable.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   },
+   {
+    "tibetan": "གངྒཱའི་ཀླུང",
+    "use": "Ganges River"
+   },
+   {
+    "tibetan": "རིན་པོ་ཆེ་སྣ་བདུན",
+    "use": "seven precious things"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "བདག་མེད",
+    "use": "without a self"
+   },
+   {
+    "tibetan": "སྐྱེ་བ་མེད་པ",
+    "use": "not born"
+   },
+   {
+    "tibetan": "བཟོད་པ",
+    "use": "patience"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ",
+    "use": "son of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "gift"
+   },
+   {
+    "tibetan": "གྲངས་མེད",
+    "use": "countless"
+   },
+   {
+    "tibetan": "དཔག་ཏུ་མེད་པ",
+    "use": "beyond measure"
+   }
+  ],
+  "translation": "Also, Subhuti, a son of a good family or a daughter of a good family might fill many world realms with the seven precious things. These realms are as numerous as the sand grains of the Ganges River. They might give them as a gift. But an awakening hero might gain patience in this lesson on the teaching being without a self and not born. From this, they make a pile of stored-up goodness that is vastly greater, countless, and beyond measure."
+ },
+ {
+  "id": "11-11",
+  "tibetan": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བྱའོ། །",
+  "academic_translation": "Moreover, Subhūti, a bodhisattva should not take hold of a mass of merit.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "ཡོངས་སུ་གཟུང",
+    "use": "take hold of"
+   }
+  ],
+  "translation": "Also, Subhuti, an awakening hero should not take hold of a pile of stored-up goodness."
+ },
+ {
+  "id": "11-12",
+  "tibetan": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཡོངས་སུ་གཟུང་བར་མི་བགྱི་ལགས་སམ།",
+  "academic_translation": "The venerable Subhūti asked, \"Blessed One, should a bodhisattva not take hold of a mass of merit?\"",
+  "locked_terms": [
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "ཡོངས་སུ་གཟུང",
+    "use": "take hold of"
+   }
+  ],
+  "translation": "The honored Subhuti asked, \"Blessed One, should an awakening hero not take hold of a pile of stored-up goodness?\""
+ },
+ {
+  "id": "11-13",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་ཡོངས་སུ་གཟུང་མོད་ཀྱིས། ལོག་པར་མི་བཟུང་སྟེ་",
+  "academic_translation": "The Blessed One replied, \"Subhūti, one should indeed take hold of it, but one should not take hold of it wrongly;",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཡོངས་སུ་གཟུང",
+    "use": "take hold of"
+   }
+  ],
+  "translation": "The Blessed One replied, \"Subhuti, one should indeed take hold of it, but one should not take hold of it wrongly."
+ },
+ {
+  "id": "11-14",
+  "tibetan": "དེས་ན་ཡོངས་སུ་གཟུང་བ་ཞེས་བྱའོ། །",
+  "academic_translation": "Therefore, it is called 'taking hold'.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོངས་སུ་གཟུང་བ",
+    "use": "taking hold"
+   }
+  ],
+  "translation": "That is why it is called 'taking hold'.\""
+ },
+ {
+  "id": "11-15",
+  "tibetan": "ཡང་རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པ་བཞུད་དམ་བྱོན་ཏམ། བཞེངས་སམ། བཞུགས་སམ། མནལ་བར་མཛད་དོ་ཞེས་ཟེར་ན། དེས་ངས་བཤད་པའི་དོན་མི་ཤེས་སོ། །",
+  "academic_translation": "Moreover, Subhūti, if anyone were to say, \"The Tathāgata goes or comes, stands, sits, or lies down,\" that person does not understand the meaning of what I have explained.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "Also, Subhuti, someone might say, \"The Thus-Gone One goes, comes, stands, sits, or lies down.\" That person does not understand what I have taught."
+ },
+ {
+  "id": "11-16",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་ནི། གར་ཡང་མ་བཞུད། གང་ནས་ཀྱང་མ་བྱོན་པའི་ཕྱིར་ཏེ།",
+  "academic_translation": "Why is that? Subhūti, it is because the one called \"Tathāgata\" has not gone anywhere and has not come from anywhere.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "Why is that? Subhuti, the one called the \"Thus-Gone One\" has not gone anywhere. He has not come from anywhere."
+ },
+ {
+  "id": "11-17",
+  "tibetan": "དེས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཞེས་བྱའོ། །",
+  "academic_translation": "Therefore he is called the Tathāgata, the arhat, the perfectly complete Buddha.",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+    "use": "complete Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   }
+  ],
+  "translation": "That is why he is called the Thus-Gone One, the worthy one, the complete Buddha."
+ },
+ {
+  "id": "12-1",
+  "tibetan": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས། སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་དེ་དག །འདི་ལྟ་སྟེ་དཔེར་ན་རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་བཞིན་དུ་ཕྱེ་མར་བྱས་ན། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས་དེ་མང་བ་ཡིན་སྙམ་མམ།",
+  "academic_translation": "Moreover, Subhūti, if any son of noble family or daughter of noble family were to grind as many particles of earth as there are in the three-thousandfold great thousandfold world system into powder so that they become, for example, like a collection of subtle particles, what do you think, Subhūti, would that collection of subtle particles be numerous?",
+  "locked_terms": [
+   {
+    "tibetan": "རིགས་ཀྱི་བུ",
+    "use": "son of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "universe of a billion worlds"
+   },
+   {
+    "tibetan": "རྡུལ་ཕྲ་རབ",
+    "use": "tiny speck"
+   },
+   {
+    "tibetan": "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས",
+    "use": "bunch of tiny specks"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   }
+  ],
+  "translation": "Moreover, Subhuti, think of a son of a good family or a daughter of a good family. Suppose they ground all the earth in a world realm into powder. Imagine this world realm is a universe of a billion worlds. It would become like a bunch of tiny specks. What do you think, Subhuti? Would that bunch of tiny specks be very large?"
+ }
+]

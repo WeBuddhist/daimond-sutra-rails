@@ -1,0 +1,63 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I must help all kinds of living beings.",
+     "evidence": "The Tibetan/academic text has the bodhisattva resolve to lead all those beings to complete nirvana (complete freedom from sorrow); 'help' is vaguer and 'must' is not in the source (it says 'I shall lead').",
+     "fix": "I will lead all kinds of living beings to freedom. This includes those born from eggs, and those born from a womb."
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "It even includes those neither with ideas nor without ideas.",
+     "evidence": "The source simply lists this as the last category in the series; it has no 'even' emphasis.",
+     "fix": "It includes those neither with ideas nor without ideas."
+    }
+   ]
+  },
+  {
+   "id": "12-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "Doing this creates much more stored-up goodness.",
+     "evidence": "The segment is a comparison: the merit from filling countless world realms with the seven precious things and giving them is surpassed by the merit of the son or daughter of a good family who writes down, holds, reads, masters or teaches even a four-line verse ('compared to ... much more merit'). The children's text frames the two as separate scenes ('think of...') and never says the merit is more than the gift's, so the comparison is lost and 'Doing this' is unclear.",
+     "fix": "Someone could fill countless world realms with the seven precious things and give them as a gift. But a son or daughter of a good family could write down, take up, keep, read, or master even one four-line verse from this perfect wisdom, or teach it fully to others. That person creates much more stored-up goodness than the gift, countless and beyond measure."
+    }
+   ]
+  },
+  {
+   "id": "8-65",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "Every human, god, and jealous god will respect it.",
+     "evidence": "The source says once that the place becomes worthy of veneration by the world with its gods, humans and demigods; the final sentence repeats this and adds 'Every', which is not in the source.",
+     "fix": "That place will become worthy of respect by the world with its gods, people, and jealous gods."
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "The world with its gods, people, and jealous gods will honor it.",
+     "evidence": "The source says the place becomes worthy of (fit to receive) veneration; 'will honor it' states that they actually do so.",
+     "fix": "That place will become worthy of being honored by the world with its gods, people, and jealous gods."
+    }
+   ]
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

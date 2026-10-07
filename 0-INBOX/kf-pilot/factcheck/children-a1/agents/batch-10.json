@@ -1,0 +1,228 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "10-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "From this, they make a pile of stored-up goodness that is vastly greater, countless, and beyond measure.",
+     "evidence": "The sutra compares the donor's gift with the bodhisattva's patience: the bodhisattva's merit is vastly greater than that of the one who gives the worlds full of precious things. The children's text only hints at this with 'But'.",
+     "fix": "But an awakening hero might gain patience in this lesson on the teaching being without a self and not born. That hero makes a pile of stored-up goodness that is vastly greater than the gift, countless and beyond measure."
+    }
+   ]
+  },
+  {
+   "id": "11-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Would that bunch of tiny specks be very large?",
+     "evidence": "Tibetan mang ba / academic 'numerous': the question is whether the collection of specks is many, not large.",
+     "fix": "Would that bunch of tiny specks be very many?"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "ground all the earth in a world realm into powder. Imagine this world realm is a universe of a billion worlds.",
+     "evidence": "The earth particles are those in the whole universe of a billion worlds (three-thousandfold great thousandfold world system); calling it 'a world realm' and then redefining it is confusing.",
+     "fix": "Suppose they ground all the earth in a whole universe of a billion worlds into powder."
+    }
+   ]
+  }
+ ]
+}

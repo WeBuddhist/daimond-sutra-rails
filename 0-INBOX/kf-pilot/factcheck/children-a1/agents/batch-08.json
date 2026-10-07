@@ -1,0 +1,221 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "8-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-118",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "an awakening hero might firmly believe this",
+     "evidence": "Says 'any bodhisattva who resolutely believes thus ... is called a great being' (a general statement about whoever believes), not a possibility.",
+     "fix": "Subhuti, any awakening hero who firmly believes this: 'Things are without a self, things are without a self,' is called a great awakening hero by the Thus-Gone One, the worthy one, the complete Buddha."
+    }
+   ]
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "the streams of mind and the different thoughts of all the living beings",
+     "evidence": "'streams of mind of the diverse intentions of however many sentient beings'; intentions qualify the streams, not a separate item.",
+     "fix": "I fully know the streams of mind, with all their different wishes, of every living being in those world realms."
+    }
+   ]
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

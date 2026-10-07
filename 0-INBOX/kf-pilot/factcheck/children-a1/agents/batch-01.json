@@ -1,0 +1,243 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Diamond Cutter",
+     "evidence": "Sanskrit title is Ārya Vajracchedikā Prajñāpāramitā Nāma Mahāyāna Sūtra (Noble Perfection of Wisdom called the Diamond Cutter, a Mahāyāna sūtra); children's text gives only the short name (locked term maps the whole title to Diamond Cutter).",
+     "fix": "In the language of India: the noble perfect wisdom called the Diamond Cutter, a Great Vehicle sacred text."
+    }
+   ]
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "He finished eating his alms food.",
+     "evidence": "Academic: 'Having given up the alms of the later meal' - he set aside any further meal; children's text only says he finished eating.",
+     "fix": "He did not take any more food. He put away his alms bowl and teaching robe."
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "with careful attention, ready to pay full attention",
+     "evidence": "Tibetan/academic: 'having established mindfulness to the fore' (one phrase, locked 'pay full attention'); the text splits it into two and adds 'ready to'.",
+     "fix": "He sat up straight and paid full attention."
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "major",
+     "span": "However many exist in the realm of living beings",
+     "evidence": "Academic: 'however many are designated by conceptual designation as sentient beings in the realm of sentient beings' - they are merely called/designated living beings; 'exist' asserts real existence and drops the designation point that sets up the paradox in 4-2.",
+     "fix": "However many are called living beings in the realm of living beings, I will lead them all to complete freedom from sorrow in the expanse of freedom from sorrow with no group left over."
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "I must help all kinds of living beings.",
+     "evidence": "Academic has the thought 'all those I shall lead to complete nirvana'; 'I must help' adds an obligation and a different action (help vs lead to freedom from sorrow).",
+     "fix": "I will lead all living beings to freedom from sorrow. This includes..."
+    }
+   ]
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

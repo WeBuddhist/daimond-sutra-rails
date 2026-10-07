@@ -1,0 +1,237 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "If they hold an idea of a person",
+     "evidence": "'even if they engage in a perception up to that of a person' - the sutra runs the list of ideas through to 'person'; 'even' and 'up to' are lost, and the 'because' link to the previous line.",
+     "fix": "Even if they hold any of these ideas, right up to the idea of a person, they are not called an awakening hero."
+    }
+   ]
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "truly entering the awakening hero's vehicle",
+     "evidence": "'having correctly entered the bodhisattva vehicle'; the same phrase is rendered 'correctly entered' in 8-80 and 8-84.",
+     "fix": "there is no thing at all called 'correctly entering the awakening hero's vehicle'."
+    }
+   ]
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "got any thing from the Thus-Gone One Dipankara to become fully awake",
+     "evidence": "'any phenomenon by which the Tathagata fully awakened ... from Dipankara' - a thing by which he awakened, not a thing he received or got.",
+     "fix": "Is there any thing by which the Thus-Gone One became fully awake to the highest, complete awakening in the time of the Thus-Gone One Dipankara?"
+    }
+   ]
+  },
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "did not get any thing at all from the Thus-Gone One Dipankara",
+     "evidence": "'no phenomenon whatsoever by which the Tathagata fully awakened ... from Dipankara' - not a thing that was got.",
+     "fix": "there is no thing at all by which the Thus-Gone One became fully awake to the highest, complete awakening in the time of the Thus-Gone One Dipankara."
+    }
+   ]
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-105",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "10-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "is seen by the full accomplishment",
+     "evidence": "Tibetan/academic: 'is to be seen' (should be viewed) by the perfect accomplishment; the children's text loses the 'to be / should' sense.",
+     "fix": "Do you think the Thus-Gone One should be seen by the full accomplishment of the form body?"
+    }
+   ]
+  },
+  {
+   "id": "10-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "They would be holding onto a mistake about something that does not exist.",
+     "evidence": "Academic: they slander me BY a mistaken grasping of what does not exist; the children's text splits this into two separate statements and loses the 'by' link.",
+     "fix": "They would be lying about me, because they are wrongly holding onto something that does not exist."
+    }
+   ]
+  },
+  {
+   "id": "10-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "you can hold onto",
+     "evidence": "Tibetan dmigs ('apprehended', locked children's rendering 'found'); 'hold onto' blurs it with the 'grasping' in 10-26.",
+     "fix": "there is no teaching at all that you can find as 'explaining the teaching'."
+    }
+   ]
+  },
+  {
+   "id": "10-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "is equal because it is without",
+     "evidence": "Academic: 'equal in being without a self...'; 'because' makes it a cause rather than the respect in which it is equal.",
+     "fix": "That highest, complete awakening is equal in being without a self, without a living being, without a life, and without a person."
+    }
+   ]
+  },
+  {
+   "id": "10-42",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

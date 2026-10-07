@@ -1,0 +1,906 @@
+[
+ {
+  "id": "6-37",
+  "tibetan": "དེ་ནི་ཆོས་ཀྱང་མ་ལགས་ཆོས་མ་མཆིས་པ་ཡང་མ་ལགས་པའི་སླད་དུའོ། །",
+  "academic_translation": "That is because it is neither a phenomenon nor the absence of a phenomenon.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཆོས་མ་མཆིས་པ",
+    "use": "absence of a thing"
+   }
+  ],
+  "translation": "\"That is because it is not a thing, and it is also not the absence of a thing.\""
+ },
+ {
+  "id": "6-38",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། འཕགས་པའི་གང་ཟག་རྣམས་ནི་འདུས་མ་བྱས་ཀྱིས་རབ་ཏུ་བྱེ་བའི་སླད་དུའོ། །",
+  "academic_translation": "Why is that? Because noble persons are distinguished by the unconditioned.",
+  "locked_terms": [
+   {
+    "tibetan": "འཕགས་པའི་གང་ཟག",
+    "use": "noble person"
+   },
+   {
+    "tibetan": "འདུས་མ་བྱས",
+    "use": "not made by causes"
+   },
+   {
+    "tibetan": "འཕགས་པ",
+    "use": "noble"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   }
+  ],
+  "translation": "\"Why is that? Because noble persons are known by what is not made by causes.\""
+ },
+ {
+  "id": "6-39",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "The Blessed One said, Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, what do you think?\""
+ },
+ {
+  "id": "6-40",
+  "tibetan": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་ན། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་མང་དུ་བསྐྱེད་སྙམ་མམ།",
+  "academic_translation": "If some son of noble family or daughter of noble family were to fill this three-thousandfold great thousandfold world system with the seven precious substances and give it as a gift, do you think that son of noble family or daughter of noble family would generate a great mass of merit from that basis?",
+  "locked_terms": [
+   {
+    "tibetan": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+    "use": "son of a good family or daughter of a good family"
+   },
+   {
+    "tibetan": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "universe of a billion worlds"
+   },
+   {
+    "tibetan": "རིན་པོ་ཆེ་སྣ་བདུན",
+    "use": "seven precious things"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "gift"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   },
+   {
+    "tibetan": "རིན་པོ་ཆེ",
+    "use": "precious thing"
+   },
+   {
+    "tibetan": "ཕུང་པོ",
+    "use": "pile"
+   }
+  ],
+  "translation": "If a son of a good family or daughter of a good family filled this world realm, a universe of a billion worlds, with the seven precious things and gave it as a gift, do you think that son of a good family or daughter of a good family would make a great pile of stored-up goodness from doing that?"
+ },
+ {
+  "id": "6-41",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མང་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied, Blessed One, it would be much.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, it would be a lot.\""
+ },
+ {
+  "id": "6-42",
+  "tibetan": "བདེ་བར་གཤེགས་པ་མང་ལགས་སོ། །",
+  "academic_translation": "Sugata, it would be much.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་བར་གཤེགས་པ",
+    "use": "Well-Gone One"
+   }
+  ],
+  "translation": "\"Well-Gone One, it would be a lot.\""
+ },
+ {
+  "id": "6-43",
+  "tibetan": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དེའི་གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་མང་དུ་བསྐྱེད་དོ། །",
+  "academic_translation": "That son of noble family or daughter of noble family would generate a great mass of merit from that basis.",
+  "locked_terms": [
+   {
+    "tibetan": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+    "use": "son of a good family or daughter of a good family"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "ཕུང་པོ",
+    "use": "pile"
+   }
+  ],
+  "translation": "\"That son of a good family or daughter of a good family would make a great pile of stored-up goodness from that.\""
+ },
+ {
+  "id": "6-44",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བསོད་ནམས་ཀྱི་ཕུང་པོ་དེ་ཉིད་ཕུང་པོ་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Why is that? Because that very mass of merit is not a mass.",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "ཕུང་པོ",
+    "use": "pile"
+   }
+  ],
+  "translation": "\"Why is that? It is because that very pile of stored-up goodness is not a pile.\""
+ },
+ {
+  "id": "6-45",
+  "tibetan": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་བསོད་ནམས་ཀྱི་ཕུང་པོ་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཞེས་གསུངས་སོ། །",
+  "academic_translation": "Therefore, the Tathāgata spoke of \"a mass of merit, a mass of merit.\"",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "ཕུང་པོ",
+    "use": "pile"
+   }
+  ],
+  "translation": "\"That is why the Thus-Gone One spoke of a pile of stored-up goodness, a pile of stored-up goodness.\""
+ },
+ {
+  "id": "6-46",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་རབ་ཏུ་གང་བར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་ནས་གཞན་དག་ལ་འཆད་ཅིང་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན། གཞི་དེ་ལས་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "academic_translation": "The Blessed One said: Subhūti, compared to a son of noble family or daughter of noble family filling this three-thousandfold great thousandfold world system with the seven precious substances and giving it as a gift, if someone takes up even just a four-line verse from this Dharma discourse, explains it to others, and perfectly demonstrates it, they will generate a much greater mass of merit from that basis, countless and immeasurable.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+    "use": "son of a good family or daughter of a good family"
+   },
+   {
+    "tibetan": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "universe of a billion worlds"
+   },
+   {
+    "tibetan": "རིན་པོ་ཆེ་སྣ་བདུན",
+    "use": "seven precious things"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "gift"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+    "use": "four-line verse"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   },
+   {
+    "tibetan": "རིན་པོ་ཆེ",
+    "use": "precious thing"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "ཚིགས་སུ་བཅད་པ",
+    "use": "verse"
+   },
+   {
+    "tibetan": "ཕུང་པོ",
+    "use": "pile"
+   }
+  ],
+  "translation": "The Blessed One said: \"Subhuti, imagine a son of a good family or daughter of a good family. They fill this world realm, a universe of a billion worlds, with the seven precious things. Then they give it as a gift. Now imagine someone else. They learn just a four-line verse from this lesson on the teaching. They explain it to others and show it perfectly. That person will create a much larger pile of stored-up goodness. It will be too huge to count or measure.\""
+ },
+ {
+  "id": "6-47",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱི་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ནི་འདི་ལས་བྱུང་སྟེ།",
+  "academic_translation": "Why is that? Subhūti, the unsurpassed, perfectly complete awakening of the Tathāgatas, the arhats, the perfectly complete Buddhas, arises from this,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+    "use": "complete Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "highest, complete awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "Why is that? Subhuti, the highest, complete awakening of the Thus-Gone Ones, the worthy ones, and the complete Buddhas comes from this,"
+ },
+ {
+  "id": "6-48",
+  "tibetan": "སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱང་འདི་ལས་སྐྱེས་པའི་ཕྱིར་རོ། །",
+  "academic_translation": "because the Buddhas, the Blessed Ones, are also born from this.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས་བཅོམ་ལྡན་འདས",
+    "use": "Buddha, the Blessed One"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "because the Buddhas, the Blessed Ones, are also born from this."
+ },
+ {
+  "id": "6-49",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་ཞེས་བྱ་བ་ནི། སངས་རྒྱས་ཀྱི་ཆོས་དེ་དག་མེད་པར་དེ་བཞིན་གཤེགས་པའི་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "academic_translation": "Why is that? Subhūti, as for what are called \"qualities of a Buddha, qualities of a Buddha,\" it is because the Tathāgata spoke of those qualities of a Buddha as non-existent;",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་ཀྱི་ཆོས",
+    "use": "qualities of a Buddha"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "quality"
+   }
+  ],
+  "translation": "Why is that? Subhuti, as for what are called 'qualities of a Buddha, qualities of a Buddha,' the Thus-Gone One said those qualities of a Buddha do not exist."
+ },
+ {
+  "id": "6-50",
+  "tibetan": "དེས་ན་སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་ཞེས་བྱའོ། །",
+  "academic_translation": "therefore they are called \"qualities of a Buddha.\"",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས་ཀྱི་ཆོས",
+    "use": "qualities of a Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "quality"
+   }
+  ],
+  "translation": "That is why they are called 'qualities of a Buddha.'\""
+ },
+ {
+  "id": "7-1",
+  "tibetan": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Subhuti, what do you think?"
+ },
+ {
+  "id": "7-2",
+  "tibetan": "རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+  "academic_translation": "Does a stream-enterer think: I have attained the fruit of a stream-enterer?",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱུན་དུ་ཞུགས་པ",
+    "use": "stream-enterer"
+   },
+   {
+    "tibetan": "རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ",
+    "use": "fruit of a stream-enterer"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "fruit"
+   }
+  ],
+  "translation": "Does a stream-enterer think, \"I have gotten the fruit of a stream-enterer\"?"
+ },
+ {
+  "id": "7-3",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied: Blessed One, it is not so.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, it is not so.\""
+ },
+ {
+  "id": "7-4",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་དེ་ནི་ཅི་ལ་ཡང་ཞུགས་པ་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Why is that? Blessed One, it is because he has not entered into anything.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Why is that? Blessed One, it is because he has not entered into anything."
+ },
+ {
+  "id": "7-5",
+  "tibetan": "དེས་ན་རྒྱུན་དུ་ཞུགས་པ་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, he is called a stream-enterer.",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱུན་དུ་ཞུགས་པ",
+    "use": "stream-enterer"
+   }
+  ],
+  "translation": "That is why he is called a stream-enterer."
+ },
+ {
+  "id": "7-6",
+  "tibetan": "གཟུགས་ལ་ཡང་མ་ཞུགས། སྒྲ་ལ་ཡང་མ་ལགས། དྲི་ལ་ཡང་མ་ལགས། རོ་ལ་ཡང་མ་ལགས། རེག་བྱ་ལ་ཡང་མ་ལགས། ཆོས་རྣམས་ལ་ཡང་མ་ཞུགས་ཏེ།",
+  "academic_translation": "He has not entered into forms, nor into sounds, nor into smells, nor into tastes, nor into tangible objects, nor has he entered into phenomena.",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "shape"
+   },
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   },
+   {
+    "tibetan": "དྲི",
+    "use": "smell"
+   },
+   {
+    "tibetan": "རོ",
+    "use": "taste"
+   },
+   {
+    "tibetan": "རེག་བྱ",
+    "use": "thing that is touched"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "He has not entered into shapes, or sounds, or smells, or tastes, or things that are touched. He has not entered into things."
+ },
+ {
+  "id": "7-7",
+  "tibetan": "དེས་ན་རྒྱུན་དུ་ཞུགས་པ་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, he is called a \"stream-enterer.\"",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱུན་དུ་ཞུགས་པ",
+    "use": "stream-enterer"
+   }
+  ],
+  "translation": "That is why they are called a stream-enterer."
+ },
+ {
+  "id": "7-8",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་གལ་ཏེ་རྒྱུན་དུ་ཞུགས་པ་འདི་སྙམ་དུ་བདག་གིས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "academic_translation": "Why is that? Blessed One, if a stream-enterer were to think that he had attained the fruit of a stream-enterer, that itself would be his grasping at a self.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རྒྱུན་དུ་ཞུགས་པ",
+    "use": "stream-enterer"
+   },
+   {
+    "tibetan": "རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ",
+    "use": "fruit of a stream-enterer"
+   },
+   {
+    "tibetan": "བདག་ཏུ་འཛིན་པ",
+    "use": "clinging to a self"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "fruit"
+   },
+   {
+    "tibetan": "འཛིན་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "Why is that? Blessed One, if a stream-enterer thought they gained the fruit of a stream-enterer, that would be clinging to a self."
+ },
+ {
+  "id": "7-9",
+  "tibetan": "སེམས་ཅན་དུ་འཛིན་པ་དང༌། སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "academic_translation": "It would be grasping at a sentient being, grasping at a life-force, and grasping at a person.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན་དུ་འཛིན་པ",
+    "use": "clinging to a living being"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག་ཏུ་འཛིན་པ",
+    "use": "clinging to a life"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག་ཏུ་འཛིན་པ",
+    "use": "clinging to a person"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "འཛིན་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "It would be clinging to a living being, clinging to a life, and clinging to a person."
+ },
+ {
+  "id": "7-10",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "The Blessed One said: Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, what do you think?\""
+ },
+ {
+  "id": "7-11",
+  "tibetan": "ལན་ཅིག་ཕྱིར་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ།",
+  "academic_translation": "Does a once-returner think that he has attained the fruit of a once-returner?",
+  "locked_terms": [
+   {
+    "tibetan": "ལན་ཅིག་ཕྱིར་འོང་བ",
+    "use": "once-returner"
+   },
+   {
+    "tibetan": "ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ",
+    "use": "fruit of a once-returner"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "fruit"
+   }
+  ],
+  "translation": "Does a once-returner think they have gained the fruit of a once-returner?"
+ },
+ {
+  "id": "7-12",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied: Blessed One, that is not so.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, that is not so.\""
+ },
+ {
+  "id": "7-13",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། གང་ལན་ཅིག་ཕྱིར་འོང་བ་ཉིད་དུ་ཞུགས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Why is that? Because there is no phenomenon whatsoever that has entered into the state of a once-returner.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ལན་ཅིག་ཕྱིར་འོང་བ",
+    "use": "once-returner"
+   },
+   {
+    "tibetan": "ལན་ཅིག་ཕྱིར་འོང་བ་ཉིད",
+    "use": "state of a once-returner"
+   }
+  ],
+  "translation": "Why is that? Because there is no thing that has entered the state of a once-returner."
+ },
+ {
+  "id": "7-14",
+  "tibetan": "དེས་ན་ལན་ཅིག་ཕྱིར་འོང་བ་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, he is called a once-returner.",
+  "locked_terms": [
+   {
+    "tibetan": "ལན་ཅིག་ཕྱིར་འོང་བ",
+    "use": "once-returner"
+   }
+  ],
+  "translation": "That is why he is called a once-returner."
+ },
+ {
+  "id": "7-15",
+  "tibetan": "བཅོམ་ལྡན་འདས་གལ་ཏེ་ལན་ཅིག་ཕྱིར་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "academic_translation": "Blessed One, if a once-returner were to think, 'I have attained the fruit of a once-returner,' that itself would be his grasping at a self.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ལན་ཅིག་ཕྱིར་འོང་བ",
+    "use": "once-returner"
+   },
+   {
+    "tibetan": "ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ",
+    "use": "fruit of a once-returner"
+   },
+   {
+    "tibetan": "བདག་ཏུ་འཛིན་པ",
+    "use": "clinging to a self"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "fruit"
+   },
+   {
+    "tibetan": "འཛིན་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "Blessed One, if a once-returner thought, 'I have gained the fruit of a once-returner,' that would be clinging to a self."
+ },
+ {
+  "id": "7-16",
+  "tibetan": "སེམས་ཅན་དུ་འཛིན་པ་དང༌སྲོག་ཏུ་འཛིན་པ་དང༌། གང་ཟག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "academic_translation": "It would be grasping at a sentient being, grasping at a life-force, and grasping at a person.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན་དུ་འཛིན་པ",
+    "use": "clinging to a living being"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག་ཏུ་འཛིན་པ",
+    "use": "clinging to a life"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག་ཏུ་འཛིན་པ",
+    "use": "clinging to a person"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "འཛིན་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "It would be clinging to a living being, clinging to a life, and clinging to a person."
+ },
+ {
+  "id": "7-17",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས་",
+  "academic_translation": "The Blessed One said, \"Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, what do you think?"
+ },
+ {
+  "id": "7-18",
+  "tibetan": "ཕྱིར་མི་འོང་བ་འདི་སྙམ་དུ་བདག་གིས་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+  "academic_translation": "Does a non-returner think, 'I have attained the fruit of a non-returner'?\"",
+  "locked_terms": [
+   {
+    "tibetan": "ཕྱིར་མི་འོང་བ",
+    "use": "non-returner"
+   },
+   {
+    "tibetan": "ཕྱིར་མི་འོང་བའི་འབྲས་བུ",
+    "use": "fruit of a non-returner"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "fruit"
+   }
+  ],
+  "translation": "Does a non-returner think, 'I have gained the fruit of a non-returner'?\""
+ },
+ {
+  "id": "7-19",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied, Blessed One, that is not so.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, that is not so.\""
+ },
+ {
+  "id": "7-20",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། གང་ཕྱིར་མི་འོང་བ་ཉིད་དུ་ཞུགས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Why is that? Because there is no phenomenon whatsoever that has entered into the state of a non-returner.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཕྱིར་མི་འོང་བ",
+    "use": "non-returner"
+   },
+   {
+    "tibetan": "ཕྱིར་མི་འོང་བ་ཉིད",
+    "use": "state of a non-returner"
+   }
+  ],
+  "translation": "\"Why is that? Because there is no thing at all that has entered the state of a non-returner.\""
+ },
+ {
+  "id": "7-21",
+  "tibetan": "དེའི་ཕྱིར་ཕྱིར་མི་འོང་བ་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, he is called a non-returner.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕྱིར་མི་འོང་བ",
+    "use": "non-returner"
+   }
+  ],
+  "translation": "\"That is why he is called a non-returner.\""
+ },
+ {
+  "id": "7-22",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "The Blessed One said, Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, what do you think?\""
+ },
+ {
+  "id": "7-23",
+  "tibetan": "དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་སྙམ་མམ།",
+  "academic_translation": "Does an arhat think, I have attained arhatship?",
+  "locked_terms": [
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ་ཉིད",
+    "use": "state of a worthy one"
+   }
+  ],
+  "translation": "\"Does a worthy one think, 'I have reached the state of a worthy one'?\""
+ },
+ {
+  "id": "7-24",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied, Blessed One, that is not so.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, that is not so.\""
+ },
+ {
+  "id": "7-25",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། གང་དག་དགྲ་བཅོམ་པ་ཞེས་བགྱི་བའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་པའི་སླད་དུའོ། །",
+  "academic_translation": "Why is that? It is because there is no phenomenon whatsoever that is called an arhat.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   }
+  ],
+  "translation": "Why is that? It is because there is no thing at all that is called a worthy one."
+ },
+ {
+  "id": "7-26",
+  "tibetan": "བཅོམ་ལྡན་འདས་གལ་ཏེ་དགྲ་བཅོམ་པ་འདི་སྙམ་དུ་བདག་གིས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་བོ་སྙམ་དུ་སེམས་པར་གྱུར་ན། དེ་ཉིད་དེའི་བདག་ཏུ་འཛིན་པར་འགྱུར་ལགས་སོ། །",
+  "academic_translation": "Blessed One, if an arhat were to think, 'I have obtained arhatship,' that itself would be his grasping at a self,",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ་ཉིད",
+    "use": "state of a worthy one"
+   },
+   {
+    "tibetan": "བདག་ཏུ་འཛིན་པ",
+    "use": "clinging to a self"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "འཛིན་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "Blessed One, if a worthy one thought, 'I have gained the state of a worthy one,' that would be clinging to a self."
+ }
+]

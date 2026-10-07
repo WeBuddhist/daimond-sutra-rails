@@ -1,0 +1,993 @@
+[
+ {
+  "id": "8-66",
+  "tibetan": "ས་ཕྱོགས་དེ་ཕྱག་བྱ་བར་འོས་པ་དང༌། བསྐོར་བ་བྱ་བར་འོས་པར་འགྱུར་ཏེ།",
+  "academic_translation": "That place will become worthy of being bowed to and worthy of being circumambulated,",
+  "locked_terms": [],
+  "translation": "That place will become worthy of being bowed to and walked around,"
+ },
+ {
+  "id": "8-67",
+  "tibetan": "ས་ཕྱོགས་དེ་མཆོད་རྟེན་ལྟ་བུར་འགྱུར་རོ། །",
+  "academic_translation": "that place will become like a stūpa.",
+  "locked_terms": [
+   {
+    "tibetan": "མཆོད་རྟེན",
+    "use": "shrine"
+   }
+  ],
+  "translation": "and that place will become like a shrine."
+ },
+ {
+  "id": "8-68",
+  "tibetan": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་དག་འདི་ལྟ་བུའི་མདོ་སྡེའི་ཚིག་འདི་དག་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དེ་དག་ནི་མནར་བར་འགྱུར་",
+  "academic_translation": "Moreover, Subhūti, any sons or daughters of noble family who take up, retain, keep, read, and master these words of such a sūtra will be tormented,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ",
+    "use": "son or daughter of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ",
+    "use": "son of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "མདོ་སྡེ",
+    "use": "sacred text"
+   }
+  ],
+  "translation": "Also, Subhuti, any son or daughter of a good family who takes up, remembers, keeps, reads, and masters the words of such a sacred text will be tormented,"
+ },
+ {
+  "id": "8-69",
+  "tibetan": "ཤིན་ཏུ་མནར་བར་འགྱུར་རོ། །",
+  "academic_translation": "they will be severely tormented.",
+  "locked_terms": [],
+  "translation": "They will suffer greatly."
+ },
+ {
+  "id": "8-70",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་སེམས་ཅན་དེ་དག་ནི་ཚེ་རབས་སྔ་མའི་མི་དགེ་བའི་ལས་ངན་སོང་དུ་སྐྱེ་བར་འགྱུར་བ་གང་དག་བྱས་པ་དེ་དག་ཚེ་འདི་ཉིད་ལ་མནར་བས། ཚེ་རབས་སྔ་མའི་མི་དགེ་བའི་ལས་ངན་སོང་དུ་སྐྱེ་བར་འགྱུར་བ་གང་དག་བྱས་པ་དེ་དག་བྱང་བར་འགྱུར་ཏེ།",
+  "academic_translation": "Why is that? Subhūti, because those sentient beings are tormented in this very life for whatever non-virtuous actions they committed in previous lives that would lead to rebirth in the lower realms, those non-virtuous actions they committed in previous lives that would lead to rebirth in the lower realms will be purified,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "མི་དགེ་བའི་ལས",
+    "use": "bad action"
+   },
+   {
+    "tibetan": "ངན་སོང",
+    "use": "unhappy rebirth"
+   }
+  ],
+  "translation": "Why is that? Subhuti, these living beings suffer in this very life for bad actions they did in past lives. Those bad actions would lead to an unhappy rebirth. Because they suffer now, those bad actions from past lives that lead to an unhappy rebirth will be washed away."
+ },
+ {
+  "id": "8-71",
+  "tibetan": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་ཀྱང་ཐོབ་པར་འགྱུར་རོ། །",
+  "academic_translation": "and they will also attain the awakening of a Buddha.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས་ཀྱི་བྱང་ཆུབ",
+    "use": "awakening of a Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "And they will also reach the awakening of a Buddha."
+ },
+ {
+  "id": "8-72",
+  "tibetan": "རབ་འབྱོར་ངས་མངོན་པར་ཤེས་ཏེ། འདས་པའི་དུས་བསྐལ་པ་གྲངས་མེད་པའི་ཡང་ཆེས་གྲངས་མེད་པ་ན། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མར་མེ་མཛད་ཀྱི་སྔ་རོལ་གྱི་ཡང་ཆེས་སྔ་རོལ་ན་སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི་དག་བྱུང་བ་ངས་མཉེས་པར་བྱས་ཏེ།",
+  "academic_translation": "Subhūti, I remember that in the past, measureless and even more than measureless eons ago, before and even further before the Tathāgata, the arhat, the perfectly complete Buddha Dīpaṃkara, eighty-four hundred thousand million myriad Buddhas appeared, whom I pleased,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "long age"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+    "use": "complete Buddha"
+   },
+   {
+    "tibetan": "མར་མེ་མཛད",
+    "use": "Dipankara"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   }
+  ],
+  "translation": "Subhuti, I remember the past, countless and more than countless long ages ago. It was before, even long before, the Thus-Gone One, the worthy one, the complete Buddha Dipankara. Back then, eighty-four million billion Buddhas appeared. I made them happy."
+ },
+ {
+  "id": "8-73",
+  "tibetan": "མ་མཉེས་པར་མ་བྱས་ནས་ཐུགས་འབྱུང་བར་མ་བྱས་ཏེ།",
+  "academic_translation": "and having not displeased them, did not disappoint them.",
+  "locked_terms": [],
+  "translation": "I did not upset them, and I did not let them down."
+ },
+ {
+  "id": "8-74",
+  "tibetan": "རབ་འབྱོར་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ངས་མཉེས་པར་བྱས་ནས་ཐུགས་འབྱུང་བར་མ་བྱས་པ་གང་ཡིན་པ་དང༌། ཕྱི་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མར་གྱུར་པ་ན། མདོ་སྡེ་འདི་ལེན་པ་དང༌། འདྲི་བ་དང༌། འཛིན་པ་དང་འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་གང་ཡིན་པ་ལས། རབ་འབྱོར་བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་ལ་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ།",
+  "academic_translation": "Subhūti, regarding whatever pleasing and not disappointing of those Buddhas, the Blessed Ones, I did, and whoever, when the last five hundred years of the latter time have come, takes up, writes, upholds, keeps, reads, and completely comprehends this sūtra—Subhūti, compared to this mass of merit, that former mass of merit does not approach even a hundredth part.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་བཅོམ་ལྡན་འདས",
+    "use": "Buddha, the Blessed One"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཕྱི་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+    "use": "last five hundred years"
+   },
+   {
+    "tibetan": "མདོ་སྡེ",
+    "use": "sacred text"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   }
+  ],
+  "translation": "Subhuti, think of how I made those Buddhas, the Blessed Ones, happy and did not let them down. Now imagine someone else when the last five hundred years have come. This person takes up, writes, holds, keeps, reads, and fully understands this sacred text. Subhuti, compared to this person's pile of stored-up goodness, my old pile of stored-up goodness is not even one hundredth as big."
+ },
+ {
+  "id": "8-75",
+  "tibetan": "སྟོང་གི་ཆ་དང༌། འབུམ་གྱི་ཆ་དང༌། གྲངས་དང་ཚད་དང་བགྲང་བ་དང༌། དཔེ་དང་ཟླ་དང་རྒྱུར་ཡང་མི་བཟོད་དོ། །",
+  "academic_translation": "It does not bear comparison to a thousandth part, a hundred-thousandth part, a number, a measure, a calculation, an analogy, a match, or even a cause.",
+  "locked_terms": [],
+  "translation": "It cannot be compared to a thousandth part or a hundred-thousandth part. It cannot be compared to any number, measure, counting, example, match, or even a cause."
+ },
+ {
+  "id": "8-76",
+  "tibetan": "རབ་འབྱོར་གལ་ཏེ་དེའི་ཚེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཇི་སྙེད་རབ་ཏུ་འཛིན་པར་འགྱུར་བའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དག་གི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ངས་བརྗོད་ན། སེམས་ཅན་རྣམས་མྱོ་མྱོ་པོར་འགྱུར་ཞིང་སེམས་འཁྲུགས་པར་འགྱུར་རོ། །",
+  "academic_translation": "Subhūti, if I were to describe the mass of merit of those sons of noble family or daughters of noble family, however great a mass of merit those sons of noble family or daughters of noble family would fully uphold at that time, sentient beings would go mad and their minds would be confounded.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+    "use": "son of a good family or daughter of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ",
+    "use": "son of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "Subhuti, what if I described the pile of stored-up goodness of those sons of a good family or daughters of a good family? If I told them how great a pile of stored-up goodness those sons of a good family or daughters of a good family would hold at that time, living beings would go mad. Their minds would be completely confused."
+ },
+ {
+  "id": "8-77",
+  "tibetan": "ཡང་རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བསམ་གྱིས་མི་ཁྱབ་སྟེ།",
+  "academic_translation": "Moreover, Subhūti, this Dharma discourse is inconceivable,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   }
+  ],
+  "translation": "Also, Subhuti, this lesson on the teaching cannot be imagined."
+ },
+ {
+  "id": "8-78",
+  "tibetan": "འདིའི་རྣམ་པར་སྨིན་པ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་དུ་རིག་པར་བྱའོ། །",
+  "academic_translation": "and its ripening should also be known to be simply inconceivable.",
+  "locked_terms": [
+   {
+    "tibetan": "རྣམ་པར་སྨིན་པ",
+    "use": "ripening"
+   }
+  ],
+  "translation": "And you should know that its ripening cannot be imagined either."
+ },
+ {
+  "id": "8-79",
+  "tibetan": "དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "academic_translation": "Then the venerable Subhūti addressed the Blessed One thus:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Then the honored Subhuti said this to the Blessed One:"
+ },
+ {
+  "id": "8-80",
+  "tibetan": "བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ཀྱིས་ཇི་ལྟར་གནས་པར་བགྱི།",
+  "academic_translation": "Blessed One, how should those who have correctly entered the bodhisattva vehicle abide?",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+    "use": "awakening hero's vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཐེག་པ",
+    "use": "vehicle"
+   }
+  ],
+  "translation": "\"Blessed One, how should those who have correctly entered the awakening hero's vehicle live?\""
+ },
+ {
+  "id": "8-81",
+  "tibetan": "ཇི་ལྟར་བསྒྲུབ་པར་བགྱི།",
+  "academic_translation": "How should they practice?",
+  "locked_terms": [],
+  "translation": "How should they practice?"
+ },
+ {
+  "id": "8-82",
+  "tibetan": "ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བགྱི།",
+  "academic_translation": "How should the mind be fully held?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "How should they fully hold the mind?"
+ },
+ {
+  "id": "8-83",
+  "tibetan": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "academic_translation": "When he had spoken thus, the Blessed One addressed the venerable Subhūti in this way:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར",
+    "use": "honored Subhuti"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   }
+  ],
+  "translation": "When he had said this, the Blessed One spoke to honored Subhuti:"
+ },
+ {
+  "id": "8-84",
+  "tibetan": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+  "academic_translation": "Subhūti, here one who has correctly entered the bodhisattva vehicle should think thus: 'I shall lead all sentient beings to complete nirvāṇa in the expanse of nirvāṇa without remainder of the aggregates.'",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+    "use": "awakening hero's vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཡོངས་སུ་མྱ་ངན་ལས་འདའ",
+    "use": "complete freedom from sorrow"
+   },
+   {
+    "tibetan": "ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པ",
+    "use": "freedom from sorrow with no group left over"
+   },
+   {
+    "tibetan": "མྱ་ངན་ལས་འདས་པ",
+    "use": "freedom from sorrow"
+   },
+   {
+    "tibetan": "ཕུང་པོ",
+    "use": "group"
+   },
+   {
+    "tibetan": "ཐེག་པ",
+    "use": "vehicle"
+   },
+   {
+    "tibetan": "དབྱིངས",
+    "use": "expanse"
+   }
+  ],
+  "translation": "Subhuti, anyone who has correctly entered the awakening hero's vehicle should think like this: 'I will lead all living beings to complete freedom from sorrow in the expanse of freedom from sorrow with no group left over.'"
+ },
+ {
+  "id": "8-85",
+  "tibetan": "དེ་ལྟར་སེམས་ཅན་ཚད་མེད་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ཀྱང༌། སེམས་ཅན་གང་ཡང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་གྱུར་པ་མེད་དོ་སྙམ་དུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "academic_translation": "Even though immeasurable sentient beings have been led to complete nirvāṇa in this way, they should generate the mind thinking, 'No sentient being whatsoever has been led to complete nirvāṇa.'",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ",
+    "use": "complete freedom from sorrow"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད་པ",
+    "use": "set the mind"
+   }
+  ],
+  "translation": "Even though countless living beings are led to complete freedom from sorrow in this way, they should set the mind to think: 'Not a single living being has been led to complete freedom from sorrow.'"
+ },
+ {
+  "id": "8-86",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་ན་དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་ལ།",
+  "academic_translation": "Why is that? Subhūti, if a bodhisattva engages in the perception of a sentient being, they are not to be called a bodhisattva;",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "Why is that? Subhuti, if an awakening hero holds the idea of a living being, they are not called an awakening hero."
+ },
+ {
+  "id": "8-87",
+  "tibetan": "གང་ཟག་གི་བར་དུ་འདུ་ཤེས་འཇུག་ན་ཡང༌། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+  "academic_translation": "and because, even if they engage in a perception up to that of a person, they are not to be called a bodhisattva.",
+  "locked_terms": [
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "If they hold an idea of a person, they are not called an awakening hero."
+ },
+ {
+  "id": "8-88",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པ་ཞེས་བྱ་བའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+  "academic_translation": "Why is that? Subhūti, it is because there is no phenomenon whatsoever called 'having correctly entered the bodhisattva vehicle'.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+    "use": "awakening hero's vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཐེག་པ",
+    "use": "vehicle"
+   }
+  ],
+  "translation": "Why is that? Subhuti, there is no thing at all called 'truly entering the awakening hero's vehicle'."
+ },
+ {
+  "id": "8-89",
+  "tibetan": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Subhuti, what do you think?"
+ },
+ {
+  "id": "8-90",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་གང་ཡང་ཡོད་སྙམ་མམ།",
+  "academic_translation": "Do you think there is any phenomenon whatsoever by which the Tathāgata fully awakened to unsurpassed, perfectly complete awakening from the Tathāgata Dīpaṃkara?",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མར་མེ་མཛད",
+    "use": "Dipankara"
+   },
+   {
+    "tibetan": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "highest, complete awakening"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+    "use": "fully awake"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "complete awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "Do you think the Thus-Gone One got any thing from the Thus-Gone One Dipankara to become fully awake to the highest, complete awakening?"
+ },
+ {
+  "id": "8-91",
+  "tibetan": "དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང༌།བཅོམ་ལྡན་འདས་ལ་ཚེ་དང༌ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "academic_translation": "When he had spoken those words, the venerable Subhūti addressed the Blessed One as follows:",
+  "locked_terms": [
+   {
+    "tibetan": "ཚེ་དང༌ལྡན་པ་རབ་འབྱོར",
+    "use": "honored Subhuti"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཚེ་དང༌ལྡན་པ",
+    "use": "honored"
+   }
+  ],
+  "translation": "After he said this, the honored Subhuti replied to the Blessed One:"
+ },
+ {
+  "id": "8-92",
+  "tibetan": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་སོ། །",
+  "academic_translation": "Blessed One, there is no phenomenon whatsoever by which the Tathāgata fully awakened to unsurpassed, perfectly complete awakening from the Tathāgata Dīpaṃkara.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མར་མེ་མཛད",
+    "use": "Dipankara"
+   },
+   {
+    "tibetan": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "highest, complete awakening"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+    "use": "fully awake"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "complete awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "Blessed One, the Thus-Gone One did not get any thing at all from the Thus-Gone One Dipankara to become fully awake to the highest, complete awakening."
+ },
+ {
+  "id": "8-93",
+  "tibetan": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "academic_translation": "When he had spoken thus, the Blessed One said this to the venerable Subhūti:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར",
+    "use": "honored Subhuti"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   }
+  ],
+  "translation": "After he said this, the Blessed One spoke to honored Subhuti."
+ },
+ {
+  "id": "8-94",
+  "tibetan": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "academic_translation": "Subhūti, it is so. It is just so.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "\"Subhuti, it is so. It is just so."
+ },
+ {
+  "id": "8-95",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ལས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་དོ། །",
+  "academic_translation": "There is no phenomenon whatsoever by which the Tathāgata fully awakened to unsurpassed, perfectly complete awakening from the Tathāgata Dīpaṃkara.",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མར་མེ་མཛད",
+    "use": "Dipankara"
+   },
+   {
+    "tibetan": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "highest, complete awakening"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+    "use": "fully awake"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "complete awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "There is no thing at all by which the Thus-Gone One became fully awake to the highest, complete awakening from the Thus-Gone One Dipankara."
+ },
+ {
+  "id": "8-96",
+  "tibetan": "རབ་འབྱོར་གལ་ཏེ་དེ་བཞིན་གཤེགས་པས་གང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་འགའ་ཞིག་ཡོད་པར་གྱུར་ན། དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ཀྱིས་ང་ལ་བྲམ་ཟེའི་ཁྱེའུ་ཁྱོད་མ་འོངས་པའི་དུས་ན། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ཞེས་བྱ་བར་འགྱུར་རོ། ། ཞེས་ལུང་མི་སྟོན་པ་ཞིག་ན།",
+  "academic_translation": "Subhūti, if there were some phenomenon by which the Tathāgata fully awakened, the Tathāgata Dīpaṃkara would not have prophesied to me, \"Young Brahmin, in a future time you will become the Tathāgata, arhat, perfectly complete Buddha named Śākyamuni.\"",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+    "use": "fully awake"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "མར་མེ་མཛད",
+    "use": "Dipankara"
+   },
+   {
+    "tibetan": "བྲམ་ཟེའི་ཁྱེའུ",
+    "use": "Brahmin boy"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+    "use": "complete Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཤཱཀྱ་ཐུབ་པ",
+    "use": "Shakyamuni"
+   },
+   {
+    "tibetan": "བྲམ་ཟེ",
+    "use": "Brahmin"
+   }
+  ],
+  "translation": "Subhuti, if there were some thing by which the Thus-Gone One became fully awake, the Thus-Gone One Dipankara would not have foretold this to me: 'Brahmin boy, in the future you will become the Thus-Gone One, the worthy one, the complete Buddha named Shakyamuni.'"
+ },
+ {
+  "id": "8-97",
+  "tibetan": "རབ་འབྱོར་འདི་ལྟར་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་པས་",
+  "academic_translation": "Subhūti, since there is no phenomenon whatsoever by which the Tathāgata fully awakened to unsurpassed, perfectly complete awakening,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "highest, complete awakening"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+    "use": "fully awake"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "complete awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "Subhuti, because there is no thing at all by which the Thus-Gone One became fully awake to the highest, complete awakening,"
+ },
+ {
+  "id": "8-98",
+  "tibetan": "དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་མར་མེ་མཛད་ཀྱིས་ང་ལ་བྲམ་ཟེའི་ཁྱེའུ་ཁྱོད་མ་འོངས་པའི་དུས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ཞེས་བྱ་བར་འགྱུར་རོ་ཞེས་ལུང་བསྟན་ཏོ། །",
+  "academic_translation": "therefore the Tathāgata Dīpaṃkara prophesied to me, \"Young Brahmin, in a future time you will become the Tathāgata, arhat, perfectly complete Buddha named Śākyamuni.\"",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མར་མེ་མཛད",
+    "use": "Dipankara"
+   },
+   {
+    "tibetan": "བྲམ་ཟེའི་ཁྱེའུ",
+    "use": "Brahmin boy"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+    "use": "complete Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཤཱཀྱ་ཐུབ་པ",
+    "use": "Shakyamuni"
+   },
+   {
+    "tibetan": "ལུང་བསྟན",
+    "use": "foretell"
+   },
+   {
+    "tibetan": "བྲམ་ཟེ",
+    "use": "Brahmin"
+   }
+  ],
+  "translation": "That is why the Thus-Gone One Dipankara foretold this to me: \"Brahmin boy, in the future you will become the Thus-Gone One, the worthy one, the complete Buddha named Shakyamuni.\""
+ },
+ {
+  "id": "8-99",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ཞེས་པ་ནི། ཡང་དག་པའི་དེ་བཞིན་ཉིད་ཀྱི་ཚིག་བླ་དྭགས་ཡིན་པའི་ཕྱིར་རོ། །",
+  "academic_translation": "Why is that? Subhūti, because the term \"Tathāgata\" is a designation for true suchness.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "ཡང་དག་པའི་དེ་བཞིན་ཉིད",
+    "use": "the true way things are"
+   },
+   {
+    "tibetan": "དེ་བཞིན་ཉིད",
+    "use": "the way things are"
+   },
+   {
+    "tibetan": "ཚིག་བླ་དྭགས",
+    "use": "name"
+   }
+  ],
+  "translation": "Why is that? Subhuti, because 'Thus-Gone One' is a name for the true way things are."
+ },
+ {
+  "id": "8-100",
+  "tibetan": "ཡང་རབ་འབྱོར་གང་ལ་ལ་ཞིག་འདི་སྐད་དུ། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་ཞེས་ཟེར་ན། དེ་ལོག་པར་སྨྲ་བ་ཡིན་ནོ། །",
+  "academic_translation": "Furthermore, Subhūti, if anyone were to speak thus: 'The Tathāgata, the arhat, the perfectly complete Buddha fully awakened to unsurpassed, perfectly complete awakening,' they would be speaking falsely.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+    "use": "complete Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "highest, complete awakening"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས",
+    "use": "fully awake"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "complete awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "Also, Subhuti, if someone said, 'The Thus-Gone One, the worthy one, the complete Buddha is fully awake to the highest, complete awakening,' they would be speaking falsely."
+ },
+ {
+  "id": "8-101",
+  "tibetan": "དེ་དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བརྗོད་དོ་",
+  "academic_translation": "The Tathāgata calls that one \"a bodhisattva, a bodhisattva\".",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "The Thus-Gone One calls that one 'an awakening hero, an awakening hero.'"
+ },
+ {
+  "id": "8-102",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་གང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའི་ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ། །",
+  "academic_translation": "Why is that? Subhūti, because there is no phenomenon whatsoever that the Tathāgata fully awakened to as unsurpassed, perfectly complete awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "highest, complete awakening"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+    "use": "fully awake"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "complete awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "Why is that? Subhuti, because there is no thing at all that the Thus-Gone One is fully awake to as the highest, complete awakening."
+ },
+ {
+  "id": "8-103",
+  "tibetan": "རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཆོས་གང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ལ་བདེན་པའང་མེད། རྫུན་པ་ཡང་མེད་དོ། །",
+  "academic_translation": "Subhūti, in the phenomenon that the Tathāgata fully awakened to or taught, there is neither truth nor falsehood.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+    "use": "fully awake"
+   }
+  ],
+  "translation": "Subhuti, in the thing that the Thus-Gone One is fully awake to or taught, there is neither truth nor falsehood."
+ },
+ {
+  "id": "8-104",
+  "tibetan": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་ཆོས་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་ཆོས་ཞེས་གསུངས་སོ། །",
+  "academic_translation": "Therefore, the Tathāgata has declared, \"All phenomena are the qualities of a Buddha.\"",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "ཆོས་ཐམས་ཅད",
+    "use": "all things"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་ཀྱི་ཆོས",
+    "use": "qualities of a Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "Therefore, the Thus-Gone One has said, 'All things are the qualities of a Buddha.'"
+ },
+ {
+  "id": "8-105",
+  "tibetan": "རབ་འབྱོར་ཆོས་ཐམས་ཅད་ཅེས་བྱ་བ་ནི། དེ་དག་ཐམས་ཅད་ཆོས་མེད་པ་ཡིན་ཏེ།",
+  "academic_translation": "Subhūti, as for what are called 'all phenomena,' they are all non-phenomena;",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཆོས་ཐམས་ཅད",
+    "use": "all things"
+   },
+   {
+    "tibetan": "ཆོས་མེད་པ",
+    "use": "non-thing"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "Subhuti, what are called \"all things\" are all non-things."
+ }
+]

@@ -1,0 +1,2423 @@
+[
+ {
+  "id": "0-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "Diamond Cutter",
+    "evidence": "Sanskrit title is Ārya Vajracchedikā Prajñāpāramitā Nāma Mahāyāna Sūtra (Noble Perfection of Wisdom called the Diamond Cutter, a Mahāyāna sūtra); children's text gives only the short name (locked term maps the whole title to Diamond Cutter).",
+    "fix": "In the language of India: the noble perfect wisdom called the Diamond Cutter, a Great Vehicle sacred text."
+   }
+  ]
+ },
+ {
+  "id": "0-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "He finished eating his alms food.",
+    "evidence": "Academic: 'Having given up the alms of the later meal' - he set aside any further meal; children's text only says he finished eating.",
+    "fix": "He did not take any more food. He put away his alms bowl and teaching robe."
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "with careful attention, ready to pay full attention",
+    "evidence": "Tibetan/academic: 'having established mindfulness to the fore' (one phrase, locked 'pay full attention'); the text splits it into two and adds 'ready to'.",
+    "fix": "He sat up straight and paid full attention."
+   }
+  ]
+ },
+ {
+  "id": "1-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "major",
+    "span": "However many exist in the realm of living beings",
+    "evidence": "Academic: 'however many are designated by conceptual designation as sentient beings in the realm of sentient beings' - they are merely called/designated living beings; 'exist' asserts real existence and drops the designation point that sets up the paradox in 4-2.",
+    "fix": "However many are called living beings in the realm of living beings, I will lead them all to complete freedom from sorrow in the expanse of freedom from sorrow with no group left over."
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "I must help all kinds of living beings.",
+    "evidence": "Academic has the thought 'all those I shall lead to complete nirvana'; 'I must help' adds an obligation and a different action (help vs lead to freedom from sorrow).",
+    "fix": "I will lead all living beings to freedom from sorrow. This includes..."
+   }
+  ]
+ },
+ {
+  "id": "4-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "whatever the Thus-Gone One taught as perfect marks are not perfect marks",
+    "evidence": "Academic: whatever the Tathagata has taught as the perfection of marks is itself no perfection of marks.",
+    "fix": "Because what the Thus-Gone One calls perfect marks is not perfect marks."
+   }
+  ]
+ },
+ {
+  "id": "6-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "wherever there are perfect marks, there is falsehood",
+    "evidence": "Academic: to whatever extent there is the perfection of marks, to that extent there is falsehood (a matter of degree, not place).",
+    "fix": "Subhuti, as far as there are perfect marks, that far there is falsehood."
+   }
+  ]
+ },
+ {
+  "id": "6-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Wherever there are no perfect marks, there is no falsehood",
+    "evidence": "Academic: to whatever extent there is no perfection of marks, to that extent there is no falsehood.",
+    "fix": "As far as there are no perfect marks, that far there is no falsehood."
+   }
+  ]
+ },
+ {
+  "id": "6-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-28",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Those who know this lesson on the teaching is like a raft",
+    "evidence": "Academic: Those who know this Dharma discourse to be like a raft should abandon even phenomena.",
+    "fix": "Those who know that this lesson on the teaching is like a raft should let go of even things, let alone what is not a thing."
+   }
+  ]
+ },
+ {
+  "id": "6-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "are known by what is not made by causes",
+    "evidence": "Academic: noble persons are 'distinguished by the unconditioned' (set apart by it), not merely 'known by' it.",
+    "fix": "Because noble persons are set apart from others by what is not made by causes."
+   }
+  ]
+ },
+ {
+  "id": "6-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "they are called a stream-enterer",
+    "evidence": "Academic: 'he is called a stream-enterer' (singular); the children's text switches to plural 'they ... a stream-enterer', which is ungrammatical.",
+    "fix": "That is why he is called a stream-enterer."
+   }
+  ]
+ },
+ {
+  "id": "7-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-52",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "you should listen closely",
+    "evidence": "Academic translation: 'you should take an interest' (pay attention with interest/care), not just listening.",
+    "fix": "Subhuti, you should pay close attention."
+   }
+  ]
+ },
+ {
+  "id": "7-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "That person would create much more stored-up goodness from it.",
+    "evidence": "The merit of teaching even a four-line verse is far greater than (bas) the merit of giving away bodies as numerous as the Ganges sand; the comparison is explicit.",
+    "fix": "The person who teaches the verse would create much more stored-up goodness than the one who gave all those bodies. It would be too great to count or measure."
+   }
+  ]
+ },
+ {
+  "id": "8-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-52",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "many millions of long ages",
+    "evidence": "Academic: 'many hundred-thousands of myriads of millions of eons' - a far larger, stacked number than 'many millions'.",
+    "fix": "for countless long ages, many hundreds of thousands of millions of millions"
+   }
+  ]
+ },
+ {
+  "id": "8-53",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "takes it up, keeps it, reads it, masters it, and teaches it to others",
+    "evidence": "Academic lists: writes it down, takes it up, holds it, keeps it, reads it, completely masters it, and extensively and correctly teaches it; 'holds it' and 'widely and truly' are dropped.",
+    "fix": "writes it down, takes it up, holds it, keeps it, reads it, masters it completely, and teaches it to others widely and truly"
+   }
+  ]
+ },
+ {
+  "id": "8-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-56",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "the best vehicle. He also spoke it for living beings who have rightly entered the best vehicle",
+    "evidence": "Academic gives two different terms ('supreme vehicle' and 'foremost vehicle'); the children's text repeats the identical phrase, so the second clause reads as a mistaken repeat.",
+    "fix": "for living beings who have rightly entered the best vehicle, and for living beings who have rightly entered the highest vehicle (note: glossary lists 'best vehicle' for both terms)"
+   }
+  ]
+ },
+ {
+  "id": "8-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-87",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "If they hold an idea of a person",
+    "evidence": "'even if they engage in a perception up to that of a person' - the sutra runs the list of ideas through to 'person'; 'even' and 'up to' are lost, and the 'because' link to the previous line.",
+    "fix": "Even if they hold any of these ideas, right up to the idea of a person, they are not called an awakening hero."
+   }
+  ]
+ },
+ {
+  "id": "8-88",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "truly entering the awakening hero's vehicle",
+    "evidence": "'having correctly entered the bodhisattva vehicle'; the same phrase is rendered 'correctly entered' in 8-80 and 8-84.",
+    "fix": "there is no thing at all called 'correctly entering the awakening hero's vehicle'."
+   }
+  ]
+ },
+ {
+  "id": "8-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-90",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "got any thing from the Thus-Gone One Dipankara to become fully awake",
+    "evidence": "'any phenomenon by which the Tathagata fully awakened ... from Dipankara' - a thing by which he awakened, not a thing he received or got.",
+    "fix": "Is there any thing by which the Thus-Gone One became fully awake to the highest, complete awakening in the time of the Thus-Gone One Dipankara?"
+   }
+  ]
+ },
+ {
+  "id": "8-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-92",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "did not get any thing at all from the Thus-Gone One Dipankara",
+    "evidence": "'no phenomenon whatsoever by which the Tathagata fully awakened ... from Dipankara' - not a thing that was got.",
+    "fix": "there is no thing at all by which the Thus-Gone One became fully awake to the highest, complete awakening in the time of the Thus-Gone One Dipankara."
+   }
+  ]
+ },
+ {
+  "id": "8-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-111",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-113",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-114",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-117",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-118",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "an awakening hero might firmly believe this",
+    "evidence": "Says 'any bodhisattva who resolutely believes thus ... is called a great being' (a general statement about whoever believes), not a possibility.",
+    "fix": "Subhuti, any awakening hero who firmly believes this: 'Things are without a self, things are without a self,' is called a great awakening hero by the Thus-Gone One, the worthy one, the complete Buddha."
+   }
+  ]
+ },
+ {
+  "id": "9-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "the streams of mind and the different thoughts of all the living beings",
+    "evidence": "'streams of mind of the diverse intentions of however many sentient beings'; intentions qualify the streams, not a separate item.",
+    "fix": "I fully know the streams of mind, with all their different wishes, of every living being in those world realms."
+   }
+  ]
+ },
+ {
+  "id": "9-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-12",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "is seen by the full accomplishment",
+    "evidence": "Tibetan/academic: 'is to be seen' (should be viewed) by the perfect accomplishment; the children's text loses the 'to be / should' sense.",
+    "fix": "Do you think the Thus-Gone One should be seen by the full accomplishment of the form body?"
+   }
+  ]
+ },
+ {
+  "id": "10-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "They would be holding onto a mistake about something that does not exist.",
+    "evidence": "Academic: they slander me BY a mistaken grasping of what does not exist; the children's text splits this into two separate statements and loses the 'by' link.",
+    "fix": "They would be lying about me, because they are wrongly holding onto something that does not exist."
+   }
+  ]
+ },
+ {
+  "id": "10-27",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "you can hold onto",
+    "evidence": "Tibetan dmigs ('apprehended', locked children's rendering 'found'); 'hold onto' blurs it with the 'grasping' in 10-26.",
+    "fix": "there is no teaching at all that you can find as 'explaining the teaching'."
+   }
+  ]
+ },
+ {
+  "id": "10-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-41",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "is equal because it is without",
+    "evidence": "Academic: 'equal in being without a self...'; 'because' makes it a cause rather than the respect in which it is equal.",
+    "fix": "That highest, complete awakening is equal in being without a self, without a living being, without a life, and without a person."
+   }
+  ]
+ },
+ {
+  "id": "10-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "From this, they make a pile of stored-up goodness that is vastly greater, countless, and beyond measure.",
+    "evidence": "The sutra compares the donor's gift with the bodhisattva's patience: the bodhisattva's merit is vastly greater than that of the one who gives the worlds full of precious things. The children's text only hints at this with 'But'.",
+    "fix": "But an awakening hero might gain patience in this lesson on the teaching being without a self and not born. That hero makes a pile of stored-up goodness that is vastly greater than the gift, countless and beyond measure."
+   }
+  ]
+ },
+ {
+  "id": "11-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Would that bunch of tiny specks be very large?",
+    "evidence": "Tibetan mang ba / academic 'numerous': the question is whether the collection of specks is many, not large.",
+    "fix": "Would that bunch of tiny specks be very many?"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "ground all the earth in a world realm into powder. Imagine this world realm is a universe of a billion worlds.",
+    "evidence": "The earth particles are those in the whole universe of a billion worlds (three-thousandfold great thousandfold world system); calling it 'a world realm' and then redefining it is confusing.",
+    "fix": "Suppose they ground all the earth in a whole universe of a billion worlds into powder."
+   }
+  ]
+ },
+ {
+  "id": "12-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "very large",
+    "evidence": "Academic: the collection of subtle particles would be numerous (མང་བ = many), not large in size.",
+    "fix": "That bunch of tiny specks would be very many."
+   }
+  ]
+ },
+ {
+  "id": "12-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "understand",
+    "evidence": "Academic: \"know, see, and resolve upon\" (མོས་པར་བྱ); \"understand\" repeats \"know\" and loses the third verb (trusting/resolving).",
+    "fix": "should know, see, and have faith in all things in this way:"
+   }
+  ]
+ },
+ {
+  "id": "12-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-24",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "think of a great awakening hero ... Now think of a son of a good family or a daughter of a good family. ... This person will create much more stored-up goodness.",
+    "evidence": "Academic: the merit of the one who writes/teaches even a four-line verse is \"much more\" than (compared to) the merit of the bodhisattva great being who fills world systems with the seven precious substances and gives them; the comparison between the two is the point.",
+    "fix": "Furthermore, Subhuti, imagine a great awakening hero who fills countless world realms with the seven precious things and gives them all away as a gift. Now imagine a son or daughter of a good family who writes down, learns, keeps, reads, understands, or fully teaches others even just a four-line verse from this perfect wisdom. This person creates much more stored-up goodness than the hero did, too great to count or measure."
+   }
+  ]
+ },
+ {
+  "id": "12-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "12-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "This is the Diamond Cutter perfection of perfect wisdom.",
+    "evidence": "Academic: a single title, \"Diamond Cutter perfection of wisdom\"; the added sentence repeats the title and \"perfection of perfect wisdom\" is redundant and confusing.",
+    "fix": "The noble Great Vehicle sacred text called Perfect Wisdom that Cuts Like a Diamond (the Diamond Cutter) is complete."
+   }
+  ]
+ },
+ {
+  "id": "13-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-6",
+  "verdict": "pass",
+  "issues": []
+ }
+]

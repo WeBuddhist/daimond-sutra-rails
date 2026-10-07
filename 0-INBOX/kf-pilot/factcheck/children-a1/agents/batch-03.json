@@ -1,0 +1,221 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "6-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "are known by what is not made by causes",
+     "evidence": "Academic: noble persons are 'distinguished by the unconditioned' (set apart by it), not merely 'known by' it.",
+     "fix": "Because noble persons are set apart from others by what is not made by causes."
+    }
+   ]
+  },
+  {
+   "id": "6-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "they are called a stream-enterer",
+     "evidence": "Academic: 'he is called a stream-enterer' (singular); the children's text switches to plural 'they ... a stream-enterer', which is ungrammatical.",
+     "fix": "That is why he is called a stream-enterer."
+    }
+   ]
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

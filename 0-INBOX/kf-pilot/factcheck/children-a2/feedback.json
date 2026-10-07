@@ -1,0 +1,14 @@
+{
+ "12-24": {
+  "translation": "Subhuti, think of a great awakening hero. They fill countless world realms with the seven precious things. They give them as a gift. Now think of a son of a good family or a daughter of a good family. They might write down, take up, keep, read, or master even just a four-line verse from this perfect wisdom. They might fully teach this perfection to others. Doing this creates much more stored-up goodness. It is countless and beyond measure.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "Doing this creates much more stored-up goodness.",
+    "evidence": "The segment is a comparison: the merit from filling countless world realms with the seven precious things and giving them is surpassed by the merit of the son or daughter of a good family who writes down, holds, reads, masters or teaches even a four-line verse ('compared to ... much more merit'). The children's text frames the two as separate scenes ('think of...') and never says the merit is more than the gift's, so the comparison is lost and 'Doing this' is unclear.",
+    "fix": "Someone could fill countless world realms with the seven precious things and give them as a gift. But a son or daughter of a good family could write down, take up, keep, read, or master even one four-line verse from this perfect wisdom, or teach it fully to others. That person creates much more stored-up goodness than the gift, countless and beyond measure."
+   }
+  ]
+ }
+}

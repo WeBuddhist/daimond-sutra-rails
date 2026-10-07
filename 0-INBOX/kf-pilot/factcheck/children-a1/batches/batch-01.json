@@ -1,0 +1,914 @@
+[
+ {
+  "id": "0-1",
+  "tibetan": "༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+  "academic_translation": "Herein is contained the Noble Perfection of Wisdom called the Diamond Cutter.",
+  "locked_terms": [
+   {
+    "tibetan": "འཕགས་པ",
+    "use": "noble"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "རྡོ་རྗེ་གཅོད་པ",
+    "use": "Diamond Cutter"
+   }
+  ],
+  "translation": "Here is the noble perfect wisdom called the Diamond Cutter."
+ },
+ {
+  "id": "0-2",
+  "tibetan": "རྒྱ་གར་སྐད་དུ། ཨརྱཱ་བཛྲ་ཙྪེད་ཀ་པྲཛྙཱ་པ་ར་མི་ཏཱ་ནཱ་མ་མ་ཧཱ་ཡ་ན་སཱུ་ཏྲ།",
+  "academic_translation": "In the language of India: Ārya Vajracchedikā Prajñāpāramitā Nāma Mahāyāna Sūtra.",
+  "locked_terms": [
+   {
+    "tibetan": "ཨརྱཱ་བཛྲ་ཙྪེད་ཀ་པྲཛྙཱ་པ་ར་མི་ཏཱ་ནཱ་མ་མ་ཧཱ་ཡ་ན་སཱུ་ཏྲ",
+    "use": "Diamond Cutter"
+   }
+  ],
+  "translation": "In the language of India: Diamond Cutter."
+ },
+ {
+  "id": "0-3",
+  "tibetan": "བོད་སྐད་དུ། འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།",
+  "academic_translation": "In the Tibetan language: The Noble Perfection of Wisdom called the Diamond Cutter, a Mahāyāna sūtra.",
+  "locked_terms": [
+   {
+    "tibetan": "འཕགས་པ",
+    "use": "noble"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "རྡོ་རྗེ་གཅོད་པ",
+    "use": "Diamond Cutter"
+   },
+   {
+    "tibetan": "ཐེག་པ་ཆེན་པོ",
+    "use": "Great Vehicle"
+   },
+   {
+    "tibetan": "མདོ",
+    "use": "sacred text"
+   }
+  ],
+  "translation": "In the Tibetan language: The noble perfect wisdom called the Diamond Cutter, a Great Vehicle sacred text."
+ },
+ {
+  "id": "0-4",
+  "tibetan": "སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །",
+  "academic_translation": "Homage to all Buddhas and bodhisattvas.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "I bow to all Buddhas and awakening heroes."
+ },
+ {
+  "id": "1-1",
+  "tibetan": "འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།",
+  "academic_translation": "Thus did I hear at one time.",
+  "locked_terms": [],
+  "translation": "This is what I heard one time."
+ },
+ {
+  "id": "1-2",
+  "tibetan": "བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང༌། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དག་དང་ཐབས་གཅིག་ཏུ་བཞུགས་སོ། །",
+  "academic_translation": "The Blessed One was dwelling in Śrāvastī at Jetavana, the park of Anāthapiṇḍada, together with a great community of one thousand two hundred and fifty monks, and very many bodhisattva great beings.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "མཉན་ཡོད",
+    "use": "Shravasti"
+   },
+   {
+    "tibetan": "རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ",
+    "use": "Jeta Grove"
+   },
+   {
+    "tibetan": "མགོན་མེད་ཟས་སྦྱིན",
+    "use": "Anathapindada"
+   },
+   {
+    "tibetan": "དགེ་སློང",
+    "use": "monk"
+   },
+   {
+    "tibetan": "དགེ་འདུན",
+    "use": "community"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+    "use": "great awakening hero"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་དཔའ་ཆེན་པོ",
+    "use": "great hero"
+   }
+  ],
+  "translation": "The Blessed One was staying in Shravasti at the Jeta Grove, the park of Anathapindada. A great community of one thousand two hundred and fifty monks was there. Many great awakening heroes were with him too."
+ },
+ {
+  "id": "1-3",
+  "tibetan": "དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ། ཤམ་ཐབས་དང་ཆོས་གོས་སྐུ་ལ་གསོལ་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་སོ། །",
+  "academic_translation": "Then, in the morning time, the Blessed One put on his lower robe and Dharma robe, took up his alms bowl, and went to the great city of Śrāvastī for alms.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཤམ་ཐབས",
+    "use": "lower robe"
+   },
+   {
+    "tibetan": "ཆོས་གོས",
+    "use": "teaching robe"
+   },
+   {
+    "tibetan": "ལྷུང་བཟེད",
+    "use": "alms bowl"
+   },
+   {
+    "tibetan": "མཉན་ཡོད",
+    "use": "Shravasti"
+   },
+   {
+    "tibetan": "བསོད་སྙོམས",
+    "use": "alms food"
+   }
+  ],
+  "translation": "In the morning, the Blessed One put on his lower robe and his teaching robe. He picked up his alms bowl. He walked into the great city of Shravasti for his alms food."
+ },
+ {
+  "id": "1-4",
+  "tibetan": "དེ་ནས་བཅོམ་ལྡན་འདས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་ནས་ཞལ་ཟས་གསོལ་ཏེ་ཟས་ཀྱི་བྱ་བ་མཛད་དེ།",
+  "academic_translation": "Then the Blessed One, having gone to the great city of Śrāvastī for alms, partook of his meal and completed the action of eating,",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "མཉན་ཡོད",
+    "use": "Shravasti"
+   },
+   {
+    "tibetan": "བསོད་སྙོམས",
+    "use": "alms food"
+   }
+  ],
+  "translation": "The Blessed One went to the great city of Shravasti for alms food. He ate his meal and finished eating."
+ },
+ {
+  "id": "1-5",
+  "tibetan": "ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས་ལྷུང་བཟེད་དང་ཆོས་གོས་བཞག་ནས། ཞབས་བསིལ་ཏེ་གདན་བཤམས་པ་ལ་སྐྱིལ་མོ་ཀྲུང་བཅས་ནས་སྐུ་དྲང་པོར་བསྲང་སྟེ། དྲན་པ་མངོན་དུ་བཞག་ནས་བཞུགས་སོ། །",
+  "academic_translation": "Having given up the alms of the later meal, he set aside his alms bowl and Dharma robe, washed his feet, sat cross-legged on the arranged seat, straightened his body, and remained, having established mindfulness to the fore.",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་སྙོམས",
+    "use": "alms food"
+   },
+   {
+    "tibetan": "ལྷུང་བཟེད",
+    "use": "alms bowl"
+   },
+   {
+    "tibetan": "ཆོས་གོས",
+    "use": "teaching robe"
+   },
+   {
+    "tibetan": "སྐྱིལ་མོ་ཀྲུང་བཅས",
+    "use": "cross-legged"
+   },
+   {
+    "tibetan": "དྲན་པ་མངོན་དུ་བཞག",
+    "use": "pay full attention"
+   },
+   {
+    "tibetan": "དྲན་པ",
+    "use": "careful attention"
+   }
+  ],
+  "translation": "He finished eating his alms food. He put away his alms bowl and teaching robe. He washed his feet and sat cross-legged on his seat. He sat up straight with careful attention, ready to pay full attention."
+ },
+ {
+  "id": "1-6",
+  "tibetan": "དེ་ནས་དགེ་སློང་མང་པོས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་ལྷགས་ནས།",
+  "academic_translation": "Then many monks went to where the Blessed One was, and having approached him,",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་སློང",
+    "use": "monk"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Then many monks went over to where the Blessed One was. They walked right up to him."
+ },
+ {
+  "id": "1-7",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་ཕྱོགས་གཅིག་ཏུ་འཁོད་དོ། །",
+  "academic_translation": "They bowed their heads at the feet of the Blessed One, circumambulated him three times, and sat down to one side.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "བསྐོར་བ",
+    "use": "walk around"
+   }
+  ],
+  "translation": "They bowed their heads at the feet of the Blessed One. They walked around him three times and sat down to one side."
+ },
+ {
+  "id": "1-8",
+  "tibetan": "ཡང་དེའི་ཚེ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་ཏེ་འདུག་གོ །",
+  "academic_translation": "Also at that time, the venerable Subhūti had assembled in that very assembly and was seated there.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "འཁོར",
+    "use": "assembly"
+   }
+  ],
+  "translation": "At that time, the honored Subhuti was also sitting there in the assembly."
+ },
+ {
+  "id": "2-1",
+  "tibetan": "དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས།",
+  "academic_translation": "Then the venerable Subhūti rose from his seat, draped his upper robe over one shoulder, placed his right kneecap on the ground, and bowed with joined palms toward the Blessed One.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བླ་གོས",
+    "use": "upper robe"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཐལ་མོ་སྦྱར་བ",
+    "use": "palms together"
+   }
+  ],
+  "translation": "Then the honored Subhuti stood up from his seat. He put his upper robe over one shoulder. He put his right knee on the ground. He put his palms together and bowed to the Blessed One."
+ },
+ {
+  "id": "2-2",
+  "tibetan": "བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "academic_translation": "He addressed the Blessed One with these words:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "He spoke these words to the Blessed One:"
+ },
+ {
+  "id": "2-3",
+  "tibetan": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཕན་གདགས་པའི་དམ་པ་ཇི་སྙེད་པས་ཕན་གདགས་པ་དང༌། དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཡོངས་སུ་གཏད་པའི་དམ་པ་ཇི་སྙེད་པས་ཡོངས་སུ་གཏད་པ་ནི། བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ། ། བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །",
+  "academic_translation": "Blessed One, it is wonderful to what supreme extent the Tathāgata, the arhat, the perfectly complete Buddha, has benefited the bodhisattva great beings, and to what supreme extent the Tathāgata has entrusted the bodhisattva great beings. Blessed One, it is wonderful! Sugata, it is wonderful!",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+    "use": "complete Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+    "use": "great awakening hero"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་དཔའ་ཆེན་པོ",
+    "use": "great hero"
+   },
+   {
+    "tibetan": "བདེ་བར་གཤེགས་པ",
+    "use": "Well-Gone One"
+   }
+  ],
+  "translation": "\"Blessed One, it is wonderful how the Thus-Gone One, the worthy one, the complete Buddha, has helped the great awakening heroes in the highest way. It is wonderful how the Thus-Gone One has placed the highest trust in the great awakening heroes. Blessed One, it is wonderful! Well-Gone One, it is wonderful!\""
+ },
+ {
+  "id": "2-4",
+  "tibetan": "བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས་ཇི་ལྟར་གནས་པར་བགྱི།",
+  "academic_translation": "Blessed One, how should one who has correctly entered the bodhisattva vehicle abide?",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+    "use": "awakening hero's vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "\"Blessed One, how should someone who has entered the awakening hero's vehicle live?\""
+ },
+ {
+  "id": "2-5",
+  "tibetan": "ཇི་ལྟར་བསྒྲུབ་པར་བགྱི།",
+  "academic_translation": "How should one practice?",
+  "locked_terms": [],
+  "translation": "\"How should they practice?\""
+ },
+ {
+  "id": "2-6",
+  "tibetan": "ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བགྱི།",
+  "academic_translation": "How should one hold the mind?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་རབ་ཏུ་གཟུང་བ",
+    "use": "keep the mind steady"
+   }
+  ],
+  "translation": "\"How should they keep the mind steady?\""
+ },
+ {
+  "id": "2-7",
+  "tibetan": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌།",
+  "academic_translation": "When he had spoken thus,",
+  "locked_terms": [],
+  "translation": "When he had said this,"
+ },
+ {
+  "id": "3-1",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "academic_translation": "The Blessed One said this to the venerable Subhūti:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "The Blessed One said this to the honored Subhuti:"
+ },
+ {
+  "id": "3-2",
+  "tibetan": "རབ་འབྱོར་ལེགས་སོ་ལེགས་སོ། །",
+  "academic_translation": "Subhūti, excellent, excellent!",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Subhuti, excellent, excellent!"
+ },
+ {
+  "id": "3-3",
+  "tibetan": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "academic_translation": "Subhūti, it is so, it is so.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Subhuti, it is so, it is so."
+ },
+ {
+  "id": "3-4",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཕན་གདགས་པའི་དམ་པས་ཕན་གདགས་སོ། །",
+  "academic_translation": "The Tathāgata has benefited the bodhisattva great beings with the supreme benefit.",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+    "use": "great awakening hero"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་དཔའ་ཆེན་པོ",
+    "use": "great hero"
+   }
+  ],
+  "translation": "The Thus-Gone One has given the greatest help to the great awakening heroes."
+ },
+ {
+  "id": "3-5",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ལ་ཡོངས་སུ་གཏད་པའི་དམ་པས་ཡོངས་སུ་གཏད་དོ། །",
+  "academic_translation": "The Tathāgata has entrusted the bodhisattva great beings with the supreme entrustment.",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+    "use": "great awakening hero"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་དཔའ་ཆེན་པོ",
+    "use": "great hero"
+   }
+  ],
+  "translation": "The Thus-Gone One has given the greatest trust to the great awakening heroes."
+ },
+ {
+  "id": "3-6",
+  "tibetan": "རབ་འབྱོར་དེའི་ཕྱིར་ཉོན་ལ་ལེགས་པར་རབ་ཏུ་ཡིད་ལ་ཟུངས་ཤིག་དང༌།",
+  "academic_translation": "Therefore, Subhūti, listen, attend properly, and hold it thoroughly in mind, and",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Therefore, Subhuti, listen carefully, pay close attention, and keep this in mind."
+ },
+ {
+  "id": "3-7",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་བཞུགས་པས་ཇི་ལྟར་གནས་པར་བྱ་བ་དང༌། ཇི་ལྟར་བསྒྲུབ་པར་བྱ་བ་དང༌།  ཇི་ལྟར་སེམས་རབ་ཏུ་གཟུང་བར་བྱ་བ་ངས་ཁྱོད་ལ་བཤད་དོ། །",
+  "academic_translation": "I shall explain to you how one who has correctly entered the bodhisattva vehicle should abide, how one should practice, and how one should hold the mind.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+    "use": "awakening hero's vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་རབ་ཏུ་གཟུང་བ",
+    "use": "keep the mind steady"
+   }
+  ],
+  "translation": "I will explain how someone who has correctly entered the awakening hero's vehicle should live, how they should practice, and how they should keep the mind steady."
+ },
+ {
+  "id": "3-8",
+  "tibetan": "བཅོམ་ལྡན་འདས་དེ་དེ་བཞིན་ནོ། །ཞེས་གསོལ་ནས།",
+  "academic_translation": "Having replied, \"Blessed One, it is so,\"",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "He answered, \"Blessed One, it is so.\""
+ },
+ {
+  "id": "3-9",
+  "tibetan": "ཚེ་དང་ལྡན་པ་རབ་འབྱོར་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་མཉན་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "academic_translation": "the venerable Subhūti listened to the Blessed One, and the Blessed One spoke these words to the venerable Subhūti:",
+  "locked_terms": [
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "The honored Subhuti listened to the Blessed One, and the Blessed One spoke these words to the honored Subhuti:"
+ },
+ {
+  "id": "4-1",
+  "tibetan": "རབ་འབྱོར་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པས། འདི་སྙམ་དུ་བདག་གིས་སེམས་ཅན་ཇི་ཙམ་སེམས་ཅན་དུ་བསྡུ་བས་བསྡུས་པ། སྒོ་ང་ལས་སྐྱེས་པའམ། མངལ་ལས་སྐྱེས་པའམ། དྲོད་གཤེར་ལས་སྐྱེས་པའམ། རྫུས་ཏེ་སྐྱེས་པའམ། གཟུགས་ཅན་ནམ། གཟུགས་ཅན་མ་ཡིན་པའམ། འདུ་ཤེས་ཅན་ནམ། འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་ནམ། སེམས་ཅན་གྱི་ཁམས་ཇི་ཙམ་སེམས་ཅན་དུ་གདགས་པའི་བརྟགས་པ་དེ་དག་ཐམས་ཅད་ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །",
+  "academic_translation": "Subhūti, here one who has correctly entered the bodhisattva vehicle should think in this way: 'However many sentient beings are subsumed by the subsumption of sentient beings—whether born from eggs, or born from a womb, or born from warmth and moisture, or miraculously born, or having form, or without form, or having perception, or without perception, or neither with perception nor without perception—however many are designated by conceptual designation as sentient beings in the realm of sentient beings, all those I shall lead to complete nirvāṇa in the expanse of nirvāṇa without remainder of the aggregates.'",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ",
+    "use": "awakening hero's vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྒོ་ང་ལས་སྐྱེས་པ",
+    "use": "born from eggs"
+   },
+   {
+    "tibetan": "མངལ་ལས་སྐྱེས་པ",
+    "use": "born from a womb"
+   },
+   {
+    "tibetan": "དྲོད་གཤེར་ལས་སྐྱེས་པ",
+    "use": "born from warmth and moisture"
+   },
+   {
+    "tibetan": "རྫུས་ཏེ་སྐྱེས་པ",
+    "use": "miraculously born"
+   },
+   {
+    "tibetan": "གཟུགས་ཅན",
+    "use": "having a shape"
+   },
+   {
+    "tibetan": "གཟུགས་ཅན་མ་ཡིན་པ",
+    "use": "without form"
+   },
+   {
+    "tibetan": "འདུ་ཤེས་ཅན",
+    "use": "having ideas"
+   },
+   {
+    "tibetan": "འདུ་ཤེས་མེད",
+    "use": "without ideas"
+   },
+   {
+    "tibetan": "འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན",
+    "use": "neither with ideas nor without ideas"
+   },
+   {
+    "tibetan": "སེམས་ཅན་གྱི་ཁམས",
+    "use": "realm of living beings"
+   },
+   {
+    "tibetan": "ཕུང་པོ",
+    "use": "group"
+   },
+   {
+    "tibetan": "ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས",
+    "use": "expanse of freedom from sorrow with no group left over"
+   },
+   {
+    "tibetan": "མྱ་ངན་ལས་འདས་པ",
+    "use": "freedom from sorrow"
+   },
+   {
+    "tibetan": "ཡོངས་སུ་མྱ་ངན་ལས་འདའ",
+    "use": "complete freedom from sorrow"
+   },
+   {
+    "tibetan": "ཕུང་པོ་ལྷག་མ་མེད་པ",
+    "use": "with no group left over"
+   },
+   {
+    "tibetan": "མྱ་ངན་ལས་འདས་པའི་དབྱིངས",
+    "use": "expanse of freedom from sorrow"
+   }
+  ],
+  "translation": "Subhuti, someone who has correctly entered the awakening hero's vehicle should think like this: 'I must help all kinds of living beings. This includes those born from eggs, or born from a womb. It includes those born from warmth and moisture, or miraculously born. It includes those having a shape, and those without form. It includes those having ideas, and those without ideas. It even includes those neither with ideas nor without ideas. However many exist in the realm of living beings, I will lead them all to complete freedom from sorrow in the expanse of freedom from sorrow with no group left over.'"
+ },
+ {
+  "id": "4-2",
+  "tibetan": "དེ་ལྟར་སེམས་ཅན་ཚད་མེད་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ཀྱང༌། སེམས་ཅན་གང་ཡང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་འགྱུར་བ་མེད་དོ་སྙམ་དུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "academic_translation": "Even though immeasurable sentient beings are thus led to complete nirvāṇa, one should generate the mind thinking that no sentient being whatsoever has been led to complete nirvāṇa.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཡོངས་སུ་མྱ་ངན་ལས་འདས",
+    "use": "complete freedom from sorrow"
+   },
+   {
+    "tibetan": "མྱ་ངན་ལས་འདས",
+    "use": "freedom from sorrow"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད་པ",
+    "use": "set the mind"
+   }
+  ],
+  "translation": "Countless living beings are led to complete freedom from sorrow in this way. But you must set the mind to think that no living being at all has been led to complete freedom from sorrow."
+ },
+ {
+  "id": "4-3",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+  "academic_translation": "Why is that? Because they would not be called a bodhisattva.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "Why is that? Because then they would not be called an awakening hero."
+ },
+ {
+  "id": "4-4",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་སེམས་ཅན་དུ་འདུ་ཤེས་འཇུག་གམ། སྲོག་ཏུ་འདུ་ཤེས་འཇུག་གམ། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་ན། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། །",
+  "academic_translation": "Why is that? Because, Subhūti, if one engages in the perception of a sentient being, engages in the perception of a life-force, or engages in the perception of a person, they are not to be called a bodhisattva.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "སེམས་ཅན་དུ་འདུ་ཤེས",
+    "use": "idea of a living being"
+   },
+   {
+    "tibetan": "སྲོག་ཏུ་འདུ་ཤེས",
+    "use": "idea of a life"
+   },
+   {
+    "tibetan": "གང་ཟག་ཏུ་འདུ་ཤེས",
+    "use": "idea of a person"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "Why is that? Because, Subhuti, if someone has the idea of a living being, the idea of a life, or the idea of a person, they are not called an awakening hero."
+ },
+ {
+  "id": "4-5",
+  "tibetan": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་དངོས་པོ་ལ་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "academic_translation": "Moreover, Subhūti, a bodhisattva should practice generosity without abiding in an entity.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "real object"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   }
+  ],
+  "translation": "Also, Subhuti, an awakening hero should practice giving without staying in a real object."
+ },
+ {
+  "id": "4-6",
+  "tibetan": "ཅི་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "academic_translation": "They should practice generosity without abiding in anything.",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   }
+  ],
+  "translation": "They should practice giving without staying in anything."
+ },
+ {
+  "id": "4-7",
+  "tibetan": "གཟུགས་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "academic_translation": "They should practice generosity without abiding in form.",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "shape"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   }
+  ],
+  "translation": "They should practice giving without staying in a shape."
+ },
+ {
+  "id": "4-8",
+  "tibetan": "དེ་བཞིན་དུ་སྒྲ་དང༌། དྲི་དང་། རོ་དང༌། རེག་བྱ་དང༌། ཆོས་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། །",
+  "academic_translation": "Likewise, generosity should be practiced without abiding in sounds, smells, tastes, tangible objects, or even phenomena.",
+  "locked_terms": [
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   },
+   {
+    "tibetan": "དྲི",
+    "use": "smell"
+   },
+   {
+    "tibetan": "རོ",
+    "use": "taste"
+   },
+   {
+    "tibetan": "རེག་བྱ",
+    "use": "thing that is touched"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   }
+  ],
+  "translation": "In the same way, they should practice giving without staying in a sound, a smell, a taste, a thing that is touched, or even a thing."
+ },
+ {
+  "id": "4-9",
+  "tibetan": "རབ་འབྱོར་ཅི་ནས་ཀྱང་མཚན་མར་འདུ་ཤེས་པ་ལ་ཡང་མི་གནས་པར་དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔས་སྦྱིན་པ་སྦྱིན་ནོ། །",
+  "academic_translation": "Subhūti, a bodhisattva should practice generosity in such a way that they are without abiding even in the perception of a sign.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "མཚན་མ",
+    "use": "sign"
+   },
+   {
+    "tibetan": "མཚན་མར་འདུ་ཤེས་པ",
+    "use": "idea of a sign"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   }
+  ],
+  "translation": "Subhuti, an awakening hero should practice giving without staying even in the idea of a sign."
+ },
+ {
+  "id": "4-10",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན།",
+  "academic_translation": "Why is that?",
+  "locked_terms": [],
+  "translation": "Why is that?"
+ },
+ {
+  "id": "5-1",
+  "tibetan": "རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་གང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པ་དེའི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི། རབ་འབྱོར་ཚད་གཟུང་བར་སླ་བ་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+  "academic_translation": "Subhūti, it is because the mass of merit of a bodhisattva who practices generosity without abiding is not easy to measure, Subhūti.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   }
+  ],
+  "translation": "Subhuti, it is because when an awakening hero practices giving without staying, their pile of stored-up goodness is not easy to measure, Subhuti."
+ },
+ {
+  "id": "5-2",
+  "tibetan": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། ཤར་ཕྱོགས་ཀྱི་ནམ་མཁའི་ཚད་གཟུང་བར་སླ་སྙམ་མམ།",
+  "academic_translation": "Subhūti, what do you think? Do you think it is easy to measure space in the eastern direction?",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ནམ་མཁའ",
+    "use": "space"
+   },
+   {
+    "tibetan": "ཤར་ཕྱོགས",
+    "use": "east"
+   }
+  ],
+  "translation": "Subhuti, what do you think? Is it easy to measure space in the east?"
+ }
+]

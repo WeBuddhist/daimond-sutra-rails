@@ -1,0 +1,825 @@
+[
+ {
+  "id": "7-67",
+  "tibetan": "རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཞེས་བྱ་སྟེ་",
+  "academic_translation": "Subhūti, the name of this Dharma discourse is the perfection of wisdom;",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfection"
+   }
+  ],
+  "translation": "Subhuti, the name of this lesson on the teaching is perfect wisdom, the perfection of wisdom;"
+ },
+ {
+  "id": "7-68",
+  "tibetan": "འདི་དེ་ལྟར་ཟུངས་ཤིག །",
+  "academic_translation": "you should hold it thus.",
+  "locked_terms": [],
+  "translation": "You should remember it like this."
+ },
+ {
+  "id": "7-69",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་གང་གསུངས་པ་དེ་ཉིད་ཕ་རོལ་ཏུ་ཕྱིན་པ་མེད་པའི་ཕྱིར་ཏེ།",
+  "academic_translation": "Why is that? Subhūti, because the very perfection of wisdom spoken by the Tathāgata is itself not a perfection.",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfection"
+   }
+  ],
+  "translation": "Why is that? Subhuti, because the perfect wisdom spoken by the Thus-Gone One is itself not a perfection."
+ },
+ {
+  "id": "7-70",
+  "tibetan": "དེས་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཞེས་བྱའོ། །",
+  "academic_translation": "Therefore, it is called the perfection of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfection"
+   }
+  ],
+  "translation": "That is why it is called perfect wisdom, the perfection of wisdom."
+ },
+ {
+  "id": "7-71",
+  "tibetan": "རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "Subhuti, what do you think?"
+ },
+ {
+  "id": "7-72",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཆོས་དེ་གང་ཡང་ཡོད་སྙམ་མམ།",
+  "academic_translation": "Do you think there is any phenomenon whatsoever spoken by the Tathāgata?",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "Do you think there is any thing at all spoken by the Thus-Gone One?"
+ },
+ {
+  "id": "7-73",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པས་གང་གསུངས་པའི་ཆོས་དེ་གང་ཡང་མ་མཆིས་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied, \"Blessed One, there is no phenomenon whatsoever that has been taught by the Tathāgata.\"",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, there is no thing at all that the Thus-Gone One has taught.\""
+ },
+ {
+  "id": "7-74",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "The Blessed One said, \"Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, what do you think?"
+ },
+ {
+  "id": "7-75",
+  "tibetan": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན་སའི་རྡུལ་ཇི་སྙེད་ཡོད་པ་དེ་མང་བ་ཡིན་སྙམ་མམ།",
+  "academic_translation": "Do you think that the particles of earth that exist in the three-thousandfold great thousandfold world system are many?\"",
+  "locked_terms": [
+   {
+    "tibetan": "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "universe of a billion worlds"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   },
+   {
+    "tibetan": "སའི་རྡུལ",
+    "use": "speck of earth"
+   }
+  ],
+  "translation": "\"Do you think there are many specks of earth in this world realm, a universe of a billion worlds?\""
+ },
+ {
+  "id": "7-76",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་སའི་རྡུལ་དེ་མང་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied, \"Blessed One, those particles of earth are many.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "སའི་རྡུལ",
+    "use": "speck of earth"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, there are many of those specks of earth."
+ },
+ {
+  "id": "7-77",
+  "tibetan": "བདེ་བར་གཤེགས་པ་མང་ལགས་སོ། །",
+  "academic_translation": "Sugata, they are many.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་བར་གཤེགས་པ",
+    "use": "Well-Gone One"
+   }
+  ],
+  "translation": "Well-Gone One, they are many."
+ },
+ {
+  "id": "7-78",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་སའི་རྡུལ་གང་ལགས་པ་དེ་རྡུལ་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Why is that? Blessed One, it is because whatever is a particle of earth has been taught by the Tathāgata as not a particle,",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "སའི་རྡུལ",
+    "use": "speck of earth"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "Why is that? Blessed One, it is because the Thus-Gone One has taught that whatever is a speck of earth is not a speck,"
+ },
+ {
+  "id": "7-79",
+  "tibetan": "དེས་ན་སའི་རྡུལ་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, it is called a \"particle of earth.\"",
+  "locked_terms": [
+   {
+    "tibetan": "སའི་རྡུལ",
+    "use": "speck of earth"
+   }
+  ],
+  "translation": "That is why it is called a 'speck of earth.'"
+ },
+ {
+  "id": "7-80",
+  "tibetan": "འཇིག་རྟེན་གྱི་ཁམས་གང་ལགས་པ་དེ་དག་ཁམས་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Because whatever those world systems are, the Tathāgata has taught them as non-systems.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "Because whatever those world realms are, the Thus-Gone One taught that they are not realms."
+ },
+ {
+  "id": "7-81",
+  "tibetan": "དེས་ན་འཇིག་རྟེན་གྱི་ཁམས་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore, it is called a \"world system.\"",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན་གྱི་ཁམས",
+    "use": "world realm"
+   }
+  ],
+  "translation": "That is why it is called a 'world realm.'"
+ },
+ {
+  "id": "8-1",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས།",
+  "academic_translation": "The Blessed One said, Subhūti, what do you think?",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, what do you think?\""
+ },
+ {
+  "id": "8-2",
+  "tibetan": "སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་པོ་དེ་དག་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སུ་བལྟ་བར་བྱ་སྙམ་མམ།",
+  "academic_translation": "Do you think the Tathāgata, the arhat, the perfectly complete Buddha should be seen by those thirty-two marks of a great man?",
+  "locked_terms": [
+   {
+    "tibetan": "སྐྱེས་བུ་ཆེན་པོ",
+    "use": "great person"
+   },
+   {
+    "tibetan": "མཚན་སུམ་ཅུ་རྩ་གཉིས",
+    "use": "thirty-two marks"
+   },
+   {
+    "tibetan": "མཚན",
+    "use": "mark"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་པ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས",
+    "use": "complete Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   }
+  ],
+  "translation": "\"Do you think the Thus-Gone One, the worthy one, the complete Buddha should be seen by those thirty-two marks of a great person?\""
+ },
+ {
+  "id": "8-3",
+  "tibetan": "རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །",
+  "academic_translation": "Subhūti replied: \"Blessed One, that is not so.\"",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "Subhuti replied, \"Blessed One, that is not so.\""
+ },
+ {
+  "id": "8-4",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་གང་དག་དེ་བཞིན་གཤེགས་པས་གསུངས་པ་དེ་དག་མཚན་མ་མཆིས་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "\"Why is that? Because whatever thirty-two marks of a great man were spoken of by the Tathāgata, they were spoken of by the Tathāgata as no marks.",
+  "locked_terms": [
+   {
+    "tibetan": "སྐྱེས་བུ་ཆེན་པོ",
+    "use": "great person"
+   },
+   {
+    "tibetan": "མཚན་སུམ་ཅུ་རྩ་གཉིས",
+    "use": "thirty-two marks"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "མཚན",
+    "use": "mark"
+   }
+  ],
+  "translation": "\"Why is that? Because when the Thus-Gone One spoke of the thirty-two marks of a great person, the Thus-Gone One spoke of them as no marks."
+ },
+ {
+  "id": "8-5",
+  "tibetan": "དེས་ན་སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་རྣམས་ཞེས་བགྱིའོ། །",
+  "academic_translation": "Therefore they are called the thirty-two marks of a great man.\"",
+  "locked_terms": [
+   {
+    "tibetan": "སྐྱེས་བུ་ཆེན་པོ",
+    "use": "great person"
+   },
+   {
+    "tibetan": "མཚན་སུམ་ཅུ་རྩ་གཉིས",
+    "use": "thirty-two marks"
+   },
+   {
+    "tibetan": "མཚན",
+    "use": "mark"
+   }
+  ],
+  "translation": "That is why they are called the thirty-two marks of a great person.\""
+ },
+ {
+  "id": "8-6",
+  "tibetan": "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་སྐྱེས་པའམ། བུད་མེད་གང་ལ་ལ་ཞིག་གིས་ལུས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་བ་བས། གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་ཙམ་བཟུང་སྟེ་གཞན་དག་ལ་ཡང་དག་པར་བསྟན་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་དོ། །",
+  "academic_translation": "The Blessed One said: \"Subhūti, if some man or woman were to give away bodies as numerous as the grains of sand of the Gaṅgā river, someone who takes up even just a four-line verse from this Dharma discourse and teaches it properly to others would, on that basis, generate far greater merit than that, incalculable and immeasurable.\"",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "གང་གཱའི་ཀླུང",
+    "use": "Ganges River"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ",
+    "use": "four-line verse"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   }
+  ],
+  "translation": "The Blessed One said, \"Subhuti, imagine a man or woman gives away as many bodies as there are grains of sand in the Ganges River. Now imagine someone takes just a four-line verse from this lesson on the teaching and teaches it well to others. That person would create much more stored-up goodness from it. It would be too great to count or measure.\""
+ },
+ {
+  "id": "8-7",
+  "tibetan": "དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ཆོས་ཀྱི་ཤུགས་ཀྱིས་མཆི་མ་ཕྱུང་སྟེ།",
+  "academic_translation": "Then venerable Subhūti shed tears by the force of the Dharma.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   }
+  ],
+  "translation": "Then the honored Subhuti cried because of the power of the teaching."
+ },
+ {
+  "id": "8-8",
+  "tibetan": "དེས་མཆི་མ་ཕྱིས་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །",
+  "academic_translation": "Having wiped away his tears, he said this to the Blessed One:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "He wiped away his tears and said this to the Blessed One:"
+ },
+ {
+  "id": "8-9",
+  "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་དེ་བཞིན་གཤེགས་པ་ཇི་སྙེད་པས་གསུངས་པ་ནི། བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ། །བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །",
+  "academic_translation": "Blessed One, it is a marvel how extensively this Dharma discourse has been spoken by the Tathāgata. Sugata, it is a marvel.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "བདེ་བར་གཤེགས་པ",
+    "use": "Well-Gone One"
+   }
+  ],
+  "translation": "Blessed One, it is a marvel how fully the Thus-Gone One has spoken this lesson on the teaching. Well-Gone One, it is a marvel."
+ },
+ {
+  "id": "8-10",
+  "tibetan": "བཅོམ་ལྡན་འདས་བདག་གིས་ཡེ་ཤེས་སྐྱེས་ཚུན་ཆད་བདག་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སྔོན་ནམ་ཡང་མ་ཐོས་ལགས་སོ། །",
+  "academic_translation": "Blessed One, ever since pristine wisdom arose in me, I have never before heard this Dharma discourse.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཡེ་ཤེས",
+    "use": "deep knowing"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   }
+  ],
+  "translation": "Blessed One, ever since deep knowing awoke in me, I have never before heard this lesson on the teaching."
+ },
+ {
+  "id": "8-11",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་མདོ་སྡེ་བཤད་པ་འདི་ལ་གང་དག་ཡང་དག་པར་འདུ་ཤེས་བསྐྱེད་པར་འགྱུར་བའི་སེམས་ཅན་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་ལགས་སོ། །",
+  "academic_translation": "Why is that? Blessed One, those sentient beings who will generate a true perception regarding this sūtra being explained will be endowed with supreme marvel.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "མདོ་སྡེ",
+    "use": "sacred text"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་འདུ་ཤེས",
+    "use": "true idea"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "Why is that? Blessed One, those living beings who form a true idea about this sacred text being explained will be filled with the greatest wonder."
+ },
+ {
+  "id": "8-12",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་ཡང་དག་པར་འདུ་ཤེས་པ་གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་མ་མཆིས་པའི་སླད་དུ་སྟེ།",
+  "academic_translation": "Why is that? Blessed One, it is because whatever is a true perception is itself a non-perception.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཡང་དག་པར་འདུ་ཤེས",
+    "use": "true idea"
+   },
+   {
+    "tibetan": "འདུ་ཤེས་མ་མཆིས་པ",
+    "use": "absence of ideas"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "Why is that? Blessed One, it is because whatever is a true idea is itself an absence of ideas."
+ },
+ {
+  "id": "8-13",
+  "tibetan": "དེས་ན་ཡང་དག་པར་འདུ་ཤེས་ཞེས་དེ་བཞིན་གཤེགས་པས་གསུངས་སོ། །",
+  "academic_translation": "Therefore, the Tathāgata speaks of 'true perception'.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡང་དག་པར་འདུ་ཤེས",
+    "use": "true idea"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "That is why the Thus-Gone One speaks of a 'true idea'."
+ },
+ {
+  "id": "8-14",
+  "tibetan": "བཅོམ་ལྡན་འདས་བདག་ནི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པ་ལ་རྟོག་ཅིང་མོས་པ་ནི། བདག་ལ་ངོ་མཚར་མ་ལགས་ཀྱི།",
+  "academic_translation": "Blessed One, that I contemplate and have faith in this Dharma discourse being explained is not a marvel to me.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   }
+  ],
+  "translation": "Blessed One, it is no marvel to me that I think about and trust this lesson on the teaching."
+ },
+ {
+  "id": "8-15",
+  "tibetan": "བཅོམ་ལྡན་འདས་སླད་མའི་ཚེ་སླད་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ་སེམས་ཅན་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འབྲི་བ་དང་། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་ལགས་སོ། །",
+  "academic_translation": "Blessed One, in the future time, in the last five hundred years, those sentient beings who take up, write, hold, keep, read, and fully master this Dharma discourse will be endowed with supreme marvel.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "སླད་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ",
+    "use": "last five hundred years"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   }
+  ],
+  "translation": "Blessed One, in the future, during the last five hundred years, some living beings will take up, write, hold, keep, read, and fully master this lesson on the teaching. They will be truly amazing."
+ },
+ {
+  "id": "8-16",
+  "tibetan": "ཡང་བཅོམ་ལྡན་འདས་དེ་དག་ནི་བདག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ཞིང༌།",
+  "academic_translation": "Furthermore, Blessed One, they will not engage in the perception of a self,",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "Also, Blessed One, they will not have the idea of a self."
+ },
+ {
+  "id": "8-17",
+  "tibetan": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་འཇུག་པར་མི་འགྱུར་ལགས་སོ། །",
+  "academic_translation": "and will not engage in the perception of a sentient being, the perception of a life-force, or the perception of a person.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "They will not have the idea of a living being, the idea of a life, or the idea of a person."
+ },
+ {
+  "id": "8-18",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། བཅོམ་ལྡན་འདས་བདག་ཏུ་འདུ་ཤེས་པ་དང༌། སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་པ་གང་ལགས་པ་དེ་ཉིད་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ།།",
+  "academic_translation": "Why is that? Because, Blessed One, whatever is the perception of a self, the perception of a sentient being, the perception of a life-force, and the perception of a person, that itself is devoid of all perceptions.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "Why is that? Because, Blessed One, the idea of a self, the idea of a living being, the idea of a life, and the idea of a person are all free from ideas."
+ },
+ {
+  "id": "8-19",
+  "tibetan": "དེ་ཅིའི་སླད་དུ་ཞེ་ན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བའི་སླད་དུའོ།།",
+  "academic_translation": "Why is that? Because the Buddhas, the Blessed Ones, are devoid of all perceptions.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "Why is that? Because the Buddhas, the Blessed Ones, are free from all ideas."
+ },
+ {
+  "id": "8-20",
+  "tibetan": "དེ་སྐད་ཅེས་གསོལ་པ་དང༌། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །",
+  "academic_translation": "When he had spoken thus, the Blessed One spoke these words to the venerable Subhūti:",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "ཚེ་དང་ལྡན་པ",
+    "use": "honored"
+   },
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "After he said this, the Blessed One spoke to honored Subhuti:"
+ },
+ {
+  "id": "8-21",
+  "tibetan": "རབ་འབྱོར་དེ་དེ་བཞིན་ནོ། །དེ་དེ་བཞིན་ཏེ།",
+  "academic_translation": "Subhūti, so it is. So it is.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   }
+  ],
+  "translation": "\"Subhuti, it is so. It is exactly so."
+ },
+ {
+  "id": "8-22",
+  "tibetan": "སེམས་ཅན་གང་དག་མདོ་སྡེ་འདི་བཤད་པ་ལ་མི་སྐྲག་ཅིང་མི་དངངས་ལ་ཀུན་ཏུ་དངངས་པར་མི་འགྱུར་བ་དེ་དག་ནི་ངོ་མཚར་རབ་དང་ལྡན་པར་འགྱུར་རོ། །",
+  "academic_translation": "Those sentient beings who, when this sūtra is being explained, are not terrified, not frightened, and do not become completely frightened, will be endowed with supreme marvel.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "མདོ་སྡེ",
+    "use": "sacred text"
+   }
+  ],
+  "translation": "Any living beings who are not scared, frightened, or terrified at all when this sacred text is explained will be truly amazing."
+ },
+ {
+  "id": "8-23",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་འདི་ནི་དེ་བཞིན་གཤེགས་པས་གསུངས་ཏེ།",
+  "academic_translation": "Why is that? Subhūti, this supreme perfection was taught by the Tathāgata,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ",
+    "use": "highest perfection"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfection"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "Why is that? Subhuti, the Thus-Gone One taught this highest perfection."
+ },
+ {
+  "id": "8-24",
+  "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་གང་དག་དེ་བཞིན་གཤེགས་པས་གསུངས་པ་དེ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དཔག་ཏུ་མེད་པ་ཚད་མེད་པ་རྣམས་ཀྱིས་ཀྱང་གསུངས་པའི་ཕྱིར་ཏེ།",
+  "academic_translation": "because whatever supreme perfections were taught by the Tathāgata, those were also taught by immeasurable, countless Buddhas, the Blessed Ones.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ",
+    "use": "highest perfection"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfection"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བཅོམ་ལྡན་འདས",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "This is because whatever highest perfection the Thus-Gone One taught was also taught by countless, endless Buddhas, the Blessed Ones."
+ },
+ {
+  "id": "8-25",
+  "tibetan": "དེས་ན་ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་ཞེས་བྱའོ། །",
+  "academic_translation": "Therefore, it is called the supreme perfection.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ",
+    "use": "highest perfection"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfection"
+   }
+  ],
+  "translation": "That is why it is called the highest perfection."
+ }
+]

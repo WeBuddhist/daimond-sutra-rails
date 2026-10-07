@@ -1,0 +1,197 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "12-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "very large",
+     "evidence": "Academic: the collection of subtle particles would be numerous (མང་བ = many), not large in size.",
+     "fix": "That bunch of tiny specks would be very many."
+    }
+   ]
+  },
+  {
+   "id": "12-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "understand",
+     "evidence": "Academic: \"know, see, and resolve upon\" (མོས་པར་བྱ); \"understand\" repeats \"know\" and loses the third verb (trusting/resolving).",
+     "fix": "should know, see, and have faith in all things in this way:"
+    }
+   ]
+  },
+  {
+   "id": "12-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "think of a great awakening hero ... Now think of a son of a good family or a daughter of a good family. ... This person will create much more stored-up goodness.",
+     "evidence": "Academic: the merit of the one who writes/teaches even a four-line verse is \"much more\" than (compared to) the merit of the bodhisattva great being who fills world systems with the seven precious substances and gives them; the comparison between the two is the point.",
+     "fix": "Furthermore, Subhuti, imagine a great awakening hero who fills countless world realms with the seven precious things and gives them all away as a gift. Now imagine a son or daughter of a good family who writes down, learns, keeps, reads, understands, or fully teaches others even just a four-line verse from this perfect wisdom. This person creates much more stored-up goodness than the hero did, too great to count or measure."
+    }
+   ]
+  },
+  {
+   "id": "12-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "This is the Diamond Cutter perfection of perfect wisdom.",
+     "evidence": "Academic: a single title, \"Diamond Cutter perfection of wisdom\"; the added sentence repeats the title and \"perfection of perfect wisdom\" is redundant and confusing.",
+     "fix": "The noble Great Vehicle sacred text called Perfect Wisdom that Cuts Like a Diamond (the Diamond Cutter) is complete."
+    }
+   ]
+  },
+  {
+   "id": "13-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

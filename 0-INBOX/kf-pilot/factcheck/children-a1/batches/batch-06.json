@@ -1,0 +1,917 @@
+[
+ {
+  "id": "8-26",
+  "tibetan": "ཡང་རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་གང་ཡིན་པ་དེ་ཉིད་ཕ་རོལ་ཏུ་ཕྱིན་པ་མེད་དོ། །",
+  "academic_translation": "Moreover, Subhūti, whatever is the perfection of patience of the Tathāgata, that itself is no perfection.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect patience"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfection"
+   },
+   {
+    "tibetan": "བཟོད་པ",
+    "use": "patience"
+   }
+  ],
+  "translation": "Also, Subhuti, whatever is the perfect patience of the Thus-Gone One, that itself is no perfection.\""
+ },
+ {
+  "id": "8-27",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གང་གི་ཚེ་ཀ་ལིང་ཀའི་རྒྱལ་པོས། ངའི་ཡན་ལག་དང་ཉིང་ལག་རྣམས་བཅད་པར་གྱུར་པ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་སམ། སེམས་ཅན་དུ་འདུ་ཤེས་སམ། སྲོག་ཏུ་འདུ་ཤེས་སམ། གང་ཟག་ཏུ་འདུ་ཤེས་ཀྱང་མ་བྱུང་ཞིང༌།",
+  "academic_translation": "Why is that? Subhūti, at the time when the king of Kaliṅga severed my limbs and minor limbs, neither the perception of a self, nor the perception of a sentient being, nor the perception of a life-force, nor the perception of a person arose in me, and",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཀ་ལིང་ཀའི་རྒྱལ་པོ",
+    "use": "king of Kalinga"
+   },
+   {
+    "tibetan": "ཀ་ལིང་ཀ",
+    "use": "Kalinga"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "Why is that? Subhuti, when the king of Kalinga cut off my limbs, I did not have the idea of a self. I did not have the idea of a living being, the idea of a life, or the idea of a person, and"
+ },
+ {
+  "id": "8-28",
+  "tibetan": "ང་ལ་འདུ་ཤེས་ཅི་ཡང་མེད་ལ་འདུ་ཤེས་མེད་པར་གྱུར་པ་ཡང་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+  "academic_translation": "because I had no perception whatsoever, and it was not the case that I was without perception.",
+  "locked_terms": [
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "because I had no idea at all, and it was not that I was without an idea."
+ },
+ {
+  "id": "8-29",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་གལ་ཏེ་དེའི་ཚེ་ང་ལ་བདག་ཏུ་འདུ་ཤེས་བྱུང་ན། དེའི་ཚེ་གནོད་སེམས་ཀྱི་འདུ་ཤེས་ཀྱང་འབྱུང་ལ།",
+  "academic_translation": "Why is that? Subhūti, if at that time the perception of a self had arisen in me, then at that time the perception of malice would also have arisen, and",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "གནོད་སེམས",
+    "use": "wish to harm"
+   }
+  ],
+  "translation": "Why is that? Subhuti, if I had the idea of a self at that time, I would also have had the idea of a wish to harm, and"
+ },
+ {
+  "id": "8-30",
+  "tibetan": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་དང༌། སྲོག་ཏུ་འདུ་ཤེས་པ་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་བྱུང་ན། དེའི་ཚེ་གནོད་སེམས་ཀྱི་འདུ་ཤེས་ཀྱང་འབྱུང་བའི་ཕྱིར་རོ། །",
+  "academic_translation": "because if the perception of a sentient being, the perception of a life-force, or the perception of a person had arisen, then at that time the perception of malice would also have arisen.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "གནོད་སེམས",
+    "use": "wish to harm"
+   }
+  ],
+  "translation": "because if I had the idea of a living being, the idea of a life, or the idea of a person, I would also have had the idea of a wish to harm."
+ },
+ {
+  "id": "8-31",
+  "tibetan": "རབ་འབྱོར་ངས་མངོན་པར་ཤེས་ཏེ། འདས་པའི་དུས་ན། ང་ཚེ་རབས་ལྔ་བརྒྱར་བཟོད་པ་སྨྲ་བ་ཞེས་བྱ་བའི་དྲང་སྲོང་དུ་གྱུར་པ་དེའི་ཚེ་ན་ཡང༌། ང་ལ་བདག་ཏུ་འདུ་ཤེས་མ་བྱུང༌།",
+  "academic_translation": "Subhūti, I remember that in the past, when I was the sage called Kṣāntivādin for five hundred lifetimes, even at that time the perception of a self did not arise in me.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བཟོད་པ་སྨྲ་བ",
+    "use": "Speaker of Patience"
+   },
+   {
+    "tibetan": "དྲང་སྲོང",
+    "use": "sage"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "Subhuti, I remember that in the past I was the sage called Speaker of Patience for five hundred lifetimes. Even then, I did not have the idea of a self."
+ },
+ {
+  "id": "8-32",
+  "tibetan": "སེམས་ཅན་དུ་འདུ་ཤེས་དང༌། སྲོག་ཏུ་འདུ་ཤེས་དང༌། གང་ཟག་ཏུ་འདུ་ཤེས་མ་བྱུང་ངོ་། །",
+  "academic_translation": "Neither the perception of a sentient being, nor the perception of a life-force, nor the perception of a person arose.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "I did not have the idea of a living being, the idea of a life, or the idea of a person."
+ },
+ {
+  "id": "8-33",
+  "tibetan": "རབ་འབྱོར་དེ་ལྟ་བས་ན། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་འདུ་ཤེས་ཐམས་ཅད་རྣམ་པར་སྤངས་ཏེ།",
+  "academic_translation": "Therefore, Subhūti, a bodhisattva great being, having completely abandoned all perceptions,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ",
+    "use": "great awakening hero"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་དཔའ་ཆེན་པོ",
+    "use": "great hero"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   }
+  ],
+  "translation": "Therefore, Subhuti, a great awakening hero should let go of every idea."
+ },
+ {
+  "id": "8-34",
+  "tibetan": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "academic_translation": "should generate the mind for unsurpassed, perfectly complete awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ",
+    "use": "highest, complete awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད",
+    "use": "set the mind"
+   }
+  ],
+  "translation": "They should set the mind on the highest, complete awakening."
+ },
+ {
+  "id": "8-35",
+  "tibetan": "གཟུགས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "academic_translation": "They should generate the mind without abiding in form.",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "shape"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད",
+    "use": "set the mind"
+   }
+  ],
+  "translation": "They should set the mind without staying in a shape."
+ },
+ {
+  "id": "8-36",
+  "tibetan": "སྒྲ་དང་དྲི་དང་རོ་དང༌། རེག་བྱ་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "academic_translation": "They should generate the mind without abiding in sound, smell, taste, or tangible objects.",
+  "locked_terms": [
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   },
+   {
+    "tibetan": "དྲི",
+    "use": "smell"
+   },
+   {
+    "tibetan": "རོ",
+    "use": "taste"
+   },
+   {
+    "tibetan": "རེག་བྱ",
+    "use": "thing that is touched"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད",
+    "use": "set the mind"
+   }
+  ],
+  "translation": "They should set the mind without staying in a sound, a smell, a taste, or a thing that is touched."
+ },
+ {
+  "id": "8-37",
+  "tibetan": "ཆོས་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "academic_translation": "One should generate the mind without abiding in phenomena.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད",
+    "use": "set the mind"
+   }
+  ],
+  "translation": "They should set the mind without staying in a thing."
+ },
+ {
+  "id": "8-38",
+  "tibetan": "ཆོས་མེད་པ་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "academic_translation": "One should generate the mind without abiding even in non-phenomena.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས་མེད་པ",
+    "use": "non-thing"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད",
+    "use": "set the mind"
+   }
+  ],
+  "translation": "They should set the mind without staying even in a non-thing."
+ },
+ {
+  "id": "8-39",
+  "tibetan": "ཅི་ལ་ཡང་མི་གནས་པར་སེམས་བསྐྱེད་པར་བྱའོ། །",
+  "academic_translation": "One should generate the mind without abiding in anything at all.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད",
+    "use": "set the mind"
+   }
+  ],
+  "translation": "You should set the mind without staying in anything at all."
+ },
+ {
+  "id": "8-40",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། གནས་པ་གང་ཡིན་པ་དེ་ཉིད་མི་གནས་པའི་ཕྱིར་ཏེ།",
+  "academic_translation": "Why is that? Because whatever is an abiding is itself without abiding.",
+  "locked_terms": [
+   {
+    "tibetan": "གནས་པ",
+    "use": "staying"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   }
+  ],
+  "translation": "Why is that? Because whatever is staying is itself without staying."
+ },
+ {
+  "id": "8-41",
+  "tibetan": "དེ་བས་ན་དེ་བཞིན་གཤེགས་པས་འདི་སྐད་དུ། བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ཡང་མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པར་བྱའོ། ། ཞེས་གསུངས་སོ། །",
+  "academic_translation": "Therefore, the Tathāgata has spoken thus: \"A bodhisattva should practice generosity without abiding in anything at all.\"",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "མི་གནས་པ",
+    "use": "without staying"
+   }
+  ],
+  "translation": "That is why the Thus-Gone One said: \"An awakening hero should practice giving without staying in anything at all.\""
+ },
+ {
+  "id": "8-42",
+  "tibetan": "ཡང་རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་འདི་ལྟར་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་གྱི་ཕྱིར་སྦྱིན་པ་ཡོངས་སུ་གཏང་བར་བྱའོ། །",
+  "academic_translation": "Furthermore, Subhūti, a bodhisattva should completely relinquish generosity in this way for the benefit of all sentient beings.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "སེམས་ཅན་ཐམས་ཅད",
+    "use": "all living beings"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "Also, Subhuti, an awakening hero should completely let go of giving in this way to help all living beings."
+ },
+ {
+  "id": "8-43",
+  "tibetan": "སེམས་ཅན་དུ་འདུ་ཤེས་པ་གང་ཡིན་པ་དེ་ཉིད་ཀྱང་འདུ་ཤེས་མེད་པ་སྟེ།",
+  "academic_translation": "Whatever is the perception as a sentient being is itself a non-perception.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "འདུ་ཤེས་མེད་པ",
+    "use": "absence of ideas"
+   }
+  ],
+  "translation": "Whatever is the idea of a living being is itself an absence of ideas."
+ },
+ {
+  "id": "8-44",
+  "tibetan": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་ཐམས་ཅད་ཅེས་གང་དག་གསུངས་པའི་སེམས་ཅན་དེ་དག་ཉིད་ཀྱང་མེད་པའོ། །",
+  "academic_translation": "Those very sentient beings that the Tathāgata has spoken of as \"all sentient beings\" are themselves non-existent.",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "སེམས་ཅན་ཐམས་ཅད",
+    "use": "all living beings"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "Those living beings that the Thus-Gone One called \"all living beings\" do not exist."
+ },
+ {
+  "id": "8-45",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་ནི་ཡང་དག་པར་གསུང་བ། བདེན་པར་གསུང་བ། དེ་བཞིན་ཉིད་དུ་གསུང་བ་སྟེ།",
+  "academic_translation": "Why is that? Subhūti, the Tathāgata speaks authentically, speaks truthfully, and speaks in accordance with suchness,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དེ་བཞིན་ཉིད",
+    "use": "the way things are"
+   }
+  ],
+  "translation": "Why is that? Subhuti, the Thus-Gone One speaks what is real. He speaks the truth. He speaks according to the way things are."
+ },
+ {
+  "id": "8-46",
+  "tibetan": "དེ་བཞིན་གཤེགས་པ་ནི་ལོག་པར་གསུང་བ་མ་ཡིན་པའི་ཕྱིར་རོ། །",
+  "academic_translation": "because the Tathāgata does not speak falsely.",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "This is because the Thus-Gone One does not speak falsely."
+ },
+ {
+  "id": "8-47",
+  "tibetan": "ཡང་རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་ཆོས་གང་ཡང་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པའམ། བསྟན་པ་དེ་ལ་བདེན་པ་ཡང་མེད། རྫུན་པ་ཡང་མེད་དོ། །",
+  "academic_translation": "Furthermore, Subhūti, in whatever phenomenon the Tathāgata has fully awakened to or taught, there is neither truth nor falsehood.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ",
+    "use": "fully awake"
+   },
+   {
+    "tibetan": "བདེན་པ",
+    "use": "truth"
+   },
+   {
+    "tibetan": "རྫུན་པ",
+    "use": "lie"
+   }
+  ],
+  "translation": "Also, Subhuti, in whatever thing the Thus-Gone One is fully awake to or teaches, there is neither truth nor a lie."
+ },
+ {
+  "id": "8-48",
+  "tibetan": "རབ་འབྱོར་འདི་ལྟ་སྟེ། དཔེར་ན་མིག་དང་ལྡན་པའི་མི་ཞིག་མུན་པར་ཞུགས་ན་ཅི་ཡང་མི་མཐོང་བ་དེ་བཞིན་དུ་གང་དངོས་པོར་ལྷུང་བས་སྦྱིན་པ་ཡོངས་སུ་གཏོང་བའི་བྱང་ཆུབ་སེམས་དཔའ་བལྟ་བར་བྱའོ། །",
+  "academic_translation": "Subhūti, it is like this: for example, just as a person with sight who has entered into darkness sees nothing at all, in the same way should one view a bodhisattva who completely gives generosity having fallen into entities.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "real object"
+   }
+  ],
+  "translation": "Subhuti, it is like this. Imagine a person with sight who walks into the dark and sees nothing at all. You should view an awakening hero who practices giving while caught up in real objects in the exact same way."
+ },
+ {
+  "id": "8-49",
+  "tibetan": "ཡང་རབ་འབྱོར་འདི་ལྟ་སྟེ། དཔེར་ན། ནམ་ལངས་ཏེ་ཉི་མ་ཤར་ནས་མིག་དང་ལྡན་པའི་མིས་གཟུགས་རྣམ་པ་སྣ་ཚོགས་དག་མཐོང་བ་དེ་བཞིན་དུ། གང་དངོས༌པོར་མ་ལྷུང་བས་སྦྱིན་པ་ཡོངས་སུ་གཏོང་བའི་བྱང་ཆུབ་སེམས་དཔའ་བལྟ་བར་བྱའོ། །",
+  "academic_translation": "Furthermore, Subhūti, it is like this: for example, when dawn breaks and the sun rises, a person with sight sees various forms; in the same way should one view a bodhisattva who completely gives generosity without having fallen into entities.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "དངོས༌པོ",
+    "use": "object"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "Also, Subhuti, it is like this. When dawn breaks and the sun rises, a person with sight sees many forms. You should view an awakening hero who practices giving without getting caught up in objects in the exact same way."
+ },
+ {
+  "id": "8-50",
+  "tibetan": "ཡང་རབ་འབྱོར་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་མཁྱེན། དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ་",
+  "academic_translation": "Furthermore, Subhūti, whatever sons of noble family or daughters of noble family take up this Dharma discourse, hold it, keep it, read it, completely master it, and extensively and authentically teach it to others, those are known by the Tathāgata, and are seen by the Tathāgata,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ",
+    "use": "son of a good family or daughter of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ",
+    "use": "son of a good family"
+   },
+   {
+    "tibetan": "རིགས་ཀྱི་བུ་མོ",
+    "use": "daughter of a good family"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "Also, Subhuti, think of any son of a good family or daughter of a good family who takes up this lesson on the teaching. They hold it, keep it, read it, and master it completely. They teach it to others widely and truly. The Thus-Gone One knows them, and the Thus-Gone One sees them."
+ },
+ {
+  "id": "8-51",
+  "tibetan": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་བསྐྱེད་པར་འགྱུར་རོ། །",
+  "academic_translation": "all those sentient beings will generate an immeasurable mass of merit.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   }
+  ],
+  "translation": "All those living beings will create a pile of stored-up goodness that cannot be measured."
+ },
+ {
+  "id": "8-52",
+  "tibetan": "ཡང་རབ་འབྱོར་སྐྱེས་པའམ། བུད་མེད་གང་ཞིག་སྔ་དྲོའི་དུས་ཀྱི་ཚེ་ལུས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་ལ། ཕྱེད་ཀྱི་དུས་དང༌། ཕྱི་དྲོའི་དུས་ཀྱི་ཚེ་ཡང་ལུས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གཏོང་སྟེ། རྣམ་གྲངས་འདི་ལྟ་བུར་བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མར་ལུས་ཡོངས་སུ་གཏོང་བ་བས།",
+  "academic_translation": "Moreover, Subhūti, if a man or a woman were to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during the morning, and were also to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during midday and during the afternoon, compared to completely giving away bodies in this manner for many hundred-thousands of myriads of millions of eons,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "གངྒཱའི་ཀླུང",
+    "use": "Ganges River"
+   },
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "long age"
+   }
+  ],
+  "translation": "Also, Subhuti, a man or woman might give away their bodies. They might give away as many bodies as there are sand grains in the Ganges River in the morning. They might do the same at midday and in the afternoon. Imagine they gave away their bodies like this for many millions of long ages."
+ },
+ {
+  "id": "8-53",
+  "tibetan": "གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་མི་སྤོང་ན། དེ་ཉིད་གཞི་དེ་ལས་བསོད་ནམས་ཆེས་མང་དུ་གྲངས་མེད་དཔག་ཏུ་མེད་པ་བསྐྱེད་ན། གང་གིས་ཡི་གེར་བྲིས་ནས་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་ལྟ་ཅི་སྨོས།",
+  "academic_translation": "if someone, having heard this Dharma discourse, does not abandon it, they would on that basis generate much more merit, countless and immeasurable. What need is there to mention someone who writes it down, takes it up, holds it, keeps it, reads it, completely masters it, and extensively and correctly teaches it to others?",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   }
+  ],
+  "translation": "But what if someone hears this lesson on the teaching and does not give it up? They will create much more stored-up goodness than that. It is countless and cannot be measured. What need is there to even mention someone who writes it down, takes it up, keeps it, reads it, masters it, and teaches it to others?"
+ },
+ {
+  "id": "8-54",
+  "tibetan": "ཡང་རབ་འབྱོར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་བསམ་གྱིས་མི་ཁྱབ་ཅིང༌། མཚུངས་པ་མེད་དེ།",
+  "academic_translation": "Furthermore, Subhūti, this Dharma discourse is inconceivable and incomparable.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   }
+  ],
+  "translation": "Also, Subhuti, this lesson on the teaching cannot be imagined. It cannot be compared to anything else."
+ },
+ {
+  "id": "8-55",
+  "tibetan": "འདིའི་རྣམ་པར་སྨིན་པ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་དུ་རིག་པར་བྱའོ། །",
+  "academic_translation": "Its ripening should also be known to be inconceivable.",
+  "locked_terms": [
+   {
+    "tibetan": "རྣམ་པར་སྨིན་པ",
+    "use": "ripening"
+   }
+  ],
+  "translation": "You should know that its ripening also cannot be imagined."
+ },
+ {
+  "id": "8-56",
+  "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་ཐེག་པ་མཆོག་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་དང༌། ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་གྱི་ཕྱིར་དེ་བཞིན་གཤེགས་པས་གསུངས་སོ། །",
+  "academic_translation": "The Tathāgata has spoken this Dharma discourse for the sake of those sentient beings who have correctly entered the supreme vehicle, and for the sake of those sentient beings who have correctly entered the foremost vehicle.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཐེག་པ་མཆོག",
+    "use": "best vehicle"
+   },
+   {
+    "tibetan": "ཐེག་པ་ཕུལ་དུ་ཕྱིན་པ",
+    "use": "best vehicle"
+   },
+   {
+    "tibetan": "ཐེག་པ",
+    "use": "vehicle"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "The Thus-Gone One spoke this lesson on the teaching for living beings who have rightly entered the best vehicle. He also spoke it for living beings who have rightly entered the best vehicle."
+ },
+ {
+  "id": "8-57",
+  "tibetan": "གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལེན་པ་དང༌། འཛིན་པ་དང༌། འཆང་བ་དང༌། ཀློག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་པ་དང༌། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པས་མཁྱེན། དེ་བཞིན་གཤེགས་པས་གཟིགས་ཏེ།",
+  "academic_translation": "The Tathāgata knows and the Tathāgata sees those who take up, hold, keep, read, master, and extensively and authentically teach this Dharma discourse to others;",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "The Thus-Gone One knows and the Thus-Gone One sees those who take up, hold, keep, read, master, and widely and truly teach this lesson on the teaching to others."
+ },
+ {
+  "id": "8-58",
+  "tibetan": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་དཔག་ཏུ་མེད་པ་དང་ལྡན་པར་འགྱུར་",
+  "academic_translation": "all those sentient beings will be endowed with an immeasurable mass of merit,",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   }
+  ],
+  "translation": "All those living beings will have a pile of stored-up goodness that cannot be measured."
+ },
+ {
+  "id": "8-59",
+  "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ་བསམ་གྱིས་མི་ཁྱབ་པ་དང༌། མཚུངས་པ་མེད་པ་དང༌། གཞལ་དུ་མེད་པ་དང༌། ཚད་མེད་པ་དང་ལྡན་པར་འགྱུར་ཏེ།",
+  "academic_translation": "they will be endowed with an inconceivable, incomparable, immeasurable, and limitless mass of merit,",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་ནམས་ཀྱི་ཕུང་པོ",
+    "use": "pile of stored-up goodness"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   }
+  ],
+  "translation": "They will have a pile of stored-up goodness that cannot be imagined, matched, measured, or limited."
+ },
+ {
+  "id": "8-60",
+  "tibetan": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ངའི་བྱང་ཆུབ་ཕྲག་པ་ལ་ཐོགས་པར་འགྱུར་རོ། །",
+  "academic_translation": "All those sentient beings will carry my awakening upon their shoulders.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "All those living beings will carry my awakening on their shoulders."
+ },
+ {
+  "id": "8-61",
+  "tibetan": "དེ་ཅིའི་ཕྱིར་ཞེ་ན། རབ་འབྱོར་དམན་པ་ལ་མོས་པ་རྣམས་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་མཉན་པར་མི་ནུས་ཏེ།",
+  "academic_translation": "Why is that? Subhūti, this Dharma discourse cannot be heard by those who are inclined toward the inferior,",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྣམ་གྲངས",
+    "use": "lesson on the teaching"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "དམན་པ་ལ་མོས་པ",
+    "use": "drawn to the lesser"
+   }
+  ],
+  "translation": "Why is that? Subhuti, this lesson on the teaching cannot be heard by those who are drawn to the lesser,"
+ },
+ {
+  "id": "8-62",
+  "tibetan": "བདག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སེམས་ཅན་དུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན། སྲོག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མ་ཡིན་ཞིང༌།",
+  "academic_translation": "nor by those who hold the view of a self, nor by those who hold the view of a sentient being, nor by those who hold the view of a life-force,",
+  "locked_terms": [
+   {
+    "tibetan": "བདག་ཏུ་ལྟ་བ",
+    "use": "view of a self"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "སེམས་ཅན་དུ་ལྟ་བ",
+    "use": "view of a living being"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྲོག་ཏུ་ལྟ་བ",
+    "use": "view of a life"
+   },
+   {
+    "tibetan": "སྲོག",
+    "use": "life"
+   }
+  ],
+  "translation": "nor by those who hold the view of a self, the view of a living being, or the view of a life."
+ },
+ {
+  "id": "8-63",
+  "tibetan": "གང་ཟག་ཏུ་ལྟ་བ་རྣམས་ཀྱིས་མཉན་པ་དང༌། བླང་བ་དང་། གཟུང་བ་དང༌། བཀླག་པ་དང༌། ཀུན་ཆུབ་པར་བྱེད་མི་ནུས་ཏེ།",
+  "academic_translation": "and those who hold a view of a person are unable to listen to, take up, retain, read, or master it,",
+  "locked_terms": [
+   {
+    "tibetan": "གང་ཟག་ཏུ་ལྟ་བ",
+    "use": "view of a person"
+   },
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   }
+  ],
+  "translation": "And those who hold a view of a person cannot listen to it, take it up, remember it, read it, or master it,"
+ },
+ {
+  "id": "8-64",
+  "tibetan": "དེ་ནི་གནས་མེད་པའི་ཕྱིར་རོ། །",
+  "academic_translation": "because that is impossible.",
+  "locked_terms": [],
+  "translation": "because that is impossible."
+ },
+ {
+  "id": "8-65",
+  "tibetan": "ཡང་རབ་འབྱོར་ས་ཕྱོགས་གང་ན་མདོ་སྡེ་འདི་སྟོན་པའི་ས་ཕྱོགས་དེ་ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་གྱིས་མཆོད་པ་བྱ་བར་འོས་པར་འགྱུར་རོ། །",
+  "academic_translation": "Moreover, Subhūti, any place where this sūtra is taught will become worthy of being venerated by the world with its gods, humans, and demigods.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་འབྱོར",
+    "use": "Subhuti"
+   },
+   {
+    "tibetan": "མདོ་སྡེ",
+    "use": "sacred text"
+   },
+   {
+    "tibetan": "ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན",
+    "use": "world with its gods, people, and jealous gods"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "ལྷ་མ་ཡིན",
+    "use": "jealous god"
+   },
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   },
+   {
+    "tibetan": "མི",
+    "use": "human"
+   }
+  ],
+  "translation": "Also, Subhuti, any place where this sacred text is taught will deserve respect. It will be honored by the world with its gods, humans, and jealous gods."
+ }
+]
