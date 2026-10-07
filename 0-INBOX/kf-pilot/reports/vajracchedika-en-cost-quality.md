@@ -131,23 +131,30 @@ Both were caught and fixed, but they show where a specialist's review time would
 
 ### How reliable is the checker?
 
-The same checker prompt was run on 24 segments of the finished English academic translation:
-- **18 with one planted error:** reversed negation, changed number, wrong name, dropped clause, added claim, swapped glossary term or wrong word.
+The checker prompt was tested in each language on the same 24 segments of the finished academic translation:
+- **18 with one planted error**, the same error at the same place in each language: reversed negation, changed number, wrong name, dropped clause, added claim, swapped glossary term or wrong word.
 - **6 left unchanged** as controls.
 
-| Planted errors | Caught (failed the segment) | Missed | False alarms on controls |
+| | en | zh | hi |
 |---|---|---|---|
-| 18 | 17 (94%) | 1 | 0 of 6 |
+| Planted errors caught (segment failed) | 17 / 18 (94%) | 17 / 18 (94%) | 17 / 18 (94%) |
+| …and the reported issue points at the planted words | 17 | 17 | 17 |
+| Severity matches the planted severity | 17 | 16 | 17 |
+| False alarms on the 6 controls | 0 | 0 | 0 |
+| Caught by checker **or** automatic glossary check | 18 / 18 | 18 / 18 | 18 / 18 |
 
-The one miss was a swapped glossary term ("enlightenment" for the locked "awakening"). The checker flagged it but
-rated it minor instead of major. The automatic glossary check catches that kind of error anyway. So the high pass
-rates above reflect the translation, not a lenient checker.
+The one miss is the same in all three languages: 8-97, where the locked term for "awakening" was swapped for a
+near-synonym ("enlightenment"; 無上正等正覺; पूर्ण ज्ञानोदय). The checker flagged it but rated it minor. The automatic glossary check
+catches exactly this kind of error, so the two checks together caught every planted error. The checker is as reliable in
+Chinese and Hindi as in English, and the high pass rates above reflect the translations, not a lenient checker.
 
-**This test was run in English only.** Two observations from the Chinese and Hindi runs:
+Two caveats:
+- **The test planted one clear error per segment.** Real errors are subtler, so recall on real errors may be lower.
+- **The zh and hi checkers had the English academic translation as a reference,** as they did in the real checks. It may have helped them spot the planted errors.
+
+Two observations from the real Chinese and Hindi runs:
 - **Severity varies between checkers.** The Chinese checker failed 8-72 for reducing a number to "very many". The Hindi checker rated a clumsy but complete rendering of the same number as minor. Both calls were correct, but the line between minor and major is drawn by each checker agent.
 - **Some checkers skipped the commentaries.** Several Hindi academic checkers judged from the Tibetan, the Sanskrit and the English reference without opening the commentaries they were given.
-
-A planted-error test in Chinese and Hindi would confirm the checker is as reliable outside English.
 
 ## 4. Still to do for this text
 
@@ -155,7 +162,6 @@ A planted-error test in Chinese and Hindi would confirm the checker is as reliab
   - the zero-shot versions vs the academic version vs a human translation;
   - the human reference has to be Chinese (Kumārajīva, Bodhiruci or the modern-Chinese version), because no English or Hindi human translation is in the vault;
   - scored by AI (GEMBA) and, if possible, by a specialist.
-- **Checker reliability in zh and hi:** repeat the planted-error test on Chinese and Hindi segments.
 - **Human comparison:** the cost of a human translation of the same 10,680 syllables at a stated rate, and the specialist time needed to bring the AI versions to publication. Neither is measured yet; no specialist time has been spent so far, apart from the editor decisions recorded in the glossary overrides.
 
 ## Method and caveats

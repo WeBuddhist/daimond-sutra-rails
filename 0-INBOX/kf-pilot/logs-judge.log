@@ -10,11 +10,33 @@
   Restart Zsh to retry gitstatus initialization:
 
     [32mexec zsh[39m
-Traceback (most recent call last):
-  File "/Users/tashitsering/Desktop/work/Obsidian/KF-project/daimond-sutra-rails/0-INBOX/kf-pilot/factcheck/pairwise_judge.py", line 172, in <module>
-    main()
-    ~~~~^^
-  File "/Users/tashitsering/Desktop/work/Obsidian/KF-project/daimond-sutra-rails/0-INBOX/kf-pilot/factcheck/pairwise_judge.py", line 164, in main
-    print(f"pairs to judge={len(pairs)} calls={len(jobs)}", flush=True)
-                            ~~~^^^^^^^
-TypeError: object of type 'int' has no len()
+judgements to make=276 calls=39
+  pass 1 en-academic 8-2..8-87 ok
+  pass 1 en-academic 6-25..7-78 ok
+  pass 1 en-academic 10-3..13-3 ok
+  pass 1 zh-academic 8-2..8-19 ok
+  pass 1 zh-academic 1-5..6-20 ok
+  pass 1 zh-academic 8-22..8-57 ok
+  pass 1 zh-academic 9-19..11-13 ok
+  pass 1 zh-academic 6-38..7-73 ok
+  pass 1 zh-academic 8-95..9-13 ok
+  pass 1 zh-academic 11-17..13-3 ok
+  pass 1 hi-academic 6-8..7-28 ok
+  pass 1 hi-academic 0-1..5-4 ok
+  pass 1 hi-academic 7-29..7-78 ok
+  pass 1 zh-academic 8-61..8-92 ok
+  pass 1 hi-academic 8-18..9-23 ok
+  pass 1 en-children 4-1..12-24 ok
+  pass 1 hi-children 6-31..12-1 ok
+  pass 1 zh-children 6-46..8-72 ok
+  pass 2 en-academic 8-2..8-87 ok
+  pass 2 en-academic 0-3..6-14 ok
+  pass 2 en-academic 6-25..7-78 ok
+  pass 2 en-academic 10-3..13-3 ok
+  pass 2 zh-academic 1-5..6-20 ok
+  pass 2 zh-academic 8-22..8-57 ok
+  pass 2 zh-academic 8-2..8-19 ok
+  pass 1 hi-academic 10-24..13-5 ok
+  pass 2 zh-academic 6-38..7-73 ok
+  pass 2 zh-academic 8-61..8-92 ok
+  pass 2 zh-academic 11-17..13-3 ok

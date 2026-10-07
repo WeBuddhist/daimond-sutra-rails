@@ -28,7 +28,7 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 |---|---|---|
 | Zero-shot baseline | existed (Gemini, Traditional) | done — Gemini/hi, 63 calls |
 | Termbase | done; overrides: 相 mark / 相狀 sign; 想 kept for saṃjñā | done; overrides: धर्म for both senses of ཆོས (academic) + compounds |
-| Academic translation | FINAL — all segments pass (a1 429/432 → 60 regenerated → 7-28, 10-52 reverted; 7-30 passes at attempt 3) | FINAL — all segments pass (a1 426/432 → 41 regenerated → a2 40/41; 5-6 reverted to attempt 1) |
+| Academic translation | FINAL — all segments pass (a1 429/432 → 60 regenerated → 7-28, 10-52 reverted; 7-30 passes at attempt 3; a4 re-check 2026-10-07 of 12 segments whose text changed after their check: 11 pass, 9-11 failed → reverted to its a2-passing text) | FINAL — all segments pass (a1 426/432 → 41 regenerated → a2 40/41; 5-6 reverted to attempt 1) |
 | Children's | FINAL — all segments pass (a1 428/432; 4 major regenerated → a2 4/4 pass); 40 minor open | FINAL — all segments pass (a1 427/432; 5 major regenerated → a2 5/5 pass); 40 minor open; glossary-check: 17/18 flags false positives (oblique case); 4-1 paraphrases the locked nirvāṇa term (term itself ungrammatical in context — glossary note) |
 
 ### Resume here (next session)
@@ -37,8 +37,10 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 2. ~~Chinese children's~~ — done (`factcheck/zh-children-a1`, `zh-children-a2`; agent usage harvested; the previous session's agents live under the `-daimond-sutra-rails` project dir).
 3. ~~Hindi children's~~ — done (`factcheck/hi-children-a1`, `hi-children-a2`; usage harvested).
 4. ~~Report~~ — extended to zh + hi (filename still `-en-`; rename to `vajracchedika-cost-quality.md` if no links depend on it). Hindi glossary check fixed (strips inflectional endings); hi tracks re-rendered.
-5. **Next:** planted-error checker test in zh + hi (report §4), then register the scripts as skills (`create-skill`) and run Ratnaguṇa.
-6. Bodhicaryāvatāra (Chonjuk) started 2026-10-07 in `bodhisattvacharyavatara-rails/0-INBOX/kf-pilot/` (scripts copied and adapted; see its STATE.md). The user asked for before/after improvement metrics for every fact-check + fix round; compute them retroactively here too (list in that STATE.md).
+5. ~~Checker reliability zh + hi~~ — done: 17/18 caught, 0/6 false alarms in both (same as en); the one miss in all three languages is 8-97 (locked term swapped for a near-synonym, rated minor), which the automatic glossary check catches → checker + glossary check = 18/18. `factcheck/calibration{,-zh,-hi}/`, `calibration/plant.py`, `calibration/score.py`.
+6. **Improvement metrics** (user request 2026-10-07; see memory `kf-pilot-improvement-metrics`): `factcheck/improvement.py --json reports/improvement-vajracchedika.json --pairs reports/improvement-pairs-vajracchedika.json` (fact-check before/after, glossary compliance, chrF zh vs Kumārajīva) and `zsh -ic '… factcheck/pairwise_judge.py reports/improvement-pairs-vajracchedika.json --out reports/improvement-judged-vajracchedika.json'` (Gemini blind pairwise, two passes with A/B swapped; resumes). Judge started 2026-10-07 ~20:40; when done, write the results into the report (new section "Improvement from fact-check and fix").
+7. Then: register the scripts as skills (`create-skill`) and run Ratnaguṇa.
+8. Bodhicaryāvatāra (Chonjuk) started 2026-10-07 in `bodhisattvacharyavatara-rails/0-INBOX/kf-pilot/` (scripts copied and adapted; see its STATE.md). The user asked for before/after improvement metrics for every fact-check + fix round; compute them retroactively here too (list in that STATE.md).
 
 ### Findings to carry into the report
 - Hindi glossary over-application: locked བདག → आत्मन् was used for the pronoun "I" (7-8, 7-15); en/zh were fine.
@@ -46,6 +48,8 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 - Glossary-check false positives by script: English plurals, Chinese punctuation, Hindi compounds (fixed: substring stems, skip helper verbs).
 - Several Hindi checkers judged from Tibetan + Sanskrit + English reference without opening the commentaries.
 - Glossary check misses Hindi oblique/inflected forms (चीज़ें→चीज़ों, नदी→नदियों, देना→देता, मानना→मानेंगे): 17 of 18 hi-children flags were false positives.
+- Text changed after its check is unverified: a term-retry run at 19:06 rewrote 12 zh academic segments after the a2 check, and one (9-11) gained a major error (教法 forced into 法眼). `improvement.py` now lists any segment whose current text no check has seen (`unchecked_current_text`) — run it before declaring a track final.
+- Reverts must restore the text the check actually saw: 7-28's revert restored the pre-term-retry text, which no check had seen (it passed on a4).
 - Long background runs: start with absolute paths (`zsh -ic 'cd <vault> && …'`); foreground commands time out at 10 min.
 
 ## Usage ledger
