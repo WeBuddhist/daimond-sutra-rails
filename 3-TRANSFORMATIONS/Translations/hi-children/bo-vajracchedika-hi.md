@@ -12,7 +12,7 @@ generator: gemini-3.1-pro-preview
 context_packages: [termbase.md, ../hi-academic/bo-vajracchedika-hi.md (meaning source)]
 blocks_translated: 446
 blocks_total: 446
-segments_missing_locked_terms: 18
+segments_missing_locked_terms: 2
 generation_date: 2026-10-07
 status: draft
 ---

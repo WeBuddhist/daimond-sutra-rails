@@ -126,7 +126,11 @@ def complies(rendering, text, lang=None):
             if w.endswith("\u094d"):  # final virama: आत्मन् -> आत्म
                 stem = w[:-2]
             else:
-                stem = w[:-1] if len(w) > 3 else w
+                # strip the inflectional ending: infinitive -ना (देना -> दे/देता), then trailing vowel signs,
+                # nasals and plural vowels (चीज़ें -> चीज़/चीज़ों, नदी -> नद/नदियों, पूर्णताएँ -> पूर्णत/पूर्णताओं)
+                stem = w[:-2] if w.endswith("ना") and len(w) > 3 else w
+                stripped = re.sub(r"[\u093E-\u094C\u0901-\u0903\u0907-\u0914]+$", "", stem)
+                stem = stripped if len(stripped) >= 2 else stem
             if not any(stem in t for t in tw):
                 return False
         return True

@@ -12,7 +12,7 @@ generator: gemini-3.1-pro-preview
 context_packages: [termbase.md, aligned Sanskrit (1-SOURCES/Text/sa-vajracchedika.md), aligned commentaries: bo-kamalasila-tika, bo-vasubandhu-saptartha-tika, bo-chone-drakpa-shedrub]
 blocks_translated: 446
 blocks_total: 446
-segments_missing_locked_terms: 4
+segments_missing_locked_terms: 1
 generation_date: 2026-10-07
 status: draft
 ---

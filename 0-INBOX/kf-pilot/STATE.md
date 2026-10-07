@@ -20,8 +20,8 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 | 5 Fact-check (Claude Sonnet, 18 agents) + regenerate | done — 431/432 pass first time; 8-6 regenerated and passes; 32 minor issues open | `factcheck/academic-a1/verdicts.json`; calibration 17/18 planted errors caught, 0 false alarms (`factcheck/calibration/`) |
 | 5b Academic minor fixes | done — 32 regenerated; re-check: 30 pass, 2 regressions reverted to attempt 1 (keep-best rule) | `factcheck/academic-a2/` |
 | 6 Children's version (Gemini, from academic) + fact-check (Claude, 11 agents) | done — 430/432 pass first time; 4-1 fixed; 12-24 flagged after 2 retries; 31 minor open | `3-TRANSFORMATIONS/Translations/en-children/`, `factcheck/children-a1/`, `review-flags.md` |
-| 7 Cost/quality report (Diamond, en) | draft done — $30.04 pipeline, $89.24 all work | `reports/vajracchedika-en-cost-quality.md`; prices in `4-SYSTEM/scripts/usage-ledger/prices.json` |
-| 8 zh, hi | done — all four tracks final; report extension next | see below |
+| 7 Cost/quality report (Diamond, en + zh + hi) | draft done — pipeline $30.04 en / $26.43 zh / $21.74 hi ($78.21); all work $140.90 | `reports/vajracchedika-en-cost-quality.md`; prices in `4-SYSTEM/scripts/usage-ledger/prices.json` |
+| 8 zh, hi | done — all four tracks final; report extended | see below |
 
 ## Chinese and Hindi (2026-10-07)
 | Step | zh | hi |
@@ -36,8 +36,8 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
    `call_id: revert`; failed both times → one more retry with `--attempt 3`, re-check, then `review-flags.md`).
 2. ~~Chinese children's~~ — done (`factcheck/zh-children-a1`, `zh-children-a2`; agent usage harvested; the previous session's agents live under the `-daimond-sutra-rails` project dir).
 3. ~~Hindi children's~~ — done (`factcheck/hi-children-a1`, `hi-children-a2`; usage harvested).
-4. **Report**: extend `reports/vajracchedika-en-cost-quality.md` to zh and hi (`usage_ledger.py summary --text vajracchedika`).
-5. Then: register the scripts as skills (`create-skill`) and run Ratnaguṇa.
+4. ~~Report~~ — extended to zh + hi (filename still `-en-`; rename to `vajracchedika-cost-quality.md` if no links depend on it). Hindi glossary check fixed (strips inflectional endings); hi tracks re-rendered.
+5. **Next:** planted-error checker test in zh + hi (report §4), then register the scripts as skills (`create-skill`) and run Ratnaguṇa.
 
 ### Findings to carry into the report
 - Hindi glossary over-application: locked བདག → आत्मन् was used for the pronoun "I" (7-8, 7-15); en/zh were fine.
