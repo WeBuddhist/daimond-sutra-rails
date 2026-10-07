@@ -1,0 +1,6 @@
+{"note": "Editor decisions that take precedence over the Gemini review. Applied last by gemini_review.py.",
+ "overrides": [
+  {"term_id": "T113", "field": "academic", "value": "相狀", "reason": "user 2026-10-07: keep 相 for mark (མཚན, 三十二相); sign (མཚན་མ) gets 相狀 so the two Tibetan terms stay distinct"},
+  {"term_id": "T179", "field": "academic", "value": "相狀想", "reason": "user 2026-10-07: follows T113 sign = 相狀"}
+ ],
+ "decisions": ["user 2026-10-07: keep 想 for འདུ་ཤེས (saṃjñā): 我想 / 眾生想 / 壽者想 / 人想, not Kumārajīva's 我相 etc."]}

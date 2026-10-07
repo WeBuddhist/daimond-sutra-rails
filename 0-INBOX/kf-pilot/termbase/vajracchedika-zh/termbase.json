@@ -3767,12 +3767,18 @@
    {
     "sense": "sign",
     "occurrences": "all",
-    "academic": "相",
+    "academic": "相狀",
     "children": "表象",
     "basis": "style-sheet",
     "reason": "Core table: K 不住於相; 想 never used here; child 表象.",
     "en_academic": "sign",
-    "en_children": "sign"
+    "en_children": "sign",
+    "review": [
+     "academic: editor override — user 2026-10-07: keep 相 for mark (མཚན, 三十二相); sign (མཚན་མ) gets 相狀 so the two Tibetan terms stay distinct"
+    ],
+    "override": {
+     "academic": true
+    }
    }
   ]
  },
@@ -5205,12 +5211,18 @@
    {
     "sense": "perception of a sign",
     "occurrences": "all",
-    "academic": "相想",
+    "academic": "相狀想",
     "children": "有「表象」的想法",
     "basis": "style-sheet",
     "reason": "Policy 20: X-saṃjñā is X想, with 相 for nimitta; child uses the 有「X」的想法 pattern.",
     "en_academic": "perception of a sign",
-    "en_children": "idea of a sign"
+    "en_children": "idea of a sign",
+    "review": [
+     "academic: editor override — user 2026-10-07: follows T113 sign = 相狀"
+    ],
+    "override": {
+     "academic": true
+    }
    }
   ]
  },

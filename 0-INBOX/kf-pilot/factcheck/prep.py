@@ -25,6 +25,7 @@ spec = importlib.util.spec_from_file_location("tr", KF / "translate/gm_variant_t
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--variant", required=True)
+    p.add_argument("--lang", default="en")
     p.add_argument("--attempt", type=int, default=1)
     p.add_argument("--only", nargs="*")
     p.add_argument("--per-batch", type=int, default=20)
@@ -32,8 +33,8 @@ def main():
     a = p.parse_args()
     tr = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(tr)
-    track = VAULT / f"3-TRANSFORMATIONS/Translations/en-{a.variant}"
-    rows = tr.latest(track / "work" / f"{tr.ROOT}-en.jsonl")
+    tr.LANG = a.lang
+    rows = tr.latest(tr.work_file(a.lang, a.variant))
     segs = json.loads((tr.TERM_RUN / "segments.json").read_text(encoding="utf-8"))
     ctx = build_context(tr.ROOT)
     terms = tr.locked_terms(a.variant)
@@ -41,8 +42,9 @@ def main():
     segmap = {s["id"]: s for s in segs}
     base = None
     if a.variant == "children":  # checked against the approved academic version, not the commentaries
-        base = tr.latest(VAULT / "3-TRANSFORMATIONS/Translations/en-academic/work" / f"{tr.ROOT}-en.jsonl")
-    out = HERE / f"{a.variant}-a{a.attempt}"
+        base = tr.latest(tr.work_file(a.lang, "academic"))
+    en_ref = tr.latest(tr.work_file("en", "academic")) if a.lang != "en" and a.variant != "children" else {}
+    out = HERE / (f"{a.variant}-a{a.attempt}" if a.lang == "en" else f"{a.lang}-{a.variant}-a{a.attempt}")
     (out / "batches").mkdir(parents=True, exist_ok=True)
     for f in (out / "batches").glob("*.json"):
         f.unlink()
@@ -68,6 +70,7 @@ def main():
             batch.append({"id": i, "tibetan": segmap[i]["bo"],
                           "sanskrit": " ".join(x["text"] for x in c.get("sa", [])) or None,
                           "commentaries": comms, "locked_terms": [{"tibetan": t["bo"], "use": t["rendering"]} for t in terms.get(i, [])],
+                          **({"english_academic": en_ref[i]["translation"]} if i in en_ref else {}),
                           "translation": rows[i]["translation"]})
         n += 1
         (out / "batches" / f"batch-{n:02d}.json").write_text(json.dumps(batch, ensure_ascii=False, indent=1), encoding="utf-8")
