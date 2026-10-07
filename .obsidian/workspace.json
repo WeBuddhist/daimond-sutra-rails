@@ -212,6 +212,7 @@
   },
   "active": "584c6897c2ac1ea3",
   "lastOpenFiles": [
+    "0-INBOX/kf-pilot/translate/hi-academic-run2.log",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a1/feedback-all.json",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a1/verdicts.json",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a1/agents/batch-03.json",
@@ -223,7 +224,6 @@
     "0-INBOX/kf-pilot/factcheck/zh-academic-a1/agents/batch-16.json",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a1/agents/batch-11.json",
     "3-TRANSFORMATIONS/Translations/hi-academic/work/bo-vajracchedika-hi.jsonl",
-    "0-INBOX/kf-pilot/factcheck/zh-academic-a1/agents/batch-02.json",
     "3-TRANSFORMATIONS/Translations/hi-children/termbase.md",
     "3-TRANSFORMATIONS/Translations/hi-academic/termbase.md",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a1/rendered/batch-18.md",

@@ -21,7 +21,18 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 | 5b Academic minor fixes | done — 32 regenerated; re-check: 30 pass, 2 regressions reverted to attempt 1 (keep-best rule) | `factcheck/academic-a2/` |
 | 6 Children's version (Gemini, from academic) + fact-check (Claude, 11 agents) | done — 430/432 pass first time; 4-1 fixed; 12-24 flagged after 2 retries; 31 minor open | `3-TRANSFORMATIONS/Translations/en-children/`, `factcheck/children-a1/`, `review-flags.md` |
 | 7 Cost/quality report (Diamond, en) | draft done — $30.04 pipeline, $89.24 all work | `reports/vajracchedika-en-cost-quality.md`; prices in `4-SYSTEM/scripts/usage-ledger/prices.json` |
-| 8 zh, hi | todo | |
+| 8 zh, hi | in progress | see below |
+
+## Chinese and Hindi (2026-10-07)
+| Step | zh | hi |
+|---|---|---|
+| Zero-shot baseline | existed (Gemini, Traditional) | done — Gemini/hi, 63 calls |
+| Termbase (style sheet + 6 agents + Gemini review) | done; overrides: 相 mark / 相狀 sign; 想 for saṃjñā kept | done; overrides: धर्म for both senses of ཆོས (academic) |
+| Academic translation | done 446/446; 60 regenerated after fact-check | in progress (240/446 before session restart; resumed) |
+| Academic fact-check | a1: 429/432 pass; a2 re-check of 60: batch-03 done (10-52 regressed → revert), batch-02 done, batch-01 rerun | todo |
+| Children's | todo | todo |
+
+Translator: `translate/gm_variant_translate.py --lang zh|hi`; fact-check: `factcheck/prep.py --lang`, prompts `factcheck-agent-lang.md`, `factcheck-children-lang.md`.
 
 ## Usage ledger
 `usage-ledger.jsonl` — every model call. Gemini rows are exact (API usage). Claude agent rows: input/cache exact
