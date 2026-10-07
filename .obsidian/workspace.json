@@ -212,6 +212,7 @@
   },
   "active": "584c6897c2ac1ea3",
   "lastOpenFiles": [
+    "0-INBOX/kf-pilot/reports/improvement-pairs-after-revert-vajracchedika.json",
     "0-INBOX/kf-pilot/factcheck/children-a4/verdicts.json",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a4/verdicts.json",
     "0-INBOX/kf-pilot/logs-judge.log",
@@ -222,7 +223,6 @@
     "0-INBOX/kf-pilot/factcheck/children-a4/agents/batch-01.json",
     "0-INBOX/kf-pilot/factcheck/calibration-hi/result.json",
     "0-INBOX/kf-pilot/factcheck/calibration-zh/result.json",
-    "0-INBOX/kf-pilot/factcheck/calibration/score.py",
     "0-INBOX/kf-pilot/factcheck/children-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/calibration-hi/prompt.md",

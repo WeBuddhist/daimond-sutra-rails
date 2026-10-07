@@ -27,14 +27,14 @@
   "after": {
    "segments": 432,
    "fail": 0,
-   "error_free": 425,
+   "error_free": 423,
    "critical": 0,
    "major": 0,
-   "minor": 9,
-   "penalty": 9,
-   "penalty_per_1k_syl": 0.84,
-   "error_free_pct": 98.4,
-   "issues_per_100_seg": 2.1,
+   "minor": 11,
+   "penalty": 11,
+   "penalty_per_1k_syl": 1.03,
+   "error_free_pct": 97.9,
+   "issues_per_100_seg": 2.5,
    "blocking_per_100_seg": 0.0,
    "terms": {
     "required": 1543,
@@ -42,7 +42,7 @@
     "pct": 99.94
    }
   },
-  "segments_regenerated": 31,
+  "segments_regenerated": 26,
   "chrf": null,
   "unchecked_current_text": []
  },
@@ -75,14 +75,14 @@
   "after": {
    "segments": 432,
    "fail": 0,
-   "error_free": 400,
+   "error_free": 397,
    "critical": 0,
    "major": 0,
-   "minor": 33,
-   "penalty": 33,
-   "penalty_per_1k_syl": 3.09,
-   "error_free_pct": 92.6,
-   "issues_per_100_seg": 7.6,
+   "minor": 36,
+   "penalty": 36,
+   "penalty_per_1k_syl": 3.37,
+   "error_free_pct": 91.9,
+   "issues_per_100_seg": 8.3,
    "blocking_per_100_seg": 0.0,
    "terms": {
     "required": 1543,
@@ -90,15 +90,15 @@
     "pct": 99.55
    }
   },
-  "segments_regenerated": 58,
+  "segments_regenerated": 50,
   "chrf": {
    "reference": "Kumārajīva (lzh; shown to the translator as a terminology aid)",
    "segments": 369,
    "whole_before": 17.96,
-   "whole_after": 18.01,
-   "changed_segments": 56,
-   "changed_before": 16.39,
-   "changed_after": 16.62
+   "whole_after": 17.97,
+   "changed_segments": 48,
+   "changed_before": 16.35,
+   "changed_after": 16.4
   },
   "unchecked_current_text": []
  },
@@ -129,14 +129,14 @@
   "after": {
    "segments": 432,
    "fail": 0,
-   "error_free": 426,
+   "error_free": 423,
    "critical": 0,
    "major": 0,
-   "minor": 6,
-   "penalty": 6,
-   "penalty_per_1k_syl": 0.56,
-   "error_free_pct": 98.6,
-   "issues_per_100_seg": 1.4,
+   "minor": 9,
+   "penalty": 9,
+   "penalty_per_1k_syl": 0.84,
+   "error_free_pct": 97.9,
+   "issues_per_100_seg": 2.1,
    "blocking_per_100_seg": 0.0,
    "terms": {
     "required": 1543,
@@ -144,7 +144,7 @@
     "pct": 99.94
    }
   },
-  "segments_regenerated": 40,
+  "segments_regenerated": 36,
   "chrf": null,
   "unchecked_current_text": []
  },
@@ -176,22 +176,22 @@
   "after": {
    "segments": 432,
    "fail": 1,
-   "error_free": 401,
+   "error_free": 402,
    "critical": 0,
    "major": 1,
-   "minor": 35,
-   "penalty": 40,
-   "penalty_per_1k_syl": 3.75,
-   "error_free_pct": 92.8,
-   "issues_per_100_seg": 8.3,
+   "minor": 33,
+   "penalty": 38,
+   "penalty_per_1k_syl": 3.56,
+   "error_free_pct": 93.1,
+   "issues_per_100_seg": 7.9,
    "blocking_per_100_seg": 0.23,
    "terms": {
     "required": 1543,
-    "used": 1542,
-    "pct": 99.94
+    "used": 1541,
+    "pct": 99.87
    }
   },
-  "segments_regenerated": 4,
+  "segments_regenerated": 3,
   "chrf": null,
   "unchecked_current_text": []
  },

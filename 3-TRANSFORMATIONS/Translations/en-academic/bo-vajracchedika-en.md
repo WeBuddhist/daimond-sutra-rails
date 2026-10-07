@@ -81,7 +81,7 @@ He addressed the Blessed One with these words: ^2-2
 
 ![[bo-vajracchedika#^2-3]]
 
-Blessed One, it is wonderful to what supreme extent the Tathāgata, the arhat, the perfectly complete Buddha, has benefited the bodhisattva great beings, and to what supreme extent the Tathāgata has entrusted the bodhisattva great beings. Blessed One, it is wonderful! Sugata, it is wonderful! ^2-3
+"Blessed One, it is wonderful how the Tathāgata, the arhat, the perfectly complete Buddha, has benefited the bodhisattva great beings with all the supreme benefits, and how the Tathāgata has entrusted the bodhisattva great beings with all the supreme entrustments. Blessed One, it is wonderful! Sugata, it is wonderful!" ^2-3
 
 ![[bo-vajracchedika#^2-4]]
 
@@ -123,7 +123,7 @@ The Tathāgata has entrusted the bodhisattva great beings with the supreme entru
 
 ![[bo-vajracchedika#^3-6]]
 
-Therefore, Subhūti, listen, attend properly, and hold it thoroughly in mind, and ^3-6
+Therefore, Subhūti, listen well and hold it thoroughly in mind, and ^3-6
 
 ![[bo-vajracchedika#^3-7]]
 
@@ -141,7 +141,7 @@ the venerable Subhūti listened to the Blessed One, and the Blessed One spoke th
 
 ![[bo-vajracchedika#^4-1]]
 
-Subhūti, here one who has correctly entered the bodhisattva vehicle should think in this way: 'However many sentient beings are subsumed by the subsumption of sentient beings—whether born from eggs, or born from a womb, or born from warmth and moisture, or miraculously born, or having form, or without form, or having perception, or without perception, or neither with perception nor without perception—however many are designated by conceptual designation as sentient beings in the realm of sentient beings, all those I shall lead to complete nirvāṇa in the expanse of nirvāṇa without remainder of the aggregates.' ^4-1
+Subhūti, here one who has correctly entered the bodhisattva vehicle should think in this way: 'However many sentient beings are subsumed by the subsumption of sentient beings—whether born from eggs, or born from a womb, or born from warmth and moisture, or miraculously born, or having form, or without form, or having perception, or neither with perception nor without perception—however many are designated by conceptual designation as sentient beings in the realm of sentient beings, all those I shall lead to complete nirvāṇa in the expanse of nirvāṇa without remainder of the aggregates.' ^4-1
 
 ![[bo-vajracchedika#^4-2]]
 
@@ -237,7 +237,7 @@ To whatever extent there is no perfection of marks, to that extent there is no f
 
 ![[bo-vajracchedika#^6-8]]
 
-Thus, the Tathāgata should be viewed as having marks and as being without signs. ^6-8
+Thus, the Tathāgata should be viewed as being without marks and signs. ^6-8
 
 ![[bo-vajracchedika#^6-9]]
 
@@ -615,7 +615,7 @@ Subhūti replied: Blessed One, if those Gaṅgā rivers themselves would be many
 
 ![[bo-vajracchedika#^7-52]]
 
-The Blessed One said: Subhūti, you should take an interest. ^7-52
+The Blessed One said: Subhūti, you should be convinced. ^7-52
 
 ![[bo-vajracchedika#^7-53]]
 

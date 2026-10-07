@@ -8,6 +8,7 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 - Agents orchestrate and run in parallel; scripts where needed (all Gemini calls are scripts).
 - Versions: academic + children's (new); zero-shot (DharmaMitra/Gemini, exists) and commentary translations (exist). Word-by-word deferred.
 - Build in this vault; sync the finished skills to the other vaults afterwards.
+- Keep-best rule for minor fixes (2026-10-07): after a minor-fix round and its re-check, run the blind pairwise judge (`improvement.py --pairs` → `pairwise_judge.py --revert-losses`); a minor-only fix is kept when Gemini prefers it or ties, and the original is restored when both A/B orders prefer it. Major-error fixes are not reverted by the judge.
 
 ## Pipeline status (English)
 | Step | Status | Where |
@@ -39,7 +40,7 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 4. ~~Report~~ — extended to zh + hi (filename still `-en-`; rename to `vajracchedika-cost-quality.md` if no links depend on it). Hindi glossary check fixed (strips inflectional endings); hi tracks re-rendered.
 5. ~~Checker reliability zh + hi~~ — done: 17/18 caught, 0/6 false alarms in both (same as en); the one miss in all three languages is 8-97 (locked term swapped for a near-synonym, rated minor), which the automatic glossary check catches → checker + glossary check = 18/18. `factcheck/calibration{,-zh,-hi}/`, `calibration/plant.py`, `calibration/score.py`.
 6. ~~Improvement metrics~~ — done and in the report (§3 "Improvement from the fact-check and fix"): `factcheck/improvement.py --json reports/improvement-vajracchedika.json --pairs reports/improvement-pairs-vajracchedika.json`; `zsh -ic '… factcheck/pairwise_judge.py reports/improvement-pairs-vajracchedika.json --out reports/improvement-judged-vajracchedika.json'` (two passes, A/B swapped). Result: major-error fixes judged better 19/21; minor-only fixes better 52%, tie 33%, worse 15% (18 segments).
-   **Open decision for the user:** revert the 18 minor-fix segments the blind judge rated worse (both passes agree), and/or restrict future minor-fix rounds to issues the other model confirms.
+   **Decided (user, 2026-10-07):** the 18 minor-fix segments the judge rated worse were restored (`pairwise_judge.py --revert-losses`), and that keep-best rule applies to every future minor-fix round (see Decisions).
 7. Then: register the scripts as skills (`create-skill`) and run Ratnaguṇa.
 8. Bodhicaryāvatāra (Chonjuk) started 2026-10-07 in `bodhisattvacharyavatara-rails/0-INBOX/kf-pilot/` (scripts copied and adapted; see its STATE.md). The user asked for before/after improvement metrics for every fact-check + fix round; compute them retroactively here too (list in that STATE.md).
 

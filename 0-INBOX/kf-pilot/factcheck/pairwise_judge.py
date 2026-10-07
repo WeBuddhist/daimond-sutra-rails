@@ -9,8 +9,13 @@ fact-check batch (Tibetan, Sanskrit, commentaries, reference translation, locked
 twice, with A/B swapped (pass 1: random, pass 2: flipped), to cancel position bias. Combined result: win (both
 passes prefer the fixed text), loss (both prefer the original), tie (both tie, or the passes disagree).
 Resumes: (pair, pass) already in <judged.json> are skipped.
+
+Keep-best rule for minor fixes (user decision 2026-10-07): a fix made for minor issues only is kept when the judge
+prefers it or ties; when both passes prefer the original, `--revert-losses` appends a `call_id: revert` row that
+restores the original (the text the first check saw and passed). Fixes of major errors are never reverted here.
 """
 import argparse
+import datetime as _dt
 import importlib.util
 import json
 import os
@@ -119,6 +124,31 @@ def combine(rows):
     return out
 
 
+def revert_losses(rows, pairs_path):
+    """Append a revert row for every minor-only fix whose combined result is a loss. Idempotent."""
+    pairs = {(p["track"], p["id"]): p for p in json.loads(pathlib.Path(pairs_path).read_text(encoding="utf-8"))}
+    n = 0
+    for r in combine(rows):
+        p = pairs.get((r["track"], r["id"]))
+        if r["result"] != "loss" or not p or p["before_verdict"] != "pass":
+            continue
+        work = next((imp.TRACKS / r["track"] / "work").glob("*.jsonl"))
+        lines = work.read_text(encoding="utf-8").splitlines()
+        rows_ = [json.loads(x) for x in lines]
+        cur = [x for x in rows_ if x["id"] == r["id"]][-1]
+        if cur["translation"] == p["before"]:
+            continue  # already restored
+        src = [x for x in rows_ if x["id"] == r["id"] and x["translation"] == p["before"]][-1]
+        new = dict(src, attempt=9, call_id="revert", ts=_dt.datetime.now().isoformat(timespec="seconds"),
+                   note="keep-best (minor fix): blind pairwise judge preferred the original in both A/B orders — "
+                        + r["reasons"][0][:200])
+        with open(work, "a", encoding="utf-8") as f:
+            f.write(json.dumps(new, ensure_ascii=False) + "\n")
+        n += 1
+        print(f"  reverted {r['track']} {r['id']}")
+    print(f"reverted {n} minor-only fixes the judge rated worse")
+
+
 def summary(rows):
     rows = combine(rows)
     flips = sum(not r["consistent"] for r in rows)
@@ -142,6 +172,8 @@ def main():
     p.add_argument("--workers", type=int, default=4)
     p.add_argument("--summary-only", action="store_true")
     p.add_argument("--limit", type=int, help="judge at most N calls (trial runs)")
+    p.add_argument("--revert-losses", action="store_true",
+                   help="after judging, restore the original for minor-only fixes both passes rated worse")
     a = p.parse_args()
     out_path = pathlib.Path(a.out)
     done = {}
@@ -166,6 +198,8 @@ def main():
             for f in [ex.submit(judge, t, g, c, a, key, out_path, done, n) for t, g, c, n in jobs]:
                 f.result()
     summary(list(done.values()))
+    if a.revert_losses:
+        revert_losses(list(done.values()), a.pairs)
 
 
 if __name__ == "__main__":

@@ -75,10 +75,11 @@ Pipeline total for the three languages: **$78.18**. Measurement: $4.17. All work
 | Version | Locked-term uses required | en | zh | hi |
 |---|---|---|---|---|
 | Academic | 1,564 per language | 1,563 (99.9%) | 1,557 (99.6%) | 1,563 (99.9%) |
-| Children's | 1,564 per language | 1,563 (99.9%) | 1,558 (99.6%) | 1,562 (99.9%) |
+| Children's | 1,564 per language | 1,562 (99.9%) | 1,558 (99.6%) | 1,562 (99.9%) |
 
 - **English academic:** the one gap is the closing title (13-3), where the glossary contradicts its own style sheet; it needs a glossary decision, not a translation fix.
 - **Chinese:** the 7 academic gaps are mostly 世間 and 佛 in passages where the fact-checker accepted the chosen wording. In 9-11 the gap is correct: forcing the locked 教法 into the compound 法眼 produced a major error (see below).
+- **English children's:** 8-98 ("foretell") and 8-65, restored to its original by the keep-best rule (the fix had added the locked phrase but also a redundant sentence).
 - **Hindi children's:** 7-29 uses चाह where the locked term is चाहत. In 8-118, a relative pronoun inside the locked phrase changed with the sentence.
 
 **The check itself needed fixing for each script.** It first raised false alarms on English plurals, Chinese punctuation, and Hindi compounds and inflections. Before the last fix, 17 of the 18 segments it flagged in Hindi children's were Hindi plural or verb forms (चीज़ें → चीज़ों, नदी → नदियों, देना → देता), not missing terms. Each language needs its own rule for matching inflected forms before the check can be trusted.
@@ -140,26 +141,27 @@ Four measures, recomputed by `factcheck/improvement.py` and `factcheck/pairwise_
 
 **1. Fact-check findings, before → after.** For each segment, "after" is the verdict of the check that saw its final
 text. The error score is MQM-style: minor = 1, major = 5, critical = 10 points, per 1,000 Tibetan syllables.
+The figures are for the final text, after the keep-best step in measure 4 restored 18 originals.
 
-| Version | Segments regenerated | Failing segments | Issues per 100 segments | Error score per 1,000 syllables | Segments with no issue |
+| Version | Segments changed in the end | Failing segments | Issues per 100 segments | Error score per 1,000 syllables | Segments with no issue |
 |---|---|---|---|---|---|
-| Academic en | 31 | 1 → 0 | 7.6 → 2.1 | 3.46 → 0.84 (−76%) | 92.8% → 98.4% |
-| Academic zh | 58 | 3 → 0 | 14.8 → 7.6 | 7.12 → 3.09 (−57%) | 86.1% → 92.6% |
-| Academic hi | 40 | 6 → 0 | 9.5 → 1.4 | 6.09 → 0.56 (−91%) | 91.2% → 98.6% |
-| Children's en | 4 | 2 → 1 | 7.6 → 8.3 | 3.84 → 3.75 (−2%) | 93.1% → 92.8% |
+| Academic en | 26 | 1 → 0 | 7.6 → 2.5 | 3.46 → 1.03 (−70%) | 92.8% → 97.9% |
+| Academic zh | 50 | 3 → 0 | 14.8 → 8.3 | 7.12 → 3.37 (−53%) | 86.1% → 91.9% |
+| Academic hi | 36 | 6 → 0 | 9.5 → 2.1 | 6.09 → 0.84 (−86%) | 91.2% → 97.9% |
+| Children's en | 3 | 2 → 1 | 7.6 → 7.9 | 3.84 → 3.56 (−7%) | 93.1% → 93.1% |
 | Children's zh | 4 | 4 → 0 | 10.2 → 10.2 | 5.62 → 4.12 (−27%) | 90.5% → 90.7% |
 | Children's hi | 5 | 5 → 0 | 10.4 → 10.0 | 6.09 → 4.03 (−34%) | 89.8% → 90.3% |
 
-- **Academic versions:** both major and minor issues were fixed, so the error score fell by 57–91%.
+- **Academic versions:** both major and minor issues were fixed, so the error score fell by 53–86%.
 - **Children's versions:** only the major errors were fixed. All of them were removed except English 12-24, which is left for a human. Re-checking the rewritten segments turned up a few new minor notes, so minor counts rose slightly.
 
-**2. Glossary compliance, before → after.** The fixes left it unchanged at 99.6–99.9% (largest change: Chinese academic
+**2. Glossary compliance, before → after.** The fixes left it essentially unchanged at 99.6–99.9% (largest change: Chinese academic
 99.94% → 99.55%). In Chinese the fixes removed a few locked terms where the term did not fit the sentence. 9-11 is
 the clearest case: there, keeping the term was the error.
 
 **3. chrF against a human translation.** For the Diamond Sutra, only Chinese has a human translation aligned segment by segment:
 Kumārajīva, in classical Chinese, which the Chinese translator was also shown as a terminology aid. Scores barely move
-(whole text 17.96 → 18.01; the 56 changed segments 16.39 → 16.62). The measure is reported for completeness. Against a
+(whole text 17.96 → 17.97; the 48 changed segments 16.35 → 16.40). The measure is reported for completeness. Against a
 classical reference it cannot show whether a fix in modern Chinese is right.
 
 **4. Blind judgement by the other model.** Gemini compared each regenerated segment's original and final text, with the
@@ -182,10 +184,13 @@ result counts only when both orders agree; otherwise it is a tie. On single pass
 **Fixing major errors pays off; fixing minor issues is a coin toss with a cost.** Two independent models agree that the
 major-error fixes improved the text: Claude's re-check passed them, and Gemini preferred the fixed text in 19 of 21 pairs.
 For minor issues, Gemini preferred the fixed text in half the cases. It judged the change neutral in a third, and worse in 15%,
-usually where the fix dropped a nuance the original kept. Claude's re-check had passed all of those 18. So for the minor fixes the two models disagree, and the
-pipeline as run keeps Claude's verdict. Two options for the minor-fix round:
-- Restrict it to issues the other model confirms.
-- Keep a fix only when the blind judge prefers it or ties.
+usually where the fix dropped a nuance the original kept. Claude's re-check had passed all of those 18. So on those 18 the two models disagreed.
+
+**Keep-best rule for minor fixes (adopted 2026-10-07).** A fix made for minor issues only is kept when the blind judge
+prefers it or ties. When the judge prefers the original in both orders, the original is restored; it had already passed the fact-check.
+Major-error fixes are not subject to this rule. The 18 segments were restored (en academic 5, zh academic 8, hi academic 4, en children's 1).
+By Claude's count this raises the final error score slightly, because the originals carry the minor notes Claude
+raised; for example, English academic went from 0.84 to 1.03 per 1,000 syllables. The figures in measure 1 are after the restore.
 
 ### How reliable is the checker?
 

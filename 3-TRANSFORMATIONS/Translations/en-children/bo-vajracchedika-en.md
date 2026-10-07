@@ -12,7 +12,7 @@ generator: gemini-3.1-pro-preview
 context_packages: [termbase.md, ../en-academic/bo-vajracchedika-en.md (meaning source)]
 blocks_translated: 446
 blocks_total: 446
-segments_missing_locked_terms: 1
+segments_missing_locked_terms: 2
 generation_date: 2026-10-07
 status: draft
 ---
@@ -993,7 +993,7 @@ because that is impossible. ^8-64
 
 ![[bo-vajracchedika#^8-65]]
 
-Also, Subhuti, think of any place where this sacred text is taught. That place will become worthy of respect. The world with its gods, people, and jealous gods will honor it. Every human, god, and jealous god will respect it. ^8-65
+Also, Subhuti, any place where this sacred text is taught will deserve respect. It will be honored by the world with its gods, humans, and jealous gods. ^8-65
 
 ![[bo-vajracchedika#^8-66]]
 
