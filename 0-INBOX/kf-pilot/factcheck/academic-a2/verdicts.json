@@ -1,0 +1,232 @@
+[
+ {
+  "id": "0-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "Blessed One, it is wonderful to what supreme extent",
+    "evidence": "The Tibetan has the ཇི་སྙེད་པས ... ནི topic clauses followed by a single exclamation བཅོམ་ལྡན་འདས་ངོ་མཚར་ལགས་སོ, then བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ. The English gives \"Blessed One, it is wonderful\" twice (once opening the sentence, once after it), i.e. one more exclamation than the Tibetan has.",
+    "fix": "To what supreme extent the Tathāgata, the arhat, the perfectly complete Buddha, has benefited the bodhisattva great beings, and to what supreme extent the Tathāgata has entrusted the bodhisattva great beings — Blessed One, it is wonderful! Sugata, it is wonderful!"
+   }
+  ]
+ },
+ {
+  "id": "3-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "however many are designated by conceptual designation as sentient beings in the realm of sentient beings",
+    "evidence": "Tibetan: སེམས་ཅན་གྱི་ཁམས་ཇི་ཙམ་སེམས་ཅན་དུ་གདགས་པའི་བརྟགས་པ་དེ་དག་ཐམས་ཅད — \"however much the realm of sentient beings is designated as sentient beings\". The realm is the thing designated (Sanskrit yāvān kaścit sattvadhātuḥ prajñapyamānaḥ prajñapyate; Chone Drakpa Shedrub 2-7: སེམས་ཅན་གྱི་ཁམས་ཅི་ཙམ་དུ་སེམས་ཅན་ཞེས་མིང་གིས་གདགས་པས་བཏགས་པ). The English turns \"realm of sentient beings\" into a locative container of the beings.",
+    "fix": "however much of the realm of sentient beings is designated by conceptual designation as sentient beings, all of those"
+   }
+  ]
+ },
+ {
+  "id": "6-8",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "as having marks and as being without signs",
+    "evidence": "Tibetan: མཚན་དང་མཚན་མ་མེད་པར་བལྟའོ; Sanskrit lakṣaṇālakṣaṇatas. The English adds \"having\" and commits to a split reading (marks present, signs absent). Commentaries differ: Chone Drakpa Shedrub 2-23 reads བདེན་པར་གྲུབ་པའི་མཚན་དང་མཚན་མ་མེད་པར — without truly established marks and signs; Kamalaśīla 3-51 reads མཚན་གྱིས་བལྟ ... མཚན་མེད་པ་ནི་དོན་དམ་པར; Vasubandhu 2-20 reads མཚན་དང་མཚན་མེད་པར. The Tibetan itself does not say \"having\".",
+    "fix": "Thus, the Tathāgata should be viewed as mark and as without sign."
+   }
+  ]
+ },
+ {
+  "id": "6-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-30",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "would not declare",
+    "evidence": "The Tibetan of this segment ends ... ཉོན་མོངས་པ་མེད་པར་གནས་པ་རྣམས་ཀྱི་མཆོག་ཡིན་ཏེ། with no verb of declaring; the verb ལུང་མི་སྟོན་ལགས་སོ occurs only in the next segment (7-31), where the English renders it again. The English thus places the negated verb here as well, duplicating it across the two segments.",
+    "fix": "the Tathāgata, concerning me, [would say]: \"The son of noble family Subhūti is the foremost of those abiding without affliction,\" —"
+   }
+  ]
+ },
+ {
+  "id": "7-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-74",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "major",
+    "span": "of the merit from my having pleased and not disappointed those Buddhas, the Blessed Ones, and of the merit from whoever, when the last five hundred years have come, takes up, asks about, holds, keeps, reads, and completely masters this sūtra—Subhūti, compared to this mass of merit, that former mass of merit",
+    "evidence": "The Tibetan sets two items against each other (…གང་ཡིན་པ་དང༌། …གང་ཡིན་པ་ལས། བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་ལ་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མས…): the former mass of merit = serving the Buddhas, 'this' mass = holding the sūtra. Chone Drakpa Shedrub 2-98: 'of these two (service of Buddhas / writing etc. this sūtra), this latter mass of merit is greater, and the former does not approach even a hundredth of it' (བསོད་ནམས་ཀྱི་ཕུང་པོ་ཕྱི་མ་འདི་ཆེ་སྟེ། …སྔོན་མས་འདི་ལ་ཆ་བརྒྱར་བགོས་པའི་བརྒྱའི་ཆ…). The English adds two dangling 'of the merit from…' phrases that put both acts together, so the reader cannot tell what 'this mass of merit' and 'that former mass' refer to, and the comparison reads as if both acts are on the same side.",
+    "fix": "Subhūti, there is the merit of my having pleased those Buddhas, the Blessed Ones, and not having wearied them, and there is the merit of whoever, when the last five hundred years have come, takes up, writes, holds, keeps, reads, and completely masters this sūtra. Subhūti, compared to this latter mass of merit, that former mass of merit does not approach even a hundredth part"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "asks about",
+    "evidence": "Tibetan has འདྲི་བ in this list, but the parallel list at 8-15 has འབྲི་བ 'write' and Chone Drakpa Shedrub 2-98 reads མདོ་སྡེ་འདི་འབྲི་བ་སོགས་བྱེད་པ ('writes, etc.'); Skt has no 'ask'. The item is the scribal variant of 'write', and rendering it 'asks about' makes the list inconsistent with 8-15.",
+    "fix": "writes"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "not disappointed",
+    "evidence": "ཐུགས་འབྱུང་བར་མ་བྱས་པ: Chone 2-98 glosses ཐུགས་སུན་ཕྱུང་བ་མ་བྱས ('did not make [them] weary/disenchanted'); Kamalaśīla 3-162 'did not abandon the practice in between'. 'Disappointed' (a letdown of expectation) is not the sense of weariness or disenchantment.",
+    "fix": "did not weary"
+   }
+  ]
+ },
+ {
+  "id": "8-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "11-9",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "do not destroy any phenomenon or designate it as an annihilation",
+    "evidence": "Tibetan ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ། — the verb བཏགས་པ 'designated' governs both rnam par bshig pa and chad pa; Skt vināśaḥ prajñapto nocchedaḥ ('destruction is not posited, nor annihilation'). Chone Drakpa Shedrub 2-143: 'they have no designation of any phenomenon as destroyed or annihilated (རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པ་མེད)'; Vasubandhu 2-135: ཆོས་གང་ལ་ལ་ཞིག་བཤིག་པར་བཏགས་པ་མེད་པ. The English makes 'destroy' an action the bodhisattvas perform rather than a status they do not ascribe, and does not use the locked 'destroyed'.",
+    "fix": "do not designate any phenomenon as destroyed or as annihilated"
+   }
+  ]
+ },
+ {
+  "id": "13-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "The noble Mahāyāna sūtra entitled the Diamond Cutter perfection of wisdom",
+    "evidence": "Locked term ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ = 'The Perfection of Wisdom that Cuts Like a Diamond'; the English splits the title into parts and uses 'Diamond Cutter perfection of wisdom'. Also འཕགས་པ 'noble' qualifies the title (འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ…), not 'Mahāyāna sūtra'.",
+    "fix": "The Mahāyāna sūtra entitled The Noble Perfection of Wisdom that Cuts Like a Diamond is complete"
+   }
+  ]
+ },
+ {
+  "id": "8-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "13-1",
+  "verdict": "pass",
+  "issues": []
+ }
+]

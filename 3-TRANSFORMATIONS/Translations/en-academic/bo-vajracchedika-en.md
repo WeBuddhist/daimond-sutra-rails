@@ -12,7 +12,7 @@ generator: gemini-3.1-pro-preview
 context_packages: [termbase.md, aligned Sanskrit (1-SOURCES/Text/sa-vajracchedika.md), aligned commentaries: bo-kamalasila-tika, bo-vasubandhu-saptartha-tika, bo-chone-drakpa-shedrub]
 blocks_translated: 446
 blocks_total: 446
-segments_missing_locked_terms: 3
+segments_missing_locked_terms: 1
 generation_date: 2026-10-07
 status: draft
 ---
@@ -29,7 +29,7 @@ In the language of India: Ārya Vajracchedikā Prajñāpāramitā Nāma Mahāyā
 
 ![[bo-vajracchedika#^0-3]]
 
-In the Tibetan language: The Noble Mahāyāna Sūtra called the Diamond Cutter Perfection of Wisdom. ^0-3
+In the Tibetan language: The Noble Perfection of Wisdom called the Diamond Cutter, a Mahāyāna sūtra. ^0-3
 
 ![[bo-vajracchedika#^0-4]]
 
@@ -55,7 +55,7 @@ Then the Blessed One, having gone to the great city of Śrāvastī for alms, par
 
 ![[bo-vajracchedika#^1-5]]
 
-Having given up later alms, he set aside his alms bowl and Dharma robe, washed his feet, sat cross-legged on the arranged seat, straightened his body, and remained, having established mindfulness to the fore. ^1-5
+Having given up the alms of the later meal, he set aside his alms bowl and Dharma robe, washed his feet, sat cross-legged on the arranged seat, straightened his body, and remained, having established mindfulness to the fore. ^1-5
 
 ![[bo-vajracchedika#^1-6]]
 
@@ -81,7 +81,7 @@ He addressed the Blessed One with these words: ^2-2
 
 ![[bo-vajracchedika#^2-3]]
 
-"Blessed One, it is wonderful how the Tathāgata, the arhat, the perfectly complete Buddha, has benefited the bodhisattva great beings with all the supreme benefits, and how the Tathāgata has entrusted the bodhisattva great beings with all the supreme entrustments. Blessed One, it is wonderful! Sugata, it is wonderful!" ^2-3
+Blessed One, it is wonderful to what supreme extent the Tathāgata, the arhat, the perfectly complete Buddha, has benefited the bodhisattva great beings, and to what supreme extent the Tathāgata has entrusted the bodhisattva great beings. Blessed One, it is wonderful! Sugata, it is wonderful! ^2-3
 
 ![[bo-vajracchedika#^2-4]]
 
@@ -123,7 +123,7 @@ The Tathāgata has entrusted the bodhisattva great beings with the supreme entru
 
 ![[bo-vajracchedika#^3-6]]
 
-Therefore, Subhūti, listen well and hold it thoroughly in mind, and ^3-6
+Therefore, Subhūti, listen, attend properly, and hold it thoroughly in mind, and ^3-6
 
 ![[bo-vajracchedika#^3-7]]
 
@@ -141,7 +141,7 @@ the venerable Subhūti listened to the Blessed One, and the Blessed One spoke th
 
 ![[bo-vajracchedika#^4-1]]
 
-Subhūti, here one who has correctly entered the bodhisattva vehicle should think in this way: 'However many sentient beings are subsumed by the subsumption of sentient beings—whether born from eggs, or born from a womb, or born from warmth and moisture, or miraculously born, or having form, or without form, or having perception, or neither with perception nor without perception—however many are designated by conceptual designation as sentient beings in the realm of sentient beings, all those I shall lead to complete nirvāṇa in the expanse of nirvāṇa without remainder of the aggregates.' ^4-1
+Subhūti, here one who has correctly entered the bodhisattva vehicle should think in this way: 'However many sentient beings are subsumed by the subsumption of sentient beings—whether born from eggs, or born from a womb, or born from warmth and moisture, or miraculously born, or having form, or without form, or having perception, or without perception, or neither with perception nor without perception—however many are designated by conceptual designation as sentient beings in the realm of sentient beings, all those I shall lead to complete nirvāṇa in the expanse of nirvāṇa without remainder of the aggregates.' ^4-1
 
 ![[bo-vajracchedika#^4-2]]
 
@@ -237,7 +237,7 @@ To whatever extent there is no perfection of marks, to that extent there is no f
 
 ![[bo-vajracchedika#^6-8]]
 
-Thus, the Tathāgata should be viewed as being without marks and signs. ^6-8
+Thus, the Tathāgata should be viewed as having marks and as being without signs. ^6-8
 
 ![[bo-vajracchedika#^6-9]]
 
@@ -257,11 +257,11 @@ Subhūti, in the last five hundred years, when the true Dharma is being thorough
 
 ![[bo-vajracchedika#^6-13]]
 
-Subhūti, those bodhisattva great beings have not served a single Buddha. ^6-13
+Subhūti, those bodhisattva great beings have not served just a single Buddha. ^6-13
 
 ![[bo-vajracchedika#^6-14]]
 
-They have not planted roots of virtue under a single Buddha, but ^6-14
+They have not planted roots of virtue under just a single Buddha, but ^6-14
 
 ![[bo-vajracchedika#^6-15]]
 
@@ -305,7 +305,7 @@ and it would become a grasping at a sentient being, a grasping at a life-force, 
 
 ![[bo-vajracchedika#^6-25]]
 
-Even if they were to engage in the perception of a selfless phenomenon, that itself would become for them a grasping at a self, ^6-25
+Even if they were to engage in the perception of phenomena as selfless, that itself would become for them a grasping at a self, ^6-25
 
 ![[bo-vajracchedika#^6-26]]
 
@@ -527,11 +527,11 @@ Blessed One, although I am an arhat free from desire, Blessed One, I do not thin
 
 ![[bo-vajracchedika#^7-30]]
 
-Blessed One, if I were to think, 'I have obtained arhatship,' the Tathāgata, concerning me, 'The son of noble family Subhūti is the foremost of those abiding without affliction,' ^7-30
+Blessed One, if I were to think, 'I have obtained arhatship,' the Tathāgata, concerning me, would not declare: 'The son of noble family Subhūti is the foremost of those abiding without affliction,' — ^7-30
 
 ![[bo-vajracchedika#^7-31]]
 
-Because I do not abide in anything whatsoever, he does not declare "abiding without affliction." ^7-31
+Because I do not abide in anything whatsoever, the Tathāgata does not declare me 'abiding without affliction'. ^7-31
 
 ![[bo-vajracchedika#^7-32]]
 
@@ -555,7 +555,7 @@ The Blessed One said, "Subhūti, if any bodhisattva were to say, 'I will accompl
 
 ![[bo-vajracchedika#^7-37]]
 
-Why is that? Subhūti, as for what is called 'arrays of Buddha-fields, arrays of Buddha-fields,' it is because the Tathāgata has taught them as being without those arrays. ^7-37
+Why is that? Subhūti, as for what is called 'arrays of Buddha-fields, arrays of Buddha-fields,' it is because the Tathāgata has taught those arrays as non-arrays. ^7-37
 
 ![[bo-vajracchedika#^7-38]]
 
@@ -563,7 +563,7 @@ Therefore, they are called "arrays of Buddha-fields". ^7-38
 
 ![[bo-vajracchedika#^7-39]]
 
-Subhūti, therefore, a bodhisattva great being should generate the mind without abiding in this way: ^7-39
+Subhūti, therefore, a bodhisattva great being should generate the mind in this way, without abiding: ^7-39
 
 ![[bo-vajracchedika#^7-40]]
 
@@ -615,7 +615,7 @@ Subhūti replied: Blessed One, if those Gaṅgā rivers themselves would be many
 
 ![[bo-vajracchedika#^7-52]]
 
-The Blessed One said: Subhūti, you should be convinced. ^7-52
+The Blessed One said: Subhūti, you should take an interest. ^7-52
 
 ![[bo-vajracchedika#^7-53]]
 
@@ -627,7 +627,7 @@ If some man or woman were to completely fill as many world systems as there are 
 
 ![[bo-vajracchedika#^7-55]]
 
-and were to give them as a gift to the Tathāgatas, arhats, and perfectly complete Buddhas, Subhūti, what do you think? Would that man or woman generate much merit on that basis? ^7-55
+and were to give them as a gift to the Tathāgatas, the arhats, the perfectly complete Buddhas, Subhūti, what do you think? Would that man or woman generate much merit on that basis? ^7-55
 
 ![[bo-vajracchedika#^7-56]]
 
@@ -719,7 +719,7 @@ Sugata, they are many. ^7-77
 
 ![[bo-vajracchedika#^7-78]]
 
-Why is that? Blessed One, it is because whatever is a particle of earth has been taught by the Tathāgata as not a particle." ^7-78
+Why is that? Blessed One, it is because whatever is a particle of earth has been taught by the Tathāgata as not a particle, ^7-78
 
 ![[bo-vajracchedika#^7-79]]
 
@@ -741,7 +741,7 @@ The Blessed One said, Subhūti, what do you think? ^8-1
 
 ![[bo-vajracchedika#^8-2]]
 
-Should the Tathāgata, the arhat, the perfectly complete Buddha be seen by those thirty-two marks of a great man? ^8-2
+Do you think the Tathāgata, the arhat, the perfectly complete Buddha should be seen by those thirty-two marks of a great man? ^8-2
 
 ![[bo-vajracchedika#^8-3]]
 
@@ -793,7 +793,7 @@ Blessed One, that I contemplate and have faith in this Dharma discourse being ex
 
 ![[bo-vajracchedika#^8-15]]
 
-Blessed One, in the future time, in the last five hundred years, those sentient beings who take up, write, hold, keep, read, and fully master this Dharma discourse will be endowed with supreme wonder. ^8-15
+Blessed One, in the future time, in the last five hundred years, those sentient beings who take up, write, hold, keep, read, and fully master this Dharma discourse will be endowed with supreme marvel. ^8-15
 
 ![[bo-vajracchedika#^8-16]]
 
@@ -821,7 +821,7 @@ Subhūti, so it is. So it is. ^8-21
 
 ![[bo-vajracchedika#^8-22]]
 
-Those sentient beings who, when this sūtra is being explained, are not terrified, not frightened, and do not become completely frightened, will be endowed with supreme wonder. ^8-22
+Those sentient beings who, when this sūtra is being explained, are not terrified, not frightened, and do not become completely frightened, will be endowed with supreme marvel. ^8-22
 
 ![[bo-vajracchedika#^8-23]]
 
@@ -885,7 +885,7 @@ One should generate the mind without abiding in phenomena. ^8-37
 
 ![[bo-vajracchedika#^8-38]]
 
-One should generate the mind without abiding in non-phenomena. ^8-38
+One should generate the mind without abiding even in non-phenomena. ^8-38
 
 ![[bo-vajracchedika#^8-39]]
 
@@ -913,7 +913,7 @@ Those very sentient beings that the Tathāgata has spoken of as "all sentient be
 
 ![[bo-vajracchedika#^8-45]]
 
-Why is that? Subhūti, the Tathāgata speaks authentically, speaks truthfully, and speaks of suchness, ^8-45
+Why is that? Subhūti, the Tathāgata speaks authentically, speaks truthfully, and speaks in accordance with suchness, ^8-45
 
 ![[bo-vajracchedika#^8-46]]
 
@@ -941,7 +941,7 @@ all those sentient beings will generate an immeasurable mass of merit. ^8-51
 
 ![[bo-vajracchedika#^8-52]]
 
-Moreover, Subhūti, if a man or a woman were to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during the morning, and were also to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during midday and during the afternoon, compared to completely giving away bodies in this manner for many hundreds of thousands of millions of eons, ^8-52
+Moreover, Subhūti, if a man or a woman were to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during the morning, and were also to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during midday and during the afternoon, compared to completely giving away bodies in this manner for many hundred-thousands of myriads of millions of eons, ^8-52
 
 ![[bo-vajracchedika#^8-53]]
 
@@ -1081,7 +1081,7 @@ Why is that? Subhūti, if a bodhisattva engages in the perception of a sentient 
 
 ![[bo-vajracchedika#^8-87]]
 
-and even if they engage in a perception up to that of a person, it is because they are not to be called a bodhisattva. ^8-87
+and because, even if they engage in a perception up to that of a person, they are not to be called a bodhisattva. ^8-87
 
 ![[bo-vajracchedika#^8-88]]
 
@@ -1321,7 +1321,7 @@ The future mind is also unapprehendable. ^10-2
 
 ![[bo-vajracchedika#^10-3]]
 
-It is because the present mind is also unapprehendable. ^10-3
+This is because the present mind, too, is unapprehendable. ^10-3
 
 ![[bo-vajracchedika#^10-4]]
 
@@ -1329,7 +1329,7 @@ Subhūti, what do you think? ^10-4
 
 ![[bo-vajracchedika#^10-5]]
 
-If someone were to completely fill this three-thousandfold great thousandfold world system with the seven precious substances and give it as a gift, would that son of noble family or daughter of noble family produce much merit on that basis? ^10-5
+If someone were to completely fill this three-thousandfold great thousandfold world system with the seven precious substances and give a gift, would that son of noble family or daughter of noble family produce much merit on that basis? ^10-5
 
 ![[bo-vajracchedika#^10-6]]
 
@@ -1401,7 +1401,7 @@ Therefore, it is called the perfection of marks. ^10-22
 
 ![[bo-vajracchedika#^10-23]]
 
-The Blessed One said, "Subhūti, what do you think? ^10-23
+The Blessed One said: Subhūti, what do you think? ^10-23
 
 ![[bo-vajracchedika#^10-24]]
 
@@ -1413,7 +1413,7 @@ Because there is no phenomenon whatsoever that the Tathāgata has taught. ^10-25
 
 ![[bo-vajracchedika#^10-26]]
 
-Subhūti, if anyone were to say this: 'The Tathāgata has taught the Dharma,' Subhūti, they would slander me by grasping at what is non-existent and false. ^10-26
+Subhūti, if anyone were to say this: 'The Tathāgata has taught the Dharma,' Subhūti, they would slander me by a mistaken grasping of what does not exist. ^10-26
 
 ![[bo-vajracchedika#^10-27]]
 
@@ -1489,7 +1489,7 @@ Therefore, they are called 'virtuous phenomena'. ^10-44
 
 ![[bo-vajracchedika#^10-45]]
 
-Furthermore, Subhūti, compared to any son of noble family or daughter of noble family who, having brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, gives them as a gift, if someone were to take up even just a single four-line verse from this perfection of wisdom and teach it to others, Subhūti, that former mass of merit does not approach even a hundredth part, up to not bearing comparison even as a cause. ^10-45
+Furthermore, Subhūti, suppose any son of noble family or daughter of noble family brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, and gave them as a gift; and suppose someone took up even just a single four-line verse from this perfection of wisdom and taught it to others. Subhūti, that former mass of merit does not come near even a hundredth part of the latter, up to not bearing comparison even as a cause. ^10-45
 
 ![[bo-vajracchedika#^10-46]]
 
@@ -1751,7 +1751,7 @@ Like a star, a visual aberration, a lamp, an illusion, a dewdrop, a bubble, a dr
 
 ![[bo-vajracchedika#^13-1]]
 
-After the Blessed One had spoken these words, the elder Subhūti, those monks, those bodhisattvas, the fourfold assembly of monks, nuns, laymen, and laywomen, and the world with its gods, humans, demigods, and gandharvas rejoiced, ^13-1
+After the Blessed One had spoken thus, the elder Subhūti, those monks, those bodhisattvas, and the fourfold assembly of monks, nuns, laymen, and laywomen, along with the world with its gods, humans, demigods, and gandharvas, rejoiced, ^13-1
 
 ![[bo-vajracchedika#^13-2]]
 
@@ -1759,7 +1759,7 @@ and highly praised what the Blessed One had spoken. ^13-2
 
 ![[bo-vajracchedika#^13-3]]
 
-The noble Mahāyāna sūtra called the perfection of wisdom Diamond Cutter is complete. ^13-3
+The noble Mahāyāna sūtra entitled the Diamond Cutter perfection of wisdom is complete. ^13-3
 
 ![[bo-vajracchedika#^13-4]]
 

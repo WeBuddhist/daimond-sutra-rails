@@ -39,6 +39,9 @@ def main():
     terms = tr.locked_terms(a.variant)
     ids = a.only or [s["id"] for s in segs if not s["heading"] and s["id"] in rows]
     segmap = {s["id"]: s for s in segs}
+    base = None
+    if a.variant == "children":  # checked against the approved academic version, not the commentaries
+        base = tr.latest(VAULT / "3-TRANSFORMATIONS/Translations/en-academic/work" / f"{tr.ROOT}-en.jsonl")
     out = HERE / f"{a.variant}-a{a.attempt}"
     (out / "batches").mkdir(parents=True, exist_ok=True)
     for f in (out / "batches").glob("*.json"):
@@ -47,6 +50,11 @@ def main():
     for b in range(0, len(ids), a.per_batch):
         batch, seen = [], set()
         for i in ids[b:b + a.per_batch]:
+            if base is not None:
+                batch.append({"id": i, "tibetan": segmap[i]["bo"], "academic_translation": base[i]["translation"],
+                              "locked_terms": [{"tibetan": t["bo"], "use": t["rendering"]} for t in terms.get(i, [])],
+                              "translation": rows[i]["translation"]})
+                continue
             c = ctx.get(i, {})
             comms = {}
             for cid, ps in (c.get("commentaries") or {}).items():

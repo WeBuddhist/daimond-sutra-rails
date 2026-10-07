@@ -1,0 +1,407 @@
+{
+ "0-3": {
+  "translation": "In the Tibetan language: The Noble Mahāyāna Sūtra called the Diamond Cutter Perfection of Wisdom.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "Diamond Cutter Perfection of Wisdom",
+    "evidence": "Tibetan order is 'ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་' (Perfection of Wisdom called Diamond Cutter), then 'ཐེག་པ་ཆེན་པོའི་མདོ'. The English inverts the Tibetan title order and is inconsistent with the rendering of the same title in 0-1 ('Perfection of Wisdom called the Diamond Cutter'). Chone Drakpa Shedrub 1-2 glosses the title as the Perfection of Wisdom that is the Diamond Cutter.",
+    "fix": "The Noble Perfection of Wisdom called the Diamond Cutter, a Mahāyāna Sūtra."
+   }
+  ]
+ },
+ "1-5": {
+  "translation": "Having given up later alms, he set aside his alms bowl and Dharma robe, washed his feet, sat cross-legged on the arranged seat, straightened his body, and remained, having established mindfulness to the fore.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Having given up later alms",
+    "evidence": "'ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས': Chone Drakpa Shedrub 1-6 glosses 'ཟས་ཕྱི་མ་ཕྱི་དྲོའི་བསོད་སྙོམས་ཟ་བ་སྤངས་ནས' (abandoned eating the afternoon alms food); Kamalaśīla 3-7 likewise reads it as the later (afternoon) meal/alms, which he gave up. 'Later alms' does not convey that the later (afternoon) alms meal is what is renounced.",
+    "fix": "Having given up the alms-food of the later (afternoon) meal"
+   }
+  ]
+ },
+ "2-3": {
+  "translation": "\"Blessed One, it is wonderful how the Tathāgata, the arhat, the perfectly complete Buddha, has benefited the bodhisattva great beings with all the supreme benefits, and how the Tathāgata has entrusted the bodhisattva great beings with all the supreme entrustments. Blessed One, it is wonderful! Sugata, it is wonderful!\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "with all the supreme benefits ... with all the supreme entrustments",
+    "evidence": "'ཕན་གདགས་པའི་དམ་པ་ཇི་སྙེད་པས་ཕན་གདགས་པ' and 'ཡོངས་སུ་གཏད་པའི་དམ་པ་ཇི་སྙེད་པས་ཡོངས་སུ་གཏད་པ': 'ཇི་སྙེད་པས' expresses the extent or degree (Sanskrit 'yāvad eva ... paramena anugraheṇa ... paramayā parīndanayā'; Kamalaśīla 3-10 glosses 'ཕན་གདགས་པ་གང་ཇི་སྙེད་པ་དེ་སྙེད་ཀྱིས་'), not a totality. The English adds 'all' and pluralises, implying every supreme benefit and entrustment rather than to what supreme extent the benefit and entrusting were given.",
+    "fix": "how supremely the Tathāgata ... has benefited the bodhisattva great beings, to what supreme extent he has benefited them, and to what supreme extent the Tathāgata has entrusted them"
+   }
+  ]
+ },
+ "3-6": {
+  "translation": "Therefore, Subhūti, listen well and hold it thoroughly in mind, and",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "listen well and hold it thoroughly in mind",
+    "evidence": "'ཉོན་ལ་ལེགས་པར་རབ་ཏུ་ཡིད་ལ་ཟུངས་ཤིག' has three injunctions (Sanskrit 'śṛṇu, sādhu ca suṣṭhu ca manasi kuru'). Kamalaśīla 3-15 explains them as three separate steps against the three faults of a pot turned upside down, a dirty pot, and a leaky pot: 'ཉོན་ལ' (listen), 'ལེགས་པར' (rightly, without error) and 'རབ་ཏུ་ཡིད་ལ་ཟུང' (hold thoroughly in mind). The English merges 'ལེགས་པར' into 'listen well' and so loses the threefold structure.",
+    "fix": "listen, attend properly, and hold it thoroughly in mind"
+   }
+  ]
+ },
+ "4-1": {
+  "translation": "Subhūti, here one who has correctly entered the bodhisattva vehicle should think in this way: 'However many sentient beings are subsumed by the subsumption of sentient beings—whether born from eggs, or born from a womb, or born from warmth and moisture, or miraculously born, or having form, or without form, or having perception, or neither with perception nor without perception—however many are designated by conceptual designation as sentient beings in the realm of sentient beings, all those I shall lead to complete nirvāṇa in the expanse of nirvāṇa without remainder of the aggregates.'",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "having perception, or neither with perception nor without perception",
+    "evidence": "The Tibetan segment itself reads འདུ་ཤེས་ཅན་ནམ། འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་ནམ and has no separate འདུ་ཤེས་མེད་པ; the English follows it. But the Sanskrit has saṃjñino vā asaṃjñino vā naivasaṃjñino nāsaṃjñino vā, and Chone Drakpa Shedrub 2-7 (འདུ་ཤེས་མེད་པ་དང༌), Kamalaśīla 3-18 and Vasubandhu 2-4 all list 'without perception' as its own class, so the English drops a class the tradition counts.",
+    "fix": "having perception, or without perception, or neither with perception nor without perception (the Tibetan lacks 'without perception'; consider restoring it with an [Ed:] note)"
+   }
+  ]
+ },
+ "6-8": {
+  "translation": "Thus, the Tathāgata should be viewed as being without marks and signs.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "being without marks and signs",
+    "evidence": "Tibetan 'མཚན་དང་མཚན་མ་མེད་པར་བལྟའོ' parallels Skt lakṣaṇālakṣaṇatas ('by way of mark and non-mark'); Vasubandhu 2-20 quotes 'མཚན་དང་མཚན་མེད་པར་བལྟའོ'; Kamalaśīla 3-51 says one views the Tathāgata 'མཚན་གྱིས' conventionally and 'མཚན་མེད་པ' ultimately. The English distributes the negation over both 'marks' and 'signs', excluding the conventional marks that Kamalaśīla affirms (Chone 2-23 adds the qualifier 'བདེན་པར་གྲུབ་པའི', 'truly established').",
+    "fix": "should be viewed as having marks and as being without signs"
+   }
+  ]
+ },
+ "6-13": {
+  "translation": "Subhūti, those bodhisattva great beings have not served a single Buddha.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "have not served a single Buddha",
+    "evidence": "Tibetan 'སངས་རྒྱས་གཅིག་ལ་བསྙེན་བཀུར་བྱས་པ་མ་ཡིན' means 'not (merely) one Buddha' (Skt ekabuddha-paryupāsita; Chone 2-26 'སངས་རྒྱས་གཅིག་ཙམ་ལ ... མ་ཡིན་གྱི། ... འབུམ་ཕྲག་དུ་མ་ལ'). English 'not a single Buddha' can read as 'none at all', which clashes with 6-15 (many Buddhas served).",
+    "fix": "have not served just a single Buddha"
+   }
+  ]
+ },
+ "6-14": {
+  "translation": "They have not planted roots of virtue under a single Buddha, but",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "under a single Buddha",
+    "evidence": "Tibetan 'སངས་རྒྱས་གཅིག་ལ་དགེ་བའི་རྩ་བ་བསྐྱེད་པ་མ་ཡིན་གྱི' means 'not only under one Buddha, but under many' (Chone 2-26 'གཅིག་ཙམ'; Kamalaśīla 3-56 'སངས་རྒྱས་འབུམ་ཕྲག་'). 'Not ... a single Buddha' can read as 'none'.",
+    "fix": "have not planted roots of virtue under just a single Buddha, but"
+   }
+  ]
+ },
+ "6-25": {
+  "translation": "Even if they were to engage in the perception of a selfless phenomenon, that itself would become for them a grasping at a self,",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "perception of a selfless phenomenon",
+    "evidence": "Tibetan 'ཆོས་བདག་མེད་པར་འདུ་ཤེས' is parallel to 'ཆོས་སུ་འདུ་ཤེས' (perceiving as a phenomenon), i.e. perceiving as selfless / the selflessness of phenomena; Vasubandhu 2-27 glosses the pair as conceptualising 'ཆོས་བདག་མེད་པ'. Skt has adharmasaṃjñā. 'a selfless phenomenon' treats it as a kind of object, not as perceiving phenomena as selfless.",
+    "fix": "perception of phenomena as selfless"
+   }
+  ]
+ },
+ "7-30": {
+  "translation": "Blessed One, if I were to think, 'I have obtained arhatship,' the Tathāgata, concerning me, 'The son of noble family Subhūti is the foremost of those abiding without affliction,'",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "the Tathāgata, concerning me, 'The son of noble family Subhūti is the foremost of those abiding without affliction,'",
+    "evidence": "The Tibetan clause ends ...མཆོག་ཡིན་ཏེ, with its governing verb ལུང་མི་སྟོན་ལགས་སོ only in the next segment (7-31); the English leaves a quotation hanging with no predicate, and the conditional apodosis (Sanskrit na mām tathāgato vyākariṣyat) is not signalled.",
+    "fix": "the Tathāgata, concerning me, [would not declare:] 'The son of noble family Subhūti is the foremost of those abiding without affliction,' —"
+   }
+  ]
+ },
+ "7-31": {
+  "translation": "Because I do not abide in anything whatsoever, he does not declare \"abiding without affliction.\"",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "he does not declare",
+    "evidence": "The Tibetan གལ་ཏེ... in 7-30 sets up the conditional, and the agent of ལུང་མི་སྟོན་ is the Tathāgata (Chone Drakpa Shedrub 2-50: བཅོམ་ལྡན་འདས་ཀྱིས... ལུང་མི་སྟོན་ཏེ). The English pronoun 'he' has no antecedent in this segment and can be read as Subhūti or an arhat.",
+    "fix": "the Tathāgata does not declare me 'abiding without affliction'"
+   }
+  ]
+ },
+ "7-37": {
+  "translation": "Why is that? Subhūti, as for what is called 'arrays of Buddha-fields, arrays of Buddha-fields,' it is because the Tathāgata has taught them as being without those arrays.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "taught them as being without those arrays",
+    "evidence": "Tibetan 'བཀོད་པ་དེ་དག་མེད་པར་དེ་བཞིན་གཤེགས་པར་གསུངས་པའི་ཕྱིར' and Sanskrit 'अव्यूहास्ते' (non-arrays): the arrays themselves are taught as non-existent/non-arrays; 'them ... without those arrays' is self-referential and does not state this.",
+    "fix": "because the Tathāgata has taught those arrays as non-arrays (as nonexistent)"
+   }
+  ]
+ },
+ "7-39": {
+  "translation": "Subhūti, therefore, a bodhisattva great being should generate the mind without abiding in this way:",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "without abiding in this way",
+    "evidence": "Tibetan 'འདི་ལྟར་མི་གནས་པར་སེམས་པ་བསྐྱེད་པར་བྱ་སྟེ' and Sanskrit 'एवमप्रतिष्ठितं' say one should generate the mind thus, in a non-abiding manner (introducing what follows); the English can be read as 'not abiding in this way'.",
+    "fix": "should generate the mind in this way, without abiding:"
+   }
+  ]
+ },
+ "7-52": {
+  "translation": "The Blessed One said: Subhūti, you should be convinced.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "you should be convinced",
+    "evidence": "Tibetan 'ཁྱོད་མོས་པར་བྱའོ' ; Chone Drakpa Shedrub 2-58 glosses 'ཁྱོད་མོས་པ་སྟེ་འདོད་པ་བསྐྱེད་པ' (develop inclination/interest); 'convinced' implies a settled conclusion, whereas the Tibetan asks for receptive interest before 7-53 'ཁོང་དུ་ཆུད་པར་བྱའོ' (understand).",
+    "fix": "you should take an interest (be inclined to it)"
+   }
+  ]
+ },
+ "7-55": {
+  "translation": "and were to give them as a gift to the Tathāgatas, arhats, and perfectly complete Buddhas, Subhūti, what do you think? Would that man or woman generate much merit on that basis?",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "the Tathāgatas, arhats, and perfectly complete Buddhas",
+    "evidence": "Tibetan 'དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ལ' is one string of epithets for the same beings (Sanskrit 'तथागतेभ्योऽर्हद्भयः सम्यक्संबुद्धेभ्यः'); the English list with 'and' reads as three groups.",
+    "fix": "the Tathāgatas, the arhats, the perfectly complete Buddhas (i.e. Tathāgata-arhat-perfectly complete Buddhas)"
+   }
+  ]
+ },
+ "7-78": {
+  "translation": "Why is that? Blessed One, it is because whatever is a particle of earth has been taught by the Tathāgata as not a particle.\"",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "as not a particle.\"",
+    "evidence": "Subhūti's reply continues through 7-79 to 7-81 (དེས་ན་སའི་རྡུལ་ཞེས་བགྱིའོ། །, etc.; Skt tenocyate pṛthivīraja iti), but the English closes the quotation at the end of 7-78, so the following segments read as narration rather than Subhūti's speech.",
+    "fix": "as not a particle,"
+   }
+  ]
+ },
+ "8-2": {
+  "translation": "Should the Tathāgata, the arhat, the perfectly complete Buddha be seen by those thirty-two marks of a great man?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "Should the Tathāgata, the arhat, the perfectly complete Buddha be seen",
+    "evidence": "Tibetan ends བལྟ་བར་བྱ་སྙམ་མམ, \"do you think ... should be seen\", a question to Subhūti about his thought (continuing 8-1 ཇི་སྙམ་དུ་སེམས); Chone Drakpa Shedrub 2-68 paraphrases it as བལྟ་བ་སྟེ་གཟུང་བར་བྱ་སྙམ་མམ (\"do you think ... to be taken as\"). The English drops the སྙམ་ (\"think\") element.",
+    "fix": "Do you think the Tathāgata, the arhat, the perfectly complete Buddha should be seen by those thirty-two marks of a great man?"
+   }
+  ]
+ },
+ "8-15": {
+  "translation": "Blessed One, in the future time, in the last five hundred years, those sentient beings who take up, write, hold, keep, read, and fully master this Dharma discourse will be endowed with supreme wonder.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "supreme wonder",
+    "evidence": "ངོ་མཚར་རབ་དང་ལྡན་པ is the same expression rendered \"supreme marvel\" in 8-11 and ངོ་མཚར་ is \"marvel\" in 8-9, 8-14; here it is \"wonder\", so one Tibetan term has two renderings across adjacent segments.",
+    "fix": "endowed with supreme marvel"
+   }
+  ]
+ },
+ "8-22": {
+  "translation": "Those sentient beings who, when this sūtra is being explained, are not terrified, not frightened, and do not become completely frightened, will be endowed with supreme wonder.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "supreme wonder",
+    "evidence": "ངོ་མཚར་རབ་དང་ལྡན་པ is rendered \"supreme marvel\" in 8-11 (and \"marvel\" for ངོ་མཚར in 8-9, 8-14), but \"wonder\" here.",
+    "fix": "will be endowed with supreme marvel"
+   }
+  ]
+ },
+ "8-45": {
+  "translation": "Why is that? Subhūti, the Tathāgata speaks authentically, speaks truthfully, and speaks of suchness,",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "speaks of suchness",
+    "evidence": "Tibetan དེ་བཞིན་ཉིད་དུ་གསུང་བ (Sanskrit tathāvādī): terminative དུ་ marks the manner of speaking, not the topic. Chone Drakpa Shedrub 2-86: ཆོས་རྣམས་ཀྱི་གནས་ཚུལ་ཇི་ལྟ་བ་དེ་བཞིན་ཉིད་དུ་གསུང་བ་པོ (speaks as things really are); Kamalaśīla 3-144 likewise: ཇི་ལྟ་བ་བཞིན་དུ་གསུང་བས་དེ་བཞིན་ཉིད་གསུང་པ.",
+    "fix": "speaks in accordance with suchness"
+   }
+  ]
+ },
+ "8-52": {
+  "translation": "Moreover, Subhūti, if a man or a woman were to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during the morning, and were also to completely give away bodies as numerous as the grains of sand in the Gaṅgā river during midday and during the afternoon, compared to completely giving away bodies in this manner for many hundreds of thousands of millions of eons,",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "many hundreds of thousands of millions of eons",
+    "evidence": "Tibetan བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མ has four number terms (བྱེ་བ koṭi, ཁྲག་ཁྲིག niyuta, འབུམ hundred-thousand, ཕྲག); Sanskrit kalpakoṭinayutaśatasahasrāṇi; Kamalaśīla 3-151 glosses བྱེ་བ་དེ་ཡང་ཁྲག་ཁྲིག་ and འབུམ as further multipliers. The English drops ཁྲག་ཁྲིག (niyuta), though 8-72 renders it as 'myriad'.",
+    "fix": "many hundred-thousands of myriads of millions of eons"
+   }
+  ]
+ },
+ "8-74": {
+  "translation": "Subhūti, regarding whatever pleasing and not disappointing of those Buddhas, the Blessed Ones, I did, and whoever, when the last five hundred years of the latter time have come, takes up, writes, upholds, keeps, reads, and completely comprehends this sūtra—Subhūti, compared to this mass of merit, that former mass of merit does not approach even a hundredth part.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "takes up, writes, upholds",
+    "evidence": "The Tibetan reads འདྲི་བ ('asks/inquires'), not འབྲི་བ ('writes'); the Sanskrit list (udgrahīṣyanti dhārayiṣyanti vācayiṣyanti paryavāpsyanti) has no writing item. Chone Drakpa Shedrub 2-98 does say འབྲི་བ in its paraphrase, so 'writes' may be a defensible emendation, but the translation silently departs from the Tibetan as given.",
+    "fix": "takes up, asks about [or: writes — noting the reading འདྲི་བ], holds"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "completely comprehends",
+    "evidence": "ཀུན་ཆུབ་པར་བྱེད་པ is rendered 'master' / 'completely masters' in 8-53, 8-57 and 8-63 (Sanskrit paryavāpnuyāt); here it becomes 'completely comprehends', an unexplained inconsistency.",
+    "fix": "completely masters"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "regarding whatever pleasing and not disappointing of those Buddhas, the Blessed Ones, I did, and whoever, when the last five hundred years of the latter time have come, takes up, writes, upholds, keeps, reads, and completely comprehends this sūtra—Subhūti, compared to this mass of merit, that former mass of merit does not approach even a hundredth part.",
+    "evidence": "The Tibetan structure is: of (the merit of) my having pleased and not disappointed those Buddhas, and of (the merit of) the taking up etc. of this sūtra in the last five hundred years, 'this mass of merit' (བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་, the latter) is compared with 'the former mass of merit' (སྔ་མ). Kamalaśīla 3-163 states the former merit does not reach a hundredth of the latter. The English syntax leaves 'this mass of merit' without a clear referent (it reads as if the 'whoever' clause were the topic), and renders ཀུན་ཆུབ་པར་བྱེད་པ་གང་ཡིན་པ་ as a person ('whoever') rather than the act.",
+    "fix": "Subhūti, of the merit from my having pleased, and not disappointed, those Buddhas, the Blessed Ones, and of the merit from whoever, when the last five hundred years of the latter time have come, takes up, holds, keeps, reads, and completely masters this sūtra: compared to this latter mass of merit, that former mass of merit does not approach even a hundredth part."
+   }
+  ]
+ },
+ "8-87": {
+  "translation": "and even if they engage in a perception up to that of a person, it is because they are not to be called a bodhisattva.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "and even if they engage in a perception up to that of a person, it is because they are not to be called a bodhisattva.",
+    "evidence": "Tibetan གང་ཟག་གི་བར་དུ་འདུ་ཤེས་འཇུག་ན་ཡང༌། དེ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ་བའི་ཕྱིར་རོ། — the final ཕྱིར་རོ answers 'Why is that?' of 8-86 and governs the whole sentence ('because ... even if they engage ... up to person, they are not to be called a bodhisattva'). The English 'even if ... it is because' leaves the concessive clause and the reason clause logically unconnected. Vasubandhu 2-95 glosses the pair as one reason.",
+    "fix": "and because, even if they engage in a perception up to that of a person, they are not to be called a bodhisattva."
+   }
+  ]
+ },
+ "10-3": {
+  "translation": "It is because the present mind is also unapprehendable.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "It is because the present mind is also unapprehendable.",
+    "evidence": "Tibetan ད་ལྟར་བྱུང་བའི་སེམས་ཀྱང་དམིགས་སུ་མེད་པའི་ཕྱིར་རོ། closes the three-part statement (10-1 to 10-3) with the reason particle ཕྱིར་རོ (Skt. tat-kasya hetoḥ ... nopalabhyate); the reason covers past, future and present mind together. The English fragment 'It is because the present mind...' reads as if the reason applies to the present mind alone (cf. Vasubandhu 2-114).",
+    "fix": "This is because the present mind, too, is unapprehendable."
+   }
+  ]
+ },
+ "10-5": {
+  "translation": "If someone were to completely fill this three-thousandfold great thousandfold world system with the seven precious substances and give it as a gift, would that son of noble family or daughter of noble family produce much merit on that basis?",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "give it as a gift",
+    "evidence": "Tibetan སྦྱིན་པ་བྱིན་ན / Skt. dānaṃ dadyāt: 'give a gift'; the thing given is the seven precious substances filling the world system, not the world system itself. 'it' can be read as the world system.",
+    "fix": "and give a gift"
+   }
+  ]
+ },
+ "10-23": {
+  "translation": "The Blessed One said, \"Subhūti, what do you think?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "The Blessed One said, \"Subhūti, what do you think?",
+    "evidence": "Tibetan བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། is a self-contained segment; the English opens a quotation mark that is never closed in this or the following segments (10-24 to 10-28), leaving the quotation punctuation unbalanced.",
+    "fix": "The Blessed One said: \"Subhūti, what do you think?\" (or drop the quotation marks, as in 10-17)"
+   }
+  ]
+ },
+ "10-26": {
+  "translation": "Subhūti, if anyone were to say this: 'The Tathāgata has taught the Dharma,' Subhūti, they would slander me by grasping at what is non-existent and false.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "by grasping at what is non-existent and false",
+    "evidence": "Tibetan མེད་པ་དང་ལོག་པར་ཟིན་པས; Sanskrit asatodgṛhītena. Kamalaśīla (bo-kamalasila-tika 3-200) glosses ལོག་པར་ཟིན་པ as being wrongly seized through perverse clinging (ཕྱིན་ཅི་ལོག་ཏུ་མངོན་པར་ཞེན་པས་ལོག་པར་ཟིན་པའི་ཕྱིར་དེ་མེད་). The wrongness lies in the grasping, not in a 'false' object; 'non-existent and false' makes the object doubly characterised.",
+    "fix": "by a mistaken grasping of what does not exist"
+   }
+  ]
+ },
+ "10-45": {
+  "translation": "Furthermore, Subhūti, compared to any son of noble family or daughter of noble family who, having brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, gives them as a gift, if someone were to take up even just a single four-line verse from this perfection of wisdom and teach it to others, Subhūti, that former mass of merit does not approach even a hundredth part, up to not bearing comparison even as a cause.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "compared to any son of noble family or daughter of noble family who, having brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, gives them as a gift, if someone were to take up even just a single four-line verse from this perfection of wisdom and teach it to others, Subhūti, that former mass of merit does not approach even a hundredth part",
+    "evidence": "The Tibetan has two actors and a comparison: \"སྦྱིན་པ་བྱིན་པ་བས་ ... གང་གིས་ ... ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་བཟུང་ནས་གཞན་དག་ལ་ཡང་བསྟན་ན། ... བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ་དེས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ་བ\". Chone Drakpa Shedrub 2-131 glosses it: the former gift's merit does not approach one part in a hundred of the latter. The English opens with \"compared to\" the giver, then states the giver's own merit falls short, and never says a hundredth part of what, so the comparison is hard to parse.",
+    "fix": "Furthermore, Subhūti, suppose any son or daughter of noble family brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, and gave them as a gift; and suppose someone took up even a single four-line verse from this perfection of wisdom and taught it to others. Subhūti, that former mass of merit does not come near even a hundredth part of the latter, up to not bearing comparison even as a cause."
+   }
+  ]
+ },
+ "11-9": {
+  "translation": "Those who have correctly entered the bodhisattva vehicle do not designate any phenomenon as destroyed or as an annihilation.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "do not designate any phenomenon as destroyed or as an annihilation",
+    "evidence": "Tibetan ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ། pairs རྣམ་པར་བཤིག་པ (destroyed, locked 'destroyed') with ཆད་པར་བཏགས་པ (designated as annihilation); Chone Drakpa Shedrub 2-143 reads 'ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པ་མེད་' as no phenomenon destroyed or designated as annihilation, and 11-8 (2-142) has them destroying by reasoning or designating annihilation. The English makes 'designate' govern 'destroyed', diverging from 11-8's rendering of the same pair.",
+    "fix": "do not destroy any phenomenon or designate it as an annihilation"
+   }
+  ]
+ },
+ "13-3": {
+  "translation": "The noble Mahāyāna sūtra called the perfection of wisdom Diamond Cutter is complete.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "called the perfection of wisdom Diamond Cutter",
+    "evidence": "Tibetan title ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ is locked as a whole to 'The Perfection of Wisdom that Cuts Like a Diamond'; the translation instead strings together the component terms (perfection of wisdom + Diamond Cutter), which reads as an unpunctuated, ungrammatical title.",
+    "fix": "called The Perfection of Wisdom that Cuts Like a Diamond"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "locked termbase rendering not used",
+    "fix": "use the locked rendering: The Perfection of Wisdom that Cuts Like a Diamond"
+   }
+  ]
+ },
+ "8-38": {
+  "translation": "One should generate the mind without abiding in non-phenomena.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "locked termbase rendering not used",
+    "fix": "use the locked rendering: phenomenon"
+   }
+  ]
+ },
+ "13-1": {
+  "translation": "After the Blessed One had spoken these words, the elder Subhūti, those monks, those bodhisattvas, the fourfold assembly of monks, nuns, laymen, and laywomen, and the world with its gods, humans, demigods, and gandharvas rejoiced,",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "locked termbase rendering not used",
+    "fix": "use the locked rendering: layman"
+   }
+  ]
+ }
+}

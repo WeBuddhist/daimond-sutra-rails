@@ -70,6 +70,8 @@ def words(s):
 def complies(rendering, text):
     """Loose check: every content word of the locked rendering occurs (prefix match allows plural/inflection)."""
     tw = words(text)
+    tw += [part for w in tw if "-" in w for part in w.split("-")]  # non-phenomena -> phenomena
+    tw += [w[:-3] + "man" for w in tw if w.endswith("men")]  # laymen -> layman
     for w in words(rendering):
         if w in STOP or len(w) < 3:
             continue
@@ -108,8 +110,15 @@ def make_batches(ids, segs, size, budget):
     return batches
 
 
-def payload(batch, segs, ctx, terms, max_comm):
+def payload(batch, segs, ctx, terms, max_comm, base=None):
+    """Per-segment prompt items. With `base` (another track's rows), the item carries that
+    translation as the source of meaning instead of Sanskrit, commentaries and machine drafts."""
     out, seen = [], set()
+    if base is not None:
+        return [{"id": i, "heading": segs[i]["heading"], "tibetan": segs[i]["bo"],
+                 "academic_translation": base[i]["translation"],
+                 "locked_terms": [{"tibetan": t["bo"], "use": t["rendering"]} for t in terms.get(i, [])]}
+                for i in batch]
     for i in batch:
         s, c = segs[i], ctx.get(i, {})
         comms = {}
@@ -131,8 +140,12 @@ def payload(batch, segs, ctx, terms, max_comm):
 
 
 def translate_batch(batch, a, key, system, segs, ctx, terms, work, variant, attempt=1, feedback=None):
-    body_items = payload(batch, segs, ctx, terms, a.max_comm)
-    user = f"Translate these segments of the Tibetan Diamond Sutra into English ({variant} register). Return JSON only.\n\n"
+    body_items = payload(batch, segs, ctx, terms, a.max_comm, a.base_rows)
+    if a.base_rows is not None:
+        user = (f"Retell these segments of the Diamond Sutra in English for the {variant} register. Take the meaning "
+                f"from `academic_translation` (checked against the Tibetan); write new, simple wording. Return JSON only.\n\n")
+    else:
+        user = f"Translate these segments of the Tibetan Diamond Sutra into English ({variant} register). Return JSON only.\n\n"
     if feedback:
         user += feedback + "\n\n"
     user += json.dumps(body_items, ensure_ascii=False)
@@ -218,8 +231,9 @@ def render(track, stem, segs, rows, variant, model):
     fm = ["---", f"title: {title}", f"track: en-{variant}", "language: English", "lang_tag: en",
           "file_type: translation", "track_type: governed-draft", f"root_text: 1-SOURCES/Translations/{ROOT}.md",
           "source_language: tibetan", "target_language: english", f"generator: {model}",
+          ("context_packages: [termbase.md, ../en-academic/bo-vajracchedika-en.md (meaning source)]" if variant == "children" else
           "context_packages: [termbase.md, aligned Sanskrit (1-SOURCES/Text/sa-vajracchedika.md), "
-          "aligned commentaries: bo-kamalasila-tika, bo-vasubandhu-saptartha-tika, bo-chone-drakpa-shedrub]",
+          "aligned commentaries: bo-kamalasila-tika, bo-vasubandhu-saptartha-tika, bo-chone-drakpa-shedrub]"),
           f"blocks_translated: {done}", f"blocks_total: {len(order)}", f"segments_missing_locked_terms: {missed}",
           f"generation_date: {_dt.date.today().isoformat()}", "status: draft", "---", ""]
     body = []
@@ -252,6 +266,7 @@ def main():
     p.add_argument("--render-only", action="store_true")
     p.add_argument("--feedback", help="fact-check feedback JSON {id: {translation, issues}}; translates only those ids")
     p.add_argument("--attempt", type=int, default=1)
+    p.add_argument("--from-track", help="build from another track's translation (e.g. academic) instead of the sources")
     a = p.parse_args()
 
     track = VAULT / f"3-TRANSFORMATIONS/Translations/en-{a.variant}"
@@ -266,6 +281,9 @@ def main():
     ctx = build_context(ROOT)
     terms = locked_terms(a.variant)
     done = latest(work)
+    a.base_rows = None
+    if a.from_track:
+        a.base_rows = latest(VAULT / f"3-TRANSFORMATIONS/Translations/en-{a.from_track}" / "work" / f"{ROOT}-en.jsonl")
     a.feedback_data = json.loads(pathlib.Path(a.feedback).read_text(encoding="utf-8")) if a.feedback else None
     if a.feedback_data:
         todo = list(a.feedback_data)

@@ -1,0 +1,26 @@
+{
+ "8-74": {
+  "translation": "Subhūti, of the merit from my having pleased and not disappointed those Buddhas, the Blessed Ones, and of the merit from whoever, when the last five hundred years have come, takes up, asks about, holds, keeps, reads, and completely masters this sūtra—Subhūti, compared to this mass of merit, that former mass of merit does not approach even a hundredth part.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "major",
+    "span": "of the merit from my having pleased and not disappointed those Buddhas, the Blessed Ones, and of the merit from whoever, when the last five hundred years have come, takes up, asks about, holds, keeps, reads, and completely masters this sūtra—Subhūti, compared to this mass of merit, that former mass of merit",
+    "evidence": "The Tibetan sets two items against each other (…གང་ཡིན་པ་དང༌། …གང་ཡིན་པ་ལས། བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་ལ་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མས…): the former mass of merit = serving the Buddhas, 'this' mass = holding the sūtra. Chone Drakpa Shedrub 2-98: 'of these two (service of Buddhas / writing etc. this sūtra), this latter mass of merit is greater, and the former does not approach even a hundredth of it' (བསོད་ནམས་ཀྱི་ཕུང་པོ་ཕྱི་མ་འདི་ཆེ་སྟེ། …སྔོན་མས་འདི་ལ་ཆ་བརྒྱར་བགོས་པའི་བརྒྱའི་ཆ…). The English adds two dangling 'of the merit from…' phrases that put both acts together, so the reader cannot tell what 'this mass of merit' and 'that former mass' refer to, and the comparison reads as if both acts are on the same side.",
+    "fix": "Subhūti, there is the merit of my having pleased those Buddhas, the Blessed Ones, and not having wearied them, and there is the merit of whoever, when the last five hundred years have come, takes up, writes, holds, keeps, reads, and completely masters this sūtra. Subhūti, compared to this latter mass of merit, that former mass of merit does not approach even a hundredth part"
+   }
+  ]
+ },
+ "11-9": {
+  "translation": "Those who have correctly entered the bodhisattva vehicle do not destroy any phenomenon or designate it as an annihilation.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "do not destroy any phenomenon or designate it as an annihilation",
+    "evidence": "Tibetan ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ། — the verb བཏགས་པ 'designated' governs both rnam par bshig pa and chad pa; Skt vināśaḥ prajñapto nocchedaḥ ('destruction is not posited, nor annihilation'). Chone Drakpa Shedrub 2-143: 'they have no designation of any phenomenon as destroyed or annihilated (རྣམ་པར་བཤིག་པའམ་ཆད་པར་བཏགས་པ་མེད)'; Vasubandhu 2-135: ཆོས་གང་ལ་ལ་ཞིག་བཤིག་པར་བཏགས་པ་མེད་པ. The English makes 'destroy' an action the bodhisattvas perform rather than a status they do not ascribe, and does not use the locked 'destroyed'.",
+    "fix": "do not designate any phenomenon as destroyed or as annihilated"
+   }
+  ]
+ }
+}
