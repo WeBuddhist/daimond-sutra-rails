@@ -38,29 +38,30 @@ Every governed translation covers all 446 segments.
 | Glossary (style sheet + parallel agents) | Claude Sonnet 5.5 | 3.93 | 2.95 | 3.24 |
 | Glossary review | Gemini 3.1 Pro | 0.26 | 0.25 | 0.28 |
 | Academic translation, incl. retries and fixes | Gemini 3.1 Pro | 6.22 | 9.21 | 6.38 |
-| Academic fact-check, incl. re-checks | Claude Sonnet 5.5 | 7.20 | 5.97 | 4.70 |
+| Academic fact-check, incl. re-checks | Claude Sonnet 5.5 | 7.20 | 6.20 | 4.70 |
 | Children's version, incl. retries and fixes | Gemini 3.1 Pro | 3.98 | 5.00 | 4.29 |
-| Children's fact-check, incl. re-checks | Claude Sonnet 5.5 | 2.98 | 3.05 | 2.85 |
-| Fact-checker reliability test | Claude Sonnet 5.5 | 0.37 | — | — |
-| **Pipeline total (new work)** | | **30.04** | **26.43** | **21.74** |
+| Children's fact-check, incl. re-checks | Claude Sonnet 5.5 | 3.09 | 3.05 | 2.85 |
+| **Pipeline total (new work)** | | **29.78** | **26.66** | **21.74** |
+| Measurement: checker reliability test | Claude Sonnet 5.5 | 0.37 | 0.30 | 0.32 |
+| Measurement: blind before/after judge | Gemini 3.1 Pro | 0.79 | 1.51 | 0.88 |
 | Zero-shot root translation (baseline) | Gemini 3.1 Pro | 3.59 | 3.73 | 3.49 |
 | Commentary translations, 3 commentaries (baseline, earlier) | Gemini 3.1 Pro | 24.19 | 27.69 | — |
-| **All work on this text** | | **57.83** | **57.84** | **25.24** |
+| **All work on this text** | | **58.72** | **59.89** | **26.43** |
 
-Pipeline total for the three languages: **$78.21**. All work on this text: **$140.90**. DharmaMitra calls are free and not in the totals.
+Pipeline total for the three languages: **$78.18**. Measurement: $4.17. All work on this text: **$145.04**. DharmaMitra calls are free and not in the totals.
 
 ### By version
 
 | Version | en | zh | hi | per 1,000 Tibetan syllables (en / zh / hi) |
 |---|---|---|---|---|
 | Glossary | 9.29 (incl. shared term list) | 3.20 | 3.52 | 0.87 / 0.30 / 0.33 |
-| Academic (translation + fact-check + fixes) | 13.42 | 15.18 | 11.08 | 1.26 / 1.42 / 1.04 |
-| Academic incl. its glossary | 22.71 | 18.38 | 14.60 | 2.13 / 1.72 / 1.37 |
-| Children's (translation + fact-check + fixes) | 6.96 | 8.05 | 7.14 | 0.65 / 0.75 / 0.67 |
+| Academic (translation + fact-check + fixes) | 13.42 | 15.41 | 11.08 | 1.26 / 1.44 / 1.04 |
+| Academic incl. its glossary | 22.71 | 18.61 | 14.60 | 2.13 / 1.74 / 1.37 |
+| Children's (translation + fact-check + fixes) | 7.07 | 8.05 | 7.14 | 0.66 / 0.75 / 0.67 |
 | Zero-shot | 3.59 | 3.73 | 3.49 | 0.34 / 0.35 / 0.33 |
 
-- **Each further language costs less than the first.** The term list is built once, so a new language needs only its own glossary: about $3.20–3.50 against $9.29 for English. A full new language (glossary + academic + children's) cost $26.43 for Chinese and $21.74 for Hindi.
-- **Governed vs zero-shot.** The governed academic version, including its glossary, costs 6.3× a zero-shot run in English, 4.9× in Chinese and 4.2× in Hindi. Whether that buys quality worth the difference is what the blind evaluation (section 4) has to show.
+- **Each further language costs less than the first.** The term list is built once, so a new language needs only its own glossary: about $3.20–3.50 against $9.29 for English. A full new language (glossary + academic + children's) cost $26.66 for Chinese and $21.74 for Hindi.
+- **Governed vs zero-shot.** The governed academic version, including its glossary, costs 6.3× a zero-shot run in English, 5.0× in Chinese and 4.2× in Hindi. Section 3 shows what the fact-check and fix add; whether the governed version beats zero-shot is what the blind evaluation (section 4) has to show.
 - **Chinese academic cost the most to translate ($9.21).** Gemini's thinking ran longer (607K thinking tokens, against 388K for English and Hindi). Chinese also regenerated 60 segments to fix minor issues, against 32 for English and 41 for Hindi.
 
 **Where the money goes:**
@@ -73,11 +74,11 @@ Pipeline total for the three languages: **$78.21**. All work on this text: **$14
 
 | Version | Locked-term uses required | en | zh | hi |
 |---|---|---|---|---|
-| Academic | 1,564 per language | 1,563 (99.9%) | 1,558 (99.6%) | 1,563 (99.9%) |
+| Academic | 1,564 per language | 1,563 (99.9%) | 1,557 (99.6%) | 1,563 (99.9%) |
 | Children's | 1,564 per language | 1,563 (99.9%) | 1,558 (99.6%) | 1,562 (99.9%) |
 
 - **English academic:** the one gap is the closing title (13-3), where the glossary contradicts its own style sheet; it needs a glossary decision, not a translation fix.
-- **Chinese:** the 6 academic gaps are mostly 世間 and 佛 in passages where the fact-checker accepted the chosen wording.
+- **Chinese:** the 7 academic gaps are mostly 世間 and 佛 in passages where the fact-checker accepted the chosen wording. In 9-11 the gap is correct: forcing the locked 教法 into the compound 法眼 produced a major error (see below).
 - **Hindi children's:** 7-29 uses चाह where the locked term is चाहत. In 8-118, a relative pronoun inside the locked phrase changed with the sentence.
 
 **The check itself needed fixing for each script.** It first raised false alarms on English plurals, Chinese punctuation, and Hindi compounds and inflections. Before the last fix, 17 of the 18 segments it flagged in Hindi children's were Hindi plural or verb forms (चीज़ें → चीज़ों, नदी → नदियों, देना → देता), not missing terms. Each language needs its own rule for matching inflected forms before the check can be trusted.
@@ -92,8 +93,9 @@ Pipeline total for the three languages: **$78.21**. All work on this text: **$14
 | Major errors found | 1 | 3 | 6 |
 | Critical errors found | 0 | 0 | 0 |
 | Segments regenerated (major + minor issues) | 33 | 60 | 41 |
-| Regressions on re-check, restored to the earlier version | 2 | 2 | 1 |
+| Regressions on re-check, restored to the earlier version | 2 | 3 | 1 |
 | Needed a third attempt | 0 | 1 (7-30) | 0 |
+| Re-checked because the text changed after its check | 0 | 12 (11 pass; 9-11 restored) | 0 |
 | Final state | all pass | all pass | all pass |
 
 The major errors:
@@ -123,11 +125,67 @@ The children's errors are of the kinds a simplifying rewrite produces:
 
 **Fixing minor issues can break correct sentences.** Across the three academic versions, 134 segments were regenerated to fix issues. Five regenerations made a correct segment worse, for example "do not designate as destroyed" became "do not destroy". Those five were restored to their earlier, correct versions. So a retry must always be re-checked, and the best attempt kept.
 
-**Error rates rise as the language moves away from English.** English, then Chinese, then Hindi produced more errors at first pass, in both versions. The Hindi errors come from two sources the other languages did not show:
-- **Glossary over-application:** a locked doctrinal term was used for an everyday word.
-- **Source divergence:** the model followed the Sanskrit where the Tibetan and its commentaries differ.
+**Any change after a check needs a new check.** In Chinese, a glossary retry rewrote 12 segments after they had been checked. One of them, 9-11, gained a major error: the locked term 教法 was forced into the compound 法眼 ("eye of the teaching"). The improvement measurement (below) found the unchecked text, a re-check confirmed the error, and 9-11 was restored to its checked version. The measurement script now lists any segment whose current text no check has seen.
+
+**Error rates rise as the language moves away from English.** English, then Chinese, then Hindi produced more errors at first pass, in both versions. The errors come from two sources English did not show:
+- **Glossary over-application:** a locked term was used where it does not belong: आत्मन् (self) for the pronoun "I" in Hindi, 教法 inside the compound 法眼 in Chinese.
+- **Source divergence:** the Hindi model followed the Sanskrit where the Tibetan and its commentaries differ.
 
 Both were caught and fixed, but they show where a specialist's review time would go.
+
+### Improvement from the fact-check and fix
+
+Each version is measured twice: **before**, the translation as the first fact-check saw it, and **after**, the final text.
+Four measures, recomputed by `factcheck/improvement.py` and `factcheck/pairwise_judge.py`:
+
+**1. Fact-check findings, before → after.** For each segment, "after" is the verdict of the check that saw its final
+text. The error score is MQM-style: minor = 1, major = 5, critical = 10 points, per 1,000 Tibetan syllables.
+
+| Version | Segments regenerated | Failing segments | Issues per 100 segments | Error score per 1,000 syllables | Segments with no issue |
+|---|---|---|---|---|---|
+| Academic en | 31 | 1 → 0 | 7.6 → 2.1 | 3.46 → 0.84 (−76%) | 92.8% → 98.4% |
+| Academic zh | 58 | 3 → 0 | 14.8 → 7.6 | 7.12 → 3.09 (−57%) | 86.1% → 92.6% |
+| Academic hi | 40 | 6 → 0 | 9.5 → 1.4 | 6.09 → 0.56 (−91%) | 91.2% → 98.6% |
+| Children's en | 4 | 2 → 1 | 7.6 → 8.3 | 3.84 → 3.75 (−2%) | 93.1% → 92.8% |
+| Children's zh | 4 | 4 → 0 | 10.2 → 10.2 | 5.62 → 4.12 (−27%) | 90.5% → 90.7% |
+| Children's hi | 5 | 5 → 0 | 10.4 → 10.0 | 6.09 → 4.03 (−34%) | 89.8% → 90.3% |
+
+- **Academic versions:** both major and minor issues were fixed, so the error score fell by 57–91%.
+- **Children's versions:** only the major errors were fixed. All of them were removed except English 12-24, which is left for a human. Re-checking the rewritten segments turned up a few new minor notes, so minor counts rose slightly.
+
+**2. Glossary compliance, before → after.** The fixes left it unchanged at 99.6–99.9% (largest change: Chinese academic
+99.94% → 99.55%). In Chinese the fixes removed a few locked terms where the term did not fit the sentence. 9-11 is
+the clearest case: there, keeping the term was the error.
+
+**3. chrF against a human translation.** For the Diamond Sutra, only Chinese has a human translation aligned segment by segment:
+Kumārajīva, in classical Chinese, which the Chinese translator was also shown as a terminology aid. Scores barely move
+(whole text 17.96 → 18.01; the 56 changed segments 16.39 → 16.62). The measure is reported for completeness. Against a
+classical reference it cannot show whether a fix in modern Chinese is right.
+
+**4. Blind judgement by the other model.** Gemini compared each regenerated segment's original and final text, with the
+Tibetan, Sanskrit, commentaries and reference translation. It was not told which text was which. Every pair was judged twice, with A and B swapped. A
+result counts only when both orders agree; otherwise it is a tie. On single passes Gemini picked the first-shown text 58% of the time, so the swap was needed.
+
+| Version | Pairs | Final text better | Tie | Original better |
+|---|---|---|---|---|
+| Academic en | 31 | 15 (48%) | 11 (35%) | 5 (16%) |
+| Academic zh | 58 | 27 (47%) | 23 (40%) | 8 (14%) |
+| Academic hi | 40 | 31 (78%) | 5 (12%) | 4 (10%) |
+| Children's, all three | 13 | 9 (69%) | 2 (15%) | 2 (15%) |
+| **All** | **142** | **82 (58%)** | **41 (29%)** | **19 (13%)** |
+
+| Why the segment was regenerated | Pairs | Final text better | Tie | Original better |
+|---|---|---|---|---|
+| Major error | 21 | 19 (90%) | 1 | 1 |
+| Minor issues only | 121 | 63 (52%) | 40 (33%) | 18 (15%) |
+
+**Fixing major errors pays off; fixing minor issues is a coin toss with a cost.** Two independent models agree that the
+major-error fixes improved the text: Claude's re-check passed them, and Gemini preferred the fixed text in 19 of 21 pairs.
+For minor issues, Gemini preferred the fixed text in half the cases. It judged the change neutral in a third, and worse in 15%,
+usually where the fix dropped a nuance the original kept. Claude's re-check had passed all of those 18. So for the minor fixes the two models disagree, and the
+pipeline as run keeps Claude's verdict. Two options for the minor-fix round:
+- Restrict it to issues the other model confirms.
+- Keep a fix only when the blind judge prefers it or ties.
 
 ### How reliable is the checker?
 

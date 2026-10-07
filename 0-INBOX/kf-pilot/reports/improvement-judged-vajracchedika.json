@@ -2140,5 +2140,695 @@
   "reason": "A properly places '聖' (noble) to modify '大乘經' (Mahāyāna sūtra), matching the reference and avoiding B's awkward placement before title marks.",
   "before_verdict": "pass",
   "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "0-1",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly includes 'नामक' to translate the Tibetan 'ཞེས་བྱ་བ' (called), which B completely omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "1-2",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations accurately convey 'རབ་ཏུ་མང་པོ་དག་' (very many) with minor but acceptable stylistic variations.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "2-3",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A uses the proper Hindi term 'सौंपना' for 'ཡོངས་སུ་གཏད་པ' (entrust), whereas B uses 'परिन्दना', an obscure and non-standard loanword.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "3-5",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A translates 'ཡོངས་སུ་གཏད་པ' using the natural and clear Hindi word 'सौंपना', avoiding B's obscure borrowing 'परिन्दना'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "4-1",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A correctly translates the Tibetan 'བདག་གིས་' (by me) as 'मेरे द्वारा', which B completely misses.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "5-1",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B's 'प्रमाण लेना सुकर' is a more precise and standard academic translation for 'ཚད་གཟུང་བར་སླ་བ་' than A's 'माप करना सरल'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "5-2",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's 'प्रमाण लेना सुकर' is a more precise and terminologically accurate translation for 'ཚད་གཟུང་བར་སླ་བ་' than B's 'माप करना सरल'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "5-4",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's 'प्रमाण लेना सुकर' more accurately reflects the precise terminology of 'ཚད་གཟུང་བར་སླ་བ་' than B's 'माप करना सरल'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-95",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "A misses '無上' for 'བླ་ན་མེད་པ' (unsurpassed), whereas B correctly translates it completely.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-97",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "A again omits '無上', whereas B correctly includes it for 'བླ་ན་མེད་པ'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-100",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's classical phrasing ('妄語') is more idiomatic and suitable for this sutra context than B's modern phrasing ('不實之語').",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-102",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's wording ('何以故... 無所有故') follows standard Buddhist syntax, matching the tone better than B's more colloquial style.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "8-118",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's '作如是信解' is slightly more standard, and keeping the Buddha's epithets together as a single list subject flows better.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-7",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B translates the interrogative 'སྙམ་མམ' directly within the sentence ('你認為...嗎'), while A adds a separate phrase ('汝意云何').",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-11",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly uses the locked term '法眼' for 'ཆོས་ཀྱི་སྤྱན', whereas A incorrectly changes it to '教法眼'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-13",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly strictly uses the locked term '法眼', whereas A incorrectly uses '教法眼'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-18",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A provides a much more natural Hindi syntax using 'इसलिए क्योंकि' to translate the causal structure, whereas B is slightly awkward.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-19",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly includes 'सभी' to translate the Tibetan plural marker 'རྣམས་' (rnams), whereas B omits it.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-68",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately translates 'མནར་བ' as 'प्रताड़ित' and better renders the verb 'འཆང་བ', whereas A uses the Sanskritism 'परिभूत'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-69",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A accurately translates the Tibetan 'མནར་བ' as 'प्रताड़ित' (tormented), whereas B uses 'परिभूत' which means despised/disregarded.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-70",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A consistently and accurately translates 'མནར་བ' (tormented) as 'प्रताड़ित', whereas B uses the inaccurate Sanskritism 'परिभूत'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-82",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B faithfully translates 'རབ་ཏུ་གཟུང་བ' as 'भली-भाँति धारण करना' (fully hold), whereas A's 'निग्रह करना' incorrectly implies restraining.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "8-93",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A perfectly follows the locked term for the Blessed One as 'भगवान' without the halant, which B incorrectly adds.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "9-23",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately captures the causal particle 'ཕྱིར་' (phyir) by including 'क्योंकि' (because), which A omits entirely.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "6-8",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly distinguishes 'having marks' and 'without signs', whereas A's phrasing implies 'without marks and without signs', which is inaccurate.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "6-19",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B is more concise and directly matches the locked term 'आत्म-संज्ञा' without adding the redundant 'आत्मन् विषयक' seen in A.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "6-20",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A keeps 'संज्ञा' as the syntactic subject across all clauses, aligning better with the source phrasing than B's shift to an active subject.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "6-49",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly translates 'མེད་པར' (med par) as 'अविद्यमान' (non-existent), accurately reflecting the syntax and meaning of the Tibetan text.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-8",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly translates 'བདག་གིས' (bdag gis) as the first-person pronoun 'मैंने', whereas A incorrectly renders it as 'आत्मन् ने'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-15",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly renders 'བདག་གིས' (bdag gis) as 'मैंने' (I), while A mistakenly treats it as the philosophical term 'आत्मन्' (Self).",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-26",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A uses the locked term directly and elegantly. B adds an unnecessary, redundant explanatory phrase ('आत्मन् के प्रति ग्राह').",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-28",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses the locked term 'सम्यक्सम्बुद्ध' without redundancy. B unnecessarily adds 'बुद्ध' right after it, creating repetition.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-29",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation B redundantly translates the Tibetan for 'free from desire' twice by adding 'राग से रहित', whereas A correctly uses just the locked term 'वीतराग'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-33",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "The Tibetan phrase corresponds to the locked term 'सम्यक्सम्बुद्ध'. Translation A adds 'बुद्ध' separately, which is redundant.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-35",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation B unnecessarily adds 'बुद्ध' after the locked term 'सम्यक्सम्बुद्ध', making it redundant, whereas A is concise and accurate.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-51",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "Translation A captures the respectful tone of the Tibetan 'gsol pa' with 'निवेदन किया', while B uses the plainer 'कहा'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-54",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "Translation A explicitly captures the intensifier 'rab tu' (completely) with 'पूरी तरह', making it more faithful to the Tibetan.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-72",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B correctly translates the Tibetan verb 'snyam mam' ('do you think / समझते हो'), which translation A completely omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-75",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A explicitly translates the Tibetan 'snyam mam' ('do you think') as 'क्या तुम समझते हो', whereas B omits this mental verb.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "7-78",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B correctly uses the nominal negation 'अ-रजकण' matching the Tibetan 'rdul ma mchis par', rather than negating the verb like A does.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-19",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses the locked term \"世界\" for འཇིག་རྟེན་གྱི་ཁམས, whereas B redundantly uses \"世間的世界\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-21",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly applies the locked term \"世界\" for འཇིག་རྟེན་གྱི་ཁམས, whereas A redundantly translates it as \"世間的世界\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "9-22",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses the locked term \"世界\", while B redundantly translates the term as \"世間的世界\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "10-18",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately translates སྙམ་མམ (do you think) as \"你認為\", which A completely omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "10-25",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's \"任何法，都不存在\" is much more natural and precise in Chinese than B's \"法，沒有任何存在\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "10-26",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's phrasing \"對不存在之物的顛倒執取\" is much more natural and precise than A's literal but awkward \"執取不存在與顛倒\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "10-55",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly includes \"你認為\" to translate the Tibetan question marker སྙམ་མམ (do you think), which A omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-academic",
+  "id": "11-13",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations successfully convey the meaning of ལོག་པར་མི་བཟུང་ (should not take hold wrongly); \"錯誤\" and \"顛倒\" are both appropriate.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-1",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A correctly includes \"called living beings\" (designated by conceptual designation), whereas B drops this meaning entirely.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-65",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "Translation B unnecessarily adds a repetitive sentence (\"Every human, god, and jealous god will respect it\") not found in the Tibetan source.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-98",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A breaks the titles into two shorter sentences using indefinite articles, which is much more natural and readable for children than B.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "12-24",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "Translation A correctly uses the locked glossary term \"great awakening hero\" once, whereas B redundantly adds \"a great hero.\"",
+  "before_verdict": "fail",
+  "after_verdict": "fail"
+ },
+ {
+  "track": "hi-children",
+  "id": "6-31",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly retains the academic translation's 'के रूप में' (as) syntax for the realization, matching the original meaning better than B's 'पाकर'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-children",
+  "id": "6-43",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A places the adjective 'बहुत बड़ा' correctly before 'ढेर', whereas B places it before 'जमा हुई भलाई', creating an awkward and confusing phrase.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-children",
+  "id": "10-42",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's use of 'जाना जाता है' (is known) more accurately conveys the process of awakening (अभिसम्बुद्ध) than A's 'पाया जाता है' (is found).",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-children",
+  "id": "11-10",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B uses relative pronouns ('जो... वह...') properly to convey the comparison, and quotes around the abstract concepts make it much easier for children.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-children",
+  "id": "12-1",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A accurately reflects 'जितने भी' (however much there is) for 'ཇི་སྙེད་ཡོད་པ', whereas B loses this nuance and unjustifiably adds 'इस' (this).",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-24",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly translates 'སྙམ་ན' (snyam na) in this context as 'यदि तुम ऐसा सोचो' (if you think), matching the 2nd person direct address.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-26",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's 'मिथ्या आरोप' is a more precise translation for 'སྐུར་བ' (bskur ba / slander / falsely accuse) than B's general 'निन्दा'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-29",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both translations accurately capture the meaning of the Tibetan source and use the locked terms correctly.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-49",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "B redundantly adds 'आत्मन् के रूप में' alongside the locked term 'आत्म-ग्राह'. A is accurate and concise.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-51",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "B redundantly adds 'आत्मन् का' before the locked term 'आत्म-ग्राह'. A correctly uses only the locked term.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "10-55",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly includes 'क्या तुम सोचते हो कि' to translate the interrogative 'སྙམ་མམ' (do you think?), which B completely omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "12-14",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "B redundantly adds 'आत्मन् विषयक' before the locked term 'आत्म-दृष्टि'. A correctly relies on the locked term alone.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "hi-academic",
+  "id": "13-5",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "A redundantly adds 'के सार' after 'वज्रच्छेदिका-हृदय', creating a double translation ('essence of the essence'). B avoids this redundancy.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-children",
+  "id": "6-46",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "A 無中生有地加入了「送的禮物都非常大」這句原文與學術翻譯皆無的內容，因此 B 在忠實度上較佳。",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-children",
+  "id": "7-8",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B 精確譯出「這本身」（དེ་ཉིད），而 A 漏譯此詞，且在句末加上原文沒有的累贅解釋「也就是對自己抓著不放」。",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-children",
+  "id": "7-72",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A 忠實保留了原文「如來所說的事物」作為主語以及「存在」（ཡོད）的句型結構，B 則改變了原本的句意結構。",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "zh-children",
+  "id": "8-72",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A 忠實保留了原文中精確的數字「八十四億那由他百千」，而 B 卻將其簡化為「非常多位」，違反忠實度原則。",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
  }
 ]
