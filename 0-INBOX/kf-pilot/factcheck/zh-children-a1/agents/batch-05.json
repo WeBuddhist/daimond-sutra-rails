@@ -1,0 +1,237 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "7-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-72",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "如來有說過任何事物嗎",
+     "evidence": "Tibetan/academic: \"Do you think there is any dharma taught by the Tathagata (that exists)?\" The question is whether any taught thing exists; the children's text asks whether the Tathagata has spoken anything, which no longer matches Subhuti's answer that none exists and could suggest the Buddha taught nothing.",
+     "fix": "你認為有任何如來所說的事物存在嗎？」"
+    }
+   ]
+  },
+  {
+   "id": "7-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如來說了這麼多這教導的一課",
+     "evidence": "Academic: the Tathagata taught this teaching extensively; it is rare. \"這麼多這教導的一課\" is clumsy and suggests many different lessons.",
+     "fix": "「世尊，如來把這教導的一課說得這麼詳細，真是太難得了！走得圓滿的人，真是太難得了！」"
+    }
+   ]
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "其實就離開了所有的想法",
+     "evidence": "Academic: the so-called notions of self, being, life and person are themselves free of all notions; \"就離開了\" reads as if the notion departs.",
+     "fix": "其實它們本身就是遠離一切想法的。"
+    }
+   ]
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "他們將會擁有最少見的特點",
+     "evidence": "Academic: such beings will possess supreme rarity/wonder (最極稀有), the same word rendered 難得 elsewhere; \"特點\" is an added, unclear notion.",
+     "fix": "他們是最難得的。"
+    }
+   ]
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

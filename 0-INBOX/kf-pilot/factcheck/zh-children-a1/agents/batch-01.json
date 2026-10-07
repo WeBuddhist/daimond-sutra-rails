@@ -1,0 +1,237 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "他和一千二百五十名僧人，組成一個很大的出家人的團體",
+     "evidence": "The Tibetan/academic text says the Blessed One was gathered with a great community made up of 1,250 monks (the community consists of the monks), not that he and the monks together form the community.",
+     "fix": "世尊和一個很大的出家人的團體在一起，這個團體有一千二百五十名僧人。"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "穿好下身的僧衣和僧衣",
+     "evidence": "Academic text: put on the lower robe and the outer robe; repeating '僧衣' twice with no contrast is confusing for children (locked terms are kept).",
+     "fix": "穿好下身的僧衣，再披上僧衣"
+    }
+   ]
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "不管有多少眾生算在眾生裡，不管是從蛋裡出生……我都要讓他們全都進入不剩組成部分的脫離憂苦境界，讓他們完全脫離憂苦。",
+     "evidence": "The academic text is one long enumeration; the children's version keeps it as a single very long sentence with stacked 'not matter' clauses, hard for ages 8-12 to follow.",
+     "fix": "分成短句，例如：『不管有多少眾生，不管是從蛋裡出生、從母胎出生、從溫濕處出生，還是神奇出生；不管是有形狀的還是沒有形體的；不管是有想法的、沒有想法的，還是非有想法也非無想法的——我都要讓他們全都進入不剩組成部分的脫離憂苦境界。』"
+    }
+   ]
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "因為這樣的人就不叫做菩薩了",
+     "evidence": "Academic text: 'because he is not called a bodhisattva'. '這樣的人...了' can be read as referring to the person who just had the thought of liberating beings, implying a consequence/reversal; the Tibetan only gives the bare reason, clarified in the next segment (one who holds a notion of being/life/person).",
+     "fix": "因為他不會被稱為菩薩。"
+    }
+   ]
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

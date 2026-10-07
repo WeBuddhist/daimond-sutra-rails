@@ -1,0 +1,188 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "12-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "應該用不停留在有「事物」的想法上的方式來了解",
+     "evidence": "Tibetan/academic: know it in such a way that one does not abide in the notion of 'dharma'; meaning intact but the sentence is tangled with repeated 的.",
+     "fix": "應該不停留在有「事物」的想法上來了解。"
+    }
+   ]
+  },
+  {
+   "id": "12-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "詳細正確地解釋給別人聽",
+     "evidence": "Academic: 廣泛真實地為他人開示 ('extensively and truly teach'); the next segment 12-25 plays on 真實開示, so 真實 should be kept; 廣泛 means widely/extensively.",
+     "fix": "廣泛又真實地解釋給別人聽"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "同樣多到數也數不清",
+     "evidence": "Academic: the second person's merit is greater and immeasurable/innumerable; '同樣' could suggest the merits are equal, whereas the point is that it is more.",
+     "fix": "福氣會多得多，多到數也數不清。"
+    }
+   ]
+  },
+  {
+   "id": "12-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "12-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

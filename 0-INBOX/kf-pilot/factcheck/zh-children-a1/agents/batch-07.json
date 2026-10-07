@@ -1,0 +1,261 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "接受、記住、讀誦，而且明白",
+     "evidence": "Academic lists five verbs: take up, hold, remember, recite, fully understand; the children's text folds the first three into two verbs.",
+     "fix": "還有，須菩提！任何好人家的兒子或女兒，接受、守住、記住、讀誦，而且明白這類經書裡的句子，他們將會受到折磨，"
+    }
+   ]
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "他們以前做過、會帶來不快樂的來生的壞行為",
+     "evidence": "Tangled nested clause for ages 8-12; meaning is intact (the earlier bad deeds that would lead to an unhappy rebirth will be purified).",
+     "fix": "因為這輩子受到折磨，他們以前做的那些壞行為就會被洗乾淨，不再帶來不快樂的來生，"
+    }
+   ]
+  },
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "非常多位佛陀",
+     "evidence": "Tibetan/academic give a precise number: eighty-four hundred-thousand ten-millions (nayutas) of buddhas, and 'innumerable and even more innumerable' eons; the children's text reduces this to 'very many' and loses the 'even more innumerable' and 'even earlier' emphasis.",
+     "fix": "須菩提！我記得在很久很久、數也數不清的漫長歲月之前，在燃燈佛出現以前，更早更早的時候，出現過八十四億那由他百千位佛陀。我都讓他們很開心，"
+    }
+   ]
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如果有哪個好人家的兒子或女兒，得到了這麼一大堆福氣。如果我把",
+     "evidence": "The first sentence is an incomplete fragment; the Tibetan is one conditional sentence ('if I were to declare the merit of those who would hold so much merit').",
+     "fix": "須菩提！在那個時候，如果我把那些得到這麼一大堆福氣的好人家的兒子或女兒，他們的福氣有多少都說出來，眾生聽了就會發瘋，心裡會亂成一團。"
+    }
+   ]
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "因為只要有「人」的想法",
+     "evidence": "Academic: 'even if one gives rise to the notion up to (乃至) person' — a range running from being up to person; the children's text names only 'person' and loses the 'up to' range.",
+     "fix": "因為不管是把別人想成眾生，還是想成「人」，只要有這樣的想法，他就不叫做菩薩。"
+    }
+   ]
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "就不會對我說",
+     "evidence": "Academic: 授記 (prediction); the glossary term used for this elsewhere is 預言, but the children's text uses a plain 'say', losing that Dipamkara made a prediction.",
+     "fix": "如來燃燈佛就不會對我預言說："
+    }
+   ]
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "其實並沒有任何事物",
+     "evidence": "Academic: because there is no dharma by which the Tathagata fully awakens to the unsurpassed awakening; the children's wording ('there is no thing at all when he awakens') can be read as 'nothing exists'.",
+     "fix": "因為沒有任何事物，是如來靠它完全覺悟到最高、圓滿的覺悟的。"
+    }
+   ]
+  },
+  {
+   "id": "8-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-105",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

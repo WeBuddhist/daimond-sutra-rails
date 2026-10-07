@@ -1,0 +1,245 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "7-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-28",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "說我遠離了困擾人的情緒，是心中沒有煩惱的人裡面最好的",
+     "evidence": "Source only says the Tathagata declared me foremost among those dwelling without afflictions; the extra clause 'I am free of afflictions' is a duplicate not in the text.",
+     "fix": "世尊，如來、值得敬重的修行者、圓滿的佛陀，說我是心中沒有煩惱的人裡面最好的。"
+    }
+   ]
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "佛陀才沒有說我是個沒有困擾人的情緒、心中沒有煩惱的人",
+     "evidence": "Academic: because I abide nowhere, the Tathagata does not prophesy me as 'one who dwells without afflictions'. The children's phrase is ungrammatical and tangled.",
+     "fix": "因為我的心不停留在任何地方，所以如來才沒有說我是「心中沒有煩惱的人」。"
+    }
+   ]
+  },
+  {
+   "id": "7-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "這才被稱為佛的國土裡的佛國的佈置",
+     "evidence": "Academic: therefore it is called 'buddha-field adornment'. The nested possessives are hard for children.",
+     "fix": "因此，這才被稱為「佛國的佈置」。"
+    }
+   ]
+  },
+  {
+   "id": "7-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如果有人從這教導的一課裡，哪怕只記住一首四句的短詩，並且真實清楚地說給別人聽，好好為別人說明。",
+     "evidence": "Academic: one long conditional sentence (hold even a four-line verse, explain and teach it to others); the children's rendering is a run-on with a redundant repeated clause.",
+     "fix": "如果有人從這一課裡，哪怕只記住一首四句的短詩，再清楚地說給別人聽，教給別人。"
+    }
+   ]
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "那個地方就會變成有天神、人和愛嫉妒的神的世間的佛塔",
+     "evidence": "Academic: that place becomes a stupa for the world with its gods, humans and asuras. The chain of 的 is tangled and hard for ages 8-12.",
+     "fix": "那個地方就會成為佛塔，受到有天神、人和愛嫉妒的神的世間所敬重。"
+    }
+   ]
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-66",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

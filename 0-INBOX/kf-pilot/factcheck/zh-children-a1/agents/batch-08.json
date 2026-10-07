@@ -1,0 +1,213 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "8-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如果恆河的沙有多少，就有多少條恆河",
+     "evidence": "The Tibetan says there are as many Ganges rivers as there are grains of sand in the Ganges; the children's phrasing is tangled and hard to parse for ages 8-12.",
+     "fix": "假如恆河裡有多少粒沙，就有多少條恆河。如果世界的數量，像所有這些恆河裡的沙粒那麼多，你覺得這些世界多嗎？"
+    }
+   ]
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

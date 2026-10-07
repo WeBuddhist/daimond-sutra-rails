@@ -1,0 +1,276 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "6-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "是靠不由原因造成來分別的",
+     "evidence": "Academic: the noble ones are distinguished by the unconditioned; the phrase is awkward for ages 8-12.",
+     "fix": "因為高尚的人，是因為「不由原因造成」的東西而有不同的。"
+    }
+   ]
+  },
+  {
+   "id": "6-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "不管是好人家的兒子還是好人家的女兒",
+     "evidence": "Redundant repetition of 'son or daughter' makes the sentence clumsy; the segment only says that person produces much merit.",
+     "fix": "那位好人家的兒子或女兒，都會因為這樣得到一大堆福氣。"
+    }
+   ]
+  },
+  {
+   "id": "6-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-46",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "不論是兒子還是好人家的女兒，送的禮物都非常大。",
+     "evidence": "Academic/Tibetan contain no statement that the gift is very large; they only set up a comparison with the person who holds and explains a four-line verse.",
+     "fix": "（刪去這句，直接接：）如果有人從這教導的一課裡，哪怕只記住一首四句的短詩，……"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "不論是兒子還是好人家的女兒",
+     "evidence": "Repetitive and tangled for children.",
+     "fix": "—"
+    }
+   ]
+  },
+  {
+   "id": "6-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "我得到了進入聖流的成果這個修行成果",
+     "evidence": "Academic: 'I have obtained the fruit of stream-entry'; the doubled 成果 / 修行成果 is clumsy.",
+     "fix": "進入聖流的人會這樣想：「我得到了進入聖流的成果」嗎？"
+    }
+   ]
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "把修行成果抓著不放",
+     "evidence": "Academic: if the stream-enterer thinks 'I have attained the fruit', that itself is clinging to a self. Nothing says he clings to the fruit; the added clause shifts what is grasped.",
+     "fix": "為什麼呢？世尊，如果進入聖流的人心想：『我得到了進入聖流的成果。』這本身就是抓著「我」不放了。"
+    }
+   ]
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "覺得自己得到了這個修行成果嗎",
+     "evidence": "Redundant restatement of the thought; academic has just 'would the once-returner think I have attained the fruit'.",
+     "fix": "只回來一次的人會心想：『我得到了只回來一次的成果』嗎？"
+    }
+   ]
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "覺得有修行成果，這樣想……那就是他抓著不放，抓著「我」不放",
+     "evidence": "Academic: if he thinks 'I attained the fruit', that is clinging to self; the extra 'has the fruit' and the vague 'clings' clause are tangled.",
+     "fix": "世尊，如果只回來一次的人這樣想：「我得到了只回來一次的成果。」那就是他抓著「我」不放，"
+    }
+   ]
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "會覺得自己有修行成果，而這樣想",
+     "evidence": "Redundant, tangled lead-in; academic simply asks whether he would think 'I attained the fruit'.",
+     "fix": "不再回來的人會這樣想：「我得到了不再回來的成果」嗎？"
+    }
+   ]
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

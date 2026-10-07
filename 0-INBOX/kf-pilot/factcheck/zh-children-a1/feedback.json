@@ -1,0 +1,57 @@
+{
+ "6-46": {
+  "translation": "世尊說：「須菩提，如果有好人家的兒子或女兒，把七種珍寶裝滿十億個世界，當作禮物送給別人。不論是兒子還是好人家的女兒，送的禮物都非常大。可是，如果有人從這教導的一課裡，哪怕只記住一首四句的短詩，把這段詩句好好解釋給別人聽。這個人就會得到一大堆福氣，多得數也數不清，比送珍寶的人還要多！」",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "不論是兒子還是好人家的女兒，送的禮物都非常大。",
+    "evidence": "Academic/Tibetan contain no statement that the gift is very large; they only set up a comparison with the person who holds and explains a four-line verse.",
+    "fix": "（刪去這句，直接接：）如果有人從這教導的一課裡，哪怕只記住一首四句的短詩，……"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "不論是兒子還是好人家的女兒",
+    "evidence": "Repetitive and tangled for children.",
+    "fix": "—"
+   }
+  ]
+ },
+ "7-8": {
+  "translation": "為什麼呢？世尊，如果進入聖流的人心想：『我得到了進入聖流的成果。』把修行成果抓著不放，這本身就是抓著「我」不放了。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "把修行成果抓著不放",
+    "evidence": "Academic: if the stream-enterer thinks 'I have attained the fruit', that itself is clinging to a self. Nothing says he clings to the fruit; the added clause shifts what is grasped.",
+    "fix": "為什麼呢？世尊，如果進入聖流的人心想：『我得到了進入聖流的成果。』這本身就是抓著「我」不放了。"
+   }
+  ]
+ },
+ "7-72": {
+  "translation": "你認為如來有說過任何事物嗎？」",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "如來有說過任何事物嗎",
+    "evidence": "Tibetan/academic: \"Do you think there is any dharma taught by the Tathagata (that exists)?\" The question is whether any taught thing exists; the children's text asks whether the Tathagata has spoken anything, which no longer matches Subhuti's answer that none exists and could suggest the Buddha taught nothing.",
+    "fix": "你認為有任何如來所說的事物存在嗎？」"
+   }
+  ]
+ },
+ "8-72": {
+  "translation": "須菩提！我記得在過去無數個漫長歲月之前，也就是在如來、值得敬重的修行者、圓滿的佛陀燃燈佛的更早以前，那時候出現過非常多位佛陀。我都讓他們很開心，",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "非常多位佛陀",
+    "evidence": "Tibetan/academic give a precise number: eighty-four hundred-thousand ten-millions (nayutas) of buddhas, and 'innumerable and even more innumerable' eons; the children's text reduces this to 'very many' and loses the 'even more innumerable' and 'even earlier' emphasis.",
+    "fix": "須菩提！我記得在很久很久、數也數不清的漫長歲月之前，在燃燈佛出現以前，更早更早的時候，出現過八十四億那由他百千位佛陀。我都讓他們很開心，"
+   }
+  ]
+ }
+}
