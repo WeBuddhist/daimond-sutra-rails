@@ -1,0 +1,14 @@
+{
+ "8-6": {
+  "translation": "The Blessed One said: \"Subhūti, if some man or woman were to give away bodies as numerous as the grains of sand of the Gaṅgā river, and if someone were to take up even just a four-line verse from this Dharma discourse and teach it properly to others, that person would generate on that basis far greater, incalculable, immeasurable merit.\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "and if someone were to take up even just a four-line verse ... that person would generate on that basis far greater, incalculable, immeasurable merit",
+    "evidence": "Tibetan is a comparison: ལུས་ ... ཡོངས་སུ་གཏོང་བ་བས། (\"than giving away bodies ...\") གང་གིས་ ... བཟུང་སྟེ་ ... ཡང་དག་པར་བསྟན་ན། དེ་ཉིད་ ... བསོད་ནམས་ཆེས་མང་དུ ... བསྐྱེད་ (\"whoever takes up ... and teaches ... generates far more merit\"). Chone Drakpa Shedrub 2-69: ལུས་ཀྱི་སྦྱིན་པ་ ... བཏང་བ་ལས་ཀྱང༌། ... བཟུང་ ... བསོད་ནམས་ལྷག་པར་ཆེའོ (merit greater than that of giving the body). The English makes two parallel \"if\" clauses, so \"far greater\" has no stated standard of comparison.",
+    "fix": "Subhūti, if some man or woman were to give away bodies as numerous as the grains of sand of the Gaṅgā river, someone who takes up even just a four-line verse from this Dharma discourse and teaches it properly to others would, on that basis, generate far greater merit than that, incalculable and immeasurable."
+   }
+  ]
+ }
+}

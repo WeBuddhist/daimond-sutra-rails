@@ -1,0 +1,160 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "8-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "many hundreds of thousands of millions of eons",
+     "evidence": "Tibetan བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མ has four number terms (བྱེ་བ koṭi, ཁྲག་ཁྲིག niyuta, འབུམ hundred-thousand, ཕྲག); Sanskrit kalpakoṭinayutaśatasahasrāṇi; Kamalaśīla 3-151 glosses བྱེ་བ་དེ་ཡང་ཁྲག་ཁྲིག་ and འབུམ as further multipliers. The English drops ཁྲག་ཁྲིག (niyuta), though 8-72 renders it as 'myriad'.",
+     "fix": "many hundred-thousands of myriads of millions of eons"
+    }
+   ]
+  },
+  {
+   "id": "8-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "takes up, writes, upholds",
+     "evidence": "The Tibetan reads འདྲི་བ ('asks/inquires'), not འབྲི་བ ('writes'); the Sanskrit list (udgrahīṣyanti dhārayiṣyanti vācayiṣyanti paryavāpsyanti) has no writing item. Chone Drakpa Shedrub 2-98 does say འབྲི་བ in its paraphrase, so 'writes' may be a defensible emendation, but the translation silently departs from the Tibetan as given.",
+     "fix": "takes up, asks about [or: writes — noting the reading འདྲི་བ], holds"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "completely comprehends",
+     "evidence": "ཀུན་ཆུབ་པར་བྱེད་པ is rendered 'master' / 'completely masters' in 8-53, 8-57 and 8-63 (Sanskrit paryavāpnuyāt); here it becomes 'completely comprehends', an unexplained inconsistency.",
+     "fix": "completely masters"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "regarding whatever pleasing and not disappointing of those Buddhas, the Blessed Ones, I did, and whoever, when the last five hundred years of the latter time have come, takes up, writes, upholds, keeps, reads, and completely comprehends this sūtra—Subhūti, compared to this mass of merit, that former mass of merit does not approach even a hundredth part.",
+     "evidence": "The Tibetan structure is: of (the merit of) my having pleased and not disappointed those Buddhas, and of (the merit of) the taking up etc. of this sūtra in the last five hundred years, 'this mass of merit' (བསོད་ནམས་ཀྱི་ཕུང་པོ་འདི་, the latter) is compared with 'the former mass of merit' (སྔ་མ). Kamalaśīla 3-163 states the former merit does not reach a hundredth of the latter. The English syntax leaves 'this mass of merit' without a clear referent (it reads as if the 'whoever' clause were the topic), and renders ཀུན་ཆུབ་པར་བྱེད་པ་གང་ཡིན་པ་ as a person ('whoever') rather than the act.",
+     "fix": "Subhūti, of the merit from my having pleased, and not disappointed, those Buddhas, the Blessed Ones, and of the merit from whoever, when the last five hundred years of the latter time have come, takes up, holds, keeps, reads, and completely masters this sūtra: compared to this latter mass of merit, that former mass of merit does not approach even a hundredth part."
+    }
+   ]
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

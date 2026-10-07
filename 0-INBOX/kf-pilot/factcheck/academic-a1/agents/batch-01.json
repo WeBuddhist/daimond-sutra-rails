@@ -1,0 +1,162 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "Diamond Cutter Perfection of Wisdom",
+     "evidence": "Tibetan order is 'ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་' (Perfection of Wisdom called Diamond Cutter), then 'ཐེག་པ་ཆེན་པོའི་མདོ'. The English inverts the Tibetan title order and is inconsistent with the rendering of the same title in 0-1 ('Perfection of Wisdom called the Diamond Cutter'). Chone Drakpa Shedrub 1-2 glosses the title as the Perfection of Wisdom that is the Diamond Cutter.",
+     "fix": "The Noble Perfection of Wisdom called the Diamond Cutter, a Mahāyāna Sūtra."
+    }
+   ]
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Having given up later alms",
+     "evidence": "'ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས': Chone Drakpa Shedrub 1-6 glosses 'ཟས་ཕྱི་མ་ཕྱི་དྲོའི་བསོད་སྙོམས་ཟ་བ་སྤངས་ནས' (abandoned eating the afternoon alms food); Kamalaśīla 3-7 likewise reads it as the later (afternoon) meal/alms, which he gave up. 'Later alms' does not convey that the later (afternoon) alms meal is what is renounced.",
+     "fix": "Having given up the alms-food of the later (afternoon) meal"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "with all the supreme benefits ... with all the supreme entrustments",
+     "evidence": "'ཕན་གདགས་པའི་དམ་པ་ཇི་སྙེད་པས་ཕན་གདགས་པ' and 'ཡོངས་སུ་གཏད་པའི་དམ་པ་ཇི་སྙེད་པས་ཡོངས་སུ་གཏད་པ': 'ཇི་སྙེད་པས' expresses the extent or degree (Sanskrit 'yāvad eva ... paramena anugraheṇa ... paramayā parīndanayā'; Kamalaśīla 3-10 glosses 'ཕན་གདགས་པ་གང་ཇི་སྙེད་པ་དེ་སྙེད་ཀྱིས་'), not a totality. The English adds 'all' and pluralises, implying every supreme benefit and entrustment rather than to what supreme extent the benefit and entrusting were given.",
+     "fix": "how supremely the Tathāgata ... has benefited the bodhisattva great beings, to what supreme extent he has benefited them, and to what supreme extent the Tathāgata has entrusted them"
+    }
+   ]
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "listen well and hold it thoroughly in mind",
+     "evidence": "'ཉོན་ལ་ལེགས་པར་རབ་ཏུ་ཡིད་ལ་ཟུངས་ཤིག' has three injunctions (Sanskrit 'śṛṇu, sādhu ca suṣṭhu ca manasi kuru'). Kamalaśīla 3-15 explains them as three separate steps against the three faults of a pot turned upside down, a dirty pot, and a leaky pot: 'ཉོན་ལ' (listen), 'ལེགས་པར' (rightly, without error) and 'རབ་ཏུ་ཡིད་ལ་ཟུང' (hold thoroughly in mind). The English merges 'ལེགས་པར' into 'listen well' and so loses the threefold structure.",
+     "fix": "listen, attend properly, and hold it thoroughly in mind"
+    }
+   ]
+  }
+ ]
+}

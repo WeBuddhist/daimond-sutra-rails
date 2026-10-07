@@ -16,9 +16,9 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 | 1 Term extraction (Claude, 13 agents) + Gemini review | done — 278 terms | `term-extract/vajracchedika-en/term-list.md` |
 | 2 Termbase (style sheet + 6 agents) + Gemini review | done — draft | `termbase/vajracchedika-en/termbase-{academic,children}.md`, `style-sheet.md`, `review.json` |
 | 3 Segment context (Tibetan + Sanskrit + 3 commentaries) | built | `context/segment_context.py` |
-| 4 Academic translation (Gemini) | next | extend `machine-translate/gm_translate.py` |
-| 5 Fact-check (Claude) + regenerate | todo | |
-| 6 Children's version | todo | |
+| 4 Academic translation (Gemini 3.1 Pro, termbase-locked, Sanskrit + 3 commentaries) | done — 446/446, 1,561/1,564 locked-term uses | `translate/gm_variant_translate.py` → `3-TRANSFORMATIONS/Translations/en-academic/` |
+| 5 Fact-check (Claude Sonnet, 18 agents) + regenerate | done — 431/432 pass first time; 8-6 regenerated and passes; 32 minor issues open | `factcheck/academic-a1/verdicts.json`; calibration 17/18 planted errors caught, 0 false alarms (`factcheck/calibration/`) |
+| 6 Children's version | next | same translator, `--variant children` (needs requirements.md) |
 | 7 zh, hi | todo | |
 
 ## Usage ledger

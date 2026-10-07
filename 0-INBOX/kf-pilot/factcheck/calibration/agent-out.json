@@ -1,0 +1,301 @@
+{
+ "batch": "calibration",
+ "segments": [
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "hundreds of thousands of millions of eons",
+     "evidence": "Tibetan \"བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མར\" names koṭi (བྱེ་བ) and niyuta (ཁྲག་ཁྲིག) separately; Sanskrit \"kalpakoṭi-niyuta-śata-sahasrāṇi\". The English drops niyuta.",
+     "fix": "many hundreds of thousands of niyutas of millions of eons"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "in the evening",
+     "evidence": "Tibetan \"སྔ་དྲོའི་དུས་ཀྱི་ཚེ\" = at the time of morning; Sanskrit \"pūrvāhṇakālasamaye\" (forenoon). \"Evening\" would be ཕྱི་དྲོ/དགོང་མོ.",
+     "fix": "in the morning"
+    }
+   ]
+  },
+  {
+   "id": "8-114",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "without a soul",
+     "evidence": "Tibetan \"སྲོག་མེད་པ\" is locked as \"life-force\" (Sanskrit nirjīva); \"soul\" is a different concept (ātman) and the glossary rendering was required.",
+     "fix": "without a life-force"
+    }
+   ]
+  },
+  {
+   "id": "11-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "in this Dharma discourse being without self and unborn",
+     "evidence": "Tibetan \"ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བདག་མེད་ཅིང་སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ\"; Sanskrit \"nirātmakeṣv anutpattikeṣu dharmeṣu kṣāntiṃ\" puts selflessness/unbornness on the dharmas. Vasubandhu (2-136) glosses \"བདག་མེད་ཅིང་སྐྱེ་བ་མེད་པའི་ཆོས་རྣམས་ལ\", Chone (2-144) \"མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ\" relying on this discourse. The English can be read as the discourse itself being selfless and unborn.",
+     "fix": "in what this Dharma discourse teaches as being without self and unborn"
+    }
+   ]
+  },
+  {
+   "id": "11-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "It bears comparison",
+     "evidence": "Tibetan \"དཔེ་དང་ཟླ་དང་རྒྱུར་ཡང་མི་བཟོད་དོ\" ends in the negation \"མི་བཟོད\" (Sanskrit \"na kṣamate\"): it does not bear comparison. The English reverses this.",
+     "fix": "It does not bear comparison"
+    }
+   ]
+  },
+  {
+   "id": "6-16",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "the Tathāgata does not know them",
+     "evidence": "Tibetan \"དེ་བཞིན་གཤེགས་པས་མཁྱེན་ཏོ\" affirms that the Tathāgata knows them; Sanskrit \"jñātās te ... tathāgatena\".",
+     "fix": "the Tathāgata knows them"
+    }
+   ]
+  },
+  {
+   "id": "6-21",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "will also engage in the perception of a phenomenon",
+     "evidence": "Tibetan \"ཆོས་སུ་འདུ་ཤེས་པ་དང༌། ཆོས་མེད་པར་ཡང་འདུ་ཤེས་མི་འཇུག\" negates both perceptions with \"མི་འཇུག\"; Sanskrit \"nāpi teṣāṃ dharmasaṃjñā pravartate / evaṃ nādharmasaṃjñā\".",
+     "fix": "do not engage in the perception of a phenomenon"
+    }
+   ]
+  },
+  {
+   "id": "8-22",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "—",
+     "evidence": "Tibetan \"མདོ་སྡེ་འདི་བཤད་པ་ལ\" (when this sūtra is explained/taught; Sanskrit \"sūtre bhāṣyamāṇe\") is the condition under which they are not frightened; absent from the English.",
+     "fix": "Those sentient beings who are not terrified, not frightened, and do not become completely frightened when this sūtra is explained will be endowed with supreme wonder."
+    }
+   ]
+  },
+  {
+   "id": "7-35",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Śākyamuni",
+     "evidence": "Tibetan \"མར་མེ་མཛད\" (locked: Dīpaṃkara); Sanskrit \"dīpaṃkarasya tathāgatasya\". The Buddha received nothing from Dīpaṃkara; \"Śākyamuni\" is the wrong referent.",
+     "fix": "Dīpaṃkara"
+    }
+   ]
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "they should generate the mind",
+     "evidence": "The Tibetan \"སེམས་བསྐྱེད་པར་བྱའོ\" has an unstated agent (the bodhisattva); \"they\" most naturally refers back to the sentient beings just mentioned.",
+     "fix": "one should generate the mind"
+    }
+   ]
+  },
+  {
+   "id": "5-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "while abiding",
+     "evidence": "Tibetan \"མི་གནས་པར་སྦྱིན་པ་སྦྱིན་པ\" (locked \"མི་གནས་པ\" = without abiding); Sanskrit \"apratiṣṭhito dānaṃ dadāti\". The negation is dropped.",
+     "fix": "without abiding"
+    }
+   ]
+  },
+  {
+   "id": "12-27",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "a rainbow",
+     "evidence": "Tibetan \"ཟིལ་བ\" is locked as \"dewdrop\" (Sanskrit \"avaśyāya\"); no rainbow in the verse.",
+     "fix": "a dewdrop"
+    }
+   ]
+  },
+  {
+   "id": "12-22",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "a true perception",
+     "evidence": "Tibetan \"དེ་འདུ་ཤེས་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པ\" (Sanskrit \"asaṃjñaiṣā tathāgatena bhāṣitā\"): the Tathāgata spoke of it as non-perception.",
+     "fix": "as non-perception"
+    }
+   ]
+  },
+  {
+   "id": "6-28",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "should hold on to phenomena, let alone non-phenomena",
+     "evidence": "Tibetan \"ཆོས་རྣམས་ཀྱང་སྤང་བར་བྱ་ན། ཆོས་མ་ཡིན་པ་རྣམས་ལྟ་ཅི་སྨོས\" — \"སྤང་\" is abandon (Sanskrit \"prahātavyāḥ\"). The raft simile is about relinquishing.",
+     "fix": "should abandon even phenomena, let alone non-phenomena"
+    }
+   ]
+  },
+  {
+   "id": "13-5",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "nine million times",
+     "evidence": "Tibetan \"ཁྲི་དགུ་སྟོང\" = nine thousand ten-thousands = ninety million (ཁྲི = 10,000), not nine million.",
+     "fix": "ninety million times"
+    }
+   ]
+  },
+  {
+   "id": "2-3",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "and promised them rebirth in his pure land",
+     "evidence": "Tibetan \"ཕན་གདགས་པའི་དམ་པ་ཇི་སྙེད་པས་ཕན་གདགས་པ\" says only that he benefited them with the supreme benefit; nothing about promising rebirth in a pure land. Chone (2-3) and Vasubandhu (2-2) comment only on benefit and entrustment.",
+     "fix": "has benefited the bodhisattva great beings with the supreme benefits"
+    }
+   ]
+  },
+  {
+   "id": "10-27",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "it is because there is a Dharma that can be apprehended",
+     "evidence": "Tibetan \"ཆོས་དེ་གང་ཡང་མེད་པའི་ཕྱིར་རོ\" gives the reason as there being no such Dharma; Sanskrit \"nāsti sa kaścid dharmo yo dharmadeśanā nāmopalabhyate\".",
+     "fix": "it is because there is no Dharma that can be apprehended as \"teaching the Dharma\""
+    }
+   ]
+  },
+  {
+   "id": "10-51",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "has spoken of it as grasping",
+     "evidence": "Tibetan \"འཛིན་པ་མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས\" and Sanskrit \"agrāha eṣa tathāgatena bhāṣitaḥ\": spoken of as non-grasping. The English drops the negation.",
+     "fix": "has spoken of it as non-grasping"
+    }
+   ]
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "unsurpassed, perfect enlightenment",
+     "evidence": "Locked rendering of \"བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ\" is \"unsurpassed, perfectly complete awakening\"; the English uses \"perfect enlightenment\".",
+     "fix": "unsurpassed, perfectly complete awakening"
+    }
+   ]
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "11-9",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "do designate some phenomena as destroyed or as an annihilation",
+     "evidence": "Tibetan \"ཆོས་གང་ཡང་རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ་མེད་དོ\" ends in \"མེད་དོ\" (none); Sanskrit \"na ... kasyacid dharmasya vināśaḥ prajñapto nocchedaḥ\". The English asserts the opposite.",
+     "fix": "do not designate any phenomenon as destroyed or as an annihilation"
+    }
+   ]
+  },
+  {
+   "id": "8-4",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "eighty marks",
+     "evidence": "Tibetan \"མཚན་སུམ་ཅུ་རྩ་གཉིས\" (locked \"thirty-two marks\"); Sanskrit \"dvātriṃśan mahāpuruṣalakṣaṇāni\".",
+     "fix": "thirty-two marks"
+    }
+   ]
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "masters",
+     "evidence": "Tibetan \"ཀུན་ཆུབ་པར་བྱེད་པ\" is to understand fully; Chone (2-61) glosses it \"དེའི་དོན་ཀུན་ཆུབ་པ་སྟེ་ཤེས་པ\". \"Masters\" overstates it.",
+     "fix": "fully understands"
+    }
+   ]
+  }
+ ]
+}

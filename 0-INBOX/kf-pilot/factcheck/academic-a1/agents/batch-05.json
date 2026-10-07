@@ -1,0 +1,146 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "the Tathāgata, concerning me, 'The son of noble family Subhūti is the foremost of those abiding without affliction,'",
+     "evidence": "The Tibetan clause ends ...མཆོག་ཡིན་ཏེ, with its governing verb ལུང་མི་སྟོན་ལགས་སོ only in the next segment (7-31); the English leaves a quotation hanging with no predicate, and the conditional apodosis (Sanskrit na mām tathāgato vyākariṣyat) is not signalled.",
+     "fix": "the Tathāgata, concerning me, [would not declare:] 'The son of noble family Subhūti is the foremost of those abiding without affliction,' —"
+    }
+   ]
+  },
+  {
+   "id": "7-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "he does not declare",
+     "evidence": "The Tibetan གལ་ཏེ... in 7-30 sets up the conditional, and the agent of ལུང་མི་སྟོན་ is the Tathāgata (Chone Drakpa Shedrub 2-50: བཅོམ་ལྡན་འདས་ཀྱིས... ལུང་མི་སྟོན་ཏེ). The English pronoun 'he' has no antecedent in this segment and can be read as Subhūti or an arhat.",
+     "fix": "the Tathāgata does not declare me 'abiding without affliction'"
+    }
+   ]
+  }
+ ]
+}

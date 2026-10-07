@@ -64,7 +64,7 @@ STOP = {"of", "the", "a", "an", "and", "or", "to", "in", "on", "at", "by", "with
 
 
 def words(s):
-    return re.findall(r"[a-zāīūṛṝḷṃṁṅñṇṭḍśṣḥ'-]+", s.lower())
+    return [w.strip("'-") for w in re.findall(r"[a-zāīūṛṝḷṃṁṅñṇṭḍśṣḥ'-]+", s.lower().replace("’", "'")) if w.strip("'-")]
 
 
 def complies(rendering, text):
@@ -73,7 +73,7 @@ def complies(rendering, text):
     for w in words(rendering):
         if w in STOP or len(w) < 3:
             continue
-        stem = w[:-1] if len(w) > 4 else w
+        stem = w[:-2] if len(w) > 6 else w[:-1] if len(w) > 4 else w  # phenomenon/phenomena, mark/marks
         if not any(t.startswith(stem) for t in tw):
             return False
     return True
@@ -207,7 +207,13 @@ def latest(work):
 def render(track, stem, segs, rows, variant, model):
     order = list(segs)
     done = sum(1 for i in order if i in rows)
-    missed = sum(1 for i in order if rows.get(i, {}).get("terms_missed"))
+    terms = locked_terms(variant)
+    missed_ids = [i for i in order if i in rows
+                  and any(not complies(t["rendering"], rows[i]["translation"]) for t in terms.get(i, []))]
+    missed = len(missed_ids)
+    (track / "work" / "termbase-compliance.json").write_text(json.dumps(
+        {i: [t["rendering"] for t in terms.get(i, []) if not complies(t["rendering"], rows[i]["translation"])]
+         for i in missed_ids}, ensure_ascii=False, indent=1), encoding="utf-8")
     title = rows.get("0", {}).get("translation", "Diamond Sutra")
     fm = ["---", f"title: {title}", f"track: en-{variant}", "language: English", "lang_tag: en",
           "file_type: translation", "track_type: governed-draft", f"root_text: 1-SOURCES/Translations/{ROOT}.md",

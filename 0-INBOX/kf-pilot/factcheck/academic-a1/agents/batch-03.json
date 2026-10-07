@@ -1,0 +1,162 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "6-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "being without marks and signs",
+     "evidence": "Tibetan 'མཚན་དང་མཚན་མ་མེད་པར་བལྟའོ' parallels Skt lakṣaṇālakṣaṇatas ('by way of mark and non-mark'); Vasubandhu 2-20 quotes 'མཚན་དང་མཚན་མེད་པར་བལྟའོ'; Kamalaśīla 3-51 says one views the Tathāgata 'མཚན་གྱིས' conventionally and 'མཚན་མེད་པ' ultimately. The English distributes the negation over both 'marks' and 'signs', excluding the conventional marks that Kamalaśīla affirms (Chone 2-23 adds the qualifier 'བདེན་པར་གྲུབ་པའི', 'truly established').",
+     "fix": "should be viewed as having marks and as being without signs"
+    }
+   ]
+  },
+  {
+   "id": "6-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "have not served a single Buddha",
+     "evidence": "Tibetan 'སངས་རྒྱས་གཅིག་ལ་བསྙེན་བཀུར་བྱས་པ་མ་ཡིན' means 'not (merely) one Buddha' (Skt ekabuddha-paryupāsita; Chone 2-26 'སངས་རྒྱས་གཅིག་ཙམ་ལ ... མ་ཡིན་གྱི། ... འབུམ་ཕྲག་དུ་མ་ལ'). English 'not a single Buddha' can read as 'none at all', which clashes with 6-15 (many Buddhas served).",
+     "fix": "have not served just a single Buddha"
+    }
+   ]
+  },
+  {
+   "id": "6-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "under a single Buddha",
+     "evidence": "Tibetan 'སངས་རྒྱས་གཅིག་ལ་དགེ་བའི་རྩ་བ་བསྐྱེད་པ་མ་ཡིན་གྱི' means 'not only under one Buddha, but under many' (Chone 2-26 'གཅིག་ཙམ'; Kamalaśīla 3-56 'སངས་རྒྱས་འབུམ་ཕྲག་'). 'Not ... a single Buddha' can read as 'none'.",
+     "fix": "have not planted roots of virtue under just a single Buddha, but"
+    }
+   ]
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "perception of a selfless phenomenon",
+     "evidence": "Tibetan 'ཆོས་བདག་མེད་པར་འདུ་ཤེས' is parallel to 'ཆོས་སུ་འདུ་ཤེས' (perceiving as a phenomenon), i.e. perceiving as selfless / the selflessness of phenomena; Vasubandhu 2-27 glosses the pair as conceptualising 'ཆོས་བདག་མེད་པ'. Skt has adharmasaṃjñā. 'a selfless phenomenon' treats it as a kind of object, not as perceiving phenomena as selfless.",
+     "fix": "perception of phenomena as selfless"
+    }
+   ]
+  },
+  {
+   "id": "6-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-31",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

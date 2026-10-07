@@ -1,0 +1,48 @@
+{
+ "batch": "batch-18",
+ "segments": [
+  {
+   "id": "12-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "called the perfection of wisdom Diamond Cutter",
+     "evidence": "Tibetan title ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ is locked as a whole to 'The Perfection of Wisdom that Cuts Like a Diamond'; the translation instead strings together the component terms (perfection of wisdom + Diamond Cutter), which reads as an unpunctuated, ungrammatical title.",
+     "fix": "called The Perfection of Wisdom that Cuts Like a Diamond"
+    }
+   ]
+  },
+  {
+   "id": "13-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "13-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

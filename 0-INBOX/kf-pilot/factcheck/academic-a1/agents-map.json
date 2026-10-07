@@ -1,0 +1,7 @@
+{"step": "factcheck-academic", "text": "vajracchedika", "lang": "en", "model": "sonnet", "attempt": 1,
+ "agents": {"batch-01": "ac395c0078a4629ed", "batch-02": "a0312e9361539a224", "batch-03": "a1fcbd7fa7306e937",
+  "batch-04": "ab1fb3774e7d0d58b", "batch-05": "aaf01d02351d93c4c", "batch-06": "a778bada8492037cf",
+  "batch-07": "ae20d288bd0b8d924", "batch-08": "a2cafb04a0b2c8317", "batch-09": "abb0d69764e25d87e",
+  "batch-10": "ae834b1ba929da3bc", "batch-11": "afd4cddb500afd89a", "batch-12": "aa2c8d4948f467239",
+  "batch-13": "a767d3e7b813ee410", "batch-14": "a688097a1d378c5ea", "batch-15": "a2827b8cc96dae6c2",
+  "batch-16": "af0d15e2b8fafa6bf", "batch-17": "ad66ec48f1169d5f2", "batch-18": "a5c106e9ee42abce0"}}

@@ -1,0 +1,138 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "10-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "compared to any son of noble family or daughter of noble family who, having brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, gives them as a gift, if someone were to take up even just a single four-line verse from this perfection of wisdom and teach it to others, Subhūti, that former mass of merit does not approach even a hundredth part",
+     "evidence": "The Tibetan has two actors and a comparison: \"སྦྱིན་པ་བྱིན་པ་བས་ ... གང་གིས་ ... ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་བཟུང་ནས་གཞན་དག་ལ་ཡང་བསྟན་ན། ... བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ་དེས་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ་བ\". Chone Drakpa Shedrub 2-131 glosses it: the former gift's merit does not approach one part in a hundred of the latter. The English opens with \"compared to\" the giver, then states the giver's own merit falls short, and never says a hundredth part of what, so the comparison is hard to parse.",
+     "fix": "Furthermore, Subhūti, suppose any son or daughter of noble family brought together masses of the seven precious substances equal to however many kings of mountains, Mount Sumerus, there are in the three-thousandfold great thousandfold world system, and gave them as a gift; and suppose someone took up even a single four-line verse from this perfection of wisdom and taught it to others. Subhūti, that former mass of merit does not come near even a hundredth part of the latter, up to not bearing comparison even as a cause."
+    }
+   ]
+  },
+  {
+   "id": "10-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-57",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

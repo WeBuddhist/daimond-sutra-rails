@@ -1,0 +1,146 @@
+{
+ "10-51": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "has spoken of it as non-grasping",
+  "new": "has spoken of it as grasping"
+ },
+ "13-5": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "ninety million times",
+  "new": "nine million times"
+ },
+ "12-22": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "has spoken of it as no perception",
+  "new": "has spoken of it as a true perception"
+ },
+ "7-35": {
+  "planted": true,
+  "kind": "name",
+  "severity": "major",
+  "old": "Buddha Dīpaṃkara",
+  "new": "Buddha Śākyamuni"
+ },
+ "6-16": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "the Tathāgata knows them",
+  "new": "the Tathāgata does not know them"
+ },
+ "5-1": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "practices generosity without abiding",
+  "new": "practices generosity while abiding"
+ },
+ "8-22": {
+  "planted": true,
+  "kind": "omission",
+  "severity": "major",
+  "old": ", when this sūtra is being explained,",
+  "new": ""
+ },
+ "2-3": {
+  "planted": true,
+  "kind": "addition",
+  "severity": "major",
+  "old": "with all the supreme benef",
+  "new": "and promised them rebirth in his pure land, with all the supreme benef"
+ },
+ "8-4": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "thirty-two marks",
+  "new": "eighty marks"
+ },
+ "8-114": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "without a life-force",
+  "new": "without a soul"
+ },
+ "8-75": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "It does not bear comparison",
+  "new": "It bears comparison"
+ },
+ "11-9": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "do not designate any phenomenon as destroyed",
+  "new": "do designate some phenomena as destroyed"
+ },
+ "6-21": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "will also not engage in the perception of a phenomenon",
+  "new": "will also engage in the perception of a phenomenon"
+ },
+ "1-3": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "in the morning time",
+  "new": "in the evening"
+ },
+ "10-27": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "there is no Dharma whatsoever that can be apprehended",
+  "new": "there is a Dharma that can be apprehended"
+ },
+ "12-27": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "a dewdrop",
+  "new": "a rainbow"
+ },
+ "8-97": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "unsurpassed, perfectly complete awakening",
+  "new": "unsurpassed, perfect enlightenment"
+ },
+ "6-28": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "should abandon even phenomena",
+  "new": "should hold on to phenomena"
+ },
+ "11-8": {
+  "planted": false
+ },
+ "7-61": {
+  "planted": false
+ },
+ "7-60": {
+  "planted": false
+ },
+ "11-10": {
+  "planted": false
+ },
+ "8-52": {
+  "planted": false
+ },
+ "8-85": {
+  "planted": false
+ }
+}

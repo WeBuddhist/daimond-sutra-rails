@@ -1,0 +1,162 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Should the Tathāgata, the arhat, the perfectly complete Buddha be seen",
+     "evidence": "Tibetan ends བལྟ་བར་བྱ་སྙམ་མམ, \"do you think ... should be seen\", a question to Subhūti about his thought (continuing 8-1 ཇི་སྙམ་དུ་སེམས); Chone Drakpa Shedrub 2-68 paraphrases it as བལྟ་བ་སྟེ་གཟུང་བར་བྱ་སྙམ་མམ (\"do you think ... to be taken as\"). The English drops the སྙམ་ (\"think\") element.",
+     "fix": "Do you think the Tathāgata, the arhat, the perfectly complete Buddha should be seen by those thirty-two marks of a great man?"
+    }
+   ]
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "and if someone were to take up even just a four-line verse ... that person would generate on that basis far greater, incalculable, immeasurable merit",
+     "evidence": "Tibetan is a comparison: ལུས་ ... ཡོངས་སུ་གཏོང་བ་བས། (\"than giving away bodies ...\") གང་གིས་ ... བཟུང་སྟེ་ ... ཡང་དག་པར་བསྟན་ན། དེ་ཉིད་ ... བསོད་ནམས་ཆེས་མང་དུ ... བསྐྱེད་ (\"whoever takes up ... and teaches ... generates far more merit\"). Chone Drakpa Shedrub 2-69: ལུས་ཀྱི་སྦྱིན་པ་ ... བཏང་བ་ལས་ཀྱང༌། ... བཟུང་ ... བསོད་ནམས་ལྷག་པར་ཆེའོ (merit greater than that of giving the body). The English makes two parallel \"if\" clauses, so \"far greater\" has no stated standard of comparison.",
+     "fix": "Subhūti, if some man or woman were to give away bodies as numerous as the grains of sand of the Gaṅgā river, someone who takes up even just a four-line verse from this Dharma discourse and teaches it properly to others would, on that basis, generate far greater merit than that, incalculable and immeasurable."
+    }
+   ]
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "supreme wonder",
+     "evidence": "ངོ་མཚར་རབ་དང་ལྡན་པ is the same expression rendered \"supreme marvel\" in 8-11 and ངོ་མཚར་ is \"marvel\" in 8-9, 8-14; here it is \"wonder\", so one Tibetan term has two renderings across adjacent segments.",
+     "fix": "endowed with supreme marvel"
+    }
+   ]
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "supreme wonder",
+     "evidence": "ངོ་མཚར་རབ་དང་ལྡན་པ is rendered \"supreme marvel\" in 8-11 (and \"marvel\" for ངོ་མཚར in 8-9, 8-14), but \"wonder\" here.",
+     "fix": "will be endowed with supreme marvel"
+    }
+   ]
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

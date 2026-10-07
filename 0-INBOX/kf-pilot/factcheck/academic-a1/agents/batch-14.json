@@ -1,0 +1,146 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "10-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "The Blessed One said, \"Subhūti, what do you think?",
+     "evidence": "Tibetan བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་འདི་ཇི་སྙམ་དུ་སེམས། is a self-contained segment; the English opens a quotation mark that is never closed in this or the following segments (10-24 to 10-28), leaving the quotation punctuation unbalanced.",
+     "fix": "The Blessed One said: \"Subhūti, what do you think?\" (or drop the quotation marks, as in 10-17)"
+    }
+   ]
+  },
+  {
+   "id": "10-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "by grasping at what is non-existent and false",
+     "evidence": "Tibetan མེད་པ་དང་ལོག་པར་ཟིན་པས; Sanskrit asatodgṛhītena. Kamalaśīla (bo-kamalasila-tika 3-200) glosses ལོག་པར་ཟིན་པ as being wrongly seized through perverse clinging (ཕྱིན་ཅི་ལོག་ཏུ་མངོན་པར་ཞེན་པས་ལོག་པར་ཟིན་པའི་ཕྱིར་དེ་མེད་). The wrongness lies in the grasping, not in a 'false' object; 'non-existent and false' makes the object doubly characterised.",
+     "fix": "by a mistaken grasping of what does not exist"
+    }
+   ]
+  },
+  {
+   "id": "10-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-32",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}
