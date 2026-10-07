@@ -199,6 +199,13 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/termbase-children.md",
+    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/termbase-academic.md",
+    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/review.json",
+    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/termbase.json",
+    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/agents/batch-01.json",
+    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/agents/batch-04.json",
+    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/agents/batch-05.json",
     "0-INBOX/kf-pilot/termbase/vajracchedika-zh/agents/batch-06.json",
     "0-INBOX/kf-pilot/termbase/vajracchedika-zh/agents/batch-03.json",
     "0-INBOX/kf-pilot/termbase/vajracchedika-zh/agents/batch-02.json",
@@ -214,12 +221,6 @@
     "0-INBOX/kf-pilot/termbase/prompts/terms-agent-lang.md",
     "0-INBOX/kf-pilot/termbase/prompts/style-sheet-lang.md",
     "0-INBOX/kf-pilot/termbase/vajracchedika-zh/batches/batch-06.json",
-    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/batches/batch-05.json",
-    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/batches/batch-04.json",
-    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/batches/batch-03.json",
-    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/batches/batch-01.json",
-    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/batches/batch-02.json",
-    "0-INBOX/kf-pilot/termbase/vajracchedika-zh/terms.json",
     "0-INBOX/kf-pilot/termbase/vajracchedika-zh/overview.md",
     "0-INBOX/kf-pilot/termbase/registers-hi.md",
     "0-INBOX/kf-pilot/termbase/registers-zh.md",
@@ -233,7 +234,6 @@
     "0-INBOX/kf-pilot/factcheck/children-a2/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/children-a1/rendered/batch-11.md",
     "0-INBOX/kf-pilot/factcheck/children-a1/rendered/batch-10.md",
-    "0-INBOX/kf-pilot/factcheck/children-a1/rendered/batch-09.md",
-    "0-INBOX/kf-pilot/factcheck/children-a1/rendered/batch-08.md"
+    "0-INBOX/kf-pilot/factcheck/children-a1/rendered/batch-09.md"
   ]
 }

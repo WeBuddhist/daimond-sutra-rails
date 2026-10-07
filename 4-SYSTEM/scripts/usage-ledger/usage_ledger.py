@@ -67,7 +67,10 @@ def agent_usage(transcript):
     per_msg, first, last, models = {}, None, None, set()
     out_chars = defaultdict(int)
     for line in pathlib.Path(transcript).read_text(encoding="utf-8").splitlines():
-        r = json.loads(line)
+        try:
+            r = json.loads(line)
+        except json.JSONDecodeError:  # a truncated line (transcript cut mid-write); skip it
+            continue
         ts = r.get("timestamp")
         if ts:
             first = first or ts

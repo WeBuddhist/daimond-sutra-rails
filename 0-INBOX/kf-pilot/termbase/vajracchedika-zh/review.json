@@ -1,0 +1,135 @@
+{
+ "terms": [
+  {
+   "term_id": "T104",
+   "sense": "stream (of mind)",
+   "field": "academic",
+   "current": "心流",
+   "suggested": "流",
+   "severity": "major",
+   "reason": "Must not share the rendering '心流' with cittadhārā (T103). The Tibetan is simply stream (རྒྱུན).",
+   "applied": true
+  },
+  {
+   "term_id": "T104",
+   "sense": "stream (of mind)",
+   "field": "children",
+   "current": "心的流動",
+   "suggested": "流動",
+   "severity": "major",
+   "reason": "Must not share a rendering with cittadhārā (T103). The Tibetan is just stream (རྒྱུན).",
+   "applied": true
+  },
+  {
+   "term_id": "T122",
+   "sense": "fruit of a stream-enterer",
+   "field": "children",
+   "current": "入流者的成果",
+   "suggested": "進入聖流的成果",
+   "severity": "major",
+   "reason": "Compounds must take the renderings of their parts per policy 20. srotaāpanna is '進入聖流的人' (T066).",
+   "applied": true
+  },
+  {
+   "term_id": "T123",
+   "sense": "fruit of a once-returner",
+   "field": "children",
+   "current": "回來一次者的成果",
+   "suggested": "只回來一次的成果",
+   "severity": "major",
+   "reason": "Compounds must take the renderings of their parts per policy 20. sakṛdāgāmin is '只回來一次的人' (T070).",
+   "applied": true
+  },
+  {
+   "term_id": "T171",
+   "sense": "nirvāṇa without remainder",
+   "field": "children",
+   "current": "沒有剩餘的脫離憂苦境界",
+   "suggested": "不剩組成部分的脫離憂苦境界",
+   "severity": "major",
+   "reason": "Compounds must take the renderings of their parts per policy 20. anupadhiśeṣa is '不剩組成部分' (T172).",
+   "applied": true
+  },
+  {
+   "term_id": "T200",
+   "sense": "fruit of a non-returner",
+   "field": "children",
+   "current": "不再回來者的成果",
+   "suggested": "不再回來的成果",
+   "severity": "major",
+   "reason": "Compounds must take the renderings of their parts per policy 20. anāgāmin is '不再回來的人' (T091).",
+   "applied": true
+  },
+  {
+   "term_id": "T222",
+   "sense": "entity",
+   "field": "academic",
+   "current": "事物",
+   "suggested": "實體",
+   "severity": "major",
+   "reason": "Duplicate lemma of T061 (vastu), must take exactly the same rendering per policy 21.",
+   "applied": true
+  },
+  {
+   "term_id": "T222",
+   "sense": "entity",
+   "field": "children",
+   "current": "實在的東西",
+   "suggested": "真實的東西",
+   "severity": "major",
+   "reason": "Duplicate lemma of T061 (vastu), must take exactly the same rendering per policy 21.",
+   "applied": true
+  },
+  {
+   "term_id": "T226",
+   "sense": "the world with its gods, humans and asuras",
+   "field": "academic",
+   "current": "包含天、人、阿修羅的世間",
+   "suggested": "包括天、人、阿修羅的世間",
+   "severity": "major",
+   "reason": "Variant spelling of T207, must take exactly the rendering of the base term per policy 21.",
+   "applied": true
+  },
+  {
+   "term_id": "T226",
+   "sense": "the world with its gods, humans and asuras",
+   "field": "children",
+   "current": "有天神、人類、嫉妒神的世間",
+   "suggested": "有天神、人和嫉妒神的世間",
+   "severity": "major",
+   "reason": "Variant spelling of T207, must take exactly the rendering of the base term per policy 21.",
+   "applied": true
+  },
+  {
+   "term_id": "T227",
+   "sense": "son or daughter of noble family",
+   "field": "academic",
+   "current": "善男子、善女人",
+   "suggested": "善男子或善女人",
+   "severity": "major",
+   "reason": "Variant spelling of T057, must take exactly the rendering of the base term per policy 21.",
+   "applied": true
+  },
+  {
+   "term_id": "T254",
+   "sense": "immeasurable",
+   "field": "children",
+   "current": "數不清",
+   "suggested": "無法衡量",
+   "severity": "major",
+   "reason": "Must not share the rendering '數不清' with asaṃkhyeya (T253), which violates the one rendering per term rule.",
+   "applied": true
+  },
+  {
+   "term_id": "T255",
+   "sense": "taking hold",
+   "field": "children",
+   "current": "接受",
+   "suggested": "拿取",
+   "severity": "major",
+   "reason": "Variant spelling/duplicate lemma of parigrah (T107), must match its children's rendering '拿取' per policy 21.",
+   "applied": true
+  }
+ ],
+ "policies": []
+}
