@@ -1,0 +1,165 @@
+{
+ "segments": [
+  {
+   "id": "8-47",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-57",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-72",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-79",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-95",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "जिससे",
+      "explanation": "The relative pronoun should be the object 'which' (जिसे) referring to the dharma awakened to, not the instrumental 'by which' (जिससे)."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "8-98",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "माणवक",
+      "explanation": "The Tibetan explicitly includes 'Brahmin' (བྲམ་ཟེའི), which is missing in the translation."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-111",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-1",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-18",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-21",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-11",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-29",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-46",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-48",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "11-1",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "11-17",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "12-4",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "12-12",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "12-23",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The Tibetan source repeats 'ཆོས་སུ་འདུ་ཤེས' twice, but the translation renders it only once."
+     }
+    ]
+   }
+  }
+ ]
+}

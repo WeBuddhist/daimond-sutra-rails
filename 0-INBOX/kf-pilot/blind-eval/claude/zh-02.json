@@ -1,0 +1,286 @@
+{
+ "segments": [
+  {
+   "id": "8-47",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "'Or taught/expounded' (བསྟན་པ) is missing; only what was attained is mentioned."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-57",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "若有人能受持、讀誦、廣為人說",
+      "explanation": "Several of the six activities (take up, retain, understand) and 'truly' are dropped."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-72",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "八十四萬億那由他",
+      "explanation": "'Hundred thousand' (百千) rendered as 萬; the number is imprecise."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "八百四千萬億那由他",
+      "explanation": "Number differs from Tibetan 84 koti nayuta hundred-thousands."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "悉皆供養承事",
+      "explanation": "Tibetan says the Buddhas were pleased (མཉེས་པར་བྱས), not served and honored."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "'Yet more innumerable' and 'even earlier before Dipamkara' are not rendered."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-79",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-95",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "並沒有得到任何法而證得阿耨多羅三藐三菩提",
+      "explanation": "Turns 'no dharma was awakened to' into 'attained awakening without obtaining any dharma'; logic shifts."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "'From Dipamkara' (མར་མེ་མཛད་ལས) is omitted."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-98",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Vocative 'Brahmin youth' and the epithets tathāgata, arhat, samyaksambuddha are omitted."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-111",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "無量",
+      "explanation": "'Innumerable' is not in the Tibetan 'sentient beings'."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "菩薩亦如是",
+      "explanation": "'Likewise' is not in the Tibetan."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-18",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-21",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-11",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-29",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-46",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-48",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "11-1",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "以音聲求我",
+      "explanation": "Tibetan ཤེས་པ means 'know/perceive', not 'seek'."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "11-17",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "故名如來",
+      "explanation": "The epithets arhat and samyaksambuddha are omitted from the three-fold title."
+     }
+    ]
+   }
+  },
+  {
+   "id": "12-4",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "12-12",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "The predicate 'is mere convention' (ཐ་སྙད) is missing; the clause is left unfinished."
+     }
+    ],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "一合相",
+      "explanation": "Renders རིལ་པོར་འཛིན་པ 'grasping as a lump' as a lump-form, losing the notion of grasping."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "12-23",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "法相、法相",
+      "explanation": "འདུ་ཤེས is saṃjñā (perception, 想), not 相 (characteristic); changes the concept."
+     }
+    ],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "法相",
+      "explanation": "འདུ་ཤེས is saṃjñā (想), not 相; misrepresents the concept."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The repetition 'dharma-perception, dharma-perception' is not reproduced."
+     }
+    ]
+   }
+  }
+ ]
+}

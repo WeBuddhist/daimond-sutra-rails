@@ -12,7 +12,7 @@ generator: gemini-3.1-pro-preview
 context_packages: [termbase.md, aligned Sanskrit (1-SOURCES/Text/sa-vajracchedika.md), aligned commentaries: bo-kamalasila-tika, bo-vasubandhu-saptartha-tika, bo-chone-drakpa-shedrub]
 blocks_translated: 446
 blocks_total: 446
-segments_missing_locked_terms: 1
+segments_missing_locked_terms: 0
 generation_date: 2026-10-07
 status: draft
 ---
@@ -1759,7 +1759,7 @@ and highly praised what the Blessed One had spoken. ^13-2
 
 ![[bo-vajracchedika#^13-3]]
 
-The noble Mahāyāna sūtra entitled the Diamond Cutter perfection of wisdom is complete. ^13-3
+The Noble Mahāyāna Sūtra called the Diamond Cutter Perfection of Wisdom is complete. ^13-3
 
 ![[bo-vajracchedika#^13-4]]
 

@@ -1,0 +1,165 @@
+{
+ "segments": [
+  {
+   "id": "1-5",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "भोजन के पश्चात भिक्षाटन से निवृत्त होकर",
+      "explanation": "Translates the Sanskrit idea of returning from an alms-round, missing the Tibetan meaning of abandoning the alms-food of the later meal."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "3-1",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-7",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-4",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-23",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-25",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "अधर्म-संज्ञा",
+      "explanation": "Translates the Sanskrit \"adharma\" instead of the Tibetan \"ཆོས་བདག་མེད་པར་\" (perception of dharmas as selfless)."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "6-39",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-44",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-19",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-23",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-29",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-41",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-61",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-73",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-78",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-8",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-15",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Candidate B omits the translation for \"སླད་མའི་དུས་\" (future time), missing one of the two time expressions present in the source."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-34",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-44",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  }
+ ]
+}

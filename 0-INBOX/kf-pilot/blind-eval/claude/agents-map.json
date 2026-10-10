@@ -1,0 +1,4 @@
+{"step": "blind-eval", "text": "vajracchedika", "model": "sonnet",
+ "session_dir": "~/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/c7f046c7-2989-44d5-b4bb-4b335990b02a",
+ "agents": {"en-01": "ab8290611fa9ff5e1", "en-02": "abb53a64118779cad", "zh-01": "acfc777cc83a5b27f",
+            "zh-02": "ae17156e1067f4d6b", "hi-01": "a73501ade27f4f5dd", "hi-02": "ae573efb458329529"}}

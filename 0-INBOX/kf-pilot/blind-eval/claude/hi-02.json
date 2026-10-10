@@ -1,0 +1,185 @@
+{
+ "segments": [
+  {
+   "id": "8-47",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-57",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "अध्ययन करेंगे",
+      "explanation": "ཀུན་ཆུབ་པར་བྱེད་པ means fully comprehend/realize, not merely study."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "8-72",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-79",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-95",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "जिससे तथागत ने",
+      "explanation": "'जिससे' makes the dharma an instrument; Tibetan means the dharma attained from Dipamkara (should be 'जिसे')."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "8-98",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "व्याकरण दिया",
+      "explanation": "'व्याकरण' in Hindi means grammar; the prophecy sense (lung bstan) is likely missed."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "བྲམ་ཟེའི་ཁྱེའུ 'brahmin youth': 'ब्राह्मण' omitted from the address."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-111",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-1",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-18",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-21",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-11",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-29",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "साक्षात् विश्वास करेंगे",
+      "explanation": "'साक्षात्' for mngon par is odd; ཡིད་ཆེས is faith/trust, 'साक्षात् विश्वास' unidiomatic."
+     }
+    ]
+   }
+  },
+  {
+   "id": "10-46",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-48",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "11-1",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "11-17",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "12-4",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "सचमुच",
+      "explanation": "'Really' is not in the Tibetan 'if there were'."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "12-12",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "12-23",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  }
+ ]
+}

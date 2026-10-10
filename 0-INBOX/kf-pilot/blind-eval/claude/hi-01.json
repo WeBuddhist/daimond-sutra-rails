@@ -1,0 +1,192 @@
+{
+ "segments": [
+  {
+   "id": "1-5",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "भोजन के पश्चात भिक्षाटन से निवृत्त होकर",
+      "explanation": "Tibetan says the later (afternoon) alms-food was abandoned; A renders the Sanskrit sense of returning after the meal."
+     },
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "पद्मासन",
+      "explanation": "skyil mo krung is cross-legged sitting; पद्मासन names the specific lotus posture, narrowing the meaning."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "3-1",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-7",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-4",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-23",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-25",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "अधर्म-संज्ञा",
+      "explanation": "Tibetan reads the notion of dharma as selfless (chos bdag med par), not a notion of non-dharma."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "6-39",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-44",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-19",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-23",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "अर्हत्-त्व",
+      "explanation": "Awkward hyphenation of the abstract noun; अर्हत्त्व is the normal form."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-29",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-41",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-61",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "यदि वह स्थान जहाँ इस धर्मपर्याय से कम से कम चतुष्पादिका गाथा मात्र का भी वाचन किया जाता है",
+      "explanation": "The conditional 'यदि' is left without a matching clause, so the sentence is clumsy to parse."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "7-73",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-78",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The causal 'because' (sla du) closing the answer to 'why?' is missing; the reason is left unmarked."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-8",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-15",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "One of the paired 'later time / later period' terms (tshe, dus) is collapsed into a single 'भविष्य काल'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-34",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-44",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  }
+ ]
+}

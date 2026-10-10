@@ -1,0 +1,199 @@
+{
+ "segments": [
+  {
+   "id": "8-47",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-57",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-72",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "I served eighty-four hundred thousand million Buddhas",
+      "explanation": "\"Served\" is not in the Tibetan, which says only that the Buddhas were pleased."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-79",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-95",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "by which the Tathāgata fully awakened",
+      "explanation": "\"By which\" makes the dharma an instrument; the Tibetan means no dharma that was awakened to."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "by which the Tathāgata fully awakened",
+      "explanation": "\"By which\" makes the phenomenon an instrument; the Tibetan means no dharma that was awakened to."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "fully realized as unsurpassed, perfectly complete enlightenment",
+      "explanation": "\"Realized as enlightenment\" recasts the dharma as the awakening itself, not what was awakened to in that awakening."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-98",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-111",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "he would not be called a bodhisattva",
+      "explanation": "Tibetan says he should not be called a bodhisattva (normative); \"would not be called\" is descriptive."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-18",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-21",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-11",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-29",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-46",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-48",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "11-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "11-17",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "12-4",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "12-12",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "12-23",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

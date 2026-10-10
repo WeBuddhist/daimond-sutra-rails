@@ -1,0 +1,309 @@
+{
+ "segments": [
+  {
+   "id": "1-5",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits 'ཟས་ཕྱི་མའི་' (later meal), missing the commentary's reference to the ascetic rule of not eating afternoon meals."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "arranged his seat",
+      "explanation": "Translates the locative 'on the arranged/prepared seat' as an active verb, incorrectly stating he arranged the seat himself."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "3-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-7",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'ཡང་' (even/also)."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'ཡང་' (even/also)."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'ཡང་' (even/also)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-4",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "perfect marks",
+      "explanation": "Translates 'མཚན་ཕུན་སུམ་ཚོགས་པ་' simply as marks that are perfect, missing the standard technical concept of the 'perfection/endowment of marks'."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "6-23",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-25",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "one",
+      "explanation": "Pronoun mismatch: 'one' is used as the subject, but 'them' is used later in the same clause to refer to the same beings."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'ཡང་' (even)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-39",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "\"Subhūti, what do you think?",
+      "explanation": "Missing a closing quotation mark."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-44",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'ཉིད་' (very/itself)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-19",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "7-23",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "7-29",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "7-41",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the word ཡང་ (also/even), missing the connection that one should not abide in form 'either'."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the word ཡང་ (also/even), missing the connection that one should not abide in form 'either'."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the word ཡང་ (also/even), missing the connection that one should not abide in form 'either'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-61",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "whoever takes up this discourse on the Dharma, writes it, holds it, keeps it, reads it, masters it, and attends to it properly becoming endowed",
+      "explanation": "Using 'becoming' after this long relative clause creates an awkward fused participle that is hard to parse."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "7-73",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "phenomenon",
+      "explanation": "In this context, ཆོས་ (dharma) refers specifically to a 'teaching' or 'doctrine' taught by the Buddha, not a 'phenomenon'."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "7-78",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the word སའི་ (of earth) when translating སའི་རྡུལ་ (particles of earth)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-8",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-15",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits a translation for the second time descriptor སླད་མའི་དུས་ (in the future period / final times), merging the two terms."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits a translation for the second time descriptor སླད་མའི་དུས་ (in the future period / final times), merging the two terms."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-34",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-44",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits ཉིད་ (very/themselves) from the phrase དེ་དག་ཉིད་ཀྱང་ (even those very sentient beings)."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits ཀྱང་ (also/even) from the phrase དེ་དག་ཉིད་ཀྱང་ (even those very sentient beings)."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits ཀྱང་ (also/even) from the phrase དེ་དག་ཉིད་ཀྱང་ (even those very sentient beings)."
+     }
+    ]
+   }
+  }
+ ]
+}

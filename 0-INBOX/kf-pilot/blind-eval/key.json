@@ -1,0 +1,562 @@
+{
+ "en:1-5": {
+  "A": "zeroshot-gemini",
+  "B": "zeroshot-dharmamitra",
+  "C": "governed"
+ },
+ "en:3-1": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "zeroshot-dharmamitra"
+ },
+ "en:4-7": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "en:4-10": {
+  "A": "zeroshot-dharmamitra",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "en:6-4": {
+  "A": "zeroshot-gemini",
+  "B": "zeroshot-dharmamitra",
+  "C": "governed"
+ },
+ "en:6-23": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "en:6-25": {
+  "A": "zeroshot-dharmamitra",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "en:6-39": {
+  "A": "zeroshot-dharmamitra",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "en:6-44": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "zeroshot-dharmamitra"
+ },
+ "en:7-19": {
+  "A": "zeroshot-gemini",
+  "B": "zeroshot-dharmamitra",
+  "C": "governed"
+ },
+ "en:7-23": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "zeroshot-dharmamitra"
+ },
+ "en:7-29": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "zeroshot-dharmamitra"
+ },
+ "en:7-41": {
+  "A": "zeroshot-gemini",
+  "B": "zeroshot-dharmamitra",
+  "C": "governed"
+ },
+ "en:7-61": {
+  "A": "zeroshot-dharmamitra",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "en:7-73": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "en:7-78": {
+  "A": "zeroshot-gemini",
+  "B": "zeroshot-dharmamitra",
+  "C": "governed"
+ },
+ "en:8-8": {
+  "A": "zeroshot-gemini",
+  "B": "zeroshot-dharmamitra",
+  "C": "governed"
+ },
+ "en:8-15": {
+  "A": "zeroshot-dharmamitra",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "en:8-34": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "en:8-44": {
+  "A": "zeroshot-dharmamitra",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "en:8-47": {
+  "A": "zeroshot-gemini",
+  "B": "zeroshot-dharmamitra",
+  "C": "governed"
+ },
+ "en:8-57": {
+  "A": "zeroshot-dharmamitra",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "en:8-72": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "zeroshot-dharmamitra"
+ },
+ "en:8-79": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "en:8-95": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "zeroshot-dharmamitra"
+ },
+ "en:8-98": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "zeroshot-dharmamitra"
+ },
+ "en:8-111": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "en:9-1": {
+  "A": "zeroshot-dharmamitra",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "en:9-18": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "zeroshot-dharmamitra"
+ },
+ "en:9-21": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "en:10-11": {
+  "A": "zeroshot-dharmamitra",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "en:10-22": {
+  "A": "zeroshot-dharmamitra",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "en:10-29": {
+  "A": "zeroshot-gemini",
+  "B": "zeroshot-dharmamitra",
+  "C": "governed"
+ },
+ "en:10-46": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "en:10-48": {
+  "A": "zeroshot-gemini",
+  "B": "zeroshot-dharmamitra",
+  "C": "governed"
+ },
+ "en:11-1": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "en:11-17": {
+  "A": "zeroshot-dharmamitra",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "en:12-4": {
+  "A": "zeroshot-dharmamitra",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "en:12-12": {
+  "A": "zeroshot-dharmamitra",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "en:12-23": {
+  "A": "governed",
+  "B": "zeroshot-dharmamitra",
+  "C": "zeroshot-gemini"
+ },
+ "zh:1-5": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "human-kumarajiva"
+ },
+ "zh:3-1": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "human-kumarajiva"
+ },
+ "zh:4-7": {
+  "A": "zeroshot-gemini",
+  "B": "human-kumarajiva",
+  "C": "governed"
+ },
+ "zh:4-10": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "human-kumarajiva"
+ },
+ "zh:6-4": {
+  "A": "human-kumarajiva",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "zh:6-23": {
+  "A": "governed",
+  "B": "human-kumarajiva",
+  "C": "zeroshot-gemini"
+ },
+ "zh:6-25": {
+  "A": "human-kumarajiva",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "zh:6-39": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "human-kumarajiva"
+ },
+ "zh:6-44": {
+  "A": "governed",
+  "B": "human-kumarajiva",
+  "C": "zeroshot-gemini"
+ },
+ "zh:7-19": {
+  "A": "zeroshot-gemini",
+  "B": "human-kumarajiva",
+  "C": "governed"
+ },
+ "zh:7-23": {
+  "A": "human-kumarajiva",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "zh:7-29": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "human-kumarajiva"
+ },
+ "zh:7-41": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "zh:7-61": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "zh:7-73": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "zh:7-78": {
+  "A": "human-kumarajiva",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "zh:8-8": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "human-kumarajiva"
+ },
+ "zh:8-15": {
+  "A": "governed",
+  "B": "human-kumarajiva",
+  "C": "zeroshot-gemini"
+ },
+ "zh:8-34": {
+  "A": "human-kumarajiva",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "zh:8-44": {
+  "A": "human-kumarajiva",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "zh:8-47": {
+  "A": "governed",
+  "B": "human-kumarajiva",
+  "C": "zeroshot-gemini"
+ },
+ "zh:8-57": {
+  "A": "zeroshot-gemini",
+  "B": "human-kumarajiva",
+  "C": "governed"
+ },
+ "zh:8-72": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "human-kumarajiva"
+ },
+ "zh:8-79": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "zh:8-95": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "zh:8-98": {
+  "A": "zeroshot-gemini",
+  "B": "human-kumarajiva",
+  "C": "governed"
+ },
+ "zh:8-111": {
+  "A": "human-kumarajiva",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "zh:9-1": {
+  "A": "zeroshot-gemini",
+  "B": "governed",
+  "C": "human-kumarajiva"
+ },
+ "zh:9-18": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "zh:9-21": {
+  "A": "human-kumarajiva",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "zh:10-11": {
+  "A": "governed",
+  "B": "human-kumarajiva",
+  "C": "zeroshot-gemini"
+ },
+ "zh:10-22": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "zh:10-29": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "zh:10-46": {
+  "A": "zeroshot-gemini",
+  "B": "human-kumarajiva",
+  "C": "governed"
+ },
+ "zh:10-48": {
+  "A": "governed",
+  "B": "human-kumarajiva",
+  "C": "zeroshot-gemini"
+ },
+ "zh:11-1": {
+  "A": "human-kumarajiva",
+  "B": "governed",
+  "C": "zeroshot-gemini"
+ },
+ "zh:11-17": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "zh:12-4": {
+  "A": "zeroshot-gemini",
+  "B": "human-kumarajiva",
+  "C": "governed"
+ },
+ "zh:12-12": {
+  "A": "human-kumarajiva",
+  "B": "zeroshot-gemini",
+  "C": "governed"
+ },
+ "zh:12-23": {
+  "A": "governed",
+  "B": "zeroshot-gemini",
+  "C": "human-kumarajiva"
+ },
+ "hi:1-5": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:3-1": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:4-7": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:4-10": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:6-4": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:6-23": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:6-25": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:6-39": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:6-44": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:7-19": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:7-23": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:7-29": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:7-41": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:7-61": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:7-73": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:7-78": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:8-8": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:8-15": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:8-34": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:8-44": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:8-47": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:8-57": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:8-72": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:8-79": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:8-95": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:8-98": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:8-111": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:9-1": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:9-18": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:9-21": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:10-11": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:10-22": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:10-29": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:10-46": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:10-48": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:11-1": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:11-17": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:12-4": {
+  "A": "zeroshot-gemini",
+  "B": "governed"
+ },
+ "hi:12-12": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ },
+ "hi:12-23": {
+  "A": "governed",
+  "B": "zeroshot-gemini"
+ }
+}

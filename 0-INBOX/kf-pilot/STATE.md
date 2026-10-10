@@ -41,7 +41,11 @@ Scripts here are drafts; they become registered skills (via `create-skill`) once
 5. ~~Checker reliability zh + hi~~ — done: 17/18 caught, 0/6 false alarms in both (same as en); the one miss in all three languages is 8-97 (locked term swapped for a near-synonym, rated minor), which the automatic glossary check catches → checker + glossary check = 18/18. `factcheck/calibration{,-zh,-hi}/`, `calibration/plant.py`, `calibration/score.py`.
 6. ~~Improvement metrics~~ — done and in the report (§3 "Improvement from the fact-check and fix"): `factcheck/improvement.py --json reports/improvement-vajracchedika.json --pairs reports/improvement-pairs-vajracchedika.json`; `zsh -ic '… factcheck/pairwise_judge.py reports/improvement-pairs-vajracchedika.json --out reports/improvement-judged-vajracchedika.json'` (two passes, A/B swapped). Result: major-error fixes judged better 19/21; minor-only fixes better 52%, tie 33%, worse 15% (18 segments).
    **Decided (user, 2026-10-07):** the 18 minor-fix segments the judge rated worse were restored (`pairwise_judge.py --revert-losses`), and that keep-best rule applies to every future minor-fix round (see Decisions).
-7. Then: register the scripts as skills (`create-skill`) and run Ratnaguṇa.
+7. ~~Blind comparison~~ — done 2026-10-07, in the report (§3 "Blind comparison"): 40 segments × en/zh/hi, governed vs zero-shot (+ DharmaMitra en, Kumārajīva zh), MQM-annotated blind by Claude agents AND Gemini (`blind-eval/`: `build.py`, `rubric-mqm.md`, `judge_gemini.py`, `score.py`, key in `key.json`). Governed has the fewest errors in every language under both annotators; zero-shot major errors come from following the Sanskrit / Chinese tradition (相 for saṃjñā, adharma). Kumārajīva scores worst against the Tibetan (different recension — not a fair benchmark).
+   Loose ends closed 2026-10-07: en-children 12-24 (Claude checker's fix → Claude re-check pass + Gemini blind judge win in both orders); en-academic 13-3 (user: match the opening title; override T274; regenerated; check passes; en academic glossary 1,564/1,564); Hindi commentary translations out of scope (user); human-cost comparison from published rates (84000 $400/page; Prajna Fire $100–300/page) in report §2.
+   **Published report (2026-10-08):** Claude Docs doc "KF Pilot — Diamond Sutra: Cost and Quality", https://claude.ai/artifact/8j6Cqn62otc5TQbZW1P5BF (source of its content: `reports/vajracchedika-en-cost-quality.md`; edit the doc through the Docs connector, not by republishing). Plan (user): one report doc per text, then a combined report at the end.
+   **Diamond Sutra: complete for the pilot scope.** Only open item: specialist review time (needs a human; decides the 10%-of-human-cost question) and optional specialist scoring of the blind sample.
+9. Then: register the scripts as skills (`create-skill`) and run Ratnaguṇa.
 8. Bodhicaryāvatāra (Chonjuk) started 2026-10-07 in `bodhisattvacharyavatara-rails/0-INBOX/kf-pilot/` (scripts copied and adapted; see its STATE.md). The user asked for before/after improvement metrics for every fact-check + fix round; compute them retroactively here too (list in that STATE.md).
 
 ### Findings to carry into the report
@@ -60,7 +64,9 @@ from transcripts, output ESTIMATED (transcripts keep only the start-of-response 
 Exact Claude usage needs the `claude` CLI logged in (`claude -p --output-format json`).
 
 ## Open items
-- Termbase review applied some questionable Gemini changes (gandharva → scent-eater, guru → master, below → nadir,
-  Perfection of Wisdom capitalised as a practice). Revisit before translation.
+- ~~Termbase review's questionable changes~~ — resolved before translation by editor overrides (gandharva, guru, below, perfection of wisdom; `termbase/vajracchedika-en/overrides.json`).
 - ཆོས has a third sense (quality of a Buddha) that the reviewer wanted merged; recorded, not applied.
 - Term-agent prompt gives 3 examples per term; multi-sense terms need all occurrences (batch-04 read segments.json itself).
+
+## Combined report (2026-10-08)
+Claude Docs doc "KF Pilot — Three Texts: Cost and Quality of AI Translation", https://claude.ai/artifact/MMVkU1Pf5KyJFpnnRovMqM, built from the three per-text reports (Diamond, Ratnaguṇa, Bodhicaryāvatāra). Edit through the Docs connector. Totals: pipeline $360.49, measurement $44.00, all work $587.64.

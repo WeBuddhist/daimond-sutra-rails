@@ -153,7 +153,8 @@
   "runs": [
    "children-a1",
    "children-a2",
-   "children-a4"
+   "children-a4",
+   "children-a5"
   ],
   "before": {
    "segments": 432,
@@ -175,16 +176,16 @@
   },
   "after": {
    "segments": 432,
-   "fail": 1,
+   "fail": 0,
    "error_free": 402,
    "critical": 0,
-   "major": 1,
+   "major": 0,
    "minor": 33,
-   "penalty": 38,
-   "penalty_per_1k_syl": 3.56,
+   "penalty": 33,
+   "penalty_per_1k_syl": 3.09,
    "error_free_pct": 93.1,
-   "issues_per_100_seg": 7.9,
-   "blocking_per_100_seg": 0.23,
+   "issues_per_100_seg": 7.6,
+   "blocking_per_100_seg": 0.0,
    "terms": {
     "required": 1543,
     "used": 1541,

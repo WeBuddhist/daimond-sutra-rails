@@ -1,0 +1,197 @@
+{
+ "segments": [
+  {
+   "id": "8-47",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-57",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-72",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "before the time of the Tathāgata, Arhat, perfectly complete Buddha Dīpaṃkara,",
+      "explanation": "Omits \"and even further before\" (སྔ་རོལ་གྱི་ཡང་ཆེས་སྔ་རོལ་ན་), missing the text's emphasis on the immense timescale."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "eighty-four hundred thousand million Buddhas",
+      "explanation": "Omits the specific number term \"niyuta\" or \"myriad\" (ཁྲག་ཁྲིག་), changing the exact calculation of the number."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "I served",
+      "explanation": "Omits the explicit statement that these Buddhas \"appeared\" (བྱུང་བ་), replacing it instead with \"served\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-79",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-95",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "by which the Tathāgata fully awakened to",
+      "explanation": "The Tibetan syntax indicates that the dharma itself is what the Tathagata awakened to, rather than being the instrument \"by which\" he awakened."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "by which the Tathāgata fully awakened to",
+      "explanation": "The Tibetan syntax indicates that the dharma itself is what the Tathagata awakened to, rather than being the instrument \"by which\" he awakened."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-98",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-111",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-18",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-21",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-11",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-29",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-46",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-48",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "11-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "11-17",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "12-4",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "12-12",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "12-23",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

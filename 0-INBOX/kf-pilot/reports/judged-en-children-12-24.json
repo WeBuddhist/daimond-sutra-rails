@@ -1,0 +1,22 @@
+[
+ {
+  "track": "en-children",
+  "id": "12-24",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A clearly reconnects the comparison (\"much more... than\") broken across the short sentences, whereas B leaves \"much more\" dangling without recalling the first part.",
+  "before_verdict": "fail",
+  "after_verdict": "pending"
+ },
+ {
+  "track": "en-children",
+  "id": "12-24",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "By splitting the long Tibetan sentence into shorter ones, the comparison was separated. B completes it explicitly (\"much more... than\"), making it clearer for children.",
+  "before_verdict": "fail",
+  "after_verdict": "pending"
+ }
+]

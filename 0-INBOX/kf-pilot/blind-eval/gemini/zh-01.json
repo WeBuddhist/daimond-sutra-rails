@@ -1,0 +1,471 @@
+{
+ "segments": [
+  {
+   "id": "1-5",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "不再乞求餘食",
+      "explanation": "Tibetan \"ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས་\" means refraining from afternoon meals, not stopping begging for leftover food."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "還至本處。",
+      "explanation": "The phrase meaning \"returned to own place\" does not appear in the Tibetan text."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omitted the Tibetan \"ཟས་ཕྱི་མའི་བསོད་སྙོམས་སྤངས་ནས་\" (refraining from afternoon alms-food)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omitted the actions of sitting cross-legged, keeping the body straight, and establishing mindfulness before him."
+     }
+    ]
+   }
+  },
+  {
+   "id": "3-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omitted \"ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་\" (to venerable Subhuti)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omitted \"འདི་སྐད་ཅེས་\" (thus)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-7",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "所謂不住色布施，",
+      "explanation": "The Tibetan is an imperative sentence (\"One should give alms...\"), but B renders it as an incomplete noun phrase."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-4",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "身相",
+      "explanation": "Omits the meaning of \"ཕུན་སུམ་ཚོགས་པ་\" (perfect possession / endowment), translating only \"མཚན་\" (marks)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-23",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omitted \"རབ་འབྱོར་\" (Subhuti)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "是諸眾生",
+      "explanation": "Mistranslates \"བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ནི\" (those bodhisattva mahasattvas) as sentient beings."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "心取相",
+      "explanation": "Mistranslates \"ཆོས་སུ་འདུ་ཤེས་\" (perception of a dharma) as the mind grasping at signs."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omitted \"དེ་ཉིད་\" (that itself)."
+     }
+    ],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "相",
+      "explanation": "Translates \"འདུ་ཤེས་\" (saṃjñā/notion) as \"相\" (nimitta/sign), confusing two distinct technical terms."
+     }
+    ]
+   }
+  },
+  {
+   "id": "6-25",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "若取法相，即著我、人、眾生、壽者。何以故？",
+      "explanation": "Added a large clause that is not present in the Tibetan segment."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "非法",
+      "explanation": "Mistranslates \"ཆོས་བདག་མེད་པར་\" (dharmas as selfless) as \"非法\" (non-dharma)."
+     },
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "相",
+      "explanation": "Translates \"འདུ་ཤེས་\" (saṃjñā) as \"相\" (nimitta), a major terminological conflation."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "非法",
+      "explanation": "Mistranslates \"ཆོས་བདག་མེད་པར་\" (dharmas as selfless) as \"非法\" (non-dharma)."
+     },
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "相",
+      "explanation": "Translates \"འདུ་ཤེས་\" (saṃjñā/notion) as \"相\" (nimitta/sign)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "6-39",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omitted \"བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།\" (The Lord said)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "6-44",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omitted \"ཕུང་པོ་\" (skandha/accumulation) in the first instance, leaving just \"福德\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "福德性",
+      "explanation": "Mistranslates \"ཕུང་པོ་\" (skandha/accumulation/heap) as \"福德性\" (nature of merit)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omitted \"དེ་ཉིད་\" (that itself)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "7-19",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "7-23",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "阿羅漢道",
+      "explanation": "Translates 'arhattva' (Arhatship/state of an Arhat) as 'path' (道) rather than the fruit or status."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "阿羅漢道",
+      "explanation": "Translates 'arhattva' (Arhatship/state of an Arhat) as 'path' (道) rather than the fruit or status."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-29",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "遠離貪欲的",
+      "explanation": "Redundant addition, as '離欲' already translates 'free from attachment' (འདོད་ཆགས་དང་བྲལ་བ་)."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the vocative 'Bhagavan' (བཅོམ་ལྡན་འདས་)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'although' (ལགས་ཀྱང༌།)."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "離欲",
+      "explanation": "Adds 'free from attachment' (離欲) inside the quote where the Tibetan merely says 'I am an Arhat' (བདག་ནི་དགྲ་བཅོམ་པའོ་)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-41",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the inclusive particle 'even / also' (ཡང་)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-61",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'recite' (འདོན་ཏམ་)."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "皆應供養",
+      "explanation": "Adds 'should make offerings to' which is not present in the Tibetan text."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits several actions listed in the Tibetan: 'write', 'keep', 'master', and 'properly pay attention to'."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "最上、第一、之法",
+      "explanation": "Heavily expands 'supreme marvel' (ངོ་མཚར་རབ་) into 'most supreme, foremost, rare dharma'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-73",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "如來沒有宣說過任何法",
+      "explanation": "Changes the syntax from 'the dharma spoken by Tathagata does not exist' to 'Tathagata did not speak any dharma'."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "如來無所說",
+      "explanation": "Translates 'the dharma spoken by Tathagata does not exist' as 'Tathagata has spoken nothing', omitting 'dharma' explicitly."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-78",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits the introductory question 'Why is that?' (དེ་ཅིའི་སླད་དུ་ཞེ་ན།)."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "須菩提！",
+      "explanation": "Adds the vocative 'Subhuti', which is absent in this Tibetan segment."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the vocative 'Bhagavan' (བཅོམ་ལྡན་འདས་)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'earth' (sa'i) modifying particles."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'earth' (sa'i) modifying particles."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "本身就不是微塵",
+      "explanation": "Translates 'Tathagata taught them as non-particles' to 'are themselves not particles', failing to attribute this teaching to the Tathagata."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-8",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Completely omits the action 'wiped away his tears' (མཆི་མ་ཕྱིས་ནས་)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-15",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the vocative 'Bhagavan' (བཅོམ་ལྡན་འདས་)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "得聞是經，信解、受持",
+      "explanation": "Summarizes and omits several explicit verbs from the Tibetan (write, keep, read, completely master, properly pay attention)."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "的特質",
+      "explanation": "Adds 'qualities/characteristics' (特質), which is not in the Tibetan."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-34",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-44",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "又說：",
+      "explanation": "Adds 'Moreover said' (又說), which does not exist in the source."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits 'by the Tathagata' (དེ་བཞིན་གཤེགས་པས་)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

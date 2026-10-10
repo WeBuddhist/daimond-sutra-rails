@@ -1,0 +1,14 @@
+{
+ "13-3": {
+  "translation": "The noble Mahāyāna sūtra entitled the Diamond Cutter perfection of wisdom is complete.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "the noble Mahāyāna sūtra entitled the Diamond Cutter perfection of wisdom",
+    "evidence": "Editor decision 2026-10-07: the closing title must match the opening title segment 0 exactly in form and capitalisation ('The Noble Mahāyāna Sūtra called the Diamond Cutter Perfection of Wisdom'); the locked rendering of ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ is now 'Diamond Cutter Perfection of Wisdom'. Style sheet policy 10: text titles are capitalised.",
+    "fix": "The Noble Mahāyāna Sūtra called the Diamond Cutter Perfection of Wisdom is complete."
+   }
+  ]
+ }
+}

@@ -1733,7 +1733,7 @@ That is why it is called 'idea of a thing, idea of a thing'. ^12-23
 
 ![[bo-vajracchedika#^12-24]]
 
-Also, Subhuti, think of a great awakening hero, a great hero. They might fill countless world realms with the seven precious things and give them as a gift. Now think of a son of a good family or a daughter of a good family. They might write down, take up, keep, read, master, or fully teach to others even just a four-line verse from this perfect wisdom, this perfection. They will make much more stored-up goodness from that. It will be countless and cannot be measured. ^12-24
+Also, Subhuti, think of a great awakening hero, a great hero. They might fill countless world realms with the seven precious things and give them as a gift. Now think of a son of a good family or a daughter of a good family. They might write down, take up, keep, read, master, or fully teach to others even just a four-line verse from this perfect wisdom, this perfection. They will make much more stored-up goodness than the hero who gave all those gifts. It will be countless and cannot be measured. ^12-24
 
 ![[bo-vajracchedika#^12-25]]
 

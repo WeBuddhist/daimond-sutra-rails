@@ -1,0 +1,281 @@
+{
+ "en": {
+  "stats": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.07,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 3,
+     "accuracy_errors": 2,
+     "error_free_pct": 92.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.15,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 6,
+     "accuracy_errors": 5,
+     "error_free_pct": 85.0
+    }
+   },
+   "zeroshot-dharmamitra": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.1,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 4,
+     "accuracy_errors": 4,
+     "error_free_pct": 92.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.65,
+     "blocking_per_100": 7.5,
+     "critical": 0,
+     "major": 3,
+     "minor": 11,
+     "accuracy_errors": 11,
+     "error_free_pct": 75.0
+    }
+   },
+   "governed": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.03,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 1,
+     "accuracy_errors": 1,
+     "error_free_pct": 97.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.15,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 6,
+     "accuracy_errors": 5,
+     "error_free_pct": 85.0
+    }
+   }
+  },
+  "head_to_head": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 2,
+     "equal": 38,
+     "governed_worse": 0
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 1,
+     "equal": 38,
+     "governed_worse": 1
+    }
+   },
+   "zeroshot-dharmamitra": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 2,
+     "equal": 38,
+     "governed_worse": 0
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 7,
+     "equal": 30,
+     "governed_worse": 3
+    }
+   }
+  },
+  "annotator_pair_agreement": {
+   "agree": 6,
+   "of": 24,
+   "pct": 25.0
+  }
+ },
+ "zh": {
+  "stats": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.23,
+     "blocking_per_100": 2.5,
+     "critical": 0,
+     "major": 1,
+     "minor": 4,
+     "accuracy_errors": 2,
+     "error_free_pct": 87.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 1.0,
+     "blocking_per_100": 17.5,
+     "critical": 0,
+     "major": 7,
+     "minor": 5,
+     "accuracy_errors": 8,
+     "error_free_pct": 75.0
+    }
+   },
+   "governed": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.03,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 1,
+     "accuracy_errors": 0,
+     "error_free_pct": 97.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.07,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 3,
+     "accuracy_errors": 3,
+     "error_free_pct": 92.5
+    }
+   },
+   "human-kumarajiva": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 1.75,
+     "blocking_per_100": 25.0,
+     "critical": 0,
+     "major": 10,
+     "minor": 20,
+     "accuracy_errors": 26,
+     "error_free_pct": 45.0
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 4.72,
+     "blocking_per_100": 77.5,
+     "critical": 0,
+     "major": 31,
+     "minor": 34,
+     "accuracy_errors": 61,
+     "error_free_pct": 15.0
+    }
+   }
+  },
+  "head_to_head": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 5,
+     "equal": 34,
+     "governed_worse": 1
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 10,
+     "equal": 29,
+     "governed_worse": 1
+    }
+   },
+   "human-kumarajiva": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 22,
+     "equal": 17,
+     "governed_worse": 1
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 34,
+     "equal": 6,
+     "governed_worse": 0
+    }
+   }
+  },
+  "annotator_pair_agreement": {
+   "agree": 47,
+   "of": 78,
+   "pct": 60.3
+  }
+ },
+ "hi": {
+  "stats": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.25,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 10,
+     "accuracy_errors": 5,
+     "error_free_pct": 80.0
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.3,
+     "blocking_per_100": 5.0,
+     "critical": 0,
+     "major": 2,
+     "minor": 2,
+     "accuracy_errors": 4,
+     "error_free_pct": 90.0
+    }
+   },
+   "governed": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.07,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 3,
+     "accuracy_errors": 1,
+     "error_free_pct": 92.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.15,
+     "blocking_per_100": 2.5,
+     "critical": 0,
+     "major": 1,
+     "minor": 1,
+     "accuracy_errors": 2,
+     "error_free_pct": 95.0
+    }
+   }
+  },
+  "head_to_head": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 8,
+     "equal": 29,
+     "governed_worse": 3
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 4,
+     "equal": 34,
+     "governed_worse": 2
+    }
+   }
+  },
+  "annotator_pair_agreement": {
+   "agree": 5,
+   "of": 12,
+   "pct": 41.7
+  }
+ }
+}

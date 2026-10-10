@@ -1,0 +1,384 @@
+{
+ "segments": [
+  {
+   "id": "8-47",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "所得法",
+      "explanation": "Omits 'taught' (བསྟན་པ) and 'also/moreover' (ཡང་) from the Tibetan source."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-57",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "受持、讀誦、廣為人說",
+      "explanation": "Omits several verbs corresponding to 'take' (ལེན་པ), 'keep' (འཆང་བ), 'master' (ཀུན་ཆུབ་པར་བྱེད་པ), and 'truthfully' (ཡང་དག་པར)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-72",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "八十四萬億那由他",
+      "explanation": "Omits 'one hundred thousand' (འབུམ་ཕྲག) from the number sequence."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "無量阿僧祇劫",
+      "explanation": "Omits 'and even more than countless' (ཡང་ཆེས་གྲངས་མེད་པ)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "於然燈佛前",
+      "explanation": "Omits 'Arhat, perfectly awakened Buddha' and 'and even more before'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "八百四千萬億",
+      "explanation": "Mistranslates the numbers (84 koti niyuta shatasahasra)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "悉皆供養承事",
+      "explanation": "Translates 'pleased' (མཉེས་པར་བྱས) loosely as 'offered and served'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-79",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "須菩提",
+      "explanation": "Omits the title 'Ayushman/venerable' (ཚེ་དང་ལྡན་པ)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "白佛言",
+      "explanation": "Translates Bhagavan as 'Buddha' and omits 'these words'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-95",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "——阿耨多羅三藐三菩提",
+      "explanation": "Adds a transliteration of the term alongside its translation, resulting in a tautology."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "證得阿耨多羅三藐三菩提",
+      "explanation": "Omits 'unsurpassable perfect' (བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི) before awakening."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "須菩提！",
+      "explanation": "Adds an address to Subhuti not present in the source."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits 'from Tathagata Dipamkara'."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "得阿耨多羅三藐三菩提",
+      "explanation": "Omits 'unsurpassable' and translates 'perfectly awakened' loosely as 'attained'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-98",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "汝於來世當得作佛，號釋迦牟尼",
+      "explanation": "Omits 'Brahmin boy', 'Tathagata', 'Arhat', and 'perfectly awakened'."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-111",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "菩薩亦如是",
+      "explanation": "Adds 'Bodhisattvas are likewise'."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "無量",
+      "explanation": "Adds 'immeasurable' to 'sentient beings'."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-18",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'The Bhagavan said'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-21",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "如來說是沙。」「",
+      "explanation": "Adds an irrelevant phrase about the Tathagata speaking of sand."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "世尊！",
+      "explanation": "Adds the address 'World-honored One'."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-11",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The logical connector 'therefore' (དེས་ན) is omitted in the translation."
+     }
+    ]
+   }
+  },
+  {
+   "id": "10-29",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The words 'manifest/true' (མངོན་པར) and 'such' (འདི་ལྟ་བུའི) are omitted."
+     }
+    ]
+   }
+  },
+  {
+   "id": "10-46",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "10-48",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The vocative 'Subhuti' (རབ་འབྱོར) is omitted from the translation."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "11-1",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "求我",
+      "explanation": "The Tibetan ཤེས་པ means to 'know' or 'recognize', not to 'seek' (求)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "11-17",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "The candidate omits the titles 'Arhat' (དགྲ་བཅོམ་པ) and 'Perfectly Awakened One' (ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "12-4",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The vocative 'Bhagavan' (བཅོམ་ལྡན་འདས) is omitted."
+     },
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "佛",
+      "explanation": "Translates Bhagavan (བཅོམ་ལྡན་འདས, World-Honored One) as Buddha (佛)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "12-12",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits 'The Bhagavan said' (བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ) and 'itself is a convention' (ཉིད་ནི་ཐ་སྙད་དེ)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "12-23",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The logical connector 'therefore' (དེས་ན) is omitted."
+     }
+    ],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "法相、法相",
+      "explanation": "The Tibetan འདུ་ཤེས (saṃjñā) means perception or notion (想), not characteristic (相)."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The logical connector 'therefore' (དེས་ན) is omitted."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The Tibetan repeats ཆོས་སུ་འདུ་ཤེས twice, but the candidate only translates it once."
+     },
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "法相",
+      "explanation": "The Tibetan འདུ་ཤེས (saṃjñā) means perception or notion (想), not characteristic (相)."
+     }
+    ]
+   }
+  }
+ ]
+}

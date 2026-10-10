@@ -1,0 +1,286 @@
+{
+ "segments": [
+  {
+   "id": "1-5",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits cross-legged posture, straightened body and mindfulness set in front; only putting away robes, washing feet and sitting remain."
+     }
+    ]
+   }
+  },
+  {
+   "id": "3-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the addressee, the venerable Subhuti."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-7",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-4",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "如來所說身相，即非身相",
+      "explanation": "'Perfection of marks' (mtshan phun sum tshogs pa) reduced to 'bodily marks'; the sense of perfection is lost."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-23",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "是諸眾生",
+      "explanation": "Referent is bodhisattva-mahasattvas, not beings in general."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "若心取相",
+      "explanation": "Tibetan has perceiving dharma (chos su 'du shes); 'grasping marks' loses 'dharma'."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Vocative Subhuti omitted."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "6-25",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-39",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits that the Bhagavan is the speaker."
+     }
+    ]
+   }
+  },
+  {
+   "id": "6-44",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "是福德即非福德性",
+      "explanation": "'Mass' (phung po) rendered as 'nature'; the heap/aggregate concept is lost."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "7-19",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "7-23",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "阿羅漢道",
+      "explanation": "Arhatship (dgra bcom pa nyid) is the fruit, not the path; 道 misrepresents the term."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "阿羅漢道",
+      "explanation": "Arhatship (dgra bcom pa nyid) is the fruit, not the path; 道 misrepresents the term."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-29",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "遠離貪欲的離欲阿羅漢",
+      "explanation": "Redundant: 'free from desire' appears twice."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "7-41",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "7-61",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Of seven practices (take up, write, hold, bear, read, understand, attend properly) only 受持讀誦 survives; writing, understanding and attending lost."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-73",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "7-78",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "須菩提！",
+      "explanation": "Subhuti is the speaker addressing the Bhagavan; this makes the Buddha address Subhuti, reversing speaker."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "'Why?' (de ci'i slad du zhe na) is omitted."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-8",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits that he wiped away his tears."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-15",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits writing, bearing, reading and fully understanding; listed practices are mostly lost."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "得聞是經，信解",
+      "explanation": "Hearing and faith-understanding are not in the Tibetan list."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-34",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-44",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'spoken by the Tathagata'; 又說 leaves the speaker unspecified."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}
