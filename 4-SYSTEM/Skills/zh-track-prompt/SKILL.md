@@ -24,7 +24,7 @@ Produces the prompt a model translates with for one Chinese track: `3-TRANSFORMA
 1. **Track folder** `3-TRANSFORMATIONS/Translations/zh-<descriptor>/` with `requirements.md` (with frontmatter), `termbase.md`, `audience.md`. If the folder or `requirements.md` frontmatter is missing, stop: the track must be commissioned first (see `About Translations.md`).
 2. **The translation runner** that sends the prompt (in the pilot vaults: `0-INBOX/kf-pilot/translate/gm_variant_translate.py`). Needed to read what the model actually receives: system instruction, task line, per-segment JSON fields, feedback strings. If the vault has no runner, the skill still builds the prompt (steps 1–6) and says that wiring and testing are not possible.
 3. **The termbase files** the runner locks from (e.g. `0-INBOX/kf-pilot/termbase/vajracchedika-zh/termbase.json`, `overrides.json`) and the track's `termbase.md`.
-4. **Registered commentary IDs and titles** from `4-SYSTEM/Guidelines/vault-annex.md` §Commentaries.
+4. **Registered commentary IDs and titles** from the vault annex §Commentaries (`4-SYSTEM/Guidelines/vault-annex.md`; `4-SYSTEM/Docs/vault-annex.md` in vaults that still use the older layout).
 5. **A style sample from the user** (a short passage in the target register) and its source. Never choose a sample yourself; ask.
 6. **The user's decisions** on authority order, fixed formulas, paradox or other set phrases, and sensitive term families. Ask for each; never assume.
 7. **Optional:** the track's current output (`work/<stem>-zh.jsonl`) to measure problems, and the usage ledger (`usage-ledger.jsonl`, `4-SYSTEM/scripts/usage-ledger/prices.json`) for cost estimates.
