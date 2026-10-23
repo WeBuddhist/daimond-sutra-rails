@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "bo-vajracchedika-en"
             }
-          },
-          {
-            "id": "584c6897c2ac1ea3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +197,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "584c6897c2ac1ea3",
+  "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
