@@ -152,15 +152,27 @@ def complies(rendering, text, lang=None):
 def locked_terms(variant, lang=None):
     """{segment id: [{bo, rendering, sense}]} from the term occurrences and the language's termbase.
     Editor formulas (`"formula": true`) carry their own occurrence list and are not in the occurrences
-    file; a sense with no rendering for `variant` is not locked for that variant."""
-    entries = json.loads(termbase_path(lang or LANG).read_text(encoding="utf-8"))
+    file; a sense with no rendering for `variant` is not locked for that variant.
+    zh: a term whose every occurrence in the segment lies inside a longer locked term is not locked
+    (ཆོས inside ཆོས་ཀྱི་སྤྱན 法眼, སངས་རྒྱས inside 正等覺者): its Chinese shares no characters with the longer
+    term, so locking it forces a wrong extra word (教法眼)."""
+    lang = lang or LANG
+    entries = json.loads(termbase_path(lang).read_text(encoding="utf-8"))
     tb = {e["bo"]: e for e in entries}
     occ = json.loads((TERM_RUN / "occurrences-reviewed.json").read_text(encoding="utf-8"))
     occ += [{"id": i, "bo": e["bo"]} for e in entries if e.get("formula") for i in e["occurrences"]]
+    seg_terms, seg_bo = {}, {}
+    if lang == "zh":
+        seg_bo = {s["id"]: s["bo"] for s in json.loads((TERM_RUN / "segments.json").read_text(encoding="utf-8"))}
+        for o in occ:
+            if o["bo"] in tb:
+                seg_terms.setdefault(o["id"], set()).add(o["bo"])
     out = {}
     for o in occ:
         e = tb.get(o["bo"])
         if not e:
+            continue
+        if seg_bo and nested_only(o["bo"], seg_terms[o["id"]], seg_bo.get(o["id"], "")):
             continue
         sense = next((s for s in e["senses"] if s["occurrences"] == "all" or o["id"] in s["occurrences"]),
                      e["senses"][0])
@@ -168,6 +180,14 @@ def locked_terms(variant, lang=None):
             continue
         out.setdefault(o["id"], []).append({"bo": o["bo"], "rendering": sense[variant], "sense": sense["sense"]})
     return out
+
+
+def nested_only(bo, terms, text):
+    """True when every occurrence of `bo` in the segment's Tibetan lies inside a longer locked term."""
+    rest = text
+    for t in sorted((t for t in terms if t != bo and bo in t), key=len, reverse=True):
+        rest = rest.replace(t, "|")
+    return rest != text and bo not in rest
 
 
 def make_batches(ids, segs, size, budget):

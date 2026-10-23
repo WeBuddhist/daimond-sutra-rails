@@ -72,7 +72,7 @@ Accuracy comes before fluency. But within accuracy, the translation must read as
 - **Step 3 ("只譯這一段")** is new. It targets commentary content leaking into the translation, which the fact-check flags as additions.
 - **"準確優先於流暢…不是照藏文語序逐字對應"** keeps the academic register from becoming translationese. Section 3 (style) will make this concrete with examples.
 - **註釋依據 (added at the user's request, 2026-10-23).** Names the three commentaries by the same IDs the script uses as keys in `commentaries`, so Gemini can tell the passages apart. Ties the Chinese reading to the English academic translation, which was grounded in the same three. Authority order: Tibetan > commentaries > English academic > other aids.
-- **Chinese commentary titles are working renderings (暫譯).** They follow the locked termbase (能斷金剛, 般若波羅蜜 without 多). Confirm or replace them before the prompt is final. BDRC numbers are person IDs (P…), as supplied by the user.
+- **Chinese commentary titles: approved by the user (2026-10-24)** as working renderings (暫譯). They follow the locked termbase (能斷金剛, 般若波羅蜜 without 多). BDRC numbers are person IDs (P…), as supplied by the user.
 - **Vasubandhu warning.** Gemini may know the Chinese T1511 commentary attributed to 天親 and conflate it with the Tibetan *Seven Points* commentary. The vault annex registers them as separate works (`vasubandhu-saptartha` vs `vasubandhu-lun`).
 - **"Do not blend readings"** follows the vault's no-consensus-flattening rule (CLAUDE.md §8) and keeps each sentence checkable against one commentary.
 - **Kept out of section 1 on purpose:** term rules (section 4), output JSON (section 5), detailed audience (already in `audience.md`; only the one line that changes translation choices is here).
@@ -148,6 +148,8 @@ Besides the Tibetan, each segment carries the fields below. They differ in relia
 >
 > 「賢友啊！我們有收穫；賢友啊！我們已善得——我們在尊者阿那律面前聽聞他講這至上的話語。」
 
+（出處：溫宗堃譯，〈阿那律相應．第九經〉，收錄於《從修行到解脫：巴利經典選集》。）
+
 ### 要從範例學的
 
 1. **敘述簡潔、交代清楚。**「曾有一時，……停留在……」「坐在一旁時，……對……說：」時間、地點、誰對誰說，都用現代句子直接交代；不用「之、乎、者、也」一類文言虛詞串句。
@@ -168,7 +170,7 @@ Besides the Tibetan, each segment carries the fields below. They differ in relia
 
 **Reference sample.** Below is a modern Chinese translation of a Buddhist scripture (from Pali, not this sutra). It shows the register this translation needs: modern written vernacular, clear sentences, but keeping the dignity and set phrases of scripture. **Learn its tone and syntax; do not borrow its vocabulary.** Names, titles and terms in this sutra always follow the termbase.
 
-*(sample: SN Anuruddha dialogue at Vesālī — see the Chinese above)*
+*(sample: see the Chinese above. Source: translated by 溫宗堃 (Wen Tzungkuen), Anuruddha Saṃyutta, sutta 9 (〈阿那律相應．第九經〉), in 《從修行到解脫：巴利經典選集》.)*
 
 **What to learn from the sample**
 
@@ -188,7 +190,7 @@ Besides the Tibetan, each segment carries the fields below. They differ in relia
 
 ### Design notes (section 3)
 
-- **Sample source still needed.** The user supplied the sample as an image (`style-sample.webp` in this folder). Record the translator and edition here before the prompt is used outside the team; if the prompt is published, check permission to quote it.
+- **Sample source (user, 2026-10-24):** 溫宗堃老師, 〈阿那律相應．第九經〉, in 《從修行到解脫：巴利經典選集》. The user wrote 那阿律相應; recorded as 阿那律相應, matching the name in the passage. The source line is in the prompt itself as attribution. The scanned page (`style-sample.webp`) is kept out of git because the repo is public; the quoted passage is in the pushed prompt files.
 - **Footnote numbers (125–127), the page marker [302] and the line 「尊者舍利弗在傍晚時從禪修狀態出起…（略）」 were removed** from the sample so Gemini does not copy them. The in-text 「…於受…於心…」 is kept because it is part of the sentence; the "do not imitate" list covers it.
 - **Why "learn tone, not vocabulary".** A few-shot sample from another text tends to leak its words. Words like 賢友 and 尊者 are not in the Diamond Sutra termbase and must not appear.
 - **Vocative — decided (user, 2026-10-23): 「須菩提！」, no 啊.** The current zh-academic output mixes 「須菩提，」 (≈28 times) and 「須菩提！」 (≈8 times); the new rule removes the comma form. Stated twice in the prompt (rule 5 and "do not imitate") on purpose, because the sample models 「賢友啊！」.
