@@ -199,6 +199,8 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/zh-prompt/zh-academic-prompt-draft.md",
+    "0-INBOX/zh-prompt",
     "conflict-files-obsidian-git.md",
     "3-TRANSFORMATIONS/Translations/en-academic/bo-vajracchedika-en.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -210,7 +212,6 @@
     "0-INBOX/kf-pilot/factcheck/zh-academic-a4/verdicts.json",
     "0-INBOX/kf-pilot/logs-judge.log",
     "0-INBOX/kf-pilot/reports/improvement-judged-vajracchedika.json",
-    "0-INBOX/kf-pilot/factcheck/pairwise_judge.py",
     "0-INBOX/kf-pilot/factcheck/children-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/calibration-hi/prompt.md",
@@ -233,7 +234,6 @@
     "0-INBOX/kf-pilot/factcheck/zh-children-a1/rendered/batch-10.md",
     "0-INBOX/kf-pilot/factcheck/zh-children-a1/rendered/batch-09.md",
     "0-INBOX/kf-pilot/factcheck/zh-children-a1/rendered/batch-08.md",
-    "0-INBOX/kf-pilot/factcheck/zh-children-a1/rendered/batch-07.md",
-    "0-INBOX/kf-pilot/factcheck/zh-children-a1/rendered/batch-06.md"
+    "0-INBOX/kf-pilot/factcheck/zh-children-a1/rendered/batch-07.md"
   ]
 }
