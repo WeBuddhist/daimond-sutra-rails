@@ -81,7 +81,94 @@ Accuracy comes before fluency. But within accuracy, the translation must read as
 
 ## 二、參考資料說明
 
-（待擬）
+每一段除了藏文，還附有下列資料。它們的可信度不同；意思有衝突時，依這個先後次序取捨：
+
+**藏文 ＞ 註釋 ＞ 英文學術譯本 ＞ 梵文 ＞ 鳩摩羅什譯本 ＞ 機器初稿**
+
+| 欄位 | 內容 | 用法 |
+|---|---|---|
+| `tibetan` | 本段藏文，唯一的底本 | 完整翻譯，一句不漏。 |
+| `heading` | `true` 表示本段是標題 | 譯成簡短的標題，照字面直譯，句末不加標點。 |
+| `commentaries` | 三部藏文註釋中對應本段的段落，以第一節的代號分開 | 用來確定文義。一段註釋可能涵蓋好幾段經文，只取與本段有關的部分。註釋本身不譯，註釋裡的解釋也不寫進譯文。太長的段落會被截斷，以「…」結尾；「(passage …, given above)」表示這段註釋已經在同一批前面的段落裡給過。 |
+| `english_academic` | 已經過事實核查的英文學術譯本 | 用來確認你對藏文的理解，以及每句話屬於哪一段。譯文從藏文譯出，不要從英文轉譯，也不要跟著英文的語序。 |
+| `sanskrit` | 對應的梵文，可能沒有 | 只用來確認術語指的是什麼。梵文本和藏文本是不同的傳本；兩者不同時，依藏文。 |
+| `kumarajiva` | 鳩摩羅什漢譯的對應文字 | 只用來參考通行譯名：人名、地名，以及詞彙表沒有列出的術語（見第四節第 10 條）。羅什本依據的傳本與藏文本不完全對應，**不能用來決定文義**。它的用詞也常和本譯本的鎖定譯名不同，例如羅什作「我相」，本譯本依藏文作「我想」。凡是詞彙表有規定的，一律依詞彙表。 |
+| `zero_shot` | 未經審查的中文機器初稿 | 可以參考措辭，但不要照抄句子。它的錯誤多半來自跟著梵文本或羅什本，而不是依藏文。 |
+| `locked_terms` | 本段必須使用的鎖定譯名 | 見第四節。 |
+
+### 修訂回饋
+
+如果訊息中附有事實核查（FACT-CHECK）找出的問題，或漏用鎖定術語（missed locked terms）的清單：從藏文重新翻譯該段，修正所列的問題，原本正確的部分保留不動。核查者建議的改法是方向，不必照抄措辭。
+
+### English mirror
+
+Besides the Tibetan, each segment carries the fields below. They differ in reliability; where they conflict, decide in this order:
+
+**Tibetan > commentaries > English academic > Sanskrit > Kumārajīva > machine draft**
+
+| Field | Content | Use |
+|---|---|---|
+| `tibetan` | The segment's Tibetan, the only source text | Translate all of it, every sentence. |
+| `heading` | `true` = the segment is a heading | Short, literal heading, no final punctuation. |
+| `commentaries` | Passages from the three Tibetan commentaries aligned to this segment, keyed by the IDs in section 1 | Settle the meaning. A passage may cover several segments: use only the part about this one. Do not translate the commentary or write its explanations into the translation. Long passages are cut off and end in "…"; "(passage …, given above)" means that passage was already given for an earlier segment in the same batch. |
+| `english_academic` | The fact-checked English academic translation | Confirm your reading of the Tibetan and which sentences belong to the segment. Translate from the Tibetan, not from the English, and do not follow English word order. |
+| `sanskrit` | The aligned Sanskrit, may be missing | Only to confirm what a term refers to. The Sanskrit is a different recension; where it differs, follow the Tibetan. |
+| `kumarajiva` | Kumārajīva's Chinese for the passage | Only for established renderings: names of people and places, and terms the termbase does not list (section 4, rule 10). His recension does not match the Tibetan exactly, so it **never decides the meaning**. His terms often differ from this translation's locked terms (e.g. his 我相 vs. our 我想 for the Tibetan). The termbase always wins. |
+| `zero_shot` | Unreviewed Chinese machine draft | May suggest wording; never copy its sentences. Its errors mostly come from following the Sanskrit or Kumārajīva instead of the Tibetan. |
+| `locked_terms` | Renderings this segment must use | See section 4. |
+
+**Revision feedback.** If the message includes FACT-CHECK issues or a list of missed locked terms: retranslate that segment from the Tibetan, fix the listed problems, and keep what was already correct. The checker's suggested fix is guidance, not required wording.
+
+### Design notes (section 2)
+
+- **The authority order comes from the pilot's findings.** In the blind comparison, the zero-shot's major errors came from following the Sanskrit or the Chinese tradition (相 for saṃjñā, adharma). The Hindi run rendered མནར་བ from the Sanskrit (paribhūta) where the Tibetan and commentaries mean "tormented". So the Sanskrit and Kumārajīva sit below the English academic translation, which was fact-checked against the commentaries (431/432 segments passed on the first check).
+- **Commentaries above the English** follows the user's section 1 decision.
+- **The truncation and "given above" explanations are new.** The script cuts passages at 2,500 characters and replaces repeats with `(passage N, given above)`. The current prompt never tells Gemini this, so it may treat a cut-off passage as complete.
+- **"Only the part about this segment"** pairs with section 1, rule 3. It targets commentary content leaking into the translation.
+- **Field names stay in English** because the script builds them; the table explains each in Chinese.
+- **The revision feedback text is still English in the script** (`fact_feedback()` and the missed-term retry in `run_batch()`). Section 2 tells Gemini what to do with it in Chinese. Translating those two strings is an optional step when the prompt is wired in.
+- **`heading`:** 14 of the 446 segments are headings. The old requirements said "標題：簡短直譯"; the rule now sits with the field it applies to.
+- **`kumarajiva` row widened (2026-10-23, while drafting section 4).** The zh style sheet (policies 4–5) makes Kumārajīva the first choice for terms the termbase does not cover, so the row now allows that, still below the termbase and never for meaning.
+
+---
+
+## 四、術語規則
+
+1. **鎖定譯名一定要用。** 每段的 `locked_terms` 列出本段出現的藏文詞（`tibetan`）和必須使用的譯名（`use`）。每一個都要用上，用字完全相同；不要為了通順而改用同義詞、縮寫或擴寫。
+2. **只用在對應的藏文詞上。** 鎖定譯名只用來翻譯清單上的那個藏文詞，而且只用於該處標明的義項。不要把它套到別的詞上，也不要因為字面相近就把它塞進固定詞語裡。
+3. **既定詞語不拆、不改。** 含「法」的既定詞語保持原樣：說法、法門、正法、法身、法眼、法衣、法性。即使其中的「法」是教法的意思，也不改成「教法」（例如絕不寫「教法眼」）。
+4. **一詞一譯，前後一致。** 同一個藏文詞的同一個義項，全經只用一種譯法；藏文拼寫不同（異體）也視為同一個詞。
+5. **ཆོས 的三個義項各用各的詞。** 教法義作「教法」；事物義作「法」或「諸法」；佛的功德義作「佛法」。單獨一個「法」字永遠不表示教法（第 3 條的既定詞語除外）。
+6. **想和相不可混用。** འདུ་ཤེས 作「想」（我想、眾生想、人想、壽者想），絕不作「我相」等；མཚན（佛的身相）作「相」，如「三十二相」；མཚན་མ 作「相狀」。
+7. **「諸」和「一切」照藏文。** 「諸」只用於藏文有 རྣམས 的地方，「一切」只用於 ཐམས་ཅད；藏文沒有的，不要自行加上。
+8. **佛的稱號、稱謂固定。** བཅོམ་ལྡན་འདས 一律作「世尊」，不要在敘述中改成「佛」；幾個稱號連用時，照藏文的順序，用頓號連接（如來、阿羅漢、正等覺者）。ཚེ་དང་ལྡན་པ 作「具壽」，放在名字前；藏文沒有尊稱的地方，只寫名字。
+9. **固定句式每次相同。** 「所謂X者，即非X，是名X」保持這個句式和悖論結構，三處的X用同一個譯名，不加解釋。「這是為什麼呢？」和「須菩提！」是鎖定的固定說法（見第三節）。
+10. **詞彙表沒有列出的詞。** 用中文佛典的通行譯名；如果鳩摩羅什譯本有對應的詞，而且意思和藏文相符，可以採用。不要自創新詞或新的音譯，不要在術語後面加解釋，同一批裡同一個詞用同一種譯法。
+11. **咒語不翻譯。** 照 `locked_terms` 給的音譯原樣抄寫，一字不改。
+12. **譯文中只有中文。** 數字用漢字（三十二相、七寶），不用阿拉伯數字；不夾梵文、藏文、拉丁字母或括號註明原文。
+
+### English mirror
+
+1. **Locked renderings are mandatory.** Each segment's `locked_terms` lists the Tibetan words in it (`tibetan`) and the rendering that must be used (`use`). Use every one, character for character; no synonyms, abbreviations or expansions for the sake of fluency.
+2. **Only for the matching Tibetan word.** A locked rendering translates only that Tibetan word, and only in the sense marked for that occurrence. Do not apply it to other words, and do not force it into a fixed expression because the characters look related.
+3. **Established compounds stay intact.** Compounds containing 法 stay as they are: 說法, 法門, 正法, 法身, 法眼, 法衣, 法性, even where 法 means "teaching" (never 「教法眼」).
+4. **One term, one rendering.** The same sense of the same Tibetan word has one rendering throughout; spelling variants count as the same word.
+5. **ཆོས has three senses, three words.** Teaching → 教法; phenomena → 法 / 諸法; qualities of a Buddha → 佛法. Bare 法 never means "teaching" (except in the compounds in rule 3).
+6. **想 vs 相.** འདུ་ཤེས → 想 (我想, 眾生想, 人想, 壽者想), never 我相 etc.; མཚན (a Buddha's mark) → 相, as in 三十二相; མཚན་མ → 相狀.
+7. **諸 and 一切 follow the Tibetan.** 諸 only where the Tibetan has རྣམས, 一切 only for ཐམས་ཅད; never add them otherwise.
+8. **Epithets and titles are fixed.** བཅོམ་ལྡན་འདས is always 世尊, not 佛, even in narration; a series of epithets keeps the Tibetan order, joined by 、 (如來、阿羅漢、正等覺者). ཚེ་དང་ལྡན་པ → 具壽 before the name; where the Tibetan has no title, just the name.
+9. **Fixed formulas are identical every time.** 「所謂X者，即非X，是名X」 keeps its frame and paradox, with the same rendering of X in all three slots and no explanation. 「這是為什麼呢？」 and 「須菩提！」 are locked formulas (see section 3).
+10. **Terms the termbase does not list.** Use the established Chinese Buddhist rendering; Kumārajīva's word may be used if it matches the Tibetan meaning. No invented words or new transliterations, no explanations after a term, and one rendering per term within the batch.
+11. **Mantras are not translated.** Copy the transliteration given in `locked_terms` exactly.
+12. **Chinese only.** Numbers in Chinese characters (三十二相, 七寶), no Arabic digits; no Sanskrit, Tibetan, Latin letters or bracketed source words.
+
+### Design notes (section 4)
+
+- **Sources.** Rules 3, 5–8, 10–12 come from the zh termbase style sheet (`0-INBOX/kf-pilot/termbase/vajracchedika-zh/style-sheet.md`, policies 3, 5, 7, 9–13, 22) and the user's override decisions (`overrides.json`). They were written for the termbase agents; the translation prompt never stated them until now. The termbase still governs: the prompt only explains how to apply it.
+- **Rules 2 and 3 target a real failure.** In zh-academic segment 9-11 a term retry forced 教法 into 法眼 and created a major error. The Hindi run had the same pattern (locked བདག → आत्मन् used for the pronoun "I").
+- **Rule 1 vs. the old FORMAT line.** The script's English output rules say "inflect for number or grammar only". Chinese has no inflection, so rule 1 says "character for character" instead; 諸 is governed by rule 7, not by inflection.
+- **Rules 7 and 8 cannot be checked by the compliance script** (it only checks that a locked rendering is present). They rely on the prompt and on the Claude fact-check.
+- **Left out on purpose:** the full core-terms table (Gemini receives the locked terms per segment, so repeating 278 terms would only add length); children's-register policies (18–20), which belong in the children's prompt.
 
 ---
 
@@ -147,4 +234,4 @@ Accuracy comes before fluency. But within accuracy, the translation must read as
 - **Footnote numbers (125–127), the page marker [302] and the line 「尊者舍利弗在傍晚時從禪修狀態出起…（略）」 were removed** from the sample so Gemini does not copy them. The in-text 「…於受…於心…」 is kept because it is part of the sentence; the "do not imitate" list covers it.
 - **Why "learn tone, not vocabulary".** A few-shot sample from another text tends to leak its words. Words like 賢友 and 尊者 are not in the Diamond Sutra termbase and must not appear.
 - **Vocative — decided (user, 2026-10-23): 「須菩提！」, no 啊.** The current zh-academic output mixes 「須菩提，」 (≈28 times) and 「須菩提！」 (≈8 times); the new rule removes the comma form. Stated twice in the prompt (rule 5 and "do not imitate") on purpose, because the sample models 「賢友啊！」.
-- **"Why is that?" — decided (user, 2026-10-23): 「這是為什麼呢？」.** The current output mixes 為什麼呢？ and 這是為什麼呢？. The Tibetan anchor ཅིའི་ཕྱིར་ཞེ་ན is named so Gemini can tell which sentences the rule covers. Consider adding both decisions to `zh-academic/termbase.md` as locked formulas so the termbase-compliance script checks them; the prompt alone only asks.
+- **"Why is that?" — decided (user, 2026-10-23): 「這是為什麼呢？」.** The current output mixes 為什麼呢？ and 這是為什麼呢？. The Tibetan anchor ཅིའི་ཕྱིར་ཞེ་ན is named so Gemini can tell which sentences the rule covers. Both are now locked in the termbase (2026-10-23, academic only): T279 ཅིའི་ཕྱིར་ཞེ་ན → 這是為什麼呢？ (31 segments), T280 རབ་འབྱོར། vocative → 須菩提！ (140 segments). `gm_variant_translate.py` checks formulas ending in ！/？ with their punctuation. Against the current zh-academic output: 31/31 and 81/140 segments do not yet comply.

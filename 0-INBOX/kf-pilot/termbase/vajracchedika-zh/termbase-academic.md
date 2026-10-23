@@ -296,3 +296,5 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ |  | essence of the Diamond Cutter | **能斷金剛心要** | 1 | english-pivot | Parts 能斷金剛 (policy 15) + 心要 for essence; child follows English heart. |
 | སྙིང་པོ |  | essence of the text | **心要** | 1 | new | Essence of the text: 心要 is established; Gemini 心咒 reads it as a mantra, not followed. |
 | ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ | ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā | mantra (ye dharmā verse) | **曳達摩係都缽囉婆嚩係都儞帝灑多他揭多係嚩達帝灑者喻儞囉馱曳嚩儞摩訶室羅摩拏曳莎訶** | 1 | new | Policy 22: mantra transliterated, no K text aligns; flag for review. Child 咒語. |
+| ཅིའི་ཕྱིར་ཞེ་ན | tat kasya hetoḥ | rhetorical question 'why is that?' | **這是為什麼呢？** | 31 | editor | user 2026-10-23: one fixed modern wording, never 何以故 / 為什麼呢？ / 那是為什麼呢？; academic only. |
+| རབ་འབྱོར། (vocative) | subhūte | Subhūti addressed (vocative) | **須菩提！** | 140 | editor | user 2026-10-23: vocative always 須菩提！ (full-width exclamation mark), no 啊, no comma; academic only. |
