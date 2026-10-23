@@ -8,13 +8,13 @@ date: 2026-10-23
 
 ## Question
 
-Does the new Chinese-only prompt (`../zh-academic-system-prompt.md`) give better first-pass Chinese academic translations than the current prompt, without losing accuracy?
+Does the new Chinese-only prompt (now `3-TRANSFORMATIONS/Translations/zh-academic/requirements.md`, built from `../zh-academic-prompt-draft.md`) give better first-pass Chinese academic translations than the current prompt, without losing accuracy?
 
 ## The two arms
 
 | | A — current | B — new |
 |---|---|---|
-| System instruction | `zh-academic/requirements.md` (Chinese, ~1,150 chars with FORMAT) + English `FORMAT` | `zh-academic-system-prompt.md` (Chinese only, ~4,970 chars) |
+| System instruction | `requirements-v1.md` in this folder (the track's requirements before 2026-10-24) + English `FORMAT`, ~1,150 chars | `zh-academic/requirements.md` without its frontmatter (Chinese only, ~5,000 chars) |
 | User-message header | English task line + English field notes, as in `gm_variant_translate.py` | 「請把下列《金剛經》藏文段落譯成中文學術版。各欄位的用法見系統指示。只回傳 JSON。」 |
 | Everything else | identical | identical |
 
@@ -87,5 +87,5 @@ Then the Claude fact-check on both arms. Without `--go`, `ab_test.py` only print
 ## Open issues before running
 
 - **API key.** `GEMINI_API_KEY` is not set in this Windows shell. The pilot ran Gemini scripts through `zsh -ic` on the Mac, where the key lives in `~/.zshrc`. Either run there or set the key here.
-- **Termbase bug at 9-11, affecting both arms equally.** The occurrence list locks ཆོས "teaching" → 教法 separately inside ཆོས་ཀྱི་སྤྱན (法眼). That is what produced 「教法眼」 in the pilot. Arm B's rule 3 forbids 教法眼, so a correct B translation will show as "missing 教法" at 9-11. Read that miss as correct. A zh-only fix (exclude the ཆོས inside 法眼 from the lock) is a separate decision.
-- **The paradox example sentence in section 4** is Claude's rendering, not yet approved.
+- ~~Termbase bug at 9-11~~ — fixed 2026-10-24 for Chinese only: a term whose every occurrence lies inside a longer locked term (ཆོས in ཆོས་ཀྱི་སྤྱན 法眼, སངས་རྒྱས in 正等覺者, འཇིག་རྟེན in 世界) is no longer locked (`nested_only()` in `gm_variant_translate.py`). English and Hindi locks are unchanged.
+- ~~Paradox example sentence~~ — approved by the user, 2026-10-24.

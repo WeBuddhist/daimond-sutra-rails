@@ -2,7 +2,8 @@
 title: zh-academic Gemini prompt — working draft
 status: draft
 target_model: Gemini 3.1 Pro
-replaces: zh-academic/requirements.md + FORMAT + task line in 0-INBOX/kf-pilot/translate/gm_variant_translate.py
+builds: 3-TRANSFORMATIONS/Translations/zh-academic/requirements.md (Chinese parts only; run assemble.py after editing)
+replaced: the previous requirements.md + English FORMAT + English task line (kept as ab-test/requirements-v1.md)
 ---
 
 # zh-academic 翻譯提示詞（草稿）
@@ -232,7 +233,7 @@ Besides the Tibetan, each segment carries the fields below. They differ in relia
    - X (དེ་དག) མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར → 「是因為如來說那（些）並不是X。」; if the Tibetan has no "the Tathāgata taught", do not add it (e.g. 「全都不是法」).
    - དེས་ན་ X ཞེས་བྱའོ → 「所以才稱為X。」
    Keep the paradox; do not resolve or explain it. X follows the Tibetan at that point (full or short form), in its termbase rendering, without quotation marks. Never the classical 即非 / 是名 / 故名, nor 名為 / 稱之為 or other variants. The formula is often split over two segments: each segment translates only its own part.
-   Example (7-37, 7-38): 「這是為什麼呢？須菩提！所謂佛土莊嚴、佛土莊嚴，是因為如來說那些莊嚴並不是莊嚴。」 / 「所以才稱為佛土莊嚴。」
+   Example (7-37, 7-38; approved by the user 2026-10-24): 「這是為什麼呢？須菩提！所謂佛土莊嚴、佛土莊嚴，是因為如來說那些莊嚴並不是莊嚴。」 / 「所以才稱為佛土莊嚴。」
 10. **Terms the termbase does not list.** Use the established Chinese Buddhist rendering; Kumārajīva's word may be used if it matches the Tibetan meaning. No invented words or new transliterations, no explanations after a term, and one rendering per term within the batch.
 11. **Mantras are not translated.** Copy the transliteration given in `locked_terms` exactly.
 12. **Chinese only.** Numbers in Chinese characters (三十二相, 七寶), no Arabic digits; no Sanskrit, Tibetan, Latin letters or bracketed source words.
@@ -242,7 +243,7 @@ Besides the Tibetan, each segment carries the fields below. They differ in relia
 - **Sources.** Rules 3, 5–8, 10–12 come from the zh termbase style sheet (`0-INBOX/kf-pilot/termbase/vajracchedika-zh/style-sheet.md`, policies 3, 5, 7, 9–13, 22) and the user's override decisions (`overrides.json`). They were written for the termbase agents; the translation prompt never stated them until now. The termbase still governs: the prompt only explains how to apply it.
 - **Rules 2 and 3 target a real failure.** In zh-academic segment 9-11 a term retry forced 教法 into 法眼 and created a major error. The Hindi run had the same pattern (locked བདག → आत्मन् used for the pronoun "I").
 - **Rule 1 vs. the old FORMAT line.** The script's English output rules say "inflect for number or grammar only". Chinese has no inflection, so rule 1 says "character for character" instead; 諸 is governed by rule 7, not by inflection.
-- **Rule 9 paradox frame — decided (user, 2026-10-23): modern vernacular, not Kumārajīva's 所謂X者，即非X，是名X.** This overrides style-sheet policy 17 for the academic register. Wording proposed by Claude: 所謂X，／是因為如來說那（些）並不是X。／所以才稱為X。 It parallels the children's frame (所謂X，其實不是X，所以才叫X) at an adult register. Evidence: the current zh-academic output renders the "therefore it is called X" part (28 segments) eight different ways (是名 6, 稱為 5, 因此名為 5, 因此稱為 4, 因此稱之為 3, …) and part B in classical form (彼等莊嚴為無, 說為非流). No quotation marks around X because the formula sits inside the Buddha's speech, which spans segments; nested 『』 would have to track quote state across segments. The example sentence is Claude's rendering, not an approved translation: confirm it before the prompt is final. These wordings could also be locked like T279/T280 (the C part is detectable in the Tibetan as དེས་ན་ … ཞེས་བྱའོ).
+- **Rule 9 paradox frame — decided (user, 2026-10-23): modern vernacular, not Kumārajīva's 所謂X者，即非X，是名X.** This overrides style-sheet policy 17 for the academic register. Wording proposed by Claude: 所謂X，／是因為如來說那（些）並不是X。／所以才稱為X。 It parallels the children's frame (所謂X，其實不是X，所以才叫X) at an adult register. Evidence: the current zh-academic output renders the "therefore it is called X" part (28 segments) eight different ways (是名 6, 稱為 5, 因此名為 5, 因此稱為 4, 因此稱之為 3, …) and part B in classical form (彼等莊嚴為無, 說為非流). No quotation marks around X because the formula sits inside the Buddha's speech, which spans segments; nested 『』 would have to track quote state across segments. The example sentence was approved by the user on 2026-10-24. These wordings could also be locked like T279/T280 (the C part is detectable in the Tibetan as དེས་ན་ … ཞེས་བྱའོ).
 - **Rules 7 and 8 cannot be checked by the compliance script** (it only checks that a locked rendering is present). They rely on the prompt and on the Claude fact-check.
 - **Left out on purpose (section 4):** the full core-terms table (Gemini receives the locked terms per segment, so repeating 278 terms would only add length); children's-register policies (18–20), which belong in the children's prompt.
 ---

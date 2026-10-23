@@ -199,6 +199,11 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "0-INBOX/zh-prompt/RUN-FULL.md",
+    "0-INBOX/zh-prompt/make_feedback.py",
+    "0-INBOX/zh-prompt/sedZEpaY6",
+    "0-INBOX/zh-prompt/ab-test/requirements-v1.md",
+    "0-INBOX/zh-prompt/assemble.py",
     "0-INBOX/zh-prompt/style-sample.webp",
     "0-INBOX/zh-prompt/ab-test/PLAN.md",
     "0-INBOX/zh-prompt/ab-test/ab_test.py",
@@ -212,9 +217,6 @@
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
-    "0-INBOX/kf-pilot/reports/improvement-pairs-after-revert-vajracchedika.json",
-    "0-INBOX/kf-pilot/factcheck/children-a4/verdicts.json",
     "0-INBOX/kf-pilot/factcheck/children-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/calibration-hi/prompt.md",
@@ -233,7 +235,6 @@
     "3-TRANSFORMATIONS/Translations/hi-children/bo-vajracchedika-hi.md",
     "3-TRANSFORMATIONS/Translations/hi-children/audience.md",
     "3-TRANSFORMATIONS/Translations/hi-children/requirements.md",
-    "0-INBOX/kf-pilot/factcheck/zh-children-a1/rendered/batch-11.md",
-    "0-INBOX/kf-pilot/factcheck/zh-children-a1/rendered/batch-10.md"
+    "0-INBOX/kf-pilot/factcheck/zh-children-a1/rendered/batch-11.md"
   ]
 }

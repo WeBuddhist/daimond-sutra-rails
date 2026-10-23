@@ -95,6 +95,14 @@ Output rules:
 - For every term listed under a segment's "locked terms", use that exact rendering (inflect for number or grammar only).
 - No notes, brackets or explanations inside the translation."""
 
+# Task line for a self-contained Chinese system prompt (--system): the prompt itself explains every field.
+ZH_TASK = {"academic": "請把下列《金剛經》藏文段落譯成中文學術版。各欄位的用法見系統指示。只回傳 JSON。\n\n"}
+
+
+def strip_frontmatter(text):
+    return re.sub(r"\A---\n.*?\n---\n", "", text, flags=re.S).lstrip()
+
+
 SCHEMA = {"type": "object", "properties": {"blocks": {"type": "array", "items": {
     "type": "object", "properties": {"id": {"type": "string"}, "translation": {"type": "string"}},
     "required": ["id", "translation"]}}}, "required": ["blocks"]}
@@ -242,7 +250,9 @@ def payload(batch, segs, ctx, terms, max_comm, base=None, refs=None):
 def translate_batch(batch, a, key, system, segs, ctx, terms, work, variant, attempt=1, feedback=None):
     body_items = payload(batch, segs, ctx, terms, a.max_comm, a.base_rows, a.refs)
     label = LANGS[LANG]["label"]
-    if a.base_rows is not None:
+    if a.system and LANG == "zh" and variant in ZH_TASK:
+        user = ZH_TASK[variant]
+    elif a.base_rows is not None:
         user = (f"Retell these segments of the Diamond Sutra in {label} for the {variant} register. Take the meaning "
                 f"from `academic_translation` (checked against the Tibetan); write new, simple wording. Return JSON only.\n\n")
     else:
@@ -375,6 +385,8 @@ def main():
     p.add_argument("--feedback", help="fact-check feedback JSON {id: {translation, issues}}; translates only those ids")
     p.add_argument("--attempt", type=int, default=1)
     p.add_argument("--from-track", help="build from another track's translation (e.g. academic) instead of the sources")
+    p.add_argument("--system", help="use this file (frontmatter removed) as the whole system instruction, without the "
+                                    "English output rules; zh academic also gets a Chinese task line")
     a = p.parse_args()
 
     global LANG
@@ -387,7 +399,8 @@ def main():
     key = os.environ.get(gm.KEY_ENV, "")
     if not key:
         sys.exit("GEMINI_API_KEY is not set (run via: zsh -ic 'python3 ...')")
-    system = (track / "requirements.md").read_text(encoding="utf-8") + FORMAT
+    system = (strip_frontmatter(pathlib.Path(a.system).read_text(encoding="utf-8")) if a.system
+              else (track / "requirements.md").read_text(encoding="utf-8") + FORMAT)
     ctx = build_context(ROOT)
     terms = locked_terms(a.variant)
     done = latest(work)

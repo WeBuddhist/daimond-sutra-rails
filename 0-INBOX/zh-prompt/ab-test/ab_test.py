@@ -34,16 +34,16 @@ tr.LANG = "zh"
 TRACK = VAULT / "3-TRANSFORMATIONS/Translations/zh-academic"
 SEGMENTS = json.loads((HERE.parent / "ab-test-segments.json").read_text(encoding="utf-8"))["all"]
 
-ARMS = {
-    "A": {"system": lambda: (TRACK / "requirements.md").read_text(encoding="utf-8") + tr.FORMAT,
+ARMS = {  # A = the prompt as it was before 2026-10-24 (requirements-v1.md); B = the track's current requirements.md
+    "A": {"system": lambda: (HERE / "requirements-v1.md").read_text(encoding="utf-8") + tr.FORMAT,
           "user": ("Translate these segments of the Tibetan Diamond Sutra into modern written Chinese in Traditional "
                    "characters (academic register). Return JSON only.\n\n"
                    "Each segment also carries `english_academic` (the approved, fact-checked English academic "
                    "translation — use it to confirm the meaning, not as the text to translate), `kumarajiva` "
                    "(Kumārajīva's classical Chinese, for established terminology only) and `zero_shot` (an unreviewed "
                    "machine draft in the target language). Translate from the Tibetan.\n\n")},
-    "B": {"system": lambda: (HERE.parent / "zh-academic-system-prompt.md").read_text(encoding="utf-8"),
-          "user": "請把下列《金剛經》藏文段落譯成中文學術版。各欄位的用法見系統指示。只回傳 JSON。\n\n"},
+    "B": {"system": lambda: tr.strip_frontmatter((TRACK / "requirements.md").read_text(encoding="utf-8")),
+          "user": tr.ZH_TASK["academic"]},
 }
 # USD per 1M tokens and mean tokens per zh-academic call, from the usage ledger (121 calls, 2026-10-07)
 PRICE_IN, PRICE_OUT = 2.00, 12.00
