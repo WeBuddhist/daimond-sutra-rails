@@ -206,11 +206,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
   "active": "584c6897c2ac1ea3",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "0-INBOX/kf-pilot/reports/improvement-pairs-after-revert-vajracchedika.json",
     "0-INBOX/kf-pilot/factcheck/children-a4/verdicts.json",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a4/verdicts.json",
@@ -218,10 +223,6 @@
     "0-INBOX/kf-pilot/reports/improvement-judged-vajracchedika.json",
     "0-INBOX/kf-pilot/factcheck/pairwise_judge.py",
     "0-INBOX/kf-pilot/reports/improvement-pairs-vajracchedika.json",
-    "0-INBOX/kf-pilot/factcheck/zh-academic-a4/agents/batch-01.json",
-    "0-INBOX/kf-pilot/factcheck/children-a4/agents/batch-01.json",
-    "0-INBOX/kf-pilot/factcheck/calibration-hi/result.json",
-    "0-INBOX/kf-pilot/factcheck/calibration-zh/result.json",
     "0-INBOX/kf-pilot/factcheck/children-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/calibration-hi/prompt.md",
