@@ -2249,7 +2249,7 @@
     "sense": "array of Buddha-fields",
     "occurrences": "all",
     "academic": "佛土莊嚴",
-    "children": "佛國的佈置",
+    "children": "佛國的布置",
     "basis": "kumarajiva",
     "reason": "K 莊嚴佛土 turned into a noun (Gemini 佛土莊嚴); child phrase follows the English arrangement.",
     "en_academic": "array of Buddha-fields",
@@ -7389,9 +7389,9 @@
     "sense": "rhetorical question 'why is that?'",
     "occurrences": "all",
     "academic": "這是為什麼呢？",
-    "children": null,
+    "children": "為什麼呢？",
     "basis": "editor",
-    "reason": "user 2026-10-23: one fixed modern wording, never 何以故 / 為什麼呢？ / 那是為什麼呢？; academic only."
+    "reason": "user 2026-10-23: academic 這是為什麼呢？, one fixed wording (never 何以故, 為什麼呢？ or 那是為什麼呢？). user 2026-10-24: children 為什麼呢？, one fixed wording."
    }
   ]
  },
@@ -7548,9 +7548,9 @@
     "sense": "Subhūti addressed (vocative)",
     "occurrences": "all",
     "academic": "須菩提！",
-    "children": null,
+    "children": "須菩提！",
     "basis": "editor",
-    "reason": "user 2026-10-23: vocative always 須菩提！ (full-width exclamation mark), no 啊, no comma; academic only."
+    "reason": "user 2026-10-23: academic 須菩提！ (full-width exclamation mark, no 啊, no comma). user 2026-10-24: children the same."
    }
   ]
  }

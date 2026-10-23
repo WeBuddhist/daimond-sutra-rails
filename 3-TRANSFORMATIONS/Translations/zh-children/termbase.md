@@ -66,7 +66,7 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | བདག་ཏུ་འཛིན་པ | ātmagrāha | grasping at a self | **抓著「我」不放** | 6 | style-sheet | Style sheet pattern X-grāha: 執著於X, with 我 and 執著 from core table. |
 | ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ | catuṣpādikā gāthā | four-line verse | **四句的短詩** | 6 | style-sheet | K 四句偈, lexicalised list; child form spells out four-line verse without 偈. |
 | འབྲས་བུ | phala | result of practice | **修行成果** | 6 | kumarajiva | K 須陀洹果; policy 20 X-phala is X果; child form follows English result of practice. |
-| ཞིང་བཀོད་པ | kṣetravyūha | array of Buddha-fields | **佛國的佈置** | 6 | kumarajiva | K 莊嚴佛土 turned into a noun (Gemini 佛土莊嚴); child phrase follows the English arrangement. |
+| ཞིང་བཀོད་པ | kṣetravyūha | array of Buddha-fields | **佛國的布置** | 6 | kumarajiva | K 莊嚴佛土 turned into a noun (Gemini 佛土莊嚴); child phrase follows the English arrangement. |
 | ཞིང | kṣetra | Buddha-field | **佛的國土** | 6 | kumarajiva | K 莊嚴佛土 attests 佛土 for kṣetra; child spells out Buddha-land. |
 | འཇིག་རྟེན | loka | world | **世間** | 6 | style-sheet | Core: loka kept apart from 世界. |
 | འཕགས་པ | ārya | noble | **高尚的** | 5 | new | Established 聖 as in the title 《聖…》 (policy 15); child gives plain "noble". |
@@ -296,3 +296,5 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | རྡོ་རྗེ་གཅོད་པའི་སྙིང་པོ |  | essence of the Diamond Cutter | **能斷金剛的核心** | 1 | english-pivot | Parts 能斷金剛 (policy 15) + 心要 for essence; child follows English heart. |
 | སྙིང་པོ |  | essence of the text | **核心** | 1 | new | Essence of the text: 心要 is established; Gemini 心咒 reads it as a mantra, not followed. |
 | ཡེ་དྷརྨ་ཧེ་ཏུ་པྲ་བྷ་ཝ་ཧེ་ཏུནྟེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་ཝཾ་བཱ་དཱི་མི་ཧཱ་ཤྲ་མ་ཎ་ཡེ་སྭཱཧཱ | ye dharmā hetuprabhavā hetun teṣāṃ tathāgato hyavadat, teṣāñca yo nirodha evaṃvādī mihāśramaṇaye svāhā | mantra (ye dharmā verse) | **咒語** | 1 | new | Policy 22: mantra transliterated, no K text aligns; flag for review. Child 咒語. |
+| ཅིའི་ཕྱིར་ཞེ་ན | tat kasya hetoḥ | rhetorical question 'why is that?' | **為什麼呢？** | 31 | editor | user 2026-10-23: academic 這是為什麼呢？, one fixed wording (never 何以故, 為什麼呢？ or 那是為什麼呢？). user 2026-10-24: children 為什麼呢？, one fixed wording. |
+| རབ་འབྱོར། (vocative) | subhūte | Subhūti addressed (vocative) | **須菩提！** | 140 | editor | user 2026-10-23: academic 須菩提！ (full-width exclamation mark, no 啊, no comma). user 2026-10-24: children the same. |

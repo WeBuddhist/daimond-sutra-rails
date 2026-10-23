@@ -96,7 +96,8 @@ Output rules:
 - No notes, brackets or explanations inside the translation."""
 
 # Task line for a self-contained Chinese system prompt (--system): the prompt itself explains every field.
-ZH_TASK = {"academic": "請把下列《金剛經》藏文段落譯成中文學術版。各欄位的用法見系統指示。只回傳 JSON。\n\n"}
+ZH_TASK = {"academic": "請把下列《金剛經》藏文段落譯成中文學術版。各欄位的用法見系統指示。只回傳 JSON。\n\n",
+           "children": "請把下列《金剛經》段落改寫成給 8 到 12 歲孩子的中文兒童版。各欄位的用法見系統指示。只回傳 JSON。\n\n"}
 
 
 def strip_frontmatter(text):
@@ -219,6 +220,7 @@ def payload(batch, segs, ctx, terms, max_comm, base=None, refs=None):
     if base is not None:
         return [{"id": i, "heading": segs[i]["heading"], "tibetan": segs[i]["bo"],
                  "academic_translation": base[i]["translation"],
+                 **{k: table[i] for k, table in (refs or {}).items() if i in table},
                  "locked_terms": [{"tibetan": t["bo"], "use": t["rendering"]} for t in terms.get(i, [])]}
                 for i in batch]
     for i in batch:
@@ -386,7 +388,8 @@ def main():
     p.add_argument("--attempt", type=int, default=1)
     p.add_argument("--from-track", help="build from another track's translation (e.g. academic) instead of the sources")
     p.add_argument("--system", help="use this file (frontmatter removed) as the whole system instruction, without the "
-                                    "English output rules; zh academic also gets a Chinese task line")
+                                    "English output rules; zh gets a Chinese task line, and zh children also the "
+                                    "English children's version as `english_children`")
     a = p.parse_args()
 
     global LANG
@@ -413,6 +416,8 @@ def main():
                   "zero_shot": zero_shot_lines(LANG)}
         if LANG == "zh":
             a.refs["kumarajiva"] = kumarajiva_lines()
+    elif LANG == "zh" and a.system:  # zh children v2: the approved English children's version shows how to simplify
+        a.refs = {"english_children": {i: r["translation"] for i, r in latest(work_file("en", a.variant)).items()}}
     a.feedback_data = json.loads(pathlib.Path(a.feedback).read_text(encoding="utf-8")) if a.feedback else None
     if a.feedback_data:
         todo = list(a.feedback_data)

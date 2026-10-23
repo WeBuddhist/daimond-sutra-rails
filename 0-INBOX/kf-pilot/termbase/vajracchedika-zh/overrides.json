@@ -12,6 +12,12 @@
    "field": "academic",
    "value": "相狀想",
    "reason": "user 2026-10-07: follows T113 sign = 相狀"
+  },
+  {
+   "term_id": "T049",
+   "field": "children",
+   "value": "佛國的布置",
+   "reason": "user 2026-10-24: one spelling 布置 (Ministry of Education standard), matching བཀོད་པ (vyūha) 布置; was 佛國的佈置"
   }
  ],
  "decisions": [
@@ -55,7 +61,8 @@
     "11-16",
     "12-22"
    ],
-   "reason": "user 2026-10-23: one fixed modern wording, never 何以故 / 為什麼呢？ / 那是為什麼呢？; academic only."
+   "reason": "user 2026-10-23: academic 這是為什麼呢？, one fixed wording (never 何以故, 為什麼呢？ or 那是為什麼呢？). user 2026-10-24: children 為什麼呢？, one fixed wording.",
+   "children": "為什麼呢？"
   },
   {
    "term_id": "T280",
@@ -203,8 +210,9 @@
     "12-22",
     "12-24"
    ],
-   "reason": "user 2026-10-23: vocative always 須菩提！ (full-width exclamation mark), no 啊, no comma; academic only."
+   "reason": "user 2026-10-23: academic 須菩提！ (full-width exclamation mark, no 啊, no comma). user 2026-10-24: children the same.",
+   "children": "須菩提！"
   }
  ],
- "added_terms_note": "Editor formulas added by hand to termbase.json and the termbase markdown (academic only). gemini_review.py does not apply these: re-add them if it regenerates termbase.json."
+ "added_terms_note": "Editor formulas added by hand to termbase.json and the termbase markdown (academic and children's). gemini_review.py does not apply these: re-add them if it regenerates termbase.json."
 }
