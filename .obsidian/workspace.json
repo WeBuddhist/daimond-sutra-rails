@@ -199,6 +199,14 @@
   },
   "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/zh-track-prompt/references/worked-example-diamond-sutra.md",
+    "4-SYSTEM/Skills/zh-track-prompt/templates/draft-skeleton.md",
+    "4-SYSTEM/Skills/zh-track-prompt/scripts/make_feedback.py",
+    "4-SYSTEM/Skills/zh-track-prompt/references",
+    "4-SYSTEM/Skills/zh-track-prompt/templates",
+    "4-SYSTEM/Skills/zh-track-prompt/scripts/assemble.py",
+    "4-SYSTEM/Skills/zh-track-prompt/scripts",
+    "4-SYSTEM/Skills/zh-track-prompt",
     "0-INBOX/zh-prompt/sedeFq7Aj",
     "0-INBOX/zh-prompt/ab-test/requirements-children-v1.md",
     "0-INBOX/zh-prompt/sedvcJwzK",
@@ -206,18 +214,11 @@
     "0-INBOX/kf-pilot/translate/sedLGlTJ8",
     "0-INBOX/zh-prompt/zh-children-prompt-draft.md",
     "0-INBOX/zh-prompt/RUN-FULL.md",
-    "0-INBOX/zh-prompt/make_feedback.py",
-    "0-INBOX/zh-prompt/sedZEpaY6",
     "0-INBOX/zh-prompt/ab-test/requirements-v1.md",
-    "0-INBOX/zh-prompt/assemble.py",
     "0-INBOX/zh-prompt/style-sample.webp",
     "0-INBOX/zh-prompt/ab-test/PLAN.md",
-    "0-INBOX/zh-prompt/ab-test/ab_test.py",
-    "0-INBOX/zh-prompt/ab-test",
-    "0-INBOX/zh-prompt/ab-test-segments.json",
     "0-INBOX/zh-prompt/zh-academic-system-prompt.md",
     "0-INBOX/zh-prompt/zh-academic-prompt-draft.md",
-    "0-INBOX/zh-prompt",
     "conflict-files-obsidian-git.md",
     "3-TRANSFORMATIONS/Translations/en-academic/bo-vajracchedika-en.md",
     "0-INBOX/kf-pilot/factcheck/children-a4/rendered/batch-01.md",
@@ -234,7 +235,6 @@
     "0-INBOX/kf-pilot/factcheck/hi-children-a1/rendered/batch-04.md",
     "0-INBOX/kf-pilot/factcheck/hi-children-a1/rendered/batch-03.md",
     "0-INBOX/kf-pilot/factcheck/hi-children-a1/rendered/batch-02.md",
-    "0-INBOX/kf-pilot/factcheck/hi-children-a1/rendered/batch-01.md",
-    "3-TRANSFORMATIONS/Translations/hi-children/bo-vajracchedika-hi.md"
+    "0-INBOX/kf-pilot/factcheck/hi-children-a1/rendered/batch-01.md"
   ]
 }
