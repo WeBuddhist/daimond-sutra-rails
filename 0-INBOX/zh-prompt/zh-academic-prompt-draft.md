@@ -142,7 +142,12 @@ Besides the Tibetan, each segment carries the fields below. They differ in relia
 6. **想和相不可混用。** འདུ་ཤེས 作「想」（我想、眾生想、人想、壽者想），絕不作「我相」等；མཚན（佛的身相）作「相」，如「三十二相」；མཚན་མ 作「相狀」。
 7. **「諸」和「一切」照藏文。** 「諸」只用於藏文有 རྣམས 的地方，「一切」只用於 ཐམས་ཅད；藏文沒有的，不要自行加上。
 8. **佛的稱號、稱謂固定。** བཅོམ་ལྡན་འདས 一律作「世尊」，不要在敘述中改成「佛」；幾個稱號連用時，照藏文的順序，用頓號連接（如來、阿羅漢、正等覺者）。ཚེ་དང་ལྡན་པ 作「具壽」，放在名字前；藏文沒有尊稱的地方，只寫名字。
-9. **固定句式每次相同。** 「所謂X者，即非X，是名X」保持這個句式和悖論結構，三處的X用同一個譯名，不加解釋。「這是為什麼呢？」和「須菩提！」是鎖定的固定說法（見第三節）。
+9. **固定句式每次相同。** 「這是為什麼呢？」和「須菩提！」是鎖定的固定說法（見第三節）。經中「所謂X…並不是X…所以才稱為X」的悖論句式，用以下固定的現代說法，藏文的三個部分一一對應：
+   - X ཞེས་བྱ་བ་ནི → 「所謂X，」；藏文把X說兩次時，譯作「所謂X、X，」。
+   - X（དེ་དག）མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར → 「是因為如來說那（些）並不是X。」；藏文沒有「如來說」時就不加，例如「全都不是法」。
+   - དེས་ན་ X ཞེས་བྱའོ → 「所以才稱為X。」
+   保持悖論，不替它下結論，也不加解釋。X 照藏文在該處的用詞（全稱或簡稱），用詞彙表的譯名，不加引號。不用文言的「即非」「是名」「故名」，也不用「名為」「稱之為」等其他說法。這個句式常常分在兩段：每段只譯自己那一部分。
+   例（7-37、7-38）：「這是為什麼呢？須菩提！所謂佛土莊嚴、佛土莊嚴，是因為如來說那些莊嚴並不是莊嚴。」／「所以才稱為佛土莊嚴。」
 10. **詞彙表沒有列出的詞。** 用中文佛典的通行譯名；如果鳩摩羅什譯本有對應的詞，而且意思和藏文相符，可以採用。不要自創新詞或新的音譯，不要在術語後面加解釋，同一批裡同一個詞用同一種譯法。
 11. **咒語不翻譯。** 照 `locked_terms` 給的音譯原樣抄寫，一字不改。
 12. **譯文中只有中文。** 數字用漢字（三十二相、七寶），不用阿拉伯數字；不夾梵文、藏文、拉丁字母或括號註明原文。
@@ -157,7 +162,12 @@ Besides the Tibetan, each segment carries the fields below. They differ in relia
 6. **想 vs 相.** འདུ་ཤེས → 想 (我想, 眾生想, 人想, 壽者想), never 我相 etc.; མཚན (a Buddha's mark) → 相, as in 三十二相; མཚན་མ → 相狀.
 7. **諸 and 一切 follow the Tibetan.** 諸 only where the Tibetan has རྣམས, 一切 only for ཐམས་ཅད; never add them otherwise.
 8. **Epithets and titles are fixed.** བཅོམ་ལྡན་འདས is always 世尊, not 佛, even in narration; a series of epithets keeps the Tibetan order, joined by 、 (如來、阿羅漢、正等覺者). ཚེ་དང་ལྡན་པ → 具壽 before the name; where the Tibetan has no title, just the name.
-9. **Fixed formulas are identical every time.** 「所謂X者，即非X，是名X」 keeps its frame and paradox, with the same rendering of X in all three slots and no explanation. 「這是為什麼呢？」 and 「須菩提！」 are locked formulas (see section 3).
+9. **Fixed formulas are identical every time.** 「這是為什麼呢？」 and 「須菩提！」 are locked formulas (see section 3). The sutra's paradox "what is called X … is not X … therefore it is called X" uses one fixed modern wording, each Tibetan part mapped to one Chinese part:
+   - X ཞེས་བྱ་བ་ནི → 「所謂X，」; where the Tibetan says X twice → 「所謂X、X，」.
+   - X (དེ་དག) མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར → 「是因為如來說那（些）並不是X。」; if the Tibetan has no "the Tathāgata taught", do not add it (e.g. 「全都不是法」).
+   - དེས་ན་ X ཞེས་བྱའོ → 「所以才稱為X。」
+   Keep the paradox; do not resolve or explain it. X follows the Tibetan at that point (full or short form), in its termbase rendering, without quotation marks. Never the classical 即非 / 是名 / 故名, nor 名為 / 稱之為 or other variants. The formula is often split over two segments: each segment translates only its own part.
+   Example (7-37, 7-38): 「這是為什麼呢？須菩提！所謂佛土莊嚴、佛土莊嚴，是因為如來說那些莊嚴並不是莊嚴。」 / 「所以才稱為佛土莊嚴。」
 10. **Terms the termbase does not list.** Use the established Chinese Buddhist rendering; Kumārajīva's word may be used if it matches the Tibetan meaning. No invented words or new transliterations, no explanations after a term, and one rendering per term within the batch.
 11. **Mantras are not translated.** Copy the transliteration given in `locked_terms` exactly.
 12. **Chinese only.** Numbers in Chinese characters (三十二相, 七寶), no Arabic digits; no Sanskrit, Tibetan, Latin letters or bracketed source words.
@@ -167,8 +177,9 @@ Besides the Tibetan, each segment carries the fields below. They differ in relia
 - **Sources.** Rules 3, 5–8, 10–12 come from the zh termbase style sheet (`0-INBOX/kf-pilot/termbase/vajracchedika-zh/style-sheet.md`, policies 3, 5, 7, 9–13, 22) and the user's override decisions (`overrides.json`). They were written for the termbase agents; the translation prompt never stated them until now. The termbase still governs: the prompt only explains how to apply it.
 - **Rules 2 and 3 target a real failure.** In zh-academic segment 9-11 a term retry forced 教法 into 法眼 and created a major error. The Hindi run had the same pattern (locked བདག → आत्मन् used for the pronoun "I").
 - **Rule 1 vs. the old FORMAT line.** The script's English output rules say "inflect for number or grammar only". Chinese has no inflection, so rule 1 says "character for character" instead; 諸 is governed by rule 7, not by inflection.
+- **Rule 9 paradox frame — decided (user, 2026-10-23): modern vernacular, not Kumārajīva's 所謂X者，即非X，是名X.** This overrides style-sheet policy 17 for the academic register. Wording proposed by Claude: 所謂X，／是因為如來說那（些）並不是X。／所以才稱為X。 It parallels the children's frame (所謂X，其實不是X，所以才叫X) at an adult register. Evidence: the current zh-academic output renders the "therefore it is called X" part (28 segments) eight different ways (是名 6, 稱為 5, 因此名為 5, 因此稱為 4, 因此稱之為 3, …) and part B in classical form (彼等莊嚴為無, 說為非流). No quotation marks around X because the formula sits inside the Buddha's speech, which spans segments; nested 『』 would have to track quote state across segments. The example sentence is Claude's rendering, not an approved translation: confirm it before the prompt is final. These wordings could also be locked like T279/T280 (the C part is detectable in the Tibetan as དེས་ན་ … ཞེས་བྱའོ).
 - **Rules 7 and 8 cannot be checked by the compliance script** (it only checks that a locked rendering is present). They rely on the prompt and on the Claude fact-check.
-- **Left out on purpose:** the full core-terms table (Gemini receives the locked terms per segment, so repeating 278 terms would only add length); children's-register policies (18–20), which belong in the children's prompt.
+- **Left out on purpose (section 4):** the full core-terms table (Gemini receives the locked terms per segment, so repeating 278 terms would only add length); children's-register policies (18–20), which belong in the children's prompt.
 
 ---
 
@@ -235,3 +246,40 @@ Besides the Tibetan, each segment carries the fields below. They differ in relia
 - **Why "learn tone, not vocabulary".** A few-shot sample from another text tends to leak its words. Words like 賢友 and 尊者 are not in the Diamond Sutra termbase and must not appear.
 - **Vocative — decided (user, 2026-10-23): 「須菩提！」, no 啊.** The current zh-academic output mixes 「須菩提，」 (≈28 times) and 「須菩提！」 (≈8 times); the new rule removes the comma form. Stated twice in the prompt (rule 5 and "do not imitate") on purpose, because the sample models 「賢友啊！」.
 - **"Why is that?" — decided (user, 2026-10-23): 「這是為什麼呢？」.** The current output mixes 為什麼呢？ and 這是為什麼呢？. The Tibetan anchor ཅིའི་ཕྱིར་ཞེ་ན is named so Gemini can tell which sentences the rule covers. Both are now locked in the termbase (2026-10-23, academic only): T279 ཅིའི་ཕྱིར་ཞེ་ན → 這是為什麼呢？ (31 segments), T280 རབ་འབྱོར། vocative → 須菩提！ (140 segments). `gm_variant_translate.py` checks formulas ending in ！/？ with their punctuation. Against the current zh-academic output: 31/31 and 81/140 segments do not yet comply.
+
+---
+
+## 五、輸出格式
+
+只回傳 JSON，不要有任何其他文字：
+
+```json
+{"blocks": [{"id": "<段號>", "translation": "<譯文>"}]}
+```
+
+1. `id` 照收到的段號原樣填寫。收到哪些段就回傳哪些段，一段不多、一段不少，順序不變。
+2. `translation` 只放這一段的中文譯文：不放藏文、梵文、段號或標題記號，也不放註解、括號說明或你的思考過程。每一段都要有譯文，不可留空。
+3. 引號跟著藏文的說話走：說話從哪裡開始，就在那裡加「；藏文用 ཞེས、ཅེས 等標出說話結束的地方，才加」。一段話跨好幾段時，中間各段不要自行補上或關閉引號。說話裡再引述，用『』。
+4. 標題段（`heading` 為 `true`）只譯標題本身，句末不加標點。
+5. 全文用繁體字和全形標點；不用簡體字、日文字形或半形標點。
+
+### English mirror
+
+Return JSON only, with no other text:
+
+```json
+{"blocks": [{"id": "<segment id>", "translation": "<translation>"}]}
+```
+
+1. Copy each `id` exactly as received. Return exactly the segments you received, no more and no fewer, in the same order.
+2. `translation` holds only this segment's Chinese translation: no Tibetan, Sanskrit, segment numbers or heading markers, and no notes, bracketed explanations or reasoning. Every segment must have a translation; never leave one empty.
+3. Quotation marks follow the speech in the Tibetan: open 「 where the speech begins; close 」 only where the Tibetan marks its end with ཞེས, ཅེས etc. When speech runs over several segments, do not open or close quotation marks in the segments in between. Quotation inside speech uses 『』.
+4. A heading segment (`heading` is `true`): the heading only, no final punctuation.
+5. Traditional characters and full-width punctuation throughout; no simplified or Japanese character forms, no half-width punctuation.
+
+### Design notes (section 5)
+
+- **Replaces the script's English `FORMAT` block.** The JSON keys stay in English because the script reads them, and the API call already enforces the structure through `responseSchema`; rules 1–2 are about content (no extra or missing ids, nothing but the translation).
+- **Dropped from `FORMAT`:** "inflect for number or grammar only" (does not apply to Chinese; see section 4, rule 1) and "the Sanskrit, commentary and drafts are aids, not text to translate" (now section 1 and section 2).
+- **Rule 3 (quotation marks) is new.** In the current zh-academic output, 61 of 446 segments have unbalanced 「」. Most are legitimate (speech spanning segments), but nothing checks that quotes balance across the whole text, and a batch of six segments cannot see where speech opened in an earlier batch. A later script check (open/close balance per chapter) would catch errors this rule cannot prevent.
+- **"不放…你的思考過程"** guards against reasoning text leaking into the `translation` field, which the fact-check would count as an addition.
