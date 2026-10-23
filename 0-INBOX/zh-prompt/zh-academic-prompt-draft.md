@@ -76,3 +76,75 @@ Accuracy comes before fluency. But within accuracy, the translation must read as
 - **Vasubandhu warning.** Gemini may know the Chinese T1511 commentary attributed to 天親 and conflate it with the Tibetan *Seven Points* commentary. The vault annex registers them as separate works (`vasubandhu-saptartha` vs `vasubandhu-lun`).
 - **"Do not blend readings"** follows the vault's no-consensus-flattening rule (CLAUDE.md §8) and keeps each sentence checkable against one commentary.
 - **Kept out of section 1 on purpose:** term rules (section 4), output JSON (section 5), detailed audience (already in `audience.md`; only the one line that changes translation choices is here).
+
+---
+
+## 二、參考資料說明
+
+（待擬）
+
+---
+
+## 三、語域與文體
+
+### 參考範例
+
+下面是一段現代中文佛典譯文（譯自巴利文，不是本經）。它示範本譯本要的語域：白話書面語，句子清楚，但保留佛典的莊重和慣用套語。**只學它的語氣和句法，不要搬用它的詞彙**：本經的人名、稱謂、術語一律依詞彙表。
+
+> 曾有一時，尊者阿那律和尊者舍利弗停留在毘舍離城的菴婆婆離園。
+>
+> 坐在一旁時，尊者舍利弗對尊者阿那律說：「賢友阿那律啊！你的諸根明淨，貌顏清淨、皎潔！尊者阿那律現在常常過著何種生活？」
+>
+> 「賢友啊！我現在常常過著心安住在四念住的生活。哪四個呢？」
+>
+> 「賢友啊！在此，我於身隨觀身而住…於受…於心…於法隨觀法而住，精勤、正知、具念，滅除對世間的貪愛與憂傷。賢友啊！我現在常常過著心安住在這四念住的生活。」
+>
+> 「賢友啊！諸漏已盡、梵行已立、應作已作、捨諸重擔、逮得己利、盡諸有結、依正智而解脫的阿羅漢比丘，也常常過著心安住在這四念住的生活。」
+>
+> 「賢友啊！我們有收穫；賢友啊！我們已善得——我們在尊者阿那律面前聽聞他講這至上的話語。」
+
+### 要從範例學的
+
+1. **敘述簡潔、交代清楚。**「曾有一時，……停留在……」「坐在一旁時，……對……說：」時間、地點、誰對誰說，都用現代句子直接交代；不用「之、乎、者、也」一類文言虛詞串句。
+2. **白話作骨架，佛典用語作內容。** 句子的骨架是現代白話（在、對、現在、常常、過著、我們）；術語和固定說法保留佛典用語（諸根、正知、隨觀）。不要把術語改寫成解釋性的白話，也不要把白話句子改寫成文言。
+3. **問句用現代語氣。** 如「哪四個呢？」。經中自問自答、問「為什麼」的句子（藏文 ཅིའི་ཕྱིར་ཞེ་ན），一律譯作「這是為什麼呢？」，每次完全相同；不用「何以故」，也不用「為什麼呢？」等其他說法。
+4. **成串的定型套語保持簡短整齊。** 像「諸漏已盡、梵行已立、應作已作」這樣並列的四字句，用頓號連接，不拆成長句。經中反覆出現的套語，每次用完全相同的譯法。
+5. **對話用「」，對話裡再引述用『』。** 呼喚對方的稱呼放在句首，自成一個停頓。呼喚須菩提時，一律作「須菩提！」。
+6. **全形標點**：，。、；：！？「」『』——
+
+### 範例中不要模仿的
+
+- **省略號「…」。** 範例為了節略而省去重複的文字；本經的重複一律完整譯出，一個字也不省。
+- **註腳號碼、頁碼標記、「（略）」。** 譯文中不加任何註記。
+- **範例的專有詞彙**（賢友、尊者、念住、阿羅漢比丘等）。本經的稱謂和術語依詞彙表。
+- **呼語後的「啊」。** 本經呼喚須菩提時，一律作「須菩提！」（後接全形驚嘆號），不加「啊」，也不用逗號。
+
+### English mirror
+
+**Reference sample.** Below is a modern Chinese translation of a Buddhist scripture (from Pali, not this sutra). It shows the register this translation needs: modern written vernacular, clear sentences, but keeping the dignity and set phrases of scripture. **Learn its tone and syntax; do not borrow its vocabulary.** Names, titles and terms in this sutra always follow the termbase.
+
+*(sample: SN Anuruddha dialogue at Vesālī — see the Chinese above)*
+
+**What to learn from the sample**
+
+1. **Concise, explicit narration.** Time, place and who speaks to whom are stated in plain modern sentences; no classical particles (之、乎、者、也) to link clauses.
+2. **Vernacular frame, scriptural content.** The sentence frame is modern vernacular; technical terms and set phrases keep their scriptural wording. Do not paraphrase terms into explanations, and do not turn vernacular sentences into classical Chinese.
+3. **Questions in modern form**, e.g. 哪四個呢？. The sutra's recurring rhetorical "why is that?" (Tibetan ཅིའི་ཕྱིར་ཞེ་ན) is always 「這是為什麼呢？」, identical every time; never 何以故, never 為什麼呢？ or another variant.
+4. **Strings of set formulas stay short and parallel.** Four-character items joined by 、, not unpacked into long sentences. A recurring formula is translated identically every time.
+5. **Speech in 「」, quotation inside speech in 『』.** A vocative opens the sentence as its own pause. Subhūti is always addressed as 「須菩提！」.
+6. **Full-width punctuation.**
+
+**Do not imitate**
+
+- **The ellipsis 「…」.** The sample abbreviates repetitions; this sutra's repetitions are translated in full.
+- **Footnote numbers, page markers, 「（略）」.** No annotations in the translation.
+- **The sample's vocabulary** (賢友, 尊者, 念住, 阿羅漢比丘 …). Titles and terms follow the termbase.
+- **「啊」 after a vocative.** Address Subhūti as 「須菩提！」 every time: full-width exclamation mark, no 啊, no comma.
+
+### Design notes (section 3)
+
+- **Sample source still needed.** The user supplied the sample as an image (`style-sample.webp` in this folder). Record the translator and edition here before the prompt is used outside the team; if the prompt is published, check permission to quote it.
+- **Footnote numbers (125–127), the page marker [302] and the line 「尊者舍利弗在傍晚時從禪修狀態出起…（略）」 were removed** from the sample so Gemini does not copy them. The in-text 「…於受…於心…」 is kept because it is part of the sentence; the "do not imitate" list covers it.
+- **Why "learn tone, not vocabulary".** A few-shot sample from another text tends to leak its words. Words like 賢友 and 尊者 are not in the Diamond Sutra termbase and must not appear.
+- **Vocative — decided (user, 2026-10-23): 「須菩提！」, no 啊.** The current zh-academic output mixes 「須菩提，」 (≈28 times) and 「須菩提！」 (≈8 times); the new rule removes the comma form. Stated twice in the prompt (rule 5 and "do not imitate") on purpose, because the sample models 「賢友啊！」.
+- **"Why is that?" — decided (user, 2026-10-23): 「這是為什麼呢？」.** The current output mixes 為什麼呢？ and 這是為什麼呢？. The Tibetan anchor ཅིའི་ཕྱིར་ཞེ་ན is named so Gemini can tell which sentences the rule covers. Consider adding both decisions to `zh-academic/termbase.md` as locked formulas so the termbase-compliance script checks them; the prompt alone only asks.

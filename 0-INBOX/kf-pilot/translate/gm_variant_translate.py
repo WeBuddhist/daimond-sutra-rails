@@ -109,10 +109,13 @@ def words(s):
 def complies(rendering, text, lang=None):
     """Loose check that the locked rendering is used.
     en: every content word occurs (prefix match allows plural/inflection);
-    zh: the rendering occurs as a substring (punctuation ignored);
+    zh: the rendering occurs as a substring (punctuation ignored), except that a formula ending in
+        ！ or ？ (須菩提！, 這是為什麼呢？) must occur with that punctuation;
     hi: every word of two or more letters occurs, allowing a changed final vowel sign (inflection)."""
     lang = lang or LANG
     if lang == "zh":
+        if rendering.endswith(("！", "？")):
+            return re.sub(r"\s", "", rendering) in re.sub(r"\s", "", text)
         strip = lambda x: re.sub(r"[\s，。、；：「」『』《》（）·・—…！？,.;:()\"'-]", "", x)  # noqa: E731
         return strip(rendering) in strip(text)
     if lang == "hi":
@@ -147,9 +150,13 @@ def complies(rendering, text, lang=None):
 
 
 def locked_terms(variant, lang=None):
-    """{segment id: [{bo, rendering, sense}]} from the term occurrences and the language's termbase."""
-    tb = {e["bo"]: e for e in json.loads(termbase_path(lang or LANG).read_text(encoding="utf-8"))}
+    """{segment id: [{bo, rendering, sense}]} from the term occurrences and the language's termbase.
+    Editor formulas (`"formula": true`) carry their own occurrence list and are not in the occurrences
+    file; a sense with no rendering for `variant` is not locked for that variant."""
+    entries = json.loads(termbase_path(lang or LANG).read_text(encoding="utf-8"))
+    tb = {e["bo"]: e for e in entries}
     occ = json.loads((TERM_RUN / "occurrences-reviewed.json").read_text(encoding="utf-8"))
+    occ += [{"id": i, "bo": e["bo"]} for e in entries if e.get("formula") for i in e["occurrences"]]
     out = {}
     for o in occ:
         e = tb.get(o["bo"])
@@ -157,6 +164,8 @@ def locked_terms(variant, lang=None):
             continue
         sense = next((s for s in e["senses"] if s["occurrences"] == "all" or o["id"] in s["occurrences"]),
                      e["senses"][0])
+        if not sense.get(variant):
+            continue
         out.setdefault(o["id"], []).append({"bo": o["bo"], "rendering": sense[variant], "sense": sense["sense"]})
     return out
 
