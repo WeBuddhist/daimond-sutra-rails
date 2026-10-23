@@ -1,13 +1,13 @@
 ---
-title: Full run — Chinese academic translation with the v2 prompt
+title: Full run — Chinese academic and children's versions with the v2 prompts
 status: ready
 date: 2026-10-24
 for: the pipeline operator (Mac with GEMINI_API_KEY in ~/.zshrc)
 ---
 
-# Full run — zh-academic with the v2 prompt
+# Full run — zh-academic and zh-children with the v2 prompts
 
-Regenerates the whole Chinese academic translation of the Diamond Sutra with the new Chinese prompt, then fact-checks and fixes it the same way as the pilot (Gemini translates, Claude checks; keep-best rule for minor fixes).
+Regenerates the whole Chinese academic translation of the Diamond Sutra with the new Chinese prompt, then the children's version from it, and fact-checks and fixes each the same way as the pilot (Gemini translates, Claude checks; keep-best rule for minor fixes).
 
 Run every command **from the vault root**. Gemini scripts go through `zsh -ic` so the key in `~/.zshrc` is loaded.
 
@@ -20,8 +20,11 @@ Run every command **from the vault root**. Gemini scripts go through `zsh -ic` s
 | Two locked formulas, academic only: T279 ཅིའི་ཕྱིར་ཞེ་ན → 這是為什麼呢？ (31 segments), T280 vocative རབ་འབྱོར → 須菩提！ (140). Checked with their punctuation | `0-INBOX/kf-pilot/termbase/vajracchedika-zh/termbase.json`, `zh-academic/termbase.md` |
 | zh only: a term that occurs only inside a longer locked term is no longer locked (ཆོས in 法眼, སངས་རྒྱས in 正等覺者, འཇིག་རྟེན in 世界). This removes the lock that produced 「教法眼」 at 9-11. English and Hindi locks are unchanged | `nested_only()` in `gm_variant_translate.py` |
 | Helper to build the fix-request file from a fact-check run | `0-INBOX/zh-prompt/make_feedback.py` |
+| Children's prompt v2, Chinese only (story-telling sample, meaning from the academic version, academic paradox frame, output rules) | `3-TRANSFORMATIONS/Translations/zh-children/requirements.md` (built from `0-INBOX/zh-prompt/zh-children-prompt-draft.md` by `assemble.py children`; old version `0-INBOX/zh-prompt/ab-test/requirements-children-v1.md`) |
+| Children's locks: 須菩提！ and 為什麼呢？; the 想 family and 佛土莊嚴 / 莊嚴 use the academic renderings (16 senses) | `termbase.json`, `zh-children/termbase.md` |
+| Children's run with `--system` also passes the approved English children's version as `english_children` | `gm_variant_translate.py` |
 
-**Do not run the children's version yet.** Its prompt is being revised next; this guide will get a children's section when it is ready.
+**Order:** academic first (steps 1–6), then children's (steps 7–10). The children's version takes its meaning from the finished v2 academic translation, so do not start step 7 until step 6 is done.
 
 ## Step 0 — Pull
 
@@ -97,14 +100,64 @@ zsh -ic 'python3 0-INBOX/kf-pilot/translate/gm_variant_translate.py --variant ac
 - Leave `status: draft` in the translation's frontmatter; a specialist sets `complete`.
 - Add a "zh-academic v2" line to `0-INBOX/kf-pilot/STATE.md`, commit and push.
 
+## Step 7 — Archive the v1 children's output
+
+```
+mkdir -p 3-TRANSFORMATIONS/Translations/zh-children/work/archive-v1 0-INBOX/kf-pilot/factcheck/archive-zh-children-v1
+git mv 3-TRANSFORMATIONS/Translations/zh-children/work/bo-vajracchedika-zh.jsonl 3-TRANSFORMATIONS/Translations/zh-children/work/termbase-compliance.json 3-TRANSFORMATIONS/Translations/zh-children/work/archive-v1/
+cp 3-TRANSFORMATIONS/Translations/zh-children/bo-vajracchedika-zh.md 3-TRANSFORMATIONS/Translations/zh-children/work/archive-v1/
+git mv 0-INBOX/kf-pilot/factcheck/zh-children-a1 0-INBOX/kf-pilot/factcheck/zh-children-a2 0-INBOX/kf-pilot/factcheck/archive-zh-children-v1/
+git commit -m "zh-children: archive v1 before the v2 run"
+```
+
+## Step 8 — Write the children's version from the v2 academic translation
+
+```
+zsh -ic 'python3 0-INBOX/kf-pilot/translate/gm_variant_translate.py --variant children --lang zh --from-track academic --system 3-TRANSFORMATIONS/Translations/zh-children/requirements.md'
+```
+
+75 batches, about $4. Each segment gets the Tibetan, the v2 academic translation, the English children's version and the children's locks. Resumable; missed locks get one automatic retry; renders `zh-children/bo-vajracchedika-zh.md` at the end.
+
+## Step 9 — Claude children's fact-check, fixes, re-check
+
+```
+python3 0-INBOX/kf-pilot/factcheck/prep.py --variant children --lang zh --attempt 1
+```
+
+Run the Claude Sonnet agents over `zh-children-a1/batches/` with `0-INBOX/kf-pilot/factcheck/prompts/factcheck-children-lang.md`, check each output, then `check.py --merge 0-INBOX/kf-pilot/factcheck/zh-children-a1` (about $3).
+
+Fix round, as in step 5 but with the children's options:
+
+```
+python3 0-INBOX/zh-prompt/make_feedback.py 0-INBOX/kf-pilot/factcheck/zh-children-a1
+zsh -ic 'python3 0-INBOX/kf-pilot/translate/gm_variant_translate.py --variant children --lang zh --from-track academic --system 3-TRANSFORMATIONS/Translations/zh-children/requirements.md --feedback 0-INBOX/kf-pilot/factcheck/zh-children-a1/feedback-all.json --attempt 2'
+python3 0-INBOX/kf-pilot/factcheck/prep.py --variant children --lang zh --attempt 2 --only <the ids in feedback-all.json>
+```
+
+Then agents on `zh-children-a2`, merge, keep-best rule and reverts as in step 5.
+
+**Expected "too hard" flags.** The checker reports hard words for ages 8–12 as minor `fluency` issues. The 想 family (想, 我想, 無想, 非有想非無想 …) and 佛土莊嚴 / 莊嚴 are deliberately locked to the academic wording (user decision, 2026-10-24). Before the fix round, delete fluency issues whose `span` is one of those terms from `feedback-all.json`, so the fix does not try to simplify them (the term check would force them back anyway).
+
+## Step 10 — Close the children's version
+
+```
+python3 0-INBOX/kf-pilot/factcheck/improvement.py
+zsh -ic 'python3 0-INBOX/kf-pilot/translate/gm_variant_translate.py --variant children --lang zh --render-only'
+```
+
+Same checks as step 6 (no `unchecked_current_text`, `status: draft`), add a "zh-children v2" line to `STATE.md`, commit and push.
+
 ## Cost (estimate)
 
 | Step | Cost |
 |---|---|
 | A/B test | ≈ $4.30 |
-| Translation, 75 calls | ≈ $6.50 |
-| Fact-check round 1 (Claude) | ≈ $5.40 |
-| Fixes and re-check (≈ 60 segments, as in the pilot) | ≈ $2.50 |
-| **Total** | **≈ $19** |
+| Academic translation, 75 calls | ≈ $6.50 |
+| Academic fact-check round 1 (Claude) | ≈ $5.40 |
+| Academic fixes and re-check (≈ 60 segments, as in the pilot) | ≈ $2.50 |
+| Children's version, 75 calls | ≈ $4.00 |
+| Children's fact-check round 1 (Claude) | ≈ $3.00 |
+| Children's fixes and re-check | ≈ $1.00 |
+| **Total** | **≈ $27** |
 
 Estimates from the usage ledger (pilot averages). Every call is logged there.

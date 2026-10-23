@@ -23,7 +23,7 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | སེམས་ཅན | sattva | sentient being | **眾生** | 46 | style-sheet | Core table: K 眾生, already plain Chinese. |
 | བྱང་ཆུབ་སེམས་དཔའ | bodhisattva | bodhisattva | **菩薩** | 39 | style-sheet | Core table: K 菩薩; everyday name children know. |
 | སངས་རྒྱས | buddha | Buddha | **佛陀** | 30 | style-sheet | Core table: K 佛; children name the Buddha 佛陀. |
-| འདུ་ཤེས | saṃjñā | perception (one of the aggregates; in the four graspings) | **想法** | 27 | style-sheet | Core term: saṃjñā is 想, kept apart from 相; child 想法. |
+| འདུ་ཤེས | saṃjñā | perception (one of the aggregates; in the four graspings) | **想** | 27 | style-sheet | Core term: saṃjñā is 想, kept apart from 相; child 想法. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | བསོད་ནམས | puṇya | merit | **福氣** | 24 | style-sheet | Core term: K 福德; everyday 福氣 for children. |
 | ཚེ་དང་ལྡན་པ | āyuṣmat | honorific before a name | **尊敬的** | 21 | style-sheet | Style sheet core term; 長老 is kept for sthavira. |
 | དགྲ་བཅོམ་པ | arhat | arhat | **值得敬重的修行者** | 21 | style-sheet | Core table: K 阿羅漢; child phrase glosses worthy one. |
@@ -66,14 +66,14 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | བདག་ཏུ་འཛིན་པ | ātmagrāha | grasping at a self | **抓著「我」不放** | 6 | style-sheet | Style sheet pattern X-grāha: 執著於X, with 我 and 執著 from core table. |
 | ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ | catuṣpādikā gāthā | four-line verse | **四句的短詩** | 6 | style-sheet | K 四句偈, lexicalised list; child form spells out four-line verse without 偈. |
 | འབྲས་བུ | phala | result of practice | **修行成果** | 6 | kumarajiva | K 須陀洹果; policy 20 X-phala is X果; child form follows English result of practice. |
-| ཞིང་བཀོད་པ | kṣetravyūha | array of Buddha-fields | **佛國的布置** | 6 | kumarajiva | K 莊嚴佛土 turned into a noun (Gemini 佛土莊嚴); child phrase follows the English arrangement. |
+| ཞིང་བཀོད་པ | kṣetravyūha | array of Buddha-fields | **佛土莊嚴** | 6 | kumarajiva | K 莊嚴佛土 turned into a noun (Gemini 佛土莊嚴); child phrase follows the English arrangement. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | ཞིང | kṣetra | Buddha-field | **佛的國土** | 6 | kumarajiva | K 莊嚴佛土 attests 佛土 for kṣetra; child spells out Buddha-land. |
 | འཇིག་རྟེན | loka | world | **世間** | 6 | style-sheet | Core: loka kept apart from 世界. |
 | འཕགས་པ | ārya | noble | **高尚的** | 5 | new | Established 聖 as in the title 《聖…》 (policy 15); child gives plain "noble". |
 | རྡོ་རྗེ་གཅོད་པ | vajracchedikā | title of the sutra | **能斷金剛** | 5 | style-sheet | Core table and policy 15: keeps the cutter that K short title drops. |
 | གཟུགས | rūpa | form (sense object) | **形狀** | 5 | kumarajiva | K 不住色布施, 色聲香味觸法; child follows English shape. |
 | སྒྲ | śabda | sound as object of the senses | **聲音** | 5 | kumarajiva | K 聲 in the series 聲、香、味、觸、法; child uses the everyday word. |
-| ཡང་དག་པར་འདུ་ཤེས | bhūtasaṃjñā | true perception | **真實的想法** | 5 | style-sheet | Compound X想 with 真實 (bhūta); K 實相 blurs 想 and 相, so 想 kept. |
+| ཡང་དག་པར་འདུ་ཤེས | bhūtasaṃjñā | true perception | **真實想** | 5 | style-sheet | Compound X想 with 真實 (bhūta); K 實相 blurs 想 and 相, so 想 kept. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ | kulaputra vā kuladuhitā vā | son or daughter of noble family | **好人家的兒子或女兒** | 5 | style-sheet | Built from core parts 善男子 and 善女人; K same. |
 | ཐེག་པ | yāna | vehicle | **車乘** | 5 | style-sheet | Style sheet core term; K 大乘, 最上乘. |
 | ཆོས་ཐམས་ཅད | sarvadharma | all phenomena (sense: phenomena) | **一切事物** | 5 | style-sheet | 一切 for ཐམས་ཅད plus 法 (phenomena), as in K 一切法; child 事物. |
@@ -88,7 +88,7 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | སྲོག་ཏུ་འཛིན་པ | jīvagrāha | grasping at a life-force | **抓著「生命」不放** | 4 | style-sheet | Pattern 執著於X with 壽者 for srog; child 抓著「X」不放 with 生命. |
 | གང་ཟག་ཏུ་འཛིན་པ | pudgalagrāha | grasping at a person | **抓著「人」不放** | 4 | style-sheet | Pattern X-grāha is 執著於X with gang zag = 人. |
 | ལན་ཅིག་ཕྱིར་འོང་བ | sakṛdāgāmin | once-returner | **只回來一次的人** | 4 | kumarajiva | K 斯陀含 kept (policy 8); child replaces transliteration with plain phrase. |
-| བཀོད་པ | vyūha | array of Buddha-fields | **布置** | 4 | kumarajiva | K 莊嚴佛土 for vyūha; child form is the plain word for arrangement. |
+| བཀོད་པ | vyūha | array of Buddha-fields | **莊嚴** | 4 | kumarajiva | K 莊嚴佛土 for vyūha; child form is the plain word for arrangement. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | གང་གཱའི་ཀླུང | gaṅgā | river | **恆河** | 4 | style-sheet | Policy 14 name 恆河 (K and Gemini agree); common name for children. |
 | སའི་རྡུལ | pṛthivīrajas | particle of earth | **泥土的小顆粒** | 4 | new | K 微塵 drops earth; compound of 地 and 塵; child follows English speck of earth. |
 | བདག་ཏུ་ལྟ་བ | ātmadṛṣṭi | view of a self | **有「我」的看法** | 4 | kumarajiva | K 我見; pattern X見; child 有「X」的看法 per style sheet. |
@@ -125,7 +125,7 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | དམིགས་སུ་མེད | nopalabhyate | not apprehensible (of past, future, present mind) | **找不到** | 3 | kumarajiva | K 過去心不可得; child follows English cannot be found. |
 | དགེ་བའི་ཆོས | kuśala dharma | virtuous phenomenon | **好的事物** | 3 | kumarajiva | K 善法 attested; child builds on 事物 (phenomena) with 好. |
 | ཡོངས་སུ་གཟུང | parigrah | take hold of | **拿取** | 3 | zero-shot | Gemini 攝受 is established for parigraha; K 受 clashes with 受 (feeling); child follows take hold of. |
-| ཆོས་སུ་འདུ་ཤེས | dharmasaṃjñā | perception of a phenomenon | **有「事物」的想法** | 3 | style-sheet | Policy 7 and 20: 法 + 想, K 法相 corrected to 法想; child X pattern. |
+| ཆོས་སུ་འདུ་ཤེས | dharmasaṃjñā | perception of a phenomenon | **法想** | 3 | style-sheet | Policy 7 and 20: 法 + 想, K 法相 corrected to 法想; child X pattern. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | ཆོས་གོས | cīvara | monastic robe | **僧衣** | 2 | style-sheet | Policy 10 retains 法衣 as an established compound; child uses plain 僧衣 for monastic robe. |
 | ལྷུང་བཟེད | pātra | alms bowl | **乞食的缽** | 2 | kumarajiva | K 著衣持鉢 (modern 缽); child adds the purpose, alms. |
 | སེམས་རབ་ཏུ་གཟུང་བ | cittaṃ pragrahītavyam | holding the mind in practice | **穩住自己的心** | 2 | kumarajiva | K 降伏其心 for holding the mind; child follows keep the mind steady. |
@@ -133,8 +133,8 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | མཚན་མ | nimitta | sign | **表象** | 2 | style-sheet | Core table: K 不住於相; 想 never used here; child 表象. |
 | ནམ་མཁའ | ākāśa | space | **空間** | 2 | kumarajiva | K 虛空 (Gemini agrees); child follows English space. |
 | དགེ་བའི་རྩ་བ | kuśalamūla | root of virtue | **善良的根基** | 2 | kumarajiva | K 善根; child form keeps the root image from English root of goodness. |
-| འདུ་ཤེས་མེད་པ | asaṃjñā | absence of perception (a state) | **沒有想法** | 1 | style-sheet | Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 6-22 is a state the bodhisattvas do not enter, children keep 沒有想法. |
-| འདུ་ཤེས་མེད་པ | asaṃjñā | non-perception (paradox: X is itself non-perception) | **不是想法** | 1 | style-sheet | Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 8-43 is a paradox, children 不是想法 (not 沒有想法). |
+| འདུ་ཤེས་མེད་པ | asaṃjñā | absence of perception (a state) | **無想** | 1 | style-sheet | Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 6-22 is a state the bodhisattvas do not enter, children keep 沒有想法. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
+| འདུ་ཤེས་མེད་པ | asaṃjñā | non-perception (paradox: X is itself non-perception) | **無想** | 1 | style-sheet | Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 8-43 is a paradox, children 不是想法 (not 沒有想法). user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | བདག་མེད་པ | nirātman | selfless | **沒有「我」** | 2 | kumarajiva | K 無我; child follows without a self, 我 per core table. |
 | ཆོས་མ་ཡིན་པ | adharma | non-phenomenon | **不是事物的東西** | 2 | kumarajiva | K 非法 attested; child follows English "what is not a thing". |
 | རིན་པོ་ཆེ | ratna | precious substance | **珍寶** | 2 | kumarajiva | K 七寶 contains 寶; child 珍寶 matches 七種珍寶 in the core table. |
@@ -185,19 +185,19 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | རྫུས་ཏེ་སྐྱེས་པ | aupapāduka | miraculously born, one of the four kinds of birth | **神奇出生** | 1 | kumarajiva | K 若化生 for aupapāduka among the four births; child follows miraculously born. |
 | གཟུགས་ཅན | rūpin | having form | **有形狀** | 1 | kumarajiva | K 若有色; child follows having a shape. |
 | གཟུགས་ཅན་མ་ཡིན་པ | arūpin | without form | **沒有形體** | 1 | kumarajiva | K 若無色 attested in the being-classification list; child plain "without form". |
-| འདུ་ཤེས་ཅན | saṃjñin | having perception | **有想法的** | 1 | kumarajiva | K 有想 (policy 7: 想 for saṃjñā); child form follows X想 pattern. |
-| འདུ་ཤེས་མེད | asaṃjñin | without perception | **沒有想法** | 1 | kumarajiva | K 若無想; policy 7 想 for saṃjñā; child 想法 as in core table. |
-| འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན | naivasaṃjñināsaṃjñin | neither with perception nor without perception | **既不是有想法、也不是沒有想法的** | 1 | kumarajiva | K 非有想非無想, using core 想; child uses core 想法. user 2026-10-24: children plainer, 既不是有想法、也不是沒有想法的. |
+| འདུ་ཤེས་ཅན | saṃjñin | having perception | **有想** | 1 | kumarajiva | K 有想 (policy 7: 想 for saṃjñā); child form follows X想 pattern. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
+| འདུ་ཤེས་མེད | asaṃjñin | without perception | **無想** | 1 | kumarajiva | K 若無想; policy 7 想 for saṃjñā; child 想法 as in core table. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
+| འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན | naivasaṃjñināsaṃjñin | neither with perception nor without perception | **非有想非無想** | 1 | kumarajiva | K 非有想非無想, using core 想; child uses core 想法. user 2026-10-24: children plainer, 既不是有想法、也不是沒有想法的. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | སེམས་ཅན་གྱི་ཁམས | sattvadhātu | realm of sentient beings | **眾生的世界** | 1 | zero-shot | Gemini 眾生界, established; 眾生 per style sheet plus 界. Child plain phrase. |
 | ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས | anupadhiśeṣa nirvāṇadhātu | nirvāṇa without remainder | **不剩組成部分的脫離憂苦境界** ✎ (沒有剩餘的脫離憂苦境界) | 1 | style-sheet | Lexicalised 無餘涅槃 plus 界 for dhātu; child builds on 脫離憂苦. |
 | ཕུང་པོ་ལྷག་མ་མེད་པ | anupadhiśeṣa | without remainder of the aggregates | **不剩組成部分** | 1 | style-sheet | Policy 8 無餘涅槃; skandha sense 蘊 implicit in the established 無餘. Child uses 組成部分. |
 | མྱ་ངན་ལས་འདས་པའི་དབྱིངས | nirvāṇadhātu | expanse of nirvāṇa | **脫離憂苦的境界** | 1 | style-sheet | Parts 涅槃 + 界 (dhātu) from the core table; child builds on 脫離憂苦 + 境界. |
 | ཡོངས་སུ་མྱ་ངན་ལས་འདས | parinirvāṇa | complete nirvāṇa | **完全脫離憂苦** | 1 | style-sheet | Policy 8: parinirvāṇa is 般涅槃; K 滅度 not used; child per English. |
 | མྱ་ངན་ལས་འདས | nirvāṇa | nirvāṇa | **脫離憂苦** | 1 | style-sheet | Core table: K 涅槃; child replaces transliteration with freedom from sorrow. |
-| སེམས་ཅན་དུ་འདུ་ཤེས | sattvasaṃjñā | perception of a sentient being | **有「眾生」的想法** | 1 | style-sheet | Pattern X-saṃjñā is X想; child 有「X」的想法; K 眾生相 blurs 想. |
-| སྲོག་ཏུ་འདུ་ཤེས | jīvasaṃjñā | perception of a life-force | **有「生命」的想法** | 1 | style-sheet | Pattern X-saṃjñā is X想 with srog = 壽者; K blurs to 相. |
-| གང་ཟག་ཏུ་འདུ་ཤེས | pudgalasaṃjñā | perception of a person | **有「人」的想法** | 1 | style-sheet | Style sheet X-saṃjñā pattern; K 人相 becomes 人想 (policy 7). |
-| མཚན་མར་འདུ་ཤེས་པ | nimittasaṃjñā | perception of a sign | **有「表象」的想法** | 1 | style-sheet | Policy 20: X-saṃjñā is X想, with 相 for nimitta; child uses the 有「X」的想法 pattern. |
+| སེམས་ཅན་དུ་འདུ་ཤེས | sattvasaṃjñā | perception of a sentient being | **眾生想** | 1 | style-sheet | Pattern X-saṃjñā is X想; child 有「X」的想法; K 眾生相 blurs 想. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
+| སྲོག་ཏུ་འདུ་ཤེས | jīvasaṃjñā | perception of a life-force | **壽者想** | 1 | style-sheet | Pattern X-saṃjñā is X想 with srog = 壽者; K blurs to 相. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
+| གང་ཟག་ཏུ་འདུ་ཤེས | pudgalasaṃjñā | perception of a person | **人想** | 1 | style-sheet | Style sheet X-saṃjñā pattern; K 人相 becomes 人想 (policy 7). user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
+| མཚན་མར་འདུ་ཤེས་པ | nimittasaṃjñā | perception of a sign | **相狀想** | 1 | style-sheet | Policy 20: X-saṃjñā is X想, with 相 for nimitta; child uses the 有「X」的想法 pattern. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | ཕར་ཕྱིན་དྲུག |  | six perfections | **六種圓滿** | 1 | style-sheet | Parts 六 + 波羅蜜 (core); Gemini 六度 not used; child 圓滿 for perfection. |
 | ཤར་ཕྱོགས | pūrvā diś | east | **東邊** | 1 | kumarajiva | K 東方; child uses the everyday word. |
 | ལྷོ | dakṣiṇa | south | **南方** | 1 | kumarajiva | K 南西北方四維上下 gives 南; child 南方. |
@@ -211,7 +211,7 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | ཚུལ་ཁྲིམས | śīla | ethical discipline | **良好的品行** | 1 | kumarajiva | K 持戒 attests 戒; child follows English "good conduct". |
 | ཡོན་ཏན | guṇa | good quality | **好品質** | 1 | new | Established term for guṇa, kept apart from 福德 (puṇya); K silent; child follows good quality. |
 | དད་པ | prasāda | faith | **信任** | 1 | kumarajiva | K 一念生淨信; child follows English trust. |
-| བདག་ཏུ་འདུ་ཤེས | ātmasaṃjñā | perception of a self | **有「我」的想法** | 1 | style-sheet | Pattern X-saṃjñā is X想; K 我相 becomes 我想 by policy 7. |
+| བདག་ཏུ་འདུ་ཤེས | ātmasaṃjñā | perception of a self | **我想** | 1 | style-sheet | Pattern X-saṃjñā is X想; K 我相 becomes 我想 by policy 7. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | གཟིངས | kola | raft | **木筏** | 1 | kumarajiva | K 如筏喻者 attests 筏; child 木筏. |
 | ཆོས་མ་མཆིས་པ | adharma | absence of a phenomenon | **沒有事物** | 1 | kumarajiva | K 非法 for absence of a phenomenon; child follows absence of a thing. |
 | འཕགས་པའི་གང་ཟག | āryapudgala | noble person | **高尚的人** | 1 | new | 聖 + 者 is the established Buddhist term; K 賢聖 is plural and broader. Child builds on 高尚的. |
@@ -230,7 +230,7 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | བླ་མ | guru | guru | **老師** | 1 | zero-shot | Established term for guru (Gemini 上師); K gives no equivalent; child 老師 for master. |
 | དཔེ་བྱད |  | minor mark | **細小特徵** | 1 | new | Established 隨形好 for anuvyañjana; child 特徵 as in the mark entry, small. |
 | ཡེ་ཤེས | jñāna | pristine wisdom | **深刻的認識** | 1 | new | Style sheet keeps 智 for jñāna; 本智 is the established ye shes term; child follows deep knowing. |
-| འདུ་ཤེས་མ་མཆིས་པ | abhūtasaṃjñā | absence of perception | **不是想法** | 1 | style-sheet | Same sense as T116: 想 core term with 無; K 實相 blurs it. user 2026-10-24: children 不是想法 (8-12 is a paradox: true perception is itself non-perception; 沒有想法 read as 'no ideas'). |
+| འདུ་ཤེས་མ་མཆིས་པ | abhūtasaṃjñā | absence of perception | **無想** | 1 | style-sheet | Same sense as T116: 想 core term with 無; K 實相 blurs it. user 2026-10-24: children 不是想法 (8-12 is a paradox: true perception is itself non-perception; 沒有想法 read as 'no ideas'). user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift). |
 | སླད་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ | paścimāyāṃ pañcaśatyām | last five hundred years of the Dharma's decline | **最後的五百年** | 1 | kumarajiva | K 後五百歲; same rendering as variant spelling T231. |
 | བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ | kṣāntipāramitā | perfection of patience | **圓滿的忍耐** | 1 | kumarajiva | K 忍辱波羅蜜 attested; child builds on 圓滿 with 忍耐. |
 | ཀ་ལིང་ཀའི་རྒྱལ་པོ | kalirāja | king of Kaliṅga | **羯陵伽國王** | 1 | style-sheet | Policy 14: follow Tibetan Kaliṅga, not K 歌利王 (a different referent). |

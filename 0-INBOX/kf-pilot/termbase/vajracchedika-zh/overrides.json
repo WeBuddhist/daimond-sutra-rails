@@ -16,25 +16,92 @@
   {
    "term_id": "T049",
    "field": "children",
-   "value": "佛國的布置",
-   "reason": "user 2026-10-24: one spelling 布置 (Ministry of Education standard), matching བཀོད་པ (vyūha) 布置; was 佛國的佈置"
+   "value": "佛土莊嚴",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
   },
   {
    "term_id": "T169",
    "field": "children",
-   "value": "既不是有想法、也不是沒有想法的",
-   "reason": "user 2026-10-24: plainer than 非有想法也非無想法"
+   "value": "非有想非無想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
   },
   {
    "term_id": "T212",
    "field": "children",
-   "value": "不是想法",
-   "reason": "user 2026-10-24: 8-12 paradox, not 沒有想法"
+   "value": "無想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T008",
+   "field": "children",
+   "value": "想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T056",
+   "field": "children",
+   "value": "真實想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T071",
+   "field": "children",
+   "value": "莊嚴",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T108",
+   "field": "children",
+   "value": "法想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T167",
+   "field": "children",
+   "value": "有想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T168",
+   "field": "children",
+   "value": "無想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T176",
+   "field": "children",
+   "value": "眾生想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T177",
+   "field": "children",
+   "value": "壽者想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T178",
+   "field": "children",
+   "value": "人想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T179",
+   "field": "children",
+   "value": "相狀想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
+  },
+  {
+   "term_id": "T193",
+   "field": "children",
+   "value": "我想",
+   "reason": "user 2026-10-24: children use the academic rendering (想 / 佛土莊嚴 families)"
   }
  ],
  "decisions": [
   "user 2026-10-07: keep 想 for འདུ་ཤེས (saṃjñā): 我想 / 眾生想 / 壽者想 / 人想, not Kumārajīva's 我相 etc.",
-  "user 2026-10-24: T116 འདུ་ཤེས་མེད་པ split by sense (gemini_review.py cannot express this as a field override; re-apply by hand if termbase.json is rebuilt): 6-22 'absence of perception (a state)' children 沒有想法; 8-43 'non-perception (paradox)' children 不是想法; academic 無想 in both."
+  "user 2026-10-24: T116 འདུ་ཤེས་མེད་པ split by sense (gemini_review.py cannot express this as a field override; re-apply by hand if termbase.json is rebuilt): 6-22 'absence of perception (a state)' children 沒有想法; 8-43 'non-perception (paradox)' children 不是想法; academic 無想 in both.",
+  "user 2026-10-24: the 想 family (T008, T056, T108, T116, T167, T168, T169, T176–T179, T193, T212) and the 佛土莊嚴 family (T049, T071) use the academic rendering in the children's track too. Supersedes the earlier children's renderings 想法 / 有「X」的想法 / 沒有想法 / 不是想法 / 佛國的布置 / 布置. T116 keeps its sense split; both senses now 無想."
  ],
  "added_terms": [
   {

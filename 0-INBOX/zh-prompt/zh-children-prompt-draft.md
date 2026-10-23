@@ -18,6 +18,7 @@ Same layout as the academic draft: each section in Chinese (what Gemini receives
 | 2026-10-24 | Style sample for the children's register: from the user, source https://repay.tw/story05.html (below). Section 3 is built around it. |
 | 2026-10-24 | Speech uses 「」 (user). Quotation inside speech uses 『』, as in the academic version. The sample's punctuation is normalised to these rules before it goes into the prompt. |
 | 2026-10-24 | The writer also sees the approved English children's version (`en-children`) as a reference, besides the Tibetan and the Chinese academic version. Needs a small script change (`english_children` field on the children's path). |
+| 2026-10-24 | The 想 family and the 佛土莊嚴 family use the academic renderings in the children's version too (16 termbase senses), so their meaning cannot drift (user: 「這些也是沿用原本在academic裡的」). |
 | 2026-10-24 | Vocative: 「須菩提！」 (as in the academic version). "Why is that?" (ཅིའི་ཕྱིར་ཞེ་ན): 「為什麼呢？」 (shorter than the academic 「這是為什麼呢？」). |
 
 ## Style sample (received 2026-10-24)
@@ -87,7 +88,6 @@ Simple does not mean wrong. You may say things simply, but you must not turn a d
 - **New: "not to explain the sutra".** Targets added morals and explanations, which the fact-check counts as major (addition).
 - **Meaning source.** The academic version is the meaning source, as in v1. After the full v2 academic run, the children's version must be regenerated from v2 so both say the same thing. The English children's version (user decision) is described in section 2 as a reference for how to simplify, not as a meaning source.
 - **"Correct meaning comes before simplicity"** mirrors the academic "accuracy before fluency".
-
 ---
 
 ## 二、參考資料說明
@@ -130,7 +130,6 @@ Besides the Tibetan, each segment carries the fields below. They have different 
 - **`english_children` is new (user decision, 2026-10-24).** It is the approved English children's version (430/432 segments passed the first fact-check). It is passed only on the new path: `gm_variant_translate.py --variant children --lang zh --from-track academic --system <zh-children requirements>`. Runs without `--system`, and the Hindi children's run, get exactly the same input as before (checked 2026-10-24).
 - **No Sanskrit, commentaries, Kumārajīva or zero-shot draft for children.** As in v1: the meaning has already been settled in the academic version, and more sources would only add terms the children's version must avoid.
 - **The children's checker does not see `english_children`.** Fine: it is a style aid, not a meaning source.
-
 ---
 
 ## 三、語域與文體
@@ -202,50 +201,89 @@ Besides the Tibetan, each segment carries the fields below. They have different 
 - **Sentence-length rule measured on clauses, not sentences.** The sample's sentences are long but every clause is short (28 clauses, 2–11 characters, median 6), and that is what makes it easy to follow aloud. The rule keeps the v1 ceiling of 15 as "mostly"; it could be tightened to 12 to match the sample. The v1 rule ("sentences mostly ≤ 15 characters") was broken by 39% of v1 sentences; a clause rule plus "split long ideas" is closer to the sample and to how the text is read aloud.
 - **"No closing comment" targets additions.** The children's fact-check counts an added lesson as major.
 - **The paradox frame** is a term rule and goes in section 4, as in the academic prompt.
-
 ---
 
 ## 四、術語規則
 
-1. **鎖定譯名一定要用。** `locked_terms` 列出的兒童版譯名，每一個都要用上，用字完全相同（例如「布置」不寫成「佈置」）；不要換成同義詞，也不要縮短或拉長。
-2. **只用在對應的藏文詞上。** 鎖定譯名只用來說清單上的那個藏文詞。不要把它套到別的詞上，也不要為了配合它而多加字（例如不要寫「佛的國土裡的佛國的布置」）。
+1. **鎖定譯名一定要用。** `locked_terms` 列出的兒童版譯名，每一個都要用上，用字完全相同；不要換成同義詞，也不要縮短或拉長。
+2. **只用在對應的藏文詞上。** 鎖定譯名只用來說清單上的那個藏文詞。不要把它套到別的詞上，也不要為了配合它而多加字（例如不要寫「佛的國土裡的佛土莊嚴」）。
 3. **一個意思，一種說法。** 同一個意思，全經用同一種說法；經文重複的地方，每次說得一模一樣。
 4. **不用梵文音譯。** 除了人名、地名（依詞彙表：佛陀、須菩提、舍衛城等），音譯的術語一律用詞彙表給的淺白說法。
-5. **「想法」和「抓著不放」照詞彙表的句型。** 「我想」「眾生想」這類詞，照詞彙表寫成「有「X」的想法」；「執著於X」寫成「抓著「X」不放」。引號的層次：說的話用「」，說話裡再引用用『』，再裡面一層用「」。
+5. **有些詞沿用學術版的說法，不改淺。** 「想」系列（想、我想、眾生想、人想、壽者想、法想、相狀想、真實想、有想、無想、非有想非無想）和「佛土莊嚴」「莊嚴」，兒童版和學術版用同一個詞，以免意思跑掉。這些詞照詞彙表原樣寫，不要改成「想法」「布置」之類的說法，也不要在後面加解釋。
+   「執著於X」照詞彙表寫成「抓著「X」不放」。引號的層次：說的話用「」，說話裡再引用用『』，再裡面一層用「」。
 6. **悖論句式用固定的說法，和學術版完全相同。** 經中「所謂X……並不是X……所以才稱為X」的句子，藏文的三個部分一一對應：
    - X ཞེས་བྱ་བ་ནི → 「所謂X，」；藏文把X說兩次時，作「所謂X、X，」。
    - X（དེ་དག）མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར → 「是因為如來說那（些）並不是X。」；藏文沒有「如來說」時就不加。
    - དེས་ན་ X ཞེས་བྱའོ → 「所以才稱為X。」
    這個句式的字眼不要改得更淺，也不要換成別的說法：它的意思要和學術版一模一樣。保持悖論，不替它下結論，也不加解釋。X 用詞彙表的兒童版譯名，照藏文在該處的用詞（全稱或簡稱）。這個句式常常分在兩段：每段只寫自己那一部分。
-   例（7-37、7-38）：「為什麼呢？須菩提！所謂佛國的布置、佛國的布置，是因為如來說那些布置並不是布置。」／「所以才稱為佛國的布置。」
-7. **說「並不是X」，不說「沒有X」。** 經中說「X 本身就是非X」「如來說它是非X」的地方，一律說「並不是X」，不要說成「沒有X」或「X不存在」：「沒有想法」會被聽成「腦袋裡什麼都沒想」，「不存在」會被聽成「根本沒有這個東西」。例（8-12）：「所謂真實的想法，其實並不是想法。」只有藏文確實在說一種「沒有」的狀態時，才說「沒有」，例如（6-22）：「他們也不會掉進『沒有想法』裡。」
+   例（7-37、7-38）：「為什麼呢？須菩提！所謂佛土莊嚴、佛土莊嚴，是因為如來說那些莊嚴並不是莊嚴。」／「所以才稱為佛土莊嚴。」
+7. **說「並不是X」，不說「沒有X」。** 經中說「如來說它是非X」的地方，一律說「並不是X」，不要改說成「沒有X」或「X不存在」：「不存在」會被聽成「根本沒有這個東西」。例（7-37）：要寫「如來說那些莊嚴並不是莊嚴」，不寫「如來說這些莊嚴並不存在」。詞彙表鎖定的詞（例如「無想」）照原樣用，不要拆開改寫。
 8. **固定說法。** 「須菩提！」和「為什麼呢？」每次相同（見第三節）。
 9. **咒語不翻譯，也不音譯。** 照詞彙表寫「咒語」。
 10. **譯文中只有中文。** 數字用漢字（三十二相、十億個世界）；不夾梵文、藏文、拉丁字母，也不用括號註明原文。
 
 ### English mirror
 
-1. **Locked renderings are mandatory.** Use every children's rendering in `locked_terms`, character for character (布置, never 佈置); no synonyms, no shortening or lengthening.
-2. **Only for the matching Tibetan word.** A locked rendering says only that Tibetan word. Do not apply it to other words, and do not add words to fit it in (never 「佛的國土裡的佛國的布置」).
+1. **Locked renderings are mandatory.** Use every children's rendering in `locked_terms`, character for character; no synonyms, no shortening or lengthening.
+2. **Only for the matching Tibetan word.** A locked rendering says only that Tibetan word. Do not apply it to other words, and do not add words to fit it in (never 「佛的國土裡的佛土莊嚴」).
 3. **One meaning, one wording.** The same meaning is said the same way throughout; the sutra's repetitions are said identically each time.
 4. **No Sanskrit transliteration** except names of people and places (per the termbase: 佛陀, 須菩提, 舍衛城 …); transliterated terms always take the termbase's plain wording.
-5. **The 想法 and 抓著不放 patterns follow the termbase.** 我想, 眾生想 etc. → 有「X」的想法; 執著於X → 抓著「X」不放. Quotation levels: speech 「」, quotation inside speech 『』, one level further 「」.
+5. **Some terms keep the academic wording, not a simpler one.** The 想 family (想, 我想, 眾生想, 人想, 壽者想, 法想, 相狀想, 真實想, 有想, 無想, 非有想非無想) and 佛土莊嚴 / 莊嚴 are the same in the children's and the academic version, so the meaning cannot drift. Write them exactly as the termbase gives them: never 想法, 布置 or similar, and no explanation after them.
+   執著於X follows the termbase as 抓著「X」不放. Quotation levels: speech 「」, quotation inside speech 『』, one level further 「」.
 6. **The paradox uses a fixed wording, identical to the academic version**, each Tibetan part mapped to one Chinese part:
    - X ཞེས་བྱ་བ་ནི → 「所謂X，」; X said twice → 「所謂X、X，」.
    - X (དེ་དག) མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར → 「是因為如來說那（些）並不是X。」; without "the Tathāgata taught" in the Tibetan, do not add it.
    - དེས་ན་ X ཞེས་བྱའོ → 「所以才稱為X。」
    Do not make this wording simpler or say it another way: its meaning must be exactly the academic version's. Keep the paradox, do not resolve or explain it. X is the termbase's children's rendering, full or short form as the Tibetan has it at that point. Often split over two segments: each segment writes only its own part.
-   Example (7-37, 7-38): 「為什麼呢？須菩提！所謂佛國的布置、佛國的布置，是因為如來說那些布置並不是布置。」 / 「所以才稱為佛國的布置。」
-7. **"Is not X", never "there is no X".** Where the sutra says "X is itself non-X" or "the Tathāgata spoke of it as non-X", always write 並不是X, never 沒有X or X不存在: 沒有想法 sounds like "thinking nothing at all", 不存在 like "the thing does not exist". Example (8-12): 「所謂真實的想法，其實並不是想法。」 Use 沒有 only where the Tibetan really describes a state of not having, e.g. (6-22) 「他們也不會掉進『沒有想法』裡。」
+   Example (7-37, 7-38): 「為什麼呢？須菩提！所謂佛土莊嚴、佛土莊嚴，是因為如來說那些莊嚴並不是莊嚴。」 / 「所以才稱為佛土莊嚴。」
+7. **"Is not X", never "there is no X".** Where the sutra says "the Tathāgata spoke of it as non-X", always write 並不是X, never 沒有X or X不存在: 不存在 sounds like "the thing does not exist". Example (7-37): write 「如來說那些莊嚴並不是莊嚴」, not 「如來說這些莊嚴並不存在」. Terms the termbase locks (e.g. 無想) are used as they are, never taken apart and reworded.
 8. **Fixed wordings.** 「須菩提！」 and 「為什麼呢？」, identical every time (see section 3).
 9. **Mantras are neither translated nor transliterated:** write 咒語, as the termbase does.
 10. **Chinese only.** Numbers in Chinese characters (三十二相, 十億個世界); no Sanskrit, Tibetan or Latin letters, no bracketed source words.
 
 ### Design notes (section 4)
 
-- **Lock changes behind rule 7 (user, 2026-10-24):** T169 neither-nor → 既不是有想法、也不是沒有想法的; T116 འདུ་ཤེས་མེད་པ split by sense: 6-22 (a state) keeps 沒有想法, 8-43 (paradox) → 不是想法; T212 (8-12) → 不是想法. Recorded in `overrides.json`; the T116 split is a hand edit there (`decisions`), because `gemini_review.py` overrides cannot express a sense split. Academic renderings unchanged (無想).
-- **Rule 7 also covers 12-22 and 7-37,** where no lock forces 沒有X: v1 wrote 「如來說這就是沒有想法」 (12-22) and 「如來說這些布置並不存在」 (7-37).
+- **Term families follow the academic version (user, 2026-10-24: 「這些也是沿用原本在academic裡的」; scope chosen: both families in full).** 16 children's senses changed to the academic rendering: the 想 family T008 想法→想, T056 真實的想法→真實想, T108 有「事物」的想法→法想, T116 (both senses)→無想, T167 有想法的→有想, T168 沒有想法→無想, T169→非有想非無想, T176–T179 and T193 有「X」的想法→眾生想 / 壽者想 / 人想 / 相狀想 / 我想, T212→無想; the 佛土莊嚴 family T049 佛國的布置→佛土莊嚴, T071 布置→莊嚴. This supersedes the same day's children's locks (既不是有想法…, 不是想法, 佛國的布置). Recorded in `overrides.json`; academic locks unchanged (1,444).
+- **Rule 7 after the change:** the 想 cases (8-12, 8-43, 12-22) are now covered by the locked academic terms (無想, 法想), so the rule keeps one job: in part 2 of the paradox, 並不是X instead of 不存在 / 沒有X (v1 7-37 wrote 「如來說這些布置並不存在」).
 - **4-1:** the added 「還是沒有想法」 (and the academic 「或無想」) came from a lock nested inside the neither-nor term (T168 inside T169). The nested-lock fix of 2026-10-24 removed it; the Tibetan list has no separate "without perception" item.
-- **Paradox wording (rule 6): the academic frame, decided by the user (2026-10-24)** so the meaning cannot drift; it replaces the earlier 「大家說的X…」. Only X changes (children's locked rendering). The paradox is the one place where the children's version deliberately keeps the academic wording; rule 6 says so, so the general "plain words" rules in sections 1 and 3 do not pull it toward simpler phrasing. Rule 7 now uses 並不是X, matching part 2 of the frame. The 7-37/7-38 example is built from the academic example with the children's locks (佛國的布置, 布置).
-- **布置 (rule 1):** T049 changed to 佛國的布置 (user, 2026-10-24), so 7-36–7-38 and 8-115–8-117 use one spelling.
-- **Rule 5, quotation levels:** the termbase patterns contain 「」 (有「我」的想法). Inside speech they become 『』, and one level deeper 「」 again. The compliance check ignores quotation marks, so either form passes.
+- **Paradox wording (rule 6): the academic frame, decided by the user (2026-10-24)** so the meaning cannot drift; it replaces the earlier 「大家說的X…」. Only X changes (children's locked rendering). The paradox is the one place where the children's version deliberately keeps the academic wording; rule 6 says so, so the general "plain words" rules in sections 1 and 3 do not pull it toward simpler phrasing. Rule 7 now uses 並不是X, matching part 2 of the frame. The 7-37/7-38 example now matches the academic example except for 為什麼呢？ (the children's fixed wording).
+- **布置 / 佈置:** resolved by the change to 佛土莊嚴 / 莊嚴; neither spelling is locked any more.
+- **Rule 5:** these terms will be harder for children than the rest of the text. The user chose meaning over ease here; the prompt forbids glossing them, so any help for young readers (a glossary page, a teacher's note) would have to sit outside the translation. The 抓著「X」不放 pattern contains 「」; inside speech it becomes 『』, and the compliance check ignores quotation marks.
+---
+
+## 五、輸出格式
+
+只回傳 JSON，不要有任何其他文字：
+
+```json
+{"blocks": [{"id": "<段號>", "translation": "<兒童版>"}]}
+```
+
+1. `id` 照收到的段號原樣填寫。收到哪些段就回傳哪些段，一段不多、一段不少，順序不變。
+2. `translation` 只放這一段的兒童版：不放藏文、段號或標題記號，也不放註解、括號說明、教訓或你的思考過程。每一段都要有內容，不可留空。
+3. 一段寫成一個段落，譯文裡不要換行；句子再短，也接在同一段裡。
+4. 引號的位置照學術版：學術版在哪裡開始說話、在哪裡結束說話，兒童版就在同樣的地方加「和」。一段話跨好幾段時，中間各段不要自行補上或關閉引號。說話裡再引用用『』，再裡面一層用「」。
+5. 標題段（`heading` 為 `true`）寫成簡短、淺白的標題，句末不加標點。
+6. 全文用繁體字和全形標點；用「麼」，不用「麽」；不用簡體字、日文字形或半形標點。
+
+### English mirror
+
+Return JSON only, with no other text:
+
+```json
+{"blocks": [{"id": "<segment id>", "translation": "<children's version>"}]}
+```
+
+1. Copy each `id` exactly as received. Return exactly the segments you received, no more and no fewer, in the same order.
+2. `translation` holds only this segment's children's version: no Tibetan, segment numbers or heading markers, and no notes, bracketed explanations, lessons or reasoning. Never leave a segment empty.
+3. One segment, one paragraph: no line breaks inside the translation, however short the sentences.
+4. Quotation marks are placed as in the academic version: where the academic version opens and closes speech, the children's version puts 「 and 」. When speech runs over several segments, do not open or close quotation marks in the segments in between. Quotation inside speech uses 『』, one level further 「」.
+5. A heading segment (`heading` is `true`): a short, plain heading, no final punctuation.
+6. Traditional characters and full-width punctuation throughout; 麼, not 麽; no simplified or Japanese character forms, no half-width punctuation.
+
+### Design notes (section 5)
+
+- **Same JSON as the academic prompt** (the script reads `blocks`, `id`, `translation`; the API call enforces the structure through `responseSchema`).
+- **Rule 3 (no line breaks) is new for children.** The render step writes each segment as one block ending in its block ID (`… ^7-38`); a line break inside the text would split the block and detach the ID. Short-sentence rules make children's text more likely to be broken into lines. The academic prompt has no such rule; worth adding there too if it ever happens.
+- **Rule 4 ties quotation marks to the academic version.** The children's writer always receives `academic_translation`, which already marks where speech opens and closes, so this is easier and more reliable than reading ཞེས / ཅེས in the Tibetan (the academic rule). It also keeps both versions' quotes aligned segment by segment.
+- **"lessons" added to rule 2,** matching section 1 and section 3 ("no closing comment"): the children's fact-check counts an added lesson as major.

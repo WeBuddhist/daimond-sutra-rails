@@ -197,8 +197,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "0-INBOX/zh-prompt/sedeFq7Aj",
+    "0-INBOX/zh-prompt/ab-test/requirements-children-v1.md",
+    "0-INBOX/zh-prompt/sedvcJwzK",
     "0-INBOX/zh-prompt/sed04tgpZ",
     "0-INBOX/kf-pilot/translate/sedLGlTJ8",
     "0-INBOX/zh-prompt/zh-children-prompt-draft.md",
@@ -217,8 +220,6 @@
     "0-INBOX/zh-prompt",
     "conflict-files-obsidian-git.md",
     "3-TRANSFORMATIONS/Translations/en-academic/bo-vajracchedika-en.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
     "0-INBOX/kf-pilot/factcheck/children-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/zh-academic-a4/rendered/batch-01.md",
     "0-INBOX/kf-pilot/factcheck/calibration-hi/prompt.md",
@@ -234,7 +235,6 @@
     "0-INBOX/kf-pilot/factcheck/hi-children-a1/rendered/batch-03.md",
     "0-INBOX/kf-pilot/factcheck/hi-children-a1/rendered/batch-02.md",
     "0-INBOX/kf-pilot/factcheck/hi-children-a1/rendered/batch-01.md",
-    "3-TRANSFORMATIONS/Translations/hi-children/bo-vajracchedika-hi.md",
-    "3-TRANSFORMATIONS/Translations/hi-children/audience.md"
+    "3-TRANSFORMATIONS/Translations/hi-children/bo-vajracchedika-hi.md"
   ]
 }

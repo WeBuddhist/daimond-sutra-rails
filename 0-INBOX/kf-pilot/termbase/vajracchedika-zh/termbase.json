@@ -890,9 +890,9 @@
     "sense": "perception (one of the aggregates; in the four graspings)",
     "occurrences": "all",
     "academic": "想",
-    "children": "想法",
+    "children": "想",
     "basis": "style-sheet",
-    "reason": "Core term: saṃjñā is 想, kept apart from 相; child 想法.",
+    "reason": "Core term: saṃjñā is 想, kept apart from 相; child 想法. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "perception",
     "en_children": "idea"
    }
@@ -2249,9 +2249,9 @@
     "sense": "array of Buddha-fields",
     "occurrences": "all",
     "academic": "佛土莊嚴",
-    "children": "佛國的布置",
+    "children": "佛土莊嚴",
     "basis": "kumarajiva",
-    "reason": "K 莊嚴佛土 turned into a noun (Gemini 佛土莊嚴); child phrase follows the English arrangement.",
+    "reason": "K 莊嚴佛土 turned into a noun (Gemini 佛土莊嚴); child phrase follows the English arrangement. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "array of Buddha-fields",
     "en_children": "arrangement of Buddha-lands"
    }
@@ -2426,9 +2426,9 @@
     "sense": "true perception",
     "occurrences": "all",
     "academic": "真實想",
-    "children": "真實的想法",
+    "children": "真實想",
     "basis": "style-sheet",
-    "reason": "Compound X想 with 真實 (bhūta); K 實相 blurs 想 and 相, so 想 kept.",
+    "reason": "Compound X想 with 真實 (bhūta); K 實相 blurs 想 and 相, so 想 kept. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "true perception",
     "en_children": "true idea"
    }
@@ -2790,9 +2790,9 @@
     "sense": "array of Buddha-fields",
     "occurrences": "all",
     "academic": "莊嚴",
-    "children": "布置",
+    "children": "莊嚴",
     "basis": "kumarajiva",
-    "reason": "K 莊嚴佛土 for vyūha; child form is the plain word for arrangement.",
+    "reason": "K 莊嚴佛土 for vyūha; child form is the plain word for arrangement. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "array",
     "en_children": "arrangement"
    }
@@ -3658,9 +3658,9 @@
     "sense": "perception of a phenomenon",
     "occurrences": "all",
     "academic": "法想",
-    "children": "有「事物」的想法",
+    "children": "法想",
     "basis": "style-sheet",
-    "reason": "Policy 7 and 20: 法 + 想, K 法相 corrected to 法想; child X pattern.",
+    "reason": "Policy 7 and 20: 法 + 想, K 法相 corrected to 法想; child X pattern. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "perception of a phenomenon",
     "en_children": "idea of a thing"
    }
@@ -3842,9 +3842,9 @@
      "6-22"
     ],
     "academic": "無想",
-    "children": "沒有想法",
+    "children": "無想",
     "basis": "style-sheet",
-    "reason": "Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 6-22 is a state the bodhisattvas do not enter, children keep 沒有想法.",
+    "reason": "Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 6-22 is a state the bodhisattvas do not enter, children keep 沒有想法. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "non-perception",
     "en_children": "absence of ideas"
    },
@@ -3854,9 +3854,9 @@
      "8-43"
     ],
     "academic": "無想",
-    "children": "不是想法",
+    "children": "無想",
     "basis": "style-sheet",
-    "reason": "Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 8-43 is a paradox, children 不是想法 (not 沒有想法).",
+    "reason": "Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 8-43 is a paradox, children 不是想法 (not 沒有想法). user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "non-perception",
     "en_children": "absence of ideas"
    }
@@ -4968,9 +4968,9 @@
     "sense": "having perception",
     "occurrences": "all",
     "academic": "有想",
-    "children": "有想法的",
+    "children": "有想",
     "basis": "kumarajiva",
-    "reason": "K 有想 (policy 7: 想 for saṃjñā); child form follows X想 pattern.",
+    "reason": "K 有想 (policy 7: 想 for saṃjñā); child form follows X想 pattern. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "having perception",
     "en_children": "having ideas"
    }
@@ -4989,9 +4989,9 @@
     "sense": "without perception",
     "occurrences": "all",
     "academic": "無想",
-    "children": "沒有想法",
+    "children": "無想",
     "basis": "kumarajiva",
-    "reason": "K 若無想; policy 7 想 for saṃjñā; child 想法 as in core table.",
+    "reason": "K 若無想; policy 7 想 for saṃjñā; child 想法 as in core table. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "without perception",
     "en_children": "without ideas"
    }
@@ -5010,9 +5010,9 @@
     "sense": "neither with perception nor without perception",
     "occurrences": "all",
     "academic": "非有想非無想",
-    "children": "既不是有想法、也不是沒有想法的",
+    "children": "非有想非無想",
     "basis": "kumarajiva",
-    "reason": "K 非有想非無想, using core 想; child uses core 想法. user 2026-10-24: children plainer, 既不是有想法、也不是沒有想法的.",
+    "reason": "K 非有想非無想, using core 想; child uses core 想法. user 2026-10-24: children plainer, 既不是有想法、也不是沒有想法的. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "neither with perception nor without perception",
     "en_children": "neither with ideas nor without ideas"
    }
@@ -5163,9 +5163,9 @@
     "sense": "perception of a sentient being",
     "occurrences": "all",
     "academic": "眾生想",
-    "children": "有「眾生」的想法",
+    "children": "眾生想",
     "basis": "style-sheet",
-    "reason": "Pattern X-saṃjñā is X想; child 有「X」的想法; K 眾生相 blurs 想.",
+    "reason": "Pattern X-saṃjñā is X想; child 有「X」的想法; K 眾生相 blurs 想. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "perception of a sentient being",
     "en_children": "idea of a living being"
    }
@@ -5184,9 +5184,9 @@
     "sense": "perception of a life-force",
     "occurrences": "all",
     "academic": "壽者想",
-    "children": "有「生命」的想法",
+    "children": "壽者想",
     "basis": "style-sheet",
-    "reason": "Pattern X-saṃjñā is X想 with srog = 壽者; K blurs to 相.",
+    "reason": "Pattern X-saṃjñā is X想 with srog = 壽者; K blurs to 相. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "perception of a life-force",
     "en_children": "idea of a life"
    }
@@ -5205,9 +5205,9 @@
     "sense": "perception of a person",
     "occurrences": "all",
     "academic": "人想",
-    "children": "有「人」的想法",
+    "children": "人想",
     "basis": "style-sheet",
-    "reason": "Style sheet X-saṃjñā pattern; K 人相 becomes 人想 (policy 7).",
+    "reason": "Style sheet X-saṃjñā pattern; K 人相 becomes 人想 (policy 7). user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "perception of a person",
     "en_children": "idea of a person"
    }
@@ -5226,9 +5226,9 @@
     "sense": "perception of a sign",
     "occurrences": "all",
     "academic": "相狀想",
-    "children": "有「表象」的想法",
+    "children": "相狀想",
     "basis": "style-sheet",
-    "reason": "Policy 20: X-saṃjñā is X想, with 相 for nimitta; child uses the 有「X」的想法 pattern.",
+    "reason": "Policy 20: X-saṃjñā is X想, with 相 for nimitta; child uses the 有「X」的想法 pattern. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "perception of a sign",
     "en_children": "idea of a sign",
     "review": [
@@ -5526,9 +5526,9 @@
     "sense": "perception of a self",
     "occurrences": "all",
     "academic": "我想",
-    "children": "有「我」的想法",
+    "children": "我想",
     "basis": "style-sheet",
-    "reason": "Pattern X-saṃjñā is X想; K 我相 becomes 我想 by policy 7.",
+    "reason": "Pattern X-saṃjñā is X想; K 我相 becomes 我想 by policy 7. user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "perception of a self",
     "en_children": "idea of a self"
    }
@@ -5931,9 +5931,9 @@
     "sense": "absence of perception",
     "occurrences": "all",
     "academic": "無想",
-    "children": "不是想法",
+    "children": "無想",
     "basis": "style-sheet",
-    "reason": "Same sense as T116: 想 core term with 無; K 實相 blurs it. user 2026-10-24: children 不是想法 (8-12 is a paradox: true perception is itself non-perception; 沒有想法 read as 'no ideas').",
+    "reason": "Same sense as T116: 想 core term with 無; K 實相 blurs it. user 2026-10-24: children 不是想法 (8-12 is a paradox: true perception is itself non-perception; 沒有想法 read as 'no ideas'). user 2026-10-24: children use the academic rendering (想 family and 佛土莊嚴 family follow academic, so the meaning cannot drift).",
     "en_academic": "non-perception",
     "en_children": "absence of ideas"
    }
