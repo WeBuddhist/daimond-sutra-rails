@@ -133,7 +133,8 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | མཚན་མ | nimitta | sign | **表象** | 2 | style-sheet | Core table: K 不住於相; 想 never used here; child 表象. |
 | ནམ་མཁའ | ākāśa | space | **空間** | 2 | kumarajiva | K 虛空 (Gemini agrees); child follows English space. |
 | དགེ་བའི་རྩ་བ | kuśalamūla | root of virtue | **善良的根基** | 2 | kumarajiva | K 善根; child form keeps the root image from English root of goodness. |
-| འདུ་ཤེས་མེད་པ | asaṃjñā | absence of perception | **沒有想法** | 2 | style-sheet | Core 想 with 無; K lists 無想 among beings; child 沒有想法. |
+| འདུ་ཤེས་མེད་པ | asaṃjñā | absence of perception (a state) | **沒有想法** | 1 | style-sheet | Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 6-22 is a state the bodhisattvas do not enter, children keep 沒有想法. |
+| འདུ་ཤེས་མེད་པ | asaṃjñā | non-perception (paradox: X is itself non-perception) | **不是想法** | 1 | style-sheet | Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 8-43 is a paradox, children 不是想法 (not 沒有想法). |
 | བདག་མེད་པ | nirātman | selfless | **沒有「我」** | 2 | kumarajiva | K 無我; child follows without a self, 我 per core table. |
 | ཆོས་མ་ཡིན་པ | adharma | non-phenomenon | **不是事物的東西** | 2 | kumarajiva | K 非法 attested; child follows English "what is not a thing". |
 | རིན་པོ་ཆེ | ratna | precious substance | **珍寶** | 2 | kumarajiva | K 七寶 contains 寶; child 珍寶 matches 七種珍寶 in the core table. |
@@ -186,7 +187,6 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | གཟུགས་ཅན་མ་ཡིན་པ | arūpin | without form | **沒有形體** | 1 | kumarajiva | K 若無色 attested in the being-classification list; child plain "without form". |
 | འདུ་ཤེས་ཅན | saṃjñin | having perception | **有想法的** | 1 | kumarajiva | K 有想 (policy 7: 想 for saṃjñā); child form follows X想 pattern. |
 | འདུ་ཤེས་མེད | asaṃjñin | without perception | **沒有想法** | 1 | kumarajiva | K 若無想; policy 7 想 for saṃjñā; child 想法 as in core table. |
-| འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན | naivasaṃjñināsaṃjñin | neither with perception nor without perception | **非有想法也非無想法** | 1 | kumarajiva | K 非有想非無想, using core 想; child uses core 想法. |
 | སེམས་ཅན་གྱི་ཁམས | sattvadhātu | realm of sentient beings | **眾生的世界** | 1 | zero-shot | Gemini 眾生界, established; 眾生 per style sheet plus 界. Child plain phrase. |
 | ཕུང་པོ་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས | anupadhiśeṣa nirvāṇadhātu | nirvāṇa without remainder | **不剩組成部分的脫離憂苦境界** ✎ (沒有剩餘的脫離憂苦境界) | 1 | style-sheet | Lexicalised 無餘涅槃 plus 界 for dhātu; child builds on 脫離憂苦. |
 | ཕུང་པོ་ལྷག་མ་མེད་པ | anupadhiśeṣa | without remainder of the aggregates | **不剩組成部分** | 1 | style-sheet | Policy 8 無餘涅槃; skandha sense 蘊 implicit in the established 無餘. Child uses 組成部分. |
@@ -229,7 +229,6 @@ One locked rendering per Tibetan term (per sense where the term has distinct sen
 | བླ་མ | guru | guru | **老師** | 1 | zero-shot | Established term for guru (Gemini 上師); K gives no equivalent; child 老師 for master. |
 | དཔེ་བྱད |  | minor mark | **細小特徵** | 1 | new | Established 隨形好 for anuvyañjana; child 特徵 as in the mark entry, small. |
 | ཡེ་ཤེས | jñāna | pristine wisdom | **深刻的認識** | 1 | new | Style sheet keeps 智 for jñāna; 本智 is the established ye shes term; child follows deep knowing. |
-| འདུ་ཤེས་མ་མཆིས་པ | abhūtasaṃjñā | absence of perception | **沒有想法** | 1 | style-sheet | Same sense as T116: 想 core term with 無; K 實相 blurs it. |
 | སླད་མའི་དུས་ལྔ་བརྒྱའི་ཐ་མ | paścimāyāṃ pañcaśatyām | last five hundred years of the Dharma's decline | **最後的五百年** | 1 | kumarajiva | K 後五百歲; same rendering as variant spelling T231. |
 | བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ | kṣāntipāramitā | perfection of patience | **圓滿的忍耐** | 1 | kumarajiva | K 忍辱波羅蜜 attested; child builds on 圓滿 with 忍耐. |
 | ཀ་ལིང་ཀའི་རྒྱལ་པོ | kalirāja | king of Kaliṅga | **羯陵伽國王** | 1 | style-sheet | Policy 14: follow Tibetan Kaliṅga, not K 歌利王 (a different referent). |

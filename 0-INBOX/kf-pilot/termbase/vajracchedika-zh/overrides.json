@@ -18,10 +18,23 @@
    "field": "children",
    "value": "佛國的布置",
    "reason": "user 2026-10-24: one spelling 布置 (Ministry of Education standard), matching བཀོད་པ (vyūha) 布置; was 佛國的佈置"
+  },
+  {
+   "term_id": "T169",
+   "field": "children",
+   "value": "既不是有想法、也不是沒有想法的",
+   "reason": "user 2026-10-24: plainer than 非有想法也非無想法"
+  },
+  {
+   "term_id": "T212",
+   "field": "children",
+   "value": "不是想法",
+   "reason": "user 2026-10-24: 8-12 paradox, not 沒有想法"
   }
  ],
  "decisions": [
-  "user 2026-10-07: keep 想 for འདུ་ཤེས (saṃjñā): 我想 / 眾生想 / 壽者想 / 人想, not Kumārajīva's 我相 etc."
+  "user 2026-10-07: keep 想 for འདུ་ཤེས (saṃjñā): 我想 / 眾生想 / 壽者想 / 人想, not Kumārajīva's 我相 etc.",
+  "user 2026-10-24: T116 འདུ་ཤེས་མེད་པ split by sense (gemini_review.py cannot express this as a field override; re-apply by hand if termbase.json is rebuilt): 6-22 'absence of perception (a state)' children 沒有想法; 8-43 'non-perception (paradox)' children 不是想法; academic 無想 in both."
  ],
  "added_terms": [
   {

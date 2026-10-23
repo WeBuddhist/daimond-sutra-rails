@@ -3837,12 +3837,26 @@
   ],
   "senses": [
    {
-    "sense": "absence of perception",
-    "occurrences": "all",
+    "sense": "absence of perception (a state)",
+    "occurrences": [
+     "6-22"
+    ],
     "academic": "無想",
     "children": "沒有想法",
     "basis": "style-sheet",
-    "reason": "Core 想 with 無; K lists 無想 among beings; child 沒有想法.",
+    "reason": "Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 6-22 is a state the bodhisattvas do not enter, children keep 沒有想法.",
+    "en_academic": "non-perception",
+    "en_children": "absence of ideas"
+   },
+   {
+    "sense": "non-perception (paradox: X is itself non-perception)",
+    "occurrences": [
+     "8-43"
+    ],
+    "academic": "無想",
+    "children": "不是想法",
+    "basis": "style-sheet",
+    "reason": "Core 想 with 無; K lists 無想 among beings; child 沒有想法. user 2026-10-24: split; 8-43 is a paradox, children 不是想法 (not 沒有想法).",
     "en_academic": "non-perception",
     "en_children": "absence of ideas"
    }
@@ -4996,9 +5010,9 @@
     "sense": "neither with perception nor without perception",
     "occurrences": "all",
     "academic": "非有想非無想",
-    "children": "非有想法也非無想法",
+    "children": "既不是有想法、也不是沒有想法的",
     "basis": "kumarajiva",
-    "reason": "K 非有想非無想, using core 想; child uses core 想法.",
+    "reason": "K 非有想非無想, using core 想; child uses core 想法. user 2026-10-24: children plainer, 既不是有想法、也不是沒有想法的.",
     "en_academic": "neither with perception nor without perception",
     "en_children": "neither with ideas nor without ideas"
    }
@@ -5917,9 +5931,9 @@
     "sense": "absence of perception",
     "occurrences": "all",
     "academic": "無想",
-    "children": "沒有想法",
+    "children": "不是想法",
     "basis": "style-sheet",
-    "reason": "Same sense as T116: 想 core term with 無; K 實相 blurs it.",
+    "reason": "Same sense as T116: 想 core term with 無; K 實相 blurs it. user 2026-10-24: children 不是想法 (8-12 is a paradox: true perception is itself non-perception; 沒有想法 read as 'no ideas').",
     "en_academic": "non-perception",
     "en_children": "absence of ideas"
    }

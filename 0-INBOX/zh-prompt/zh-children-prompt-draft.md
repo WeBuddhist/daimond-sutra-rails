@@ -14,7 +14,7 @@ Same layout as the academic draft: each section in Chinese (what Gemini receives
 | Date | Decision |
 |---|---|
 | 2026-10-24 | Same structure as the academic prompt: Chinese only, sections 一 task and role, 二 references, 三 register and style (with a sample), 四 term rules, 五 output format. |
-| 2026-10-24 | Paradox frame, simpler wording: 「大家說的X，……其實不是X，所以才叫做X。」 (exact wording to be drafted and approved; it must keep the paradox open and map to the same three Tibetan parts as the academic rule 9). |
+| 2026-10-24 | Paradox frame: the same wording as the academic version, so the meaning cannot drift (user: 「我傾向直接沿用academic的翻譯方法，才不會讓句子的原意跑掉」): 所謂X，／是因為如來說那（些）並不是X。／所以才稱為X。 X takes the children's locked rendering. Replaces the earlier choice 「大家說的X…」. |
 | 2026-10-24 | Style sample for the children's register: from the user, source https://repay.tw/story05.html (below). Section 3 is built around it. |
 | 2026-10-24 | Speech uses 「」 (user). Quotation inside speech uses 『』, as in the academic version. The sample's punctuation is normalised to these rules before it goes into the prompt. |
 | 2026-10-24 | The writer also sees the approved English children's version (`en-children`) as a reference, besides the Tibetan and the Chinese academic version. Needs a small script change (`english_children` field on the children's path). |
@@ -202,3 +202,50 @@ Besides the Tibetan, each segment carries the fields below. They have different 
 - **Sentence-length rule measured on clauses, not sentences.** The sample's sentences are long but every clause is short (28 clauses, 2–11 characters, median 6), and that is what makes it easy to follow aloud. The rule keeps the v1 ceiling of 15 as "mostly"; it could be tightened to 12 to match the sample. The v1 rule ("sentences mostly ≤ 15 characters") was broken by 39% of v1 sentences; a clause rule plus "split long ideas" is closer to the sample and to how the text is read aloud.
 - **"No closing comment" targets additions.** The children's fact-check counts an added lesson as major.
 - **The paradox frame** is a term rule and goes in section 4, as in the academic prompt.
+
+---
+
+## 四、術語規則
+
+1. **鎖定譯名一定要用。** `locked_terms` 列出的兒童版譯名，每一個都要用上，用字完全相同（例如「布置」不寫成「佈置」）；不要換成同義詞，也不要縮短或拉長。
+2. **只用在對應的藏文詞上。** 鎖定譯名只用來說清單上的那個藏文詞。不要把它套到別的詞上，也不要為了配合它而多加字（例如不要寫「佛的國土裡的佛國的布置」）。
+3. **一個意思，一種說法。** 同一個意思，全經用同一種說法；經文重複的地方，每次說得一模一樣。
+4. **不用梵文音譯。** 除了人名、地名（依詞彙表：佛陀、須菩提、舍衛城等），音譯的術語一律用詞彙表給的淺白說法。
+5. **「想法」和「抓著不放」照詞彙表的句型。** 「我想」「眾生想」這類詞，照詞彙表寫成「有「X」的想法」；「執著於X」寫成「抓著「X」不放」。引號的層次：說的話用「」，說話裡再引用用『』，再裡面一層用「」。
+6. **悖論句式用固定的說法，和學術版完全相同。** 經中「所謂X……並不是X……所以才稱為X」的句子，藏文的三個部分一一對應：
+   - X ཞེས་བྱ་བ་ནི → 「所謂X，」；藏文把X說兩次時，作「所謂X、X，」。
+   - X（དེ་དག）མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར → 「是因為如來說那（些）並不是X。」；藏文沒有「如來說」時就不加。
+   - དེས་ན་ X ཞེས་བྱའོ → 「所以才稱為X。」
+   這個句式的字眼不要改得更淺，也不要換成別的說法：它的意思要和學術版一模一樣。保持悖論，不替它下結論，也不加解釋。X 用詞彙表的兒童版譯名，照藏文在該處的用詞（全稱或簡稱）。這個句式常常分在兩段：每段只寫自己那一部分。
+   例（7-37、7-38）：「為什麼呢？須菩提！所謂佛國的布置、佛國的布置，是因為如來說那些布置並不是布置。」／「所以才稱為佛國的布置。」
+7. **說「並不是X」，不說「沒有X」。** 經中說「X 本身就是非X」「如來說它是非X」的地方，一律說「並不是X」，不要說成「沒有X」或「X不存在」：「沒有想法」會被聽成「腦袋裡什麼都沒想」，「不存在」會被聽成「根本沒有這個東西」。例（8-12）：「所謂真實的想法，其實並不是想法。」只有藏文確實在說一種「沒有」的狀態時，才說「沒有」，例如（6-22）：「他們也不會掉進『沒有想法』裡。」
+8. **固定說法。** 「須菩提！」和「為什麼呢？」每次相同（見第三節）。
+9. **咒語不翻譯，也不音譯。** 照詞彙表寫「咒語」。
+10. **譯文中只有中文。** 數字用漢字（三十二相、十億個世界）；不夾梵文、藏文、拉丁字母，也不用括號註明原文。
+
+### English mirror
+
+1. **Locked renderings are mandatory.** Use every children's rendering in `locked_terms`, character for character (布置, never 佈置); no synonyms, no shortening or lengthening.
+2. **Only for the matching Tibetan word.** A locked rendering says only that Tibetan word. Do not apply it to other words, and do not add words to fit it in (never 「佛的國土裡的佛國的布置」).
+3. **One meaning, one wording.** The same meaning is said the same way throughout; the sutra's repetitions are said identically each time.
+4. **No Sanskrit transliteration** except names of people and places (per the termbase: 佛陀, 須菩提, 舍衛城 …); transliterated terms always take the termbase's plain wording.
+5. **The 想法 and 抓著不放 patterns follow the termbase.** 我想, 眾生想 etc. → 有「X」的想法; 執著於X → 抓著「X」不放. Quotation levels: speech 「」, quotation inside speech 『』, one level further 「」.
+6. **The paradox uses a fixed wording, identical to the academic version**, each Tibetan part mapped to one Chinese part:
+   - X ཞེས་བྱ་བ་ནི → 「所謂X，」; X said twice → 「所謂X、X，」.
+   - X (དེ་དག) མེད་པར་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་ཕྱིར → 「是因為如來說那（些）並不是X。」; without "the Tathāgata taught" in the Tibetan, do not add it.
+   - དེས་ན་ X ཞེས་བྱའོ → 「所以才稱為X。」
+   Do not make this wording simpler or say it another way: its meaning must be exactly the academic version's. Keep the paradox, do not resolve or explain it. X is the termbase's children's rendering, full or short form as the Tibetan has it at that point. Often split over two segments: each segment writes only its own part.
+   Example (7-37, 7-38): 「為什麼呢？須菩提！所謂佛國的布置、佛國的布置，是因為如來說那些布置並不是布置。」 / 「所以才稱為佛國的布置。」
+7. **"Is not X", never "there is no X".** Where the sutra says "X is itself non-X" or "the Tathāgata spoke of it as non-X", always write 並不是X, never 沒有X or X不存在: 沒有想法 sounds like "thinking nothing at all", 不存在 like "the thing does not exist". Example (8-12): 「所謂真實的想法，其實並不是想法。」 Use 沒有 only where the Tibetan really describes a state of not having, e.g. (6-22) 「他們也不會掉進『沒有想法』裡。」
+8. **Fixed wordings.** 「須菩提！」 and 「為什麼呢？」, identical every time (see section 3).
+9. **Mantras are neither translated nor transliterated:** write 咒語, as the termbase does.
+10. **Chinese only.** Numbers in Chinese characters (三十二相, 十億個世界); no Sanskrit, Tibetan or Latin letters, no bracketed source words.
+
+### Design notes (section 4)
+
+- **Lock changes behind rule 7 (user, 2026-10-24):** T169 neither-nor → 既不是有想法、也不是沒有想法的; T116 འདུ་ཤེས་མེད་པ split by sense: 6-22 (a state) keeps 沒有想法, 8-43 (paradox) → 不是想法; T212 (8-12) → 不是想法. Recorded in `overrides.json`; the T116 split is a hand edit there (`decisions`), because `gemini_review.py` overrides cannot express a sense split. Academic renderings unchanged (無想).
+- **Rule 7 also covers 12-22 and 7-37,** where no lock forces 沒有X: v1 wrote 「如來說這就是沒有想法」 (12-22) and 「如來說這些布置並不存在」 (7-37).
+- **4-1:** the added 「還是沒有想法」 (and the academic 「或無想」) came from a lock nested inside the neither-nor term (T168 inside T169). The nested-lock fix of 2026-10-24 removed it; the Tibetan list has no separate "without perception" item.
+- **Paradox wording (rule 6): the academic frame, decided by the user (2026-10-24)** so the meaning cannot drift; it replaces the earlier 「大家說的X…」. Only X changes (children's locked rendering). The paradox is the one place where the children's version deliberately keeps the academic wording; rule 6 says so, so the general "plain words" rules in sections 1 and 3 do not pull it toward simpler phrasing. Rule 7 now uses 並不是X, matching part 2 of the frame. The 7-37/7-38 example is built from the academic example with the children's locks (佛國的布置, 布置).
+- **布置 (rule 1):** T049 changed to 佛國的布置 (user, 2026-10-24), so 7-36–7-38 and 8-115–8-117 use one spelling.
+- **Rule 5, quotation levels:** the termbase patterns contain 「」 (有「我」的想法). Inside speech they become 『』, and one level deeper 「」 again. The compliance check ignores quotation marks, so either form passes.
